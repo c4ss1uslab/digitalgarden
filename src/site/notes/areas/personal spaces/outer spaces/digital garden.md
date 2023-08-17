@@ -3,48 +3,44 @@
 ---
 
 
-#concept
+# 🌌 consciousness development / spirituality
 
----
+# 🎨 art / creative development
 
-# 🌌 [[consciousness development\|consciousness development]] / [[spirituality\|spirituality]]
+# 🎞 knowledge / media
+# 📕 learning / professional development
 
-#### 🎨 [[tbprocessed/base notes/concepts - general/art\|art]] / [[creative development\|creative development]]
+# 🤖 technology / tools
 
-#### 🎞 [[knowledge\|knowledge]] / [[media\|media]]
+### [[tbprocessed/base notes/topics/knowledge management\|PKM]]
 
-#### 📕 [[learning\|learning]] / [[professional development\|professional development]]
+### [[no-code\|no-code]]
 
-#### 🤖 [[technology\|technology]] / [[tools\|tools]]
+### [[AI-assisted coding\|AI-assisted coding]]
 
-###### [[tbprocessed/base notes/topics/knowledge management\|PKM]]
+# 🛠 work / organizations
 
-[[no-code\|no-code]]
+### [[DAOs\|DAOs]]
+### [[volunteering\|volunteering]] & [[work exchanges\|work exchanges]]
 
-[[AI-assisted coding\|AI-assisted coding]]
+### [[apprenticeships\|apprenticeships]], [[incubators\|incubators]], [[accelerators\|accelerators]]
 
-#### 🛠 [[work\|work]] / [[organizations\|organizations]]
+### [[fellowships\|fellowships]], [[grants\|grants]] & [[partnerships\|partnerships]]
 
-[[volunteering\|volunteering]] & [[work exchanges\|work exchanges]]
+### [[coaching\|coaching]]
 
-[[apprenticeships\|apprenticeships]], [[incubators\|incubators]], [[accelerators\|accelerators]]
+# 🎮 play / games
 
-[[fellowships\|fellowships]], [[grants\|grants]] & [[partnerships\|partnerships]]
+# 🌐 systems / infrastructure
 
-###### [[coaching\|coaching]]
+### 🏡 [[physical environments\|physical environments]] / [[digital environments\|digital environments]]
 
-#### 🎮 [[play\|play]] / [[games\|games]]
+### 🎎 [[relationships\|relationships]] / [[communities\|communities]]
 
-#### 🏡 [[physical environments\|physical environments]] / [[digital environments\|digital environments]]
+###### self-management systems
 
-#### 🎎 [[relationships\|relationships]] / [[communities\|communities]]
+new economies
 
-#### 🌐 [[systems\|systems]] / [[infrastructure\|infrastructure]]
+decentralized systems
 
-###### [[self-management systems\|self-management systems]]
-
-###### [[new economies\|new economies]]
-
-###### [[decentralized systems\|decentralized systems]]
-
-###### [[regenerative systems\|regenerative systems]]
+[[regenerative systems\|regenerative systems]]
