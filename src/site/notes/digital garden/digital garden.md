@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/digital-garden/digital-garden/","tags":["gardenEntry"]}
 ---
 
-
 # 🌌 consciousness development / spirituality
 
 # 🎨 art / creative development
