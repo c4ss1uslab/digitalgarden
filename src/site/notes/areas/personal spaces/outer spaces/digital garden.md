@@ -7,8 +7,12 @@
 
 # 🎨 art / creative development
 
+
 # 🎞 knowledge / media
+
+
 # 📕 learning / professional development
+
 
 # 🤖 technology / tools
 
@@ -31,9 +35,12 @@
 
 # 🎮 play / games
 
+
 # 🌐 systems / infrastructure
 
+
 ### 🏡 [[physical environments\|physical environments]] / [[digital environments\|digital environments]]
+
 
 ### 🎎 [[relationships\|relationships]] / [[communities\|communities]]
 
