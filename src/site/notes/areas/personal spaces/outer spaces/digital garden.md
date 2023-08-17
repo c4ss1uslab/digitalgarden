@@ -7,7 +7,7 @@
 
 ---
 
-#### 🌌 [[consciousness development\|consciousness development]] / [[spirituality\|spirituality]]
+# 🌌 [[consciousness development\|consciousness development]] / [[spirituality\|spirituality]]
 
 #### 🎨 [[tbprocessed/base notes/concepts - general/art\|art]] / [[creative development\|creative development]]
 
