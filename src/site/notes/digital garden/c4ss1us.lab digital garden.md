@@ -21,16 +21,20 @@ choose your path below!
 
 [img] (consciousness, art, technology, regeneration, games)
 
+my research intends to provide multiple, rich perspectives on the inquiries:
+
 - how can we create art, technology and games in service of consciousness development and ecosystems regeneration?
 - how can life be more like a game?
-	 but not any kind of game. a game that's fun, collaborative, challenging, meaningful and fulfilling. a game that challenges and supports us to develop ourselves, unfold our essence, and share our gifts with others.
+	 -> but not any kind of game. a game that's fun, collaborative, challenging, meaningful and fulfilling. a game that challenges and supports us to develop ourselves, unfold our essence, and share our gifts with others.
 - how can we create systems and structures to support life on earth?
 
-my research started way back in 2015, with my first startling realization about life and the world we live in:
+it started way back in 2015, with my first startling realization about life and the world we live in:
 
-my own life is my biggest, most important project. yet, the tools i have to help me play a game (such as interfaces, maps, dashboards, cheatsheets, wikis, etc) or managing my characters in a game (inventory, skill/talent trees, missions, achievements, challenges, etc) are much better than the tools i have for managing my own real life.
+**my own life is my biggest, most important project.**
 
-*wtf is going on here?*
+yet, the tools i have to help me play a game (such as interfaces, maps, dashboards, cheatsheets, wikis, etc) or managing my characters in a game (inventory, skill/talent trees, missions, achievements, challenges, etc) are much better than the tools i have for managing my own real life.
+
+~*wtf is going on here?*~
 
 as you might have noticed now, i grew up playing games, but maybe even if you didn't, you might still relate to the experience of transitioning into adulthood and feeling an utterless lack of fun in the "real job market", or even, in modern life in general.
 
@@ -38,9 +42,14 @@ much like games themselves, i started noticing that playing our well-established
 
 not only fun, the "normal adult life" lacked a soul. and i was on a mission to understand why.
 
-this brought me many more questions, such as: what games do i actually want to play in my life? why isn't life more like a game? or, why isn't there a game of life yet? if this game of life existed, what would it really look like? and what would it take for it to be built?
+this investigation brought me many more questions, such as:
 
-how is life already a game? what perspectives and instances of the "life game" are there? how are people already playing life and how might they play it in ways that are more conscious, effective, efficient, fulfilling? are these even good, useful perspectives to measure and analyze life?
+- what games do i actually want to play in my life?
+- why isn't life more like a game? or, why isn't there a game of life yet?
+- if this game of life existed, what would it really look like? or what would it take for it to be built?
+- how is life already a game?
+- what perspectives and instances of the "life game" are there?
+- how are people already playing life and how might we play it in ways that are more conscious, effective, efficient, fulfilling? are these even good, useful perspectives to measure and analyze life?
 
 throughout the past 8 years, these inquiries led me down many paths of discovery and self-transformation. the answers are much more complex, while at the same time, they can be simple. one of the big challenges is to actually make sense of so much divergent information, experiences and perspectives.
 
