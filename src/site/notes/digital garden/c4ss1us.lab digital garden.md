@@ -3,39 +3,68 @@
 ---
 
 
-## welcome! what should you expect?
+## welcome to my digital garden! 🌷
+###### what should you expect from this page?
 
-this is my digital garden - a space in which i write, tend to and share my lab notes. i.e. the notes i use daily to manage my research, projects and life as whole.
+this is an always-in-development (living) space in which i plant, tend to and share my "lab notes" 🧪. i.e. the notes i use to manage and share about my research, projects and life as whole.
 
-there are two ways you can navigate this:
+the notes here are both for display and also for personal use.
 
-1) through a structured, organized, narrative lens, which is how i've written my foundational essays
-2) through a loose, experimental, exploratory navigation, which is how the notes exist in this space
+there are two ways you can navigate this space:
 
-## research consolidation
+1) 🗺 a structured, organized, narrative way, in which i share the foundational concepts, references, tools and discoveries of my research/learning/work.
+2) 🕸 a loose, experimental, self-directed navigation on a topic-based index of notes, which is how the notes are planted in this space.
 
-if you grew up playing games (or maybe even if you didn't), as you transitioned into adulthood you might have faced the utterless lack of fun of the "job market", or even, of modern life in general.
+choose your path below!
 
-much like games themselves, playing our societal games can be enlivening or numbing. they can inspire, help us learn and evolve, or disconnect us from ourselves, others and reality itself, falling prey to our own automatic, unconscious behaviors.
+## 1) my research - structured way
 
-you might have asked - what games do i actually want to play in my life? why isn't life more like a game? or, why isn't there a game of life yet?
+[img] (consciousness, art, technology, regeneration, games)
 
-these inquiries were my starting point, back in 2015. and it led me down many paths of discovery and self-transformation. this collection of essays is my attempt to consolidate the results of this research and provide some directions to the question:
+- how can we create art, technology and games in service of consciousness development and ecosystems regeneration?
+- how can life be more like a game?
+	 but not any kind of game. a game that's fun, collaborative, challenging, meaningful and fulfilling. a game that challenges and supports us to develop ourselves, unfold our essence, and share our gifts with others.
+- how can we create systems and structures to support life on earth?
 
-| how can we create more fulfilling and meaningful lives in our present day and age?
-### essays
+my research started way back in 2015, with my first startling realization about life and the world we live in:
+
+my own life is my biggest, most important project. yet, the tools i have to help me play a game (such as interfaces, maps, dashboards, cheatsheets, wikis, etc) or managing my characters in a game (inventory, skill/talent trees, missions, achievements, challenges, etc) are much better than the tools i have for managing my own real life.
+
+*wtf is going on here?*
+
+as you might have noticed now, i grew up playing games, but maybe even if you didn't, you might still relate to the experience of transitioning into adulthood and feeling an utterless lack of fun in the "real job market", or even, in modern life in general.
+
+much like games themselves, i started noticing that playing our well-established societal games can be enlivening or numbing. they can inspire, help us learn and evolve, or disconnect us from ourselves, others and reality itself, making us fall prey to our own automatic, unconscious detrimental behaviors.
+
+not only fun, the "normal adult life" lacked a soul. and i was on a mission to understand why.
+
+this brought me many more questions, such as: what games do i actually want to play in my life? why isn't life more like a game? or, why isn't there a game of life yet? if this game of life existed, what would it really look like? and what would it take for it to be built?
+
+how is life already a game? what perspectives and instances of the "life game" are there? how are people already playing life and how might they play it in ways that are more conscious, effective, efficient, fulfilling? are these even good, useful perspectives to measure and analyze life?
+
+throughout the past 8 years, these inquiries led me down many paths of discovery and self-transformation. the answers are much more complex, while at the same time, they can be simple. one of the big challenges is to actually make sense of so much divergent information, experiences and perspectives.
+
+this collection of essays is my attempt to consolidate the results of this research and provide some possible directions to these and other important questions, such as:
+
+- how can we create more fulfilling and meaningful lives in our present day and age?
+- how can we recognize ourselves and our role in the whole of reality and this world?
+- how can we address the profound meaning, existential & wisdom crises we're going through?
+- how can we address the profound health, education and commons crises we're going through?
+- how can we address the spiritual, psychological, ecological, economic, crises we're going through?
+
+below i introduce several key concepts, challenges, references, projects and prototypes i found or created, in a narrative, structured way.
+### core essays
 🌲 [[my thesis - thriving in the metacrisis by transforming life into a metagame\|my thesis - thriving in the metacrisis by transforming life into a metagame]]
 🌿 [[design specs & constraints for enabling minimum viable vocational economies\|design specs & constraints for enabling minimum viable vocational economies]]
 🌲 [[foundational concepts for developing regenerative information ecologies & empowering knowledge commons\|foundational concepts for developing regenerative information ecologies & empowering knowledge commons]]
 🌿 [[life as play & ontological design as a revolutionary practice\|life as play & ontological design as a revolutionary practice]]
-🌱 [[the rise of lo-fi/ambient content and the evolution of the creator, curation & experience economies\|the rise of lo-fi/ambient content and the evolution of the creator, curation & experience economies]]
+🌱 [[the rise of lo-fi;ambient content and the evolution of the creator, curation & experience economies\|the rise of lo-fi;ambient content and the evolution of the creator, curation & experience economies]]
 
-note: these articles are still under construction/revision, and the emojis represent their level of maturity.
-🌲 = evergreen | 🌿 = budding | 🌱 = seedling
+note: these articles are still under construction/revision, and the emojis represent their level of maturity — 🌲 *evergreen* | 🌿 *budding* | 🌱 *seedling*.
 
-in the above, i introduce several concepts, challenges, references, projects and prototypes in a narrative, structured way.
+## 2) notes breakdown
 
-alternatively, if you want to explore these topics on your own, you can see below a high-level skeleton of the main projects, prototypes and references i've been working with. some of these will be more structured pages, others will be links to resources, others are still blank. explore according to your own judgment! 🙃
+alternatively, if you want to explore these topics on your own, you can see below a high-level skeleton of the main projects, prototypes and references i've been working with. some of these will be more structured pages, others will be links to resources, others are still blank. follow your own judgment! 🙃
 
 on the contents below, the emojis mean different things. here's their caption:
 
@@ -54,8 +83,6 @@ want to help me continue developing these projects and publishing this kind of c
 
 #### where am i? / what is this page?
 
-this is my version of a digital garden. it's a space where i share both the core essays that introduce the fundamental aspects of my research, as well as a access to the web of notes that i use daily to manage my research, projects and life as whole.
-
 "a digital garden is something inbetween a personal blog and a wiki. it's a collection of evolving notes, essays, and ideas that aren't strictly organised by their publication date. they're inherently exploratory – posts are linked through contextual associations (bi-directional links). they aren't refined or complete - posts can be published as half-finished thoughts that will grow and evolve over time. they're less rigid, less performative, and less perfect than the personal "blogs" we're used to encountering on the web."
 
 if you want to know more, you can check out maggie appleton's amazing content for [a brief history & ethos of the digital garden](https://maggieappleton.com/garden-history) and [an extensive list of digital gardening tools and gardeners](https://github.com/MaggieAppleton/digital-gardeners).
@@ -67,10 +94,6 @@ the structure i use for this garden is very simple. there are [[_000_MOCs/035 �
 keep in mind, the notes on display here are my lab notes. they're meant for personal use first, not display. most notes will be unfinished, poorly formatted and not polished, but they're still relevant/interesting enough that i choose to share them. :)
 
 if you want to see my more refined content, you can check my outputs like my [newsletter](https://c4ss1us.substack.com/), [instagram](https://www.instagram.com/c4ss1us.l1f3/), [twitter](https://twitter.com/c4ss1usl1f3) (now X), and [youtube channel](https://www.youtube.com/@c4ss1usl1f3). this is a behind-the-scenes view into my world and second brain.
-
-#### how do I navigate this vault?
-
-follow your curiosity. i use indexes such as the maps of content (MOCs), but you can also explore notes by hopping between links.
 
 #### how do I make my own garden?
 
