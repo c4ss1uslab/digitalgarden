@@ -5,12 +5,14 @@
 
 ## welcome to my digital garden! 🌷
 
-![garden.jpeg|700](/img/user/garden.jpeg)
-###### what should you expect from this page?
+![garden.jpeg|500](/img/user/garden.jpeg)
+*ps: in case you arrived here but don't know who i am, you can find [an introduction to my life, self and work here](https://c4ss1us.notion.site/c4ss1us/c4ss1us-hello-WIP-71130006ff1c42f69a32b7a46808a290).*
+
+###### ❔ what should you expect from this page?
 
 this is an always-in-development (living) space in which i plant, tend to and share my "lab notes" 🧪. i.e. the notes i use to manage and share about my research, projects and life as whole.
 
-the notes here are both for display and also for personal use.
+*notes have 3 growth stages:* 🌱 seedling, 🌿 budding and 🌲 evergreen.
 
 there are two ways you can navigate this space (coming soon!):
 
@@ -65,13 +67,13 @@ this collection of essays is my attempt to consolidate the results of this resea
 
 below i introduce several key concepts, challenges, references, projects and prototypes i found or created, in a narrative, structured way.
 ### core essays
-🌲 [[my thesis - thriving in the metacrisis by transforming life into a metagame\|my thesis - thriving in the metacrisis by transforming life into a metagame]]
+🌲 [[my thesis - thriving in the metacrisis with the help of life support systems, networks and games\|my thesis - thriving in the metacrisis with the help of life support systems, networks and games]]
 🌿 [[design specs & constraints for enabling minimum viable vocational economies\|design specs & constraints for enabling minimum viable vocational economies]]
 🌲 [[foundational concepts for developing regenerative information ecologies & empowering knowledge commons\|foundational concepts for developing regenerative information ecologies & empowering knowledge commons]]
 🌿 [[life as play & ontological design as a revolutionary practice\|life as play & ontological design as a revolutionary practice]]
 🌱 [[the rise of lo-fi;ambient content and the evolution of the creator, curation & experience economies\|the rise of lo-fi;ambient content and the evolution of the creator, curation & experience economies]]
 
-note: these articles are still under construction/revision, and the emojis represent their level of maturity — 🌲 *evergreen* | 🌿 *budding* | 🌱 *seedling*.
+note: these articles are still under construction/revision, and the emojis represent their growth stage.
 
 ## 2) notes breakdown
 
