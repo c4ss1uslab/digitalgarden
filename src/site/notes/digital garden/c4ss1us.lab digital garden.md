@@ -4,13 +4,15 @@
 
 
 ## welcome to my digital garden! 🌷
+
+![garden.jpeg|700](/img/user/garden.jpeg)
 ###### what should you expect from this page?
 
 this is an always-in-development (living) space in which i plant, tend to and share my "lab notes" 🧪. i.e. the notes i use to manage and share about my research, projects and life as whole.
 
 the notes here are both for display and also for personal use.
 
-there are two ways you can navigate this space:
+there are two ways you can navigate this space (coming soon!):
 
 1) 🗺 a structured, organized, narrative way, in which i share the foundational concepts, references, tools and discoveries of my research/learning/work.
 2) 🕸 a loose, experimental, self-directed navigation on a topic-based index of notes, which is how the notes are planted in this space.
@@ -21,7 +23,7 @@ choose your path below!
 
 [img] (consciousness, art, technology, regeneration, games)
 
-my research intends to provide multiple, rich perspectives on the inquiries:
+my research intends to address the inquiries:
 
 - how can we create art, technology and games in service of consciousness development and ecosystems regeneration?
 - how can life be more like a game?
@@ -77,14 +79,7 @@ alternatively, if you want to explore these topics on your own, you can see belo
 
 on the contents below, the emojis mean different things. here's their caption:
 
-[[_000_MOCs/035 🗺 topics MOC#^d72ac5\|035 🗺 topics MOC#^d72ac5]]
-
-
-want to help me continue developing these projects and publishing this kind of content? consider supporting me on ko-fi!
-
-[<img style="float:left" src="https://user-images.githubusercontent.com/14358394/115450238-f39e8100-a21b-11eb-89d0-fa4b82cdbce8.png" width="200">](https://ko-fi.com/c4ss1us)
-
-
+[[_000_MOCs/030 🗺 topics MOC#^d72ac5\|030 🗺 topics MOC#^d72ac5]]
 
 ---
 
@@ -98,7 +93,7 @@ if you want to know more, you can check out maggie appleton's amazing content fo
 
 a digital garden can also be seen as part of someone's [[second brain\|second brain]], or a layer beyond it, a "[[areas/personal spaces/outer spaces/third brain\|third brain]]", so to say.
 
-the structure i use for this garden is very simple. there are [[_000_MOCs/035 🗺 topics MOC\|topics]] and [[growth stages\|growth stages]].
+the structure i use for this garden is very simple. there are [[_000_MOCs/030 🗺 topics MOC\|topics]] and [[growth stages\|growth stages]].
 
 keep in mind, the notes on display here are my lab notes. they're meant for personal use first, not display. most notes will be unfinished, poorly formatted and not polished, but they're still relevant/interesting enough that i choose to share them. :)
 
@@ -113,53 +108,3 @@ to host my notes, i use the [obsidian digital garden plugin](https://dg-docs.ol
 #### how can i be in the loop for new content and updates on these projects?
 
 the way you can be more 'in the know' is to join a whatsapp group i've created, in which i only occasionally share updates, to a small group of friends. i'm leaving it open for new co-conspirators as well right now, as a way to approximate our relationship if you're really interested in these topics.
-
-# 🌌 consciousness development / spirituality
-
-
-# 🎨 art / creative development
-
-
-# 🎞 knowledge / media
-
-
-# 📕 learning / professional development
-
-
-# 🤖 technology / tools
-
-### [[tbprocessed/base notes/topics/knowledge management\|PKM]]
-
-### [[no-code\|no-code]]
-
-### [[AI-assisted coding\|AI-assisted coding]]
-
-# 🛠 work / organizations
-
-### [[DAOs\|DAOs]]
-### [[volunteering\|volunteering]] & [[work exchanges\|work exchanges]]
-
-### [[apprenticeships\|apprenticeships]], [[incubators\|incubators]], [[accelerators\|accelerators]]
-
-### [[fellowships\|fellowships]], [[grants\|grants]] & [[partnerships\|partnerships]]
-
-### [[coaching\|coaching]]
-
-# 🎮 play / games
-
-
-# 🌐 systems / infrastructure
-
-
-### 🏡 [[physical environments\|physical environments]] / [[digital environments\|digital environments]]
-
-.
-### 🎎 [[relationships\|relationships]] / [[communities\|communities]]
-
-###### self-management systems
-
-new economies
-
-decentralized systems
-
-[[regenerative systems\|regenerative systems]]
