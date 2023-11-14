@@ -6,7 +6,7 @@
 ## welcome to my digital garden! 🌷
 
 ![garden.jpeg|650](/img/user/garden.jpeg)
-*ps: in case you arrived here but don't know who i am, you can find [an introduction to my life, self and work here](https://c4ss1us.notion.site/c4ss1us/c4ss1us-hello-WIP-71130006ff1c42f69a32b7a46808a290).*
+*ps: in case you arrived here but don't know who i am, you can find [👨🏻‍🎤 an introduction to my life, self and work here](https://c4ss1us.notion.site/c4ss1us/c4ss1us-hello-WIP-71130006ff1c42f69a32b7a46808a290).*
 
 ###### ❔ what should you expect from this page?
 
@@ -74,6 +74,12 @@ below i introduce several key concepts, challenges, references, projects and pro
 🌱 [[the rise of lo-fi;ambient content and the evolution of the creator, curation & experience economies\|the rise of lo-fi;ambient content and the evolution of the creator, curation & experience economies]]
 
 note: these articles are still under construction/revision, and the emojis represent their growth stage.
+
+if you're not familiar with the concept of the [[metacrisis\|metacrisis]] (it's a term coined by a certain corner of the internet, sometimes called the "[[sensemaking web\|sensemaking web]]", heavily informed by the studies of [[wisdom traditions\|wisdom traditions]], [[transpersonal psychology\|transpersonal psychology]], [[integral theory\|integral theory]], [[metamodernism\|metamodernism]], [[systems\|systems]]/[[complexity science\|complexity science]] and a few other fields). other adjacent terms and communities you might be familiar with are: the [[polycrisis\|polycrisis]] (coined by the world economic forum), the [[regenerative movement\|regenerative movement]], the [[human potential movement\|human potential movement]], [[effective altruism\|effective altruism]], mindfulness?, [...]...
+
+although i'm well aware that the '[[metacrisis\|metacrisis]]' is not a sexy/enticing term, it's through it that i found the most profoundly meaningful and cohesive analyses of our current situation, both as individuals and as members of the human civilization/society at our time and age.
+
+and there's value in "diagnosing" that, as "a problem well-stated is half solved".
 
 ## 2) notes breakdown
 
