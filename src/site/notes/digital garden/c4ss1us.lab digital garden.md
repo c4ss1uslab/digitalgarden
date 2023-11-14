@@ -5,7 +5,7 @@
 
 ## welcome to my digital garden! 🌷
 
-![garden.jpeg|500](/img/user/garden.jpeg)
+![garden.jpeg|650](/img/user/garden.jpeg)
 *ps: in case you arrived here but don't know who i am, you can find [an introduction to my life, self and work here](https://c4ss1us.notion.site/c4ss1us/c4ss1us-hello-WIP-71130006ff1c42f69a32b7a46808a290).*
 
 ###### ❔ what should you expect from this page?
