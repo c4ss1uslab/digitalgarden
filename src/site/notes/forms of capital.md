@@ -6,7 +6,7 @@
 
 8 forms of capital - green pill book:
 
-![Pasted image 20231113155247.png](/img/user/Pasted%20image%2020231113155247.png)
+![8 forms of capital - owocki green pill book.png](/img/user/8%20forms%20of%20capital%20-%20owocki%20green%20pill%20book.png)
 
 8 forms of capital + currency - ethan roland & gregory landua:
 
@@ -34,7 +34,7 @@
 - [[emotional well-being\|emotional well-being]] / [[emotional resilience capital\|emotional resilience capital]] / [[emotional value\|emotional value]]
 - [[pleasure capital\|pleasure capital]]
 
-references:
+source:
 http://www.appleseedpermaculture.com/8-forms-of-capital/
 https://greenpill.network/pdf/green-pill.pdf
 https://web.archive.org/web/20230331131636/https://www.kailomentoringgroup.com/12-forms-of-capital
