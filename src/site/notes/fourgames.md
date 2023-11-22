@@ -2,6 +2,12 @@
 {"dg-publish":true,"permalink":"/fourgames/"}
 ---
 
+good intro video: https://www.youtube.com/watch?v=Tv7mUMDfW6c
+
+more on: https://twitter.com/jamiecombs
+
+**images/models:**
+
 ![fourgames breakdown.jpeg](/img/user/fourgames%20breakdown.jpeg)
 
 ![fourgames simple overview.jpeg](/img/user/fourgames%20simple%20overview.jpeg)
@@ -12,3 +18,4 @@
 
 ![wt4gf.png](/img/user/wt4gf.png)
 ![fourgames dynamics.png](/img/user/fourgames%20dynamics.png)
+![fourgames full breakdown.jpeg|800](/img/user/fourgames%20full%20breakdown.jpeg)
