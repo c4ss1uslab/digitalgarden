@@ -102,37 +102,38 @@ i honestly don't recommend going through the whole thing, unless you have time t
 
 ###### 4) lastly, other types of common maps:
 
-1 - topical / field maps:
+1 - [[topical maps\|topical maps]] / [[field maps\|field maps]]:
 
 ![life itself research hackathon topical map.jpeg|500](/img/user/life%20itself%20research%20hackathon%20topical%20map.jpeg)
 
 ![map of computer science.png|500](/img/user/map%20of%20computer%20science.png)
 
-2 - ecosystem/reference maps:
+2 - [[ecosystem maps\|ecosystem maps]]:
 
 <iframe src="https://embed.kumu.io/93dd947d40c4523b2969847bfd7564b3" width="940" height="600" frameborder="0"></iframe>
 
 ![liminal web map.png|500](/img/user/liminal%20web%20map.png)
 
-3 - concept maps (a.k.a. mental models/frameworks):
+3 - [[concept maps\|concept maps]] (a.k.a. [[mental models\|mental models]]/[[frameworks\|frameworks]]):
 --> proposes a model that describes how something works or can work.
 
 [[possibility management\|possibility management]]'s [thoughtmaps](https://pmthoughtmaps.mystrikingly.com/)
 
 ![social layers.png|500](/img/user/social%20layers.png)
 
-4 - general knowledge/relationship maps:
+4 - [[general knowledge maps\|general knowledge maps]] / [[relationship maps\|relationship maps]]:
 
 ![xiq - knowledge map.png|500](/img/user/xiq%20-%20knowledge%20map.png)
 
 ---
+##### other interesting perspectives on mapping:
 
-other interesting perspectives on mapping:
+[[aaron z lewis\|aaron z lewis]] on twitter:
 
-aaron z lewis on twitter:
-https://twitter.com/aaronzlewis/status/1369503364300611587
+![](https://twitter.com/aaronzlewis/status/1369503364300611587)
 
-⚠ missing: good curation on network science + examples/applications.
+
+⚠ i'm still missing: good curation on network science + examples/applications.
 
 ---
 ##### list of internet mapping projects:
