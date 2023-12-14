@@ -25,15 +25,17 @@ choose your path below!
 ## 1) my research - structured way
 
 ![research overview 1.png|700](/img/user/research%20overview%201.png)
+(*clickable soon!* for now, you'll find an index)
 
 my research intends to address the inquiries:
 
-**1) how can we create art, technology and games in service of consciousness development and ecosystems regeneration?**
+> **1) how can we create art, technology and games in service of consciousness development and ecosystems regeneration?**
 
 *a.k.a. how can we develop systems and structures to support life on earth?*
 
-**2) how can we transform life into a game?**
-	 -> not any kind of game. a game that's deeply fun, collaborative, challenging, meaningful and fulfilling. a game that honors the beauty and mystery of life, that challenges and supports us to discover ourselves, develop our potential, and share our gifts with others.
+> **2) how can we transform life into a game?**
+
+*but not any kind of game.* a game that's deeply fun, collaborative, challenging, meaningful and fulfilling. a game that honors the beauty and mystery of life, that challenges and supports us to discover ourselves, develop our potential, and share our gifts with others.
 
 this investigation started back in 2015, with my first startling realization about life and the world we live in:
 
@@ -71,10 +73,12 @@ this collection of essays is my attempt to consolidate the results of this resea
 below i introduce several key concepts, challenges, references, projects and prototypes i found or created, in a narrative, structured way.
 ### core essays
 1) 🌿 [[my thesis - thriving in the metacrisis with the help of life support systems, networks and games\|my thesis - thriving in the metacrisis with the help of life support systems, networks and games]]
-2) 🌿 [[foundational concepts for developing regenerative information ecologies & empowering knowledge commons\|foundational concepts for developing regenerative information ecologies & empowering knowledge commons]]
-3) 🌱 [[design specs & constraints for enabling minimum viable vocational economies\|design specs & constraints for enabling minimum viable vocational economies]]
-4) 🌿 [[life as play, collaborative life wisdom & ontological design as a revolutionary practice\|life as play, collaborative life wisdom & ontological design as a revolutionary practice]]
-5) 🌿 [[writings/energy management, context design, the rise of lo-fi;ambient content, third spaces and the future of the creator economy\|energy management, context design, the rise of lo-fi;ambient content, third spaces and the future of the creator economy]]
+2) 🌱 - [[self design as a system, encoded philosophy, integral spirituality and conscious life operating systems\|self design as a system, encoded philosophy, integral spirituality and conscious life operating systems]]
+3) 🌿 [[foundational concepts for developing regenerative information ecologies & empowering knowledge commons\|foundational concepts for developing regenerative information ecologies & empowering knowledge commons]]
+4) 🌱 [[design specs & constraints for enabling minimum viable vocational economies\|design specs & constraints for enabling minimum viable vocational economies]]
+5) 🌿 [[life as play, collaborative life wisdom & ontological design as a revolutionary practice\|life as play, collaborative life wisdom & ontological design as a revolutionary practice]] 
+6) 🌿 [[writings/energy management, context design, the rise of lo-fi;ambient content, third spaces and the future of the creator economy\|energy management, context design, the rise of lo-fi;ambient content, third spaces and the future of the creator economy]]
+7) 🌱 [[an introduction to L1F3 operating, management, playing and streaming systems\|an introduction to L1F3 operating, management, playing and streaming systems]]
 
 note: these articles are still under construction/revision. the emojis represent their growth stage.
 
