@@ -4,9 +4,11 @@
 
 **context:**
 
-when the pandemics struck, i was already on my 11th month isolated from the world. i was spending 99% of this time alone, in my room, leaving once a week only to buy food, while i was undergoing some deep emotional healing processes, reading, meditating, researching, learning about myself and the world, and rediscovering what moved me.
+my experience of the COVID-19 pandemics was 1 year longer than everyone else. when it struck, i was already on my 11th month isolated from the world.
 
-so essentially, my "personal pandemics" was 1 year longer than everyone else. and this time (total of 3 years in physical isolation) made reflect and research a lot on the themes of belonging, the internet, community building and memetic tribes, especially related to the state and the potential of our information ecology and online communities.
+i was going through some deep emotional healing processes, and found that my only way to cope was to read, meditate, research and ritualize. essentially, for ~3 years, i spent 95% of my time alone, in my room, learning about myself and the world, and rediscovering what moved me.
+
+and this time in physical isolation made reflect and research a lot on the themes of [[belonging\|belonging]], the [[internet\|internet]], [[community building\|community building]] and [[memetic tribes\|memetic tribes]], especially related to the state and the potential of our [[information ecology\|information ecology]] and [[online communities\|online communities]].
 
 in 2023, my life has been pretty much the opposite. going to ecovillages, farms, slums, courses, retreats and all sorts of cultural, local community events in são paulo, brazil.
 
