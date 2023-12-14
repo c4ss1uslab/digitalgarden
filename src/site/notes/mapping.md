@@ -208,20 +208,37 @@ https://github.com/orgs/life-itself/discussions/391
 
 ---
 ##### themes/topics, perspectives/arguments, memes mapping
-refs: [[golden\|golden]], [[the society library\|the society library]], [[ideamarket\|ideamarket]], [[metaculus\|metaculus]], [[open knowledge maps\|open knowledge maps]], [[mapsmap hackathon\|mapsmap hackathon]], [[the consilience project\|the consilience project]], [[kialo\|kialo]], [[nikiv.dev\|nikiv.dev]]...
+refs: [[the society library\|the society library]], [[golden\|golden]], [[metaculus\|metaculus]], [[ideamarket\|ideamarket]], [[open knowledge maps\|open knowledge maps]], [[mapsmap hackathon\|mapsmap hackathon]], [[the consilience project\|the consilience project]], [[kialo\|kialo]], [[nikiv.dev\|nikiv.dev]]...
 
 CEP+R
 [[github resource lists\|github resource lists]]
 etc...
 
 ---
-##### collective knowledge management / user-owned social media initiatives:
+ 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
+
+
+
+###### main references:
 - [[sublime (ex-startupy)\|sublime (ex-startupy)]]
 - [[melon\|melon]]
 - [[weco\|weco]]
 - [[tbprocessed/base notes/ventures - general/hylo\|hylo]]
 - [[neighbourhoods\|neighbourhoods]]
+
+###### other orgs building tools:
+- [[the computational democracy project\|the computational democracy project]]
+- [[goodly labs\|goodly labs]]
+
+###### decentralized social media initiatives:
+- [[mastodon\|mastodon]]
+- [[bluesky\|bluesky]]
+- [[discourse\|discourse]]
+- [[matrix\|matrix]]
+
+</div></div>
 
 ---
 ##### fine-tuned LLMs:
