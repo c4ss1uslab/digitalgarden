@@ -107,7 +107,7 @@ level of depth:
 	💡 [[twitter map\|twitter map]]
 	💫 [[mapping videos\|mapping videos]]
 	💫 [[map-making workflow (excalidraw)\|map-making workflow (excalidraw)]]
-	💫 [[ideaverse\|ideaverse]] / [[research visualization world\|research visualization world]] / [[digital garden/c4ss1us.lab digital garden\|c4ss1us.lab digital garden]] evolution into a [[3d\|3d]]/artistic [[3rd brain\|3rd brain]]
+	💫 [[ideaverse\|ideaverse]] / [[research visualization world\|research visualization world]] / [[writings/c4ss1us.lab digital garden\|c4ss1us.lab digital garden]] evolution into a [[3d\|3d]]/artistic [[3rd brain\|3rd brain]]
 🌱 [[data management\|data management]]
 	🔥 [[tbprocessed/base notes/ventures - general/holochain\|holochain]]
 	🔥 [[synapsis\|synapsis]]
@@ -133,7 +133,7 @@ level of depth:
 💩 [[video editing\|video editing]]
 	📂 [favorite content creation references playlist](https://www.youtube.com/playlist?list=PLj8H7uBaUwDvqFBle8ziVnKGzL4KFk5di)
 
-**🎮 [[c4ss1us.player\|c4ss1us.player]]**
+#### 🎮 [[c4ss1us.player\|c4ss1us.player]]
 ##### 🎮 [[play\|play]]
 🌲 [[life gaming\|life gaming]]
 	🧰 [[l1f3 player system\|l1f3 player system]]
@@ -191,7 +191,7 @@ level of depth:
 	🔥 [[tbprocessed/base notes/ventures - general/fluxonomia 4d\|fluxonomia 4d]]
 	🔥 [[metacurrency\|metacurrency]] / [[forms of capital\|12 forms of capital]]
 
-**[[c4ss.music\|🎶 c4ss.music]]**
+#### [[c4ss.music\|🎶 c4ss.music]]
 
 🌱 [[music playing\|music playing]]
 	🌱 [[body music\|body music]]
@@ -217,7 +217,7 @@ level of depth:
 	💩 [[tea\|tea]]
 	💩 [[mushrooms\|mushrooms]]
 
-#### [[c4ss1us.AI\|🤖 c4ss1us.AI]]
+#### [[c4ss1us.AI\|🤖 c4ss1us.ai]]
 
 🌿 [[AI prototypes\|AI prototypes]]
 	🧪 [[AI assistant\|AI assistant]]
