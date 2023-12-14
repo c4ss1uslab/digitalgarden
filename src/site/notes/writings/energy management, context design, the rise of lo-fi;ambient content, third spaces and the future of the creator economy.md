@@ -14,7 +14,7 @@ in 2023, my life has been pretty much the opposite. going to ecovillages, farms,
 
 in this article, i aim to share my findings, curation and perspectives on the future of communities and the internet - and subjacent themes, such as the metaverse, trust networks and a lot more.
 
-i bring special attention to **intentional online communities** and **third spaces** as cultural attractors. they're places that can feel more like home than at home or at work.
+i bring special attention to **[[intentional online communities\|intentional online communities]]** and **[[third spaces\|third spaces]]** as cultural [[attractors\|attractors]]. they're places that can feel more like home than at home or at work.
 
 ##### intro
 
