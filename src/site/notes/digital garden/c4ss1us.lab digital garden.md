@@ -73,11 +73,11 @@ this collection of essays is my attempt to consolidate the results of this resea
 below i introduce several key concepts, challenges, references, projects and prototypes i found or created, in a narrative, structured way.
 ### core essays
 1) 🌿 [[my thesis - thriving in the metacrisis with the help of life support systems, networks and games\|my thesis - thriving in the metacrisis with the help of life support systems, networks and games]]
-2) 🌱 - [[self design as a system, encoded philosophy, integral spirituality and conscious life operating systems\|self design as a system, encoded philosophy, integral spirituality and conscious life operating systems]]
+2) 🌱 [[self design as a system, encoded philosophy, integral spirituality and conscious life operating systems\|self design as a system, encoded philosophy, integral spirituality and conscious life operating systems]]
 3) 🌿 [[foundational concepts for developing regenerative information ecologies & empowering knowledge commons\|foundational concepts for developing regenerative information ecologies & empowering knowledge commons]]
 4) 🌱 [[design specs & constraints for enabling minimum viable vocational economies\|design specs & constraints for enabling minimum viable vocational economies]]
 5) 🌿 [[life as play, collaborative life wisdom & ontological design as a revolutionary practice\|life as play, collaborative life wisdom & ontological design as a revolutionary practice]] 
-6) 🌿 [[writings/energy management, context design, the rise of lo-fi;ambient content, third spaces and the future of the creator economy\|energy management, context design, the rise of lo-fi;ambient content, third spaces and the future of the creator economy]]
+6) 🌿 [[writings/🌀 energy management, context design, the rise of lo-fi;ambient content, third spaces and the future of the creator economy\|🌀 energy management, context design, the rise of lo-fi;ambient content, third spaces and the future of the creator economy]]
 7) 🌱 [[an introduction to L1F3 operating, management, playing and streaming systems\|an introduction to L1F3 operating, management, playing and streaming systems]]
 
 note: these articles are still under construction/revision. the emojis represent their growth stage.
