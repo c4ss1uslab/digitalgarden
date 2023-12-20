@@ -67,18 +67,26 @@ i highly encourage you to check out the whole thread, as pasting everything here
 
 1 - [[memespace maps\|memespace maps]]
 2 - [[ribbonfarm\|ribbonfarm]]'s maps
-3 - [[characteristics of maps\|characteristics of maps]]
-4 - [[maps of maps\|maps of maps]]
+3 - [[defining characteristics of maps\|defining characteristics of maps]]
+4 - [[maps of maps\|maps of maps]] (curating/organizing perspectives)
 5 - [[wardley mapping\|wardley maps]]
 6 - [[idea mazes\|idea mazes]]
 7 - [[subway maps\|subway maps]] (visual)
-8 - [[field maps\|field maps]] ([[zoomable maps\|zoomable maps]]/maps with meaningful axes and proportions)
+8 - [[topical maps\|topical maps]]/[[field maps\|field maps]] ([[zoomable maps\|zoomable maps]]/maps with meaningful axes and proportions)
 
-###### 3) [[nadia asparouhova\|nadia asparouhova]] @[[tbprocessed/base notes/ventures - general/the stoa\|the stoa]]:
+i think it can be enlightening to evidence the focus on topics vs the format.
+
+memespace/subway maps/maps of maps are maps that refer to a specific topic.
+
+ribbonfarm/wardley maps are "types" of map based on their style/format, which is derived from a specific creator.
+
+idea mazes / field maps are also on the format side, but regardless of their creator.
+
+###### 3) [[nadia asparouhova\|nadia asparouhova]]'s classification at [[tbprocessed/base notes/ventures - general/the stoa\|the stoa]]:
 
 source: https://www.youtube.com/watch?v=jvAyJImbEeA
 
-i honestly don't recommend going through the whole thing, unless you have time to spare, as i feel the summary below captures the essence pretty well.
+i honestly don't recommend going through the whole thing, unless you have time to spare, as i believe the summary below captures the essence pretty well.
 
 -> nadia's classification summary:
 
@@ -102,26 +110,20 @@ i honestly don't recommend going through the whole thing, unless you have time t
 
 ###### 4) lastly, other types of common maps:
 
-1 - [[topical maps\|topical maps]] / [[field maps\|field maps]]:
-
-![life itself research hackathon topical map.jpeg|500](/img/user/life%20itself%20research%20hackathon%20topical%20map.jpeg)
-
-![map of computer science.png|500](/img/user/map%20of%20computer%20science.png)
-
-2 - [[ecosystem maps\|ecosystem maps]]:
+1 - [[ecosystem maps\|ecosystem maps]]:
 
 <iframe src="https://embed.kumu.io/93dd947d40c4523b2969847bfd7564b3" width="940" height="600" frameborder="0"></iframe>
 
 ![liminal web map.png|500](/img/user/liminal%20web%20map.png)
 
-3 - [[concept maps\|concept maps]] (a.k.a. [[mental models\|mental models]]/[[frameworks\|frameworks]]):
+2 - [[concept maps\|concept maps]] (a.k.a. [[mental models\|mental models]]/[[frameworks\|frameworks]]):
 --> proposes a model that describes how something works or can work.
 
 [[possibility management\|possibility management]]'s [thoughtmaps](https://pmthoughtmaps.mystrikingly.com/)
 
 ![social layers.png|500](/img/user/social%20layers.png)
 
-4 - [[general knowledge maps\|general knowledge maps]] / [[relationship maps\|relationship maps]]:
+3 - [[general knowledge maps\|general knowledge maps]] / [[relationship maps\|relationship maps]]:
 
 ![xiq - knowledge map.png|500](/img/user/xiq%20-%20knowledge%20map.png)
 
@@ -133,33 +135,38 @@ i honestly don't recommend going through the whole thing, unless you have time t
 ![](https://twitter.com/aaronzlewis/status/1369503364300611587)
 
 
-⚠ i'm still missing: good curation on network science + examples/applications.
+⚠ i'm still missing: good curation on network science + good examples/applications.
 
 ---
 ##### list of internet mapping projects:
 
-internet map:
+**internet map:**
 https://www.halcyonmaps.com/#/map-of-the-internet-2021/
 https://interneto.github.io/website/
 
-map of youtube: https://youtubeatlas.com/
+**map of youtube:**
+https://youtubeatlas.com/
 https://github.com/KiranGershenfeld/YoutubeCommunities
 
-map of twitter: https://atlas.nomic.ai/map/twitter
+**map of twitter:**
+https://atlas.nomic.ai/map/twitter
 https://github.com/Nican/Furland (deactivated)
 https://twitterverse.net/
 https://hive.one/explore
 
-map of github: https://anvaka.github.io/map-of-github/
+**map of github:**
+https://anvaka.github.io/map-of-github/
 
-map of scientific literature: https://openknowledgemaps.org/
+**map of scientific literature:**
+https://openknowledgemaps.org/
 
-map of reddit: https://anvaka.github.io/map-of-reddit/?x=18239&y=12514&z=23244.04817852816&v=2
+**map of reddit:**
+https://anvaka.github.io/map-of-reddit/?x=18239&y=12514&z=23244.04817852816&v=2
 https://subredditstats.com/
 
-map of twitch: https://github.com/KiranGershenfeld/VisualizingTwitchCommunities
+**map of twitch:** https://github.com/KiranGershenfeld/VisualizingTwitchCommunities
 
-also relevant:
+**+ also relevant:**
 my twitter lists on:
 - [mapping (41 members)](https://twitter.com/i/lists/1471092243159257094)
 - [research (31 members)](https://twitter.com/i/lists/1597437174126989314)
