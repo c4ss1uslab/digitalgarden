@@ -107,7 +107,7 @@ level of depth:
 	💡 [[twitter map\|twitter map]]
 	💫 [[mapping videos\|mapping videos]]
 	💫 [[map-making workflow (excalidraw)\|map-making workflow (excalidraw)]]
-	💫 [[ideaverse\|ideaverse]] / [[research visualization world\|research visualization world]] / [[writings/c4ss1us.lab digital garden\|c4ss1us.lab digital garden]] evolution into a [[3d\|3d]]/artistic [[3rd brain\|3rd brain]]
+	💫 [[ideaverse\|ideaverse]] / [[research visualization world\|research visualization world]] / [[digital garden/c4ss1us.lab digital garden\|c4ss1us.lab digital garden]] evolution into a [[3d\|3d]]/artistic [[3rd brain\|3rd brain]]
 🌱 [[data management\|data management]]
 	🔥 [[tbprocessed/base notes/ventures - general/holochain\|holochain]]
 	🔥 [[synapsis\|synapsis]]
