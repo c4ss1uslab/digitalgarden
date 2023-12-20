@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/writings/energy-management-third-spaces-context-design-the-rise-of-lo-fi-ambient-content-and-the-future-of-the-creator-economy/"}
+{"dg-publish":true,"permalink":"/writings/🌀 energy management, third spaces, context design, the rise of lo-fi;ambient content and the future of the creator economy/"}
 ---
 
 ![integral OS 1.jpg](/img/user/integral%20OS%201.jpg)
