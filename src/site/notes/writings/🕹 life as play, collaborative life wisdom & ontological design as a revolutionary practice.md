@@ -29,7 +29,7 @@ por que não temos esse nível de seriedade/comprometimento/importância com a n
 
 [[AI agents\|AI agents]]
 
-[[fourgames\|fourgames]]
+[[models & frameworks/fourgames\|fourgames]]
 
 ###### ontological design as a revolutionary practice
 
