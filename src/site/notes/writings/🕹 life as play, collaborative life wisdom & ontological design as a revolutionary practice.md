@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/writings/life-as-play-collaborative-life-wisdom-and-ontological-design-as-a-revolutionary-practice/"}
+{"dg-publish":true,"permalink":"/writings/🕹 life as play, collaborative life wisdom & ontological design as a revolutionary practice/"}
 ---
 
 draft link: https://medium.com/@cassiuscarvalho/life-as-play-collaborative-life-wisdom-ontological-design-as-a-revolutionary-practice-291959d935e5
