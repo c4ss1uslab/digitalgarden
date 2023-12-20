@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-mo-cs/025-long-game/025-references-and-topics-moc/"}
+{"dg-publish":true,"permalink":"/_000_MOCs/025 🔷 long game/025 🗺 references & topics MOC/"}
 ---
 
 ###### captions
