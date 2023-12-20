@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/writings/foundational-concepts-for-developing-regenerative-information-ecologies-and-empowering-knowledge-commons/"}
+{"dg-publish":true,"permalink":"/writings/💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons/"}
 ---
 
 draft link: https://medium.com/@cassiuscarvalho/foundational-concepts-for-developing-regenerative-information-ecologies-empowering-knowledge-d427b1dc2cb3
