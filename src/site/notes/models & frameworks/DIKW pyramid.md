@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/models-and-frameworks/dikw-pyramid/"}
+{"dg-publish":true,"permalink":"/models & frameworks/DIKW pyramid/"}
 ---
 
 ![DIKW pyramid - data information knowledge wisdom.png|500](/img/user/DIKW%20pyramid%20-%20data%20information%20knowledge%20wisdom.png)
