@@ -3,7 +3,7 @@
 ---
 
 
-## welcome to my digital garden! 🌷
+## hello! welcome to my digital garden! 🌷
 
 ![garden.jpeg|650](/img/user/garden.jpeg)
 *ps: in case you arrived here but don't know who i am, you can find [👨🏻‍🎤 an introduction to my life, self and work here](https://c4ss1us.notion.site/c4ss1us/c4ss1us-hello-WIP-71130006ff1c42f69a32b7a46808a290).*
@@ -15,7 +15,7 @@ i.e. the notes i use to manage and share about my research, projects and life as
 
 *notes have 3 growth stages:* 🌱 seedling, 🌿 budding and 🌲 evergreen.
 
-there are two ways you can navigate this space (*coming soon!*):
+there are two ways you can navigate this space:
 
 1) 🗺 a structured, organized, narrative way, in which i share the foundational concepts, references, tools and discoveries of my research/learning/work.
 2) 🕸 a loose, experimental, self-directed navigation on a topic-based index of notes, which is how the notes are planted in this space.
@@ -27,6 +27,8 @@ choose your path below!
 ![research overview 1.png|700](/img/user/research%20overview%201.png)
 (*clickable soon!* *for now, you'll find an index below.*)
 
+address the metacrisis and enable new lifestyles/ways of being.
+
 my research intends to address the inquiries:
 
 > **1) how can we create art, technology and games in service of consciousness development and ecosystems regeneration?**
@@ -37,17 +39,39 @@ my research intends to address the inquiries:
 
 *but not any kind of game.* a game that's deeply fun, collaborative, challenging, meaningful and fulfilling. a game that honors the beauty and mystery of life, that challenges and supports us to discover ourselves, develop our potential, and share our gifts with others.
 
-this investigation started back in 2015, with my first startling realization about life and the world we live in:
+##### the backstory
 
-> **my own life is my biggest, most important project.**
+this investigation started for me back in 2014, as i was a 15-year-old trying to figure out a career to follow or what to do in the future. unable to conceive of a single path to follow or a single topic to study, i was jumping around exploring possibilities until i had my first startling realization about life and the world we live in:
 
-yet, the tools i have to help me play a game (such as interfaces, maps, dashboards, cheatsheets, wikis, etc) or managing my characters in a game (inventory, skill/talent trees, missions, achievements, challenges, etc) are much better than the tools i have for managing my own real life.
+> i can't predict who i'll be in 5-10 years, much less what the world will look like by then. so it's not about what i do right now, but about being able to learn whatever's necessary when it's necessary.
+>
+> so it's about [[learning how to learn\|learning how to learn]]. so i can recognize why, when and how to do something.
 
-> ~*wtf is going on here?*~
+essentially, this realization gave me a sense that no single project or topic was "the most important" in my life. **my own life is my biggest, most important project.**
 
-i grew up playing games, but maybe even if you didn't, you might still relate to the experience of transitioning into adulthood and feeling an utterless lack of fun in the "real job market", or even, in modern life in general.
+(which later on can be challenged - as in there's value in being devoted to something bigger than yourself - yet, in terms of [[first principles\|first principles]], if your life isn't your n° 1 priority, you may not be able to survive to dedicate yourself to that thing, or anything else)
 
-much like games themselves, i started noticing that playing our well-established societal games can be enlivening or numbing. they can inspire, help us learn and evolve, or disconnect us from ourselves, others and reality itself, making us fall prey to our own automatic, unconscious detrimental behaviors.
+so it's not about being a narcissist and putting your desires and priorities above everyone else's, but recognizing that the quality of anything you do or achieve is determined by how you're choosing to live your life.
+
+the less focus, attention and awareness you have over your own life, the more unconscious and automatic behaviors you'll have, that may not be leading you to where you really want to be.
+
+that's how for me, the object of study became the subject (myself), and the subjects (i wanted to learn) became just objects for my subject.
+
+all this made me start questioning:
+
+- why are there hundreds of project management tools, but pretty much no "life management tools"? should i just use project management tools to manage my life?
+
+that's how i discovered [[getting things done\|GTD]] and lots of [[coaching tools\|coaching tools]] at the time, but this didn't satistfy me at all. i grew up playing games, so i was used to having lots of [[interfaces\|interfaces]] and tools such as [[maps\|maps]], [[dashboards\|dashboards]], [[cheatsheets\|cheatsheets]], [[wikis\|wikis]], etc, to help me play, and even more elements like an [[inventory\|inventory]], [[skill\|skill]]/[[talent trees\|talent trees]], [[missions\|missions]], [[achievements\|achievements]] and [[challenges\|challenges]] for managing my virtual journeys and characters.
+
+so i was extremely confused:
+
+- why on earth are the tools i have to play a fictional game much better than the tools i have to manage my own real life?
+
+***wtf is going on here?***
+
+besides this lack of tools, there's an experience you might relate to even if you never played games. the feeling of an utterless lack of meaning, fun and fulfillment as you grow up and face the "real world" - the job market, relationships, or modern life in general.
+
+much like many games, i started noticing that playing our well-established societal games is often times numbing. instead of inspiring us, helping us learn and evolve, they often disconnect us from ourselves, others and reality itself, making us fall prey to our own automatic, unconscious detrimental behaviors.
 
 not only fun, the "normal adult life" lacked a soul. and i was on a mission to understand why.
 
@@ -55,29 +79,35 @@ this investigation brought me many more questions, such as:
 
 - what games do i actually want to play in my life?
 - why isn't life more like a game? or, why isn't there a game of life yet?
+- in what ways is life already a game?
 - if this game of life existed, what would it really look like? or what would it take for it to be built?
-- how is life already a game?
 - what perspectives and instances of the "life game" are there?
-- how are people already playing life and how might we play it in ways that are more conscious, effective, efficient, fulfilling? are these even good, useful perspectives to measure and analyze life?
+- how are people already playing life? and how could we be playing it?
+- how might we play life in ways that are more conscious, impactful, collaborative, fun and fulfilling? are these even good, useful perspectives to measure and orient our life towards?
 
 throughout the past 8 years, these inquiries led me down many paths of discovery and self-transformation. the answers are much more complex, while at the same time, they can be simple. one of the big challenges is to actually make sense of so much divergent information, experiences and perspectives.
 
 this collection of essays is my attempt to consolidate the results of this research and provide some possible directions to these and other important questions, such as:
 
-- how can we create more fulfilling and meaningful lives in our present day and age?
-- how can we recognize ourselves and our role in the whole of reality and this world?
-- how can we address the profound meaning, existential & wisdom crises we're going through?
-- how can we address the profound health, education and commons crises we're going through?
-- how can we address the spiritual, psychological, ecological, economic, crises we're going through?
+> - how can we create more fulfilling and meaningful lives in our present day and age?
 
-below i introduce several key concepts, challenges, references, projects and prototypes i found or created, in a narrative, structured way.
+this inquiry led me to the realization of our interdependence with nature and many other beings, as well as our interconnectedness with/through our human-built systems.
+
+> - how can we recognize ourselves and our role in the whole of reality and this world?
+
+and finally,
+
+> - how can we address the spiritual/psychological, ecological, economic, political and educational crises we're going through?
+
+below i present my thoughts and discoveries, by sharing several key concepts, challenges, references, projects and prototypes i found or created, in a comprehensive way.
 ### core essays
+
 1) 🌿 [[writings/✒ my thesis - thriving in the metacrisis with the help of life support systems, networks and games\|✒ my thesis - thriving in the metacrisis with the help of life support systems, networks and games]]
 2) 🌱 [[writings/🧘🏻‍♂️ self design as a system, encoded philosophy, integral spirituality and conscious life operating systems\|🧘🏻‍♂️ self design as a system, encoded philosophy, integral spirituality and conscious life operating systems]]
 3) 🌿 [[writings/💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons\|💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons]]
 4) 🌱 [[writings/🦸🏻‍♀️ design specs & constraints for enabling minimum viable vocational economies\|🦸🏻‍♀️ design specs & constraints for enabling minimum viable vocational economies]]
-5) 🌿 [[🕹 life as play, collaborative life wisdom & ontological design as a revolutionary practice\|🕹 life as play, collaborative life wisdom & ontological design as a revolutionary practice]] 
-6) 🌿 [[writings/🌀 energy management, context design, the rise of lo-fi;ambient content, third spaces and the future of the creator economy\|🌀 energy management, context design, the rise of lo-fi;ambient content, third spaces and the future of the creator economy]]
+5) 🌿 [[writings/🕹 life as play, collaborative life wisdom & ontological design as a revolutionary practice\|🕹 life as play, collaborative life wisdom & ontological design as a revolutionary practice]] 
+6) 🌿 [[writings/🌀 energy management, third spaces, context design, the rise of lo-fi;ambient content and the future of the creator economy\|🌀 energy management, third spaces, context design, the rise of lo-fi;ambient content and the future of the creator economy]]
 7) 🌱 [[writings/⛓ an introduction to L1F3 operating, management, playing and streaming systems\|⛓ an introduction to L1F3 operating, management, playing and streaming systems]]
 
 note: these articles are still under construction/revision. the emojis represent their growth stage.
