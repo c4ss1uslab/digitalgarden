@@ -249,4 +249,4 @@ etc...
 
 ---
 ##### fine-tuned LLMs:
-refs: [[cognicist iris\|cognicist iris]], [[integral life\|integral life]], [[fourgames\|fourgames]]
+refs: [[cognicist iris\|cognicist iris]], [[integral life\|integral life]], [[models & frameworks/fourgames\|fourgames]]
