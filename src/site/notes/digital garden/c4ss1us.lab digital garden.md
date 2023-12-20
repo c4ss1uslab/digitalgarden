@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/c4ss1us-lab-digital-garden/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/digital garden/c4ss1us.lab digital garden/","tags":["gardenEntry"]}
 ---
 
 
@@ -102,13 +102,13 @@ and finally,
 below i present my thoughts and discoveries, by sharing several key concepts, challenges, references, projects and prototypes i found or created, in a comprehensive way.
 ### core essays
 
-1) 🌿 [[writings/my thesis - thriving in the metacrisis with the help of life support systems, networks and games\|my thesis - thriving in the metacrisis with the help of life support systems, networks and games]]
-2) 🌱 [[writings/self design as a system, encoded philosophy, integral spirituality and conscious life operating systems\|self design as a system, encoded philosophy, integral spirituality and conscious life operating systems]]
-3) 🌿 [[writings/foundational concepts for developing regenerative information ecologies & empowering knowledge commons\|foundational concepts for developing regenerative information ecologies & empowering knowledge commons]]
-4) 🌱 [[writings/design specs & constraints for enabling minimum viable vocational economies\|design specs & constraints for enabling minimum viable vocational economies]]
-5) 🌿 [[writings/life as play, collaborative life wisdom & ontological design as a revolutionary practice\|life as play, collaborative life wisdom & ontological design as a revolutionary practice]] 
-6) 🌿 [[writings/energy management, third spaces, context design, the rise of lo-fi;ambient content and the future of the creator economy\|energy management, third spaces, context design, the rise of lo-fi;ambient content and the future of the creator economy]]
-7) 🌱 [[writings/an introduction to L1F3 operating, management, playing and streaming systems\|an introduction to L1F3 operating, management, playing and streaming systems]]
+1) 🌿 [[writings/👋🏻 my thesis - thriving in the metacrisis with the help of life support systems, networks and games\|👋🏻 my thesis - thriving in the metacrisis with the help of life support systems, networks and games]]
+2) 🌱 [[writings/🧘🏻‍♂️ self design as a system, encoded philosophy, integral spirituality and conscious life operating systems\|🧘🏻‍♂️ self design as a system, encoded philosophy, integral spirituality and conscious life operating systems]]
+3) 🌿 [[writings/💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons\|💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons]]
+4) 🌱 [[writings/🦸🏻‍♀️ design specs & constraints for enabling minimum viable vocational economies\|🦸🏻‍♀️ design specs & constraints for enabling minimum viable vocational economies]]
+5) 🌿 [[writings/🕹 life as play, collaborative life wisdom & ontological design as a revolutionary practice\|🕹 life as play, collaborative life wisdom & ontological design as a revolutionary practice]] 
+6) 🌿 [[writings/🌀 energy management, third spaces, context design, the rise of lo-fi;ambient content and the future of the creator economy\|🌀 energy management, third spaces, context design, the rise of lo-fi;ambient content and the future of the creator economy]]
+7) 🌱 [[writings/🌐 an introduction to L1F3 operating, management, playing and streaming systems\|🌐 an introduction to L1F3 operating, management, playing and streaming systems]]
 
 note: these articles are still under construction/revision. the emojis represent their growth stage.
 
