@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/writings/design-specs-and-constraints-for-enabling-minimum-viable-vocational-economies/"}
+{"dg-publish":true,"permalink":"/writings/🦸🏻‍♀️ design specs & constraints for enabling minimum viable vocational economies/"}
 ---
 
 draft link: https://medium.com/@cassiuscarvalho/design-specs-constraints-for-enabling-minimum-viable-vocational-economies-d4dda4867e23
