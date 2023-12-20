@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/003-processing-notes/microsolidarity-practice-program-notes/"}
+{"dg-publish":true,"permalink":"/_003_processing notes/microsolidarity practice program notes/"}
 ---
 
 these are my notes and the prompts from the [microsolidarity practice program](https://www.microsolidarity.cc/practice-program) i participated in from oct 3-12, 2023.
