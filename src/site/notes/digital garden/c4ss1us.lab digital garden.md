@@ -89,15 +89,15 @@ throughout the past 8 years, these inquiries led me down many paths of discovery
 
 this collection of essays is my attempt to consolidate the results of this research and provide some possible directions to these and other important questions, such as:
 
-> - how can we create more fulfilling and meaningful lives in our present day and age?
+> how can we create more fulfilling and meaningful lives in our present day and age?
 
 this inquiry led me to the realization of our interdependence with nature and many other beings, as well as our interconnectedness with/through our human-built systems.
 
-> - how can we recognize ourselves and our role in the whole of reality and this world?
+> how can we recognize ourselves and our role in the whole of reality and this world?
 
 and finally,
 
-> - how can we address the spiritual/psychological, ecological, economic, political and educational crises we're going through?
+> how can we address the spiritual/psychological, ecological, economic, political and educational crises we're going through?
 
 below i present my thoughts and discoveries, by sharing several key concepts, challenges, references, projects and prototypes i found or created, in a comprehensive way.
 ### core essays
