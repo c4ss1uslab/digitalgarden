@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/forms-of-capital/"}
+{"dg-publish":true,"permalink":"/forms of capital/"}
 ---
 
 **images:**
