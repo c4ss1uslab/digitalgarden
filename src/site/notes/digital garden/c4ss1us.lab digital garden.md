@@ -27,7 +27,7 @@ choose your path below!
 ![research overview 1.png|700](/img/user/research%20overview%201.png)
 (*clickable soon!* *for now, you'll find an index below.*)
 
-address the metacrisis and enable new lifestyles/ways of being.
+present pathways to address the metacrisis and enable new lifestyles/ways of being.
 
 my research intends to address the inquiries:
 
@@ -119,7 +119,7 @@ alternatively, if you want to explore these topics on your own, you can see belo
 on the contents below, the emojis mean different things. here's their caption:
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/000-mo-cs/025-long-game/025-references-and-topics-moc/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/000-mo-cs/025-long-game/025-topics-and-references-moc/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -153,7 +153,7 @@ level of depth:
 	--> [[health crisis\|health crisis]] / [[education crisis\|education crisis]] / [[commons\|commons]] [[crisis\|crisis]]
 🌲 [[meta-perspectival frameworks\|meta-perspectival frameworks]]
 	🔥 [[ontological design\|ontological design]]
-	🔥 [[fourgames\|fourgames]]
+	🔥 [[models & frameworks/fourgames\|fourgames]]
 	🔥 [[integral theory\|integral meta-theory]]
 	🔥 [[metadesign\|metadesign]] (portuguese)
 🌲 [[self-directed learning\|self-directed learning]]
@@ -311,7 +311,7 @@ level of depth:
 	💩 [[playfight\|playfight]]
 🌱 [[resource allocation\|resource allocation]] tools
 	🔥 [[tbprocessed/base notes/ventures - general/fluxonomia 4d\|fluxonomia 4d]]
-	🔥 [[metacurrency\|metacurrency]] / [[forms of capital\|12 forms of capital]]
+	🔥 [[metacurrency\|metacurrency]] / [[models & frameworks/forms of capital\|12 forms of capital]]
 
 #### [[c4ss.music\|🎶 c4ss.music]]
 
@@ -482,13 +482,13 @@ the future of:
 
 #### where am i? / what is this page?
 
-"a digital garden is something inbetween a personal blog and a wiki. it's a collection of evolving notes, essays, and ideas that aren't strictly organised by their publication date. they're inherently exploratory – posts are linked through contextual associations (bi-directional links). they aren't refined or complete - posts can be published as half-finished thoughts that will grow and evolve over time. they're less rigid, less performative, and less perfect than the personal "blogs" we're used to encountering on the web."
+> "a digital garden is something inbetween a personal blog and a wiki. it's a collection of evolving notes, essays, and ideas that aren't strictly organised by their publication date. they're inherently exploratory – posts are linked through contextual associations (bi-directional links). they aren't refined or complete - posts can be published as half-finished thoughts that will grow and evolve over time. they're less rigid, less performative, and less perfect than the personal "blogs" we're used to encountering on the web."
 
 if you want to know more, you can check out maggie appleton's amazing content for [a brief history & ethos of the digital garden](https://maggieappleton.com/garden-history) and [an extensive list of digital gardening tools and gardeners](https://github.com/MaggieAppleton/digital-gardeners).
 
 the digital garden metaphor can go a really long way. understanding your knowledge as a web of relationships a digital garden can also be seen as part of someone's [[second brain\|second brain]], or a layer beyond it, a "[[areas/personal spaces/outer spaces/third brain\|third brain]]", so to say.
 
-the structure i use for this garden is very simple. there are [[_000_MOCs/025 🔷 long game/025 🗺 references & topics MOC\|topics]] and [[growth stages\|growth stages]].
+the structure i use for this garden is very simple. there are [[_000_MOCs/025 🔷 long game/025 🗺 topics & references MOC\|topics]] and [[growth stages\|growth stages]].
 
 keep in mind, the notes i tend to and share here are primarily my personal wiki. they're meant for personal use first. most notes will be unfinished, poorly formatted and not polished, but they're still relevant/interesting enough that i choose to share them. :)
 
