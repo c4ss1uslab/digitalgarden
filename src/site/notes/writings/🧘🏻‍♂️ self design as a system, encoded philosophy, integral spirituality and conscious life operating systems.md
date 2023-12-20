@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/writings/self-design-as-a-system-encoded-philosophy-integral-spirituality-and-conscious-life-operating-systems/"}
+{"dg-publish":true,"permalink":"/writings/🧘🏻‍♂️ self design as a system, encoded philosophy, integral spirituality and conscious life operating systems/"}
 ---
 
 the age-old challenge of [[self design\|self design]] is both a work of [[designing\|design]] and [[deconstruction\|deconstruction]].
