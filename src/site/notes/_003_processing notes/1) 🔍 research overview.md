@@ -14,6 +14,69 @@ i’m happy to share that since then, i've gained some clarity on this, as well 
 let's dive in!
 
 ------
+### the backstory
+
+this investigation started for me back in 2014, as i was a 15-year-old trying to figure out a career to follow or what to do in the future. unable to conceive of a single path to follow or a single topic to study, i was jumping around exploring possibilities until i had my first startling realization about life and the world we live in:
+
+> i can't predict who i'll be in 5-10 years, much less what the world will look like by then. so it's not about what i do right now, but about being able to learn whatever's necessary when it's necessary.
+>
+> so it's about [[learning how to learn\|learning how to learn]]. so i can recognize why, when and how to do something.
+
+essentially, this realization gave me a sense that no single project or topic was "the most important" in my life. **my own life is my biggest, most important project.**
+
+(which later on can be challenged - as in there's value in being devoted to something bigger than yourself - yet, in terms of [[first principles\|first principles]], if your life isn't your n° 1 priority, you may not be able to survive to dedicate yourself to that thing, or anything else)
+
+so it's not about being a narcissist and putting your desires and priorities above everyone else's, but recognizing that the quality of anything you do or achieve is determined by how you're choosing to live your life.
+
+the less focus, attention and awareness you have over your own life, the more unconscious and automatic behaviors you'll have, that may not be leading you to where you really want to be.
+
+that's how for me, the object of study became the subject (myself), and the subjects (i wanted to learn) became just objects for my subject.
+
+all this made me start questioning:
+
+- why are there hundreds of project management tools, but pretty much no "life management tools"? should i just use project management tools to manage my life?
+
+that's how i discovered [[getting things done\|GTD]] and lots of [[coaching tools\|coaching tools]] at the time, but this didn't satistfy me at all. i grew up playing games, so i was used to having lots of [[interfaces\|interfaces]] and tools such as [[maps\|maps]], [[dashboards\|dashboards]], [[cheatsheets\|cheatsheets]], [[wikis\|wikis]], etc, to help me play, and even more elements like an [[inventory\|inventory]], [[skill\|skill]]/[[talent trees\|talent trees]], [[missions\|missions]], [[achievements\|achievements]] and [[challenges\|challenges]] for managing my virtual journeys and characters.
+
+so i was extremely confused:
+
+- why on earth are the tools i have to play a fictional game much better than the tools i have to manage my own real life?
+
+***wtf is going on here?***
+
+besides this lack of tools, there's an experience you might relate to even if you never played games. the feeling of an utterless lack of meaning, fun and fulfillment as you grow up and face the "real world" - the job market, relationships, or modern life in general.
+
+much like many games, i started noticing that playing our well-established societal games is often times numbing. instead of inspiring us, helping us learn and evolve, they often disconnect us from ourselves, others and reality itself, making us fall prey to our own automatic, unconscious detrimental behaviors.
+
+not only fun, the "normal adult life" lacked a soul. and i was on a mission to understand why.
+
+this investigation brought me many more questions, such as:
+
+- what games do i actually want to play in my life?
+- why isn't life more like a game? or, why isn't there a game of life yet?
+- in what ways is life already a game?
+- if this game of life existed, what would it really look like? or what would it take for it to be built?
+- what perspectives and instances of the "life game" are there?
+- how are people already playing life? and how could we be playing it?
+- how might we play life in ways that are more conscious, impactful, collaborative, fun and fulfilling? are these even good, useful perspectives to measure and orient our life towards?
+
+throughout the past 8 years, these inquiries led me down many paths of discovery and self-transformation. the answers are much more complex, while at the same time, they can be simple. one of the big challenges is to actually make sense of so much divergent information, experiences and perspectives.
+
+this collection of essays is my attempt to consolidate the results of this research and provide some possible directions to these and other important questions, such as:
+
+> how can we create more fulfilling and meaningful lives in our present day and age?
+
+this inquiry led me to the realization of our interdependence with nature and many other beings, as well as our interconnectedness with/through our human-built systems.
+
+> how can we recognize ourselves and our role in the whole of reality and this world?
+
+and finally,
+
+> how can we address the spiritual/psychological, ecological, economic, political and educational crises we're going through?
+
+below i present my thoughts and discoveries, by sharing several key concepts, challenges, references, projects and prototypes i found or created, in a comprehensive way.
+
+---
 #### motivation
 
 the goal of this research is to curate and present multiple cohesive answers and possibilities to the question: **how do we create the more beautiful world our hearts know is possible?**
