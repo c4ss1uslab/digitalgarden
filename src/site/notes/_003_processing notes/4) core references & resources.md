@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/_003_processing notes/4) core references & resources/"}
 ---
 
-##### compiled curated pages / tools / orgs toolkit
+#### compiled curated pages / tools / orgs toolkit
 
 pages (more contextual):
 -> see refs below
@@ -11,7 +11,9 @@ pages (more contextual):
 tools/orgs:
 -> notion database (coming soon)
 
-##### core references breakdown:
+#### core references breakdown:
+
+##### information ecology navigation & sensemaking
 
 systems design - principles & constraints:
 ['Humanity's Phase Shift', Daniel Schmachtenberger - YouTube](https://www.youtube.com/watch?v=nQRzxEobWco)
@@ -78,6 +80,8 @@ core concepts:
 [[maps\|maps]] / [[boards\|boards]] -> [[wardley mapping\|wardley mapping]] / [[game board\|game board]]
 
 civilization design:
+[[network states\|network states]]
+[[ecovillages\|ecovillages]], [[smart cities\|smart cities]], [[smart villages\|smart villages]]
 [[civilization emerging\|civilization emerging]] / [[civium\|civium]]
 [[future thinkers smart village\|future thinkers smart village]]
 [[auroville\|auroville]]
@@ -148,65 +152,6 @@ interactive encyclopedia/wiki:
 [DIGITIZATION.wiki](https://www.digitization.wiki/)
 [Iconographic Encyclopædia of Science, Literature, and Art](https://www.c82.net/iconography/)
 
-visual bookmarks navigation:
-[Interneto](https://raindrop.io/Interneto)
-[[webcrate\|webcrate]]
-[[linkace\|linkace]]
-[[raindrop.io\|raindrop.io]]
-[[toby\|toby]]
-
-file management:
-[[eagle.cool\|eagle.cool]]
-
-desktop customization / ricing:
-[[unix customization\|unix customization]] / [[rainmeter\|rainmeter]] / [[screenstyler\|screenstyler]]
-
-PKM setups:
-[obsidian projects dashboard](https://bagerbach.com/blog/projects-and-goals-obsidian) / [Rainbell129/Obsidian-Homepage: A dashboard for your obsidian vault.](https://github.com/Rainbell129/Obsidian-Homepage)
-[[juggl\|juggl]] / [[breadcrumbs\|breadcrumbs]] / [[dataview\|dataview]]
-[[digital garden/c4ss1us.lab digital garden\|c4ss1us.lab digital garden]]
-
-community-curated knowledge networks:
-[startupy](https://startupy.world/)
-[Top Curators On The Internet - Google Docs](https://docs.google.com/document/d/1PNYQmjOdAmKbRzLGI83nvSQ5hRRlIJz7VZq13WwehtQ/edit)
-[[joinmelon\|joinmelon]]
-
-areas that i still haven't found good references on:
-[[dashboard design\|dashboard design]] / [[interface design\|interface design]]
-[[online research\|online research]] / [[algorithm design\|algorithm design]]
-[[online learning\|online learning]] / [[online education\|online education]]
-
-search engine / algorithms optimization:
-- tbd
-- personal algorithm training
-
-SN analysis / internet mapping:
-[[google\|google]] / [[youtube\|youtube]] / [[wikipedia\|wikipedia]] / [[twitter\|twitter]] / [[reddit\|reddit]] / [[facebook\|facebook]] / [[instagram\|instagram]] / [[substack\|substack]] ([[RSS feed\|RSS feed]]) / [[podcast\|podcast]] ([[snipd\|snipd]]) / [[tbprocessed/base notes/ventures - general/discord\|discord]]
-[[golden\|golden]] / [[sublime (ex-startupy)\|sublime (ex-startupy)]] / [[mastodon\|mastodon]] / [[bluesky\|bluesky]] / [[are.na\|are.na]] / [[glasp\|glasp]] / [[melon\|melon]]
-[[pinterest\|pinterest]] / [[artstation\|artstation]] / [[dribbble\|dribbble]] / [[behance\|behance]]
-
-core comms:
-
-cada vez mais acessível: design intencional de sistemas pessoais. (apps/tecnologias q a gente usa). entretenimento q a gente consome, onde direcionamos nossa atenção, ferramenta de gestão da vida (nossa vida e os jogos que a gente joga).
-
-conscious/intentional/humane tech/systems design:
-
-ref: https://www.inkandswitch.com/embark/
-[octalysis](https://yukaichou.com/gamification-examples/octalysis-complete-gamification-framework/)
-[superbetter](https://superbetter.com/)
-[habitica](https://habitica.com/) / [lifeRPG](https://play.google.com/store/apps/details?id=com.jayvant.liferpgmissions) (both open-source)
-
-lists:
-https://codeberg.org/teaserbot-labs/delightful-humane-design
-
-⭐ tools:
-[invidious](https://invidious.io/) - alternative youtube front-end
-[nitter](https://nitter.net/) - alternative twitter front-end
-[[tweetbase\|tweetbase]]
-[[tweetscape\|tweetscape]]
-[[nodus labs\|nodus labs]] - 
-[[AI knowledge graphs\|AI knowledge graphs]]
-
 content on "how the world works":
 [coldfusion](https://www.youtube.com/c/ColdFusion)
 [how money works](https://www.youtube.com/c/HowMoneyWorks)
@@ -225,7 +170,7 @@ alternative personal websites:
 [The Satyrs’ Forest 🍇](https://marijn.uk/) / [R.V.Klein 🐇 HOME](https://rvklein.me/index.html)
 [Drew's Conversation Menu - Google Docs](https://docs.google.com/document/d/1VA6ihOr3JNRG0xehB56kJF9N9VVrRakPv2VPzgW3Ln8/edit#)
 
-[[tier 1\|tier 1]] people:
+[[tier 1\|tier 1]] researchers:
 [thesephist](https://twitter.com/thesephist), [tylerangert](https://twitter.com/tylerangert), [andy matuschak](https://twitter.com/andy_matuschak), [robert haisfield](https://twitter.com/RobertHaisfield), [alexander obenauer](https://twitter.com/alexobenauer) (theorists)
 [maggie appleton](https://twitter.com/maggieappleton/) , [sari azout](https://twitter.com/sariazout), [serj hunt](https://twitter.com/Serjhunt_ARK), [raghav agrawal](https://twitter.com/impactology), [john nulls](https://twitter.com/johnnulls), [andrew altshuller](https://twitter.com/1eo) (curators)
 [[softspace\|softspace]]'s [Yiliu Shen-Burke](https://twitter.com/softspaceninja) / [[kosmik\|kosmik]]'s [paul rony](https://twitter.com/Paul_Rony) / [[fermat.ws\|fermat.ws]]' [pol baladas](https://twitter.com/polbaladas) / [[excalidraw\|excalidraw]]'s [zsolt viczián](https://twitter.com/zsviczian) / [[tweetscape\|tweetscape]]'s [nick torba](https://twitter.com/nicktorba) & [julian fleck](https://twitter.com/j0lian) / [[metacrisis.xyz\|metacrisis.xyz]]'s [[stephen reid\|stephen reid]] / [[fromsergio\|fromsergio]] (developers)
@@ -256,7 +201,85 @@ relevant organizations:
 [Chie Integrates](https://www.chieintegrates.com/)
 [Commons Engine](https://commonsengine.org/services/)
 [VillageLab](https://villagelab.net/)
+
+#### (mostly) FOSS personal tech stacks
+
+visual bookmarks navigation:
+[[interneto\|interneto]]
+[[webcrate\|webcrate]]
+[[linkace\|linkace]]
+[[otter manager\|otter manager]]
+[[raindrop.io\|raindrop.io]]
+[[toby\|toby]]
+
+file management:
+[[eagle.cool\|eagle.cool]]
+
+desktop customization / ricing:
+[[unix customization\|unix customization]] / [[rainmeter\|rainmeter]] / [[screenstyler\|screenstyler]]
+
+PKM setups:
+[obsidian projects dashboard](https://bagerbach.com/blog/projects-and-goals-obsidian) / [Rainbell129/Obsidian-Homepage: A dashboard for your obsidian vault.](https://github.com/Rainbell129/Obsidian-Homepage)
+[[juggl\|juggl]] / [[breadcrumbs\|breadcrumbs]] / [[dataview\|dataview]]
+
+community-curated knowledge networks:
+[[sublime (ex-startupy)\|sublime (ex-startupy)]]
+[[melon\|melon]]
+[Top Curators On The Internet - Google Docs](https://docs.google.com/document/d/1PNYQmjOdAmKbRzLGI83nvSQ5hRRlIJz7VZq13WwehtQ/edit)
+
+```ad-warning
+title: areas still lacking great references
+collapse:
+even with the rise of [[artificial intelligence|AI]] in the past few years, i still haven't found any great references on:
+
+[[dashboard design]] / [[interface design]]
+[[online research]] / [[intentional search engines]]
+[[online learning]] / [[online education]]
+[[algorithm design]] / [[algorithm optimization]]
+[[personal algorithm training]]
+[[internet mapping]] / [[knowledge mapping]]
+[[social network analysis]]
+
+some good references are compiled on my twitter lists:
+
+[tier 1 design/code](https://twitter.com/i/lists/1556224144689319936)
+[AI orgs/tools](https://twitter.com/i/lists/1649831096517906434)
+[mapping](https://twitter.com/i/lists/1471092243159257094)
+[data management/visualization](https://twitter.com/i/lists/1340473237743013894)
+[design](https://twitter.com/i/lists/1340472732803358722)
+
+if you do have any recommendations, please send them my way!
+```
+
+#### core comms:
+
+cada vez mais acessível: design intencional de sistemas pessoais. (apps/tecnologias q a gente usa). entretenimento q a gente consome, onde direcionamos nossa atenção, ferramenta de gestão da vida (nossa vida e os jogos que a gente joga).
+
+conscious/intentional/humane tech/systems design:
+
+ref: https://www.inkandswitch.com/embark/
+[octalysis](https://yukaichou.com/gamification-examples/octalysis-complete-gamification-framework/)
+[superbetter](https://superbetter.com/)
+[habitica](https://habitica.com/) / [lifeRPG](https://play.google.com/store/apps/details?id=com.jayvant.liferpgmissions) (both open-source)
+
+lists:
+https://codeberg.org/teaserbot-labs/delightful-humane-design
+
+⭐ tools:
+[invidious](https://invidious.io/) - alternative youtube front-end
+[nitter](https://nitter.net/) - alternative twitter front-end
+[[tweetbase\|tweetbase]]
+[[tweetscape\|tweetscape]]
+[[nodus labs\|nodus labs]]
+[[AI knowledge graphs\|AI knowledge graphs]]
+
+---
 #### data breakdown:
+
+networks / data sources:
+[[google\|google]] / [[youtube\|youtube]] / [[wikipedia\|wikipedia]] / [[twitter\|twitter]] / [[reddit\|reddit]] / [[facebook\|facebook]] / [[instagram\|instagram]] / [[substack\|substack]] ([[RSS feed\|RSS feed]]) / [[podcast\|podcast]] ([[snipd\|snipd]]) / [[tbprocessed/base notes/ventures - general/discord\|discord]]
+[[golden\|golden]] / [[sublime (ex-startupy)\|sublime (ex-startupy)]] / [[mastodon\|mastodon]] / [[bluesky\|bluesky]] / [[are.na\|are.na]] / [[glasp\|glasp]] / [[melon\|melon]]
+[[pinterest\|pinterest]] / [[artstation\|artstation]] / [[dribbble\|dribbble]] / [[behance\|behance]]
 
 files management:
 [[bookmarks\|bookmarks]] - [[raindrop\|raindrop]]
