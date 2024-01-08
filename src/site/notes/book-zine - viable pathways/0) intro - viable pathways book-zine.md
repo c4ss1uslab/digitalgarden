@@ -35,7 +35,7 @@ it is not required to be well-familiarized with these concepts to continue divin
 
 we're living an age of the [[metacrisis\|metacrisis]].
 
-our economy is based on large-scale game-theoretical win-lose dynamics, coupled with exponential technologies and extractivist paradigms, we have all the ingredients to compose a self-terminating dynamics.
+our economy is based on large-scale game-theoretical win-lose dynamics, coupled with exponential technologies and extractivist paradigms, we have all the ingredients to compose a self-terminating systems dynamics.
 
 our institutions and systems are failing in recognizing and addressing this - [[governments\|governments]], [[organizations\|organizations]], [[academia\|academia]], [[religions\|religions]], [[social systems\|social systems]]. this research aims to map the challenges we're facing, identify the approaches being tested, underserved solutions and the initiatives working to address them, as way to give us a deeper and wider understanding of our context.
 
