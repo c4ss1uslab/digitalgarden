@@ -8,7 +8,7 @@ a living, hyper-linked multimedia book-zine that acts as a theoretical research 
 title: about
 collapse:
 this book-zine is a compilation of the findings, learnings and results of the experiment i've been running for the past 5 years - designing and living my life as an [[open-source human experiment|open-source human]].
-it also aims to establish the foundational knowledge commons for the [[reality disruption labs]] (a public [[life intelligence\|life intelligence]] collaboratory and [[metamodern guild]] for [L1F3 players](https://c4ss1us.notion.site/l1f3-players-unite-67b9592280554dc98a7e71918c1204c0) i've been co-creating).
+it also aims to establish the foundational knowledge commons for the [[reality disruption labs]] - a public [[life intelligence\|life intelligence]] collaboratory and [[metamodern guild]] for [L1F3 players](https://c4ss1us.notion.site/l1f3-players-unite-67b9592280554dc98a7e71918c1204c0) i've been co-creating.
 ```
 
 ##### intro
