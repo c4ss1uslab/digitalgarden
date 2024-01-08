@@ -35,7 +35,9 @@ it is not required to be well-familiarized with these concepts to continue divin
 
 we're living an age of the [[metacrisis\|metacrisis]].
 
-our institutions and systems are failing us - [[governments\|governments]], [[organizations\|organizations]], [[academia\|academia]], [[religions\|religions]], [[social systems\|social systems]]. this research aims to map the challenges we're facing, identify the approaches being tested, underserved solutions and the initiatives working to address them, as way to give us a deeper and wider understanding of our context.
+our economy is based on large-scale game-theoretical win-lose dynamics, coupled with exponential technologies and extractivist paradigms, we have all the ingredients to compose a self-terminating dynamics.
+
+our institutions and systems are failing in recognizing and addressing this - [[governments\|governments]], [[organizations\|organizations]], [[academia\|academia]], [[religions\|religions]], [[social systems\|social systems]]. this research aims to map the challenges we're facing, identify the approaches being tested, underserved solutions and the initiatives working to address them, as way to give us a deeper and wider understanding of our context.
 
 one peculiarity about my research is that since ["unhealthy individuals create unhealthy systems and institutions"], i aim to highlight solutions and initiatives at both the individual and systems level - which isn't common. most people/institutions are concerned with either "personal" or "societal" challenges.
 
@@ -51,15 +53,15 @@ for a deeper understanding of the "memetic tribes of the metacrisis", check out 
 
 there are many resources and perspectives to help you dive into it, and although i'm aware that the '[[metacrisis\|metacrisis]]' is not a sexy/enticing term, it's through it that i found the most profoundly meaningful and cohesive analyses of our current situation, both as individuals and as a society at our time and age.
 
-[[daniel schmachtenberger\|daniel schmachtenberger]] has been the primary spokesperson about it, and i highly, highly, highly recommend his videos - [curated playlist here].
+[[daniel schmachtenberger\|daniel schmachtenberger]] has been the primary spokesperson about it, and i highly, highly, highly recommend his videos - [curated playlist here](https://www.youtube.com/playlist?list=PLj8H7uBaUwDvd18QrEPugPMD5Z6Y0W-vB).
 
 besides daniel's work, the simplest, yet most clarifying perspectives i found came from [[zak stein\|zak stein]] and the [[transformative education alliance\|transformative education alliance]] on their essay "[education is the metacrisis](https://systems-souls-society.com/education-is-the-metacrisis/)".
 
 for further breakdowns, [[jonathan rowson\|jonathan rowson]] did an amazing deep dive into multiple perspectives an essay called [tasting the pickle: ten flavours of meta-crisis and the appetite for a new civilisation](https://systems-souls-society.com/tasting-the-pickle-ten-flavours-of-meta-crisis-and-the-appetite-for-a-new-civilisation/), [[john verveake\|john verveake]] also has a great 50-lecture series on [[meaning crisis\|awakening from the meaning crisis]], [[josh field\|josh field]] shares very unique perspectives on the [[flow crisis\|flow crisis]], and there's a lot more you can discover by browsing the [metacrisis.org](https://metacrisis.org/) website or looking at very disruptive metacrisis-informed projects such as [[tbprocessed/base notes/ventures - general/SEEDS\|SEEDS]] and [[tbprocessed/base notes/ventures - general/holochain\|holochain]] (both are deep in the web3 space, i don't recommend if you're a beginner).
 
-the major value i found in attempting to assess and conceptualize our current state is to recognize and develop vocabulary over the complex systems dynamics that are constantly affecting us, so we can be more aware of them and empower ourselves to make better sense of what's going on and coordinate towards more desirable presents and futures.
+the major value i found in attempting to assess and conceptualize our current state - both as individuals and a society - is to recognize and develop vocabulary over the complex systems dynamics that are constantly affecting us, so we can be more aware of them and empower ourselves to make better sense of what's going on and coordinate towards more desirable presents and futures.
 
-after all, there's wisdom in the saying:
+after all, there's a lot of wisdom in the saying:
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
