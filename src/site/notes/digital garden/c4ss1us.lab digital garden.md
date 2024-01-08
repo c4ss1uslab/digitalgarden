@@ -43,9 +43,9 @@ other inquiries i intend to address:
 
 *but not any kind of game.* a game that's deeply fun, collaborative, challenging, meaningful and fulfilling. a game that honors the beauty and mystery of life, that challenges and supports us to discover ourselves, develop our potential, and share our gifts with others.
 
-you can read a lot more about the motivations, background and metaphysical, ontological and epistemological basis of this research at [[book-zine - viable pathways/viable pathways book-zine\|viable pathways book-zine]].
+you can read a lot more about the motivations, background and metaphysical, ontological and epistemological basis of this research at my [[book-zine - viable pathways/0) intro - viable pathways book-zine\|viable pathways book-zine]].
 
-or you can dive in
+or you can start diving in below.
 ### questions
 
 
