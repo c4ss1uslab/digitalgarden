@@ -6,15 +6,15 @@
 
 8 forms of capital - green pill book:
 
-![8 forms of capital - owocki green pill book.png](/img/user/8%20forms%20of%20capital%20-%20owocki%20green%20pill%20book.png)
+![8 forms of capital - owocki green pill book.png](/img/user/images/8%20forms%20of%20capital%20-%20owocki%20green%20pill%20book.png)
 
 8 forms of capital + currency - ethan roland & gregory landua:
 
-![8 forms of capital + currency - ethan roland & gregory landua.png|656](/img/user/8%20forms%20of%20capital%20+%20currency%20-%20ethan%20roland%20&%20gregory%20landua.png)
+![8 forms of capital + currency - ethan roland & gregory landua.png|656](/img/user/images/8%20forms%20of%20capital%20+%20currency%20-%20ethan%20roland%20&%20gregory%20landua.png)
 
 12 forms of capital - kailo mentoring group:
 
-![12 forms of capital - kailo mentoring group.png](/img/user/12%20forms%20of%20capital%20-%20kailo%20mentoring%20group.png)
+![12 forms of capital - kailo mentoring group.png](/img/user/images/12%20forms%20of%20capital%20-%20kailo%20mentoring%20group.png)
 
 ##### experimental breakdowns on forms/types of capital/value
 
