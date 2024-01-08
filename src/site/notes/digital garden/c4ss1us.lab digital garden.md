@@ -46,9 +46,6 @@ other inquiries i intend to address:
 you can read a lot more about the motivations, background and metaphysical, ontological and epistemological basis of this research at my [[book-zine - viable pathways/0) intro - viable pathways book-zine\|viable pathways book-zine]].
 
 or you can start diving in below.
-### questions
-
-
 ### core essays
 
 1) 🌿 [[core essays/👋🏻 my thesis - thriving in the metacrisis with the help of life support systems, networks and games\|👋🏻 my thesis - thriving in the metacrisis with the help of life support systems, networks and games]]
