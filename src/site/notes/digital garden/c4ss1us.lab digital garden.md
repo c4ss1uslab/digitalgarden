@@ -25,13 +25,13 @@ choose your path below!
 ## 1) my research - structured way
 
 ![research overview 1.png|700](/img/user/research%20overview%201.png)
-(*clickable soon!* *for now, you'll find an index below.*)
+(*clickable soon!* *for now, you'll find a few essays below.*)
 
 the goal of my research was to map, understand and curate multiple cohesive approaches and possibilities to answer the question:
 
 > **how can we address the spiritual/psychological, ecological, economic, political and educational crises we're going through and create the more beautiful world our hearts know is possible?**
 
-by sharing this, my aim is to present what i found as viable pathways to address the metacrisis and enable new, more regenerative lifestyles/ways of being.
+by sharing my findings, i aim to present what i see as viable pathways to address the metacrisis and enable new, more regenerative lifestyles/ways of being.
 
 other inquiries i intend to address:
 
