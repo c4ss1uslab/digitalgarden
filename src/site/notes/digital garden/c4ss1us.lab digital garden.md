@@ -27,9 +27,13 @@ choose your path below!
 ![research overview 1.png|700](/img/user/research%20overview%201.png)
 (*clickable soon!* *for now, you'll find an index below.*)
 
-present pathways to address the metacrisis and enable new lifestyles/ways of being.
+the goal of my research was to map, understand and curate multiple cohesive approaches and possibilities to answer the question:
 
-my research intends to address the inquiries:
+> **how can we address the spiritual/psychological, ecological, economic, political and educational crises we're going through and create the more beautiful world our hearts know is possible?**
+
+by sharing this, my aim is to present what i found as viable pathways to address the metacrisis and enable new, more regenerative lifestyles/ways of being.
+
+other inquiries i intend to address:
 
 > **1) how can we create art, technology and games in service of consciousness development and ecosystems regeneration?**
 
@@ -39,21 +43,25 @@ my research intends to address the inquiries:
 
 *but not any kind of game.* a game that's deeply fun, collaborative, challenging, meaningful and fulfilling. a game that honors the beauty and mystery of life, that challenges and supports us to discover ourselves, develop our potential, and share our gifts with others.
 
-you can read a lot more about it at [[_003_processing notes/1) 🔍 research overview\|1) 🔍 research overview]].
+you can read a lot more about the motivations, background and metaphysical, ontological and epistemological basis of this research at [[book-zine - viable pathways/viable pathways book-zine\|viable pathways book-zine]].
+
+or you can dive in
 ### questions
 
 
 ### core essays
 
-1) 🌿 [[writings/👋🏻 my thesis - thriving in the metacrisis with the help of life support systems, networks and games\|👋🏻 my thesis - thriving in the metacrisis with the help of life support systems, networks and games]]
-2) 🌱 [[writings/🧘🏻‍♂️ self design as a system, encoded philosophy, integral spirituality and conscious life operating systems\|🧘🏻‍♂️ self design as a system, encoded philosophy, integral spirituality and conscious life operating systems]]
-3) 🌿 [[writings/💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons\|💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons]]
-4) 🌱 [[writings/🦸🏻‍♀️ design specs & constraints for enabling minimum viable vocational economies\|🦸🏻‍♀️ design specs & constraints for enabling minimum viable vocational economies]]
-5) 🌿 [[writings/🕹 life as play, collaborative life wisdom & ontological design as a revolutionary practice\|🕹 life as play, collaborative life wisdom & ontological design as a revolutionary practice]] 
-6) 🌿 [[writings/🌀 energy management, third spaces, context design, the rise of lo-fi;ambient content and the future of the creator economy\|🌀 energy management, third spaces, context design, the rise of lo-fi;ambient content and the future of the creator economy]]
-7) 🌱 [[writings/🌐 an introduction to L1F3 operating, management, playing and streaming systems\|🌐 an introduction to L1F3 operating, management, playing and streaming systems]]
+1) 🌿 [[core essays/👋🏻 my thesis - thriving in the metacrisis with the help of life support systems, networks and games\|👋🏻 my thesis - thriving in the metacrisis with the help of life support systems, networks and games]]
+2) 🌱 [[core essays/🧘🏻‍♂️ self design as a system, encoded philosophy, integral spirituality and conscious life operating systems\|🧘🏻‍♂️ self design as a system, encoded philosophy, integral spirituality and conscious life operating systems]]
+3) 🌿 [[core essays/💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons\|💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons]]
+4) 🌱 [[core essays/🦸🏻‍♀️ design specs & constraints for enabling minimum viable vocational economies\|🦸🏻‍♀️ design specs & constraints for enabling minimum viable vocational economies]]
+5) 🌿 [[core essays/🕹 energy management, life as play, collaborative life wisdom & ontological design as a revolutionary practice\|🕹 energy management, life as play, collaborative life wisdom & ontological design as a revolutionary practice]] 
+6) 🌿 [[core essays/🌀 the rise of lo-fi;ambient content and the future of the creator, curation & experience economies\|🌀 the rise of lo-fi;ambient content and the future of the creator, curation & experience economies]]
+7) 🌱 [[core essays/🌐 an introduction to L1F3 operating, management, playing and streaming systems\|🌐 an introduction to L1F3 operating, management, playing and streaming systems]]
 
 note: these articles are still under construction/revision. the emojis represent their growth stage.
+
+my aim here isn't to provide definitive answers, but starting points. my hope if for this curation to serve as an overview, to give us some clarity of the territory and empower us as [[sensemakers\|sensemakers]] and regenerative [[players\|players]]. so we can start playing these [[games\|games]] more consciously, easily and collaboratively.
 
 ## 2) notes breakdown
 
@@ -105,7 +113,7 @@ level of depth:
 🌲 [[life design\|life design]] / [[tbprocessed/base notes/topics/life gamification\|life gamification]]
 	[[_001_toolkit/000 ⛓ toolkit index\|🧰 l1f3 player toolkit]]
 🌲 [[self-management\|self-management]]
-	🧰 [[life management methodology\|life management methodology]]
+	🧰 [[l1f3 management methodology\|l1f3 management methodology]]
 	🔥 [life manager (ísis' approach)](https://www.youtube.com/watch?v=Nxo8hX97ojk) (portuguese)
 🌿 [[spiritual lineages\|wisdom traditions]] & [[ecologies of practices\|ecologies of practices]]
 	🌿 [[integral yoga\|integral yoga]]
@@ -150,7 +158,7 @@ level of depth:
 #### 👨🏻‍🔬 [[c4ss1us.lab\|c4ss1us.lab]]
 ##### 💻 [[technology\|technology]]
 🌲 [[tbprocessed/base notes/topics/knowledge management\|PKM]] / [[life management\|life management]]
-	🔩 [[life management methodology\|life management methodology (LMM)]] ([[obsidian system\|obsidian system]])
+	🔩 [[l1f3 management methodology\|life management methodology (LMM)]] ([[obsidian system\|obsidian system]])
 	🔩 [[disruptive life management system\|DLMS - disruptive life management system]] ([[notion system\|notion system]])
 	🔩 [[tbprocessed/base notes/tools;products - proprietary/tools/life organization & visualization system\|LOVS - life organization & visualization system]] ([[notion system\|notion system]])
 	📂 [[knowledge management methodologies\|knowledge management methodologies]]
@@ -168,7 +176,7 @@ level of depth:
 	🧪 [[l1f3 projects' references map\|l1f3 projects' references map]]
 	🧪 [[tbprocessed/base notes/tools;products - proprietary/tools/IRDI\|IRDI - integral radar of developmental initiatives]]
 	🧪 [[omnichannel curation feed\|omnichannel curation feed]]
-	💡 [[tbprocessed/base notes/tools;products - proprietary/tools/research;visualization tool;agent\|research;visualization tool;agent]]
+	💡 [[tbprocessed/base notes/tools;products - proprietary/tools/research;visualization agent\|research;visualization agent]]
 	💡 [[twitter map\|twitter map]]
 	💫 [[mapping videos\|mapping videos]]
 	💫 [[map-making workflow (excalidraw)\|map-making workflow (excalidraw)]]
