@@ -91,22 +91,22 @@ i honestly don't recommend going through the whole thing, unless you have time t
 -> nadia's classification summary:
 
 1 - [[skeumorphic maps\|skeumorphic maps]]
-![1 - skeumorphic maps.png|500](/img/user/1%20-%20skeumorphic%20maps.png)
+![1 - skeumorphic maps.png|500](/img/user/images/1%20-%20skeumorphic%20maps.png)
 
 2 - [[schematic maps\|schematic maps]]
-![2 - schematic maps.png|500](/img/user/2%20-%20schematic%20maps.png)
+![2 - schematic maps.png|500](/img/user/images/2%20-%20schematic%20maps.png)
 
 3 - [[matrix maps\|matrix maps]]
-![3 - matrix maps.png|500](/img/user/3%20-%20matrix%20maps.png)
+![3 - matrix maps.png|500](/img/user/images/3%20-%20matrix%20maps.png)
 
 4 - [[chinese menu maps\|chinese menu maps]]
-![4 - chinese menu maps.png|500](/img/user/4%20-%20chinese%20menu%20maps.png)
+![4 - chinese menu maps.png|500](/img/user/images/4%20-%20chinese%20menu%20maps.png)
 
 5 - [[word cloud maps\|word cloud maps]]
-![5 - word cloud maps.png|500](/img/user/5%20-%20word%20cloud%20maps.png)
+![5 - word cloud maps.png|500](/img/user/images/5%20-%20word%20cloud%20maps.png)
 
 6 - [[type of guy maps\|type of guy maps]]
-![6 - type of guy maps.png|500](/img/user/6%20-%20type%20of%20guy%20maps.png)
+![6 - type of guy maps.png|500](/img/user/images/6%20-%20type%20of%20guy%20maps.png)
 
 ###### 4) lastly, other types of common maps:
 
