@@ -40,7 +40,7 @@ level of depth:
 🌲 [[life design\|life design]] / [[tbprocessed/base notes/topics/life gamification\|life gamification]]
 	[[_001_toolkit/000 ⛓ toolkit index\|🧰 l1f3 player toolkit]]
 🌲 [[self-management\|self-management]]
-	🧰 [[life management methodology\|life management methodology]]
+	🧰 [[l1f3 management methodology\|l1f3 management methodology]]
 	🔥 [life manager (ísis' approach)](https://www.youtube.com/watch?v=Nxo8hX97ojk) (portuguese)
 🌿 [[spiritual lineages\|wisdom traditions]] & [[ecologies of practices\|ecologies of practices]]
 	🌿 [[integral yoga\|integral yoga]]
@@ -85,7 +85,7 @@ level of depth:
 #### 👨🏻‍🔬 [[c4ss1us.lab\|c4ss1us.lab]]
 ##### 💻 [[technology\|technology]]
 🌲 [[tbprocessed/base notes/topics/knowledge management\|PKM]] / [[life management\|life management]]
-	🔩 [[life management methodology\|life management methodology (LMM)]] ([[obsidian system\|obsidian system]])
+	🔩 [[l1f3 management methodology\|life management methodology (LMM)]] ([[obsidian system\|obsidian system]])
 	🔩 [[disruptive life management system\|DLMS - disruptive life management system]] ([[notion system\|notion system]])
 	🔩 [[tbprocessed/base notes/tools;products - proprietary/tools/life organization & visualization system\|LOVS - life organization & visualization system]] ([[notion system\|notion system]])
 	📂 [[knowledge management methodologies\|knowledge management methodologies]]
@@ -103,7 +103,7 @@ level of depth:
 	🧪 [[l1f3 projects' references map\|l1f3 projects' references map]]
 	🧪 [[tbprocessed/base notes/tools;products - proprietary/tools/IRDI\|IRDI - integral radar of developmental initiatives]]
 	🧪 [[omnichannel curation feed\|omnichannel curation feed]]
-	💡 [[tbprocessed/base notes/tools;products - proprietary/tools/research;visualization tool;agent\|research;visualization tool;agent]]
+	💡 [[tbprocessed/base notes/tools;products - proprietary/tools/research;visualization agent\|research;visualization agent]]
 	💡 [[twitter map\|twitter map]]
 	💫 [[mapping videos\|mapping videos]]
 	💫 [[map-making workflow (excalidraw)\|map-making workflow (excalidraw)]]
