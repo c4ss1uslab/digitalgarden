@@ -4,9 +4,11 @@
 
 ###### main resources
 
-https://metacrisis.org/ - metacrisis meta-resource
+https://metacrisis.org/ - a metacrisis meta-resource.
 
 https://metacrisis.xyz/ - a few folks trying to curate, articulate and coordinate around the metacrisis.
+
+https://www.gameb.wiki/ - a wiki with not a lot, but very relevant content, great for rabbit hole investigations/deep dives.
 
 ###### my favorite references:
 
@@ -27,10 +29,12 @@ which can then be broken down into several others:
 
 ###### other great perspectives on the metacrisis:
 
-[education is the metacrisis - manifesto for the Transformative Education Alliance](https://systems-souls-society.com/education-is-the-metacrisis/) - one of the best breakdowns of the metacrisis + very powerful, inspiring writing
+[[zak stein\|zak stein]] - [education is the metacrisis - manifesto for the Transformative Education Alliance](https://systems-souls-society.com/education-is-the-metacrisis/) - one of the best breakdowns of the metacrisis + very powerful, clear, inspiring writing
 
-[[flow crisis\|flow crisis]] - really underappreciated perspectives on it
+[[jonathan rowson\|jonathan rowson]] - [tasting the pickle: ten flavours of meta-crisis and the appetite for a new civilisation](https://systems-souls-society.com/tasting-the-pickle-ten-flavours-of-meta-crisis-and-the-appetite-for-a-new-civilisation/) - perspecteeva
 
-[[meaning crisis\|meaning crisis]] - lots of good content from john verveake around it, more useful for understanding/navigating the psychological crises of our time
+[[josh field\|josh field]] - [[flow crisis\|flow crisis]] - a few less-known but very interesting/valuable perspectives on it
+
+[[john verveake\|john verveake]] - [[meaning crisis\|meaning crisis]] - lots of good content from around it, more useful for understanding/navigating the (inner) psychological crises of our time
 
 [life itself ecosystem map](https://ecosystem.lifeitself.us/) - a pretty good map of the organizations/communities in the space
