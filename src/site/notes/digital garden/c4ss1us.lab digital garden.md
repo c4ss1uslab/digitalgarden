@@ -31,7 +31,7 @@ the goal of my research was to map, understand and curate multiple cohesive appr
 
 > **how can we address the spiritual/psychological, ecological, economic, sociopolitical, technological and educational challenges we're going through and create the more beautiful world our hearts know is possible?**
 
-by sharing my findings, i aim to present what i see as viable pathways to address the metacrisis and enable new, more regenerative lifestyles/ways of being.
+by sharing my findings, i aim to present what i see as viable pathways to address the metacrisis and enable new, more regenerative systems, lifestyles and ways of being.
 
 other inquiries i intend to address:
 
@@ -44,9 +44,11 @@ other inquiries i intend to address:
 *but not any kind of game.* a game that's deeply *fun, collaborative, challenging, meaningful* and *fulfilling*.
 a game that honors the beauty and mystery of life, that challenges and supports us to flourish - to discover ourselves, unfold our potentials and share our gifts with others.
 
+some people have a resistance with the [[game\|game]] frame because of its often seen competitive, win-lose dynamics. the concept of game i'm using here is closer to the [[infinite games\|infinite game]] and [[omni-win dynamics\|omni-win dynamics]] observed by thinkers such as [[buckminster fuller\|buckminster fuller]] and communities such as [[metagame.wtf\|metagame.wtf]] and [[startover.xyz\|startover.xyz]].
+
 you can read a lot more about the motivations, background and metaphysical, ontological and epistemological basis of this research on my [[book-zine - viable pathways/0) intro - viable pathways book-zine\|viable pathways book-zine]].
 
-or you can start diving in below.
+or you can jump right in below.
 ### core essays
 
 1) 🌿 [[core essays/👋🏻 my thesis - thriving in the metacrisis with the help of life support systems, networks and games\|👋🏻 my thesis - thriving in the metacrisis with the help of life support systems, networks and games]]
