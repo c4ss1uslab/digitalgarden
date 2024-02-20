@@ -29,21 +29,22 @@ choose your path below!
 
 the goal of my research was to map, understand and curate multiple cohesive approaches and possibilities to answer the question:
 
-> **how can we address the spiritual/psychological, ecological, economic, political and educational crises we're going through and create the more beautiful world our hearts know is possible?**
+> **how can we address the spiritual/psychological, ecological, economic, sociopolitical, technological and educational challenges we're going through and create the more beautiful world our hearts know is possible?**
 
 by sharing my findings, i aim to present what i see as viable pathways to address the metacrisis and enable new, more regenerative lifestyles/ways of being.
 
 other inquiries i intend to address:
 
-> **1) how can we create art, technology and games in service of consciousness development and ecosystems regeneration?**
+> **1) how can we support individuals and groups to create art, technology and games in service of consciousness development and ecosystems regeneration?**
 
 *a.k.a. how can we develop systems and structures to support life on earth?*
 
-> **2) how can we transform life into a game?**
+> **2) how can we make life more like a game?**
 
-*but not any kind of game.* a game that's deeply fun, collaborative, challenging, meaningful and fulfilling. a game that honors the beauty and mystery of life, that challenges and supports us to discover ourselves, develop our potential, and share our gifts with others.
+*but not any kind of game.* a game that's deeply *fun, collaborative, challenging, meaningful* and *fulfilling*.
+a game that honors the beauty and mystery of life, that challenges and supports us to flourish - to discover ourselves, unfold our potentials and share our gifts with others.
 
-you can read a lot more about the motivations, background and metaphysical, ontological and epistemological basis of this research at my [[book-zine - viable pathways/0) intro - viable pathways book-zine\|viable pathways book-zine]].
+you can read a lot more about the motivations, background and metaphysical, ontological and epistemological basis of this research on my [[book-zine - viable pathways/0) intro - viable pathways book-zine\|viable pathways book-zine]].
 
 or you can start diving in below.
 ### core essays
@@ -62,7 +63,7 @@ my aim here isn't to provide definitive answers, but starting points. my hope if
 
 ## 2) notes breakdown
 
-alternatively, if you want to explore these topics on your own, you can see below a high-level skeleton of the main projects, prototypes and references i've been working with. some of these will be more structured pages, others will be links to resources, others are still blank. follow your own judgment! 🙃
+alternatively, if you want to explore these topics on your own, you can see below a high-level skeleton of the main projects, prototypes and references i've been working with. some of these will be more structured pages, others will be links to resources, others are still blank. follow your own judgment/curiosity! 🙃
 
 on the contents below, the emojis mean different things. here's their caption:
 
