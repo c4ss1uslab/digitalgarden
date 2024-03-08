@@ -7,8 +7,47 @@ draft link: https://medium.com/@cassiuscarvalho/life-as-play-collaborative-life-
 ---
 to add:
 
-lilah
 maya
+lilah -> mahalilah
+
+energy distinctions:
+
+###### most common:
+
+self-management (GTD) stuff:
+inspiration / motivation / discipline - ratinhos/elefantes/borboletas
+
+###### simplest/most accepted yet very useful:
+passive vs active / open vs closed (yin vs yang)
+[[5 bodies\|5 bodies]] (& similar approaches)
+hierarchy of needs (& similar approaches)
+[[4 elements\|4 elements]] (& similar approaches - [[4 states\|4 states]], [[4 feelings\|4 feelings]])
+
+###### distinctions from a few more empirical fields (that i found useful) but can easily be pseudo-sciency, and thus require a much deeper/more careful investigation:
+
+CNV wheel of feelings 
+needs -> 7 chakras / tzolkin / law of time - plasmas
+possibility management - torus technology / possibilitator toolbelt
+eletromagnetic fields (sacred geometry / water studies / feng shui -> geodesic domes & bucky fuller's synergistics stuff), heartmath, tantra, bioenergetics, human design...
+
+for clarity: i believe all of them can be extremely powerful fields of initiation and self-discovery if you find the right guidance. but they're still often times filled with mystery/too many assumptions and unknowns. so it may get overwhelming or very confusing really fast.
+
+for me, i found that slowly progressing through them has felt like an adequate strategy.
+
+###### my favorite heuristic device
+
+besides these, **the simplest and most powerful framework** that continues to give me a lot of insights is [[integral theory\|integral theory]]'s **[[AQAL\|AQAL]]** - quadrants / levels / lines / states / types.
+
+if you're unfamiliar with it, i **highly**, **highly** suggest checking it out via a ["map of human knowledge" video] + [integral approach link]. perhaps you won't fully "get it" or resonate with it at first, but the more you interact with it, the more i believe you'll start to see its usefulness and wisdom. 🙃 and as a very practical example of its use, let's consider this framework by applying it to our matter at hand:
+
+- what are the "types" of energy?
+- what are their "states"?
+- what "levels" of energy are possible/exist?
+- in what "dimensions" does energy exist? ('equivalent' to quadrants)
+
+just by considering these inquiries, especially over time, the answers that arise can give you a sense of uncovering your inner workings and thus, of life itself. that's the magic of this framework. it's an extremely broadly applicable set of metaphysical categories, or more simply, *essential forms of how our reality operates*.
+
+*in this example application, there's one missing elements which is lines. since this is a high-level inquiry, i believe the answers in this context would be very similar to the reflection on "types", so i didn't add it. on a more serious, more structured inquiry, it could also generate important reflections and distinctions. i'm not there yet. :)
 
 ###### life as play
 
@@ -20,12 +59,15 @@ existem profissionais dedicados analistas de esportes, de negócios, de jogos (c
 
 por que não temos esse nível de seriedade/comprometimento/importância com a nossa vida?
 
+thankfully with the popularization of therapies and access to other forms of personal care, i see that this reality is already changing, but still it's widely not seen as "applicable to everyone". it's especially clear through the lenses of [[class\|class]] - there's still a big divide in those who care for (lots of unrecognized forms of care, primarily provided by women and the elderly), and those who are cared for (those who can afford it).
+
+a few communities that practice this in some way:
 - quantified self / biohacking [saúde / energia]
 - produtividade/organização (notion / rize) -> PKM/TfT (obsidian / infranodus) [gestão de tempo / conhecimento]
 - chatGPT code interpreter [personal data analysis, sensemaking] / discovery algorithms/newsletters/follows [curadoria]
 - emocional / espiritual (heartmath, PM practices, integral dashboard, coaching)
 
-[[jarvis\|jarvis]] vs [[solo leveling\|solo leveling]] player system / [[nanomachine\|nanomachine]] / [[blue lock\|blue lock]]
+[[jarvis\|jarvis]] vs [[solo leveling\|solo leveling]] player system / [[nanomachine\|nanomachine]] / [[blue lock\|blue lock]] 
 
 [[AI agents\|AI agents]]
 
