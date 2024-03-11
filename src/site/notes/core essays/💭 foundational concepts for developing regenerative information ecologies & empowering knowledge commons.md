@@ -8,46 +8,45 @@ draft link: https://medium.com/@cassiuscarvalho/foundational-concepts-for-develo
 
 draft:
 
-
 inb4: this article could be multiple articles, which could greatly help the reader by breaking down the subjects into simpler parts. however, that's not my objective.
 
-what i want to do with this piece is to present multiple references and perspectives on the same “information design/management” space (which is a huge field), in a way that is both bringing something new to the discussion and challenging us to hold all of this complexity in a 5-body awareness.
+my goal with this piece is to present multiple references and perspectives on the same “information design/management” space (which is a huge field), in a way that is both bringing something new to the discussion and challenging us to hold all of this complexity in a state of 5-body awareness.
 
-i.e. it's not about intectually understanding the contents of this article, but to "get it" in all of our 5 bodies - physically, emotionally, intellectually, energetically, archetypically.
+i.e. it's not about intelectually understanding the contents of this article, but "getting it" in all of our 5 bodies - physically, emotionally, intellectually, energetically, archetypically.
 
 it can take multiple readings, reflecting and referring back to this over a long period of time. that's expected. just like it took me years to consolidate it.
 
-i'll be adapting this into simpler, smaller pieces of content and posting them on social media as well, but this is the place i go as deep into it as it gets, and where you can refer back to.
+i'll be adapting this into simpler, smaller pieces of content and posting them on social media as well, but this is the place where i'll dive as deep into it as i can, and where you can refer back to.
 
 if you’re interested in further simplifying this and/or transforming into visual forms, especially maps/boards, let me know! i already have some sketches and would love to collaborate.
 
-> tl;dr:
+> context:
 
-> i’ve been very involved with two online movements/communities (game b & PKM) for about 5 and 9 years, respectively. this article is a compilation of the best concepts/resources i’ve gathered from them — and from outside of them, but that are relevant to what they’re about.
+> i’ve been very involved with two online movements/communities ([[concepts/metacrisis\|metacrisis]] & [[tbprocessed/base notes/topics/knowledge management\|knowledge management]]) for about 5 and 9 years, respectively. this article is a compilation of the best concepts/resources i’ve gathered from them — and from outside of them, but that are relevant to what they’re about.
 
-> whether you’re familiar with these communities/terms or not, my goal is to bring new, powerful perspectives as to how we can address some of the major crises we’re living through: the crises of imagination, meaning, agency and connection  —  which i argue are all sustained by our degraded information ecology, adversarial economic system and siloed data structures/knowledge management tools.
+> whether you’re familiar with these communities/terms or not, my goal is to bring new, powerful perspectives as to how we can address some of the major crises we’re living through: the crises of imagination, meaning, agency and connection  —  which i argue are all sustained by downward spiraling feedback loops between our degraded information ecology, adversarial economic system, [unloving] coordination mechanisms and siloed data structures/knowledge management tools.
 
-> assumed audience: you’re familiar with domains/terms such as regeneration, online media and self-development, or at least you can infer how/why they’re relevant to our lives. you care about transforming yourself and making society a better place.
+> assumed audience: you’re familiar with domains/terms such as regeneration, self-development and the online media landscape, or at least you can infer how/why they’re relevant to our lives. you care about transforming yourself and making society a better place.
 
-hello. before i jump into the main subject of this article  —  information ecology and knowledge commons  —  i want to share with you about where this research is coming from.
+before i jumping into the main subjects of this article  —  [[information ecology\|information ecology]] and [[knowledge commons\|knowledge commons]]  —  i want to share with you a bit about my background, worldview and where i'm oriented towards, so you know some of my biases and where this research is coming from.
 
-i’ve dedicated the past few years of my life pretty much solely to a metaphysical, epistemological and ontological research & experimentation, and i’m happy to say that i’ve finally found clarity on the missions that i’m committed to working towards.
+hopefully this can support you to do your own [[tbprocessed/base notes/concepts - general/sensemaking\|sensemaking]] on the subjects i'm sharing here.
 
-they are:
+the missions i’m committed to working towards are:
 
 1. **transforming life into a game**. building/curating/integrating _systems, tools and practices_ for _playing life_ in more shared, collaborative, regenerative and disruptive ways.
-2. **creating glocal systems that are regenerative by design**, _empowering and supporting all human beings_, as well as raising their level of responsibility with respect and collaboration with all other forms of life.
-3. **enabling conscious lifestyles** that are shared, collaborative, regenerative and disruptive by design, promoting greater _awareness, freedom, empowerment, adventure/fun, healing and contribution_.
+2. **creating glocal systems that are antifragile and regenerative by design**, _empowering and supporting all human beings_, as well as raising their level of responsibility with respect and collaboration with all other forms of life.
+3. **enabling conscious lifestyles** that are shared, collaborative, fun, regenerative and disruptive by design. promoting greater _awareness, freedom, empowerment, adventure/fun, healing and contribution_.
 
 i share this as a way to clarify the “agenda” behind this article (the biases/direction of the writer), and as means to find others who are on similar journeys and wish to collaborate towards these desired futures.
 
 these 3 themes of work came both from my research on systemic challenges, game theory and existential risk, as well as personal intuitions, insights and awakenings i had on my self-knowledge path.
 
-throughout this path, i’ve found many organizations, communities and people doing amazing work. the 5 that impacted me the most being: [possibility management](http://possibilitymanagement.com/), [SEEDS](http://joinseeds.earth), [holochain](http://holochain.org), [L1F3.STREAM](https://www.youtube.com/playlist?list=PLliJTfwEBewrsBny4TAusQGNBfgzWB8QN) and [mundos possíveis](https://www.instagram.com/mundos_possiveis/) (the last two only have content in brazilian portuguese for now).
+throughout this path, i’ve found many organizations, communities and people doing amazing work. a few of the ones that impacted me the most being: [[daniel schmachtenberger\|daniel schmachtenberger]], [[ken wilber\|ken wilber]], [[maggie appleton\|maggie appleton]], [metagame], [SEEDS](http://joinseeds.earth), [possibility management](http://possibilitymanagement.com/), [protocol labs], [holochain](http://holochain.org), [subconscious], [L1F3.STREAM](https://www.youtube.com/playlist?list=PLliJTfwEBewrsBny4TAusQGNBfgzWB8QN), [high stakes academy] and [mundos possíveis](https://www.instagram.com/mundos_possiveis/) (the last three only have content in brazilian portuguese for now).
 
 so much so that to varying degrees, i contribute or contributed to each of these projects for some time. i’ll still write about why i believe each of them is relevant, what they bring of uniquely valuable to the world, along with lots of other references of people/organizations doing similar/complimentary work.
 
-in short, each of these are working on different very important systemic needs of our civilization. from upgrading human thoughware and conducting authentic adulthood/psycho-spiritual initiations, to building systems for enabling glocal economies that are regenerative by design, giving people agency and ownership over their own data and technologies, visualizing themselves and every aspect of their lives and evolutionary journeys through data, and finding content, communities and experiences that expand, connect and propel us to grow.
+in short, each of these are working on different very important systemic needs of our civilization. from upgrading human thoughtware and conducting authentic adulthood/psycho-spiritual initiations, to building systems for enabling glocal economies that are regenerative by design, giving people agency and ownership over their own data and technologies, visualizing themselves and every aspect of their lives and evolutionary journeys through data, and finding content, communities and experiences that expand, connect and propel us to grow.
 
 after covering as much ground as i could in answering the question  — “_who’s building the next systems, tools and communities for an open, collaborative, regenerative civilization?_”, my intent in this article is to talk about **_what still remains/stands out as open questions and challenges for me_**.
 
@@ -59,7 +58,7 @@ i’m not advocating for “finding all of the answers and designing one-fits-al
 
 therefore, the “unsolved” challenges i’m talking about are:
 
-- **healing and transforming the information ecology**
+- **healing and transforming our information ecology**
 - **enabling a vocational economy**
 
 i’ll focus on the information ecology part on this article. the next one will be on the vocational economy, breaking down the 4 best approaches i’ve found so far  —  SEEDS, L1F3.STREAM, [metacurrency](http://metacurrency.org/) and [metagame](http://metagame.wtf).
@@ -397,4 +396,4 @@ the most promising projects i’ve discovered on this front are:
 - [subconscious](https://github.com/subconsciousnetwork/noosphere)
 - [anytype](https://anytype.io/)
 
-  but you have to speak 8 levels of nerd in order to "get" most of them (i spent 1 whole year living and breathing SEEDS to really get it, at most levels).
+  but you have to speak 8 levels of nerd in order to "get" most of them (i spent 1 whole year living and breathing SEEDS to really get it, at deeper levels).
