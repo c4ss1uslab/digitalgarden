@@ -21,19 +21,21 @@ let's dive in!
 ---
 #### foundational concepts
 
-the two major concepts that underpin this research and can help us orient ourselves on this path are: the [[metacrisis\|metacrisis]] and the "[[well-lived life\|well-lived life]]".
+the two major concepts that underpin this research and can help us orient ourselves on this path are: the [[concepts/metacrisis\|metacrisis]] and the "[[well-lived life\|well-lived life]]".
 
 ```ad-warning
 title: attention
 collapse:
-it is not required to be well-familiarized with these concepts to continue diving into this research, but if you take the time with it, it will give you much more depth, nuance and recognition of the territory moving forward, so i highly encourage you to do so.
+if you're new to these concepts or simply not very familiar with them, i strongly suggest taking the time to explore the links and references throughout the research. if you take the time with it, it will give you much more depth, nuance and recognition of the territory moving forward, so i highly encourage you to do so.
 ```
 
  i will introduce and present a few powerful perspectives + "[[investigation trails\|investigation trails]]" on both concepts, as a way to contextualize the contents that will come afterwards and give you a few directions for further exploration.
 
-###### 1) the [[metacrisis\|metacrisis]].
+###### 1) the [[concepts/metacrisis\|metacrisis]].
 
-we're living an age of the [[metacrisis\|metacrisis]].
+or also - *the state of our world, systems and selves*.
+
+we're living an age of the [[concepts/metacrisis\|metacrisis]].
 
 our economy is based on large-scale game-theoretical win-lose dynamics, coupled with mainstream culture/philosophies devoid of spirit, exponential technologies and extractivist paradigms, we have all the ingredients to compose a self-terminating systems dynamics.
 
@@ -45,19 +47,19 @@ this awareness can give us a sense of overwhelm or a possibility to redesign the
 
 and it's our opportunity to be [[alchemist\|alchemists]], [[architect\|architects]], [[artist\|artists]] and [[builder\|builders]] of our own realities.
 
-if you're not familiar with the concept of the [[metacrisis\|metacrisis]], it's a term coined by a certain corner of the internet, sometimes called the "[[sensemaking web\|sensemaking web]]", "[[liminal web\|liminal web]]" or "[[tbprocessed/base notes/concepts - general/game b\|game b]]", heavily informed by the studies of [[wisdom traditions\|wisdom traditions]], [[transpersonal psychology\|transpersonal psychology]], [[integral theory\|integral theory]], [[metamodernism\|metamodernism]], [[game theory\|game theory]], [[cognitive science\|cognitive science]], [[systems\|systems]]/[[complexity science\|complexity science]] and a few other fields.
+if you're not familiar with the concept of the [[concepts/metacrisis\|metacrisis]], it's a term coined by a certain corner of the internet, sometimes called the "[[sensemaking web\|sensemaking web]]", "[[liminal web\|liminal web]]" or "[[tbprocessed/base notes/concepts - general/game b\|game b]]", heavily informed by the studies of [[wisdom traditions\|wisdom traditions]], [[transpersonal psychology\|transpersonal psychology]], [[integral theory\|integral theory]], [[metamodernism\|metamodernism]], [[game theory\|game theory]], [[cognitive science\|cognitive science]], [[systems\|systems]]/[[complexity science\|complexity science]] and a few other fields.
 
 other adjacent terms and communities you might be familiar with are: the [[polycrisis\|polycrisis]] (coined by the world economic forum), the [[regenerative movement\|regenerative movement]], the [[human potential movement\|human potential movement]], [[effective altruism\|effective altruism]], [[mindfulness\|mindfulness]], the [[humane tech\|humane tech]] movement, the [[alternative education\|alternative education]] movement, [[effective accelerationism\|effective accelerationism]], [[web3\|web3]]...
 
 for a deeper understanding of the "memetic tribes of the metacrisis", check out [this video](https://www.youtube.com/watch?v=vxHwkb35MkQ).
 
-there are many resources and perspectives to help you dive into it, and although i'm aware that the '[[metacrisis\|metacrisis]]' is not a sexy/enticing term, it's through it that i found the most profoundly meaningful and cohesive analyses of our current situation, both as individuals and as a society at our time and age.
+there are many resources and perspectives to help you dive into it, and although i'm aware that the '[[concepts/metacrisis\|metacrisis]]' is not a sexy/enticing term, it's through it that i found the most profoundly meaningful and cohesive analyses of our current situation, both as individuals and as a society at our time and age.
 
 [[daniel schmachtenberger\|daniel schmachtenberger]] has been the primary spokesperson about it, and i highly, highly, highly recommend his videos - [curated playlist here](https://www.youtube.com/playlist?list=PLj8H7uBaUwDvd18QrEPugPMD5Z6Y0W-vB).
 
 besides daniel's work, the simplest, yet most clarifying perspectives i found came from [[zak stein\|zak stein]] and the [[transformative education alliance\|transformative education alliance]] on their essay "[education is the metacrisis](https://systems-souls-society.com/education-is-the-metacrisis/)".
 
-for further breakdowns, [[jonathan rowson\|jonathan rowson]] did an amazing deep dive into multiple perspectives an essay called [tasting the pickle: ten flavours of meta-crisis and the appetite for a new civilisation](https://systems-souls-society.com/tasting-the-pickle-ten-flavours-of-meta-crisis-and-the-appetite-for-a-new-civilisation/), [[john verveake\|john verveake]] also has a great 50-lecture series on [[meaning crisis\|awakening from the meaning crisis]], [[josh field\|josh field]] shares very unique perspectives on the [[flow crisis\|flow crisis]], and there's a lot more you can discover by browsing the [metacrisis.org](https://metacrisis.org/) website or looking at very disruptive metacrisis-informed projects such as [[tbprocessed/base notes/ventures - general/SEEDS\|SEEDS]] and [[tbprocessed/base notes/ventures - general/holochain\|holochain]] (both are deep in the web3 space, i don't recommend if you're a beginner).
+for further breakdowns, [[jonathan rowson\|jonathan rowson]] did an amazing deep dive into multiple perspectives an essay called [tasting the pickle: ten flavours of meta-crisis and the appetite for a new civilisation](https://systems-souls-society.com/tasting-the-pickle-ten-flavours-of-meta-crisis-and-the-appetite-for-a-new-civilisation/), [[john verveake\|john verveake]] also has a great 50-lecture series on [[meaning crisis\|awakening from the meaning crisis]], [[josh field\|josh field]] shares very unique perspectives on the [[flow crisis\|flow crisis]], and there's a lot more you can discover by browsing the [metacrisis.org](https://metacrisis.org/) website or looking at very disruptive metacrisis-informed projects such as [[tbprocessed/base notes/ventures - general/SEEDS (ecosystem)\|SEEDS (ecosystem)]] and [[tbprocessed/base notes/ventures - general/holochain\|holochain]] (both are deep in the web3 space, i don't recommend if you're a beginner).
 
 the major value i found in attempting to assess and conceptualize our current state - both as individuals and a society - is to recognize and develop vocabulary over the complex systems dynamics that are constantly affecting us, so we can be more aware of them and empower ourselves to make better sense of what's going on and coordinate towards more desirable presents and futures.
 
@@ -75,6 +77,8 @@ after all, there's a lot of wisdom in the saying:
 
 ###### 2) [[how to live\|how to live]].
 
+or also - *how to design our selves, systems and lives*.
+
 the age-old question of how to live. what is a [[good life\|good life]], a [[moral\|moral]] life or a [[life well-lived\|life well-lived]]? these are both [[ethical\|ethical]], [[metaphysical\|metaphysical]] and [[epistemological\|epistemological]] questions.
 
 a few proposed terms:
@@ -86,7 +90,7 @@ there are many fields of study, religions, wisdom traditions that hold diverse p
 
 very popular: [[stoicism\|stoicism]], [[eslan delaganore\|eslan delaganore]], [[andrew huberman\|andrew huberman]].
 
-[[rationalists\|rationalists]], [[effective altruism\|effective altruism]], the other guy that seems like sam altman mindfulness app
+[[rationalists\|rationalists]], [[effective altruism\|effective altruism]], [[sam harriss\|sam harriss]], etc...
 
 - [[psychotherapy\|psychotherapy]] modalities
 
@@ -194,9 +198,9 @@ a few of the main related themes are:
 ---
 #### where to go now?
 
-ok, so there's a wealth of perspectives on both the [[metacrisis\|metacrisis]] we're undergoing as a species, as well as the concept of a [[well-lived life\|well-lived life]], [[human potential\|human potential]] and [[how to live\|how to live]].
+ok, so there's a wealth of perspectives on both the [[concepts/metacrisis\|metacrisis]] we're undergoing as a species/civilization, as well as the concept of a [[well-lived life\|well-lived life]], [[human potential\|human potential]] and [[how to live\|how to live]].
 
-if we can agree on a few [[assumptions\|assumptions]], such as [[every perspective is partial\|every perspective is partial]], we can start to build a set of [[heuristics\|heuristics]] to inform our [[tbprocessed/base notes/concepts - general/sensemaking\|sensemaking]] and [[decision-making\|decision-making]] going forward.
+if we can agree on a few [[assumptions\|assumptions]], such as that [[every perspective is partial\|every perspective is partial]], we can start to build a set of [[heuristics\|heuristics]] to inform our [[tbprocessed/base notes/concepts - general/sensemaking\|sensemaking]] and [[decision-making\|decision-making]] going forward.
 
 instead of going the route of a herculean effort of synthesis on a "[[theory of everything\|theory of everything]]", such as [[an immanent metaphysics\|an immanent metaphysics]], (...) or [[integral theory\|integral theory]], that even though truly amazing and necessary (from my viewpoint), aren't accessible to the vast majority of people (right now), i'll opt for taking bits of wisdom here and there and trying to figure out - what are the minimum and easiest set of agreements that many people, holding different values and worldviews, can agree on, and how might we work from there?
 
@@ -245,9 +249,9 @@ there are many people working on designing/building these new systems, making se
 
 #### assertions / propositions
 
-1) we're not tapping into even 10% of the potential that [[mapping\|maps]] have to offer (especially in digital/data-based formats).
+1) we're not tapping into even 10% of the potential that [[concepts/mapping\|maps]] have to offer (especially in digital/data-based formats).
 
-2) there are simple tools and practices for more conscious and collaborative living that we're not using, that could have a major increase on our sense of belonging, trust, collaboration and coordination towards desirable futures. ([[CEP+N\|CEP+N]] / [[potluck\|potluck]] / [[_001_toolkit/000 ⛓ toolkit index\|player toolkit]] / second brains -> omnichannel feeds / personal algorithms / digital gardens -> TfTs, AI agents, etc...)
+2) there are simple tools and practices for more conscious and collaborative living that we're not using, that could have a major increase on our sense of belonging, trust, collaboration and coordination towards desirable futures. ([[CEP+N\|CEP+N]] / [[prototypes/potluck\|potluck]] / [[_001_toolkit/000 ⛓ toolkit index\|player toolkit]] / second brains -> omnichannel feeds / personal algorithms / digital gardens -> TfTs, AI agents, etc...)
 
 3) we're not tapping into even 2% of the potential that [[game\|games]] have to offer.
 
@@ -368,7 +372,7 @@ due to the design of our systems and their [[incentives\|incentives]], most peop
 
 despite tons of speculation, scams, misleading marketing, degens, incels and other forms of unhealthy behavior, many people in the [[web3\|web3]] space are keenly aware of this and have been building in this direction for a long time.
 
-something i realized through [[naruto (anime)\|naruto]] (believe it! "the cycle of hatred") and [[tbprocessed/base notes/ventures - general/SEEDS\|SEEDS]] is that we don't need yet another revolution, but a renaissance. if people are excluded, left out, that breeds division and hatred. if they are included, invited into new civilizations with a different set of values, where they can have a different experience of reality - one not of command and control, but of empathy and care - where *by design* they're taken care of and their power is gradually decentralized and shifted into the community, we have a chance to change through a change of heart.
+something i realized through [[naruto (anime)\|naruto]] (believe it! "the cycle of hatred") and [[tbprocessed/base notes/ventures - general/SEEDS (ecosystem)\|SEEDS (ecosystem)]] is that we don't need yet another revolution, but a renaissance. if people are excluded, left out, that breeds division and hatred. if they are included, invited into new civilizations with a different set of values, where they can have a different experience of reality - one not of command and control, but of empathy and care - where *by design* they're taken care of and their power is gradually decentralized and shifted into the community, we have a chance to change through a change of heart.
 
 so we don't care about regeneration just because we need to take care of earth in order to survive as a species. regeneration is the process through which us and nature unfold. if we don't regenerate (heal) ourselves, our relationships, our institutions, there's no way we can flourish and thrive.
 
