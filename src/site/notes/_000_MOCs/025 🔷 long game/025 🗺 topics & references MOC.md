@@ -24,9 +24,9 @@ level of depth:
 
 #### topics i'm most interested in / [[aliveness map\|aliveness map]]:
 
-#### 🧙🏻‍♂️ [[c4ss1us.alchemy\|c4ss1us.alchemy]]
+#### 🧙🏻‍♂️ [[c4ss1us.alchemy\|.alchemy]]
 ##### 🌌 [[consciousness\|consciousness]]
-🌲 [[metacrisis\|metacrisis]]
+🌲 [[concepts/metacrisis\|metacrisis]]
 	([[meaning crisis\|meaning crisis]] / [[existential crisis\|existential crisis]] / [[wisdom crisis\|wisdom crisis]])
 	--> [[health crisis\|health crisis]] / [[education crisis\|education crisis]] / [[commons\|commons]] [[crisis\|crisis]]
 🌲 [[meta-perspectival frameworks\|meta-perspectival frameworks]]
@@ -55,7 +55,7 @@ level of depth:
 	🧪 [[extended cognition\|extended cognition]]
 	🌱 [[thoughtware design\|thoughtware design]]
 
-#### ✒ [[c4ss1us.design\|c4ss1us.design]]
+#### ✒ [[c4ss1us.design\|.design]]
 ##### 🎞 [[knowledge\|knowledge]] / [[media\|media]]
 🌲 [[research\|research]]
 	📂 [[meta-research consolidation resource\|meta-research consolidation resource]]
@@ -68,21 +68,24 @@ level of depth:
 🌿 [[life intelligence\|life intelligence]]
 	🧪 [[3rd brain workflow\|3rd brain workflow]]
 ##### 🌐 [[systems\|systems]]
-🌲 [[meta-systems\|meta-systems]] for [[tbprocessed/base notes/concepts - general/sensemaking\|sensemaking]], [[playing\|playing]], [[coordination\|coordination]] & [[collaboration\|collaboration]]
+🌲 [[meta-systems\|meta-systems]] for [[tbprocessed/base notes/concepts - general/sensemaking\|sensemaking]], [[play\|play]], [[coordination\|coordination]] & [[collaboration\|collaboration]]
 🌲 [[civilization design\|civilization design]]
+	[[network state\|network states]]
+	[[smart cities\|smart cities]] / [[smart villages\|smart villages]]
+	[[ecovillages\|ecovillages]] / [[intentional communities\|intentional communities]]
 🌿 [[new economies\|new economies]] & [[organizations\|organizations]] [economic]
 	🌿 [[multicurrencies economy\|multicurrencies economy]] / [[DAOs\|DAOs]]
 	🌿 [[creator economy\|creator economy]] / [[curator economy\|curator economy]]
 	🌱 [[collaborative economy\|collaborative economy]] / [[shared economy\|shared economy]]
 🌿 [[new lifestyles\|new lifestyles]] & [[reality models\|reality models]] (metagame) [personal]
-🌱 [[new relationships\|new relationships]] & [[communities\|communities]] (culture and governance) [social]
+🌱 [[new culture\|new culture]], [[relationships\|relationships]] & [[communities\|communities]] (governance) [social]
 🌱 [[new ecologies\|new ecologies]] & [[environments\|environments]] (regenerative systems design) [ecological]
 ##### 🏡 [[environments\|environments]]
 🌿 [[digital environments\|digital environments]]
 🌱 [[physical environments\|physical environments]]
 🌱 [[physical objects\|physical objects]]
 
-#### 👨🏻‍🔬 [[c4ss1us.lab\|c4ss1us.lab]]
+#### 👨🏻‍🔬 [[c4ss1us.lab\|.lab]]
 ##### 💻 [[technology\|technology]]
 🌲 [[tbprocessed/base notes/topics/knowledge management\|PKM]] / [[life management\|life management]]
 	🔩 [[l1f3 management methodology\|life management methodology (LMM)]] ([[obsidian system\|obsidian system]])
@@ -90,13 +93,13 @@ level of depth:
 	🔩 [[tbprocessed/base notes/tools;products - proprietary/tools/life organization & visualization system\|LOVS - life organization & visualization system]] ([[notion system\|notion system]])
 	📂 [[knowledge management methodologies\|knowledge management methodologies]]
 🌲 [[crypto\|crypto]] / [[web3\|web3]]
-	🔥 [[tbprocessed/base notes/ventures - general/SEEDS\|SEEDS]]
+	🔥 [[tbprocessed/base notes/ventures - general/SEEDS (ecosystem)\|SEEDS (ecosystem)]]
 🌿 [[metaverse\|metaverse]]
 	🔥 [[m3 metaverse makers\|m3 metaverse makers]]
 🌿 [[interfaces\|interfaces]] & [[user experience\|UX]]
 	🧪 [[l1f3 player dashboard\|l1f3 player dashboard]]
 	🧰 [[_001_toolkit/000 ⛓ toolkit index\|l1f3 player toolkit]] ([[pinterest curation\|pinterest curation]] / [[game UI database\|game UI database]])
-🌿 [[mapping\|mapping]]
+🌿 [[concepts/mapping\|mapping]]
 	🔥 [[wardley mapping\|wardley mapping]]
 	🔥 [[maps curation\|maps curation]] (twitter link)
 	🧪 [[tbprocessed/base notes/tools;products - proprietary/tools/life map\|life map]]
@@ -112,10 +115,13 @@ level of depth:
 	🔥 [[tbprocessed/base notes/ventures - general/holochain\|holochain]]
 	🔥 [[synapsis\|synapsis]]
 	🔥 [[protocol labs\|protocol labs]]
+	🔥 [[human programming interface\|human programming interface]]
+	[[personal tech stacks\|personal tech stacks]]
 🌱 [[topics/programming\|programming]]
 
-#### 👨🏻‍🎨 [[c4ss.art\|c4ss.art]]
+#### 👨🏻‍🎨 [[c4ss.art\|.art]]
 ##### 🎨 [[tbprocessed/base notes/concepts - general/art\|art]]
+🌿 [[gameworld building\|gameworld building]]
 🌿 [[topics/game design\|game design]]
 🌿 [[memetics\|memetics]]
 🌿 [[narrative design\|narrative design]]
@@ -133,7 +139,7 @@ level of depth:
 💩 [[video editing\|video editing]]
 	📂 [favorite content creation references playlist](https://www.youtube.com/playlist?list=PLj8H7uBaUwDvqFBle8ziVnKGzL4KFk5di)
 
-#### 🎮 [[c4ss1us.player\|c4ss1us.player]]
+#### 🎮 [[c4ss1us.player\|.player]]
 ##### 🎮 [[play\|play]]
 🌲 [[life gaming\|life gaming]]
 	🧰 [[l1f3 player system\|l1f3 player system]]
@@ -173,7 +179,7 @@ level of depth:
 		--> [[sports\|sports]]
  --> etc...
 
-#### [[c4ss.host\|👨🏻‍🎤 c4ss.host]]
+#### 👨🏻‍🎤 [[c4ss.host\|.host]]
 ##### 🎎 [[relationships\|relationships]]
 🌿 [[communication frameworks\|communication frameworks]]
 	🔥 [[integral theory\|integral theory]]
@@ -191,8 +197,11 @@ level of depth:
 	🔥 [[tbprocessed/base notes/ventures - general/fluxonomia 4d\|fluxonomia 4d]]
 	🔥 [[metacurrency\|metacurrency]] / [[models & frameworks/forms of capital\|12 forms of capital]]
 
-#### [[c4ss.music\|🎶 c4ss.music]]
+#### 🎶 [[c4ss.music\|.music]]
 
+🌿 [[music curation\|music curation]]
+	[[youtube playlists\|youtube playlists]]
+	[[spotify playlists\|spotify playlists]]
 🌱 [[music playing\|music playing]]
 	🌱 [[body music\|body music]]
 	🌱 [[circle music\|circle music]]
@@ -207,7 +216,7 @@ level of depth:
 	💩 [[instrumental post-rock\|instrumental post-rock]]
 	💩 [[ritualistic music\|ritualistic music]]
 
-#### [[c4ss1us.regen\|👨🏻‍🌾 c4ss1us.regen]]
+#### 👨🏻‍🌾 [[c4ss1us.regen\|.regen]]
 
 🌱 [[regenerative systems design\|regenerative systems design]]
 🌱 [[regenerative urban lifestyles\|regenerative urban lifestyles]]
@@ -217,7 +226,7 @@ level of depth:
 	💩 [[tea\|tea]]
 	💩 [[mushrooms\|mushrooms]]
 
-#### [[c4ss1us.AI\|🤖 c4ss1us.ai]]
+#### 🤖 [[c4ss1us.AI\|.AI]]
 
 🌿 [[AI prototypes\|AI prototypes]]
 	🧪 [[AI assistant\|AI assistant]]
@@ -329,7 +338,7 @@ the future of:
 -   [[economics\|economics]] / [[tbprocessed/base notes/topics/resources generation\|resources generation]] / [[resources management\|resources management]]
 -   [[information\|information]] / [[knowledge generation\|knowledge generation]] / [[tbprocessed/base notes/topics/knowledge management\|knowledge management]]
 -   [[governance\|governance]] / [[decision-making\|decision-making]] / [[decision management\|decision management]]
--   [[intelligence\|intelligence]] / [[research\|research]] / [[mapping\|mapping]] / [[tbprocessed/base notes/concepts - general/curation\|curation]]
+-   [[intelligence\|intelligence]] / [[research\|research]] / [[concepts/mapping\|mapping]] / [[tbprocessed/base notes/concepts - general/curation\|curation]]
 -   [[physical environments\|physical environments]] / [[digital environments\|digital environments]]
 -   [[technology\|technology]]
 
@@ -347,6 +356,6 @@ the future of:
 ##### [[MP\|MP]]
 - [[DAO-DHO evolution\|DAO-DHO evolution]] + [[gamification\|gamification]]
 - [[information ecology\|information ecology]]
-	- [[mapping\|mapping]]
+	- [[concepts/mapping\|mapping]]
 	- [[tbprocessed/base notes/concepts - general/sensemaking\|sensemaking]]
 - [[metaverse\|metaverse]] / [[NFTs\|NFTs]] / [[social token experiments\|social token experiments]]
