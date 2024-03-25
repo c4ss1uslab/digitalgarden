@@ -10,7 +10,7 @@ related prototypes: [[c4ss1us' conversation menu\|c4ss1us' conversation menu]], 
 
 the original idea for this prototype came at the [[música do círculo\|música do círculo]] retreat in jun/2023. i was surrounded by amazing artists and people in general, yet many of our conversations tended towards triviality.
 
-i wondered - instead of making a lot of effort trying to gear the conversation towards more generative places, what could i do to make connecting with people, learning and sharing about our lives more playful, fun, seamless?
+i wondered - instead of making a lot of effort trying to gear the conversation towards more generative places - *how could i make connecting with people, learning and sharing about our lives more playful, fun, seamless?*
 
 there are many [[human connection games\|human connection games]], [[facilitation tools\|facilitation tools]] and other [[serious games\|serious games]] that intend to do that, but i never felt fond of most of them. they felt too deterministic in guiding the conversations (though i definitely need to research more. if you know good ones, please lmk!). i was looking for something more open-ended.
 
