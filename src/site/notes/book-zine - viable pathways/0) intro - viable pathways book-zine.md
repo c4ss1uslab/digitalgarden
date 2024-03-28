@@ -12,11 +12,11 @@ it also aims to establish the foundational knowledge commons for the [[reality d
 ```
 
 ##### intro
-for the past 5 years i've been devoting my life to researching "[[what is human flourishing\|what is human flourishing]]", "[[how can we enable it on both an individual and a societal scale\|how can we enable it on both an individual and a societal scale]]", and "what's my role in it".
+for the past 5 years i've been devoting my life to researching "[[what is human flourishing\|what is human flourishing]]", "[[how can we enable it on both an individual and a societal scale\|how can we enable it on both an individual and a societal scale]]", and "[[what's my role in it\|what's my role in it]]".
 
 despite the boldness of the task and my humbleness to state that i don't have definitive answers, i’m happy to share that since then, i've gained some hints of profound clarity on this, as well as on the challenges and missions i decided to work towards. (might we collaborate on some of them? 🙃)
 
-this my compilation of the findings, resources and references i found most valuable on this journey. let's dive in!
+this is my compilation of the findings, resources and references i found most valuable on this journey. let's dive in!
 
 ---
 #### foundational concepts
