@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/book-zine - viable pathways/0) intro - viable pathways book-zine/"}
 ---
 
-a living, hyper-linked multimedia book-zine that acts as a theoretical research / practical toolkit in-between.
+hey, welcome! this is a living, under-construction experimental book-zine, a hyper-linked multimedia medium that acts as a theoretical research / practical toolkit in-between.
 
 ```ad-info
 title: about
@@ -12,11 +12,11 @@ it also aims to establish the foundational knowledge commons for the [[reality d
 ```
 
 ##### intro
-hello. for the past 5 years i've dedicated my life to an ontological and phenomenological research into "what is human flourishing", "how can we enable it on both an individual and a societal scale", and finally, "what's my role in it".
+for the past 5 years i've been devoting my life to researching "[[what is human flourishing\|what is human flourishing]]", "[[how can we enable it on both an individual and a societal scale\|how can we enable it on both an individual and a societal scale]]", and "what's my role in it".
 
-i’m happy to share that since then, i've gained some clarity on this, as well as on challenges and missions i decided to work towards. (might we collaborate on some of them? 🙃) so this my compilation of the findings, resources and references i found most valuable on this journey.
+despite the boldness of the task and my humbleness to state that i don't have definitive answers, i’m happy to share that since then, i've gained some hints of profound clarity on this, as well as on the challenges and missions i decided to work towards. (might we collaborate on some of them? 🙃)
 
-let's dive in!
+this my compilation of the findings, resources and references i found most valuable on this journey. let's dive in!
 
 ---
 #### foundational concepts
@@ -29,41 +29,43 @@ collapse:
 if you're new to these concepts or simply not very familiar with them, i strongly suggest taking the time to explore the links and references throughout the research. if you take the time with it, it will give you much more depth, nuance and recognition of the territory moving forward, so i highly encourage you to do so.
 ```
 
- i will introduce and present a few powerful perspectives + "[[investigation trails\|investigation trails]]" on both concepts, as a way to contextualize the contents that will come afterwards and give you a few directions for further exploration.
+ i will introduce and present a few [[perspectives\|perspectives]] and [[investigation trails\|investigation trails]] on both concepts, as a way to contextualize the contents that will come afterwards and give you a few directions for further exploration.
 
 ###### 1) the [[concepts/metacrisis\|metacrisis]].
 
-or also - *the state of our world, systems and selves*.
+or also - *the systemically challenging state of our world, systems and selves*.
 
 we're living an age of the [[concepts/metacrisis\|metacrisis]].
 
-our economy is based on large-scale game-theoretical win-lose dynamics, coupled with mainstream culture/philosophies devoid of spirit, exponential technologies and extractivist paradigms, we have all the ingredients to compose a self-terminating systems dynamics.
+our economy is based on large-scale game-theoretical win-lose dynamics, while coupled with mainstream culture/philosophies devoid of spirit and exponential technologies plugged into extractivist paradigms, we have all the ingredients to compose a self-terminating civilization heading into ever-faster collapse.
 
-our institutions and systems are failing in recognizing and addressing this - [[governments\|governments]], [[organizations\|organizations]], [[academia\|academia]], [[religions\|religions]], [[social systems\|social systems]]. this research aims to map the challenges we're facing, identify the approaches being tested, underserved solutions and the initiatives working to address them, as way to give us a deeper and wider understanding of our context.
+our institutions and systems are failing in recognizing and addressing this - [[governments\|governments]], [[organizations (MOC)\|organizations]], [[academia\|academia]], [[religions\|religions]], [[social systems\|social systems]]. this research aims to map the challenges we're facing, identify the approaches being tested, under-the-radar solutions and the initiatives working to address them, as way to give us a deeper and wider understanding of our context.
 
 one peculiarity about my research is that since ["unhealthy individuals create unhealthy systems and institutions"], i aim to highlight solutions and initiatives at both the individual and systems level - which isn't common. most people/institutions are concerned with either "personal" or "societal" challenges.
 
-this awareness can give us a sense of overwhelm or a possibility to redesign the foundational systems of our lives and civilizations to be more conscious, collaborative, regenerative, compassionate [insert another value you care about here] by design. perhaps both at the same time!
+this awareness can give us both a sense of overwhelm and a golden possibility to redesign the foundational systems of our lives and civilizations to be more conscious, collaborative, regenerative, compassionate [insert another value you care about here] by design. perhaps even at the same time!
 
-and it's our opportunity to be [[alchemist\|alchemists]], [[architect\|architects]], [[artist\|artists]] and [[builder\|builders]] of our own realities.
+and it's our opportunity to be [[alchemist\|alchemists]], [[architect\|architects]], [[artist\|artists]], [[builder\|builders]] and [[players\|players]] of our own realities.
 
-if you're not familiar with the concept of the [[concepts/metacrisis\|metacrisis]], it's a term coined by a certain corner of the internet, sometimes called the "[[sensemaking web\|sensemaking web]]", "[[liminal web\|liminal web]]" or "[[tbprocessed/base notes/concepts - general/game b\|game b]]", heavily informed by the studies of [[wisdom traditions\|wisdom traditions]], [[transpersonal psychology\|transpersonal psychology]], [[integral theory\|integral theory]], [[metamodernism\|metamodernism]], [[game theory\|game theory]], [[cognitive science\|cognitive science]], [[systems\|systems]]/[[complexity science\|complexity science]] and a few other fields.
+if you're not familiar with the concept of the [[concepts/metacrisis\|metacrisis]], it's a term coined by a certain corner of the internet, sometimes called the "[[sensemaking web\|sensemaking web]]", "[[liminal web\|liminal web]]" or "[[tbprocessed/base notes/concepts - general/game b\|game b]]", heavily informed by the studies of [[wisdom traditions\|wisdom traditions]], [[transpersonal psychology\|transpersonal psychology]], [[concepts/integral theory\|integral theory]], [[metamodernism\|metamodernism]], [[game theory\|game theory]], [[cognitive science\|cognitive science]], [[systems\|systems]]/[[complexity science\|complexity science]] and a few other fields.
 
 other adjacent terms and communities you might be familiar with are: the [[polycrisis\|polycrisis]] (coined by the world economic forum), the [[regenerative movement\|regenerative movement]], the [[human potential movement\|human potential movement]], [[effective altruism\|effective altruism]], [[mindfulness\|mindfulness]], the [[humane tech\|humane tech]] movement, the [[alternative education\|alternative education]] movement, [[effective accelerationism\|effective accelerationism]], [[web3\|web3]]...
 
-for a deeper understanding of the "memetic tribes of the metacrisis", check out [this video](https://www.youtube.com/watch?v=vxHwkb35MkQ).
+for a deeper recognition of these adjacent groups, check out the [memetic tribes of the metacrisis](https://www.youtube.com/watch?v=vxHwkb35MkQ) video.
 
-there are many resources and perspectives to help you dive into it, and although i'm aware that the '[[concepts/metacrisis\|metacrisis]]' is not a sexy/enticing term, it's through it that i found the most profoundly meaningful and cohesive analyses of our current situation, both as individuals and as a society at our time and age.
+there are many resources and perspectives to help you dive into this field of research, and although 'the [[concepts/metacrisis\|metacrisis]]' is not a sexy/enticing term (people might feel a lot more moved by terms such as [[flourishing\|flourishing]], [[love\|love]], [[beauty\|beauty]], [[regeneration\|regeneration]], [[thriving\|thriving]]), it's in deeply understanding the complexity and challenges that we're in that we can gain awareness over it and further empower ourselves to build the [[more beautiful world our hearts know is possible\|more beautiful world our hearts know is possible]].
 
-[[daniel schmachtenberger\|daniel schmachtenberger]] has been the primary spokesperson about it, and i highly, highly, highly recommend his videos - [curated playlist here](https://www.youtube.com/playlist?list=PLj8H7uBaUwDvd18QrEPugPMD5Z6Y0W-vB).
+it's through this study that i found the most profoundly meaningful and cohesive analyses of our current situation, both as individuals and as a society at our time and age.
+
+[[daniel schmachtenberger\|daniel schmachtenberger]] has been the primary spokesperson about it, and i highly, highly, highly recommend his videos - check out my [curated playlist here](https://www.youtube.com/playlist?list=PLj8H7uBaUwDvd18QrEPugPMD5Z6Y0W-vB).
 
 besides daniel's work, the simplest, yet most clarifying perspectives i found came from [[zak stein\|zak stein]] and the [[transformative education alliance\|transformative education alliance]] on their essay "[education is the metacrisis](https://systems-souls-society.com/education-is-the-metacrisis/)".
 
-for further breakdowns, [[jonathan rowson\|jonathan rowson]] did an amazing deep dive into multiple perspectives an essay called [tasting the pickle: ten flavours of meta-crisis and the appetite for a new civilisation](https://systems-souls-society.com/tasting-the-pickle-ten-flavours-of-meta-crisis-and-the-appetite-for-a-new-civilisation/), [[john verveake\|john verveake]] also has a great 50-lecture series on [[meaning crisis\|awakening from the meaning crisis]], [[josh field\|josh field]] shares very unique perspectives on the [[flow crisis\|flow crisis]], and there's a lot more you can discover by browsing the [metacrisis.org](https://metacrisis.org/) website or looking at very disruptive metacrisis-informed projects such as [[tbprocessed/base notes/ventures - general/SEEDS (ecosystem)\|SEEDS (ecosystem)]] and [[tbprocessed/base notes/ventures - general/holochain\|holochain]] (both are deep in the web3 space, i don't recommend if you're a beginner).
+for further breakdowns, [[jonathan rowson\|jonathan rowson]] did an amazing deep dive into multiple perspectives an essay called [tasting the pickle: ten flavours of meta-crisis and the appetite for a new civilisation](https://systems-souls-society.com/tasting-the-pickle-ten-flavours-of-meta-crisis-and-the-appetite-for-a-new-civilisation/), [[john vervaeke\|john vervaeke]] also has a great 50-lecture series on [[meaning crisis\|awakening from the meaning crisis]], [[josh field\|josh field]] shares very unique perspectives on the [[flow crisis\|flow crisis]], and there's a lot more you can discover by browsing the [metacrisis.org](https://metacrisis.org/) website or looking at very disruptive metacrisis-informed projects such as [[tbprocessed/base notes/ventures - general/SEEDS (ecosystem)\|SEEDS (ecosystem)]] and [[tbprocessed/base notes/ventures - general/holochain\|holochain]] (both are deep in the web3 space, i don't recommend if you're a beginner).
 
-the major value i found in attempting to assess and conceptualize our current state - both as individuals and a society - is to recognize and develop vocabulary over the complex systems dynamics that are constantly affecting us, so we can be more aware of them and empower ourselves to make better sense of what's going on and coordinate towards more desirable presents and futures.
+the major value i found in attempting to assess and conceptualize our current state - both as individuals and a society - is to recognize and develop vocabulary over the complex systems dynamics that are constantly affecting us, so we can be more aware of them, make better sense of what's going on and coordinate towards more desirable presents and futures.
 
-after all, there's a lot of wisdom in the saying:
+after all, there's wisdom in the saying:
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -75,14 +77,15 @@ after all, there's a lot of wisdom in the saying:
 </div></div>
 
 
+([[a disclaimer on the framing as a problem\|a disclaimer on the framing as a problem]])
 ###### 2) [[how to live\|how to live]].
 
 or also - *how to design our selves, systems and lives*.
 
-the age-old question of how to live. what is a [[good life\|good life]], a [[moral\|moral]] life or a [[life well-lived\|life well-lived]]? these are both [[ethical\|ethical]], [[metaphysical\|metaphysical]] and [[epistemological\|epistemological]] questions.
+the age-old question of how to live. what is a [[good life\|good life]], a [[moral\|moral]] life or a [[life well-lived\|life well-lived]]? these are all [[ethical\|ethical]], [[metaphysical\|metaphysical]] and [[epistemological\|epistemological]] questions.
 
 a few proposed terms:
-[[self-actualization\|self-actualization]] / [[self-realization\|self-realization]] / [[human potential\|human potential]] / [[human flourishing\|human flourishing]] / [[bem viver\|bem viver]].
+[[self-actualization\|self-actualization]] / [[self-realization\|self-realization]] / [[human potential\|human potential]] / [[human flourishing\|human flourishing]] / [[bem viver\|bem viver]] / [[eudaimonia\|eudaimonia]] / [[self-transcendence\|self-transcendence]].
 
 there are many fields of study, religions, wisdom traditions that hold diverse perspectives:
 
@@ -90,7 +93,7 @@ there are many fields of study, religions, wisdom traditions that hold diverse p
 
 very popular: [[stoicism\|stoicism]], [[eslan delaganore\|eslan delaganore]], [[andrew huberman\|andrew huberman]].
 
-[[rationalists\|rationalists]], [[effective altruism\|effective altruism]], [[sam harriss\|sam harriss]], etc...
+[[rationalists\|rationalists]], [[effective altruism\|effective altruism]], [[sam harris\|sam harris]], etc...
 
 - [[psychotherapy\|psychotherapy]] modalities
 
@@ -120,13 +123,13 @@ a spectrum of rigorous scientific research on [[altered states\|altered states]]
 
 to some spiritual teachers like [[eckhart tolle\|eckhart tolle]], [[michael singer\|michael singer]], [[mooji\|mooji]], etc...
 
-ranging up to some niche/occult knowledge like qualia guy, [[possibility management\|possibility management]], [[shamanism\|shamanism]], [[tbprocessed/base notes/topics/hermeticism\|hermeticism]], several [[energetic practices\|energetic practices]], [[gnosticism\|gnosticism]], [[law of time\|law of time]], etc...
+ranging up to some niche/occult knowledge like qualia guy, [[organizations & communities/possibility management\|possibility management]], [[shamanism\|shamanism]], [[tbprocessed/base notes/topics/hermeticism\|hermeticism]], several [[energetic practices\|energetic practices]], [[gnosticism\|gnosticism]], [[law of time\|law of time]], etc...
 
 and some folks like [[stanislav grof\|stanislav grof]], [[leo gura\|leo gura]], [[wim hof\|wim hof]], [[terence mckenna\|terence mckenna]], and [[tbprocessed/base notes/ventures - general/mindvalley\|mindvalley]] lying somewhere around the middle.
 
 - [[self-actualization\|self-actualization]], [[cognitive science\|cognitive science]]
 
-[[john verveake\|john verveake]] and his work on [[meaning crisis\|awakening from the meaning crisis]].
+[[john vervaeke\|john vervaeke]] and his work on [[meaning crisis\|awakening from the meaning crisis]].
 
 [[robert kegan\|robert kegan]] [[adult development theory\|adult development theory]]
 
@@ -160,10 +163,10 @@ great work by https://medium.com/s/world-wide-wtf/memetic-tribes-and-culture-war
 more on https://nadia.xyz/climate-tribes and https://medium.com/@brandon_29259/comparing-approaches-to-addressing-the-meta-crisis-9393e6ee17d7.
 
 ---
-note that this is a non-exhaustive list, as i know there are many other paths i haven't delved into, with different degrees of scientific/philosophical foundation (such as [[daoism\|daoism]], [[pathwork\|pathwork]], etc), but neither do i intend to provide a full map/picture.
+this is a non-exhaustive list, as i know there are many other paths i haven't delved into, with different degrees of scientific/philosophical foundation (such as [[taoism\|taoism]], [[pathwork\|pathwork]], etc), but it's not my intention to provide a full map/picture here and now.
 
-one of my major objectives with building [[modular\|modular]], [[open-source\|open-source]] [[tbprocessed/base notes/tools;products - proprietary/tools/l1f3 operating system\|l1f3 operating system]] is precisely to test propositions such as [[every perspective is partial\|every perspective is partial]] at scale.
-by creating a [[marketplace\|marketplace]] of [[worldviews\|worldviews]] and [[practices\|practices]], we can decentralize access to and support even more the practice of [[science\|science]], [[philosophy\|philosophy]] and ultimately, [[wisdom\|wisdom]].
+one of my major objectives with building [[modular\|modular]], [[open-source\|open-source]] [[tbprocessed/base notes/tools;products - proprietary/tools/l1f3 operating system\|l1f3 operating system]] is precisely to test propositions such as that [[every perspective is partial\|every perspective is partial]] at scale.
+by creating a [[decentralized\|decentralized]] [[aggregator\|aggregator]] of [[worldviews\|worldviews]] and [[practices\|practices]], we can democratize access to and support even more the practice of [[science\|science]], [[philosophy\|philosophy]], [[spirituality\|spirituality]] and ultimately, [[wisdom\|wisdom]].
 
 
 
@@ -202,7 +205,7 @@ ok, so there's a wealth of perspectives on both the [[concepts/metacrisis\|metac
 
 if we can agree on a few [[assumptions\|assumptions]], such as that [[every perspective is partial\|every perspective is partial]], we can start to build a set of [[heuristics\|heuristics]] to inform our [[tbprocessed/base notes/concepts - general/sensemaking\|sensemaking]] and [[decision-making\|decision-making]] going forward.
 
-instead of going the route of a herculean effort of synthesis on a "[[theory of everything\|theory of everything]]", such as [[an immanent metaphysics\|an immanent metaphysics]], (...) or [[integral theory\|integral theory]], that even though truly amazing and necessary (from my viewpoint), aren't accessible to the vast majority of people (right now), i'll opt for taking bits of wisdom here and there and trying to figure out - what are the minimum and easiest set of agreements that many people, holding different values and worldviews, can agree on, and how might we work from there?
+instead of going the route of a herculean effort of synthesis on a "[[theory of everything\|theory of everything]]", such as [[an immanent metaphysics\|an immanent metaphysics]], (...) or [[concepts/integral theory\|integral theory]], that even though truly amazing and necessary (from my viewpoint), aren't accessible to the vast majority of people (right now), i'll opt for taking bits of wisdom here and there and trying to figure out - what are the minimum and easiest set of agreements that many people, holding different values and worldviews, can agree on, and how might we work from there?
 
 this is my attempt to answer the question: what is the [[minimum set of agreements we need to allow for intelligent coordination\|minimum set of agreements we need to allow for intelligent coordination]]?
 
@@ -237,7 +240,7 @@ i believe these are easy to agree on and they can lead to a powerful level of cl
 
 #### thesis
 
-to address the metacrisis we need both individual efforts to design more [[conscious\|conscious]], [[impactful\|impactful]], [[collaborative\|collaborative]] and [[regenerative\|regenerative]] [[lifestyles\|lifestyles]], [[organizations\|organizations]], [[culture\|culture]] and [[communities\|communities]], as well as collective [[coordination\|coordination]] to create new [[governance\|governance]], [[economic\|economic]], [[information\|information]], [[organizational\|organizational]], [[educational\|educational]] systems that honors [[nature\|nature]] and people's [[energies\|energies]], [[purpose\|purpose]], [[expression\|expression]] and [[vocation\|vocation]] as sacred.
+to address the metacrisis we need both individual efforts to design more [[conscious\|conscious]], [[impactful\|impactful]], [[collaborative\|collaborative]] and [[regenerative\|regenerative]] [[lifestyles\|lifestyles]], [[organizations (MOC)\|organizations]], [[culture\|culture]] and [[communities\|communities]], as well as collective [[coordination\|coordination]] to create new [[governance\|governance]], [[economic\|economic]], [[information\|information]], [[organizational\|organizational]], [[educational\|educational]] systems that honors [[nature\|nature]] and people's [[energies\|energies]], [[purpose\|purpose]], [[expression\|expression]] and [[vocation\|vocation]] as sacred.
 
 there are many people working on designing/building these new systems, making sense of our current state and addressing it from different perspectives. so my goal here is to:
 
@@ -398,7 +401,7 @@ all this made me start questioning:
 
 - why are there hundreds of project management tools, but pretty much no "life management tools"? should i just use project management tools to manage my life?
 
-that's how i discovered [[getting things done\|GTD]] and lots of [[coaching tools\|coaching tools]] at the time, but this didn't satistfy me at all. i grew up playing games, so i was used to having lots of [[interfaces\|interfaces]] and tools such as [[maps\|maps]], [[dashboards\|dashboards]], [[cheatsheets\|cheatsheets]], [[wikis\|wikis]], etc, to help me play, and even more elements like an [[inventory\|inventory]], [[skill\|skill]]/[[talent trees\|talent trees]], [[missions\|missions]], [[achievements\|achievements]] and [[challenges\|challenges]] for managing my virtual journeys and characters.
+that's how i discovered [[getting things done\|GTD]] and lots of [[coaching tools\|coaching tools]] at the time, but this didn't satistfy me at all. i grew up playing games, so i was used to having lots of [[interfaces\|interfaces]] and tools such as [[maps\|maps]], [[concepts/dashboards\|dashboards]], [[cheatsheets\|cheatsheets]], [[wikis\|wikis]], etc, to help me play, and even more elements like an [[inventory\|inventory]], [[skill\|skill]]/[[talent trees\|talent trees]], [[missions\|missions]], [[achievements\|achievements]] and [[challenges\|challenges]] for managing my virtual journeys and characters.
 
 so i was extremely confused:
 
