@@ -1,29 +1,27 @@
 ---
-{"dg-publish":true,"permalink":"/models & frameworks/forms of capital/"}
+{"dg-publish":true,"permalink":"/models & frameworks/forms of capital/","tags":["framework","🌿"]}
 ---
+
+this framework was created by ethan roland & gregory landua in 2011, from their research on financial [[tbprocessed/base notes/topics/permaculture\|permaculture]]. see a great introductory post [here](http://www.appleseedpermaculture.com/wp-content/uploads/2011/04/8_Forms_of_Capital_PM68.pdf).
 
 **images:**
 
-8 forms of capital - green pill book:
+original framework: 8 forms of capital/currency
 
-![8 forms of capital - owocki green pill book.png](/img/user/images/8%20forms%20of%20capital%20-%20owocki%20green%20pill%20book.png)
+![8 forms of capital + currency - ethan roland & gregory landua.png|656](/img/user/images/models%20&%20frameworks/8%20forms%20of%20capital%20+%20currency%20-%20ethan%20roland%20&%20gregory%20landua.png)
 
-8 forms of capital + currency - ethan roland & gregory landua:
+some folks from a life coaching consultancy called "kailo mentoring group" added a few dimensions and proposed 12 forms of capital, which i found interesting/informative as well, especially from the perspective of [[tantra\|tantra]]:
 
-![8 forms of capital + currency - ethan roland & gregory landua.png|656](/img/user/images/8%20forms%20of%20capital%20+%20currency%20-%20ethan%20roland%20&%20gregory%20landua.png)
+![12 forms of capital - kailo mentoring group.png|450](/img/user/images/models%20&%20frameworks/12%20forms%20of%20capital%20-%20kailo%20mentoring%20group.png)
 
-12 forms of capital - kailo mentoring group:
-
-![12 forms of capital - kailo mentoring group.png](/img/user/images/12%20forms%20of%20capital%20-%20kailo%20mentoring%20group.png)
-
-##### experimental breakdowns on forms/types of capital/value
+##### a few experimental breakdowns on forms/types of capital/value
 
 (intellectual)
 - [[knowledge\|knowledge]] / [[intellectual capital\|intellectual capital]] / [[intellectual value\|intellectual value]] / [[informational value\|informational value]]
 - [[assets\|assets]] / [[systems\|systems]] / [[technologies\|technologies]] / [[digital capital\|digital capital]] / [[infrastructural value\|infrastructural value]]
 - [[know-how\|know-how]] / [[experiential capital\|experiential capital]] / [[operational capital\|operational capital]] / [[operational value\|operational value]]
 (physical)
-- [[money\|money]] / [[currencies\|currencies]] / [[financial capital\|financial capital]] / [[financial value\|financial value]]
+- [[money\|money]] / [[concepts/currencies\|currencies]] / [[financial capital\|financial capital]] / [[financial value\|financial value]]
 - [[physical resources\|physical resources]] / [[material capital\|material capital]] / [[material value\|material value]]
 - [[living resources\|living resources]] / [[living capital\|living capital]] / [[living value\|living value]]
 - [[time\|time]] / [[attention\|attention]] / [[energy\|energy]] / [[temporal capital\|temporal capital]] / [[temporal value\|temporal value]]
@@ -34,7 +32,7 @@
 - [[emotional well-being\|emotional well-being]] / [[emotional resilience capital\|emotional resilience capital]] / [[emotional value\|emotional value]]
 - [[pleasure capital\|pleasure capital]]
 
-source:
-http://www.appleseedpermaculture.com/8-forms-of-capital/
+sources:
+http://www.appleseedpermaculture.com/8-forms-of-capital/ -> removed
 https://greenpill.network/pdf/green-pill.pdf
 https://web.archive.org/web/20230331131636/https://www.kailomentoringgroup.com/12-forms-of-capital
