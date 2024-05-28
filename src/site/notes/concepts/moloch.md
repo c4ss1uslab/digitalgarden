@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/concepts/moloch/","tags":["🌿","metacrisis","architect","concept"]}
 ---
 
-a.k.a. "the god of [[coordination failure\|coordination failure]]", or [[collective action failures\|collective action failures]].
+a.k.a. "the god of [[coordination failure\|coordination failure]]", or the sum of our [[collective action failures\|collective action failures]].
 
 a good intro:
 https://twitter.com/daganshani1/status/1758134363789947018
