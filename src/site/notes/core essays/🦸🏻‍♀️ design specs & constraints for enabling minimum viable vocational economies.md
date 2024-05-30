@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core essays/🦸🏻‍♀️ design specs & constraints for enabling minimum viable vocational economies/"}
+{"dg-publish":true,"permalink":"/core essays/🦸🏻‍♀️ design specs & constraints for enabling minimum viable vocational economies/","tags":["🌱"]}
 ---
 
 draft link: https://medium.com/@cassiuscarvalho/design-specs-constraints-for-enabling-minimum-viable-vocational-economies-d4dda4867e23
@@ -7,7 +7,7 @@ draft link: https://medium.com/@cassiuscarvalho/design-specs-constraints-for-ena
 ---
 more to add: measuring GDP.
 
-how money can be beautiful: sacred economics.
+how money can be beautiful: [[sacred economics\|sacred economics]].
 
 our economic system has an extractive, scarce worldview. abundance isn't having "infinite", "more than you need".
 
@@ -19,11 +19,11 @@ this is a real challenge that i've struggled with a lot, not sure i found a comp
 
 funding the commons -> gitcoin, [[tea.xyz\|tea.xyz]].
 
-[[models & frameworks/forms of capital\|8 forms of capital]]
-[[tbprocessed/base notes/ventures - general/fluxonomia 4d\|fluxonomia 4d]]
+[[forms of capital\|8 forms of capital]]
+[[models & frameworks/fluxonomy 4d\|fluxonomy 4d]]
 [[tbprocessed/base notes/ventures - general/metacurrency project\|metacurrency project]]
 [[library of economic possibility\|library of economic possibility]]
-[[valueflows\|valueflows]]
+[[initiatives, orgs & communities/valueflows\|valueflows]]
 [[gitcoin coordination mechanisms list\|gitcoin coordination mechanisms list]]
 https://tokenengineeringcommunity.github.io/website/docs/library-welcome
 the field of [[refi\|refi]] as a whole + [[facilitation methodologies\|facilitation methodologies]] such as [[pedagogia da cooperação\|pedagogia da cooperação]]
