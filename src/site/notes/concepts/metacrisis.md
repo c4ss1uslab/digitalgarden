@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/metacrisis/","tags":["🌿","concept"]}
+{"dg-publish":true,"permalink":"/concepts/metacrisis/","tags":["🌿","concept","metacrisis"]}
 ---
 
 *my definition:* the set of interconnected, interdependent crises of our time, leading us either towards impending systemic collapse as we approach planetary boundaries, authoritarian modes of damage control or transition into more regenerative, mature, antifragile civilizations and lifestyles.
@@ -49,7 +49,7 @@ feel free to bug me on [twitter](https://twitter.com/c4ss1usl1f3) to finish maki
 
 [[jonathan rowson\|jonathan rowson]] - [tasting the pickle: ten flavours of meta-crisis and the appetite for a new civilisation](https://systems-souls-society.com/tasting-the-pickle-ten-flavours-of-meta-crisis-and-the-appetite-for-a-new-civilisation/) - perspecteeva
 
-[[josh field\|josh field]] - [[flow crisis\|flow crisis]] - a few less-known but very interesting/valuable perspectives on it
+[[josh field\|josh field]] - [[concepts/flow crisis\|flow crisis]] - a few less-known but very interesting/valuable perspectives on it
 
 [[john vervaeke\|john vervaeke]] - [[meaning crisis\|meaning crisis]] - lots of good content from around it, more useful for understanding/navigating the (inner) psychological crises of our time
 
