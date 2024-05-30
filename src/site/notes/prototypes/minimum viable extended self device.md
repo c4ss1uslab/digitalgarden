@@ -3,7 +3,7 @@
 ---
 
 [[type\|type]]: [[areas/life areas (internal)/physical\|physical]] / [[digital\|digital]] [[objects\|objects]]
-related prototypes: [[c4ss1us' conversation menu\|c4ss1us' conversation menu]], [[player menu\|player menu]], [[dakhabrakha music discovery gacha\|dakhabrakha music discovery gacha]].
+related prototypes: [[c4ss1us/c4ss1us' conversation menu\|c4ss1us' conversation menu]], [[c4ss1us/c4ss1us' player menu\|c4ss1us' player menu]], [[dakhabrakha music discovery gacha\|dakhabrakha music discovery gacha]].
 
 ---
 #### the idea
