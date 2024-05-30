@@ -40,9 +40,9 @@ the missions i’m committed to working towards are:
 
 i share this as a way to clarify the “agenda” behind this article (the biases/direction of the writer), and as means to find others who are on similar journeys and wish to collaborate towards these desired futures.
 
-these 3 themes of work came both from my research on systemic challenges, game theory and existential risk, as well as personal intuitions, insights and awakenings i had on my self-knowledge path.
+these 3 themes of work came both from my research on systemic [[_000_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|challenges]], [[game theory\|game theory]] and [[existential risk\|existential risk]], as well as personal intuitions, insights and awakenings i had on my self-knowledge path.
 
-throughout this path, i’ve found many organizations, communities and people doing amazing work. a few of the ones that impacted me the most being: [[daniel schmachtenberger\|daniel schmachtenberger]], [[ken wilber\|ken wilber]], [[maggie appleton\|maggie appleton]], [metagame], [SEEDS](http://joinseeds.earth), [possibility management](http://possibilitymanagement.com/), [protocol labs], [holochain](http://holochain.org), [subconscious], [L1F3.STREAM](https://www.youtube.com/playlist?list=PLliJTfwEBewrsBny4TAusQGNBfgzWB8QN), [high stakes academy] and [mundos possíveis](https://www.instagram.com/mundos_possiveis/) (the last three only have content in brazilian portuguese for now).
+throughout this path, i’ve found many organizations, communities and people doing amazing work. a few of the ones that impacted me the most being: [[daniel schmachtenberger\|daniel schmachtenberger]], [[ken wilber\|ken wilber]], [[maggie appleton\|maggie appleton]], [[initiatives, orgs & communities/metagame.wtf\|metagame.wtf]], [[tbprocessed/base notes/ventures - general/SEEDS (ecosystem)\|SEEDS]], [possibility management](http://possibilitymanagement.com/), [protocol labs], [holochain](http://holochain.org), [[subconscious\|subconscious]], [L1F3.STREAM](https://www.youtube.com/playlist?list=PLliJTfwEBewrsBny4TAusQGNBfgzWB8QN), [high stakes academy] and [mundos possíveis](https://www.instagram.com/mundos_possiveis/) (the last three only have content in brazilian portuguese for now).
 
 so much so that to varying degrees, i contribute or contributed to each of these projects for some time. i’ll still write about why i believe each of them is relevant, what they bring of uniquely valuable to the world, along with lots of other references of people/organizations doing similar/complimentary work.
 
@@ -61,7 +61,7 @@ therefore, the “unsolved” challenges i’m talking about are:
 - **healing and transforming our information ecology**
 - **enabling a vocational economy**
 
-i’ll focus on the information ecology part on this article. the next one will be on the vocational economy, breaking down the 4 best approaches i’ve found so far  —  SEEDS, L1F3.STREAM, [metacurrency](http://metacurrency.org/) and [metagame](http://metagame.wtf).
+i’ll focus on the information ecology part on this article. the next one will be on the vocational economy, breaking down the 4 best approaches i’ve found so far  —  [[tbprocessed/base notes/ventures - general/SEEDS (ecosystem)\|SEEDS]], L1F3.STREAM, [metacurrency](http://metacurrency.org/) and [[initiatives, orgs & communities/metagame.wtf\|metagame.wtf]].
 
 as you might have guessed so far, i’ll strive for understandability in this article, so my definitions will be mostly loose and free from academic jargon.
 
@@ -117,9 +117,55 @@ c) niche subcultures/communities no one’s heard of
 
 which leads us to the first foundational concept:
 
-### 1) digital cartography (a.k.a. mapping)
+#### 1) [[game\|games]], [[game theory\|game theory]], [[topics/game design\|game design]] & [[game boards\|game boards]].
 
-this is one of the, if not _the_ _most underrated field of study_ that i know of.
+[[antonio\|antonio]] - ERGO model: [[environment\|environment]], [[roles\|roles]], [[guidelines\|guidelines]], [[objectives\|objectives]].
+
+...
+
+[[caio vassão\|caio vassão]] - [metadesign, jogos e transformação cultural](https://caiovassao.medium.com/metadesign-jogos-e-transforma%C3%A7%C3%A3o-cultural-4ffce499cd8a)
+
+#### 2) [[digital cartography\|digital cartography]] & approaches to information [[mapping\|mapping]], navigation and curation
+
+the layers & territories of the web:
+
+![](https://cdn-images-1.medium.com/max/800/1*ABCmcMaz6W1wR8mTK254ng.png)
+
+distinctions/neologisms proposed by venkatesh rao, built upon by [maggie appleton](https://maggieappleton.com/cozy-web).
+
+i find this way of seeing the web very clarifying, as well as telling of the problems of closed-source/extractivist/siloed data applications.
+
+there’s even a great deeper analysis + futures-oriented design/prototypes proposed by trust  —  [moving castles](https://trust.support/feed/moving-castles), which brings a greater level of intentionality and ownership over our media platforms and their designs.
+
+![](https://cdn-images-1.medium.com/max/800/1*yj-MJ5IOrQFzhPOsm-_QGg.png)
+
+map from trust’s [moving castles](https://trust.support/feed/moving-castles) article. inspired by the eghbal model of open-source communities, “working in public: the making and maintenance of open source software”, nadia eghbal (2020).
+
+x) [[sublime (ex-startupy)\|sublime]]
+
+sari is the founder of one of the initiatives i mentioned (sublime), and a master of finding/crafting powerful insights on information curation and the web.
+
+especially relevant as AI floods the content/information sphere and the impact of its algorithms become more important/present in our lives.
+
+a few of them:
+
+1) 
+
+![](https://twitter.com/sariazout/status/1326253159447097344)
+
+2) 
+![](https://twitter.com/sariazout/status/1539635547249025026)
+
+3)
+
+**“The world doesn’t need another note-taking or bookmarking tool but it does need more spaces that feel sublime — calm, intellectually and creatively nourishing, meditative, full of wonder and possibility.”**  —  written in an email
+
+4) 
+![](https://twitter.com/sariazout/status/1598307791894110209)
+
+
+
+the concept of [[topographical intelligence\|topographical intelligence]] and [[life cartography\|life cartography]] are _the_ _most underrated ideas_ that i know of.
 
 it seems that we’ve relegated this to hobbyists, artists and intelligence agencies. even them (no offense intended) are really bad/primitive.
 
@@ -251,12 +297,11 @@ proposition of currencies as “current-sees”, i.e. information flows to enabl
 
 as it’s a highly technical project that hasn’t focused much on promotion, only a some people in this community (and in the world in general) are aware/supportive of their development.
 
-### 2) digital gardens
+#### 3) personal knowledge bases & digital gardens
 
-  
-_digital gardening_ simply put_,_ is the practice of building your own space on the web, sharing and tending to your notes.
+_digital gardening_, simply put, is the practice of building your own space on the web, sharing and tending to your notes.
 
-people categorize their notes and tend to their public gardens around certain growth stages, usually: _seedling_, _budding and evergreen_ notes_._
+people categorize their notes and tend to their public gardens around certain growth stages, usually: _seedling_, _budding and evergreen_ notes.
 
 digital gardens are a reality for some time among the PKM (personal knowledge management) circles. [maggie appleton](http://maggieappleton.com) is an amazing digital anthropologist, designer & illustrator who wrote about [a brief history of this movement](https://maggieappleton.com/garden-history) and curated a [list of well-known/engaged digital gardeners](https://github.com/MaggieAppleton/digital-gardeners).
 
@@ -264,7 +309,7 @@ as a concept/practice, i find that digital gardens are already very valuable and
 
 some of my suggestions are: [maggie appleton](https://maggieappleton.com/garden), [nikita voloboev](https://wiki.nikiv.dev/), [azlen elza](https://notes.azlen.me/g3tibyfv/), [alex komoroske](https://thecompendium.cards/c/half-baked/), [tom critchlow](https://tomcritchlow.com/wiki/), [gordon brander](https://gordonbrander.com/pattern/), [gwern](https://gwern.net/), [bianca aguilar](https://www.are.na/bianca-aguilar), [scaling synthesis](https://scalingsynthesis.com/).
 
-the PKM/TfT (tools for thought) communities have grown a lot with the evolution and adoption of notion into mainstream use (largely driven by productivity youtubers such as matt d’avela, , through the launch of roam research in 2016 as the first modern hyperlinked/graph-based note-taking tool (giving rise to many other popular tools today such as obsidian, remnote, logseq and tana) and the popularization of tiago forte’s BASB (building a second brain) methodology in the recent years.
+the [[tbprocessed/base notes/topics/knowledge management\|PKM]]/[[tools for thought\|TfT]] (tools for thought) communities have grown a lot with the evolution and adoption of [[tbprocessed/base notes/tools;products - general/notion\|notion]] into mainstream use (largely driven by productivity youtubers such as [[matt d’avela\|matt d’avela]], [[thomas frank\|thomas frank]], [[ali abdaal\|ali abdaal]], through the launch of [[tbprocessed/base notes/ventures - general/roam research\|roam research]] in 2016 as the first modern hyperlinked/graph-based note-taking tool (giving rise to many other popular tools today such as [[tbprocessed/base notes/ventures - general/obsidian\|obsidian]], [[remnote\|remnote]], [[logseq\|logseq]] and [[tana\|tana]]) and the popularization of tiago forte’s [[building a second brain\|BASB]] (building a second brain) methodology in the recent years.
 
 from my recent experience at an agroecological site, i noticed what’s missing on this digital movement, from an ecological/regenerative perspective is a deeper awareness of where all of this info-vegetation is planted, in relationship with what/whom.
 
@@ -272,45 +317,36 @@ there are many people interested in attaining this deeper awareness, in a few di
 
 but this is still an underdeveloped topic, with lots of potential for creation/innovation.
 
-### 3) online browsing & curation mechanisms
+#### 4) personal systems design
 
-the layers & territories of the web:
+[[subconscious\|subconscious]] & tools for [[coordination\|coordination]], [[collaboration\|collaboration]], etc...
 
-![](https://cdn-images-1.medium.com/max/800/1*ABCmcMaz6W1wR8mTK254ng.png)
 
-distinctions/neologisms proposed by venkatesh rao, built upon by [maggie appleton](https://maggieappleton.com/cozy-web).
+![KM - capture, organize, synthesize loop.jpg|400](/img/user/KM%20-%20capture,%20organize,%20synthesize%20loop.jpg)
 
-i find this way of seeing the web very clarifying, as well as telling of the problems of closed-source/extractivist/siloed data applications.
+##### breakdown
 
-there’s even a great deeper analysis + futures-oriented design/prototypes proposed by trust  —  [moving castles](https://trust.support/feed/moving-castles), which brings a greater level of intentionality and ownership over our media platforms and their designs.
+[[tools for self-transformation\|tools for self-transformation]]:
 
-![](https://cdn-images-1.medium.com/max/800/1*yj-MJ5IOrQFzhPOsm-_QGg.png)
+[[tools for collective intelligence\|tools for collective intelligence]] / [[tbprocessed/base notes/concepts - general/sensemaking\|sensemaking]]:
+[[goodly labs\|goodly labs]]' AI prototypes
+[[tbprocessed/base notes/ventures - general/SEEDS\|SEEDS]]' liquid democracy
+[[meaning alignment institute\|meaning alignment institute]]
+[[roote\|roote]]'s [[projects & tools/tweetscape\|tweetscape]]
+[[common sensemaker\|common sensemaker]]'s [sensenets](https://paragraph.xyz/@sense-nets/sense-nets-intro)
+[[the society library\|society library]]
+[[metaculus\|metaculus]]
+(...)
+AI research tools
+digital gardening / second brain tools...
 
-map from trust’s [moving castles](https://trust.support/feed/moving-castles) article. inspired by the eghbal model of open-source communities, “working in public: the making and maintenance of open source software”, nadia eghbal (2020).
+[[tools for coordination\|tools for coordination]]:
 
-x) sublime (ex-startupy.world)
+[[collaboration tools\|tools for collaboration]]:
 
-sari is the founder of one of the initiatives i mentioned (sublime), and a master of finding/crafting powerful insights on information curation and the web.
+[[tools for play\|tools for play]]:
 
-especially relevant as AI floods the content/information sphere and the impact of its algorithms become more important/present in our lives.
-
-a few of them:
-
-1) 
-
-![](https://twitter.com/sariazout/status/1326253159447097344)
-
-2) 
-![](https://twitter.com/sariazout/status/1539635547249025026)
-
-3)
-
-**“The world doesn’t need another note-taking or bookmarking tool but it does need more spaces that feel sublime — calm, intellectually and creatively nourishing, meditative, full of wonder and possibility.”**  —  written in an email
-
-4) 
-![](https://twitter.com/sariazout/status/1598307791894110209)
-
-### 4) types of networks, digital/physical spaces, and information quality, segmented by platform
+#### 5) types of networks, digital/physical spaces, and information quality, segmented by platform
 
 throughout my own experience surfing the web and being disoriented by the amount of lifeless SEO-optimized content, propaganda, clickbait and formulaic copywriting, i came to identify few different categories of knowledge i was interested in and the best platforms i found for discovering/curating it.
 
@@ -355,10 +391,9 @@ after researching/testing these plus around 200 other tools/platforms (mostly lo
 - AI agents / decentralized knowledge/information curation. (increasing optionality/serendipity)
 - interfaces enabling better individual & collective intelligence. (improving sensemaking/decision-making)
 
-### 5) proto-designs i’ve been working on
-
+#### 6) proto-designs i’ve been working on
   
-in december 2022, [obsidian](http://obsidian.md) has launched the “canvas” option, which allows you to spatially navigate your (hyperlinked) notes as well as interactive web pages.
+in december 2022, [obsidian](http://obsidian.md) launched the “canvas” option, which allowed you to spatially navigate your (hyperlinked) notes as well as interactive web pages.
 
 ![](https://twitter.com/obsdmd/status/1605221150602285060)
 
@@ -396,4 +431,4 @@ the most promising projects i’ve discovered on this front are:
 - [subconscious](https://github.com/subconsciousnetwork/noosphere)
 - [anytype](https://anytype.io/)
 
-  but you have to speak 8 levels of nerd in order to "get" most of them (i spent 1 whole year living and breathing SEEDS to really get it, at deeper levels).
+  but you have to speak 8 levels of nerd in order to "get" most of them, especially if you don't have a technical background (i spent 1 whole year living and breathing SEEDS to really get it, at deeper levels).
