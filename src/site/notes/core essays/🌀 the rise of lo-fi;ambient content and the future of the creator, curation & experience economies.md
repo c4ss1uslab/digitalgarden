@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/core essays/🌀 the rise of lo-fi;ambient content and the future of the creator, curation & experience economies/"}
 ---
 
-![integral OS 1.jpg](/img/user/integral%20OS%201.jpg)
+![integral dashboard.jpg](/img/user/integral%20dashboard.jpg)
 
 we'll talk about shared brains, third spaces, communities...
 
@@ -53,7 +53,7 @@ and this time in physical isolation made reflect and research a lot on the theme
 
 in 2023, my life has been pretty much the opposite. going to ecovillages, farms, slums, courses, retreats and all sorts of cultural, local community events in são paulo, brazil.
 
-in this article, i aim to share my findings, curation and perspectives on the [[future of communities\|future of communities]] and the [[internet\|internet]] - and subjacent themes, such as the [[metaverse\|metaverse]], [[trust networks\|trust networks]] and a lot more.
+in this article, i aim to share my findings, curation and perspectives on the [[future of communities\|future of communities]] and the [[internet\|internet]] - and subjacent themes, such as the [[metaverse\|metaverse]], [[initiatives, orgs & communities/trust network\|trust network]] and a lot more.
 
 i bring special attention to **[[intentional online communities\|intentional online communities]]** and **[[third spaces\|third spaces]]** as cultural [[attractors\|attractors]]. they're places that can feel more like home than at home or at work.
 
@@ -79,7 +79,7 @@ decentralization of resources -> 16x population, 100x resource consumption.
 
 if there's something that persisted even after a lot of western influence and colonization (for its lights and shadows) in the global south culture is that we're a lot more communitarian. everyone is friends, everyone is family.
 
-communities like [[mol\|mol]] and [[instituto amuta\|instituto amuta]] recognize this and are deliberately studying and practicing culture-building in more intentional, conscious and regenerative ways.
+communities like [[MoL\|mol]] and [[instituto amuta\|instituto amuta]] recognize this and are deliberately studying and practicing culture-building in more intentional, conscious and regenerative ways.
 
 ###### technology-enabled communities
 
@@ -161,12 +161,13 @@ ultimately, [[sari\|sari]] captures it well here:
 ###### main references:
 - [[sublime (ex-startupy)\|sublime (ex-startupy)]]
 - [[melon\|melon]]
-- [[weco\|weco]]
+- [[golden\|golden]]
+- [[projects & tools/weco\|weco]]
 - [[tbprocessed/base notes/ventures - general/hylo\|hylo]]
 - [[neighbourhoods\|neighbourhoods]]
 
 ###### other orgs building tools:
-- [[the computational democracy project\|the computational democracy project]]
+- [[the computational democracy project\|the computational democracy project]] ([[pol.is\|pol.is]])
 - [[goodly labs\|goodly labs]]
 
 ###### decentralized social media initiatives:
