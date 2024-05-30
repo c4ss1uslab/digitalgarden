@@ -4,6 +4,12 @@
 
 draft link: https://medium.com/@cassiuscarvalho/life-as-play-collaborative-life-wisdom-ontological-design-as-a-revolutionary-practice-291959d935e5
 
+```ad-info
+title: 👁 epistemic disclosure
+collapse:
+this one is a little more crackpot than usual. it'll get progressively weirder (and more interesting) as the text goes by. i'll employ good sense to present first scientifically acceptable ideas -> wild spiritual speculations last. nonetheless, i guarantee it's gonna be an interesting read, as it's one of the most enlivening topics for me and one of my favorite texts to write.
+```
+
 ---
 to add:
 
@@ -15,13 +21,13 @@ energy distinctions:
 ###### most common:
 
 self-management (GTD) stuff:
-inspiration / motivation / discipline - ratinhos/elefantes/borboletas
+inspiration / motivation / discipline - rats/elephants/butterflies
 
 ###### simplest/most accepted yet very useful:
 passive vs active / open vs closed (yin vs yang)
 [[5 bodies\|5 bodies]] (& similar approaches)
 hierarchy of needs (& similar approaches)
-[[4 elements\|4 elements]] (& similar approaches - [[4 states\|4 states]], [[4 feelings\|4 feelings]])
+[[4 elements\|4 elements]] (& similar approaches - [[areas/life areas (base)/alchemy/4 energy states\|4 energy states]], [[4 feelings\|4 feelings]])
 
 ###### distinctions from a few more empirical fields (that i found useful) but can easily be pseudo-sciency, and thus require a much deeper/more careful investigation:
 
@@ -72,6 +78,58 @@ a few communities that practice this in some way:
 [[AI agents\|AI agents]]
 
 [[models & frameworks/fourgames\|fourgames]]
+
+--
+
+"mapping serious approaches to life playing"
+
+for ppl who don't resonate -> incentives, "sobriety", distractions, preference vs resonance
+
+- natural play & play modes / metagame modules:
+
+play modes [dashboard]:
+[1] cultivating
+[2] transforming
+[3] struggling with
+[4] building
+
+sensing, sensemaking, decision-making, action, learning
+
+[[waking up\|waking up]], [[growing up\|growing up]], [[cleaning up\|cleaning up]], [[showing up\|showing up]], [[opening up\|opening up]] -> ecologies of practices
+
+- expanding the  understanding of games
+— game theory
+— coop games: pedagogia da cooperação
+
+——
+
+metagame modules:
+
+"war (RPG, civilization, age of empires) da vida":
+
+mapeamento.
+
+estratégia.
+
+jogos da vida.
+
+práticas. pesquisas. desafios.
+(relacionais)
+
+———————
+
+"embodied spatial navigation in life" -> on being lost / your first move/turn/position:
+
+- wardley mapping chapter 1
+- maggie historical trails
+- john verveake's relevance realization + psychedelics functioning
+- 4games
+
+"technically speaking about playing life as a game" (& building it)
+
+you may already know what you want or you may choose to experiment a little bit and decide based on what the circumstances present to you.
+
+"you have to discover what matters before knowing what you want"
 
 ###### ontological design as a revolutionary practice
 
