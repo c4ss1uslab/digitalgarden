@@ -6,13 +6,13 @@
 
 SEEDS stands for Sowing Equitable Ecological Decentralized Societies. it is the boldest project i know of that aims to create a viable alternative for our capitalist system - a complete set of decentralized, voluntary, regenerative governance, economic, financial and organizational systems.
 
-the project has been mostly on hold since 2022, when at ~10k participants (but only ~100-200 more active participants), it failed to get traction to keep growing sustainably. then, folks at [[hypha\|hypha]] (the starters and initial stewards of the ecosystem) received a grant from the EOS foundation and shifted their focus from building the ecosystem itself to the DAO management tools they'd built (which is a smaller part of it), aiming to create more runway by monetizing the tools this way.
+the project has been mostly on hold since 2022, when at ~10k participants (but only ~100-200 more active participants), it failed to get traction to keep growing sustainably. then, folks at [[hypha\|hypha]] (the starters and initial stewards of the ecosystem) [received a grant from the EOS foundation](https://twitter.com/HyphaDAO/status/1570605691349643265) and shifted their focus from building the ecosystem itself to the DAO management tools they'd built (which is a smaller part of it), aiming to create more runway by monetizing the tools this way.
 
 it's an incredibly complex, deep and thoughtful project, with lots of hands, hearts and minds involved. and it requires a big commitment/learning curve to really understand its scope and how much has already been developed, if you want to learn about it. nonetheless, i strongly recommend it.
 
 i was very involved during the whole year of 2021 - i did the [[writings/tools for the regenerative renaissance review\|tools for the regenerative renaissance]] course, the [[SEEDS ambassador academy\|ambassador academy]], SEEDS leadership course, proposed campaigns, co-created proposals, participated in the renaissance explorers (alchemists/architects) cohorts, reviewed the SEEDS Guide, etc...
 
-it's one of the most cohesive, deeply researched/well-thought-out projects i know of, moving beyond simplistic notions of [[regeneration\|regeneration]], to building out actual implementations of [[sacred economics\|sacred economics]], informed by the work/research on the [[concepts/metacrisis\|metacrisis]], and with a design/scope much more sophisticated than the vast majority of the [[topics/web3\|web3]] and [[refi\|ReFi]] projects as well.
+it's one of the most cohesive, deeply researched/well-thought-out projects i know of, moving beyond simplistic notions of [[regeneration\|regeneration]], to building out actual implementations of [[sacred economics\|sacred economics]], informed by the work/research on the [[concepts/metacrisis\|metacrisis]], and with a design/scope much more sophisticated than the vast majority of the [[web3\|web3]] and [[refi\|ReFi]] projects as well.
 
 #### resources
 
