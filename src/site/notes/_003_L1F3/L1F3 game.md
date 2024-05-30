@@ -32,7 +32,7 @@ how do we hold space for all these perspectives, and more to come?
 
 [[_003_L1F3/l1f3 protocol\|L1F3 protocol]] is an experimental interoperability protocol for perspectives - testing, evaluating, taking, changing and creating.
 
-related people: [[peth\|peth]]/[[changethegame\|changethegame]]/[[metadreamer\|metadreamer]], [[davi lemos\|davi lemos]], [[marcelo peterlini\|marcelo peterlini]], [[victor\|victor]] ([[vibecafe.xyz\|vibecafe.xyz]]), [[gordon brander\|gordon brander]], [[gui david\|gui david]]/[[ketan agrawal\|ketan agrawal]], [[ana marques\|ana marques]]/[[ciano\|ciano]], [[ethan nelson\|ethan nelson]]/[[eric brown\|eric brown]], [[julyanna carmo\|julyanna carmo]]/[[daya\|daya]]/[[ronaldo crispim\|ronaldo crispim]], [[luis sérgio ferreira\|luis sérgio ferreira]]/[[alex bretas\|alex bretas]].
+related people: [[tbprocessed/base notes/people/peth\|peth]]/[[changethegame\|changethegame]]/[[metadreamer\|metadreamer]], [[davi lemos\|davi lemos]], [[marcelo peterlini\|marcelo peterlini]], [[victor\|victor]] ([[vibecafe.xyz\|vibecafe.xyz]]), [[gordon brander\|gordon brander]], [[gui david\|gui david]]/[[ketan agrawal\|ketan agrawal]], [[ana marques\|ana marques]]/[[ciano\|ciano]], [[ethan nelson\|ethan nelson]]/[[eric brown\|eric brown]], [[julyanna carmo\|julyanna carmo]]/[[daya\|daya]]/[[ronaldo crispim\|ronaldo crispim]], [[luis sérgio ferreira\|luis sérgio ferreira]]/[[alex bretas\|alex bretas]].
 
 ### main references:
 
@@ -52,7 +52,7 @@ source: [[buckminster fuller institute\|buckminster fuller institute]], os.earth
 
 
 [[initiatives, orgs & communities/metagame.wtf\|metagame.wtf]]
-source: [[peth\|peth]], [[concepts/metacrisis\|metacrisis]] / [[tbprocessed/base notes/concepts - general/game b\|game b]] space
+source: [[tbprocessed/base notes/people/peth\|peth]], [[concepts/metacrisis\|metacrisis]] / [[tbprocessed/base notes/concepts - general/game b\|game b]] space
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/initiatives-orgs-and-communities/metagame-wtf/#fc662c" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
