@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/game design patterns/","tags":["gamedesign","patterns","🌱"]}
+{"dg-publish":true,"permalink":"/game-design-patterns/","tags":["gamedesign","patterns","🌱"]}
 ---
 
 ##### intro
