@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/_000_MOCs/025 🔷 long game/025 🗺 topics & references MOC/","tags":["🌿"]}
+{"dg-publish":true,"permalink":"/000-mo-cs/025-long-game/025-topics-and-references-moc/","tags":["🌿"],"created":"2021-12-11T16:52:03.339-03:00","updated":"2024-06-05T16:25:45.659-03:00"}
 ---
 
 ###### captions
@@ -93,7 +93,7 @@ level of depth:
 	🔩 [[tbprocessed/base notes/tools;products - proprietary/tools/life organization & visualization system\|LOVS - life organization & visualization system]] ([[notion system\|notion system]])
 	📂 [[knowledge management methodologies\|knowledge management methodologies]]
 🌲 [[crypto\|crypto]] / [[web3\|web3]]
-	🔥 [[tbprocessed/base notes/ventures - general/SEEDS (ecosystem)\|SEEDS (ecosystem)]]
+	🔥 [[initiatives, orgs & communities/SEEDS (ecosystem)\|SEEDS (ecosystem)]]
 🌿 [[metaverse\|metaverse]]
 	🔥 [[m3 metaverse makers\|m3 metaverse makers]]
 🌿 [[interfaces\|interfaces]] & [[user experience\|UX]]
@@ -110,7 +110,7 @@ level of depth:
 	💡 [[twitter map\|twitter map]]
 	💫 [[mapping videos\|mapping videos]]
 	💫 [[map-making workflow (excalidraw)\|map-making workflow (excalidraw)]]
-	💫 [[ideaverse\|ideaverse]] / [[research visualization world\|research visualization world]] / [[digital garden/c4ss1us.lab digital garden\|c4ss1us.lab digital garden]] evolution into a [[3d\|3d]]/artistic [[3rd brain\|3rd brain]]
+	💫 [[ideaverse\|ideaverse]] / [[research visualization world\|research visualization world]] / [[digital garden/home\|home]] evolution into a [[3d\|3d]]/artistic [[3rd brain\|3rd brain]]
 🌿 [[digital systems design\|digital systems design]]
 	🔥 [[concepts/values-based design\|values-and-meaning based design]]
 🌱 [[data management\|data management]]
@@ -172,7 +172,7 @@ level of depth:
 	--> 💧 [[human connection games\|human connection games]]
 		--> [[pure players card game\|pure players card game]]
 		--> [[amuta cards\|amuta cards]]
-		--> [[música do círculo cards\|música do círculo cards]]
+		--> [[música do círculo's card deck\|música do círculo's card deck]]
 	--> 🌱 [[physical games\|physical games]]
 		--> [[playfight\|playfight]]
 		--> [[parkour\|parkour]]
