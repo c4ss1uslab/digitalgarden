@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/metacrisis/","tags":["🌿","concept","metacrisis"]}
+{"dg-publish":true,"permalink":"/concepts/metacrisis/","tags":["🌿","concept","metacrisis"],"created":"2023-10-31T15:56:54.956-03:00","updated":"2024-05-06T16:31:20.809-03:00"}
 ---
 
 *my definition:* the set of interconnected, interdependent crises of our time, leading us either towards impending systemic collapse as we approach planetary boundaries, authoritarian modes of damage control or transition into more regenerative, mature, antifragile civilizations and lifestyles.
