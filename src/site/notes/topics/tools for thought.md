@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/tools for thought/","tags":["🌱","knowledgemanagement"]}
+{"dg-publish":true,"permalink":"/topics/tools-for-thought/","tags":["🌱","knowledgemanagement"],"created":"2022-12-06T12:07:03.218-03:00","updated":"2024-05-28T19:40:40.886-03:00"}
 ---
 
 related topics: [[tbprocessed/base notes/topics/knowledge management\|knowledge management]], [[note-making\|note-making]], [[networked thought\|networked thought]], [[computer-supported collaborative work\|computer-supported collaborative work]] (CSCW), [[knowledge graphs\|knowledge graphs]], [[human-computer interaction\|human-computer interaction]] (HCI), [[extended cognition\|extended cognition]].
