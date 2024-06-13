@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/_002_book-zine - viable pathways/01 - viable pathways book-zine/"}
+{"dg-publish":true,"permalink":"/002-book-zine-viable-pathways/01-viable-pathways-book-zine/","created":"2022-03-25T13:53:56.444-03:00","updated":"2024-06-13T15:47:51.849-03:00"}
 ---
 
-hey, welcome! this is a living, under-construction experimental book-zine, a hyper-linked multimedia medium that acts as a theoretical research / practical toolkit in-between.
+hey, welcome! this is the skeleton a living, under-construction book-zine, an experimental hyper-linked multimedia medium that acts as a theoretical research / practical toolkit in-between.
 
 ```ad-info
 title: about
@@ -65,7 +65,7 @@ it's through this study that i found the most profoundly meaningful and cohesive
 
 besides daniel's work, the simplest, yet most clarifying perspectives i found came from [[zak stein\|zak stein]] and the [[transformative education alliance\|transformative education alliance]] on their essay "[education is the metacrisis](https://systems-souls-society.com/education-is-the-metacrisis/)".
 
-for further breakdowns, [[jonathan rowson\|jonathan rowson]] did an amazing deep dive into multiple perspectives an essay called [tasting the pickle: ten flavours of meta-crisis and the appetite for a new civilisation](https://systems-souls-society.com/tasting-the-pickle-ten-flavours-of-meta-crisis-and-the-appetite-for-a-new-civilisation/), [[john vervaeke\|john vervaeke]] also has a great 50-lecture series on [[meaning crisis\|awakening from the meaning crisis]], [[josh field\|josh field]] shares very unique perspectives on the [[concepts/flow crisis\|flow crisis]], and there's a lot more you can discover by browsing the [metacrisis.org](https://metacrisis.org/) website or looking at very disruptive metacrisis-informed projects such as [[tbprocessed/base notes/ventures - general/SEEDS (ecosystem)\|SEEDS (ecosystem)]] and [[tbprocessed/base notes/ventures - general/holochain\|holochain]] (both are deep in the web3 space, i don't recommend if you're a beginner).
+for further breakdowns, [[jonathan rowson\|jonathan rowson]] did an amazing deep dive into multiple perspectives an essay called [tasting the pickle: ten flavours of meta-crisis and the appetite for a new civilisation](https://systems-souls-society.com/tasting-the-pickle-ten-flavours-of-meta-crisis-and-the-appetite-for-a-new-civilisation/), [[john vervaeke\|john vervaeke]] also has a great 50-lecture series on [[meaning crisis\|awakening from the meaning crisis]], [[josh field\|josh field]] shares very unique perspectives on the [[concepts/flow crisis\|flow crisis]], and there's a lot more you can discover by browsing the [metacrisis.org](https://metacrisis.org/) website or looking at very disruptive metacrisis-informed projects such as [[initiatives, orgs & communities/SEEDS (ecosystem)\|SEEDS (ecosystem)]] and [[tbprocessed/base notes/ventures - general/holochain\|holochain]] (both are deep in the web3 space, i don't recommend if you're a beginner).
 
 the major value i found in attempting to assess and conceptualize our current state - both as individuals and a society - is to recognize and develop vocabulary over the complex systems dynamics that are constantly affecting us, so we can be more aware of them, make better sense of what's going on and coordinate towards more desirable presents and futures.
 
@@ -388,7 +388,7 @@ due to the design of our systems and their [[incentives\|incentives]], most peop
 
 despite tons of speculation, scams, misleading marketing, degens, incels and other forms of unhealthy behavior, many people in the [[web3\|web3]] space are keenly aware of this and have been building in this direction for a long time.
 
-something i realized through [[naruto (anime)\|naruto]] (believe it! "the cycle of hatred") and [[tbprocessed/base notes/ventures - general/SEEDS (ecosystem)\|SEEDS (ecosystem)]] is that we don't need yet another revolution, but a renaissance. if people are excluded, left out, that breeds division and hatred. if they are included, invited into new civilizations with a different set of values, where they can have a different experience of reality - one not of command and control, but of empathy and care - where *by design* they're taken care of and their power is gradually decentralized and shifted into the community, we have a chance to change through a change of heart.
+something i realized through [[naruto (anime)\|naruto]] (believe it! "the cycle of hatred") and [[initiatives, orgs & communities/SEEDS (ecosystem)\|SEEDS (ecosystem)]] is that we don't need yet another revolution, but a renaissance. if people are excluded, left out, that breeds division and hatred. if they are included, invited into new civilizations with a different set of values, where they can have a different experience of reality - one not of command and control, but of empathy and care - where *by design* they're taken care of and their power is gradually decentralized and shifted into the community, we have a chance to change through a change of heart.
 
 so we don't care about regeneration just because we need to take care of earth in order to survive as a species. regeneration is the process through which us and nature unfold. if we don't regenerate (heal) ourselves, our relationships, our institutions, there's no way we can flourish and thrive.
 
