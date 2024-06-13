@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core essays/💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons/"}
+{"dg-publish":true,"permalink":"/core-essays/foundational-concepts-for-developing-regenerative-information-ecologies-and-empowering-knowledge-commons/","created":"2023-10-31T20:24:29.951-03:00","updated":"2024-05-15T23:11:28.457-03:00"}
 ---
 
 draft link: https://medium.com/@cassiuscarvalho/foundational-concepts-for-developing-regenerative-information-ecologies-empowering-knowledge-d427b1dc2cb3
@@ -42,7 +42,7 @@ i share this as a way to clarify the “agenda” behind this article (the biase
 
 these 3 themes of work came both from my research on systemic [[_000_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|challenges]], [[game theory\|game theory]] and [[existential risk\|existential risk]], as well as personal intuitions, insights and awakenings i had on my self-knowledge path.
 
-throughout this path, i’ve found many organizations, communities and people doing amazing work. a few of the ones that impacted me the most being: [[daniel schmachtenberger\|daniel schmachtenberger]], [[ken wilber\|ken wilber]], [[maggie appleton\|maggie appleton]], [[initiatives, orgs & communities/metagame.wtf\|metagame.wtf]], [[tbprocessed/base notes/ventures - general/SEEDS (ecosystem)\|SEEDS]], [possibility management](http://possibilitymanagement.com/), [protocol labs], [holochain](http://holochain.org), [[subconscious\|subconscious]], [L1F3.STREAM](https://www.youtube.com/playlist?list=PLliJTfwEBewrsBny4TAusQGNBfgzWB8QN), [high stakes academy] and [mundos possíveis](https://www.instagram.com/mundos_possiveis/) (the last three only have content in brazilian portuguese for now).
+throughout this path, i’ve found many organizations, communities and people doing amazing work. a few of the ones that impacted me the most being: [[daniel schmachtenberger\|daniel schmachtenberger]], [[ken wilber\|ken wilber]], [[maggie appleton\|maggie appleton]], [[initiatives, orgs & communities/metagame.wtf\|metagame.wtf]], [[initiatives, orgs & communities/SEEDS (ecosystem)\|SEEDS]], [possibility management](http://possibilitymanagement.com/), [protocol labs], [holochain](http://holochain.org), [[subconscious\|subconscious]], [L1F3.STREAM](https://www.youtube.com/playlist?list=PLliJTfwEBewrsBny4TAusQGNBfgzWB8QN), [high stakes academy] and [mundos possíveis](https://www.instagram.com/mundos_possiveis/) (the last three only have content in brazilian portuguese for now).
 
 so much so that to varying degrees, i contribute or contributed to each of these projects for some time. i’ll still write about why i believe each of them is relevant, what they bring of uniquely valuable to the world, along with lots of other references of people/organizations doing similar/complimentary work.
 
@@ -61,7 +61,7 @@ therefore, the “unsolved” challenges i’m talking about are:
 - **healing and transforming our information ecology**
 - **enabling a vocational economy**
 
-i’ll focus on the information ecology part on this article. the next one will be on the vocational economy, breaking down the 4 best approaches i’ve found so far  —  [[tbprocessed/base notes/ventures - general/SEEDS (ecosystem)\|SEEDS]], L1F3.STREAM, [metacurrency](http://metacurrency.org/) and [[initiatives, orgs & communities/metagame.wtf\|metagame.wtf]].
+i’ll focus on the information ecology part on this article. the next one will be on the vocational economy, breaking down the 4 best approaches i’ve found so far  —  [[initiatives, orgs & communities/SEEDS (ecosystem)\|SEEDS]], L1F3.STREAM, [metacurrency](http://metacurrency.org/) and [[initiatives, orgs & communities/metagame.wtf\|metagame.wtf]].
 
 as you might have guessed so far, i’ll strive for understandability in this article, so my definitions will be mostly loose and free from academic jargon.
 
