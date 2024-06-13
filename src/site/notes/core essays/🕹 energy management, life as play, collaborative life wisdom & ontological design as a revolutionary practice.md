@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core essays/🕹 energy management, life as play, collaborative life wisdom & ontological design as a revolutionary practice/"}
+{"dg-publish":true,"permalink":"/core-essays/energy-management-life-as-play-collaborative-life-wisdom-and-ontological-design-as-a-revolutionary-practice/","created":"2023-12-12T12:06:45.872-03:00","updated":"2024-05-23T20:37:05.603-03:00"}
 ---
 
 draft link: https://medium.com/@cassiuscarvalho/life-as-play-collaborative-life-wisdom-ontological-design-as-a-revolutionary-practice-291959d935e5
