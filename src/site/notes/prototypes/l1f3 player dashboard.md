@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/prototypes/l1f3 player dashboard/","tags":["🌿","prototype","l1f3"]}
+{"dg-publish":true,"permalink":"/prototypes/l1f3-player-dashboard/","tags":["🌿","prototype","l1f3"],"created":"2024-03-19T14:21:06.710-03:00","updated":"2024-04-17T19:51:52.757-03:00"}
 ---
 
 inspired by the [[integral dashboard.jpg]], [[RPG\|RPG]]s, [[sword art online\|sword art online]], [[solo leveling\|solo leveling]]'s simple [[solo leveling UIs\|UIs]], and [[game interfaces\|game interfaces]] in general, i've been experimenting with creating a dashboard for [[self-management\|self-management]] for a long time.
