@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/models & frameworks/fluxonomy 4d/","tags":["framework","🌿"]}
+{"dg-publish":true,"permalink":"/models-and-frameworks/fluxonomy-4d/","tags":["framework","🌿"],"created":"2021-12-11T16:51:56.742-03:00","updated":"2024-05-06T19:30:18.399-03:00"}
 ---
 
 a simple yet very useful [[futures\|futures]]/[[emergent economies\|emergent economies]] framework proposed by [[lala deheinzelin\|lala deheinzelin]], mostly in portuguese. similar to an [[integral theory\|integral]] understanding of emergent economic contexts.
