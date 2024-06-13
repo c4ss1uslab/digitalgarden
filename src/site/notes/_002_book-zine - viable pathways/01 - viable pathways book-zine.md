@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/002-book-zine-viable-pathways/01-viable-pathways-book-zine/","created":"2022-03-25T13:53:56.444-03:00","updated":"2024-06-13T15:47:51.849-03:00"}
+{"dg-publish":true,"permalink":"/002-book-zine-viable-pathways/01-viable-pathways-book-zine/","created":"2022-03-25T13:53:56.444-03:00","updated":"2024-06-13T15:48:21.223-03:00"}
 ---
 
-hey, welcome! this is the skeleton a living, under-construction book-zine, an experimental hyper-linked multimedia medium that acts as a theoretical research / practical toolkit in-between.
+hey, welcome! this is the skeleton of a living, under-construction book-zine, an experimental hyper-linked multimedia medium that acts as a theoretical research / practical toolkit in-between.
 
 ```ad-info
 title: about
