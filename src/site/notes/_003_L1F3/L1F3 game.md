@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/_003_L1F3/L1F3 game/","tags":["l1f3","project","🌿","game","seriousgame"]}
+{"dg-publish":true,"permalink":"/003-l1-f3/l1-f3-game/","tags":["l1f3","project","🌿","game","seriousgame"],"created":"2022-02-05T11:41:05.535-03:00","updated":"2024-05-28T18:11:15.690-03:00"}
 ---
 
 the L1F3 game is a massively-multiplayer online-and-offline collaborative self-transformation & civilization-building game under development.
@@ -55,7 +55,7 @@ source: [[buckminster fuller institute\|buckminster fuller institute]], os.earth
 source: [[tbprocessed/base notes/people/peth\|peth]], [[concepts/metacrisis\|metacrisis]] / [[tbprocessed/base notes/concepts - general/game b\|game b]] space
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/initiatives-orgs-and-communities/metagame-wtf/#fc662c" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -90,7 +90,7 @@ source: https://www.youtube.com/watch?v=5Zj_zstLLP4
 
 ##### other real-life gaming tools/refs:
 
-[[initiatives, orgs & communities/metagame.wtf\|metagame.wtf]] ([[mymeta profile\|player profile]], [[metagame dashboard\|personal dashboard]])
+[[initiatives, orgs & communities/metagame.wtf\|metagame.wtf]] ([[initiatives, orgs & communities/metagame/mymeta profile\|player profile]], [[initiatives, orgs & communities/metagame/metagame dashboard\|personal dashboard]])
 [[integral OS\|integral OS]]
 cabinDAO profiles (+ other DAO governance mechanisms, greenpill, gnosis guild/zodiac, SEEDS)
 startover.xyz's experiments catalog
@@ -131,7 +131,7 @@ X-prize, bootcamps, hackathons...
 
 ###### game design refs
 
-in the field of [[topics/game design\|game design]] there are no established "[[game design patterns\|game design patterns]]", however there are proposals and compilations made by [staffan bjork & jussi holopainen](http://virt10.itu.chalmers.se/index.php/Main_Page) (2004), [joris dormans](https://pure.hva.nl/ws/portalfiles/portal/141730/556198_Dissertatie_Dormans.pdf) (2012), [jose zagal](https://www.gameontology.com/index.php/Main_Page) (2020), [christopher barney](https://patternlanguageforgamedesign.com/PatternLibraryApp/PatternLibrary/) (2021), and others that are useful references.
+in the field of [[topics/game design\|game design]] there are no established "[[patterns/game design patterns\|game design patterns]]", however there are proposals and compilations made by [staffan bjork & jussi holopainen](http://virt10.itu.chalmers.se/index.php/Main_Page) (2004), [joris dormans](https://pure.hva.nl/ws/portalfiles/portal/141730/556198_Dissertatie_Dormans.pdf) (2012), [jose zagal](https://www.gameontology.com/index.php/Main_Page) (2020), [christopher barney](https://patternlanguageforgamedesign.com/PatternLibraryApp/PatternLibrary/) (2021), and others that are useful references.
 
 ###### game theory refs
 
@@ -235,7 +235,7 @@ a few key differences are: they're more focused on building the [[web3\|web3]] i
 
 we're more focused on building community and narrative content first, so it can attract more than the tech-savvy/[[web3\|web3]] types and become a self-sustainable ecosystem able to support its players on their developmental journeys, so they can, among other things, build the necessary technological tools as well.
 
-there's also a big challenge in [[web3\|web3]]/crypto space which is the design of conscious/sustainable/regenerative incentive structures. though there are great projects attempting to address this such as [[token engineering commons\|token engineering commons]], [[gitcoin\|gitcoin]] and [[better-than-free economies\|better-than-free economies]] such as [[tbprocessed/base notes/ventures - general/SEEDS (ecosystem)\|SEEDS]], i still believe it's a largely unsolved problem, with room for wild speculation and bad actors. so i'm a bit wary of investing a lot of energy into the project and it collapsing due to their tokenomics model.
+there's also a big challenge in [[web3\|web3]]/crypto space which is the design of conscious/sustainable/regenerative incentive structures. though there are great projects attempting to address this such as [[token engineering commons\|token engineering commons]], [[gitcoin\|gitcoin]] and [[better-than-free economies\|better-than-free economies]] such as [[initiatives, orgs & communities/SEEDS (ecosystem)\|SEEDS]], i still believe it's a largely unsolved problem, with room for wild speculation and bad actors. so i'm a bit wary of investing a lot of energy into the project and it collapsing due to their tokenomics model.
 
 **Q: what's the difference between this and [[projects & tools/startover.xyz\|startover.xyz]]?**
 
@@ -403,7 +403,7 @@ modularity and interoperability are so important here. [[tbprocessed/base notes/
 
 a set of best practices, interfaces, pages and dashboards for managing your [[self\|self]].
 
-things such as: **player attributes** ([[skills\|skills]], [[talents\|talents]], [[status\|status]]es, [[classes\|classes]], etc), **artifacts** ([[areas/life areas (internal)/physical\|physical]], [[digital\|digital]], [[hybrid\|hybrid]], [[areas/life areas (internal)/energetic\|energetic]]), **aspirations** ([[metagame quests\|metagame quests]], [[initiation\|initiations]], [[training\|training]], etc).
+things such as: **player attributes** ([[skills\|skills]], [[talents\|talents]], [[status\|status]]es, [[classes\|classes]], etc), **artifacts** ([[areas/life areas (internal)/physical\|physical]], [[digital\|digital]], [[hybrid\|hybrid]], [[areas/life areas (internal)/energetic\|energetic]]), **aspirations** ([[initiatives, orgs & communities/metagame/metagame quests\|metagame quests]], [[initiation\|initiations]], [[training\|training]], etc).
 
 many RPG and MMORPG systems to use as reference.
 
