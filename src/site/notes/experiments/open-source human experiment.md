@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/experiments/open-source human experiment/","tags":["experiment","🌿"]}
+{"dg-publish":true,"permalink":"/experiments/open-source-human-experiment/","tags":["experiment","🌿"],"created":"2023-12-27T13:44:24.897-03:00","updated":"2024-04-01T18:45:08.443-03:00"}
 ---
 
 since 2019, i've been structuring my whole life to be open-source and streamed in real-time using the [[l1f3 streaming system\|l1f3 streaming system]].
