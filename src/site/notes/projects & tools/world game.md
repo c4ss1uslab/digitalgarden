@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects-and-tools/world-game/","tags":["seriousgame","education","architect","🌿"],"created":"2024-01-19T16:20:09.956-03:00","updated":"2024-05-15T21:22:54.746-03:00"}
+{"dg-publish":true,"permalink":"/projects & tools/world game/","tags":["seriousgame","education","architect","🌿"],"created":"2024-01-19T16:20:09.956-03:00","updated":"2024-05-15T21:22:54.746-03:00"}
 ---
 
 the world (peace) game was proposed by [[buckminster fuller\|buckminster fuller]] in the 1960s, aiming to:
