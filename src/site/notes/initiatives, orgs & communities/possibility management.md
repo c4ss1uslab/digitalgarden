@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/initiatives-orgs-and-communities/possibility-management/","tags":["🌿","organization","community"],"created":"2022-03-02T16:18:16.740-03:00","updated":"2024-03-26T15:47:09.127-03:00"}
+{"dg-publish":true,"permalink":"/initiatives, orgs & communities/possibility management/","tags":["🌿","organization","community"],"created":"2022-03-02T16:18:16.740-03:00","updated":"2024-03-26T15:47:09.127-03:00"}
 ---
 
 http://possibilitymanagement.com
