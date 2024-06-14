@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/models-and-frameworks/forms-of-capital/","tags":["framework","🌿"],"created":"2022-02-12T11:31:45.742-03:00","updated":"2024-03-29T22:23:19.946-03:00"}
+{"dg-publish":true,"permalink":"/models & frameworks/forms of capital/","tags":["framework","🌿"],"created":"2022-02-12T11:31:45.742-03:00","updated":"2024-03-29T22:23:19.946-03:00"}
 ---
 
 this framework was created by ethan roland & gregory landua in 2011, from their research on financial [[tbprocessed/base notes/topics/permaculture\|permaculture]]. see a great introductory post [here](http://www.appleseedpermaculture.com/wp-content/uploads/2011/04/8_Forms_of_Capital_PM68.pdf).
