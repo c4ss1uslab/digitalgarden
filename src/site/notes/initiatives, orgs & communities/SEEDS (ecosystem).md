@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/initiatives-orgs-and-communities/seeds-ecosystem/","tags":["project","top3","web3","regeneration","ReFi","post-growth","🌿"],"created":"2021-12-11T16:51:57.834-03:00","updated":"2024-05-06T17:34:54.525-03:00"}
+{"dg-publish":true,"permalink":"/initiatives, orgs & communities/SEEDS (ecosystem)/","tags":["project","top3","web3","regeneration","ReFi","post-growth","🌿"],"created":"2021-12-11T16:51:57.834-03:00","updated":"2024-05-06T17:34:54.525-03:00"}
 ---
 
 #### context
