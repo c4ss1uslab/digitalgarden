@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/002-book-zine-viable-pathways/01-viable-pathways-book-zine/","created":"2022-03-25T13:53:56.444-03:00","updated":"2024-06-13T15:48:21.223-03:00"}
+{"dg-publish":true,"permalink":"/_002_book-zine - viable pathways/01 - viable pathways book-zine/","tags":["🌿"],"created":"2022-03-25T13:53:56.444-03:00","updated":"2024-06-13T17:57:19.599-03:00"}
 ---
 
-hey, welcome! this is the skeleton of a living, under-construction book-zine, an experimental hyper-linked multimedia medium that acts as a theoretical research / practical toolkit in-between.
+hey, welcome! this is the skeleton of a living, under-construction book-zine, an experimental [[hyper-linked multimedia medium\|hyper-linked multimedia medium]] that acts as a theoretical research / practical toolkit in-between.
 
 ```ad-info
 title: about
@@ -12,13 +12,13 @@ it also aims to establish the foundational knowledge commons for the [[reality d
 ```
 
 ##### intro
-for the past 5 years i've been devoting my life to researching "[[what is human flourishing\|what is human flourishing]]", "[[how can we enable it on both an individual and a societal scale\|how can we enable it on both an individual and a societal scale]]", and "[[what's my role in it\|what's my role in it]]".
+for the past 5 years i've been devoting my life to researching "[[what is human flourishing\|what is human flourishing]]", "[[how can we enable it at both an individual and at a societal scale\|how can we enable it at both an individual and at a societal scale]]", and "[[what's my role in it\|what's my role in it]]".
 
-despite the boldness of the task and my humbleness to state that i don't have definitive answers, i’m happy to share my learnings and curation from it. since then, i've gained some hints of profound clarity on this, as well as on the challenges and missions i decided to work towards. (might we collaborate on some of them? 🙃)
+despite the boldness of the task and my humbleness to state that i don't have definitive answers, i’m happy to share what i discovered from it. since then, i've gained hints of profound clarity on some *partial, yet useful answers*, as well as on the [[_000_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|challenges]] and [[_000_MOCs/025 🔷 long game/035 🔭 missions MOC\|missions]] i decided to work towards. (might we collaborate on some of them? 🙃)
 
 you can explore this research on different levels, based on your background experience as well.
 
-if you're well-familiarized with 
+if you're well-familiarized with most themes below, jump in to your desired layer.
 
 this is my compilation of the findings, resources and references i found most valuable on this journey. let's dive in!
 
