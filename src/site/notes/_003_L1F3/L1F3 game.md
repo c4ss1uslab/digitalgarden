@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/003-l1-f3/l1-f3-game/","tags":["l1f3","project","🌿","game","seriousgame"],"created":"2022-02-05T11:41:05.535-03:00","updated":"2024-05-28T18:11:15.690-03:00"}
+{"dg-publish":true,"permalink":"/_003_L1F3/L1F3 game/","tags":["l1f3","project","🌿","game","seriousgame"],"created":"2022-02-05T11:41:05.535-03:00","updated":"2024-05-28T18:11:15.690-03:00"}
 ---
 
 the L1F3 game is a massively-multiplayer online-and-offline collaborative self-transformation & civilization-building game under development.
