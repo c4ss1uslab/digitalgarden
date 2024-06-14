@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/prototypes/l1f3-player-dashboard/","tags":["🌿","prototype","l1f3"],"created":"2024-03-19T14:21:06.710-03:00","updated":"2024-04-17T19:51:52.757-03:00"}
+{"dg-publish":true,"permalink":"/prototypes/l1f3 player dashboard/","tags":["🌿","prototype","l1f3"],"created":"2024-03-19T14:21:06.710-03:00","updated":"2024-04-17T19:51:52.757-03:00"}
 ---
 
 inspired by the [[integral dashboard.jpg]], [[RPG\|RPG]]s, [[sword art online\|sword art online]], [[solo leveling\|solo leveling]]'s simple [[solo leveling UIs\|UIs]], and [[game interfaces\|game interfaces]] in general, i've been experimenting with creating a dashboard for [[self-management\|self-management]] for a long time.
 
-i was never able to prioritize it, so it's still an unfinished [[_000_MOCs/070 🔩 prototypes MOC\|prototype]], but it's still a core mechanism of the [[_003_L1F3/L1F3 game\|L1F3 game]].
+i was never able to prioritize it, so it's still an unfinished [[_000_MOCs/050 🟩 mid game/070 🔩 prototypes MOC\|prototype]], but it's still a core mechanism of the [[_003_L1F3/L1F3 game\|L1F3 game]].
 
 here's an overview of its development and current status:
 
@@ -27,7 +27,7 @@ at first i started using a simple yet beautiful UI on [figma](https://www.figma.
 
 ##### phase 3 - 2023
 
-after that, i could keep developing it/connect it to some data source/tracking mechanism, but i started feeling that it wasn't enough for it to be a dashboard dedicated only to self-management. i also wanted it to be a prototype for intentional spatial navigation across [[_000_MOCs/060 🗡 projects MOC\|projects]], [[_000_MOCs/025 🔷 long game/025 🗺 topics & references MOC\|topics]], [[areas/life areas (external)/communities (MOC)\|communities (MOC)]], etc. (information in general)
+after that, i could keep developing it/connect it to some data source/tracking mechanism, but i started feeling that it wasn't enough for it to be a dashboard dedicated only to self-management. i also wanted it to be a prototype for intentional spatial navigation across [[_000_MOCs/050 🟩 mid game/060 🗡 projects MOC\|projects]], [[_000_MOCs/025 🔷 long game/025 🗺 topics & references MOC\|topics]], [[areas/life areas (external)/communities (MOC)\|communities (MOC)]], etc. (information in general)
 
 an interface that'd pull information from different sources and help you navigate it - [[youtube\|youtube]], [[tbprocessed/base notes/tools;products - general/notion\|notion]], [[tbprocessed/base notes/ventures - general/obsidian\|obsidian]], [[telegram\|telegram]], [[social media\|social media]], etc - in a user-centric and not platform-centric way.
 
