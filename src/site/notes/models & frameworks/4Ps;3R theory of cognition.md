@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/models-and-frameworks/4-ps-3-r-theory-of-cognition/","tags":["framework"],"created":"2024-03-26T15:48:21.900-03:00","updated":"2024-03-26T15:54:18.223-03:00"}
+{"dg-publish":true,"permalink":"/models & frameworks/4Ps;3R theory of cognition/","tags":["framework"],"created":"2024-03-26T15:48:21.900-03:00","updated":"2024-03-26T15:54:18.223-03:00"}
 ---
 
 proposed by: [[john vervaeke\|john vervaeke]]
