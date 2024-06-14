@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/initiatives-orgs-and-communities/musica-do-circulo/","tags":["organization","music","play","🌿"],"created":"2023-05-31T16:42:16.760-03:00","updated":"2024-05-04T18:02:26.104-03:00"}
+{"dg-publish":true,"permalink":"/initiatives, orgs & communities/música do círculo/","tags":["organization","music","play","🌿"],"created":"2023-05-31T16:42:16.760-03:00","updated":"2024-05-04T18:02:26.104-03:00"}
 ---
 
 https://musicadocirculo.com/
