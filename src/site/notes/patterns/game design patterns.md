@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/patterns/game-design-patterns/","tags":["gamedesign","patterns","🌱"],"created":"2024-05-23T19:36:14.003-03:00","updated":"2024-05-28T18:07:45.189-03:00"}
+{"dg-publish":true,"permalink":"/patterns/game design patterns/","tags":["gamedesign","patterns","🌱"],"created":"2024-05-23T19:36:14.003-03:00","updated":"2024-05-28T18:07:45.189-03:00"}
 ---
 
 ##### intro
