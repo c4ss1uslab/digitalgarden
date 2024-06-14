@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core-essays/the-rise-of-lo-fi-ambient-content-and-the-future-of-the-creator-curation-and-experience-economies/","created":"2023-12-03T15:03:17.203-03:00","updated":"2024-05-04T17:03:33.638-03:00"}
+{"dg-publish":true,"permalink":"/core essays/🌀 the rise of lo-fi;ambient content and the future of the creator, curation & experience economies/","created":"2023-12-03T15:03:17.203-03:00","updated":"2024-05-04T17:03:33.638-03:00"}
 ---
 
 ![integral dashboard.jpg](/img/user/integral%20dashboard.jpg)
