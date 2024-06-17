@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/models & frameworks/fourgames/","tags":["framework"],"created":"2023-11-13T16:13:43.432-03:00","updated":"2024-06-17T19:55:13.153-03:00"}
+{"dg-publish":true,"permalink":"/models & frameworks/fourgames/","tags":["framework","player"],"created":"2023-11-13T16:13:43.432-03:00","updated":"2024-06-17T20:46:32.819-03:00"}
 ---
 
 ##### intro
@@ -12,11 +12,11 @@ it presents the core elements of self/someone's life as 4 overlapping, inter-unf
 
 **framework:**
 
-![fourgames flow.jpeg|1000](/img/user/assets/fourgames%20flow.jpeg)
+![fourgames flow.jpeg|750](/img/user/assets/fourgames%20flow.jpeg)
 
 **another great view (and a possible "game board"):**
 
-![fourgames full breakdown 3 (highest-res) upscaled 2.jpeg|800](/img/user/assets/fourgames%20full%20breakdown%203%20(highest-res)%20upscaled%202.jpeg)
+![fourgames full breakdown 3 (highest-res) upscaled 2.jpeg|750](/img/user/assets/fourgames%20full%20breakdown%203%20(highest-res)%20upscaled%202.jpeg)
 
 ##### a few other cool/useful perspectives:
 
