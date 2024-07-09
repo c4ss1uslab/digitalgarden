@@ -1,14 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/cosmoerotic humanism/","tags":["alchemy","concept","🌱","metacrisis"],"created":"2024-05-04T18:13:54.780-03:00","updated":"2024-06-19T18:24:35.575-03:00"}
+{"dg-publish":true,"permalink":"/concepts/cosmoerotic humanism/","tags":["alchemy","concept","🌱","metacrisis"],"created":"2024-05-04T18:13:54.780-03:00","updated":"2024-07-09T17:28:00.519-03:00"}
 ---
 
-really powerful philosophy proposed by [[david j. temple\|david j. temple]] as an evolution of [[perennial philosophy\|perennial philosophy]], [[spiritual lineages\|wisdom traditions]] and [[interior sciences\|interior]]/[[sciences\|exterior sciences]] to address the [[_001_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|challenges]] and [[callings\|callings]] of our time & species.
+really powerful philosophy proposed by [[david j. temple\|david j. temple]] as an evolution of [[perennial philosophy\|perennial philosophy]], [[spiritual lineages\|wisdom traditions]] and [[concepts/interior sciences\|interior]]/[[sciences\|exterior sciences]] to address the [[systemic challenges\|systemic challenges]] and [[callings\|callings]] of our time & species.
 
+associated with: [[people/ken wilber\|ken wilber]]/[[concepts/integral theory\|integral theory]], [[concepts/metacrisis\|metacrisis]], [[initiatives, orgs & communities/civilization research institute\|civilization research institute]].
 ##### recommended resources
 
-[CosmoErotic Humanism: Philosophy in a Time Between Worlds](https://worldphilosophyandreligion.org/wp-content/uploads/2022/04/2020-03-10_CosmoEroticHumanism_6pager_FINAL.pdf) - very short (7-page paper) introducing the subject.
+[CosmoErotic Humanism: Philosophy in a Time Between Worlds](https://worldphilosophyandreligion.org/wp-content/uploads/2022/04/2020-03-10_CosmoEroticHumanism_6pager_FINAL.pdf) - very good short paper (7 pages) introducing the subject.
 
-[First Principles and First Values of Evolving Perennialism - Forty-two Propositions on CosmoErotic Humanism](https://drive.google.com/file/d/1gmASP2v696diI9XVrWRkHOxUtCoxDkbN/view) - "abridged version" of the book - 82 pages - i really recommend.
+[First Principles and First Values of Evolving Perennialism - Forty-two Propositions on CosmoErotic Humanism](https://drive.google.com/file/d/1gmASP2v696diI9XVrWRkHOxUtCoxDkbN/view) - "abridged version" of the book - 82 pages - i **really** recommend.
 
 [First Principles and First Values - Forty-Two Propositions on CosmoErotic Humanism, the Meta-Crisis, and the World to Come](https://amplifypublishinggroup.com/product/nonfiction/politics-and-current-affairs/first-principles-and-first-values/) - full book, launched in 2024.
 
