@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/mapping/","tags":["🌿","concept","mapping"],"created":"2022-04-19T15:34:21.040-03:00","updated":"2024-07-17T21:34:05.018-03:00"}
+{"dg-publish":true,"permalink":"/concepts/mapping/","tags":["🌿","concept","mapping"],"created":"2022-04-19T15:34:21.040-03:00","updated":"2024-07-17T21:43:18.627-03:00"}
 ---
 
 ### 1) definitions & types of maps
@@ -31,7 +31,7 @@ yet, many people refer to them as maps, so i'll propose a different, more loose 
 
 ###### 2) [[tang jeff\|tang jeff]]'s classification on twitter:
 
-https://twitter.com/tangjeff0/status/1274871473392496641
+![tang jeff's map classification.png|600](https://twitter.com/tangjeff0/status/1274871473392496641)
 
 i highly encourage you to check out the whole thread, as pasting everything here would be flooding this page.
 
