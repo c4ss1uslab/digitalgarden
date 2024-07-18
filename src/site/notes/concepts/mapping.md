@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/mapping/","tags":["🌿","concept","mapping"],"created":"2022-04-19T15:34:21.040-03:00","updated":"2024-07-17T22:05:02.544-03:00"}
+{"dg-publish":true,"permalink":"/concepts/mapping/","tags":["🌿","concept","mapping"],"created":"2022-04-19T15:34:21.040-03:00","updated":"2024-07-17T22:29:18.198-03:00"}
 ---
 
 ## 1) definitions & types of maps
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/concepts/wardley-mapping/#according-to-wardley-mapping-any-map-contains-the-following-6-elements" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/models-and-frameworks/wardley-mapping/#according-to-wardley-mapping-any-map-contains-the-following-6-elements" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -25,7 +25,7 @@ which is a very specific frame, and makes us realize how, according to this pers
 yet, many people refer to them as maps, so i'll propose a different, more loose classification of maps taking into account other people's curation of popular maps as well:
 ### types of maps:
 
-#### 1) [[concepts/wardley mapping\|wardley maps]]
+#### 1) [[models & frameworks/wardley mapping\|wardley maps]]
 
 ![example wardley map - annotated.png|500](/img/user/images/maps/example%20wardley%20map%20-%20annotated.png)
 
@@ -41,7 +41,7 @@ a) [[memespace maps\|memespace maps]]
 b) [[ribbonfarm\|ribbonfarm]]'s maps
 c) [[defining characteristics of maps\|defining characteristics of maps]]
 d) [[maps of maps\|maps of maps]] (curating/organizing perspectives)
-e) [[concepts/wardley mapping\|wardley maps]]
+e) [[models & frameworks/wardley mapping\|wardley maps]]
 f) [[idea mazes\|idea mazes]]
 g) [[subway maps\|subway maps]] (visual)
 h) [[topical maps\|topical maps]]/[[field maps\|field maps]] ([[zoomable maps\|zoomable maps]]/maps with meaningful axes and proportions)
@@ -115,7 +115,7 @@ c) [[general knowledge maps\|general knowledge maps]] / [[relationship maps\|rel
 ---
 ## 3) great examples of maps of specific subjects
 
-#### a) list of internet mapping projects:
+#### a) "maps of the internet" projects:
 
 **internet map:**
 https://www.halcyonmaps.com/#/map-of-the-internet-2021/
@@ -147,12 +147,6 @@ https://subredditstats.com/
 
 **map of twitch:** https://github.com/KiranGershenfeld/VisualizingTwitchCommunities
 
-**macroeconomic-generated maps**:
-https://atlas.cid.harvard.edu/
-
-**argument map**:
-https://www.societylibrary.org/diablo-canyon-debate
-
 **+ also relevant:**
 my twitter lists on:
 - [mapping (41 members)](https://twitter.com/i/lists/1471092243159257094)
@@ -160,21 +154,35 @@ my twitter lists on:
 - [research-oriented AI (8 members)](https://twitter.com/i/lists/1661523121029931019)
 
 ---
-#### b) "maps" of the [[concepts/metacrisis\|metacrisis]] / [[tbprocessed/base notes/concepts - general/sensemaking\|sensemaking]] / [[tbprocessed/base notes/concepts - general/game b\|game b]] space:
+#### b) topic maps
+
+**economics maps**:
+https://atlas.cid.harvard.edu/
+
+**argument maps**:
+https://www.societylibrary.org/diablo-canyon-debate
+
+**music theory maps**:
+https://musicmap.info/
+https://everynoise.com/ (technically a graph, but works like a map)
+https://www.music-map.com/
+
+---
+#### c) "maps" of the [[concepts/metacrisis\|metacrisis]] / [[tbprocessed/base notes/concepts - general/sensemaking\|sensemaking]] / [[tbprocessed/base notes/concepts - general/game b\|game b]] space:
 
 great compilation of nearly all ecosystem efforts: https://secondrenaissance.net/wiki/overview-mapping-efforts
 
 to understand the utility, look at how it's mapping: [[value;belief systems\|value;belief systems]], [[theories of change\|theories of change]].
 
-re-read and take notes. what's missing, what could be better.
+**tbd:** (for me) re-read and take notes. what's missing, what could be better.
 
 ---
-#### c) "maps" of the [[cozy web\|cozy web]]/[[indie web\|indie web]]:
+#### d) "maps" of the [[cozy web\|cozy web]]/[[indie web\|indie web]]:
 
 https://diagram.website/
 
 ---
-#### d) "maps" of the [[regenerative\|regenerative]] space/communities:
+#### e) "maps" of the [[regenerative\|regenerative]] space/communities:
 
 #memetic:
 "climate tribes" chart + research:
@@ -190,7 +198,7 @@ regenerative orgs/communities database 2:
 https://www.gaianet.earth/ecosystem
 
 ---
-#### e) "maps" of [[intentional communities\|intentional communities]] / [[conscious coliving spaces\|conscious coliving spaces]]:
+#### f) "maps" of [[intentional communities\|intentional communities]] / [[conscious coliving spaces\|conscious coliving spaces]]:
 bigger refs: [ic.org](https://ic.org), [GEN](https://ecovillage.org).
 
 map of transformational communities:
@@ -203,13 +211,15 @@ life itself discussion:
 https://github.com/orgs/life-itself/discussions/391
 
 ---
-#### f) videogame references
+#### g) videogame references
 
-[[rimworld\|rimworld]] tech tree:
+one day i'll compile my favorite [[topics/player/game interfaces\|game interfaces]] in a organized/useful way, but today here's just a few highlights:
+
+**[[rimworld\|rimworld]] tech tree:**
 
 ![decision-making visualization (possibility vs viability).png](/img/user/images/interfaces%20&%20designs/decision-making%20visualization%20(possibility%20vs%20viability).png)
 
-[[stellaris\|stellaris]] civilization management interfaces:
+**[[stellaris\|stellaris]] civilization management interfaces:**
 
 ![stellaris 1.png](/img/user/images/gaming%20&%20anime%20references/stellaris%201.png)
 ![stellaris 2.png](/img/user/images/gaming%20&%20anime%20references/stellaris%202.png)![stellaris decisions.png](/img/user/images/gaming%20&%20anime%20references/stellaris%20decisions.png)
@@ -260,8 +270,33 @@ other relevant approaches:
 
 
 ---
-##### [[references/lab/mapping tools\|mapping tools]]:
 
+ 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/references/lab/mapping-tools/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+###### tier 1:
+[[projects & tools/growth lab app\|growth lab app]] ([[projects & tools/atlas of economic complexity\|atlas of economic complexity]], [[projects & tools/atlas\|atlas]] ([[initiatives, orgs & communities/nomic AI\|nomic AI]]), [[projects & tools/head start\|head start]] ([[projects & tools/open knowledge maps\|open knowledge maps]]), [[projects & tools/juggl\|juggl]] (in [[tbprocessed/base notes/ventures - general/obsidian\|obsidian]]), [[projects & tools/kumu\|kumu]], [[projects & tools/softspace\|softspace]] (in [[XR 1\|XR 1]]).
+
+not tested, but look promising: [sigma.js](https://www.sigmajs.org/), [[gephi\|gephi]] & [[projects & tools/gephi lite\|gephi lite]], [[projects & tools/graphext\|graphext]], [[yworks\|yworks]]...
+
+###### tier 2:
+
+[[neo4J\|neo4J]], [[d3.js\|d3.js]], [[infranodus\|infranodus]], [[projects & tools/metamaps\|metamaps]] ([[projects & tools/kumu\|kumu]]-like), [[projects & tools/datasette\|datasette]]
+
+[layer](https://beta.getlayer.xyz/) - [[geographic\|geographic]]/[[demographic\|demographic]] data only.
+
+communities: https://twitter.com/icaviz, [dataisbeautiful](https://reddit.com/r/dataisbeautiful)...
+
+initiatives such as https://twitter.com/_Matters_Global, focused on building a collaborative virtual problem map open for everyone interested in searching answers to humanity's big questions.
+
++ check more on: [tier 1 design/code](https://twitter.com/i/lists/1556224144689319936)
+
+note that mapping is different from [[references/lab/map-making tools\|map-making tools]], which are often used for 2d/3d gaming/RPG purposes.
+
+</div></div>
 
 
 ---
