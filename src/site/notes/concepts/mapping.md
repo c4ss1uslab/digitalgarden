@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/mapping/","tags":["🌿","concept","mapping"],"created":"2022-04-19T15:34:21.040-03:00","updated":"2024-07-17T21:20:26.046-03:00"}
+{"dg-publish":true,"permalink":"/concepts/mapping/","tags":["🌿","concept","mapping"],"created":"2022-04-19T15:34:21.040-03:00","updated":"2024-07-17T21:34:05.018-03:00"}
 ---
 
 ### 1) definitions & types of maps
@@ -30,8 +30,6 @@ yet, many people refer to them as maps, so i'll propose a different, more loose 
 ![example wardley map - annotated.png|500](/img/user/images/maps/example%20wardley%20map%20-%20annotated.png)
 
 ###### 2) [[tang jeff\|tang jeff]]'s classification on twitter:
-
-![](https://twitter.com/tangjeff0/status/1274871473392496641)
 
 https://twitter.com/tangjeff0/status/1274871473392496641
 
@@ -106,9 +104,7 @@ i honestly don't recommend going through the whole thing, unless you have time t
 
 [[aaron z lewis\|aaron z lewis]] on twitter:
 
-![](https://twitter.com/aaronzlewis/status/1369503364300611587)
-
-https://twitter.com/aaronzlewis/status/1369503364300611587
+![aaron z lewis on mapping.png](https://twitter.com/aaronzlewis/status/1369503364300611587)
 
 ⭐ great breakdown of mapping approaches: https://wiki.secondrenaissance.net/wiki/Visual_approaches_for_ecosystem_mapping_and_sensemaking
 
