@@ -4,7 +4,7 @@
 
 https://musicadocirculo.com/
 
-música do círculo is an institute that has created a practice that goes by the same name. it's a collective improvised music-making practice without any instruments and for people of all levels of experience, that works integrating several elements, being them: [[improvisation\|improvisation]], [[game\|games]], [[non-verbal communication\|non-verbal communication]], the [[circle\|circle]], [[body music\|body music]], [[contact\|contact]], [[movement\|movement]] and [[flow\|flow]].
+música do círculo is an institute that has created a practice that goes by the same name. it's a collective improvised music-making practice without any instruments and for people of all levels of experience, that works integrating several elements, being them: [[improvisation\|improvisation]], [[concepts/game\|games]], [[non-verbal communication\|non-verbal communication]], the [[circle\|circle]], [[body music\|body music]], [[contact\|contact]], [[movement\|movement]] and [[concepts/flow\|flow]].
 
 the facilitators (also called conductors) propose several games involving these different elements at a time, while also encouraging and creating a safe space for the creative expression, experimentation and proposition by the group itself.
 

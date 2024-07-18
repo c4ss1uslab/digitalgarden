@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/metacrisis/","tags":["🌿","concept","metacrisis"],"created":"2023-10-31T15:56:54.956-03:00","updated":"2024-07-07T16:37:43.289-03:00"}
+{"dg-publish":true,"permalink":"/concepts/metacrisis/","tags":["🌿","concept","metacrisis"],"created":"2023-10-31T15:56:54.956-03:00","updated":"2024-07-07T16:40:12.566-03:00"}
 ---
 
 the metacrisis is a lens on our critical current moment in the history of civilization and the *human predicament*.

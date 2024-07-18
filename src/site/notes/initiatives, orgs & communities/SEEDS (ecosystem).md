@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/initiatives, orgs & communities/SEEDS (ecosystem)/","tags":["project","top3","web3","regeneration","ReFi","post-growth","🌿"],"created":"2021-12-11T16:51:57.834-03:00","updated":"2024-05-06T17:34:54.525-03:00"}
+{"dg-publish":true,"permalink":"/initiatives, orgs & communities/SEEDS (ecosystem)/","tags":["project","top3","web3","regeneration","ReFi","post-growth","🌿"],"created":"2021-12-11T16:51:57.834-03:00","updated":"2024-06-22T20:49:35.911-03:00"}
 ---
 
 #### context
@@ -12,7 +12,7 @@ it's an incredibly complex, deep and thoughtful project, with lots of hands, hea
 
 i was very involved during the whole year of 2021 - i did the [[writings/tools for the regenerative renaissance review\|tools for the regenerative renaissance]] course, the [[SEEDS ambassador academy\|ambassador academy]], SEEDS leadership course, proposed campaigns, co-created proposals, participated in the renaissance explorers (alchemists/architects) cohorts, reviewed the SEEDS Guide, etc...
 
-it's one of the most cohesive, deeply researched/well-thought-out projects i know of, moving beyond simplistic notions of [[regeneration\|regeneration]], to building out actual implementations of [[sacred economics\|sacred economics]], informed by the work/research on the [[concepts/metacrisis\|metacrisis]], and with a design/scope much more sophisticated than the vast majority of the [[web3\|web3]] and [[refi\|ReFi]] projects as well.
+it's one of the most cohesive, deeply researched/well-thought-out projects i know of, moving beyond simplistic notions of [[topics/architect;design/regeneration\|regeneration]], to building out actual implementations of [[concepts/sacred economics\|sacred economics]], informed by the work/research on the [[concepts/metacrisis\|metacrisis]], and with a design/scope much more sophisticated than the vast majority of the [[web3 1\|web3 1]] and [[topics/architect;design/refi\|refi]] projects as well.
 
 #### resources
 
@@ -30,7 +30,7 @@ for nerds/people wanting to dive deep, you can check out the SEEDS Guide here (a
 [[financial systems\|financial systems]]
 [[organizational systems\|organizational systems]]
 [[governance systems\|governance systems]]
-[[_003_L1F3/L1F3 game\|life game]]
+[[_004_L1F3/L1F3 game\|life game]]
 
 ###### ecosystem overview:
 

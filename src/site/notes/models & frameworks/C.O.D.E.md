@@ -4,9 +4,9 @@
 
 acronym for [[capture\|capture]], [[organize\|organize]], [[distill\|distill]], [[express\|express]].
 
-a framework proposed by [[tiago forte\|tiago forte]] / [[building a second brain\|building a second brain]].
+a framework proposed by [[people/tiago forte\|tiago forte]] / [[concepts/building a second brain\|building a second brain]].
 
-\ + correlation with the [[OODA loop\|OODA loop]].
+\ + correlation with the [[models & frameworks/OODA loop\|OODA loop]].
 
 ![CODE - BASB.png](/img/user/images/models%20&%20frameworks/CODE%20-%20BASB.png)
 

@@ -18,16 +18,16 @@ some folks from a life coaching consultancy called "kailo mentoring group" added
 
 (intellectual)
 - [[knowledge\|knowledge]] / [[intellectual capital\|intellectual capital]] / [[intellectual value\|intellectual value]] / [[informational value\|informational value]]
-- [[assets\|assets]] / [[systems\|systems]] / [[technologies\|technologies]] / [[digital capital\|digital capital]] / [[infrastructural value\|infrastructural value]]
+- [[concepts/assets\|assets]] / [[topics/architect;design/systems\|systems]] / [[technologies\|technologies]] / [[digital capital\|digital capital]] / [[infrastructural value\|infrastructural value]]
 - [[know-how\|know-how]] / [[experiential capital\|experiential capital]] / [[operational capital\|operational capital]] / [[operational value\|operational value]]
 (physical)
 - [[money\|money]] / [[concepts/currencies\|currencies]] / [[financial capital\|financial capital]] / [[financial value\|financial value]]
 - [[physical resources\|physical resources]] / [[material capital\|material capital]] / [[material value\|material value]]
 - [[living resources\|living resources]] / [[living capital\|living capital]] / [[living value\|living value]]
-- [[time\|time]] / [[attention\|attention]] / [[energy\|energy]] / [[temporal capital\|temporal capital]] / [[temporal value\|temporal value]]
+- [[concepts/time\|time]] / [[attention\|attention]] / [[energy\|energy]] / [[temporal capital\|temporal capital]] / [[temporal value\|temporal value]]
 (emotional)
 - [[relationships\|relationships]] / [[reputation\|reputation]] / [[social capital\|social capital]] / [[social value\|social value]]
-- [[connection\|connection]] / [[community\|community]] / [[cultural capital\|cultural capital]] / [[cultural value\|cultural value]]
+- [[terms/connection\|connection]] / [[terms/community\|community]] / [[cultural capital\|cultural capital]] / [[cultural value\|cultural value]]
 - [[fulfillment\|fulfillment]] / [[karma\|karma]] / [[meaning\|meaning]] / [[spiritual capital\|spiritual capital]] / [[spiritual value\|spiritual value]]
 - [[emotional well-being\|emotional well-being]] / [[emotional resilience capital\|emotional resilience capital]] / [[emotional value\|emotional value]]
 - [[pleasure capital\|pleasure capital]]

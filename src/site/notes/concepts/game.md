@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/game/","tags":["player","🌱","concept"],"created":"2022-02-27T14:27:13.500-03:00","updated":"2024-06-16T17:08:53.916-03:00"}
+{"dg-publish":true,"permalink":"/concepts/game/","tags":["player","🌱","concept"],"created":"2022-02-27T14:27:13.500-03:00","updated":"2024-06-17T21:18:31.423-03:00"}
 ---
 
-#### a few of my favorite definitions
+##### a few of my favorite definitions of "game"
 
-[[ERGO\|ERGO]] model: [[environment\|environment]], [[roles\|roles]], [[guidelines\|guidelines]], [[objectives\|objectives]]. (source: [[antonio (lala)\|antonio (lala)]])
+[[models & frameworks/ERGO\|ERGO]] model: [[environment\|environment]], [[roles\|roles]], [[guidelines\|guidelines]], [[objectives\|objectives]]. (source: [[antonio (lala)\|antonio (lala)]])
 
 "A game is a form of play with goals and structure." (Kevin J. Maroney)
 
@@ -46,7 +46,7 @@ other approaches:
 
 #### use cases
 
-[[self-discovery\|self-discovery]]/[[self-transformation\|self-transformation]], [[learning\|learning]]/[[capacity development\|capacity development]]/[[tbprocessed/base notes/principles;frameworks - general/skill development\|skill development]], [[self-healing\|self-healing]]/[[community building\|community]]/[[relationship development\|relationship building]], [[strategy development\|strategy development]]/[[co-creation\|co-creation]], [[fun\|fun]].
+[[self-discovery\|self-discovery]]/[[concepts/self-transformation\|self-transformation]], [[topics/player/learning\|learning]]/[[capacity development\|capacity development]]/[[tbprocessed/base notes/principles;frameworks - general/skill development\|skill development]], [[self-healing\|self-healing]]/[[topics/community building\|community]]/[[relationship development\|relationship building]], [[strategy development\|strategy development]]/[[co-creation\|co-creation]], [[terms/fun\|fun]].
 
 
 main references:
@@ -55,22 +55,22 @@ main references:
 - [[projects & tools/startover.xyz\|startover.xyz]]
 - [[initiatives, orgs & communities/SEEDS (ecosystem)\|SEEDS (ecosystem)]]
 - [[models & frameworks/fourgames\|fourgames]]
-- [[ísis schuarts\|ísis schuarts]] (adam kadmon institute / l1f3 stream)
+- [[people/ísis schuarts\|ísis schuarts]] (adam kadmon institute / l1f3 stream)
 
 write/clarify my differences in approach from (above & below):
-- [[integral life\|integral life]] / [[integral OS\|integral OS]]
+- [[initiatives, orgs & communities/integral life\|integral life]] / [[concepts/integral OS\|integral OS]]
 - [[flow genome project\|flow genome project]]
 - [[foresight institute\|foresight institute]]
-- [[the consilience project\|the consilience project]]
-- [[civilization research institute\|civilization research institute]]
+- [[initiatives, orgs & communities/the consilience project\|the consilience project]]
+- [[initiatives, orgs & communities/civilization research institute\|civilization research institute]]
 - [[GAOA\|GAOA]]
 - [[synarkia\|synarkia]]
 - [[tbprocessed/KOSMOS/KOSMOS\|KOSMOS]]
 - [[tbprocessed/base notes/ventures - general/our world the game\|our world the game]]
 
 L1F3 = protocol for interoperability across (these + other) frameworks/games.
-⭐ major distinction: [[regenerative games\|regenerative games]] vs [[self-termination games\|self-termination games]] / [[infinite games\|infinite]] vs [[finite games\|finite games]]
+⭐ major distinction: [[regenerative games\|regenerative games]] vs [[self-termination games\|self-termination games]] / [[concepts/infinite games\|infinite]] vs [[finite games\|finite games]]
 
 a FOSS, user-owned system with a plug-and-play marketplace of games, frameworks, agents and communities.
 
-the games i played the most as a child/adolescent: see [[gaming\|gaming]].
+the games i played the most as a child/adolescent: see [[topics/player/gaming\|gaming]].

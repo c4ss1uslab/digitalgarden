@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/experiments/open-source human experiment/","tags":["experiment","🌿"],"created":"2023-12-27T13:44:24.897-03:00","updated":"2024-06-13T18:05:19.318-03:00"}
+{"dg-publish":true,"permalink":"/experiments/open-source human experiment/","tags":["experiment","🌿"],"created":"2023-12-27T13:44:24.897-03:00","updated":"2024-06-20T18:14:49.657-03:00"}
 ---
 
-since 2019, i've been structuring my whole life to be open-source and streamed in real-time using the [[l1f3 streaming system\|l1f3 streaming system]].
+since 2019, i've been structuring my whole life to be open-source and streamed in real-time using the [[l1f3 streaming system 1\|l1f3 streaming system 1]].
 
-*i.e. i want pretty much everything i do to be public*, to varying accessibility degrees, so my life itself can be an experiment into how much this kind of shareability can help with [[self-discovery\|self-discovery]], [[collaboration\|collaboration]] and positive [[impact\|impact]] on others.
+*i.e. i want pretty much everything i do to be public*, to varying accessibility degrees, so my life itself can be an experiment into how much this kind of shareability can help with [[self-discovery\|self-discovery]], [[terms/collaboration\|collaboration]] and positive [[impact\|impact]] on others.
 
 one obvious challenge this brings up is potential [[adversarial relationships\|adversarial relationships]] and [[exploitative dynamics\|exploitative dynamics]]. i won't address this fully here, but for now, i'm betting that pros outweigh the cons and that's why there are accessibility levels. they're not "bought", but built based on [[initiatives, orgs & communities/trust network\|trust networks]]. more on this later.
 
-in order to get this experiment going, i've been slowly building up an mvp by sharing a [[experiments/minimum viable intentional personal systems setup\|minimum viable intentional personal systems setup]] and using the [[_003_L1F3/l1f3 management methodology\|L1F3 management framework]].
+in order to get this experiment going, i've been slowly building up an mvp by sharing a [[experiments/minimum viable intentional personal systems setup\|minimum viable intentional personal systems setup]] and using the [[_004_L1F3/l1f3 management methodology\|L1F3 management framework]].
 
-most of what i've been tracking/implementing still isn't live, but the direction is to have a modular real-time page/dashboard, [[quantified self\|quantified self]]-like, similar to [how is felix today?](https://howisfelix.today/), but with less focus on [[personal metrics\|personal metrics]] and more on data/information relevant for [[collaboration\|collaboration]] and [[impact\|impact]].
+most of what i've been tracking/implementing still isn't live, but the direction is to have a modular real-time page/dashboard, [[topics/lab/quantified self\|quantified self]]-like, similar to [how is felix today?](https://howisfelix.today/), but with less focus on [[personal metrics\|personal metrics]] and more on data/information relevant for [[terms/collaboration\|collaboration]] and [[impact\|impact]].
 
 the challenges of building it are many, as very well presented in articles such as [the sad state of personal data and infrastructure](https://beepb00p.xyz/sad-infra.html), [digital tools i wish existed](https://jon.bo/posts/digital-tools/) and [interoperable visions](https://utopia.rosano.ca/interoperable-visions/), but i've been slowly doing it with bits and pieces from here and there.
 
@@ -22,7 +22,7 @@ once this project is live, i'll update here with more details on my setup.
 
 my twitter list on the subject - https://twitter.com/i/lists/1340473237743013894
 
-reference [[quantified self\|quantified self]] / [[personal data infrastructure\|personal data infrastructure]] setups:
+reference [[topics/lab/quantified self\|quantified self]] / [[personal data infrastructure\|personal data infrastructure]] setups:
 https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/
 https://julian.digital/2020/02/23/my-quantified-self-setup/
 https://cblgh.org/ - https://cblgh.org/lieu/

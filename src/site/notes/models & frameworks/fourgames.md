@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/models & frameworks/fourgames/","tags":["framework","player"],"created":"2023-11-13T16:13:43.432-03:00","updated":"2024-06-17T20:46:32.819-03:00"}
+{"dg-publish":true,"permalink":"/models & frameworks/fourgames/","tags":["framework","player","🌿"],"created":"2023-11-13T16:13:43.432-03:00","updated":"2024-06-17T20:46:48.542-03:00"}
 ---
 
 ##### intro
 
 good intro video: https://www.youtube.com/watch?v=Tv7mUMDfW6c
 
-the [[models & frameworks/fourgames\|fourgames]] is a practical framework for untangling/simplifying complexity created by [[jamie combs\|jamie combs]], who also calls himself "captain simple", inspired, among other references, by [[integral theory\|integral theory]].
+the [[models & frameworks/fourgames\|fourgames]] is a practical framework for untangling/simplifying complexity created by [[jamie combs\|jamie combs]], who also calls himself "captain simple", inspired, among other references, by [[concepts/integral theory\|integral theory]].
 
 it presents the core elements of self/someone's life as 4 overlapping, inter-unfolding games.
 
@@ -46,10 +46,10 @@ a few other illustrations i find interesting (all curated from [[jamie combs]]' 
 
 #### fourgames card deck
 
-they also have created some time ago a [[fourgames card deck\|card deck]], which works somewhat like an oracle, and is sold out as of 06/2024.
+they also have created some time ago a [[projects & tools/fourgames card deck\|card deck]], which works somewhat like an oracle, and is sold out as of 06/2024.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/fourgames-card-deck/#images" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/projects-and-tools/fourgames-card-deck/#images" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 

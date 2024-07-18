@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/_004_L1F3/L1F3 game/","tags":["l1f3","project","🌿","game","seriousgame"],"created":"2022-02-05T11:41:05.535-03:00","updated":"2024-07-09T18:05:48.824-03:00"}
+{"dg-publish":true,"permalink":"/_004_L1F3/L1F3 game/","tags":["l1f3","project","🌿","game","seriousgame"],"created":"2022-02-05T11:41:05.535-03:00","updated":"2024-07-15T17:23:22.705-03:00"}
 ---
 
 the L1F3 game is an ongoing endeavor to:
 
 > transform life into a real-world massive multiplayer online-and-offline collaborative self-transformation & civilization-building game.
+{ #cff951}
+
 
 a game oriented towards supporting/challenging us on our path of [[tbprocessed/base notes/concepts - general/conscious evolution\|conscious evolution]] and development of more [[conscious\|conscious]], [[terms/fun\|fun]], [[terms/collaboration\|collaborative]], [[topics/architect;design/regeneration\|regenerative]] and [[tbprocessed/base notes/concepts - general/disruption\|disruptive]]¹ [[topics/architect;design/systems\|systems]] - for addressing our [[concepts/metacrisis\|personal and civilizational crises]].
 
@@ -91,6 +93,9 @@ source: https://www.youtube.com/watch?v=fHLgtO7b-to
 [[projects & tools/chatdev\|chatdev]] (AI game interface)
 source: https://www.youtube.com/watch?v=5Zj_zstLLP4
 
+[[MMORPG\|MMORPG]] dynamics:
+examples: [[ashes of creation\|ashes of creation]] - https://www.youtube.com/watch?v=1s82xJnx1EY / [[elder scrolls online\|ESO]] - https://www.youtube.com/watch?v=AITD9dJ8gnY / [[black desert online\|BDO]] - https://www.youtube.com/watch?v=R34zBM3bGak
+
 ##### other real-life gaming tools/refs:
 
 [[initiatives, orgs & communities/metagame.wtf\|metagame.wtf]] ([[initiatives, orgs & communities/metagame/mymeta profile\|player profile]], [[initiatives, orgs & communities/metagame/metagame dashboard\|personal dashboard]])
@@ -98,7 +103,7 @@ source: https://www.youtube.com/watch?v=5Zj_zstLLP4
 cabinDAO profiles (+ other DAO governance mechanisms, greenpill, gnosis guild/zodiac, SEEDS)
 startover.xyz's experiments catalog
 united planet 2030 (SEEDS) / school of humanity
-[[gnoman\|gnoman]] regenaissance festival / [[edgar gouvea jr\|edgar gouvea jr]]'s gincanas
+[[people/gnoman\|gnoman]] regenaissance festival / [[edgar gouvea jr\|edgar gouvea jr]]'s gincanas
 playful software - hyperlink, sane, fermat, mmmpages, hugginface spaces, others in the indieweb space
 (more to add...)
 X-prize, bootcamps, hackathons...
@@ -234,15 +239,15 @@ that's the proposal of the [[_004_L1F3/L1F3 game\|L1F3 game]], as well as other 
 
 honestly, not much. i intend to collaborate/integrate as much as possible with them.
 
-a few key differences are: they're more focused on building the [[web3 1\|web3 1]] infrastructure first and a more technically-oriented kind of play, instead of playing life in all its dimensions.
+a few key differences are: they're more focused on building the [[topics/architect;design/web3\|web3]] infrastructure first and a more technically-oriented kind of play, instead of playing life in all its dimensions.
 
-we're more focused on building community and narrative content first, so it can attract more than the tech-savvy/[[web3 1\|web3 1]] types and become a self-sustainable ecosystem able to support its players on their developmental journeys, so they can, among other things, build the necessary technological tools as well.
+we're more focused on building community and narrative content first, so it can attract more than the tech-savvy/[[topics/architect;design/web3\|web3]] types and become a self-sustainable ecosystem able to support its players on their developmental journeys, so they can, among other things, build the necessary technological tools as well.
 
-there's also a big challenge in [[web3 1\|web3 1]]/crypto space which is the design of conscious/sustainable/regenerative incentive structures. though there are great projects attempting to address this such as [[token engineering commons\|token engineering commons]], [[gitcoin\|gitcoin]] and [[better-than-free economies\|better-than-free economies]] such as [[initiatives, orgs & communities/SEEDS (ecosystem)\|SEEDS]], i still believe it's a largely unsolved problem, with room for wild speculation and bad actors. so i'm a bit wary of investing a lot of energy into the project and it collapsing due to their tokenomics model.
+there's also a big challenge in [[topics/architect;design/web3\|web3]]/crypto space which is the design of conscious/sustainable/regenerative incentive structures. though there are great projects attempting to address this such as [[token engineering commons\|token engineering commons]], [[gitcoin\|gitcoin]] and [[better-than-free economies\|better-than-free economies]] such as [[initiatives, orgs & communities/SEEDS (ecosystem)\|SEEDS]], i still believe it's a largely unsolved problem, with room for wild speculation and bad actors. so i'm a bit wary of investing a lot of energy into the project and it collapsing due to their tokenomics model.
 
 **Q: what's the difference between this and [[projects & tools/startover.xyz\|startover.xyz]]?**
 
-they're much more focused on internal transformation than the balance between internal and external contribution/expression, , while we're more oriented by [[concepts/integral theory\|integral theory]]'s distinctions of the [[models & frameworks/four facets of integral development\|four facets of integral development]].
+they're much more focused on internal transformation than the balance between internal and external contribution/expression, while we're more oriented by [[concepts/integral theory\|integral theory]]'s distinctions of the [[models & frameworks/four facets of integral development\|four facets of integral development]].
 
 they're also more interested in furthering their own empirical research rather than integrating different [[spiritual lineages\|wisdom traditions]] and [[_001_MOCs/025 🔷 long game/025 🗺 topics & references MOC\|fields of knowledge]].
 
