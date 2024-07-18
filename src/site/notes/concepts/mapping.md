@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/mapping/","tags":["🌿","concept","mapping"],"created":"2022-04-19T15:34:21.040-03:00","updated":"2024-07-17T21:59:53.557-03:00"}
+{"dg-publish":true,"permalink":"/concepts/mapping/","tags":["🌿","concept","mapping"],"created":"2022-04-19T15:34:21.040-03:00","updated":"2024-07-17T22:05:02.544-03:00"}
 ---
 
-### 1) definitions & types of maps
+## 1) definitions & types of maps
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/concepts/wardley-mapping/#according-to-wardley-mapping-any-map-contains-the-following-6-elements" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -23,13 +23,13 @@
 which is a very specific frame, and makes us realize how, according to this perspective, most of the digital maps we use/interact with aren't maps at all. they're usually [[models\|models]], [[frameworks\|frameworks]], [[sketches\|sketches]] or [[illustrations\|illustrations]].
 
 yet, many people refer to them as maps, so i'll propose a different, more loose classification of maps taking into account other people's curation of popular maps as well:
-#### types of maps:
+### types of maps:
 
-###### 1) [[concepts/wardley mapping\|wardley maps]]
+#### 1) [[concepts/wardley mapping\|wardley maps]]
 
 ![example wardley map - annotated.png|500](/img/user/images/maps/example%20wardley%20map%20-%20annotated.png)
 
-###### 2) [[tang jeff\|tang jeff]]'s classification on twitter:
+#### 2) [[tang jeff\|tang jeff]]'s classification on twitter:
 
 [![tang jeff's map classification.png](/img/user/images/maps/tang%20jeff's%20map%20classification.png)](https://twitter.com/tangjeff0/status/1274871473392496641)
 
@@ -37,14 +37,14 @@ i highly encourage you to check out the whole thread, as pasting everything here
 
 -> as a summary, he suggests:
 
-1 - [[memespace maps\|memespace maps]]
-2 - [[ribbonfarm\|ribbonfarm]]'s maps
-3 - [[defining characteristics of maps\|defining characteristics of maps]]
-4 - [[maps of maps\|maps of maps]] (curating/organizing perspectives)
-5 - [[concepts/wardley mapping\|wardley maps]]
-6 - [[idea mazes\|idea mazes]]
-7 - [[subway maps\|subway maps]] (visual)
-8 - [[topical maps\|topical maps]]/[[field maps\|field maps]] ([[zoomable maps\|zoomable maps]]/maps with meaningful axes and proportions)
+a) [[memespace maps\|memespace maps]]
+b) [[ribbonfarm\|ribbonfarm]]'s maps
+c) [[defining characteristics of maps\|defining characteristics of maps]]
+d) [[maps of maps\|maps of maps]] (curating/organizing perspectives)
+e) [[concepts/wardley mapping\|wardley maps]]
+f) [[idea mazes\|idea mazes]]
+g) [[subway maps\|subway maps]] (visual)
+h) [[topical maps\|topical maps]]/[[field maps\|field maps]] ([[zoomable maps\|zoomable maps]]/maps with meaningful axes and proportions)
 
 i think it can be enlightening to evidence the focus on topics vs the format.
 
@@ -54,7 +54,7 @@ ribbonfarm/wardley maps are "types" of map based on their style/format, which is
 
 idea mazes / field maps are also on the format side, but regardless of their creator.
 
-###### 3) [[nadia asparouhova\|nadia asparouhova]]'s classification at [[tbprocessed/base notes/ventures - general/the stoa\|the stoa]]:
+#### 3) [[nadia asparouhova\|nadia asparouhova]]'s classification at [[tbprocessed/base notes/ventures - general/the stoa\|the stoa]]:
 
 source: https://www.youtube.com/watch?v=jvAyJImbEeA
 
@@ -62,60 +62,60 @@ i honestly don't recommend going through the whole thing, unless you have time t
 
 -> nadia's classification summary:
 
-1 - [[skeumorphic maps\|skeumorphic maps]]
+a) [[skeumorphic maps\|skeumorphic maps]]
 ![1 - skeumorphic maps.png|500](/img/user/images/maps/1%20-%20skeumorphic%20maps.png)
 
-2 - [[schematic maps\|schematic maps]]
+b) [[schematic maps\|schematic maps]]
 ![2 - schematic maps.png|500](/img/user/images/maps/2%20-%20schematic%20maps.png)
 
-3 - [[matrix maps\|matrix maps]]
+c) [[matrix maps\|matrix maps]]
 ![3 - matrix maps.png|500](/img/user/images/maps/3%20-%20matrix%20maps.png)
 
-4 - [[chinese menu maps\|chinese menu maps]]
+d) [[chinese menu maps\|chinese menu maps]]
 ![4 - chinese menu maps.png|500](/img/user/images/maps/4%20-%20chinese%20menu%20maps.png)
 
-5 - [[word cloud maps\|word cloud maps]]
+e) [[word cloud maps\|word cloud maps]]
 ![5 - word cloud maps.png|500](/img/user/images/maps/5%20-%20word%20cloud%20maps.png)
 
-6 - [[type of guy maps\|type of guy maps]]
+f) [[type of guy maps\|type of guy maps]]
 ![6 - type of guy maps.png|500](/img/user/images/maps/6%20-%20type%20of%20guy%20maps.png)
 
-###### 4) lastly, other types of common maps:
+#### 4) lastly, other types of common maps:
 
-1 - [[ecosystem maps\|ecosystem maps]]:
+a) [[ecosystem maps\|ecosystem maps]]:
 
 <iframe src="https://embed.kumu.io/93dd947d40c4523b2969847bfd7564b3" width="940" height="600" frameborder="0"></iframe>
 
 ![liminal web map.png|500](/img/user/images/maps/liminal%20web%20map.png)
 
-2 - [[concept maps\|concept maps]] (a.k.a. [[mental models\|mental models]]/[[frameworks\|frameworks]]):
+b) [[concept maps\|concept maps]] (a.k.a. [[mental models\|mental models]]/[[frameworks\|frameworks]]):
 --> proposes a model that describes how something works or can work.
 
 [[initiatives, orgs & communities/possibility management\|possibility management]]'s [thoughtmaps](https://pmthoughtmaps.mystrikingly.com/)
 
 ![social layers.png|500](/img/user/images/models%20&%20frameworks/social%20layers.png)
 
-3 - [[general knowledge maps\|general knowledge maps]] / [[relationship maps\|relationship maps]]:
+c) [[general knowledge maps\|general knowledge maps]] / [[relationship maps\|relationship maps]]:
 
 ![xiq - knowledge map.png|500](/img/user/images/maps/xiq%20-%20knowledge%20map.png)
 
 ---
-##### other interesting perspectives on mapping:
+## 2) other interesting perspectives on mapping:
 
-[[aaron z lewis\|aaron z lewis]] on twitter:
+- [[aaron z lewis\|aaron z lewis]] on twitter:
 
 [![aaron z lewis on mapping.png](/img/user/images/maps/aaron%20z%20lewis%20on%20mapping.png)](https://twitter.com/aaronzlewis/status/1369503364300611587)
 
-⭐ great breakdown of mapping approaches: https://wiki.secondrenaissance.net/wiki/Visual_approaches_for_ecosystem_mapping_and_sensemaking
+- ⭐ great breakdown of mapping approaches: https://wiki.secondrenaissance.net/wiki/Visual_approaches_for_ecosystem_mapping_and_sensemaking
 
-\+ [[tom critchlow\|tom critchlow]]'s curation of resources: https://tomcritchlow.com/wiki/maps/
+- [[tom critchlow\|tom critchlow]]'s curation of resources: https://tomcritchlow.com/wiki/maps/
 
 ⚠ i'm still missing: good curation on [[network science\|network science]] + good examples/applications.
 
 ---
-### 2) great examples of maps of specific subjects
+## 3) great examples of maps of specific subjects
 
-##### list of internet mapping projects:
+#### a) list of internet mapping projects:
 
 **internet map:**
 https://www.halcyonmaps.com/#/map-of-the-internet-2021/
@@ -160,7 +160,7 @@ my twitter lists on:
 - [research-oriented AI (8 members)](https://twitter.com/i/lists/1661523121029931019)
 
 ---
-##### "maps" of the [[concepts/metacrisis\|metacrisis]] / [[tbprocessed/base notes/concepts - general/sensemaking\|sensemaking]] / [[tbprocessed/base notes/concepts - general/game b\|game b]] space:
+#### b) "maps" of the [[concepts/metacrisis\|metacrisis]] / [[tbprocessed/base notes/concepts - general/sensemaking\|sensemaking]] / [[tbprocessed/base notes/concepts - general/game b\|game b]] space:
 
 great compilation of nearly all ecosystem efforts: https://secondrenaissance.net/wiki/overview-mapping-efforts
 
@@ -169,12 +169,12 @@ to understand the utility, look at how it's mapping: [[value;belief systems\|val
 re-read and take notes. what's missing, what could be better.
 
 ---
-##### "maps" of the [[cozy web\|cozy web]]/[[indie web\|indie web]]:
+#### c) "maps" of the [[cozy web\|cozy web]]/[[indie web\|indie web]]:
 
 https://diagram.website/
 
 ---
-##### "maps" of [[regenerative\|regenerative]] communities:
+#### d) "maps" of the [[regenerative\|regenerative]] space/communities:
 
 #memetic:
 "climate tribes" chart + research:
@@ -190,8 +190,8 @@ regenerative orgs/communities database 2:
 https://www.gaianet.earth/ecosystem
 
 ---
-##### "maps" of [[intentional communities\|intentional communities]] / [[conscious coliving spaces\|conscious coliving spaces]]:
-refs: [ic.org](https://ic.org), [GEN](https://ecovillage.org).
+#### e) "maps" of [[intentional communities\|intentional communities]] / [[conscious coliving spaces\|conscious coliving spaces]]:
+bigger refs: [ic.org](https://ic.org), [GEN](https://ecovillage.org).
 
 map of transformational communities:
 https://tuckerwalsh.medium.com/transformational-communities-cd9e41053423
@@ -203,7 +203,7 @@ life itself discussion:
 https://github.com/orgs/life-itself/discussions/391
 
 ---
-##### videogame references
+#### f) videogame references
 
 [[rimworld\|rimworld]] tech tree:
 
@@ -215,7 +215,13 @@ https://github.com/orgs/life-itself/discussions/391
 ![stellaris 2.png](/img/user/images/gaming%20&%20anime%20references/stellaris%202.png)![stellaris decisions.png](/img/user/images/gaming%20&%20anime%20references/stellaris%20decisions.png)
 
 ---
-### other stuff
+## 4) other stuff
+
+```ad-warning
+title: note
+collapse: open
+the contents of the writing below are currently haphazard, disjointed and all over the place. please proceed at your own risk. (*or don't.* feel free to come back later when it'll be hopefully updated and improved.)
+```
 
 ##### themes/topics, perspectives/arguments, memes mapping
 refs: [[initiatives, orgs & communities/golden\|golden]], [[projects & tools/metaculus\|metaculus]], [[initiatives, orgs & communities/ideamarket\|ideamarket]], [[mapsmap hackathon\|mapsmap hackathon]], [[initiatives, orgs & communities/civilization research institute\|civilization research institute]], [[kialo\|kialo]], [[people/nikita voloboev\|nikita voloboev]]...
