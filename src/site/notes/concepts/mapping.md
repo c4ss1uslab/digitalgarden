@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/mapping/","tags":["🌿","concept","mapping"],"created":"2022-04-19T15:34:21.040-03:00","updated":"2024-07-17T21:52:09.809-03:00"}
+{"dg-publish":true,"permalink":"/concepts/mapping/","tags":["🌿","concept","mapping"],"created":"2022-04-19T15:34:21.040-03:00","updated":"2024-07-17T21:54:06.997-03:00"}
 ---
 
 ### 1) definitions & types of maps
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/concepts/wardley-mapping/#according-to-wardley-mapping-any-map-contains-the-following-6-elements" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -104,7 +104,7 @@ i honestly don't recommend going through the whole thing, unless you have time t
 
 [[aaron z lewis\|aaron z lewis]] on twitter:
 
-![aaron z lewis on mapping.png](https://twitter.com/aaronzlewis/status/1369503364300611587)
+[![aaron z lewis on mapping.png](/img/user/images/maps/aaron%20z%20lewis%20on%20mapping.png)](https://twitter.com/aaronzlewis/status/1369503364300611587)
 
 ⭐ great breakdown of mapping approaches: https://wiki.secondrenaissance.net/wiki/Visual_approaches_for_ecosystem_mapping_and_sensemaking
 
