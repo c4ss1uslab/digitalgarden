@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/mapping/","tags":["🌿","concept","mapping"],"created":"2022-04-19T15:34:21.040-03:00","updated":"2024-07-17T21:10:14.500-03:00"}
+{"dg-publish":true,"permalink":"/concepts/mapping/","tags":["🌿","concept","mapping"],"created":"2022-04-19T15:34:21.040-03:00","updated":"2024-07-17T21:20:26.046-03:00"}
 ---
 
 ### 1) definitions & types of maps
@@ -32,6 +32,8 @@ yet, many people refer to them as maps, so i'll propose a different, more loose 
 ###### 2) [[tang jeff\|tang jeff]]'s classification on twitter:
 
 ![](https://twitter.com/tangjeff0/status/1274871473392496641)
+
+https://twitter.com/tangjeff0/status/1274871473392496641
 
 i highly encourage you to check out the whole thread, as pasting everything here would be flooding this page.
 
@@ -106,11 +108,13 @@ i honestly don't recommend going through the whole thing, unless you have time t
 
 ![](https://twitter.com/aaronzlewis/status/1369503364300611587)
 
-great breakdown of mapping approaches: https://wiki.secondrenaissance.net/wiki/Visual_approaches_for_ecosystem_mapping_and_sensemaking
+https://twitter.com/aaronzlewis/status/1369503364300611587
 
-[[tom critchlow\|tom critchlow]]'s curation of resources: https://tomcritchlow.com/wiki/maps/
+⭐ great breakdown of mapping approaches: https://wiki.secondrenaissance.net/wiki/Visual_approaches_for_ecosystem_mapping_and_sensemaking
 
-⚠ i'm still missing: good curation on network science + good examples/applications.
+\+ [[tom critchlow\|tom critchlow]]'s curation of resources: https://tomcritchlow.com/wiki/maps/
+
+⚠ i'm still missing: good curation on [[network science\|network science]] + good examples/applications.
 
 ---
 ### 2) great examples of maps of specific subjects
@@ -176,18 +180,18 @@ https://diagram.website/
 ---
 ##### "maps" of [[regenerative\|regenerative]] communities:
 
-regenerative orgs/communities 1:
-https://www.refidao.com/ecosystem/organizations
-
-regenerative orgs/communities 2:
-https://www.gaianet.earth/ecosystem
-
 #memetic:
 "climate tribes" chart + research:
 https://nadia.xyz/climate-tribes
 
 "Impact DAOs" book:
 https://greenpill.network/pdf/ImpactDAO.pdf
+
+regenerative orgs/communities database 1:
+https://www.refidao.com/ecosystem/organizations
+
+regenerative orgs/communities database 2:
+https://www.gaianet.earth/ecosystem
 
 ---
 ##### "maps" of [[intentional communities\|intentional communities]] / [[conscious coliving spaces\|conscious coliving spaces]]:
