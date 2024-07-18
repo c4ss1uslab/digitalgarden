@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/mapping/","tags":["🌿","concept","mapping"],"created":"2022-04-19T15:34:21.040-03:00","updated":"2024-07-17T22:29:18.198-03:00"}
+{"dg-publish":true,"permalink":"/concepts/mapping/","tags":["🌿","concept","mapping"],"created":"2022-04-19T15:34:21.040-03:00","updated":"2024-07-18T17:06:08.844-03:00"}
 ---
 
 ## 1) definitions & types of maps
@@ -199,15 +199,18 @@ https://www.gaianet.earth/ecosystem
 
 ---
 #### f) "maps" of [[intentional communities\|intentional communities]] / [[conscious coliving spaces\|conscious coliving spaces]]:
-bigger refs: [ic.org](https://ic.org), [GEN](https://ecovillage.org).
 
-map of transformational communities:
+major databases: [ic.org](https://ic.org), [GEN](https://ecovillage.org).
+
+compilations:
+
+**transformational communities**:
 https://tuckerwalsh.medium.com/transformational-communities-cd9e41053423
 
-IC communities breakdown:
+**IC communities breakdown:**
 https://docs.google.com/spreadsheets/d/1FlLWdW5k4PKJ1T6rdcXy2cSwWUO-MInxCfpkCtuWhVY/edit#gid=2101869082
 
-life itself discussion:
+\+ life itself discussion on the subject:
 https://github.com/orgs/life-itself/discussions/391
 
 ---
