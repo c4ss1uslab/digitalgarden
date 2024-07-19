@@ -125,7 +125,7 @@ which leads us to the first foundational concept:
 
 [[people/caio vassão\|caio vassão]] - [metadesign, jogos e transformação cultural](https://caiovassao.medium.com/metadesign-jogos-e-transforma%C3%A7%C3%A3o-cultural-4ffce499cd8a)
 
-#### 2) [[digital cartography\|digital cartography]] & approaches to information [[concepts/mapping\|mapping]], navigation and curation
+#### 2) [[topics/architect;design/digital cartography\|digital cartography]] & approaches to information [[concepts/mapping\|mapping]], navigation and curation
 
 the layers & territories of the web:
 
@@ -342,7 +342,7 @@ digital gardening / second brain tools...
 
 [[tools for coordination\|tools for coordination]]:
 
-[[collaboration tools\|tools for collaboration]]:
+[[topics/collaboration tools\|tools for collaboration]]:
 
 [[tools for play\|tools for play]]:
 

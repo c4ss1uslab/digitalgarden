@@ -53,7 +53,7 @@ https://andrewmurraydunn.com/soul-map
 [[initiatives, orgs & communities/possibility management\|possibility management]]'s [[concepts/artifacts\|artifacts]]
 [[ana marques\|ana marques]]' [[references/player/games/sanctuaries of attention game\|sanctuaries of attention game]]
 [[people/simone catalan\|simone catalan]]'s [[projects & tools/jogo da colaboração\|jogo da colaboração]]
-[[findhorn's transformation game\|findhorn's transformation game]]
+[[references/player/findhorn's transformation game\|findhorn's transformation game]]
 https://www.instructables.com/ -> to look more into, see if i find any references.
 
 ---

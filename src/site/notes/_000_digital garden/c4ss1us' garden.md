@@ -124,7 +124,7 @@ level of depth:
 
 #### topics i'm most interested in / [[aliveness map\|aliveness map]]:
 
-#### 🧙🏻‍♂️ [[c4ss1us.alchemy\|.alchemy]]
+#### 🧙🏻‍♂️ [[_005_c4ss1us/c4ss1us.alchemy\|.alchemy]]
 ##### 🌌 [[concepts/consciousness\|consciousness]]
 🌲 [[concepts/metacrisis\|metacrisis]]
 	([[concepts/meaning crisis\|meaning crisis]] / [[existential crisis\|existential crisis]] / [[wisdom crisis\|wisdom crisis]])
@@ -155,7 +155,7 @@ level of depth:
 	🧪 [[concepts/extended cognition\|extended cognition]]
 	🌱 [[thoughtware design\|thoughtware design]]
 
-#### ✒ [[c4ss1us.design\|.design]]
+#### ✒ [[_005_c4ss1us/c4ss1us.design\|.design]]
 ##### 🎞 [[knowledge\|knowledge]] / [[media\|media]]
 🌲 [[research\|research]]
 	📂 [[meta-research consolidation resource\|meta-research consolidation resource]]
@@ -173,7 +173,7 @@ level of depth:
 	[[concepts/network state\|network states]]
 	[[smart cities\|smart cities]] / [[smart villages\|smart villages]]
 	[[ecovillages\|ecovillages]] / [[intentional communities\|intentional communities]]
-🌿 [[topics/architect;design/new economies\|new economies]] & [[_006_processing notes/organizations (MOC)\|organizations]] [economic]
+🌿 [[topics/architect;design/new economies\|new economies]] & [[_007_processing notes/organizations (MOC)\|organizations]] [economic]
 	🌿 [[concepts/multicurrencies economy\|concepts/multicurrencies economy]] / [[DAOs (MOC)\|DAOs (MOC)]]
 	🌿 [[creator economy\|creator economy]] / [[curator economy\|curator economy]]
 	🌱 [[collaborative economy\|collaborative economy]] / [[shared economy\|shared economy]]
@@ -185,11 +185,11 @@ level of depth:
 🌱 [[physical environments\|physical environments]]
 🌱 [[physical objects\|physical objects]]
 
-#### 👨🏻‍🔬 [[c4ss1us.lab\|.lab]]
+#### 👨🏻‍🔬 [[_005_c4ss1us/c4ss1us.lab\|.lab]]
 ##### 💻 [[topics/architect;design/technology\|technology]]
 🌲 [[topics/lab/knowledge management\|PKM]] / [[life management\|life management]]
 	🔩 [[_004_L1F3/l1f3 management methodology\|life management methodology (LMM)]] ([[obsidian system\|obsidian system]])
-	🔩 [[disruptive life management system\|DLMS - disruptive life management system]] ([[notion system\|notion system]])
+	🔩 [[projects & tools/disruptive life management system\|DLMS - disruptive life management system]] ([[notion system\|notion system]])
 	🔩 [[tbprocessed/base notes/tools;products - proprietary/tools/life organization & visualization system\|LOVS - life organization & visualization system]] ([[notion system\|notion system]])
 	📂 [[knowledge management methodologies\|knowledge management methodologies]]
 🌲 [[topics/architect;design/crypto\|crypto]] / [[topics/architect;design/web3\|web3]]
@@ -221,17 +221,17 @@ level of depth:
 	💡 [[concepts/personal tech stack\|personal tech stack]]
 🌱 [[topics/lab/programming\|programming]]
 
-#### 👨🏻‍🎨 [[c4ss1us/c4ss.art\|.art]]
+#### 👨🏻‍🎨 [[_005_c4ss1us/c4ss.art\|.art]]
 ##### 🎨 [[tbprocessed/base notes/concepts - general/art\|art]]
 🌿 [[concepts/gameworld building\|gameworld building]]
 🌿 [[topics/player/game design\|game design]]
 🌿 [[memetics\|memetics]]
 🌿 [[narrative design\|narrative design]]
 🌱 [[videoscapes\|videoscapes]]
-	📂 [[c4ss1us.log ambience playlists\|c4ss1us.log ambience playlists]]
+	📂 [[_005_c4ss1us/c4ss1us.log ambience playlists\|_005_c4ss1us/c4ss1us.log ambience playlists]]
 🌱 [[topics/player/anime\|anime]] / [[webtoons\|webtoons]]
 	🔥 [[the beginning after the end\|the beginning after the end]] / [[references/player/overgeared\|overgeared]]
-	🧪 [[c4ss1us/c4ss1us - the webtoon\|.c4ss//webtoon]]
+	🧪 [[_005_c4ss1us/c4ss1us - the webtoon\|.c4ss//webtoon]]
 🌱 [[topics/art/sound design\|sound design]]
 🌱 [[environment design\|environment design]]
 💩 [[motion design\|motion design]]
@@ -241,7 +241,7 @@ level of depth:
 💩 [[video editing\|video editing]]
 	📂 [favorite content creation references playlist](https://www.youtube.com/playlist?list=PLj8H7uBaUwDvqFBle8ziVnKGzL4KFk5di)
 
-#### 🎮 [[c4ss1us/c4ss1us.player\|.player]]
+#### 🎮 [[_005_c4ss1us/c4ss1us.player\|.player]]
 ##### 🎮 [[play\|play]]
 🌲 [[life gaming\|life gaming]]
 	🧰 [[_004_L1F3/l1f3 player system\|l1f3 player system]]
@@ -281,7 +281,7 @@ level of depth:
 		--> [[sports\|sports]]
  --> etc...
 
-#### 👨🏻‍🎤 [[c4ss.host\|.host]]
+#### 👨🏻‍🎤 [[_005_c4ss1us/c4ss.host\|.host]]
 ##### 🎎 [[relationships\|relationships]]
 🌿 [[communication frameworks\|communication frameworks]]
 	🔥 [[concepts/integral theory\|integral theory]]
@@ -299,7 +299,7 @@ level of depth:
 	🔥 [[models & frameworks/fluxonomy 4d\|fluxonomy 4d]]
 	🔥 [[metacurrency\|metacurrency]] / [[models & frameworks/forms of capital\|12 forms of capital]]
 
-#### 🎶 [[c4ss.music\|.music]]
+#### 🎶 [[_005_c4ss1us/c4ss.music\|.music]]
 
 🌿 [[music curation\|music curation]]
 	[[youtube playlists\|youtube playlists]]
@@ -318,7 +318,7 @@ level of depth:
 	💩 [[instrumental post-rock\|instrumental post-rock]]
 	💩 [[ritualistic music\|ritualistic music]]
 
-#### 👨🏻‍🌾 [[c4ss1us.regen\|.regen]]
+#### 👨🏻‍🌾 [[_005_c4ss1us/c4ss1us.regen\|.regen]]
 
 🌱 [[regenerative systems design\|regenerative systems design]]
 🌱 [[regenerative urban lifestyles\|regenerative urban lifestyles]]
@@ -328,7 +328,7 @@ level of depth:
 	💩 [[tea\|tea]]
 	💩 [[topics/alchemy/mushrooms\|mushrooms]]
 
-#### 🤖 [[c4ss1us.AI\|.AI]]
+#### 🤖 [[_005_c4ss1us/c4ss1us.AI\|.AI]]
 
 🌿 [[AI prototypes\|AI prototypes]]
 	🧪 [[topics/lab/AI assistant\|AI assistant]]

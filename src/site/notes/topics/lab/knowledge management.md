@@ -3,7 +3,7 @@
 ---
 
 ###### assumed audience
-if you're new to this, keep reading for a list of introductory resources. i also strongly suggest you read: [[_005_core notes/why knowledge management matters (and goes way beyond what most PKM is about today)\|why knowledge management matters (and goes way beyond what most PKM is about today)]].
+if you're new to this, keep reading for a list of introductory resources. i also strongly suggest you read: [[_006_core notes/why knowledge management matters (and goes way beyond what most PKM is about today)\|why knowledge management matters (and goes way beyond what most PKM is about today)]].
 
 if you're already familiar with the field, i recommend you check out my posts: [[core essays/💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons\|💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons]], [[_004_L1F3/l1f3 management methodology\|L1F3 management framework]] and [[knowledge management system\|knowledge management system]] to have a comprehensive view on my learnings and the approach/design/prototypes i've been developing.
 
@@ -53,7 +53,7 @@ collapse: open
 the contents of the writing below are currently haphazard, disjointed and all over the place. please proceed at your own risk. (*or don't.* feel free to come back later when it'll be hopefully updated and improved.)
 ```
 
-much like [[tbprocessed/base notes/people/alexander obenauer\|alexander obenauer]] with the [[_005_core notes/personal OS design\|future of operating systems]], [[people/gordon brander\|gordon brander]] with [[protocols for thought\|protocols for thought]], [[people/samuel timbó\|samuel timbó]] with [[the future of computing\|the future of computing]], or [[people/hanzi freinacht\|hanzi freinacht]] with the future of [[metamodern politics\|metamodern politics]], i have a vision for the future of information and knowledge management.
+much like [[tbprocessed/base notes/people/alexander obenauer\|alexander obenauer]] with the [[_006_core notes/personal OS design\|future of operating systems]], [[people/gordon brander\|gordon brander]] with [[protocols for thought\|protocols for thought]], [[people/samuel timbó\|samuel timbó]] with [[the future of computing\|the future of computing]], or [[people/hanzi freinacht\|hanzi freinacht]] with the future of [[metamodern politics\|metamodern politics]], i have a vision for the future of information and knowledge management.
 
 it includes an [[ontology\|ontology]] - the [[_004_L1F3/l1f3 management methodology\|L1F3 management framework]], its application in a [[system\|system]] - [[_004_L1F3/l1f3 management system\|L1F3 management system]], and its decentralization as part of a [[protocol\|protocol]] - [[_004_L1F3/l1f3 protocol\|L1F3 protocol]].
 

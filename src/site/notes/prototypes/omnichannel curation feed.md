@@ -10,7 +10,7 @@ related: [[content creation system;workflow\|content creation system;workflow]]
 
 ##### proto-sketches:
 
-on [[_007_illustrations & designs/omnichannel curation feed sketch.excalidraw\|excalidraw]].
+on [[_008_illustrations & designs/omnichannel curation feed sketch.excalidraw\|excalidraw]].
 also on [figma](https://www.figma.com/file/5UpGleobC3WJFckn9BNA6U/c4ss1us'-l1f3-dashboard?type=design&mode=design&t=8W2QvUSxNCEwymnl-1).
 
 ##### experiments i ran:

@@ -6,7 +6,7 @@ main archetype: [[_002_toolkit/classes/architect\|🕶 architect]]
 
 #### description
 
-this project is my wildly ambitious attempt to design/prototype the [[_005_core notes/personal OS design\|OS of the future]] - with its most important [[_001_MOCs/050 🟩 mid game/080 ⚒ tools MOC\|tools]], [[workflows\|workflows]], [[_002_toolkit/018 🤖 agents\|agents]] and [[user interface 1\|interfaces]] - in a very opinionated ([[concepts/integral theory\|integral]]/[[concepts/metamodernism\|metamodern]]) way that works according to my [[beliefs\|beliefs]], [[desires\|desires]] and [[goals\|goals]] of [[enabling human potential\|enabling human potential]] and [[earth regeneration\|regenerating earth]], yet in an [[open-source\|open-source]], [[modular\|modular]], non-deterministic way, open for customization and augmentation by anyone with other biocentric values.
+this project is my wildly ambitious attempt to design/prototype the [[_006_core notes/personal OS design\|OS of the future]] - with its most important [[_001_MOCs/050 🟩 mid game/080 ⚒ tools MOC\|tools]], [[workflows\|workflows]], [[_002_toolkit/018 🤖 agents\|agents]] and [[user interface 1\|interfaces]] - in a very opinionated ([[concepts/integral theory\|integral]]/[[concepts/metamodernism\|metamodern]]) way that works according to my [[beliefs\|beliefs]], [[desires\|desires]] and [[goals\|goals]] of [[enabling human potential\|enabling human potential]] and [[topics/earth regeneration\|regenerating earth]], yet in an [[open-source\|open-source]], [[modular\|modular]], non-deterministic way, open for customization and augmentation by anyone with other biocentric values.
 
 which is part of an even wilder, more ambitious project - uncovering and redesigning our fundamental personal and civilizational [[core essays/🌐 an introduction to the L1F3 support systems\|L1F3 support systems]].
 
@@ -88,7 +88,7 @@ categories of personal systems:
 - [[data\|data]]
 - [[ideas\|ideas]]/[[thoughts\|thoughts]]
 - [[models\|models]]/[[theories\|theories]]
-- [[_006_processing notes/organizations (MOC)\|organizations]]/[[projects\|projects]]
+- [[_007_processing notes/organizations (MOC)\|organizations]]/[[projects\|projects]]
 - [[relationships\|relationships]]
 
 ##### [[modular structures\|modular structures]] / [[composable structures\|composable structures]] like:

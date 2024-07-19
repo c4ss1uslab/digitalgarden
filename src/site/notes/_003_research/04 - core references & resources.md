@@ -9,7 +9,7 @@ pages (more contextual):
 \+ [[raindrop\|raindrop]] interneto-like bookmarks (coming soon)
 
 tools/orgs:
--> [[concepts/personal tech stack\|personal tech stack]] -> [[c4ss1us' tech stack notion database\|c4ss1us' tech stack notion database]]
+-> [[concepts/personal tech stack\|personal tech stack]] -> [[_005_c4ss1us/c4ss1us' tech stack notion database\|c4ss1us' tech stack notion database]]
 
 #### core references breakdown:
 
@@ -277,7 +277,7 @@ https://codeberg.org/teaserbot-labs/delightful-humane-design
 #### data breakdown:
 
 networks / data sources:
-[[google\|google]] / [[youtube\|youtube]] / [[wikipedia\|wikipedia]] / [[twitter\|twitter]] / [[reddit\|reddit]] / [[facebook\|facebook]] / [[instagram\|instagram]] / [[substack\|substack]] ([[RSS feed\|RSS feed]]) / [[podcast\|podcast]] ([[snipd\|snipd]]) / [[tbprocessed/base notes/ventures - general/discord\|discord]]
+[[google\|google]] / [[youtube\|youtube]] / [[wikipedia\|wikipedia]] / [[twitter\|twitter]] / [[reddit\|reddit]] / [[facebook\|facebook]] / [[projects & tools/instagram\|instagram]] / [[substack\|substack]] ([[RSS feed\|RSS feed]]) / [[podcast\|podcast]] ([[snipd\|snipd]]) / [[tbprocessed/base notes/ventures - general/discord\|discord]]
 [[initiatives, orgs & communities/golden\|golden]] / [[initiatives, orgs & communities/sublime (ex-startupy)\|sublime (ex-startupy)]] / [[mastodon\|mastodon]] / [[bluesky\|bluesky]] / [[are.na\|are.na]] / [[glasp\|glasp]] / [[projects & tools/melon\|melon]]
 [[pinterest\|pinterest]] / [[artstation\|artstation]] / [[dribbble\|dribbble]] / [[behance\|behance]]
 

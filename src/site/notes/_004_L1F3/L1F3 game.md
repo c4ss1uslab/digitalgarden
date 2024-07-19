@@ -94,7 +94,7 @@ source: https://www.youtube.com/watch?v=fHLgtO7b-to
 source: https://www.youtube.com/watch?v=5Zj_zstLLP4
 
 [[MMORPG\|MMORPG]] dynamics:
-examples: [[ashes of creation\|ashes of creation]] - https://www.youtube.com/watch?v=1s82xJnx1EY / [[elder scrolls online\|ESO]] - https://www.youtube.com/watch?v=AITD9dJ8gnY / [[black desert online\|BDO]] - https://www.youtube.com/watch?v=R34zBM3bGak
+examples: [[references/player/games/ashes of creation\|ashes of creation]] - https://www.youtube.com/watch?v=1s82xJnx1EY / [[references/player/games/elder scrolls online\|ESO]] - https://www.youtube.com/watch?v=AITD9dJ8gnY / [[references/player/games/black desert online\|BDO]] - https://www.youtube.com/watch?v=R34zBM3bGak
 
 ##### other real-life gaming tools/refs:
 

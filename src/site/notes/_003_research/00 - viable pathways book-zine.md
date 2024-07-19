@@ -45,7 +45,7 @@ we're living an age of the [[concepts/metacrisis\|metacrisis]].
 
 our economy is based on large-scale game-theoretical win-lose dynamics, while coupled with mainstream culture/philosophies devoid of spirit and exponential technologies plugged into extractivist paradigms, we have all the ingredients to compose a self-terminating civilization heading into ever-faster collapse.
 
-our institutions and systems are failing in recognizing and addressing this - [[governments\|governments]], [[_006_processing notes/organizations (MOC)\|organizations]], [[academia\|academia]], [[religions\|religions]], [[social systems\|social systems]]. this research aims to map the challenges we're facing, identify the approaches being tested, under-the-radar solutions and the initiatives working to address them, as way to give us a deeper and wider understanding of our context.
+our institutions and systems are failing in recognizing and addressing this - [[governments\|governments]], [[_007_processing notes/organizations (MOC)\|organizations]], [[academia\|academia]], [[religions\|religions]], [[social systems\|social systems]]. this research aims to map the challenges we're facing, identify the approaches being tested, under-the-radar solutions and the initiatives working to address them, as way to give us a deeper and wider understanding of our context.
 
 one peculiarity about my research is that since ["unhealthy individuals create unhealthy systems and institutions"], i aim to highlight solutions and initiatives at both the individual and systems level - which isn't common. most people/institutions are concerned with either "personal" or "societal" challenges.
 
@@ -255,7 +255,7 @@ i believe these are easy to agree on and they can lead to a powerful level of cl
 
 #### thesis
 
-to address the metacrisis we need both individual efforts to design more [[conscious\|conscious]], [[impactful\|impactful]], [[collaborative\|collaborative]] and [[regenerative\|regenerative]] [[lifestyles\|lifestyles]], [[_006_processing notes/organizations (MOC)\|organizations]], [[terms/culture\|culture]] and [[communities\|communities]], as well as collective [[concepts/coordination\|coordination]] to create new [[governance\|governance]], [[economic\|economic]], [[information\|information]], [[organizational\|organizational]], [[educational\|educational]] systems that honors [[nature\|nature]] and people's [[energies\|energies]], [[purpose\|purpose]], [[expression\|expression]] and [[vocation\|vocation]] as sacred.
+to address the metacrisis we need both individual efforts to design more [[conscious\|conscious]], [[impactful\|impactful]], [[collaborative\|collaborative]] and [[regenerative\|regenerative]] [[lifestyles\|lifestyles]], [[_007_processing notes/organizations (MOC)\|organizations]], [[terms/culture\|culture]] and [[communities\|communities]], as well as collective [[concepts/coordination\|coordination]] to create new [[governance\|governance]], [[economic\|economic]], [[information\|information]], [[organizational\|organizational]], [[educational\|educational]] systems that honors [[nature\|nature]] and people's [[energies\|energies]], [[purpose\|purpose]], [[expression\|expression]] and [[vocation\|vocation]] as sacred.
 
 there are many people working on designing/building these new systems, making sense of our current state and addressing it from different perspectives. so my goal here is to:
 

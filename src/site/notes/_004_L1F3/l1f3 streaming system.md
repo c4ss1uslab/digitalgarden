@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/_004_L1F3/l1f3 streaming system/","tags":["project","🌱","l1f3"],"created":"2022-02-05T11:38:47.503-03:00","updated":"2024-06-17T20:51:38.163-03:00"}
+{"dg-publish":true,"permalink":"/_004_L1F3/l1f3 streaming system/","tags":["project","🌱","l1f3"],"created":"2022-02-05T11:38:47.503-03:00","updated":"2024-07-18T17:34:51.792-03:00"}
 ---
 
-main archetypes: [[_002_toolkit/classes/artist\|🎨 artist]], [[c4ss1us.design\|✒ architect]]
+main archetypes: [[_002_toolkit/classes/artist\|🎨 artist]], [[_005_c4ss1us/c4ss1us.design\|✒ architect]]
 keywords: [[content curation\|content curation]], [[terms/consumption\|content consumption]], [[content creation\|content creation]], [[content distribution\|content distribution]], [[content management\|content management]], [[content streamlining\|content streamlining]], [[topics/lab/information management\|information management]], [[information flow\|information flow]], [[value flows\|value flows]]
 
 ---

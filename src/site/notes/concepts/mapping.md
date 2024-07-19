@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/mapping/","tags":["🌿","concept","mapping"],"created":"2022-04-19T15:34:21.040-03:00","updated":"2024-07-18T17:06:08.844-03:00"}
+{"dg-publish":true,"permalink":"/concepts/mapping/","tags":["🌿","concept","mapping"],"created":"2022-04-19T15:34:21.040-03:00","updated":"2024-07-18T18:43:36.301-03:00"}
 ---
 
 ## 1) definitions & types of maps
@@ -157,9 +157,9 @@ my twitter lists on:
 #### b) topic maps
 
 **economics maps**:
-https://atlas.cid.harvard.edu/
+https://atlas.cid.harvard.edu/ (technically, it's a set of interactive graphs)
 
-**argument maps**:
+**argument/debate maps**:
 https://www.societylibrary.org/diablo-canyon-debate
 
 **music theory maps**:
@@ -167,22 +167,36 @@ https://musicmap.info/
 https://everynoise.com/ (technically a graph, but works like a map)
 https://www.music-map.com/
 
+**power/influence maps:**
+https://calculatingempires.net/ - a genealogy of technology and power since 1500
+https://www.visualcapitalist.com/histomap/ - visualizing the 4,000-year history of global power
+
 ---
 #### c) "maps" of the [[concepts/metacrisis\|metacrisis]] / [[tbprocessed/base notes/concepts - general/sensemaking\|sensemaking]] / [[tbprocessed/base notes/concepts - general/game b\|game b]] space:
 
-great compilation of nearly all ecosystem efforts: https://secondrenaissance.net/wiki/overview-mapping-efforts
+an introduction to the subject/space: https://secondrenaissance.net/intro
 
-to understand the utility, look at how it's mapping: [[value;belief systems\|value;belief systems]], [[theories of change\|theories of change]].
+great compilation of nearly all ecosystem mapping efforts: https://secondrenaissance.net/wiki/overview-mapping-efforts
 
-**tbd:** (for me) re-read and take notes. what's missing, what could be better.
+to understand the usefulness of these initiatives, look at how they're mapping: [[value systems\|value systems]], [[belief systems\|belief systems]], [[worldviews\|worldviews]], [[theories of change\|theories of change]] and [[systemic challenges\|systemic challenges]] in coordinating these perspectives for navigating the [*extremely complex historical moment*](https://drive.google.com/file/d/1gmASP2v696diI9XVrWRkHOxUtCoxDkbN/view?pli=1) we're living.
 
 ---
 #### d) "maps" of the [[cozy web\|cozy web]]/[[indie web\|indie web]]:
 
-https://diagram.website/
+introduction to the concept/space and illustration made by [[people/maggie appleton\|maggie appleton]]:
+ 
+[![maggie appleton's internet communities cattegorization.png|700](/img/user/assets/maggie%20appleton's%20internet%20communities%20cattegorization.png)](https://maggieappleton.com/cozy-web)
+*(click to read more)*
+
+a collection of very interesting references in the space: https://diagram.website/
+
+another categorization proposed by [[trust (collective)\|trust (collective)]]:
+
+[![trust's internet communities categorization.png](/img/user/assets/trust's%20internet%20communities%20categorization.png)](https://trust.support/feed/moving-castles)
+*(click to read more)*
 
 ---
-#### e) "maps" of the [[regenerative\|regenerative]] space/communities:
+#### e) "maps" of the [[topics/architect;design/regeneration\|regenerative]] space/communities:
 
 #memetic:
 "climate tribes" chart + research:
@@ -216,7 +230,7 @@ https://github.com/orgs/life-itself/discussions/391
 ---
 #### g) videogame references
 
-one day i'll compile my favorite [[topics/player/game interfaces\|game interfaces]] in a organized/useful way, but today here's just a few highlights:
+one day i'll still compile my favorite [[topics/player/game interfaces\|game interfaces]] in a organized/useful way, but today here's just a few highlights:
 
 **[[rimworld\|rimworld]] tech tree:**
 

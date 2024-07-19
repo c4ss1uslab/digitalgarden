@@ -25,7 +25,7 @@ it's like a summary of [[people/hanzi freinacht\|hanzi]]'s [[listening society\|
 
 everything on the wiki - https://wiki.secondrenaissance.net/wiki/The_Second_Renaissance_wiki
 
-\+ there's [a research group](https://lifeitself.org/research) doing continued work on this project of the 2R and some of its sub-fields (such as [[deliberately developmental spaces\|deliberately developmental spaces]], [[ecosystem mapping\|ecosystem mapping]], and more).
+\+ there's [a research group](https://lifeitself.org/research) doing continued work on this project of the 2R and some of its sub-fields (such as [[deliberately developmental spaces\|deliberately developmental spaces]], [[topics/ecosystem mapping\|ecosystem mapping]], and more).
 
 ##### my reflections
 
