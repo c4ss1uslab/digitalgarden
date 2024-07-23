@@ -3,13 +3,13 @@
 ---
 
 ###### tier 1:
-[[projects & tools/growth lab app\|growth lab app]] ([[projects & tools/atlas of economic complexity\|atlas of economic complexity]], [[projects & tools/atlas\|atlas]] ([[initiatives, orgs & communities/nomic AI\|nomic AI]]), [[projects & tools/head start\|head start]] ([[projects & tools/open knowledge maps\|open knowledge maps]]), [[projects & tools/juggl\|juggl]] (in [[tbprocessed/base notes/ventures - general/obsidian\|obsidian]]), [[projects & tools/kumu\|kumu]], [[projects & tools/softspace\|softspace]] (in [[XR 1\|XR 1]]).
+[[projects & tools/tools/growth lab app\|growth lab app]] ([[projects & tools/tools/atlas of economic complexity\|atlas of economic complexity]], [[projects & tools/tools/atlas\|atlas]] ([[initiatives, orgs & communities/lab/nomic AI\|nomic AI]]), [[projects & tools/tools/head start\|head start]] ([[projects & tools/tools/open knowledge maps\|open knowledge maps]]), [[projects & tools/tools/juggl\|juggl]] (in [[tbprocessed/base notes/ventures - general/obsidian\|obsidian]]), [[projects & tools/tools/kumu\|kumu]], [[projects & tools/tools/softspace\|softspace]] (in [[XR 1\|XR 1]]).
 
-not tested, but look promising: [sigma.js](https://www.sigmajs.org/), [[gephi\|gephi]] & [[projects & tools/gephi lite\|gephi lite]], [[projects & tools/graphext\|graphext]], [[yworks\|yworks]]...
+not tested, but look promising: [sigma.js](https://www.sigmajs.org/), [[gephi\|gephi]] & [[projects & tools/tools/gephi lite\|gephi lite]], [[projects & tools/tools/graphext\|graphext]], [[projects & tools/tools/yworks\|yworks]]...
 
 ###### tier 2:
 
-[[neo4J\|neo4J]], [[d3.js\|d3.js]], [[infranodus\|infranodus]], [[projects & tools/metamaps\|metamaps]] ([[projects & tools/kumu\|kumu]]-like), [[projects & tools/datasette\|datasette]]
+[[neo4J\|neo4J]], [[d3.js\|d3.js]], [[infranodus\|infranodus]], [[projects & tools/tools/metamaps\|metamaps]] ([[projects & tools/tools/kumu\|kumu]]-like), [[projects & tools/tools/datasette\|datasette]]
 
 [layer](https://beta.getlayer.xyz/) - [[geographic\|geographic]]/[[demographic\|demographic]] data only.
 

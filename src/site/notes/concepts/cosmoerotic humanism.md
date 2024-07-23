@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/concepts/cosmoerotic humanism/","tags":["alchemy","concept","🌱","metacrisis"],"created":"2024-05-04T18:13:54.780-03:00","updated":"2024-07-09T17:28:00.519-03:00"}
 ---
 
-really powerful philosophy proposed by [[david j. temple\|david j. temple]] as an evolution of [[perennial philosophy\|perennial philosophy]], [[spiritual lineages\|wisdom traditions]] and [[concepts/interior sciences\|interior]]/[[sciences\|exterior sciences]] to address the [[systemic challenges\|systemic challenges]] and [[callings\|callings]] of our time & species.
+really powerful philosophy proposed by [[david j. temple\|david j. temple]] as an evolution of [[perennial philosophy\|perennial philosophy]], [[topics/alchemy/spiritual lineages\|wisdom traditions]] and [[concepts/interior sciences\|interior]]/[[terms/sciences\|exterior sciences]] to address the [[systemic challenges\|systemic challenges]] and [[callings\|callings]] of our time & species.
 
-associated with: [[people/ken wilber\|ken wilber]]/[[concepts/integral theory\|integral theory]], [[concepts/metacrisis\|metacrisis]], [[initiatives, orgs & communities/civilization research institute\|civilization research institute]].
+associated with: [[people/references/ken wilber\|ken wilber]]/[[concepts/integral theory\|integral theory]], [[concepts/metacrisis\|metacrisis]], [[initiatives, orgs & communities/architect;design/civilization research institute\|civilization research institute]].
 ##### recommended resources
 
 [CosmoErotic Humanism: Philosophy in a Time Between Worlds](https://worldphilosophyandreligion.org/wp-content/uploads/2022/04/2020-03-10_CosmoEroticHumanism_6pager_FINAL.pdf) - very good short paper (7 pages) introducing the subject.

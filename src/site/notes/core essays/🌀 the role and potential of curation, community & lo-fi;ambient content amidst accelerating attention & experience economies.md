@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core essays/🌀 the role and potential of curation, community & lo-fi;ambient content amidst accelerating attention & experience economies/","created":"2023-12-03T15:03:17.203-03:00","updated":"2024-06-22T18:54:55.605-03:00"}
+{"dg-publish":true,"permalink":"/core essays/🌀 the role and potential of curation, community & lo-fi;ambient content amidst accelerating attention & experience economies/","created":"2023-12-03T15:03:17.203-03:00","updated":"2024-07-19T21:59:25.122-03:00"}
 ---
 
 ![integral dashboard.jpeg](/img/user/images/interfaces%20&%20designs/integral%20dashboard.jpeg)
@@ -49,11 +49,11 @@ my experience of the COVID-19 pandemics was 1 year longer than everyone else. wh
 
 i was going through some deep emotional healing processes, and found that my only way to cope was to read, meditate, research and ritualize. essentially, for ~3 years, i spent 95% of my time alone, in my room, learning about myself and the world, and rediscovering what moved me.
 
-and this time in physical isolation made reflect and research a lot on the themes of [[belonging\|belonging]], the [[internet\|internet]], [[topics/community building\|community building]] and [[memetic tribes\|memetic tribes]], especially related to the state and the potential of our [[information ecology\|information ecology]] and [[online communities\|online communities]].
+and this time in physical isolation made reflect and research a lot on the themes of [[belonging\|belonging]], the [[internet\|internet]], [[topics/host/community building\|community building]] and [[memetic tribes\|memetic tribes]], especially related to the state and the potential of our [[information ecology\|information ecology]] and [[online communities\|online communities]].
 
 in 2023, my life has been pretty much the opposite. going to ecovillages, farms, slums, courses, retreats and all sorts of cultural, local community events in são paulo, brazil.
 
-in this article, i aim to share my findings, curation and perspectives on the [[future of communities\|future of communities]] and the [[internet\|internet]] - and subjacent themes, such as the [[terms/metaverse\|metaverse]], [[initiatives, orgs & communities/trust network\|trust network]] and a lot more.
+in this article, i aim to share my findings, curation and perspectives on the [[future of communities\|future of communities]] and the [[internet\|internet]] - and subjacent themes, such as the [[terms/metaverse\|metaverse]], [[initiatives, orgs & communities/architect;design/trust network\|trust network]] and a lot more.
 
 i bring special attention to **[[intentional online communities\|intentional online communities]]** and **[[concepts/third spaces\|third spaces]]** as cultural [[attractors\|attractors]]. they're places that can feel more like home than at home or at work.
 
@@ -79,17 +79,17 @@ decentralization of resources -> 16x population, 100x resource consumption.
 
 if there's something that persisted even after a lot of western influence and colonization (for its lights and shadows) in the global south culture is that we're a lot more communitarian. everyone is friends, everyone is family.
 
-communities like [[initiatives, orgs & communities/MoL\|MoL]] and [[initiatives, orgs & communities/instituto amuta\|instituto amuta]] recognize this and are deliberately studying and practicing culture-building in more intentional, conscious and regenerative ways.
+communities like [[initiatives, orgs & communities/player/MoL\|MoL]] and [[initiatives, orgs & communities/host/instituto amuta\|instituto amuta]] recognize this and are deliberately studying and practicing culture-building in more intentional, conscious and regenerative ways.
 
 ###### technology-enabled communities
 
 every technology has values embedded in it.
 
-[[people/sari azout\|sari]] captures my feelings well when she says:
+[[people/references/sari azout\|sari]] captures my feelings well when she says:
 
 ![](https://twitter.com/sariazout/status/1598307791894110209)
 
-and for deeper perspectives and practical examples of highly intentional and transformative technologies, check out [this podcast episode](https://www.youtube.com/watch?v=qcbkdO7mHdY) on building [[collective intelligence tools\|collective intelligence tools]] for [[human alignment\|human alignment]] with [[nicholas brigham\|nicholas brigham]] from [[initiatives, orgs & communities/goodly labs\|goodly labs]].
+and for deeper perspectives and practical examples of highly intentional and transformative technologies, check out [this podcast episode](https://www.youtube.com/watch?v=qcbkdO7mHdY) on building [[collective intelligence tools\|collective intelligence tools]] for [[human alignment\|human alignment]] with [[nicholas brigham\|nicholas brigham]] from [[initiatives, orgs & communities/architect;design/goodly labs\|goodly labs]].
 
 i will dive into the deep implications of this, but i'll start with the aspects of the creator/experience economy that most people are familiar with.
 
@@ -115,7 +115,7 @@ esports orgs, game guilds, real-life collectives
 
 -> RPGs / MMOs / neopets / LoL...
 
-###### [[initiatives, orgs & communities/m3 metaverse makers\|M3]] - virtual hackerspace & community
+###### [[initiatives, orgs & communities/lab/m3 metaverse makers\|M3]] - virtual hackerspace & community
 
 [hackerspace]
 
@@ -159,16 +159,16 @@ ultimately, [[sari\|sari]] captures it well here:
 
 
 ###### main references:
-- [[initiatives, orgs & communities/sublime (ex-startupy)\|sublime (ex-startupy)]]
-- [[projects & tools/melon\|melon]]
-- [[initiatives, orgs & communities/golden\|golden]]
-- [[projects & tools/weco\|weco]]
+- [[initiatives, orgs & communities/architect;design/sublime (ex-startupy)\|sublime (ex-startupy)]]
+- [[projects & tools/tools/melon\|melon]]
+- [[initiatives, orgs & communities/architect;design/golden\|golden]]
+- [[projects & tools/tools/weco\|weco]]
 - [[tbprocessed/base notes/ventures - general/hylo\|hylo]]
-- [[initiatives, orgs & communities/neighbourhoods\|neighbourhoods]]
+- [[initiatives, orgs & communities/lab/neighbourhoods\|neighbourhoods]]
 
 ###### other orgs building tools:
-- [[the computational democracy project\|the computational democracy project]] ([[projects & tools/pol.is\|pol.is]])
-- [[initiatives, orgs & communities/goodly labs\|goodly labs]]
+- [[the computational democracy project\|the computational democracy project]] ([[projects & tools/tools/pol.is\|pol.is]])
+- [[initiatives, orgs & communities/architect;design/goodly labs\|goodly labs]]
 
 ###### decentralized social media initiatives:
 - [[mastodon\|mastodon]]
@@ -181,4 +181,4 @@ ultimately, [[sari\|sari]] captures it well here:
 
 for an even deeper understanding, beyond [[distributed cognition\|distributed cognition]], we can also have [[concepts/augmented intelligence\|augmented intelligence]] with [[topics/lab/AI agents\|AI agents]], [[visualizations\|visualizations]], and more.
 
-[moving castles](https://trust.support/feed/moving-castles) is a pioneer work on this field, [[people/moritz bierling\|people/moritz bierling]] also shares [a rich conceptual understanding of the space](https://twitter.com/bierlingm/status/1274362866750160896), which influenced my own understanding and experimentation with [[secondary minds\|secondary minds]].
+[moving castles](https://trust.support/feed/moving-castles) is a pioneer work on this field, [[people/acquaintances/moritz bierling\|people/acquaintances/moritz bierling]] also shares [a rich conceptual understanding of the space](https://twitter.com/bierlingm/status/1274362866750160896), which influenced my own understanding and experimentation with [[secondary minds\|secondary minds]].

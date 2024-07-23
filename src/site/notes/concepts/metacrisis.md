@@ -11,7 +11,7 @@ the metacrisis is a lens on our critical current moment in the history of civili
 i strongly recommend checking out [this playlist](https://www.youtube.com/playlist?list=PLj8H7uBaUwDvd18QrEPugPMD5Z6Y0W-vB) that i curated (30h of content).
 ![](https://www.youtube.com/playlist?list=PLj8H7uBaUwDvd18QrEPugPMD5Z6Y0W-vB)
 
-https://www.sloww.co/meta-crisis-101/ - the deepest / most multi-perspectival introduction to it, though quite dense, especially for first timers. i recommend checking out some of [[people/daniel schmachtenberger\|daniel schmachtenberger]]'s videos above before, as a more palatable introduction.
+https://www.sloww.co/meta-crisis-101/ - the deepest / most multi-perspectival introduction to it, though quite dense, especially for first timers. i recommend checking out some of [[people/references/daniel schmachtenberger\|daniel schmachtenberger]]'s videos above before, as a more palatable introduction.
 
 https://metacrisis.org/ - a meta-resource - links to lots of other great content and resources.
 
@@ -52,6 +52,6 @@ feel free to bug me on [twitter](https://twitter.com/c4ss1usl1f3) to finish maki
 
 [[josh field\|josh field]] - [[concepts/flow crisis\|flow crisis]] - a few less-known but very interesting/valuable perspectives on it
 
-[[people/john vervaeke\|john vervaeke]] - [[concepts/meaning crisis\|meaning crisis]] - lots of good content from around it, more useful for understanding/navigating the (inner) psychological crises of our time
+[[people/references/john vervaeke\|john vervaeke]] - [[concepts/meaning crisis\|meaning crisis]] - lots of good content from around it, more useful for understanding/navigating the (inner) psychological crises of our time
 
 [life itself ecosystem map](https://ecosystem.lifeitself.us/) - a pretty good map of the organizations/communities in the space

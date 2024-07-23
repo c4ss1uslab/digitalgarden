@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/concepts/second renaissance/","tags":["🌿","metacrisis"],"created":"2024-05-04T18:20:10.067-03:00","updated":"2024-06-20T16:33:29.258-03:00"}
 ---
 
-very interesting framing proposed by [[initiatives, orgs & communities/life itself\|life itself]] on the civilization era we're living.
+very interesting framing proposed by [[initiatives, orgs & communities/architect;design/life itself\|life itself]] on the civilization era we're living.
 
 https://secondrenaissance.net/
 
@@ -19,13 +19,13 @@ a related graph proposed by [[david j. temple\|david j. temple]], in [[concepts/
 **intro** - https://secondrenaissance.net/intro
 
 **whitepaper** - https://drive.google.com/file/d/1m6gA7GKansoJdRZEr1zO6Ds7Hp5rMvo6/view
-it's like a summary of [[people/hanzi freinacht\|hanzi]]'s [[listening society\|listening society]]. great intro.
+it's like a summary of [[people/references/hanzi freinacht\|hanzi]]'s [[listening society\|listening society]]. great intro.
 
 **ecosystem** (people in the field with similar/complementary approaches) - https://secondrenaissance.net/ecosystem
 
 everything on the wiki - https://wiki.secondrenaissance.net/wiki/The_Second_Renaissance_wiki
 
-\+ there's [a research group](https://lifeitself.org/research) doing continued work on this project of the 2R and some of its sub-fields (such as [[deliberately developmental spaces\|deliberately developmental spaces]], [[topics/ecosystem mapping\|ecosystem mapping]], and more).
+\+ there's [a research group](https://lifeitself.org/research) doing continued work on this project of the 2R and some of its sub-fields (such as [[deliberately developmental spaces\|deliberately developmental spaces]], [[topics/architect;design/ecosystem mapping\|ecosystem mapping]], and more).
 
 ##### my reflections
 
@@ -35,7 +35,7 @@ how can we facilitate a graceful descent? and could that descent still really be
 
 maybe yes. a material descent/complete makeover and a spiritual/regenerative renaissance?
 
-it deeply resonates. a renaissance full of meaning, flourishing, revival, regeneration. widespread more conscious, challenging, yet nourishing lifestyles and ways of being. [[metamodern arts\|metamodern arts]], [[indigenous wisdom\|indigenous wisdom]], [[topics/architect;design/systems science\|systems]] and [[concepts/interior sciences\|interior sciences]] show viable ways forward. [[initiatives, orgs & communities/life itself\|life itself]] and my own efforts in mapping emergent initiatives/ecosystems also do.
+it deeply resonates. a renaissance full of meaning, flourishing, revival, regeneration. widespread more conscious, challenging, yet nourishing lifestyles and ways of being. [[metamodern arts\|metamodern arts]], [[topics/alchemy/indigenous wisdom\|indigenous wisdom]], [[topics/architect;design/systems science\|systems]] and [[concepts/interior sciences\|interior sciences]] show viable ways forward. [[initiatives, orgs & communities/architect;design/life itself\|life itself]] and my own efforts in mapping emergent initiatives/ecosystems also do.
 
 hopefully we're able to mature quickly and powerfully enough to facilitate this transition gracefully.
 
@@ -59,4 +59,4 @@ although it's inspiring to me, to many, especially in the global south, it may f
 
 the first renaissance was an age of retrieval of lost [[knowledge\|knowledge]] & [[wisdom\|wisdom]], a profound questioning that permeated the zeitgeist and produced new expressions of the [[true\|true]], [[good\|good]] and [[beautiful\|beautiful]] (e.g. science, law and art) integrating some ancient wisdom with the tools, discoveries and context of modernity.
 
-the second renaissance is a retrieval not only of lost ([[indigenous knowledge\|indigenous knowledge]]/[[indigenous wisdom\|wisdom]]), but also of lost [[concepts/ways of knowing\|ways of knowing]].
+the second renaissance is a retrieval not only of lost ([[indigenous knowledge\|indigenous knowledge]]/[[topics/alchemy/indigenous wisdom\|wisdom]]), but also of lost [[concepts/ways of knowing\|ways of knowing]].

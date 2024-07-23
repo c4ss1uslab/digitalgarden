@@ -26,7 +26,7 @@ some folks from a life coaching consultancy called "kailo mentoring group" added
 - [[living resources\|living resources]] / [[living capital\|living capital]] / [[living value\|living value]]
 - [[concepts/time\|time]] / [[attention\|attention]] / [[energy\|energy]] / [[temporal capital\|temporal capital]] / [[temporal value\|temporal value]]
 (emotional)
-- [[relationships\|relationships]] / [[reputation\|reputation]] / [[social capital\|social capital]] / [[social value\|social value]]
+- [[areas/relationships\|relationships]] / [[reputation\|reputation]] / [[social capital\|social capital]] / [[social value\|social value]]
 - [[terms/connection\|connection]] / [[terms/community\|community]] / [[cultural capital\|cultural capital]] / [[cultural value\|cultural value]]
 - [[fulfillment\|fulfillment]] / [[karma\|karma]] / [[meaning\|meaning]] / [[spiritual capital\|spiritual capital]] / [[spiritual value\|spiritual value]]
 - [[emotional well-being\|emotional well-being]] / [[emotional resilience capital\|emotional resilience capital]] / [[emotional value\|emotional value]]

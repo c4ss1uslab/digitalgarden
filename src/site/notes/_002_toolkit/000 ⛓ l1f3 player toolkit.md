@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/_002_toolkit/000 ⛓ l1f3 player toolkit/","tags":["prototype","🌿"],"created":"2022-01-28T09:51:51.329-03:00","updated":"2024-06-20T18:14:40.873-03:00"}
+{"dg-publish":true,"permalink":"/_002_toolkit/000 ⛓ l1f3 player toolkit/","tags":["prototype","🌿"],"created":"2022-01-28T09:51:51.329-03:00","updated":"2024-07-19T20:17:09.024-03:00"}
 ---
 
 #### index
@@ -25,9 +25,9 @@ support systems:
 meta-systems:
 [[_004_L1F3/L1F3 game\|🎮 life game]]
 [[_004_L1F3/l1f3 operating system\|🌌 life operating system]]
-[[l1f3 management system 1\|🧠 life management system]]
-[[l1f3 streaming system 1\|🎥 life streaming system]]
-[[l1f3 player system 1\|🕹 life player system]]
+[[_004_L1F3/l1f3 management system\|🧠 life management system]]
+[[_004_L1F3/l1f3 streaming system\|🎥 life streaming system]]
+[[_004_L1F3/l1f3 player system\|🕹 life player system]]
 
 player tools:
 [[tbprocessed/base notes/tools;products - proprietary/tools/life map\|🗺 life map]]
@@ -35,5 +35,5 @@ player tools:
 
 ---
 ##### references:
-[[people/alex bretas\|alex bretas]] / [[reaprendiz\|reaprendiz]] stuff
-[[projects & tools/EEF teaching & learning toolkit\|EEF teaching & learning toolkit]]
+[[people/acquaintances/alex bretas\|alex bretas]] / [[reaprendiz\|reaprendiz]] stuff
+[[projects & tools/tools/EEF teaching & learning toolkit\|EEF teaching & learning toolkit]]

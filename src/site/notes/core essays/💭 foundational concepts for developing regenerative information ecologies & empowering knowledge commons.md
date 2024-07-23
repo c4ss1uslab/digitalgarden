@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core essays/💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons/","created":"2023-10-31T20:24:29.951-03:00","updated":"2024-06-22T20:54:21.436-03:00"}
+{"dg-publish":true,"permalink":"/core essays/💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons/","created":"2023-10-31T20:24:29.951-03:00","updated":"2024-07-19T22:52:14.497-03:00"}
 ---
 
 draft link: https://medium.com/@cassiuscarvalho/foundational-concepts-for-developing-regenerative-information-ecologies-empowering-knowledge-d427b1dc2cb3
@@ -42,7 +42,7 @@ i share this as a way to clarify the “agenda” behind this article (the biase
 
 these 3 themes of work came both from my research on systemic [[_001_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|challenges]], [[topics/player/game theory\|game theory]] and [[concepts/existential risk\|existential risk]], as well as personal intuitions, insights and awakenings i had on my self-knowledge path.
 
-throughout this path, i’ve found many organizations, communities and people doing amazing work. a few of the ones that impacted me the most being: [[people/daniel schmachtenberger\|daniel schmachtenberger]], [[people/ken wilber\|ken wilber]], [[people/maggie appleton\|maggie appleton]], [[initiatives, orgs & communities/metagame.wtf\|metagame.wtf]], [[initiatives, orgs & communities/SEEDS (ecosystem)\|SEEDS]], [possibility management](http://possibilitymanagement.com/), [protocol labs], [holochain](http://holochain.org), [[initiatives, orgs & communities/subconscious\|subconscious]], [L1F3.STREAM](https://www.youtube.com/playlist?list=PLliJTfwEBewrsBny4TAusQGNBfgzWB8QN), [high stakes academy] and [mundos possíveis](https://www.instagram.com/mundos_possiveis/) (the last three only have content in brazilian portuguese for now).
+throughout this path, i’ve found many organizations, communities and people doing amazing work. a few of the ones that impacted me the most being: [[people/references/daniel schmachtenberger\|daniel schmachtenberger]], [[people/references/ken wilber\|ken wilber]], [[people/references/maggie appleton\|maggie appleton]], [[initiatives, orgs & communities/architect;design/metagame.wtf\|metagame.wtf]], [[initiatives, orgs & communities/architect;design/SEEDS (ecosystem)\|SEEDS]], [possibility management](http://possibilitymanagement.com/), [protocol labs], [holochain](http://holochain.org), [[initiatives, orgs & communities/lab/subconscious (tool)\|subconscious (tool)]], [L1F3.STREAM](https://www.youtube.com/playlist?list=PLliJTfwEBewrsBny4TAusQGNBfgzWB8QN), [high stakes academy] and [mundos possíveis](https://www.instagram.com/mundos_possiveis/) (the last three only have content in brazilian portuguese for now).
 
 so much so that to varying degrees, i contribute or contributed to each of these projects for some time. i’ll still write about why i believe each of them is relevant, what they bring of uniquely valuable to the world, along with lots of other references of people/organizations doing similar/complimentary work.
 
@@ -61,7 +61,7 @@ therefore, the “unsolved” challenges i’m talking about are:
 - **healing and transforming our information ecology**
 - **enabling a vocational economy**
 
-i’ll focus on the information ecology part on this article. the next one will be on the vocational economy, breaking down the 4 best approaches i’ve found so far  —  [[initiatives, orgs & communities/SEEDS (ecosystem)\|SEEDS]], L1F3.STREAM, [metacurrency](http://metacurrency.org/) and [[initiatives, orgs & communities/metagame.wtf\|metagame.wtf]].
+i’ll focus on the information ecology part on this article. the next one will be on the vocational economy, breaking down the 4 best approaches i’ve found so far  —  [[initiatives, orgs & communities/architect;design/SEEDS (ecosystem)\|SEEDS]], L1F3.STREAM, [metacurrency](http://metacurrency.org/) and [[initiatives, orgs & communities/architect;design/metagame.wtf\|metagame.wtf]].
 
 as you might have guessed so far, i’ll strive for understandability in this article, so my definitions will be mostly loose and free from academic jargon.
 
@@ -119,11 +119,11 @@ which leads us to the first foundational concept:
 
 #### 1) [[concepts/game\|games]], [[topics/player/game theory\|game theory]], [[topics/player/game design\|game design]] & [[game boards\|game boards]].
 
-[[antonio\|antonio]] - ERGO model: [[environment\|environment]], [[roles\|roles]], [[guidelines\|guidelines]], [[objectives\|objectives]].
+[[antonio\|antonio]] - ERGO model: [[terms/environment\|environment]], [[roles\|roles]], [[guidelines\|guidelines]], [[objectives\|objectives]].
 
 ...
 
-[[people/caio vassão\|caio vassão]] - [metadesign, jogos e transformação cultural](https://caiovassao.medium.com/metadesign-jogos-e-transforma%C3%A7%C3%A3o-cultural-4ffce499cd8a)
+[[people/references/caio vassão\|caio vassão]] - [metadesign, jogos e transformação cultural](https://caiovassao.medium.com/metadesign-jogos-e-transforma%C3%A7%C3%A3o-cultural-4ffce499cd8a)
 
 #### 2) [[topics/architect;design/digital cartography\|digital cartography]] & approaches to information [[concepts/mapping\|mapping]], navigation and curation
 
@@ -141,7 +141,7 @@ there’s even a great deeper analysis + futures-oriented design/prototypes prop
 
 map from trust’s [moving castles](https://trust.support/feed/moving-castles) article. inspired by the eghbal model of open-source communities, “working in public: the making and maintenance of open source software”, nadia eghbal (2020).
 
-x) [[initiatives, orgs & communities/sublime (ex-startupy)\|sublime]]
+x) [[initiatives, orgs & communities/architect;design/sublime (ex-startupy)\|sublime]]
 
 sari is the founder of one of the initiatives i mentioned (sublime), and a master of finding/crafting powerful insights on information curation and the web.
 
@@ -309,7 +309,7 @@ as a concept/practice, i find that digital gardens are already very valuable and
 
 some of my suggestions are: [maggie appleton](https://maggieappleton.com/garden), [nikita voloboev](https://wiki.nikiv.dev/), [azlen elza](https://notes.azlen.me/g3tibyfv/), [alex komoroske](https://thecompendium.cards/c/half-baked/), [tom critchlow](https://tomcritchlow.com/wiki/), [gordon brander](https://gordonbrander.com/pattern/), [gwern](https://gwern.net/), [bianca aguilar](https://www.are.na/bianca-aguilar), [scaling synthesis](https://scalingsynthesis.com/).
 
-the [[topics/lab/knowledge management\|PKM]]/[[tools for thought 1\|TfT]] (tools for thought) communities have grown a lot with the evolution and adoption of [[tbprocessed/base notes/tools;products - general/notion\|notion]] into mainstream use (largely driven by productivity youtubers such as [[matt d’avela\|matt d’avela]], [[thomas frank\|thomas frank]], [[people/ali abdaal\|ali abdaal]], through the launch of [[tbprocessed/base notes/ventures - general/roam research\|roam research]] in 2016 as the first modern hyperlinked/graph-based note-taking tool (giving rise to many other popular tools today such as [[tbprocessed/base notes/ventures - general/obsidian\|obsidian]], [[remnote\|remnote]], [[projects & tools/logseq\|logseq]] and [[tana\|tana]]) and the popularization of tiago forte’s [[concepts/building a second brain\|BASB]] (building a second brain) methodology in the recent years.
+the [[topics/lab/knowledge management\|PKM]]/[[tools for thought 1\|TfT]] (tools for thought) communities have grown a lot with the evolution and adoption of [[tbprocessed/base notes/tools;products - general/notion\|notion]] into mainstream use (largely driven by productivity youtubers such as [[matt d’avela\|matt d’avela]], [[thomas frank\|thomas frank]], [[people/references/ali abdaal\|ali abdaal]], through the launch of [[tbprocessed/base notes/ventures - general/roam research\|roam research]] in 2016 as the first modern hyperlinked/graph-based note-taking tool (giving rise to many other popular tools today such as [[tbprocessed/base notes/ventures - general/obsidian\|obsidian]], [[remnote\|remnote]], [[projects & tools/tools/logseq\|logseq]] and [[tana\|tana]]) and the popularization of tiago forte’s [[concepts/building a second brain\|BASB]] (building a second brain) methodology in the recent years.
 
 from my recent experience at an agroecological site, i noticed what’s missing on this digital movement, from an ecological/regenerative perspective is a deeper awareness of where all of this info-vegetation is planted, in relationship with what/whom.
 
@@ -319,7 +319,7 @@ but this is still an underdeveloped topic, with lots of potential for creation/i
 
 #### 4) personal systems design
 
-[[initiatives, orgs & communities/subconscious\|subconscious]] & tools for [[concepts/coordination\|coordination]], [[terms/collaboration\|collaboration]], etc...
+[[initiatives, orgs & communities/lab/subconscious (tool)\|subconscious (tool)]] & tools for [[concepts/coordination\|coordination]], [[terms/collaboration\|collaboration]], etc...
 
 
 ![KM - capture, organize, synthesize loop.jpg|400](/img/user/images/models%20&%20frameworks/KM%20-%20capture,%20organize,%20synthesize%20loop.jpg)
@@ -329,20 +329,20 @@ but this is still an underdeveloped topic, with lots of potential for creation/i
 [[tools for self-transformation\|tools for self-transformation]]:
 
 [[tools for collective intelligence\|tools for collective intelligence]] / [[tbprocessed/base notes/concepts - general/sensemaking\|sensemaking]]:
-[[initiatives, orgs & communities/goodly labs\|goodly labs]]' AI prototypes
+[[initiatives, orgs & communities/architect;design/goodly labs\|goodly labs]]' AI prototypes
 [[tbprocessed/base notes/ventures - general/SEEDS\|SEEDS]]' liquid democracy
-[[initiatives, orgs & communities/meaning alignment institute\|meaning alignment institute]]
-[[roote\|roote]]'s [[projects & tools/tweetscape\|tweetscape]]
+[[initiatives, orgs & communities/architect;design/meaning alignment institute\|meaning alignment institute]]
+[[roote\|roote]]'s [[projects & tools/projects/tweetscape\|tweetscape]]
 [[common sensemaker\|common sensemaker]]'s [sensenets](https://paragraph.xyz/@sense-nets/sense-nets-intro)
-[[initiatives, orgs & communities/the society library\|society library]]
-[[projects & tools/metaculus\|metaculus]]
+[[initiatives, orgs & communities/architect;design/the society library\|society library]]
+[[projects & tools/tools/metaculus\|metaculus]]
 (...)
 AI research tools
 digital gardening / second brain tools...
 
 [[tools for coordination\|tools for coordination]]:
 
-[[topics/collaboration tools\|tools for collaboration]]:
+[[topics/architect;design/collaboration tools\|tools for collaboration]]:
 
 [[tools for play\|tools for play]]:
 

@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/_004_L1F3/l1f3 management system/","tags":["project","🌿","l1f3"],"created":"2021-12-11T16:52:05.970-03:00","updated":"2024-06-22T21:03:19.492-03:00"}
+{"dg-publish":true,"permalink":"/_004_L1F3/l1f3 management system/","tags":["project","🌿","l1f3"],"created":"2021-12-11T16:52:05.970-03:00","updated":"2024-07-19T23:41:12.881-03:00"}
 ---
 
 main archetype: [[_002_toolkit/classes/architect\|🕶 architect]]
 
 #### description
 
-this project is my wildly ambitious attempt to design/prototype the [[_006_core notes/personal OS design\|OS of the future]] - with its most important [[_001_MOCs/050 🟩 mid game/080 ⚒ tools MOC\|tools]], [[workflows\|workflows]], [[_002_toolkit/018 🤖 agents\|agents]] and [[user interface 1\|interfaces]] - in a very opinionated ([[concepts/integral theory\|integral]]/[[concepts/metamodernism\|metamodern]]) way that works according to my [[beliefs\|beliefs]], [[desires\|desires]] and [[goals\|goals]] of [[enabling human potential\|enabling human potential]] and [[topics/earth regeneration\|regenerating earth]], yet in an [[open-source\|open-source]], [[modular\|modular]], non-deterministic way, open for customization and augmentation by anyone with other biocentric values.
+this project is my wildly ambitious attempt to design/prototype the [[_006_core notes/personal OS design\|OS of the future]] - with its most important [[_001_MOCs/050 🟩 mid game/080 ⚒ tools MOC\|tools]], [[workflows\|workflows]], [[_002_toolkit/018 🤖 agents\|agents]] and [[user interface 1\|interfaces]] - in a very opinionated ([[concepts/integral theory\|integral]]/[[concepts/metamodernism\|metamodern]]) way that works according to my [[beliefs\|beliefs]], [[desires\|desires]] and [[goals\|goals]] of [[enabling human potential\|enabling human potential]] and [[topics/regen/earth regeneration\|regenerating earth]], yet in an [[open-source\|open-source]], [[modular\|modular]], non-deterministic way, open for customization and augmentation by anyone with other biocentric values.
 
 which is part of an even wilder, more ambitious project - uncovering and redesigning our fundamental personal and civilizational [[core essays/🌐 an introduction to the L1F3 support systems\|L1F3 support systems]].
 
@@ -19,9 +19,9 @@ github - project categories:
 
 #### main components:
 
-[[perception\|perception]] ([[topics/lab/data management\|data management]]/[[topics/lab/information management\|information management]]) / [[tbprocessed/base notes/concepts - general/sensemaking\|sensemaking]] ([[topics/lab/knowledge management\|knowledge management]] - [[_001_MOCs/050 🟩 mid game/040 🤹🏻‍♂️ areas MOC\|responsibilities]], [[_002_toolkit/x+ 🎭 roles LPS\|roles]], [[_001_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|challenges]], etc) / [[decision-making\|decision-making]] ([[decision management\|decision management]]) / [[terms/action\|action]]/[[topics/player/learning\|learning]] ([[task management\|task management]] / [[time management\|time management]] / [[energy management\|energy management]] / [[tbprocessed/base notes/topics/learning management\|learning management]]) / [[feedback\|feedback]]/[[results\|results]] ([[wisdom management\|wisdom management]] / [[values management\|values management]] / [[self-management\|self-management]])
+[[perception\|perception]] ([[topics/lab/data management\|data management]]/[[topics/lab/information management\|information management]]) / [[tbprocessed/base notes/concepts - general/sensemaking\|sensemaking]] ([[topics/lab/knowledge management\|knowledge management]] - [[_001_MOCs/050 🟩 mid game/040 🤹🏻‍♂️ areas MOC\|responsibilities]], [[_002_toolkit/x+ 🎭 roles LPS\|roles]], [[_001_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|challenges]], etc) / [[terms/decision-making\|decision-making]] ([[decision management\|decision management]]) / [[terms/action\|action]]/[[topics/player/learning\|learning]] ([[task management\|task management]] / [[time management\|time management]] / [[energy management\|energy management]] / [[tbprocessed/base notes/topics/learning management\|learning management]]) / [[feedback\|feedback]]/[[results\|results]] ([[wisdom management\|wisdom management]] / [[values management\|values management]] / [[concepts/self-management\|self-management]])
 
-\+ different [[life management system views\|views]]
+\+ different [[prototypes/l1f3 management system views\|views]]
 
 #### systems overview
 
@@ -29,7 +29,7 @@ github - project categories:
 
 categories of personal systems:
 
-#### [[self-management\|self-management]]
+#### [[concepts/self-management\|self-management]]
 - [self-reflection] -> [[values management\|values management]]
 - [priming]
 - [sensing]
@@ -39,12 +39,12 @@ categories of personal systems:
 - [learning]
 - [tracking]
 
-#### [[life management\|life management]] systems breakdown:
-- [[resources management system\|🌫 resources management system]]
-- [[knowledge management system\|🧠 knowledge management system]]
-- [[prototypes/decision management system\|♟ decision management system]]
-- [[prototypes/action management system\|⚔ action management system]]
-- [[learning management system\|📚 learning management system]]
+#### [[concepts/life management\|life management]] systems breakdown:
+- [[prototypes/on hold/resources management system\|🌫 resources management system]]
+- [[prototypes/on hold/knowledge management system\|🧠 knowledge management system]]
+- [[prototypes/on hold/decision management system\|♟ decision management system]]
+- [[prototypes/on hold/action management system\|⚔ action management system]]
+- [[prototypes/on hold/learning management system\|📚 learning management system]]
 
 #### [[systems management\|systems management]]
 - [[topics/lab/data management\|data management]]
@@ -54,14 +54,14 @@ categories of personal systems:
 
 ++
 ###### sub-projects:
-- [[knowledge management interface optimization\|knowledge management interface optimization]]
-- [[learning management interface optimization\|learning management interface optimization]]
-- [[projects & tools/building an extended mind\|building an extended mind]]
+- [[prototypes/on hold/knowledge management interfaces\|knowledge management interfaces]]
+- [[prototypes/on hold/learning management interfaces\|learning management interfaces]]
+- [[projects & tools/proprietary/building an extended mind\|building an extended mind]]
 - [[tbprocessed/base notes/projects/building a digital garden\|building a digital garden]]
 - [[tbprocessed/base notes/projects/obsidian mastery\|obsidian mastery]]
 - [[notion pages creation;organization\|notion pages creation;organization]]
 - [[notion aesthetics\|notion aesthetics]]
-- [[notion + obsidian integration\|notion + obsidian integration]]
+- [[prototypes/on hold/notion + obsidian integration\|notion + obsidian integration]]
 
 \+ [[topics/lab/quantified self\|quantified self]] compilations
 [[concepts/personal tech stack\|personal tech stack]] / setups
@@ -83,13 +83,13 @@ categories of personal systems:
 [[interoperable\|interoperable]] ([[credible exit\|credible exit]])
 
 ##### core design elements:
-##### [[data structures\|data structures]] / [[concepts/information levels\|information levels]] ([[idea unit\|idea unit]] / [[modular idea\|modular idea]]):
+##### [[topics/lab/data structures\|data structures]] / [[concepts/information levels\|information levels]] ([[idea unit\|idea unit]] / [[modular idea\|modular idea]]):
 
 - [[data\|data]]
 - [[ideas\|ideas]]/[[thoughts\|thoughts]]
 - [[models\|models]]/[[theories\|theories]]
-- [[_007_processing notes/organizations (MOC)\|organizations]]/[[projects\|projects]]
-- [[relationships\|relationships]]
+- [[initiatives, orgs & communities/organizations MOC\|organizations]]/[[projects\|projects]]
+- [[areas/relationships\|relationships]]
 
 ##### [[modular structures\|modular structures]] / [[composable structures\|composable structures]] like:
 - [[concepts/assets\|assets]]
@@ -112,7 +112,7 @@ can create certain file types:
 - [[software\|software]] (.[[exe\|exe]])
 - [[interface\|interface]]
 - [[database\|database]]
-- [[note\|note]]
+- [[terms/note\|note]]
 - [[map\|map]]
 - [[terms/image\|image]]
 

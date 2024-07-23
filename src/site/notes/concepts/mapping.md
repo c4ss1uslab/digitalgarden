@@ -88,10 +88,10 @@ a) [[ecosystem maps\|ecosystem maps]]:
 
 ![liminal web map.png|500](/img/user/images/maps/liminal%20web%20map.png)
 
-b) [[concept maps\|concept maps]] (a.k.a. [[mental models\|mental models]]/[[frameworks\|frameworks]]):
+b) [[concept maps\|concept maps]] (a.k.a. [[topics/alchemy/mental models\|mental models]]/[[frameworks\|frameworks]]):
 --> proposes a model that describes how something works or can work.
 
-[[initiatives, orgs & communities/possibility management\|possibility management]]'s [thoughtmaps](https://pmthoughtmaps.mystrikingly.com/)
+[[initiatives, orgs & communities/alchemy/possibility management\|possibility management]]'s [thoughtmaps](https://pmthoughtmaps.mystrikingly.com/)
 
 ![social layers.png|500](/img/user/images/models%20&%20frameworks/social%20layers.png)
 
@@ -110,7 +110,7 @@ c) [[general knowledge maps\|general knowledge maps]] / [[relationship maps\|rel
 
 - [[tom critchlow\|tom critchlow]]'s curation of resources: https://tomcritchlow.com/wiki/maps/
 
-⚠ i'm still missing: good curation on [[network science\|network science]] + good examples/applications.
+⚠ i'm still missing: good curation on [[topics/architect;design/network science\|network science]] + good examples/applications.
 
 ---
 ## 3) great examples of maps of specific subjects
@@ -183,14 +183,14 @@ to understand the usefulness of these initiatives, look at how they're mapping: 
 ---
 #### d) "maps" of the [[cozy web\|cozy web]]/[[indie web\|indie web]]:
 
-introduction to the concept/space and illustration made by [[people/maggie appleton\|maggie appleton]]:
+introduction to the concept/space and illustration made by [[people/references/maggie appleton\|maggie appleton]]:
  
 [![maggie appleton's internet communities cattegorization.png|700](/img/user/assets/maggie%20appleton's%20internet%20communities%20cattegorization.png)](https://maggieappleton.com/cozy-web)
 *(click to read more)*
 
 a collection of very interesting references in the space: https://diagram.website/
 
-another categorization proposed by [[trust (collective)\|trust (collective)]]:
+another categorization proposed by [[initiatives, orgs & communities/architect;design/trust (collective)\|trust (collective)]]:
 
 [![trust's internet communities categorization.png](/img/user/assets/trust's%20internet%20communities%20categorization.png)](https://trust.support/feed/moving-castles)
 *(click to read more)*
@@ -251,11 +251,11 @@ the contents of the writing below are currently haphazard, disjointed and all ov
 ```
 
 ##### themes/topics, perspectives/arguments, memes mapping
-refs: [[initiatives, orgs & communities/golden\|golden]], [[projects & tools/metaculus\|metaculus]], [[initiatives, orgs & communities/ideamarket\|ideamarket]], [[mapsmap hackathon\|mapsmap hackathon]], [[initiatives, orgs & communities/civilization research institute\|civilization research institute]], [[kialo\|kialo]], [[people/nikita voloboev\|nikita voloboev]]...
+refs: [[initiatives, orgs & communities/architect;design/golden\|golden]], [[projects & tools/tools/metaculus\|metaculus]], [[initiatives, orgs & communities/architect;design/ideamarket\|ideamarket]], [[references/lab/mapsmap hackathon\|mapsmap hackathon]], [[initiatives, orgs & communities/architect;design/civilization research institute\|civilization research institute]], [[kialo\|kialo]], [[people/references/nikita voloboev\|nikita voloboev]]...
 
 other relevant approaches:
 - [[models & frameworks/CEP+N\|CEP+N]]
-- [[github resource lists\|github resource lists]]
+- [[references/lab/github resource lists\|github resource lists]]
 - etc...
 
 ---
@@ -266,16 +266,16 @@ other relevant approaches:
 
 
 ###### main references:
-- [[initiatives, orgs & communities/sublime (ex-startupy)\|sublime (ex-startupy)]]
-- [[projects & tools/melon\|melon]]
-- [[initiatives, orgs & communities/golden\|golden]]
-- [[projects & tools/weco\|weco]]
+- [[initiatives, orgs & communities/architect;design/sublime (ex-startupy)\|sublime (ex-startupy)]]
+- [[projects & tools/tools/melon\|melon]]
+- [[initiatives, orgs & communities/architect;design/golden\|golden]]
+- [[projects & tools/tools/weco\|weco]]
 - [[tbprocessed/base notes/ventures - general/hylo\|hylo]]
-- [[initiatives, orgs & communities/neighbourhoods\|neighbourhoods]]
+- [[initiatives, orgs & communities/lab/neighbourhoods\|neighbourhoods]]
 
 ###### other orgs building tools:
-- [[the computational democracy project\|the computational democracy project]] ([[projects & tools/pol.is\|pol.is]])
-- [[initiatives, orgs & communities/goodly labs\|goodly labs]]
+- [[the computational democracy project\|the computational democracy project]] ([[projects & tools/tools/pol.is\|pol.is]])
+- [[initiatives, orgs & communities/architect;design/goodly labs\|goodly labs]]
 
 ###### decentralized social media initiatives:
 - [[mastodon\|mastodon]]
@@ -295,13 +295,13 @@ other relevant approaches:
 
 
 ###### tier 1:
-[[projects & tools/growth lab app\|growth lab app]] ([[projects & tools/atlas of economic complexity\|atlas of economic complexity]], [[projects & tools/atlas\|atlas]] ([[initiatives, orgs & communities/nomic AI\|nomic AI]]), [[projects & tools/head start\|head start]] ([[projects & tools/open knowledge maps\|open knowledge maps]]), [[projects & tools/juggl\|juggl]] (in [[tbprocessed/base notes/ventures - general/obsidian\|obsidian]]), [[projects & tools/kumu\|kumu]], [[projects & tools/softspace\|softspace]] (in [[XR 1\|XR 1]]).
+[[projects & tools/tools/growth lab app\|growth lab app]] ([[projects & tools/tools/atlas of economic complexity\|atlas of economic complexity]], [[projects & tools/tools/atlas\|atlas]] ([[initiatives, orgs & communities/lab/nomic AI\|nomic AI]]), [[projects & tools/tools/head start\|head start]] ([[projects & tools/tools/open knowledge maps\|open knowledge maps]]), [[projects & tools/tools/juggl\|juggl]] (in [[tbprocessed/base notes/ventures - general/obsidian\|obsidian]]), [[projects & tools/tools/kumu\|kumu]], [[projects & tools/tools/softspace\|softspace]] (in [[XR 1\|XR 1]]).
 
-not tested, but look promising: [sigma.js](https://www.sigmajs.org/), [[gephi\|gephi]] & [[projects & tools/gephi lite\|gephi lite]], [[projects & tools/graphext\|graphext]], [[yworks\|yworks]]...
+not tested, but look promising: [sigma.js](https://www.sigmajs.org/), [[gephi\|gephi]] & [[projects & tools/tools/gephi lite\|gephi lite]], [[projects & tools/tools/graphext\|graphext]], [[projects & tools/tools/yworks\|yworks]]...
 
 ###### tier 2:
 
-[[neo4J\|neo4J]], [[d3.js\|d3.js]], [[infranodus\|infranodus]], [[projects & tools/metamaps\|metamaps]] ([[projects & tools/kumu\|kumu]]-like), [[projects & tools/datasette\|datasette]]
+[[neo4J\|neo4J]], [[d3.js\|d3.js]], [[infranodus\|infranodus]], [[projects & tools/tools/metamaps\|metamaps]] ([[projects & tools/tools/kumu\|kumu]]-like), [[projects & tools/tools/datasette\|datasette]]
 
 [layer](https://beta.getlayer.xyz/) - [[geographic\|geographic]]/[[demographic\|demographic]] data only.
 
@@ -321,4 +321,4 @@ note that mapping is different from [[references/lab/map-making tools\|map-makin
 
 datasets: 
 
-fine-tuned LLMs: [[cognicist iris\|cognicist iris]], [[initiatives, orgs & communities/integral life\|integral life]], [[models & frameworks/fourgames\|fourgames]]...
+fine-tuned LLMs: [[cognicist iris\|cognicist iris]], [[initiatives, orgs & communities/alchemy/integral life\|integral life]], [[models & frameworks/fourgames\|fourgames]]...

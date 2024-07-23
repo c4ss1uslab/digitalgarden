@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/models & frameworks/4Ps;3R theory of cognition/","tags":["framework"],"created":"2024-03-26T15:48:21.900-03:00","updated":"2024-03-26T15:54:18.223-03:00"}
 ---
 
-proposed by: [[people/john vervaeke\|john vervaeke]]
+proposed by: [[people/references/john vervaeke\|john vervaeke]]
 
 consists of, essentially: [[participatory knowing\|participatory knowing]], [[perspectival knowing\|perspectival knowing]], [[procedural knowing\|procedural knowing]], [[propositional knowing\|propositional knowing]] + [[recursive relevance realization\|recursive relevance realization]].
 

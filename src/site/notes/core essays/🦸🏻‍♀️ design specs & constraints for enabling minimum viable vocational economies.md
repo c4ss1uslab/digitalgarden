@@ -26,9 +26,9 @@ funding the commons -> gitcoin, [[tea.xyz\|tea.xyz]].
 [[models & frameworks/forms of capital\|8 forms of capital]]
 [[models & frameworks/fluxonomy 4d\|fluxonomy 4d]]
 [[tbprocessed/base notes/ventures - general/metacurrency project\|metacurrency project]]
-[[library of economic possibility\|library of economic possibility]]
-[[initiatives, orgs & communities/valueflows\|valueflows]]
-[[gitcoin coordination mechanisms list\|gitcoin coordination mechanisms list]]
+[[references/design/library of economic possibility\|library of economic possibility]]
+[[initiatives, orgs & communities/architect;design/valueflows\|valueflows]]
+[[projects & tools/projects/gitcoin coordination mechanisms list\|gitcoin coordination mechanisms list]]
 https://tokenengineeringcommunity.github.io/website/docs/library-welcome
 the field of [[topics/architect;design/refi\|refi]] as a whole + [[facilitation methodologies\|facilitation methodologies]] such as [[models & frameworks/pedagogia da cooperação\|pedagogia da cooperação]]
 

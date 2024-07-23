@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/_004_L1F3/l1f3 management methodology/","tags":["project","🌿","l1f3"],"created":"2022-04-11T16:33:28.838-03:00","updated":"2024-06-14T18:51:40.933-03:00"}
+{"dg-publish":true,"permalink":"/_004_L1F3/l1f3 management methodology/","tags":["project","🌿","l1f3"],"created":"2022-04-11T16:33:28.838-03:00","updated":"2024-07-19T00:15:40.405-03:00"}
 ---
 
 since 2015, i've been asking myself - is there an "optimal" or "better" way to manage my life? what would that look like?
 
-i experimented with tons of systems and frameworks, such as [[zettelkasten\|zettelkasten]], [[david allen\|david allen]]'s GTD 5 horizons, [[people/nick milo\|nick milo]] LYT's [[MOCs\|MOCs]], [[august bradley\|august bradley]]'s [[models & frameworks/PPV\|PPV]], plus my own work in 2018 with [[people/gabriel goffi\|gabriel goffi]] and in 2022 with [[people/ísis schuarts\|ísis schuarts]] (life manager), and by drinking inspiration from [[people/ken wilber\|ken wilber]]'s work on the [[concepts/integral OS\|integral OS]], gaming interfaces/models, and jamie combs' [[models & frameworks/fourgames\|fourgames]], i finally found a "*life management methodology*" that works for me.
+i experimented with tons of systems and frameworks, such as [[zettelkasten\|zettelkasten]], [[david allen\|david allen]]'s GTD 5 horizons, [[people/references/nick milo\|nick milo]] LYT's [[concepts/maps of content\|maps of content]], [[august bradley\|august bradley]]'s [[models & frameworks/PPV\|PPV]], plus my own work in 2018 with [[people/references/gabriel goffi\|gabriel goffi]] and in 2022 with [[people/friends/ísis schuarts\|ísis schuarts]] (life manager), and by drinking inspiration from [[people/references/ken wilber\|ken wilber]]'s work on the [[concepts/integral OS\|integral OS]], gaming interfaces/models, and jamie combs' [[models & frameworks/fourgames\|fourgames]], i finally found a "*life management methodology*" that works for me.
 
 yet, i wanted it to work for other people too. so my inquiry remained: how can i create something that is grounded in reality, that is systemic, modular, non-dogmatic, interoperable, fully extensible, customizable and regenerative by design?
 
@@ -16,7 +16,7 @@ as it's modular, the ontology is under constant development, but the core princi
 
 it consists of:
 
-a set of [[MOCs\|MOCs]], structured under [[4 games\|4 games]] that are similar to GTD's [[5 horizons\|5 horizons]].
+a set of [[concepts/maps of content\|maps of content]], structured under [[4 games\|4 games]] that are similar to GTD's [[5 horizons\|5 horizons]].
 
 🟣 [[concepts/deep game\|deep game]]:
 - [[_001_MOCs/000 🟣 deep game/000 🧘🏻‍♂️ self\|000 🧘🏻‍♂️ self]]
@@ -71,7 +71,7 @@ inspired by the [[models & frameworks/fourgames\|fourgames]] framework, there ar
 
 🟩 [[concepts/mid game\|mid game]]:
 - [[topics/architect;design/systems\|systems]]
-- [[environment\|environment]]
+- [[terms/environment\|environment]]
 - [[_001_MOCs/050 🟩 mid game/080 ⚒ tools MOC\|tools]]
 
 🔴🟠🟡 [[concepts/short game\|short game]]:
@@ -81,7 +81,7 @@ inspired by the [[models & frameworks/fourgames\|fourgames]] framework, there ar
 - [[feelings\|feelings]]/[[emotions\|emotions]]
 - [[activity\|activity]]
 
-and finally, inspired by [[references/player/anime/solo leveling\|solo leveling]]/[[nanomachine\|nanomachine]]'s player system and [[references/player/anime/sword art online\|sword art online]]'s yui/iron man's [[jarvis\|jarvis]], i created the [[_002_toolkit/000 ⛓ l1f3 player toolkit\|L1F3 player toolkit]] - i.e. a toolbox for playing life in more conscious, effective, collaborative, fun and purposeful ways.
+and finally, inspired by [[references/player/anime ; manga ; webtoon/solo leveling\|solo leveling]]/[[nanomachine\|nanomachine]]'s player system and [[references/player/anime ; manga ; webtoon/sword art online\|sword art online]]'s yui/iron man's [[jarvis\|jarvis]], i created the [[_002_toolkit/000 ⛓ l1f3 player toolkit\|L1F3 player toolkit]] - i.e. a toolbox for playing life in more conscious, effective, collaborative, fun and purposeful ways.
 
 
 

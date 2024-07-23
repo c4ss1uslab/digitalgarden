@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/_003_research/04 - core references & resources/","tags":["🌱"],"created":"2022-07-30T21:38:54.771-03:00","updated":"2024-07-07T16:10:16.160-03:00"}
+{"dg-publish":true,"permalink":"/_003_research/04 - core references & resources/","tags":["🌱"],"created":"2022-07-30T21:38:54.771-03:00","updated":"2024-07-19T22:30:01.497-03:00"}
 ---
 
 #### compiled curated pages / tools / orgs toolkit
 
 pages (more contextual):
 -> see refs below
-\+ [[raindrop\|raindrop]] interneto-like bookmarks (coming soon)
+\+ [[projects & tools/tools/raindrop\|raindrop]] interneto-like bookmarks (coming soon)
 
 tools/orgs:
 -> [[concepts/personal tech stack\|personal tech stack]] -> [[_005_c4ss1us/c4ss1us' tech stack notion database\|c4ss1us' tech stack notion database]]
@@ -76,14 +76,14 @@ core concepts:
 [[topics/architect;design/regeneration\|regeneration]] / [[tbprocessed/base notes/concepts - general/disruption\|disruption]] / [[integration\|integration]]
 [[metadesign\|metadesign]] / [[topics/architect;design/ontological design\|ontological design]]
 [[concepts/integral theory\|integral theory]] / [[models & frameworks/four quadrants\|four quadrants]] / [[models & frameworks/fourgames\|fourgames]]
-[[meta-cognitive processes\|meta-cognitive processes]] / [[life management\|life management]]
+[[meta-cognitive processes\|meta-cognitive processes]] / [[concepts/life management\|life management]]
 [[maps\|maps]] / [[boards\|boards]] -> [[models & frameworks/wardley mapping\|wardley mapping]] / [[game board\|game board]]
 
 [[concepts/civilization design\|civilization design]]:
 [[concepts/network state\|network states]]
 [[ecovillages\|ecovillages]], [[smart cities\|smart cities]], [[smart villages\|smart villages]]
 [[civilization emerging\|civilization emerging]] / [[civium\|civium]]
-[[projects & tools/future thinkers smart village\|future thinkers smart village]]
+[[initiatives, orgs & communities/regen/future thinkers smart village\|future thinkers smart village]]
 [[auroville\|auroville]]
 [[the venus project\|the venus project]]
 [[auravana\|auravana]]
@@ -157,7 +157,7 @@ content on "how the world works":
 [how money works](https://www.youtube.com/c/HowMoneyWorks)
 [[wikihow\|wikihow]]
 [[design foundations/design principles\|design principles]] (by ray dalio)
-[[initiatives, orgs & communities/mundos possíveis\|mundos possíveis]] documentary
+[[initiatives, orgs & communities/host/mundos possíveis\|mundos possíveis]] documentary
 [[dan koe\|dan koe]]'s career philosophical videos
 
 best personal websites:
@@ -170,13 +170,13 @@ alternative personal websites:
 [The Satyrs’ Forest 🍇](https://marijn.uk/) / [R.V.Klein 🐇 HOME](https://rvklein.me/index.html)
 [Drew's Conversation Menu - Google Docs](https://docs.google.com/document/d/1VA6ihOr3JNRG0xehB56kJF9N9VVrRakPv2VPzgW3Ln8/edit#)
 
-[[tier 1\|tier 1]] researchers:
-[[people/omar rizwan\|omar rizwan]], [[people/jinha lee\|jinha lee]], [tylerangert](https://twitter.com/tylerangert), [andy matuschak](https://twitter.com/andy_matuschak), [robert haisfield](https://twitter.com/RobertHaisfield), [alexander obenauer](https://twitter.com/alexobenauer) (theorists)
+[[tier 1 MOC\|tier 1 MOC]] researchers:
+[[people/references/omar rizwan\|omar rizwan]], [[people/references/jinha lee\|jinha lee]], [tylerangert](https://twitter.com/tylerangert), [andy matuschak](https://twitter.com/andy_matuschak), [robert haisfield](https://twitter.com/RobertHaisfield), [alexander obenauer](https://twitter.com/alexobenauer) (theorists)
 [maggie appleton](https://twitter.com/maggieappleton/) , [sari azout](https://twitter.com/sariazout), [serj hunt](https://twitter.com/Serjhunt_ARK), [raghav agrawal](https://twitter.com/impactology), [john nulls](https://twitter.com/johnnulls), [andrew altshuller](https://twitter.com/1eo) (curators)
-[[projects & tools/softspace\|softspace]]'s [Yiliu Shen-Burke](https://twitter.com/softspaceninja) / [[kosmik\|kosmik]]'s [paul rony](https://twitter.com/Paul_Rony) / [[fermat.ws\|fermat.ws]]' [pol baladas](https://twitter.com/polbaladas) / [[excalidraw\|excalidraw]]'s [zsolt viczián](https://twitter.com/zsviczian) / [[projects & tools/tweetscape\|tweetscape]]'s [thesephist](https://twitter.com/thesephist), [[people/jacky zhao\|jacky zhao]], [[people/stephen reid\|stephen reid]], [nick torba](https://twitter.com/nicktorba) & [julian fleck](https://twitter.com/j0lian) / [[people/fromsergio\|fromsergio]] (developers)
+[[projects & tools/tools/softspace\|softspace]]'s [Yiliu Shen-Burke](https://twitter.com/softspaceninja) / [[kosmik\|kosmik]]'s [paul rony](https://twitter.com/Paul_Rony) / [[fermat.ws\|fermat.ws]]' [pol baladas](https://twitter.com/polbaladas) / [[excalidraw\|excalidraw]]'s [zsolt viczián](https://twitter.com/zsviczian) / [[projects & tools/projects/tweetscape\|tweetscape]]'s [thesephist](https://twitter.com/thesephist), [[people/references/jacky zhao\|jacky zhao]], [[people/references/stephen reid\|stephen reid]], [nick torba](https://twitter.com/nicktorba) & [julian fleck](https://twitter.com/j0lian) / [[people/references/fromsergio\|fromsergio]] (developers)
 [jin](https://twitter.com/dankvr)
 [caio vassão](https://caiovassao.medium.com/) / [jamie combs](https://twitter.com/JamieCombs)
-[[people/alex bretas\|alex bretas]] / [[people/luis sérgio ferreira\|luis sérgio ferreira]]
+[[people/acquaintances/alex bretas\|alex bretas]] / [[people/acquaintances/luis sérgio ferreira\|luis sérgio ferreira]]
 [[felipe vassão\|felipe vassão]]
 
 relevant organizations:
@@ -205,26 +205,26 @@ relevant organizations:
 #### (mostly) FOSS personal tech stacks
 
 visual bookmarks navigation:
-[[projects & tools/interneto\|interneto]]
+[[projects & tools/projects/interneto\|interneto]]
 [[projects & tools/tier 2/webcrate\|webcrate]]
-[[projects & tools/linkace\|linkace]]
-[[otter manager\|otter manager]]
-[[raindrop.io\|raindrop.io]]
+[[projects & tools/tools/linkace\|linkace]]
+[[projects & tools/tools/otter manager\|otter manager]]
+[[projects & tools/tools/raindrop\|raindrop]]
 [[toby\|toby]]
 
 file management:
-[[eagle.cool\|eagle.cool]]
+[[projects & tools/tools/eagle (app)\|eagle (app)]]
 
 desktop customization / ricing:
-[[nix customization\|nix customization]] / [[rainmeter\|rainmeter]] / [[projects & tools/screenstyler\|screenstyler]]
+[[topics/lab/nix customization\|nix customization]] / [[rainmeter\|rainmeter]] / [[projects & tools/tools/screenstyler\|screenstyler]]
 
 PKM setups:
 [obsidian projects dashboard](https://bagerbach.com/blog/projects-and-goals-obsidian) / [Rainbell129/Obsidian-Homepage: A dashboard for your obsidian vault.](https://github.com/Rainbell129/Obsidian-Homepage)
-[[projects & tools/juggl\|juggl]] / [[breadcrumbs\|breadcrumbs]] / [[dataview\|dataview]]
+[[projects & tools/tools/juggl\|juggl]] / [[breadcrumbs\|breadcrumbs]] / [[dataview\|dataview]]
 
 community-curated knowledge networks:
-[[initiatives, orgs & communities/sublime (ex-startupy)\|sublime (ex-startupy)]]
-[[projects & tools/melon\|melon]]
+[[initiatives, orgs & communities/architect;design/sublime (ex-startupy)\|sublime (ex-startupy)]]
+[[projects & tools/tools/melon\|melon]]
 [Top Curators On The Internet - Google Docs](https://docs.google.com/document/d/1PNYQmjOdAmKbRzLGI83nvSQ5hRRlIJz7VZq13WwehtQ/edit)
 
 ```ad-warning
@@ -269,7 +269,7 @@ https://codeberg.org/teaserbot-labs/delightful-humane-design
 [invidious](https://invidious.io/) - alternative youtube front-end
 [nitter](https://nitter.net/) - alternative twitter front-end
 [[tweetbase\|tweetbase]]
-[[projects & tools/tweetscape\|tweetscape]]
+[[projects & tools/projects/tweetscape\|tweetscape]]
 [[nodus labs\|nodus labs]]
 [[AI knowledge graphs\|AI knowledge graphs]]
 
@@ -277,16 +277,16 @@ https://codeberg.org/teaserbot-labs/delightful-humane-design
 #### data breakdown:
 
 networks / data sources:
-[[google\|google]] / [[youtube\|youtube]] / [[wikipedia\|wikipedia]] / [[twitter\|twitter]] / [[reddit\|reddit]] / [[facebook\|facebook]] / [[projects & tools/instagram\|instagram]] / [[substack\|substack]] ([[RSS feed\|RSS feed]]) / [[podcast\|podcast]] ([[snipd\|snipd]]) / [[tbprocessed/base notes/ventures - general/discord\|discord]]
-[[initiatives, orgs & communities/golden\|golden]] / [[initiatives, orgs & communities/sublime (ex-startupy)\|sublime (ex-startupy)]] / [[mastodon\|mastodon]] / [[bluesky\|bluesky]] / [[are.na\|are.na]] / [[glasp\|glasp]] / [[projects & tools/melon\|melon]]
+[[google\|google]] / [[youtube\|youtube]] / [[wikipedia\|wikipedia]] / [[twitter\|twitter]] / [[reddit\|reddit]] / [[facebook\|facebook]] / [[projects & tools/tools/instagram\|instagram]] / [[substack\|substack]] ([[RSS feed\|RSS feed]]) / [[podcast\|podcast]] ([[snipd\|snipd]]) / [[tbprocessed/base notes/ventures - general/discord\|discord]]
+[[initiatives, orgs & communities/architect;design/golden\|golden]] / [[initiatives, orgs & communities/architect;design/sublime (ex-startupy)\|sublime (ex-startupy)]] / [[mastodon\|mastodon]] / [[bluesky\|bluesky]] / [[are.na\|are.na]] / [[glasp\|glasp]] / [[projects & tools/tools/melon\|melon]]
 [[pinterest\|pinterest]] / [[artstation\|artstation]] / [[dribbble\|dribbble]] / [[behance\|behance]]
 
 files management:
-[[bookmarks\|bookmarks]] - [[raindrop\|raindrop]]
+[[bookmarks\|bookmarks]] - [[projects & tools/tools/raindrop\|raindrop]]
 [[notes\|notes]] - [[telegram\|telegram]] <> [[tbprocessed/base notes/ventures - general/obsidian\|obsidian]]
-[[images\|images]] - [[eagle.cool\|eagle.cool]]
+[[images\|images]] - [[projects & tools/tools/eagle (app)\|eagle (app)]]
 [[videos\|videos]] - [[youtube\|youtube]]
-[[personal data\|personal data]] - [[synapsis\|synapsis]] ([[rescuetime\|rescuetime]], [[rize\|rize]], [[toggl\|toggl]])
+[[personal data\|personal data]] - [[prototypes/not proprietary/synapsis\|synapsis]] ([[rescuetime\|rescuetime]], [[rize\|rize]], [[toggl\|toggl]])
 
 x pages (bookmarks)
 x notes/highlights
@@ -303,13 +303,13 @@ y saved videos (youtube)
 #### 2nd layer - open explorations:
 [OSE Apprenticeship | Open Source Ecology](https://www.opensourceecology.org/ose-apprenticeship/) / [[cohere network\|cohere network]]
 
-[[initiatives, orgs & communities/global ecovillage network (GEN)\|global ecovillage network (GEN)]] / [[IC\|IC]] / [[worldpackers\|worldpackers]] / [[workaway\|workaway]]
+[[initiatives, orgs & communities/regen/global ecovillage network (GEN)\|global ecovillage network (GEN)]] / [[IC\|IC]] / [[worldpackers\|worldpackers]] / [[workaway\|workaway]]
 
 [[makerspaces\|makerspaces]] / [[maker culture\|maker culture]] / [[hackerspaces\|hackerspaces]]
 [[creative spaces\|creative spaces]]
 [[incubators\|incubators]] / [[accelerators\|accelerators]] / [[hubs\|hubs]]
 
-[[people/stephen reid\|stephen reid]] / [[paul rony\|paul rony]]
+[[people/references/stephen reid\|stephen reid]] / [[paul rony\|paul rony]]
 
 "research agents" / "application agents" / "follow-up/relationship agents"
 
@@ -341,23 +341,23 @@ tbd - [[metacurrency\|metacurrency]]
 [[how to do the work\|how to do the work]] - [[the holistic psychologist\|the holistic psychologist]]
 
 ---
-#### [[life management\|life management]]
+#### [[concepts/life management\|life management]]
 
 mainstream communicators:
-[[thomas frank\|thomas frank]], [[people/ali abdaal\|ali abdaal]], [[tbprocessed/base notes/people/marie poulin\|marie poulin]], [[anne-laure le cunff\|anne-laure le cunff]] / [[tbprocessed/base notes/ventures - general/ness labs\|ness labs]], [[august bradley\|august bradley]]
+[[thomas frank\|thomas frank]], [[people/references/ali abdaal\|ali abdaal]], [[tbprocessed/base notes/people/marie poulin\|marie poulin]], [[anne-laure le cunff\|anne-laure le cunff]] / [[tbprocessed/base notes/ventures - general/ness labs\|ness labs]], [[august bradley\|august bradley]]
 
 mainstream tools:
 
 
 deeper communicators:
 [[tbprocessed/base notes/people/bryan jenks\|bryan jenks]]
-[[people/shu omi\|shu omi]]
+[[people/references/shu omi\|shu omi]]
 
 main "theorists":
 [[zettelkasten\|zettelkasten]]
 [[andy matuschak\|andy matuschak]]
-[[people/tiago forte\|tiago forte]] / [[tbprocessed/base notes/ventures - general/forte labs\|forte labs]] / [[concepts/building a second brain\|BASB]]
-[[people/nick milo\|nick milo]] / [[linking your thinking\|linking your thinking]]
+[[people/references/tiago forte\|tiago forte]] / [[tbprocessed/base notes/ventures - general/forte labs\|forte labs]] / [[concepts/building a second brain\|BASB]]
+[[people/references/nick milo\|nick milo]] / [[linking your thinking\|linking your thinking]]
 
 more obscure/deeper thinkers/developers:
 [[tbprocessed/base notes/people/zsolt viczián\|zsolt viczián]] / [[zsolt's visual personal knowledge management system\|zsolt's visual personal knowledge management system]] - https://www.youtube.com/c/VisualPKM
@@ -385,10 +385,10 @@ future of:
 
 [[topics/player/learning\|learning]]
 [[terms/work\|work]] ([[terms/action\|action]])
-[[communities\|communities]] ([[decision-making\|decision-making]])
-[[environments\|environments]] ([[tbprocessed/base notes/concepts - general/sensemaking\|sensemaking]])
+[[communities\|communities]] ([[terms/decision-making\|decision-making]])
+[[areas/environments\|environments]] ([[tbprocessed/base notes/concepts - general/sensemaking\|sensemaking]])
 
-[[initiatives, orgs & communities/sublime (ex-startupy)\|sublime (ex-startupy)]] most interesting topics:
+[[initiatives, orgs & communities/architect;design/sublime (ex-startupy)\|sublime (ex-startupy)]] most interesting topics:
 
 by tier:
 
@@ -492,7 +492,7 @@ L.A - [[Cultural Beliefs\|Cultural Beliefs]] and [[Identity\|Identity]]
 L.B - [[Social Cooperation\|Social Cooperation]]
 L.C - [[terms/communication\|communication]] and [[Language\|Language]]
 L.D - [[Equity\|Equity]] and [[Access\|Access]]
-L.E - [[media\|Media]]
+L.E - [[topics/architect;design/media\|media]]
 M - [[topics/architect;design/economics\|economics]]
 M.A - [[Globalization\|Globalization]]
 M.B - [[Technological Unemployment\|Technological Unemployment]]

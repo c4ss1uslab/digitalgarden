@@ -24,7 +24,7 @@ player tools:
 (still under development + more coming soon...)
 
 player resources:
-[[resources management system\|🌫 resources management system]]
+[[prototypes/on hold/resources management system\|🌫 resources management system]]
 	- [[_002_toolkit/001 👨🏻‍🎤 avatar\|👨🏻‍🎤 avatar]]
 	- [[_002_toolkit/006 ♟ strategy\|🗡 action plan]]
 	- [[_002_toolkit/x+ 📿 rituals LPS\|📿 rituals]]
@@ -36,5 +36,5 @@ player resources:
 
 references:
 
-[[references/player/anime/solo leveling\|solo leveling]]'s player system
-\+ personal assistants: [[iron man\|iron man]]'s [[jarvis\|jarvis]], [[references/player/anime/sword art online\|sword art online]]'s yui, [[genshin impact\|genshin impact]]'s paimon, [[nanomachine\|nanomachine]] AI system.
+[[references/player/anime ; manga ; webtoon/solo leveling\|solo leveling]]'s player system
+\+ personal assistants: [[iron man\|iron man]]'s [[jarvis\|jarvis]], [[references/player/anime ; manga ; webtoon/sword art online\|sword art online]]'s yui, [[genshin impact\|genshin impact]]'s paimon, [[nanomachine\|nanomachine]] AI system.
