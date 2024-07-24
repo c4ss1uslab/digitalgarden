@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/_000_digital garden/c4ss1us' garden/","tags":["gardenEntry"],"created":"2021-12-11T16:51:50.661-03:00","updated":"2024-07-24T01:34:55.219-03:00"}
+{"dg-publish":true,"permalink":"/_000_digital garden/c4ss1us' garden/","tags":["gardenEntry"],"created":"2021-12-11T16:51:50.661-03:00","updated":"2024-07-24T04:40:00.947-03:00"}
 ---
 
 

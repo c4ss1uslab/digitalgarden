@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/_004_L1F3/l1f3 management system/","tags":["project","🌿","l1f3"],"created":"2021-12-11T16:52:05.970-03:00","updated":"2024-07-19T23:41:12.881-03:00"}
+{"dg-publish":true,"permalink":"/_004_L1F3/l1f3 management system/","tags":["project","🌿","l1f3"],"created":"2021-12-11T16:52:05.970-03:00","updated":"2024-07-24T04:38:17.430-03:00"}
 ---
 
 main archetype: [[_002_toolkit/classes/architect\|🕶 architect]]
@@ -124,7 +124,7 @@ can create certain file types:
 
  - [ ] part 1: [[_004_L1F3/l1f3 management methodology\|l1f3 management methodology]] visualization
 	-> MOCs
-		- [[_002_toolkit/🗾 meta-map\|🗺 meta-map]]
+		- [[_002_toolkit/meta-map\|🗺 meta-map]]
 		- 50.000 ft - essence
 			- [[_001_MOCs/000 🟣 deep game/005 🎢 journeys & archetypes MOC\|005 🎢 journeys & archetypes MOC]]
 			- [[_001_MOCs/000 🟣 deep game/010 💠 values & principles MOC\|010 💠 values & principles MOC]]
