@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core essays/🕹 life as play, energy management, collaborative life wisdom & ontological design as systemic responses/","created":"2023-12-12T12:06:45.872-03:00","updated":"2024-07-15T17:08:29.633-03:00"}
+{"dg-publish":true,"permalink":"/core essays/🕹 life as play, energy management, collaborative life wisdom & ontological design as systemic responses/","created":"2023-12-12T12:06:45.872-03:00","updated":"2024-07-23T02:40:57.793-03:00"}
 ---
 
 draft link: https://medium.com/@cassiuscarvalho/life-as-play-collaborative-life-wisdom-ontological-design-as-a-revolutionary-practice-291959d935e5
@@ -11,6 +11,12 @@ this one goes into wilder territory than usual. it'll get progressively weirder 
 ```
 
 ---
+```ad-warning
+title: note
+collapse: open
+the contents of the writing below are currently haphazard, disjointed and all over the place. please proceed at your own risk. (*or don't.* feel free to come back later when it'll be hopefully updated and improved.)
+```
+
 to add:
 
 maya

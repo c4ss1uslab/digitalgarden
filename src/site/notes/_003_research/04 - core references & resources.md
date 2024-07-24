@@ -1,6 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/_003_research/04 - core references & resources/","tags":["🌱"],"created":"2022-07-30T21:38:54.771-03:00","updated":"2024-07-19T22:30:01.497-03:00"}
+{"dg-publish":true,"permalink":"/_003_research/04 - core references & resources/","tags":["🌱"],"created":"2022-07-30T21:38:54.771-03:00","updated":"2024-07-23T02:37:23.223-03:00"}
 ---
+
+```ad-warning
+title: note
+collapse: open
+the contents of the writing below are currently haphazard, disjointed and all over the place. please proceed at your own risk. (*or don't.* feel free to come back later when it'll be hopefully updated and improved.)
+```
 
 #### compiled curated pages / tools / orgs toolkit
 

@@ -1,10 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/core essays/🌀 the role and potential of curation, community & lo-fi;ambient content amidst accelerating attention & experience economies/","created":"2023-12-03T15:03:17.203-03:00","updated":"2024-07-19T21:59:25.122-03:00"}
+{"dg-publish":true,"permalink":"/core essays/🌀 the role and potential of curation, community & lo-fi;ambient content amidst accelerating attention & experience economies/","created":"2023-12-03T15:03:17.203-03:00","updated":"2024-07-23T02:43:56.733-03:00"}
 ---
+
+```ad-warning
+title: note
+collapse: open
+the contents of the writing below are currently haphazard, disjointed and all over the place. please proceed at your own risk. (*or don't.* feel free to come back later when it'll be hopefully updated and improved.)
+```
 
 ![integral dashboard.jpeg](/img/user/images/interfaces%20&%20designs/integral%20dashboard.jpeg)
 
-we'll talk about shared brains, third spaces, communities...
+we'll talk about shared brains, third spaces, communities - as shown by folks in the [[cozy web\|cozy web]]/[[indie web\|indie web]]/[[slow web\|slow web]]...
 
 ---
 
@@ -163,7 +169,7 @@ ultimately, [[sari\|sari]] captures it well here:
 - [[projects & tools/tools/melon\|melon]]
 - [[initiatives, orgs & communities/architect;design/golden\|golden]]
 - [[projects & tools/tools/weco\|weco]]
-- [[tbprocessed/base notes/ventures - general/hylo\|hylo]]
+- [[projects & tools/tools/hylo\|hylo]]
 - [[initiatives, orgs & communities/lab/neighbourhoods\|neighbourhoods]]
 
 ###### other orgs building tools:

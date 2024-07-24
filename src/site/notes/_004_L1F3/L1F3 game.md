@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/_004_L1F3/L1F3 game/","tags":["l1f3","project","🌿","game","seriousgame"],"created":"2022-02-05T11:41:05.535-03:00","updated":"2024-07-19T21:48:53.758-03:00"}
+{"dg-publish":true,"permalink":"/_004_L1F3/L1F3 game/","tags":["l1f3","project","🌿","game","seriousgame"],"created":"2022-02-05T11:41:05.535-03:00","updated":"2024-07-23T02:38:45.134-03:00"}
 ---
 
 the L1F3 game is an ongoing endeavor to:
@@ -108,6 +108,11 @@ playful software - hyperlink, sane, fermat, mmmpages, hugginface spaces, others 
 (more to add...)
 X-prize, bootcamps, hackathons...
 
+```ad-warning
+title: note
+collapse: open
+the contents of the writing below are currently haphazard, disjointed and all over the place. please proceed at your own risk. (*or don't.* feel free to come back later when it'll be hopefully updated and improved.)
+```
 ### patterns of meta-play
 
 #### a) game modules

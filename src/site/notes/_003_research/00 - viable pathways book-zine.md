@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/_003_research/00 - viable pathways book-zine/","tags":["🌿"],"created":"2022-03-25T13:53:56.444-03:00","updated":"2024-07-20T21:44:58.155-03:00"}
+{"dg-publish":true,"permalink":"/_003_research/00 - viable pathways book-zine/","tags":["🌿"],"created":"2022-03-25T13:53:56.444-03:00","updated":"2024-07-24T02:51:25.569-03:00"}
 ---
 
 hey, welcome! this is the skeleton of a living, under-construction book-zine, an experimental [[hyper-linked multimedia medium\|hyper-linked multimedia medium]] that acts as a theoretical research / practical toolkit in-between.
@@ -176,7 +176,7 @@ how can they be complementary? that was the genius of [[people/references/sri au
 
 - integral / metamodern
 
-[[circling\|circling]], [[presencing\|presencing]], [[aletheia\|aletheia]]...
+[[circling\|circling]], [[presencing\|presencing]], [[practices/aletheia\|aletheia]]...
 
 hardly find consensus, but great memetic mapping:
 

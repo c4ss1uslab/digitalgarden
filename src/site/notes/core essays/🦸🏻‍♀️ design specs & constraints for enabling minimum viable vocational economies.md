@@ -1,11 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/core essays/🦸🏻‍♀️ design specs & constraints for enabling minimum viable vocational economies/","tags":["🌱"],"created":"2023-10-31T21:37:39.647-03:00","updated":"2024-06-21T17:20:59.362-03:00"}
+{"dg-publish":true,"permalink":"/core essays/🦸🏻‍♀️ design specs & constraints for enabling minimum viable vocational economies/","tags":["🌱"],"created":"2023-10-31T21:37:39.647-03:00","updated":"2024-07-23T02:41:22.077-03:00"}
 ---
 
 draft link: https://medium.com/@cassiuscarvalho/design-specs-constraints-for-enabling-minimum-viable-vocational-economies-d4dda4867e23
 
 ---
-for an 80-page-plus guidebook + 12-episode series breaking down how our economic system can be redesigned, see: SEEDS.
+
+```ad-warning
+title: note
+collapse: open
+the contents of the writing below are currently haphazard, disjointed and all over the place. please proceed at your own risk. (*or don't.* feel free to come back later when it'll be hopefully updated and improved.)
+```
+
+for an 80-page-plus guidebook + 12-episode series breaking down how our economic system can be redesigned, see: [SEEDS guide].
 
 3-horizon approach. we'll focus on 1st horizon on this. ("make minimal changes, understand impact on the whole" doesn't help if you're in deep suffering right now. change now, reflect later.)
 

@@ -1,10 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/core essays/💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons/","created":"2023-10-31T20:24:29.951-03:00","updated":"2024-07-19T22:52:14.497-03:00"}
+{"dg-publish":true,"permalink":"/core essays/💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons/","created":"2023-10-31T20:24:29.951-03:00","updated":"2024-07-23T02:40:46.290-03:00"}
 ---
 
 draft link: https://medium.com/@cassiuscarvalho/foundational-concepts-for-developing-regenerative-information-ecologies-empowering-knowledge-d427b1dc2cb3
 
 ---
+
+```ad-warning
+title: note
+collapse: open
+the contents of the writing below are currently haphazard, disjointed and all over the place. please proceed at your own risk. (*or don't.* feel free to come back later when it'll be hopefully updated and improved.)
+```
 
 draft:
 

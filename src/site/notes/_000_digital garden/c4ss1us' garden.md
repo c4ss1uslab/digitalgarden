@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/_000_digital garden/c4ss1us' garden/","tags":["gardenEntry"],"created":"2021-12-11T16:51:50.661-03:00","updated":"2024-07-09T18:50:04.472-03:00"}
+{"dg-publish":true,"permalink":"/_000_digital garden/c4ss1us' garden/","tags":["gardenEntry"],"created":"2021-12-11T16:51:50.661-03:00","updated":"2024-07-24T01:34:55.219-03:00"}
 ---
 
 
@@ -17,7 +17,7 @@ if you want to know more, you can check out maggie appleton's amazing content fo
 
 the digital garden [metaphor](https://maggieappleton.com/metaphors-web) can go a really long way. understanding your knowledge as a web of relationships can make us question and design our [[information ecologies]] in more conscious ways. my approach/design for this space is ever evolving. you can read more about it in my [[about - my approach to knowledge development]] post.
 
-keep in mind, the notes i tend to and share here are part of a *slow process of [[tbprocessed/base notes/concepts - general/sensemaking\|sensemaking]] and [[knowledge-building]]*. most of them will be messy, unfinished, poorly formatted, but they're still relevant/interesting enough that i choose to share. :)
+keep in mind, the notes i tend to and share here are part of a *slow process of [[tbprocessed/base notes/concepts - general/sensemaking\|sensemaking]] and [[knowledge-building]].* most of them will be messy, unfinished, poorly formatted, but they're still relevant/interesting enough that i choose to share. :)
 
 if you want to see my more polished content, you can check my [newsletter](https://c4ss1us.substack.com/), [instagram](https://www.instagram.com/c4ss1us.l1f3/), [twitter](https://twitter.com/c4ss1usl1f3) (now X), and [youtube channel](https://www.youtube.com/@c4ss1usl1f3). this is a behind-the-curtain view into my world and second brain. 😉
 ```
@@ -293,7 +293,7 @@ level of depth:
 🌱 [[facilitation\|facilitation]] tools
 	🔥 [[projects & tools/tools/fourgames card deck\|fourgames card deck]]
 	🔥 [[inventário amuta\|inventário amuta]]
-	💩 [[initiatives, orgs & communities/music/música do círculo\|música do círculo]]
+	💩 [[practices/música do círculo\|música do círculo]]
 	💩 [[initiatives, orgs & communities/athlete/playfight\|playfight]]
 🌱 [[resource allocation\|resource allocation]] tools
 	🔥 [[models & frameworks/fluxonomy 4d\|fluxonomy 4d]]

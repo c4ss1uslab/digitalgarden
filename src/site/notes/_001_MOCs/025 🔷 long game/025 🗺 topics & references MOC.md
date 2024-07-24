@@ -193,7 +193,7 @@ level of depth:
 🌱 [[facilitation\|facilitation]] tools
 	🔥 [[projects & tools/tools/fourgames card deck\|fourgames card deck]]
 	🔥 [[inventário amuta\|inventário amuta]]
-	💩 [[initiatives, orgs & communities/music/música do círculo\|música do círculo]]
+	💩 [[practices/música do círculo\|música do círculo]]
 	💩 [[initiatives, orgs & communities/athlete/playfight\|playfight]]
 🌱 [[resource allocation\|resource allocation]] tools
 	🔥 [[models & frameworks/fluxonomy 4d\|fluxonomy 4d]]

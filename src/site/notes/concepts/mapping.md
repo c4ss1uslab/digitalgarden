@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/mapping/","tags":["🌿","concept","mapping"],"created":"2022-04-19T15:34:21.040-03:00","updated":"2024-07-18T18:43:36.301-03:00"}
+{"dg-publish":true,"permalink":"/concepts/mapping/","tags":["🌿","concept","mapping"],"created":"2022-04-19T15:34:21.040-03:00","updated":"2024-07-23T02:42:49.077-03:00"}
 ---
 
 ## 1) definitions & types of maps
@@ -181,7 +181,7 @@ great compilation of nearly all ecosystem mapping efforts: https://secondrenaiss
 to understand the usefulness of these initiatives, look at how they're mapping: [[value systems\|value systems]], [[belief systems\|belief systems]], [[worldviews\|worldviews]], [[theories of change\|theories of change]] and [[systemic challenges\|systemic challenges]] in coordinating these perspectives for navigating the [*extremely complex historical moment*](https://drive.google.com/file/d/1gmASP2v696diI9XVrWRkHOxUtCoxDkbN/view?pli=1) we're living.
 
 ---
-#### d) "maps" of the [[cozy web\|cozy web]]/[[indie web\|indie web]]:
+#### d) "maps" of the [[cozy web\|cozy web]]/[[indie web\|indie web]]/[[slow web\|slow web]]:
 
 introduction to the concept/space and illustration made by [[people/references/maggie appleton\|maggie appleton]]:
  
@@ -270,7 +270,7 @@ other relevant approaches:
 - [[projects & tools/tools/melon\|melon]]
 - [[initiatives, orgs & communities/architect;design/golden\|golden]]
 - [[projects & tools/tools/weco\|weco]]
-- [[tbprocessed/base notes/ventures - general/hylo\|hylo]]
+- [[projects & tools/tools/hylo\|hylo]]
 - [[initiatives, orgs & communities/lab/neighbourhoods\|neighbourhoods]]
 
 ###### other orgs building tools:
