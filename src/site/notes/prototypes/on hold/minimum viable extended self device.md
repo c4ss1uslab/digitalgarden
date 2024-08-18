@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/prototypes/on hold/minimum viable extended self device/","tags":["prototype","onhold","🌿"],"created":"2024-02-15T15:09:27.156-03:00","updated":"2024-07-19T23:38:45.349-03:00"}
+{"dg-publish":true,"permalink":"/prototypes/on-hold/minimum-viable-extended-self-device/","tags":["prototype","onhold","🌿"],"created":"2024-02-15T15:09:27.156-03:00","updated":"2024-07-19T23:38:45.349-03:00"}
 ---
 
 [[type\|type]]: [[areas/life areas (internal)/physical\|physical]] / [[digital\|digital]] [[objects\|objects]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/lab/mapping tools/","tags":["mapping","🌿","lab","design","database"],"created":"2024-06-05T16:01:40.538-03:00","updated":"2024-07-17T22:27:52.135-03:00"}
+{"dg-publish":true,"permalink":"/references/lab/mapping-tools/","tags":["mapping","🌿","lab","design","database"],"created":"2024-06-05T16:01:40.538-03:00","updated":"2024-07-17T22:27:52.135-03:00"}
 ---
 
 ###### tier 1:

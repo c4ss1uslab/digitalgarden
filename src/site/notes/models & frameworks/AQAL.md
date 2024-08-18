@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/models & frameworks/AQAL/","tags":["framework","integraltheory","🌿"],"created":"2024-03-10T15:35:51.504-03:00","updated":"2024-07-23T01:39:14.797-03:00"}
+{"dg-publish":true,"permalink":"/models-and-frameworks/aqal/","tags":["framework","integraltheory","🌿"],"created":"2024-03-10T15:35:51.504-03:00","updated":"2024-07-23T01:39:14.797-03:00"}
 ---
 
 AQAL is short for: all [[models & frameworks/four quadrants\|quadrants]], all [[levels\|levels]], all [[lines\|lines]], all [[states\|states]], all [[types\|types]].
 
 it's one of the core frameworks proposed by [[people/references/ken wilber\|ken wilber]], it integrates multiple other frameworks into a single one that encapsulates most of [[concepts/integral theory\|integral theory]].
 
-it's one of the frames that helped me the most and reoriented my whole perception on life, so i highly recommend getting to know it. lots of people in the [[tbprocessed/base notes/concepts - general/game b\|game b]] / [[concepts/metacrisis\|metacrisis]] space also use it as a way to support complex, multi-perspectival, holistic [[tbprocessed/base notes/concepts - general/sensemaking\|sensemaking]].
+it's one of the frames that helped me the most and reoriented my whole perception on life, so i highly recommend getting to know it. lots of people in the [[tbprocessed/base notes/concepts - general/game b\|game b]] / [[concepts/metacrisis\|metacrisis]] space also use it as a way to support complex, multi-perspectival, holistic [[topics/alchemy/sensemaking\|sensemaking]].
 { #b18ecf}
 
 

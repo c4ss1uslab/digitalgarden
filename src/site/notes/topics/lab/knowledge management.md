@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/topics/lab/knowledge management/","tags":["🌿","topic","knowledgemanagement"],"created":"2021-12-11T16:51:55.968-03:00","updated":"2024-07-19T22:02:20.295-03:00"}
+{"dg-publish":true,"permalink":"/topics/lab/knowledge-management/","tags":["🌿","topic","knowledgemanagement"],"created":"2021-12-11T16:51:55.968-03:00","updated":"2024-08-18T15:24:32.450-03:00"}
 ---
 
-###### assumed audience
-if you're new to this, keep reading for a list of introductory resources. i also strongly suggest you read: [[_006_core notes/why knowledge management matters (and goes way beyond what most PKM is about today)\|why knowledge management matters (and goes way beyond what most PKM is about today)]].
-
-if you're already familiar with the field, i recommend you check out my posts: [[core essays/💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons\|💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons]], [[_004_L1F3/l1f3 management methodology\|L1F3 management framework]] and [[prototypes/on hold/knowledge management system\|knowledge management system]] to have a comprehensive view on my learnings and the approach/design/prototypes i've been developing.
+> [!info]- assumed audience
+> > if you're new to this subject, keep reading for a list of introductory resources. i also strongly suggest you read: [[_006_core notes/why knowledge management matters (and goes way beyond what most PKM is about today)\|why knowledge management matters (and goes way beyond what most PKM is about today)]].
+> > 
+> > if you're already familiar with the field, i recommend you check out my posts: [[core essays/💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons\|💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons]], [[_004_L1F3/l1f3 management methodology\|L1F3 management framework]] and [[prototypes/on hold/knowledge management system\|knowledge management system]] to have a comprehensive view on my learnings and the approach/design/prototypes i've been developing.
 
 ##### about
 
@@ -39,7 +39,7 @@ main tools:
 \+ 75 tools from my twitter list: https://twitter.com/i/lists/1401589596635402250
 
 related terms/concepts: [[information ecology\|information ecology]], [[topics/architect;design/tools for thought\|tools for thought]], [[topics/lab/artificial intelligence\|AI]], [[file management\|file management]], [[bookmarks\|bookmarks]]
-[[workflows\|workflows]], [[processes\|processes]], [[frameworks\|frameworks]], [[models & frameworks/C.O.D.E\|C.O.D.E]], [[_004_L1F3/l1f3 management methodology\|L1F3 management framework]].
+[[workflows\|workflows]], [[processes\|processes]], [[frameworks\|frameworks]], [[BASB\|BASB]], [[models & frameworks/PPV\|PPV]], [[models & frameworks/C.O.D.E\|C.O.D.E]], [[models & frameworks/PARA\|PARA]], [[_004_L1F3/l1f3 management methodology\|L1F3 management framework]].
 --> [[relevance realization\|relevance realization]] | [[models & frameworks/OODA loop\|OODA loop]] | [[models & frameworks/DIKW pyramid\|DIKW pyramid]]...
 
 my related projects:
@@ -53,13 +53,13 @@ collapse: open
 the contents of the writing below are currently haphazard, disjointed and all over the place. please proceed at your own risk. (*or don't.* feel free to come back later when it'll be hopefully updated and improved.)
 ```
 
-much like [[tbprocessed/base notes/people/alexander obenauer\|alexander obenauer]] with the [[_006_core notes/personal OS design\|future of operating systems]], [[people/references/gordon brander\|gordon brander]] with [[concepts/protocols for thought\|protocols for thought]], [[people/references/samuel timbó\|samuel timbó]] with [[the future of computing\|the future of computing]], or [[people/references/hanzi freinacht\|hanzi freinacht]] with the future of [[metamodern politics\|metamodern politics]], i have a vision for the future of information and knowledge management.
+much like [[people/references/alexander obenauer\|alexander obenauer]] with the [[_006_core notes/personal OS design\|future of operating systems]], [[people/references/gordon brander\|gordon brander]] with [[concepts/protocols for thought\|protocols for thought]], [[people/references/samuel timbó\|samuel timbó]] with [[topics/lab/the future of computing\|the future of computing]], or [[people/references/hanzi freinacht\|hanzi freinacht]] with the future of [[politics\|politics]], i have a vision for the future of information and knowledge management.
 
-it includes an [[ontology\|ontology]] - the [[_004_L1F3/l1f3 management methodology\|L1F3 management framework]], its application in a [[system\|system]] - [[_004_L1F3/l1f3 management system\|L1F3 management system]], and its decentralization as part of a [[protocol\|protocol]] - [[_004_L1F3/l1f3 protocol\|L1F3 protocol]].
+it includes an [[ontology\|ontology]] - the [[_004_L1F3/l1f3 management methodology\|L1F3 management framework]], its application in a [[system\|system]] - the [[_004_L1F3/l1f3 management system\|L1F3 management system]], and its decentralization as part of a [[protocol\|protocol]] - the [[_004_L1F3/l1f3 protocol\|L1F3 protocol]].
 
 head over there to learn about the framework in detail. now, if you wanna know more about where it came from, keep reading.
 
-its origins date back to my first epiphany about life, when i was 15 years old. i was trying to figure out what to do with my life, i discovered a few simple yet profound [[heuristics\|heuristics]] that served as life-changing realizations about myself and life itself, such as - [[inquiries & heuristics/heuristics/life is action\|life is action]], [[inquiries & heuristics/heuristics/life as your most important project\|my life is my biggest project]], [[the best way to predict the future is to create it\|the best way to predict the future is to create it]], i operate in reality through an [[models & frameworks/OODA loop\|OODA loop]], [[inquiries & heuristics/heuristics/i can design myself and my life\|i can design myself and my life]] and [[inquiries & heuristics/heuristics/life is a metagame\|life is a metagame]].
+its origins date back to my first epiphany about life, when i was 15 years old. i was trying to figure out what to do with my life, i discovered a few simple yet profound [[heuristics\|heuristics]] that served as life-changing realizations about myself and life itself, such as - [[inquiries & heuristics/heuristics/life is action\|life is action]], [[inquiries & heuristics/heuristics/life as your most important project\|my life is my biggest project]], [[inquiries & heuristics/heuristics/the best way to predict the future is to create it\|the best way to predict the future is to create it]], i operate in reality through an [[models & frameworks/OODA loop\|OODA loop]], [[inquiries & heuristics/heuristics/i can design myself and my life\|i can design myself and my life]] and [[inquiries & heuristics/heuristics/life is a metagame\|life is a metagame]].
 
 this was 2014. i was a teenager interested in the [[future of society\|future of society]], [[education\|education]], [[topics/architect;design/technology\|technology]], [[topics/player/anime\|anime]] and [[games\|games]] that had just been accepted to a technical high school, so i'd graduate with an associate degree in "[[quality management\|quality management]]". i picked this course because it was the broadest of all available.
 

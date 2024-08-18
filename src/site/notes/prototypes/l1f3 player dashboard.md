@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/prototypes/l1f3 player dashboard/","tags":["🌿","prototype","l1f3","lab","spatialnavigation","quantifiedself","selfmanagement","design","player"],"created":"2024-03-19T14:21:06.710-03:00","updated":"2024-07-20T18:24:43.738-03:00"}
+{"dg-publish":true,"permalink":"/prototypes/l1f3-player-dashboard/","tags":["🌿","prototype","l1f3","lab","spatialnavigation","quantifiedself","selfmanagement","design","player"],"created":"2024-03-19T14:21:06.710-03:00","updated":"2024-07-20T18:24:43.738-03:00"}
 ---
 
 inspired by the [[integral dashboard.jpeg|integral dashboard]], [[RPG\|RPG]]s, [[references/player/anime ; manga ; webtoon/sword art online\|sword art online]]/[[references/player/anime ; manga ; webtoon/solo leveling\|solo leveling]]'s simple [[images/gaming & anime references/solo leveling UIs\|UIs]], and [[topics/player/game interfaces\|game interfaces]] in general, i've been experimenting with creating a dashboard for [[concepts/self-management\|self-management]] for a long time.
@@ -45,7 +45,7 @@ i started visually sketching it on figma as well, as you can see below.
 
 today, it's more possible to make this "navigation dashboard" within obsidian itself (it has the canvas function and the excalidraw plugin), but they're still not intended for that (multiple cache/loading/GPU usage/UI/data management problems).
 
-in a few years when [soft.space](https://soft.space) is more advanced, it may be better to continue building this there. [[fermat.ws\|fermat.ws]], [[kosmik\|kosmik]] and a few other [[spatial tools for thought\|spatial tools for thought]] also seem like viable alternatives. maybe creating something custom in a [[game engine\|game engine]], or building on top of something like [[projects & tools/tools/rvbbit\|rvbbit]] or [[udara jay\|udara jay]]'s [stats](https://github.com/UdaraJay/Stats).
+in a few years when [soft.space](https://soft.space) is more advanced, it may be better to continue building this there. [[fermat.ws\|fermat.ws]], [[kosmik\|kosmik]] and a few other [[spatial tools for thought\|spatial tools for thought]] also seem like viable alternatives. maybe creating something custom in a [[game engine\|game engine]], or building on top of something like [[projects & tools/tools/rvbbit\|rvbbit]] or [[people/references/udara jay\|udara jay]]'s [stats](https://github.com/UdaraJay/Stats).
 
 ##### references
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/models & frameworks/fourgames/","tags":["framework","player","🌿"],"created":"2023-11-13T16:13:43.432-03:00","updated":"2024-06-17T20:46:48.542-03:00"}
+{"dg-publish":true,"permalink":"/models-and-frameworks/fourgames/","tags":["framework","player","🌿"],"created":"2023-11-13T16:13:43.432-03:00","updated":"2024-06-17T20:46:48.542-03:00"}
 ---
 
 ##### intro

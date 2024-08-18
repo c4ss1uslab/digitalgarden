@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/_004_L1F3/l1f3 player system/","tags":["project","🌱","l1f3"],"created":"2022-02-11T11:29:00.000-03:00","updated":"2024-06-22T21:03:19.659-03:00"}
+{"dg-publish":true,"permalink":"/004-l1-f3/l1f3-player-system/","tags":["project","🌱","l1f3"],"created":"2022-02-11T11:29:00.000-03:00","updated":"2024-08-02T15:04:38.652-03:00"}
 ---
 
 
 #project
 main archetype: [[_002_toolkit/classes/hacker\|👨🏻‍💻 hacker]]
-keywords: [[user interface 1\|user interface 1]], [[user experience 1\|user experience 1]], [[topics/lab/AI assistant\|AI assistant]], [[topics/lab/algorithms\|algorithms]], [[visualizations\|visualizations]], [[concepts/dashboards\|dashboards]], [[experience design\|experience design]]
+keywords: [[topics/lab/interfaces MOC\|user interface]], [[topics/lab/user experience\|user experience]], [[topics/lab/AI assistant\|AI assistant]], [[topics/lab/algorithms\|algorithms]], [[visualizations\|visualizations]], [[concepts/dashboards\|dashboards]], [[experience design\|experience design]]
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core essays/🌀 the role and potential of curation, community & lo-fi;ambient content amidst accelerating attention & experience economies/","created":"2023-12-03T15:03:17.203-03:00","updated":"2024-07-23T02:43:56.733-03:00"}
+{"dg-publish":true,"permalink":"/core-essays/the-role-and-potential-of-curation-community-and-lo-fi-ambient-content-amidst-accelerating-attention-and-experience-economies/","created":"2023-12-03T15:03:17.203-03:00","updated":"2024-07-23T02:43:56.733-03:00"}
 ---
 
 ```ad-warning

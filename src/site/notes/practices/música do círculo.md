@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/practices/música do círculo/","tags":["music","play","🌿","host","practice"],"created":"2023-05-31T16:42:16.760-03:00","updated":"2024-07-24T01:14:15.790-03:00"}
+{"dg-publish":true,"permalink":"/practices/musica-do-circulo/","tags":["music","play","🌿","host","practice"],"created":"2023-05-31T16:42:16.760-03:00","updated":"2024-07-24T01:14:15.790-03:00"}
 ---
 
 https://musicadocirculo.com/

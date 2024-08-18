@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/_001_MOCs/025 🔷 long game/025 🗺 topics & references MOC/","tags":["🌿"],"created":"2021-12-11T16:52:03.339-03:00","updated":"2024-07-19T22:07:46.271-03:00"}
+{"dg-publish":true,"permalink":"/001-mo-cs/025-long-game/025-topics-and-references-moc/","tags":["🌿"],"created":"2021-12-11T16:52:03.339-03:00","updated":"2024-07-19T22:07:46.271-03:00"}
 ---
 
 ###### captions
@@ -61,14 +61,14 @@ level of depth:
 	📂 [[meta-research consolidation resource\|meta-research consolidation resource]]
 🌲 [[tbprocessed/base notes/concepts - general/curation\|curation]]
 	🔥 [[initiatives, orgs & communities/architect;design/sublime (ex-startupy)\|sublime (ex-startupy)]]
-🌲 [[tbprocessed/base notes/concepts - general/sensemaking\|sensemaking]]
+🌲 [[topics/alchemy/sensemaking\|sensemaking]]
 	📂 [favorite sensemaking videos playlist](https://www.youtube.com/playlist?list=PLj8H7uBaUwDvd18QrEPugPMD5Z6Y0W-vB)
 🌿 [[concepts/life streaming\|life streaming]]
 	🧰 [[_004_L1F3/l1f3 streaming system\|life streaming system]]
 🌿 [[concepts/life intelligence\|life intelligence]]
 	🧪 [[3rd brain workflow\|3rd brain workflow]]
 ##### 🌐 [[topics/architect;design/systems\|systems]]
-🌲 [[meta-systems\|meta-systems]] for [[tbprocessed/base notes/concepts - general/sensemaking\|sensemaking]], [[topics/player/play\|play]], [[concepts/coordination\|coordination]] & [[terms/collaboration\|collaboration]]
+🌲 [[meta-systems\|meta-systems]] for [[topics/alchemy/sensemaking\|sensemaking]], [[topics/player/play\|play]], [[concepts/coordination\|coordination]] & [[terms/collaboration\|collaboration]]
 🌲 [[concepts/civilization design\|civilization design]]
 	[[concepts/network state\|network states]]
 	[[smart cities\|smart cities]] / [[smart villages\|smart villages]]
@@ -232,7 +232,7 @@ level of depth:
 
 🌿 [[AI prototypes\|AI prototypes]]
 	🧪 [[topics/lab/AI assistant\|AI assistant]]
-	💡 [[personal algorithms design\|personal algorithms design]]
+	💡 [[topics/architect;design/personal algorithms design\|personal algorithms design]]
 	💡 [[topics/lab/AI agents\|AI agents]]
 		💡 [[research agent\|research agent]]
 		💡 [[sensemaking partner\|sensemaking partner]]
@@ -271,7 +271,7 @@ wisdom
 practice
 
 - clarity & preparation
-	- [[tbprocessed/base notes/concepts - general/sensemaking\|sensemaking]]
+	- [[topics/alchemy/sensemaking\|sensemaking]]
 	- [[meta-systemic design\|meta-systemic design]]
 		- [[design methodologies\|design methodologies]]
 			- [[concepts/regenerative design\|regenerative design]]
@@ -359,5 +359,5 @@ the future of:
 - [[DAO-DHO evolution\|DAO-DHO evolution]] + [[topics/player/gamification\|gamification]]
 - [[information ecology\|information ecology]]
 	- [[concepts/mapping\|mapping]]
-	- [[tbprocessed/base notes/concepts - general/sensemaking\|sensemaking]]
+	- [[topics/alchemy/sensemaking\|sensemaking]]
 - [[terms/metaverse\|metaverse]] / [[NFTs\|NFTs]] / [[social token experiments\|social token experiments]]

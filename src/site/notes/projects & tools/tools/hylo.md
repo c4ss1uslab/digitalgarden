@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects & tools/tools/hylo/","tags":["tool","socialsensemaking","holochain","🌿"],"created":"2021-12-11T16:51:56.442-03:00","updated":"2024-07-23T02:23:15.811-03:00"}
+{"dg-publish":true,"permalink":"/projects-and-tools/tools/hylo/","tags":["tool","socialsensemaking","holochain","🌿"],"created":"2021-12-11T16:51:56.442-03:00","updated":"2024-07-23T02:23:15.811-03:00"}
 ---
 
 https://hylo.com/

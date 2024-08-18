@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/_004_L1F3/L1F3 game/","tags":["l1f3","project","🌿","game","seriousgame"],"created":"2022-02-05T11:41:05.535-03:00","updated":"2024-07-23T02:38:45.134-03:00"}
+{"dg-publish":true,"permalink":"/004-l1-f3/l1-f3-game/","tags":["l1f3","project","🌿","game","seriousgame"],"created":"2022-02-05T11:41:05.535-03:00","updated":"2024-08-18T14:08:55.346-03:00"}
 ---
 
 the L1F3 game is an ongoing endeavor to:
 
-> transform life into a real-world massive multiplayer online-and-offline collaborative self-transformation & civilization-building game.
+> transform life into a real-world massive multiplayer online-and-offline collaborative self-transformation & regenerative civilization-building game.
 { #cff951}
 
 
@@ -24,7 +24,7 @@ ancient [[topics/alchemy/spiritual lineages\|wisdom traditions]] also do so by s
 
 [[topics/alchemy/indigenous wisdom\|indigenous wisdom]] might state that life is about [[topics/player/learning\|learning]], [[terms/creation\|creating]], [[concepts/healing\|healing]], [[sharing\|sharing]], [[topics/player/play\|playing]]. and meta-theorists such as [[people/references/ken wilber\|ken wilber]] encapsulate it as [[concepts/waking up\|concepts/waking up]], [[concepts/growing up\|growing up]], [[concepts/cleaning up\|cleaning up]], [[concepts/showing up\|showing up]], [[concepts/opening up\|opening up]]. 
 
-[[cyberneticians\|cyberneticians]] might use the [[models & frameworks/OODA loop\|OODA loop]] often, using the [[sensing\|sensing]], [[tbprocessed/base notes/concepts - general/sensemaking\|sensemaking]], [[terms/decision-making\|decision-making]], [[terms/action\|action]], [[topics/player/learning\|learning]] loops to study the [[patterns of living systems\|patterns of living systems]] and do [[complexity-informed design\|complexity-informed design]].
+[[cyberneticians\|cyberneticians]] might use the [[models & frameworks/OODA loop\|OODA loop]] often, using the [[sensing\|sensing]], [[topics/alchemy/sensemaking\|sensemaking]], [[terms/decision-making\|decision-making]], [[terms/action\|action]], [[topics/player/learning\|learning]] loops to study the [[patterns of living systems\|patterns of living systems]] and do [[complexity-informed design\|complexity-informed design]].
 
 [[regenerative designers\|regenerative designers]] (ana), [[cognitive scientists\|cognitive scientists]] -> [[relevance realization\|relevance realization]] and [[reciprocal narrowing\|reciprocal narrowing]]...
 
@@ -73,7 +73,7 @@ source: [[tbprocessed/base notes/people/peth\|peth]], [[concepts/metacrisis\|met
 source: [[initiatives, orgs & communities/alchemy/possibility management\|possibility management]]
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/projects-and-tools/projects/startover-xyz/#0a9eaf" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -236,7 +236,7 @@ in short, the level of responsibility. in most [[topics/player/gamification\|gam
 
 in real life, everyone is co-creating reality. [[_004_L1F3/L1F3 game\|L1F3 game]] isn't some product you buy and use, it's something you co-create by participating. you are at the same time the [[designer\|designer]] and the [[player\|player]] of your own life (and its games).
 
-there's a huge difference in the mindset, and therefore, in how we act, play, and experience reality itself. if we recognize that life is a [[tbprocessed/base notes/ventures - general/meta-game\|meta-game]], and opt for co-designing it, we have way more [[sovereignty\|sovereignty]] and [[concepts/agency\|agency]].
+there's a huge difference in the mindset, and therefore, in how we act, play, and experience reality itself. if we recognize that life is a [[tbprocessed/base notes/ventures - general/meta-game\|meta-game]], and opt for co-designing it, we have way more [[concepts/sovereignty\|sovereignty]] and [[concepts/agency\|agency]].
 
 that's the proposal of the [[_004_L1F3/L1F3 game\|L1F3 game]], as well as other [[serious life games\|serious life games]].
 

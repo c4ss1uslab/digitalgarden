@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/prototypes/omnichannel curation feed/","tags":["prototype","🌱","design","sensemaking","datamanagement","visualization"],"created":"2022-03-11T13:33:32.936-03:00","updated":"2024-07-24T04:45:04.549-03:00"}
+{"dg-publish":true,"permalink":"/prototypes/omnichannel-curation-feed/","tags":["prototype","🌱","design","sensemaking","datamanagement","visualization"],"created":"2022-03-11T13:33:32.936-03:00","updated":"2024-07-27T14:49:55.203-03:00"}
 ---
 
 one of the main prototypes of the [[_004_L1F3/l1f3 streaming system\|l1f3 streaming system]].
@@ -37,6 +37,8 @@ major ref: [[projects & tools/projects/tweetscape\|tweetscape]]
 
 other references:
 https://gather.directory/ - june/2024
+cultural pages: https://www.instagram.com/smculturasp, são paulo secreto, etc
+public websites / digital state/city portals: https://www.capital.sp.gov.br/ / https://sampamaisrural.prefeitura.sp.gov.br/
 
 underutilized potential: [[RSS feed\|RSS feed]]
 
@@ -44,3 +46,4 @@ views by:
 [[format\|format]] / [[channels\|channels]]
 [[sources\|sources]] / [[_001_MOCs/references MOC\|references MOC]]
 [[topics\|topics]] / [[keywords\|keywords]]
+

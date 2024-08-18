@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/_004_L1F3/l1f3 management system/","tags":["project","🌿","l1f3"],"created":"2021-12-11T16:52:05.970-03:00","updated":"2024-07-24T04:38:17.430-03:00"}
+{"dg-publish":true,"permalink":"/004-l1-f3/l1f3-management-system/","tags":["project","🌿","l1f3"],"created":"2021-12-11T16:52:05.970-03:00","updated":"2024-07-24T04:38:17.430-03:00"}
 ---
 
 main archetype: [[_002_toolkit/classes/architect\|🕶 architect]]
@@ -19,7 +19,7 @@ github - project categories:
 
 #### main components:
 
-[[perception\|perception]] ([[topics/lab/data management\|data management]]/[[topics/lab/information management\|information management]]) / [[tbprocessed/base notes/concepts - general/sensemaking\|sensemaking]] ([[topics/lab/knowledge management\|knowledge management]] - [[_001_MOCs/050 🟩 mid game/040 🤹🏻‍♂️ areas MOC\|responsibilities]], [[_002_toolkit/x+ 🎭 roles LPS\|roles]], [[_001_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|challenges]], etc) / [[terms/decision-making\|decision-making]] ([[decision management\|decision management]]) / [[terms/action\|action]]/[[topics/player/learning\|learning]] ([[task management\|task management]] / [[time management\|time management]] / [[energy management\|energy management]] / [[tbprocessed/base notes/topics/learning management\|learning management]]) / [[feedback\|feedback]]/[[results\|results]] ([[wisdom management\|wisdom management]] / [[values management\|values management]] / [[concepts/self-management\|self-management]])
+[[perception\|perception]] ([[topics/lab/data management\|data management]]/[[topics/lab/information management\|information management]]) / [[topics/alchemy/sensemaking\|sensemaking]] ([[topics/lab/knowledge management\|knowledge management]] - [[_001_MOCs/050 🟩 mid game/040 🤹🏻‍♂️ areas MOC\|responsibilities]], [[_002_toolkit/x+ 🎭 roles LPS\|roles]], [[_001_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|challenges]], etc) / [[terms/decision-making\|decision-making]] ([[decision management\|decision management]]) / [[terms/action\|action]]/[[topics/player/learning\|learning]] ([[task management\|task management]] / [[time management\|time management]] / [[energy management\|energy management]] / [[tbprocessed/base notes/topics/learning management\|learning management]]) / [[feedback\|feedback]]/[[results\|results]] ([[wisdom management\|wisdom management]] / [[values management\|values management]] / [[concepts/self-management\|self-management]])
 
 \+ different [[prototypes/l1f3 management system views\|views]]
 

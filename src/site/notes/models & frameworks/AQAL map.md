@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/models & frameworks/AQAL map/","tags":["framework","map","integraltheory","🌿"],"created":"2022-04-07T14:08:22.352-03:00","updated":"2024-06-20T17:06:10.847-03:00"}
+{"dg-publish":true,"permalink":"/models-and-frameworks/aqal-map/","tags":["framework","map","integraltheory","🌿"],"created":"2022-04-07T14:08:22.352-03:00","updated":"2024-06-20T17:06:10.847-03:00"}
 ---
 
 the AQAL map (below) presents the [[models & frameworks/AQAL\|AQAL framework]] in a single image, though it might be hard to get for beginners.

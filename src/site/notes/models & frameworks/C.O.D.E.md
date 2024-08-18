@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/models & frameworks/C.O.D.E/","tags":["framework"],"created":"2023-12-19T12:15:27.352-03:00","updated":"2024-03-26T15:54:27.030-03:00"}
+{"dg-publish":true,"permalink":"/models-and-frameworks/c-o-d-e/","tags":["framework"],"created":"2023-12-19T12:15:27.352-03:00","updated":"2024-03-26T15:54:27.030-03:00"}
 ---
 
 acronym for [[capture\|capture]], [[organize\|organize]], [[distill\|distill]], [[express\|express]].

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects & tools/projects/world game/","tags":["seriousgame","education","architect","🌿"],"created":"2024-01-19T16:20:09.956-03:00","updated":"2024-06-16T17:03:47.799-03:00"}
+{"dg-publish":true,"permalink":"/projects-and-tools/projects/world-game/","tags":["seriousgame","education","architect","🌿","player"],"created":"2024-01-19T16:20:09.956-03:00","updated":"2024-08-18T14:06:43.223-03:00"}
 ---
 
 the world (peace) game was proposed by [[buckminster fuller\|buckminster fuller]] in the 1960s, aiming to:
@@ -12,7 +12,7 @@ short intros:
 --> https://www.bfi.org/about-fuller/big-ideas/world-game/
 --> https://worldgameworkshop.org/brief-history
 
-it is currently being stewarded by the [[schumacher center for new economics\|schumacher center for new economics]].
+it is currently being stewarded by the [[schumacher center for a new economics\|schumacher center for a new economics]].
 
 ---
 ##### core links:

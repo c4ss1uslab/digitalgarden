@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/_004_L1F3/l1f3 protocol/","tags":["project","🌱","l1f3"],"created":"2024-03-08T16:43:32.601-03:00","updated":"2024-06-14T18:51:16.567-03:00"}
+{"dg-publish":true,"permalink":"/004-l1-f3/l1f3-protocol/","tags":["project","🌱","l1f3"],"created":"2024-03-08T16:43:32.601-03:00","updated":"2024-06-14T18:51:16.567-03:00"}
 ---
 
 the L1F3 protocol is an early-stage open-source, distributed, modular, interoperable protocol for playing life - individually and together.

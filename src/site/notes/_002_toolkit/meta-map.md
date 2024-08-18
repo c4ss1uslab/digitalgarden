@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/_002_toolkit/meta-map/","tags":["design","🌿","research","knowledgedesign","informationdesign","experiment"],"created":"2022-01-03T19:16:10.550-03:00","updated":"2024-07-24T04:44:29.287-03:00"}
+{"dg-publish":true,"permalink":"/002-toolkit/meta-map/","tags":["design","🌿","research","knowledgedesign","informationdesign","experiment"],"created":"2022-01-03T19:16:10.550-03:00","updated":"2024-07-24T04:44:29.287-03:00"}
 ---
 
 an extensive list / experimental form of intuitive clustering of all major themes/domains and references i'm working with.
@@ -78,7 +78,7 @@ multidimensional resources management
 
 [[concepts/mapping\|mapping]]
 
-[[tbprocessed/base notes/concepts - general/sensemaking\|sensemaking]]
+[[topics/alchemy/sensemaking\|sensemaking]]
 
 [[augmenting your OODA loop\|augmenting your OODA loop]]
 
@@ -120,7 +120,7 @@ multidimensional resources management
 
 [[concepts/gameworld building\|gameworld building]]
 
-[[design foundations/design philosophy\|design philosophy]]
+[[_006_core notes/design philosophy\|design philosophy]]
 
 [[aesthetics\|aesthetics]]
 
@@ -174,7 +174,7 @@ multidimensional resources management
 [[meta-mind\|meta-mind]]
 
 [[concepts/agency\|agency]]
-[[sovereignty\|sovereignty]]
+[[concepts/sovereignty\|sovereignty]]
 
 [[ownership\|ownership]]
 [[customization\|customization]]
@@ -399,7 +399,7 @@ multidimensional resources management
 [[relevanters\|relevanters]]
 [[interesting people\|interesting people]]
 
-[[tbprocessed/base notes/concepts - general/sensemaking\|sensemaking]]
+[[topics/alchemy/sensemaking\|sensemaking]]
 [[mental sovereignty\|mental sovereignty]]
 [[intentional digital navigation\|intentional digital navigation]]
 
@@ -612,7 +612,7 @@ multidimensional resources management
 [[prototypes/on hold/resources management system\|resources management system]]
 
 [[sensing\|sensing]]
-[[tbprocessed/base notes/concepts - general/sensemaking\|sensemaking]]
+[[topics/alchemy/sensemaking\|sensemaking]]
 [[terms/decision-making\|decision-making]]
 [[terms/action\|action]]
 [[results\|results]]

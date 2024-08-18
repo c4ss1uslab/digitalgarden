@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/_004_L1F3/l1f3 streaming system/","tags":["project","🌱","l1f3"],"created":"2022-02-05T11:38:47.503-03:00","updated":"2024-07-24T00:29:24.310-03:00"}
+{"dg-publish":true,"permalink":"/004-l1-f3/l1f3-streaming-system/","tags":["project","🌱","l1f3"],"created":"2022-02-05T11:38:47.503-03:00","updated":"2024-07-24T00:29:24.310-03:00"}
 ---
 
 main archetypes: [[_002_toolkit/classes/artist\|🎨 artist]], [[_005_c4ss1us/c4ss1us.design\|✒ architect]]

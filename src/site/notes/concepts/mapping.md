@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/mapping/","tags":["🌿","concept","mapping"],"created":"2022-04-19T15:34:21.040-03:00","updated":"2024-07-23T02:42:49.077-03:00"}
+{"dg-publish":true,"permalink":"/concepts/mapping/","tags":["🌿","concept","mapping"],"created":"2022-04-19T15:34:21.040-03:00","updated":"2024-07-27T14:01:34.156-03:00"}
 ---
 
 ## 1) definitions & types of maps
@@ -56,7 +56,7 @@ idea mazes / field maps are also on the format side, but regardless of their cre
 
 #### 3) [[nadia asparouhova\|nadia asparouhova]]'s classification at [[tbprocessed/base notes/ventures - general/the stoa\|the stoa]]:
 
-source: https://www.youtube.com/watch?v=jvAyJImbEeA
+source: https://nadia.xyz/mapping-digital-worlds / https://www.youtube.com/watch?v=jvAyJImbEeA
 
 i honestly don't recommend going through the whole thing, unless you have time to spare, as i believe the summary below captures the essence pretty well.
 
@@ -162,7 +162,7 @@ https://atlas.cid.harvard.edu/ (technically, it's a set of interactive graphs)
 **argument/debate maps**:
 https://www.societylibrary.org/diablo-canyon-debate
 
-**music theory maps**:
+**music genres maps**:
 https://musicmap.info/
 https://everynoise.com/ (technically a graph, but works like a map)
 https://www.music-map.com/
@@ -172,7 +172,7 @@ https://calculatingempires.net/ - a genealogy of technology and power since 1500
 https://www.visualcapitalist.com/histomap/ - visualizing the 4,000-year history of global power
 
 ---
-#### c) "maps" of the [[concepts/metacrisis\|metacrisis]] / [[tbprocessed/base notes/concepts - general/sensemaking\|sensemaking]] / [[tbprocessed/base notes/concepts - general/game b\|game b]] space:
+#### c) "maps" of the [[concepts/metacrisis\|metacrisis]] / [[topics/alchemy/sensemaking\|sensemaking]] / [[tbprocessed/base notes/concepts - general/game b\|game b]] space:
 
 an introduction to the subject/space: https://secondrenaissance.net/intro
 

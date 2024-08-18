@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/people/references/bret victor/","tags":["interfacedesign","experiencedesign","lab","person","tier1","visuallearning","spatialsoftware","interactiondesign","🌱"],"created":"2024-05-29T14:27:52.255-03:00","updated":"2024-07-23T01:07:41.828-03:00"}
+{"dg-publish":true,"permalink":"/people/references/bret-victor/","tags":["interfacedesign","experiencedesign","lab","person","tier1","visuallearning","spatialsoftware","interactiondesign","🌱"],"created":"2024-05-29T14:27:52.255-03:00","updated":"2024-07-23T01:07:41.828-03:00"}
 ---
 
 https://worrydream.com/
 
-researcher on the [[the future of computing\|the future of computing]], [[topics/lab/spatial computing\|spatial computing]], [[concepts/embodied cognition\|embodied cognition]] and more. founder of https://dynamicland.org/.
+researcher on the [[topics/lab/the future of computing\|the future of computing]], [[topics/lab/spatial computing\|spatial computing]], [[concepts/embodied cognition\|embodied cognition]] and more. founder of https://dynamicland.org/.
 
 ##### references:
 

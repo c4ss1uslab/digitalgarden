@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/second renaissance/","tags":["🌿","metacrisis"],"created":"2024-05-04T18:20:10.067-03:00","updated":"2024-06-20T16:33:29.258-03:00"}
+{"dg-publish":true,"permalink":"/concepts/second-renaissance/","tags":["🌿","metacrisis"],"created":"2024-05-04T18:20:10.067-03:00","updated":"2024-07-25T00:35:11.687-03:00"}
 ---
 
-very interesting framing proposed by [[initiatives, orgs & communities/architect;design/life itself\|life itself]] on the civilization era we're living.
+very interesting framing proposed by [[initiatives, orgs & communities/architect;design/life itself\|life itself]] for understanding/navigating the civilization era we're living.
 
 https://secondrenaissance.net/
 
-lots of good resources there, especially for introducing people into this mode of thinking about our current age - its beauties, failures, challenges & potentials.
+lots of good resources there, especially for introducing people into a more wholistic/critical/actionable way of thinking about our current age - its beauties, failures, challenges & potentials.
 
 ##### why is this relevant and why now?
 
@@ -39,24 +39,24 @@ it deeply resonates. a renaissance full of meaning, flourishing, revival, regene
 
 hopefully we're able to mature quickly and powerfully enough to facilitate this transition gracefully.
 
-*why i'm a bit worried:*
+*why i'm a somewhat worried:*
 
-if we look at the actual hard data, underlying systems of our civilizations, the major drivers of the [[concepts/metacrisis\|metacrisis]] are the basis of our modern society - and its underlying dynamics of [[exponentialization of existential and catastrophic risks\|exponentialization of existential and catastrophic risks]] and [[topics/architect;design/systems\|systems]]/[[behaviors\|behaviors]] that are increasingly exploitative, wealth-concentrating and [[debasing our ecological substrate\|debasing our ecological substrate]].
+if we look at the actual hard data and the systems at the base of our modern civilizations, the major drivers of the [[concepts/metacrisis\|metacrisis]] are there  underlying dynamics of [[exponentialization of existential and catastrophic risks\|exponentialization of existential and catastrophic risks]] and [[topics/architect;design/systems\|systems]]/[[behaviors\|behaviors]] that are increasingly exploitative, wealth-concentrating and [[debasing our ecological substrate\|debasing our ecological substrate]].
 
 without any major civilizational-level changes, the trajectory we're headed towards is a collapse (and of the ugly kind), or more hopefully, as [[nate hagens\|nate hagens]] states, a [[concepts/the great simplification\|great simplification]].
 
-still, we as a humanity have made major civilization shifts before. my hope/work towards is that we can consciously navigate it this time.
-
+still, we as a humanity have made major civilization shifts before. i work for/hope that we can consciously navigate it this time.
 
 ---
-
 ##### other perspectives:
 
-although it's inspiring to me, to many, especially in the global south, it may feel/seem like an [[eurocentric\|eurocentric]] term. so i'd like to also use other terms such as the [[tbprocessed/base notes/concepts - general/regenerative renaissance\|regenerative renaissance]] and [[tbprocessed/base notes/concepts - general/metamodern renaissance\|metamodern renaissance]]. but the framing of the "second renaissance" really puts into perspective our present-day in historical time and can help us more deeply question the nature/essence of a renaissance, really, so i like that.
+although it's inspiring to me, to many, especially in the global south, the "second renaissance" may feel/seem like an [[eurocentric\|eurocentric]] term. so i'd like to also use other terms such as the [[tbprocessed/base notes/concepts - general/regenerative renaissance\|regenerative renaissance]] and [[tbprocessed/base notes/concepts - general/metamodern renaissance\|metamodern renaissance]]. but the framing of the "second renaissance" really puts into perspective our present-day in historical time and can help us more deeply question what is the nature/essence of a cultural renaissance, so i like that.
 
 
 *other thoughts:*
 
-the first renaissance was an age of retrieval of lost [[knowledge\|knowledge]] & [[wisdom\|wisdom]], a profound questioning that permeated the zeitgeist and produced new expressions of the [[true\|true]], [[good\|good]] and [[beautiful\|beautiful]] (e.g. science, law and art) integrating some ancient wisdom with the tools, discoveries and context of modernity.
+the first renaissance was an age of retrieval of lost [[knowledge\|knowledge]] & [[concepts/wisdom\|wisdom]], a profound questioning that permeated the zeitgeist and produced new expressions of the [[true\|true]], [[good\|good]] and [[beautiful\|beautiful]] (e.g. science, law and art) integrating some ancient wisdom with the tools, discoveries and context of modernity.
 
-the second renaissance is a retrieval not only of lost ([[indigenous knowledge\|indigenous knowledge]]/[[topics/alchemy/indigenous wisdom\|wisdom]]), but also of lost [[concepts/ways of knowing\|ways of knowing]].
+the second renaissance is both an integration of our discoveries across multiple social, exterior and interior sciences, and also a reintegration of [[indigenous knowledge\|indigenous knowledge]], [[topics/alchemy/indigenous wisdom\|wisdom]] and [[concepts/ways of knowing\|ways of knowing]] that were systemically persecuted and erased by modernity.
+
+a new understanding of [[values\|values]] and the [[sacred\|sacred]] has to underpin it.

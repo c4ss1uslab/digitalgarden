@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/initiatives, orgs & communities/alchemy/possibility management/","tags":["🌿","organization","community"],"created":"2022-03-02T16:18:16.740-03:00","updated":"2024-06-22T20:14:57.970-03:00"}
+{"dg-publish":true,"permalink":"/initiatives-orgs-and-communities/alchemy/possibility-management/","tags":["🌿","organization","community"],"created":"2022-03-02T16:18:16.740-03:00","updated":"2024-06-22T20:14:57.970-03:00"}
 ---
 
 http://possibilitymanagement.com

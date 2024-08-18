@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/references/gordon brander/","tags":["person","research","knowledgemanagement","distributedsystems","cybernetics","top3","systemsscience","🌱"],"created":"2024-03-19T16:25:06.818-03:00","updated":"2024-07-23T02:18:14.169-03:00"}
+{"dg-publish":true,"permalink":"/people/references/gordon-brander/","tags":["person","research","knowledgemanagement","distributedsystems","cybernetics","top3","systemsscience","🌱"],"created":"2024-03-19T16:25:06.818-03:00","updated":"2024-08-01T10:34:25.848-03:00"}
 ---
 
 https://gordonbrander.com/, founder of [[initiatives, orgs & communities/lab/subconscious (tool)\|subconscious (tool)]].
@@ -12,6 +12,8 @@ i'm working on compiling my highlights/notes from all of his articles. it'll be 
 
 #### a few favorite articles:
 
+
+https://gordonbrander.com/pattern - interesting page too, for reference
 
 #### my notes/highlights:
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core essays/💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons/","created":"2023-10-31T20:24:29.951-03:00","updated":"2024-07-23T02:40:46.290-03:00"}
+{"dg-publish":true,"permalink":"/core-essays/foundational-concepts-for-developing-regenerative-information-ecologies-and-empowering-knowledge-commons/","created":"2023-10-31T20:24:29.951-03:00","updated":"2024-07-23T02:40:46.290-03:00"}
 ---
 
 draft link: https://medium.com/@cassiuscarvalho/foundational-concepts-for-developing-regenerative-information-ecologies-empowering-knowledge-d427b1dc2cb3
@@ -36,7 +36,7 @@ if you’re interested in further simplifying this and/or transforming into visu
 
 before i jumping into the main subjects of this article  —  [[information ecology\|information ecology]] and [[knowledge commons\|knowledge commons]]  —  i want to share with you a bit about my background, worldview and where i'm oriented towards, so you know some of my biases and where this research is coming from.
 
-hopefully this can support you to do your own [[tbprocessed/base notes/concepts - general/sensemaking\|sensemaking]] on the subjects i'm sharing here.
+hopefully this can support you to do your own [[topics/alchemy/sensemaking\|sensemaking]] on the subjects i'm sharing here.
 
 the missions i’m committed to working towards are:
 
@@ -334,7 +334,7 @@ but this is still an underdeveloped topic, with lots of potential for creation/i
 
 [[tools for self-transformation\|tools for self-transformation]]:
 
-[[tools for collective intelligence\|tools for collective intelligence]] / [[tbprocessed/base notes/concepts - general/sensemaking\|sensemaking]]:
+[[tools for collective intelligence\|tools for collective intelligence]] / [[topics/alchemy/sensemaking\|sensemaking]]:
 [[initiatives, orgs & communities/architect;design/goodly labs\|goodly labs]]' AI prototypes
 [[tbprocessed/base notes/ventures - general/SEEDS\|SEEDS]]' liquid democracy
 [[initiatives, orgs & communities/architect;design/meaning alignment institute\|meaning alignment institute]]

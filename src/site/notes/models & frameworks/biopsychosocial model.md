@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/models & frameworks/biopsychosocial model/","tags":["framework","healing","alchemy","selfmanagement","quantifiedself","🌱"],"created":"2024-07-20T18:05:00.002-03:00","updated":"2024-07-23T01:56:46.662-03:00"}
+{"dg-publish":true,"permalink":"/models-and-frameworks/biopsychosocial-model/","tags":["framework","healing","alchemy","selfmanagement","quantifiedself","🌱"],"created":"2024-07-20T18:05:00.002-03:00","updated":"2024-07-23T01:56:46.662-03:00"}
 ---
 
 #### my usage of the term

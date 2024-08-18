@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/_004_L1F3/l1f3 operating system/","tags":["project","🌱","l1f3"],"created":"2021-12-11T16:51:55.565-03:00","updated":"2024-06-22T20:38:40.639-03:00"}
+{"dg-publish":true,"permalink":"/004-l1-f3/l1f3-operating-system/","tags":["project","🌱","l1f3"],"created":"2021-12-11T16:51:55.565-03:00","updated":"2024-06-22T20:38:40.639-03:00"}
 ---
 
 in the context of the [[models & frameworks/OODA loop\|OODA loop]], this system is mostly about [[observation\|observation]].

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/models & frameworks/wardley mapping/","tags":["knowledgemanagement","🌿","mapping","strategy","framework"],"created":"2023-06-04T20:16:22.963-03:00","updated":"2024-07-17T22:15:10.004-03:00"}
+{"dg-publish":true,"permalink":"/models-and-frameworks/wardley-mapping/","tags":["knowledgemanagement","🌿","mapping","strategy","framework"],"created":"2023-06-04T20:16:22.963-03:00","updated":"2024-07-17T22:15:10.004-03:00"}
 ---
 
 ###### according to wardley mapping, any map contains the following 6 elements:

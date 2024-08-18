@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/models & frameworks/four facets of integral development/","tags":["alchemy","integraltheory","framework","🌿"],"created":"2024-03-19T15:48:43.680-03:00","updated":"2024-07-23T01:49:58.934-03:00"}
+{"dg-publish":true,"permalink":"/models-and-frameworks/four-facets-of-integral-development/","tags":["alchemy","integraltheory","framework","🌿"],"created":"2024-03-19T15:48:43.680-03:00","updated":"2024-07-23T01:49:58.934-03:00"}
 ---
 
 more commonly known as simply: the [[concepts/waking up\|waking up]], [[concepts/growing up\|growing up]], [[concepts/cleaning up\|cleaning up]] and [[concepts/showing up\|showing up]] model. (sometimes also: [[concepts/opening up\|opening up]])

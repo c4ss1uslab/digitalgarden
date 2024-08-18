@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/_002_toolkit/000 ⛓ l1f3 player toolkit/","tags":["prototype","🌿"],"created":"2022-01-28T09:51:51.329-03:00","updated":"2024-07-23T01:36:26.463-03:00"}
+{"dg-publish":true,"permalink":"/002-toolkit/000-l1f3-player-toolkit/","tags":["prototype","🌿"],"created":"2022-01-28T09:51:51.329-03:00","updated":"2024-07-23T01:36:26.463-03:00"}
 ---
 
 #### index

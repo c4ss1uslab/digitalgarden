@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/_004_L1F3/l1f3 management methodology/","tags":["project","🌿","l1f3"],"created":"2022-04-11T16:33:28.838-03:00","updated":"2024-07-19T00:15:40.405-03:00"}
+{"dg-publish":true,"permalink":"/004-l1-f3/l1f3-management-methodology/","tags":["project","🌿","l1f3"],"created":"2022-04-11T16:33:28.838-03:00","updated":"2024-07-19T00:15:40.405-03:00"}
 ---
 
 since 2015, i've been asking myself - is there an "optimal" or "better" way to manage my life? what would that look like?

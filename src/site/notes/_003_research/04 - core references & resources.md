@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/_003_research/04 - core references & resources/","tags":["🌱"],"created":"2022-07-30T21:38:54.771-03:00","updated":"2024-07-23T02:37:23.223-03:00"}
+{"dg-publish":true,"permalink":"/003-research/04-core-references-and-resources/","tags":["🌱"],"created":"2022-07-30T21:38:54.771-03:00","updated":"2024-07-23T02:37:23.223-03:00"}
 ---
 
 ```ad-warning
@@ -162,7 +162,7 @@ content on "how the world works":
 [coldfusion](https://www.youtube.com/c/ColdFusion)
 [how money works](https://www.youtube.com/c/HowMoneyWorks)
 [[wikihow\|wikihow]]
-[[design foundations/design principles\|design principles]] (by ray dalio)
+[[_006_core notes/design principles\|design principles]] (by ray dalio)
 [[initiatives, orgs & communities/host/mundos possíveis\|mundos possíveis]] documentary
 [[dan koe\|dan koe]]'s career philosophical videos
 
@@ -367,7 +367,7 @@ main "theorists":
 
 more obscure/deeper thinkers/developers:
 [[tbprocessed/base notes/people/zsolt viczián\|zsolt viczián]] / [[zsolt's visual personal knowledge management system\|zsolt's visual personal knowledge management system]] - https://www.youtube.com/c/VisualPKM
-[[tbprocessed/base notes/people/alexander obenauer\|alexander obenauer]] - [[future of personal computing\|future of personal computing]] - https://alexanderobenauer.com/labnotes/000
+[[people/references/alexander obenauer\|alexander obenauer]] - [[future of personal computing\|future of personal computing]] - https://alexanderobenauer.com/labnotes/000
 [[infranodus\|infranodus]] - [[AI-augmented cognition\|AI-augmented cognition]] - https://twitter.com/noduslabs
 
 ```ad-info # Admonition type. See below for a list of available types.
@@ -392,7 +392,7 @@ future of:
 [[topics/player/learning\|learning]]
 [[terms/work\|work]] ([[terms/action\|action]])
 [[communities\|communities]] ([[terms/decision-making\|decision-making]])
-[[areas/environments\|environments]] ([[tbprocessed/base notes/concepts - general/sensemaking\|sensemaking]])
+[[areas/environments\|environments]] ([[topics/alchemy/sensemaking\|sensemaking]])
 
 [[initiatives, orgs & communities/architect;design/sublime (ex-startupy)\|sublime (ex-startupy)]] most interesting topics:
 
@@ -430,7 +430,7 @@ by topic:
 
 - [[education\|education]] (9)
 
-- [[tbprocessed/base notes/concepts - general/sensemaking\|sensemaking]] (7)
+- [[topics/alchemy/sensemaking\|sensemaking]] (7)
 
 [[singularity university\|singularity university]] community topics:
 
@@ -458,7 +458,7 @@ D - [[Additive Manufacturing\|Additive Manufacturing]]
 D.A - [[Laser Sintering and Fusion\|Laser Sintering and Fusion]]
 D.B - [[Fused Filament Fabrication\|Fused Filament Fabrication]]
 D.C - [[Stereolithography\|Stereolithography]]
-E - [[design foundations/design philosophy\|design philosophy]] & [[Ethics\|Ethics]]
+E - [[_006_core notes/design philosophy\|design philosophy]] & [[Ethics\|Ethics]]
 E.A - [[Bioethics\|Bioethics]]
 E.B - [[Moral Philosophy\|Moral Philosophy]]
 E.C - [[Ethics and AI\|Ethics and AI]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/models & frameworks/four quadrants/","tags":["alchemy","integraltheory","🌿","framework"],"created":"2022-04-04T17:07:01.878-03:00","updated":"2024-06-20T17:06:18.867-03:00"}
+{"dg-publish":true,"permalink":"/models-and-frameworks/four-quadrants/","tags":["alchemy","integraltheory","🌿","framework"],"created":"2022-04-04T17:07:01.878-03:00","updated":"2024-06-20T17:06:18.867-03:00"}
 ---
 
 one of the main elements of the [[models & frameworks/AQAL\|AQAL]] and one of the main philosophical contributions from [[people/references/ken wilber\|ken wilber]] (in my perspective).
