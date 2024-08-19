@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/practices/musica-do-circulo/","tags":["music","play","🌿","host","practice"],"created":"2023-05-31T16:42:16.760-03:00","updated":"2024-07-24T01:14:15.790-03:00"}
+{"created in":"2023-05-31T16:42:16-03:00","last tended to":"2024-07-19T21:10:18-03:00","aliases":["MdC","mdc"],"tags":["music","play","🌿","host","practice"],"relevance score":94,"dg-publish":true,"permalink":"/practices/musica-do-circulo/","dgPassFrontmatter":true,"created":"2023-05-31T16:42:16.760-03:00","updated":"2024-07-24T01:14:15.790-03:00"}
 ---
 
 https://musicadocirculo.com/

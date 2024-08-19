@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/references/bret-victor/","tags":["interfacedesign","experiencedesign","lab","person","tier1","visuallearning","spatialsoftware","interactiondesign","🌱"],"created":"2024-05-29T14:27:52.255-03:00","updated":"2024-07-23T01:07:41.828-03:00"}
+{"created in":"2024-05-29T14:27:52-03:00","last tended to":"2024-07-23T01:06:27-03:00","tags":["interfacedesign","experiencedesign","lab","person","tier1","visuallearning","spatialsoftware","interactiondesign","🌱"],"dg-publish":true,"permalink":"/people/references/bret-victor/","dgPassFrontmatter":true,"created":"2024-05-29T14:27:52.255-03:00","updated":"2024-07-23T01:07:41.828-03:00"}
 ---
 
 https://worrydream.com/

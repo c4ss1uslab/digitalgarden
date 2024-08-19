@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/references/gnoman/","tags":["metamodernism","person","gameb","architect","holochain","lab","regen","🌱"],"created":"2024-07-15T17:26:12.811-03:00","updated":"2024-07-23T02:19:08.381-03:00"}
+{"created in":"2024-07-15T17:26:12-03:00","last tended to":"2024-07-15T17:39:10-03:00","tags":["metamodernism","person","gameb","architect","holochain","lab","regen","🌱"],"dg-publish":true,"permalink":"/people/references/gnoman/","dgPassFrontmatter":true,"created":"2024-07-15T17:26:12.811-03:00","updated":"2024-07-23T02:19:08.381-03:00"}
 ---
 
 one of the co-creators of the [[projects & tools/tools/weco\|weco]], a decentralized, open-source social sensemaking/collaboration platform - his profile: https://weco.io/s/regenaissance/posts

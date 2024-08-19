@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/game/","tags":["player","🌱","concept"],"created":"2022-02-27T14:27:13.500-03:00","updated":"2024-06-17T21:18:31.423-03:00"}
+{"aliases":["games"],"created in":"2022-02-27T14:27:13-03:00","last tended to":"2024-06-16T17:08:08-03:00","tags":["player","🌱","concept"],"dg-publish":true,"permalink":"/concepts/game/","dgPassFrontmatter":true,"created":"2022-02-27T14:27:13.500-03:00","updated":"2024-06-17T21:18:31.423-03:00"}
 ---
 
 ##### a few of my favorite definitions of "game"

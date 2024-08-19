@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core-essays/life-as-play-energy-management-collaborative-life-wisdom-and-ontological-design-as-systemic-responses/","created":"2023-12-12T12:06:45.872-03:00","updated":"2024-07-23T02:40:57.793-03:00"}
+{"created in":"2023-12-12T12:06:45-03:00","last tended to":"2024-07-15T17:08:29-03:00","dg-publish":true,"aliases":["🕹 energy management, life as play"],"permalink":"/core-essays/life-as-play-energy-management-collaborative-life-wisdom-and-ontological-design-as-systemic-responses/","dgPassFrontmatter":true,"created":"2023-12-12T12:06:45.872-03:00","updated":"2024-07-23T02:40:57.793-03:00"}
 ---
 
 draft link: https://medium.com/@cassiuscarvalho/life-as-play-collaborative-life-wisdom-ontological-design-as-a-revolutionary-practice-291959d935e5

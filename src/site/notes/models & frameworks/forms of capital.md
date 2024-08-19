@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/models-and-frameworks/forms-of-capital/","tags":["framework","🌿","regen","economics","regenerativeeconomics"],"created":"2022-02-12T11:31:45.742-03:00","updated":"2024-07-23T01:46:17.620-03:00"}
+{"aliases":["8 forms of capital","10 forms of capital","12 forms of capital","types of capital","8 types of capital","10 types of capital","12 types of capital","forms of value","8 forms of value","10 forms of value","12 forms of value","types of value","8 types of value","10 types of value","12 types of value"],"created in":"2022-02-12T11:31:45-03:00","last tended to":"2024-03-29T22:23:19-03:00","dg-publish":true,"tags":["framework","🌿","regen","economics","regenerativeeconomics"],"permalink":"/models-and-frameworks/forms-of-capital/","dgPassFrontmatter":true,"created":"2022-02-12T11:31:45.742-03:00","updated":"2024-07-23T01:46:17.620-03:00"}
 ---
 
 this framework was created by [[ethan roland\|ethan roland]] & [[gregory landua\|gregory landua]] in 2011, from their research on financial [[tbprocessed/base notes/topics/permaculture\|permaculture]]. see a great introductory post [here](http://www.appleseedpermaculture.com/wp-content/uploads/2011/04/8_Forms_of_Capital_PM68.pdf).

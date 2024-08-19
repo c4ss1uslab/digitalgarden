@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/initiatives-orgs-and-communities/architect-design/metagame-wtf/","tags":["project","top3","DAOs","community","🌿"],"created":"2024-01-07T17:22:13.265-03:00","updated":"2024-07-19T20:02:28.785-03:00"}
+{"created in":"2024-01-07T17:22:13-03:00","last tended to":"2024-07-19T20:02:26-03:00","tags":["project","top3","DAOs","community","🌿"],"dg-publish":true,"permalink":"/initiatives-orgs-and-communities/architect-design/metagame-wtf/","dgPassFrontmatter":true,"created":"2024-01-07T17:22:13.265-03:00","updated":"2024-07-19T20:02:28.785-03:00"}
 ---
 
 *metagame* is a [[topics/architect;design/web3\|web3]] community building a [massive online coordination game](https://metagame.wtf/) - oriented towards figuring out how to play life together, address the [[concepts/metacrisis\|metacrisis]] and [[concepts/moloch\|moloch]], and build new socio-economic systems more aligned with the better versions of ourselves.

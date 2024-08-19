@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/references/maggie-appleton/","tags":["top3","person","knowledgemanagement","interfacedesign","research","userexperience","lab","knowledgedesign","illustration","🌱"],"created":"2024-01-07T17:17:13.689-03:00","updated":"2024-08-18T14:24:08.297-03:00"}
+{"created in":"2024-01-07T17:17:13-03:00","last tended to":"2024-08-18T14:24:07-03:00","tags":["top3","person","knowledgemanagement","interfacedesign","research","userexperience","lab","knowledgedesign","illustration","🌱"],"dg-publish":true,"aliases":["maggie"],"permalink":"/people/references/maggie-appleton/","dgPassFrontmatter":true,"created":"2024-01-07T17:17:13.689-03:00","updated":"2024-08-18T14:24:08.297-03:00"}
 ---
 
 https://maggieappleton.com/

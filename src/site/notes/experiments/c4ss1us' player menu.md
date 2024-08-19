@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/experiments/c4ss1us-player-menu/","tags":["experiment","🌿"],"created":"2024-04-01T18:22:22.718-03:00","updated":"2024-06-14T19:47:34.455-03:00"}
+{"created in":"2024-04-01T18:22:22-03:00","last tended to":"2024-06-14T19:47:34-03:00","tags":["experiment","🌿"],"dg-publish":true,"permalink":"/experiments/c4ss1us-player-menu/","dgPassFrontmatter":true,"created":"2024-04-01T18:22:22.718-03:00","updated":"2024-08-18T22:47:34.102-03:00"}
 ---
 
 experiment as part of the [[_002_toolkit/000 ⛓ l1f3 player toolkit\|l1f3 player toolkit]].

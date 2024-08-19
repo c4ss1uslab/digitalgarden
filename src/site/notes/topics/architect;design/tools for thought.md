@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/architect-design/tools-for-thought/","tags":["knowledgemanagement","topic","toolsforthought","lab","🌿"],"created":"2022-12-06T12:07:03.218-03:00","updated":"2024-07-19T22:52:14.769-03:00"}
+{"tags":["knowledgemanagement","topic","toolsforthought","lab","🌿"],"created in":"2022-12-06T12:07:03-03:00","last tended to":"2024-07-19T22:52:14-03:00","aliases":["TfT","tft"],"dg-publish":true,"permalink":"/topics/architect-design/tools-for-thought/","dgPassFrontmatter":true,"created":"2022-12-06T12:07:03.218-03:00","updated":"2024-07-19T22:52:14.769-03:00"}
 ---
 
 related topics: [[topics/lab/knowledge management\|knowledge management]], [[note-making\|note-making]], [[concepts/networked thought\|networked thought]], [[computer-supported collaborative work\|computer-supported collaborative work]] (CSCW), [[knowledge graphs\|knowledge graphs]], [[topics/lab/human-computer interaction\|human-computer interaction]] (HCI), [[concepts/extended cognition\|extended cognition]].

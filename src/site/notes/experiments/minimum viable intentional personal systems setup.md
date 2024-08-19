@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/experiments/minimum-viable-intentional-personal-systems-setup/","tags":["experiment","🌿","design","lab"],"created":"2022-03-24T12:57:53.053-03:00","updated":"2024-08-06T16:14:31.530-03:00"}
+{"created in":"2022-03-24T12:57:53-03:00","last tended to":"2024-08-06T16:14:30-03:00","aliases":["minimum viable intentional tech stack setup","minimum viable intentional personal operations setup","intentional digital systems setup","minimum viable intentional digital setup","self-management tech setup","minimum viable intentional personal systems setup"],"tags":["experiment","🌿","design","lab"],"dg-publish":true,"permalink":"/experiments/minimum-viable-intentional-personal-systems-setup/","dgPassFrontmatter":true,"created":"2022-03-24T12:57:53.053-03:00","updated":"2024-08-06T16:14:31.530-03:00"}
 ---
 
 related notes (to be processed): [[_006_core notes/personal OS design\|personal OS design]], [[concepts/personal tech stack\|personal tech stack]].

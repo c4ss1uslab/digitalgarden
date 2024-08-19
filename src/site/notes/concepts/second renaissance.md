@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/second-renaissance/","tags":["🌿","metacrisis"],"created":"2024-05-04T18:20:10.067-03:00","updated":"2024-07-25T00:35:11.687-03:00"}
+{"created in":"2024-05-04T18:20:10-03:00","last tended to":"2024-06-20T16:33:18-03:00","tags":["🌿","metacrisis"],"aliases":["2R"],"dg-publish":true,"relevance score":98,"permalink":"/concepts/second-renaissance/","dgPassFrontmatter":true,"created":"2024-05-04T18:20:10.067-03:00","updated":"2024-07-25T00:35:11.687-03:00"}
 ---
 
 very interesting framing proposed by [[initiatives, orgs & communities/architect;design/life itself\|life itself]] for understanding/navigating the civilization era we're living.

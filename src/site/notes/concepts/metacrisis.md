@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/metacrisis/","tags":["🌿","concept","metacrisis"],"created":"2023-10-31T15:56:54.956-03:00","updated":"2024-07-25T00:21:07.348-03:00"}
+{"created in":"2023-10-31T15:56:54-03:00","last tended to":"2024-07-25T00:20:22-03:00","dg-publish":true,"aliases":["personal and civilizational crises","systemic crises"],"tags":["🌿","concept","metacrisis"],"relevance score":98,"permalink":"/concepts/metacrisis/","dgPassFrontmatter":true,"created":"2023-10-31T15:56:54.956-03:00","updated":"2024-07-25T00:21:07.348-03:00"}
 ---
 
 the metacrisis is a lens for analyzing/understanding the *human predicament* and the complexity of our current moment in the history of civilizations.

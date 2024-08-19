@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/004-l1-f3/l1f3-management-system/","tags":["project","🌿","l1f3"],"created":"2021-12-11T16:52:05.970-03:00","updated":"2024-07-24T04:38:17.430-03:00"}
+{"aliases":["⚙ LMS","⚙ l1f3 management system","l1f3 manager","⚙ l1f3 manager","life management system","⚙ life management system","life manager","⚙ life manager","L1F3 management system","⚙ L1F3 management system"],"created in":"2021-12-11T16:52:05-03:00","last tended to":"2024-07-19T23:41:12-03:00","tags":["project","🌿","l1f3"],"dg-publish":true,"permalink":"/004-l1-f3/l1f3-management-system/","dgPassFrontmatter":true,"created":"2021-12-11T16:52:05.970-03:00","updated":"2024-07-24T04:38:17.430-03:00"}
 ---
 
 main archetype: [[_002_toolkit/classes/architect\|🕶 architect]]

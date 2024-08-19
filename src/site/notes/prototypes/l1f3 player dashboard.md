@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/prototypes/l1f3-player-dashboard/","tags":["🌿","prototype","l1f3","lab","spatialnavigation","quantifiedself","selfmanagement","design","player"],"created":"2024-03-19T14:21:06.710-03:00","updated":"2024-07-20T18:24:43.738-03:00"}
+{"created in":"2024-03-19T14:21:06-03:00","last tended to":"2024-07-20T18:24:24-03:00","aliases":["player dashboard"],"tags":["🌿","prototype","l1f3","lab","spatialnavigation","quantifiedself","selfmanagement","design","player"],"dg-publish":true,"permalink":"/prototypes/l1f3-player-dashboard/","dgPassFrontmatter":true,"created":"2024-03-19T14:21:06.710-03:00","updated":"2024-07-20T18:24:43.738-03:00"}
 ---
 
 inspired by the [[integral dashboard.jpeg|integral dashboard]], [[RPG\|RPG]]s, [[references/player/anime ; manga ; webtoon/sword art online\|sword art online]]/[[references/player/anime ; manga ; webtoon/solo leveling\|solo leveling]]'s simple [[images/gaming & anime references/solo leveling UIs\|UIs]], and [[topics/player/game interfaces\|game interfaces]] in general, i've been experimenting with creating a dashboard for [[concepts/self-management\|self-management]] for a long time.

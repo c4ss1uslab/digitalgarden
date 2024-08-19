@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/002-toolkit/000-l1f3-player-toolkit/","tags":["prototype","🌿"],"created":"2022-01-28T09:51:51.329-03:00","updated":"2024-07-23T01:36:26.463-03:00"}
+{"aliases":["toolkit","🧰 toolkit","player toolkit","🧰 player toolkit","l1f3 player toolkit","🧰 l1f3 player toolkit","life player toolkit","🧰 life player toolkit","L1F3 player toolkit"],"created in":"2022-01-28T09:51:51-03:00","last tended to":"2024-07-23T01:35:22-03:00","tags":["prototype","🌿"],"dg-publish":true,"permalink":"/002-toolkit/000-l1f3-player-toolkit/","dgPassFrontmatter":true,"created":"2022-01-28T09:51:51.329-03:00","updated":"2024-07-23T01:36:26.463-03:00"}
 ---
 
 #### index

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/models-and-frameworks/ooda-loop/","tags":["framework","sensemaking","🌱"],"created":"2024-02-20T18:49:22.179-03:00","updated":"2024-07-23T01:51:10.641-03:00"}
+{"created in":"2024-02-20T18:49:22-03:00","last tended to":"2024-06-20T23:41:30-03:00","tags":["framework","sensemaking","🌱"],"dg-publish":true,"permalink":"/models-and-frameworks/ooda-loop/","dgPassFrontmatter":true,"created":"2024-02-20T18:49:22.179-03:00","updated":"2024-07-23T01:51:10.641-03:00"}
 ---
 
 a very simple yet powerful framework for [[concepts/self-management\|self-management]] and navigating [[complexity\|complexity]]. one of the major frameworks orienting my work on [[life support systems\|life support systems]].

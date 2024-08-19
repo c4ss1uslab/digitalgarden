@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-notes-from-courses-events-and-chats/2023-10-roote-fellowship-notes/","tags":["fellowship","review","self-knowledge","systemschange","🌿"],"created":"2023-10-03T16:43:48.690-03:00","updated":"2024-08-18T13:41:46.744-03:00"}
+{"created in":"2023-10-03T16:43:48-03:00","last tended to":"2024-08-18T13:39:43-03:00","tags":["fellowship","review","self-knowledge","systemschange","🌿"],"dg-publish":true,"permalink":"/010-notes-from-courses-events-and-chats/2023-10-roote-fellowship-notes/","dgPassFrontmatter":true,"created":"2023-10-03T16:43:48.690-03:00","updated":"2024-08-18T13:41:46.744-03:00"}
 ---
 
 "roote helps you clarify root-level systems to help humanity find our route. the fellowship is designed to bring ambitious frontier people together to connect and accelerate them on their path to impact on the wisdom age."

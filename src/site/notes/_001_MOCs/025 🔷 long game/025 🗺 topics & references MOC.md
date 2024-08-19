@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/001-mo-cs/025-long-game/025-topics-and-references-moc/","tags":["🌿"],"created":"2021-12-11T16:52:03.339-03:00","updated":"2024-07-19T22:07:46.271-03:00"}
+{"aliases":["topics","fields","fields of knowledge"],"created in":"2021-12-11T16:52:03-03:00","last tended to":"2024-07-19T22:07:25-03:00","dg-publish":true,"tags":["🌿"],"permalink":"/001-mo-cs/025-long-game/025-topics-and-references-moc/","dgPassFrontmatter":true,"created":"2021-12-11T16:52:03.339-03:00","updated":"2024-07-19T22:07:46.271-03:00"}
 ---
 
 ###### captions

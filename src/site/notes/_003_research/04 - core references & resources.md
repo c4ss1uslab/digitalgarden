@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/003-research/04-core-references-and-resources/","tags":["🌱"],"created":"2022-07-30T21:38:54.771-03:00","updated":"2024-07-23T02:37:23.223-03:00"}
+{"created in":"2022-07-30T21:38:54-03:00","last tended to":"2024-07-19T22:30:01-03:00","tags":["🌱"],"dg-publish":true,"permalink":"/003-research/04-core-references-and-resources/","dgPassFrontmatter":true,"created":"2022-07-30T21:38:54.771-03:00","updated":"2024-07-23T02:37:23.223-03:00"}
 ---
 
 ```ad-warning

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/004-l1-f3/l1-f3-game/","tags":["l1f3","project","🌿","game","seriousgame"],"created":"2022-02-05T11:41:05.535-03:00","updated":"2024-08-18T14:08:55.346-03:00"}
+{"aliases":["🕹 l1f3 game","life game","🕹 life game","massively-multiplayer online-and-offline collaborative self-transformation & civilization-building game","L1F3.GAME","L1F3.game","l1f3.game","🕹 L1F3.game","🕹 L1F3 game","🕹 L1F3.GAME","l1f3 game"],"created in":"2022-02-05T11:41:05-03:00","last tended to":"2024-07-23T02:38:45-03:00","dg-publish":true,"tags":["l1f3","project","🌿","game","seriousgame"],"permalink":"/004-l1-f3/l1-f3-game/","dgPassFrontmatter":true,"created":"2022-02-05T11:41:05.535-03:00","updated":"2024-08-18T14:08:55.346-03:00"}
 ---
 
 the L1F3 game is an ongoing endeavor to:

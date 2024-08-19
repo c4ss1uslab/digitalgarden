@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/lab/knowledge-management/","tags":["🌿","topic","knowledgemanagement"],"created":"2021-12-11T16:51:55.968-03:00","updated":"2024-08-18T15:24:32.450-03:00"}
+{"aliases":["PKM","KM","pkm"],"created in":"2021-12-11T16:51:55-03:00","last tended to":"2024-08-18T12:38:20-03:00","tags":["🌿","topic","knowledgemanagement"],"relevance score":94,"dg-publish":true,"permalink":"/topics/lab/knowledge-management/","dgPassFrontmatter":true,"created":"2021-12-11T16:51:55.968-03:00","updated":"2024-08-18T15:24:32.450-03:00"}
 ---
 
 > [!info]- assumed audience

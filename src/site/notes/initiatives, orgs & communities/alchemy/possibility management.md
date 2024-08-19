@@ -1,15 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/initiatives-orgs-and-communities/alchemy/possibility-management/","tags":["🌿","organization","community"],"created":"2022-03-02T16:18:16.740-03:00","updated":"2024-06-22T20:14:57.970-03:00"}
+{"created in":"2022-03-02T16:18:16-03:00","last tended to":"2024-08-19T02:44:56-03:00","aliases":["PM"],"tags":["🌿","organization","community"],"relevance score":82,"familiarity degree":6,"familiarity context":"100h+ spent, in-person and online","recommendation level":7,"recommendation context":"i recommend checking it out, but take it with *a few* grains of salt. read more below before jumping in.","dg-publish":true,"permalink":"/initiatives-orgs-and-communities/alchemy/possibility-management/","dgPassFrontmatter":true,"created":"2022-03-02T16:18:16.740-03:00","updated":"2024-08-19T02:46:31.637-03:00"}
 ---
 
 http://possibilitymanagement.com
 https://startoverxyz.mystrikingly.com/
-
-###### 🔥 recommendation level: 7/10
-
-i recommend it, but take it with *a few* grains of salt.
-
-read more below before jumping in.
 
 ###### my personal relationship with it:
 

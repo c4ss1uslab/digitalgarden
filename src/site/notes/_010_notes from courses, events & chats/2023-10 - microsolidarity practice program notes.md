@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/010-notes-from-courses-events-and-chats/2023-10-microsolidarity-practice-program-notes/","created":"2023-10-03T13:06:52.221-03:00","updated":"2024-03-12T00:19:41.499-03:00"}
+{"created in":"2023-10-03T13:06:52-03:00","last tended to":"2024-03-12T00:19:41-03:00","dg-publish":true,"permalink":"/010-notes-from-courses-events-and-chats/2023-10-microsolidarity-practice-program-notes/","dgPassFrontmatter":true,"created":"2023-10-03T13:06:52.221-03:00","updated":"2024-03-12T00:19:41.499-03:00"}
 ---
 
 these are my notes and the prompts from the [microsolidarity practice program](https://www.microsolidarity.cc/practice-program) i participated in from oct 3-12, 2023.

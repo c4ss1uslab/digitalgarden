@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/003-research/00-viable-pathways-book-zine/","tags":["🌿"],"created":"2022-03-25T13:53:56.444-03:00","updated":"2024-07-25T01:02:47.963-03:00"}
+{"created in":"2022-03-25T13:53:56-03:00","last tended to":"2024-08-18T22:39:53-03:00","tags":["🌿"],"aliases":["viable pathways","viable pathways zine","viable pathways book-zine","viable pathways book-zine mvp","book-zine"],"dg-publish":true,"permalink":"/003-research/00-viable-pathways-book-zine/","dgPassFrontmatter":true,"created":"2022-03-25T13:53:56.444-03:00","updated":"2024-08-18T22:42:51.222-03:00"}
 ---
 
-hey, welcome! this is the skeleton of a living, under-construction book-zine, an experimental [[hyper-linked multimedia medium\|hyper-linked multimedia medium]] that acts as a theoretical research / practical toolkit in-between. it's still very messy, as you'll be able to see if you choose to keep reading now (or you can wait for it to be released and have the polished version).
+![viable pathways book-zine cover.png|1000](/img/user/assets/viable%20pathways%20book-zine%20cover.png)
 
-this book-zine is comprised of: an introduction, 5 [core essays], [α] illustrations, [x] maps, [y] excerpts, [z] core references, [Φ] deepening/clarification notes, a summary/recap and a list of [Θ] further resources...
+hey, welcome! this is the skeleton of a living, under-construction book-zine - an experimental [[hyper-linked multimedia medium\|hyper-linked multimedia medium]] that acts as a theoretical research / practical toolkit in-between. it's still very messy, as you'll be able to see if you choose to keep reading now (or you can wait for it to be released and access the polished version later).
+
+this book-zine is comprised of: an [[introduction\|introduction]], 5 [core essays], [α] illustrations, [x] maps, [y] excerpts, [z] core references, [Φ] deepening/clarification notes, a summary/recap and a list of [Θ] further resources...
 
 to receive ongoing updates and/or collaborate on following publications, please [fill up this form].
 

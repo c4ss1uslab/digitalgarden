@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/references/francis-miller/","tags":["person","informationmanagement","design","tier1","knowledgedesign","learning","visuallearning","research","🌿","lab"],"created":"2024-06-14T18:48:35.670-03:00","updated":"2024-07-24T00:58:16.175-03:00"}
+{"created in":"2024-06-14T18:48:35-03:00","last tended to":"2024-07-24T00:37:04-03:00","tags":["person","informationmanagement","design","tier1","knowledgedesign","learning","visuallearning","research","🌿","lab"],"dg-publish":true,"permalink":"/people/references/francis-miller/","dgPassFrontmatter":true,"created":"2024-06-14T18:48:35.670-03:00","updated":"2024-07-24T00:58:16.175-03:00"}
 ---
 
 https://www.francismiller.com/

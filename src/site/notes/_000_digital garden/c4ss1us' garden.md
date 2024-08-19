@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-digital-garden/c4ss1us-garden/","tags":["gardenEntry"],"created":"2021-12-11T16:51:50.661-03:00","updated":"2024-08-18T17:46:05.976-03:00"}
+{"aliases":[".dgarden","🌲 digital garden","idea garden","🌱 idea garden","c4ss1us.dgarden","🌲 c4ss1us.dgarden","digital garden","home","knowledge garden"],"created in":"2023-07-27T15:44:39-03:00","last tended to":"2024-08-18T14:26:54-03:00","dg-publish":true,"dg-home":true,"permalink":"/000-digital-garden/c4ss1us-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2021-12-11T16:51:50.661-03:00","updated":"2024-08-18T17:46:05.976-03:00"}
 ---
 
 ## hello! welcome to my digital garden! 🌷

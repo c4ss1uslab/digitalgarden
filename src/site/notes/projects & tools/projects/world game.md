@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects-and-tools/projects/world-game/","tags":["seriousgame","education","architect","🌿","player"],"created":"2024-01-19T16:20:09.956-03:00","updated":"2024-08-18T14:06:43.223-03:00"}
+{"created in":"2024-01-19T16:20:09-03:00","last tended to":"2024-08-18T14:06:19-03:00","aliases":["world peace game","great logistics game","world (peace) game"],"tags":["seriousgame","education","architect","🌿","player"],"dg-publish":true,"permalink":"/projects-and-tools/projects/world-game/","dgPassFrontmatter":true,"created":"2024-01-19T16:20:09.956-03:00","updated":"2024-08-18T14:06:43.223-03:00"}
 ---
 
 the world (peace) game was proposed by [[buckminster fuller\|buckminster fuller]] in the 1960s, aiming to:

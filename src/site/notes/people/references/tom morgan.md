@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/references/tom-morgan/","tags":["person","metacrisis","research","communication","memetics","🌱"],"created":"2024-07-24T00:45:06.544-03:00","updated":"2024-08-06T16:17:17.550-03:00"}
+{"created in":"2024-07-24T00:45:06-03:00","last tended to":"2024-07-24T01:21:44-03:00","tags":["person","metacrisis","research","communication","memetics","🌱"],"dg-publish":true,"permalink":"/people/references/tom-morgan/","dgPassFrontmatter":true,"created":"2024-07-24T00:45:06.544-03:00","updated":"2024-08-06T16:17:17.550-03:00"}
 ---
 
 an interesting guy in the [[tech entrepreneur\|tech entrepreneur]]/[[VC\|VC]] investment bubble, presenting [[iain mcgilchrist\|iain mcgilchrist]]'s work and the [[concepts/metacrisis\|metacrisis]] communication in a more mainstream fashion - framing it in more psychological terms and pointing to the great [[mystery\|mystery]] with/as [[curiosity\|curiosity]] as a focus/lens.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/references/gordon-brander/","tags":["person","research","knowledgemanagement","distributedsystems","cybernetics","top3","systemsscience","🌱"],"created":"2024-03-19T16:25:06.818-03:00","updated":"2024-08-01T10:34:25.848-03:00"}
+{"created in":"2024-03-19T16:25:06-03:00","last tended to":"2024-07-23T02:17:37-03:00","tags":["person","research","knowledgemanagement","distributedsystems","cybernetics","top3","systemsscience","🌱"],"dg-publish":true,"permalink":"/people/references/gordon-brander/","dgPassFrontmatter":true,"created":"2024-03-19T16:25:06.818-03:00","updated":"2024-08-01T10:34:25.848-03:00"}
 ---
 
 https://gordonbrander.com/, founder of [[initiatives, orgs & communities/lab/subconscious (tool)\|subconscious (tool)]].

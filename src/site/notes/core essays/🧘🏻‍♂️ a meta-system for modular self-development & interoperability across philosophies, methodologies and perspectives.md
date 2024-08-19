@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core-essays/a-meta-system-for-modular-self-development-and-interoperability-across-philosophies-methodologies-and-perspectives/","tags":["🌱"],"created":"2023-12-14T12:54:40.894-03:00","updated":"2024-07-23T02:41:37.912-03:00"}
+{"created in":"2023-12-14T12:54:40-03:00","last tended to":"2024-06-20T17:03:18-03:00","dg-publish":true,"tags":["🌱"],"aliases":["🧘🏻‍♂️ a meta-system for modular self-development"],"permalink":"/core-essays/a-meta-system-for-modular-self-development-and-interoperability-across-philosophies-methodologies-and-perspectives/","dgPassFrontmatter":true,"created":"2023-12-14T12:54:40.894-03:00","updated":"2024-07-23T02:41:37.912-03:00"}
 ---
 
 sub-title: **approaches to self design, self as a system, encoded philosophy, integral spirituality and conscious life operating systems**.

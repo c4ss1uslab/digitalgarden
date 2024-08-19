@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core-essays/foundational-concepts-for-developing-regenerative-information-ecologies-and-empowering-knowledge-commons/","created":"2023-10-31T20:24:29.951-03:00","updated":"2024-07-23T02:40:46.290-03:00"}
+{"created in":"2023-10-31T20:24:29-03:00","last tended to":"2024-07-19T22:52:14-03:00","dg-publish":true,"aliases":["💭 foundational concepts for knowledge commons"],"permalink":"/core-essays/foundational-concepts-for-developing-regenerative-information-ecologies-and-empowering-knowledge-commons/","dgPassFrontmatter":true,"created":"2023-10-31T20:24:29.951-03:00","updated":"2024-07-23T02:40:46.290-03:00"}
 ---
 
 draft link: https://medium.com/@cassiuscarvalho/foundational-concepts-for-developing-regenerative-information-ecologies-empowering-knowledge-d427b1dc2cb3

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/integral-theory/","tags":["top3","🌿","alchemy","sensemaking"],"created":"2022-03-24T17:31:07.911-03:00","updated":"2024-06-20T17:07:48.012-03:00"}
+{"aliases":["integral meta-theory","integral"],"created in":"2022-03-24T17:31:07-03:00","last tended to":"2024-06-20T17:07:14-03:00","tags":["top3","🌿","alchemy","sensemaking"],"dg-publish":true,"relevance score":94,"permalink":"/concepts/integral-theory/","dgPassFrontmatter":true,"created":"2022-03-24T17:31:07.911-03:00","updated":"2024-06-20T17:07:48.012-03:00"}
 ---
 
 a theory proposed by [[people/references/ken wilber\|ken wilber]], through his study, practice and synthesis of multiple [[topics/alchemy/spiritual lineages\|wisdom traditions]], modern academic disciplines and scientific research.

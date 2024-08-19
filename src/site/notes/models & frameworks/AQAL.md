@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/models-and-frameworks/aqal/","tags":["framework","integraltheory","🌿"],"created":"2024-03-10T15:35:51.504-03:00","updated":"2024-07-23T01:39:14.797-03:00"}
+{"created in":"2024-03-10T15:35:51-03:00","last tended to":"2024-07-23T01:39:12-03:00","aliases":["AQAL framework"],"tags":["framework","integraltheory","🌿"],"dg-publish":true,"permalink":"/models-and-frameworks/aqal/","dgPassFrontmatter":true,"created":"2024-03-10T15:35:51.504-03:00","updated":"2024-07-23T01:39:14.797-03:00"}
 ---
 
 AQAL is short for: all [[models & frameworks/four quadrants\|quadrants]], all [[levels\|levels]], all [[lines\|lines]], all [[states\|states]], all [[types\|types]].

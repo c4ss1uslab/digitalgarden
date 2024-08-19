@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/mapping/","tags":["🌿","concept","mapping"],"created":"2022-04-19T15:34:21.040-03:00","updated":"2024-07-27T14:01:34.156-03:00"}
+{"aliases":["map","maps"],"created in":"2022-04-19T15:34:21-03:00","last tended to":"2024-07-24T05:11:54-03:00","tags":["🌿","concept","mapping"],"relevance score":91,"dg-publish":true,"permalink":"/concepts/mapping/","dgPassFrontmatter":true,"created":"2022-04-19T15:34:21.040-03:00","updated":"2024-07-27T14:01:34.156-03:00"}
 ---
 
 ## 1) definitions & types of maps

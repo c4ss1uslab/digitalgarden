@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/patterns/knowledge-design-patterns/","tags":["🌱","knowledgedesign","patterns","design"],"created":"2024-04-06T19:36:48.498-03:00","updated":"2024-08-18T15:20:16.214-03:00"}
+{"created in":"2024-04-06T19:36:48-03:00","last tended to":"2024-08-18T15:20:03-03:00","tags":["🌱","knowledgedesign","patterns","design"],"relevance score":96,"dg-publish":true,"permalink":"/patterns/knowledge-design-patterns/","dgPassFrontmatter":true,"created":"2024-04-06T19:36:48.498-03:00","updated":"2024-08-18T15:20:16.214-03:00"}
 ---
 
 knowledge design includes: [[knowledge development\|knowledge development]], [[topics/lab/knowledge management\|knowledge management]] and [[knowledge presentation\|knowledge presentation]]:

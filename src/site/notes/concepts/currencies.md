@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/currencies/","tags":["🌱","concept"],"created":"2024-03-29T21:36:44.051-03:00","updated":"2024-06-22T20:29:47.688-03:00"}
+{"created in":"2024-03-29T21:36:44-03:00","last tended to":"2024-06-22T20:29:47-03:00","tags":["🌱","concept"],"dg-publish":true,"permalink":"/concepts/currencies/","dgPassFrontmatter":true,"created":"2024-03-29T21:36:44.051-03:00","updated":"2024-06-22T20:29:47.688-03:00"}
 ---
 
 the [[tbprocessed/base notes/ventures - general/metacurrency project\|metacurrency project]] proposes viewing the term currencies as "**current-sees**" - i.e. essentially, flows of value.
