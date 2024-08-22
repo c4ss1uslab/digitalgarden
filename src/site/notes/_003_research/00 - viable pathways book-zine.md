@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-03-25T13:53:56-03:00","last tended to":"2024-08-18T22:39:53-03:00","tags":["🌿"],"aliases":["viable pathways","viable pathways zine","viable pathways book-zine","viable pathways book-zine mvp","book-zine"],"dg-publish":true,"permalink":"/003-research/00-viable-pathways-book-zine/","dgPassFrontmatter":true,"created":"2022-03-25T13:53:56.444-03:00","updated":"2024-08-18T22:42:51.222-03:00"}
+{"created in":"2022-03-25T13:53:56-03:00","last tended to":"2024-08-20T13:14:58-03:00","tags":["🌿"],"aliases":["viable pathways","viable pathways zine","viable pathways book-zine","viable pathways book-zine mvp","book-zine"],"dg-publish":true,"permalink":"/003-research/00-viable-pathways-book-zine/","dgPassFrontmatter":true,"created":"2022-03-25T13:53:56.444-03:00","updated":"2024-08-20T13:17:35.314-03:00"}
 ---
 
 ![viable pathways book-zine cover.png|1000](/img/user/assets/viable%20pathways%20book-zine%20cover.png)
@@ -10,9 +10,9 @@ this book-zine is comprised of: an [[introduction\|introduction]], 5 [core essay
 
 to receive ongoing updates and/or collaborate on following publications, please [fill up this form].
 
-#### intro
+#### introduction
 
-for the past 5 years i've been devoting my life to researching "[[what is human flourishing\|what is human flourishing]]", "[[how can we enable it at both an individual and at a societal scale\|how can we enable it at both an individual and at a societal scale]]", and "[[what's my role in it\|what's my role in it]]".
+for the past 5 years i've been devoting my life to researching what is [[human flourishing\|human flourishing]], [[how to enable it at both an individual and at a societal scale\|how to enable it at both an individual and at a societal scale]]", and "[[what's my role in it\|what's my role in it]]".
 
 despite the boldness of the task and my humbleness to state that i don't have definitive answers, i’m happy to share what i discovered from it. since then, i've gained hints of profound clarity on some *partial, yet useful answers*, as well as on the [[_001_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|challenges]] and [[_001_MOCs/025 🔷 long game/035 🔭 missions MOC\|missions]] i decided to work towards. (might we collaborate on some of them? 🙃)
 
@@ -24,10 +24,23 @@ if you're well-familiarized with most themes below, jump in to your desired laye
 
 let's dive in!
 
----
-#### index
+#### disclaimer - what’s my intention with these articles?
 
-[illustration] (word cloud - bird's eye view)
+my goal in this series of articles isn’t to pose complete arguments and conclusions. it’s to share my incomplete yet reasonably well-developed research and thoughts on these topics.
+
+a big challenge/opportunity latent in the space of sensemaking and collective intelligence is to (graphically) visualize our own perspectives, our sources of information and who we proxy our sensemaking to.
+
+a few good examples are:
+
+[[initiatives, orgs & communities/architect;design/the society library\|the society library]] / [[initiatives, orgs & communities/architect;design/ideamarket\|ideamarket]] / [[projects & tools/tools/manifold\|manifold]] / [[projects & tools/tools/metaculus\|metaculus]] / [[projects & tools/tools/open knowledge maps\|open knowledge maps]] / [[references/lab/mapsmap hackathon\|mapsmap hackathon]] / [[initiatives, orgs & communities/architect;design/the consilience project\|the consilience project]] / [[kialo\|kialo]] / [[initiatives, orgs & communities/architect;design/goodly labs\|goodly labs]]
+
+this is very close to what i refer to as the “what” of a “life intelligence agency”.
+
+[[infranodus\|infranodus]], [[initiatives, orgs & communities/architect;design/golden\|golden]], [[projects & tools/tools/melon\|melon]]…
+
+yet, there is still a lot more friction to doing that than to the (apparent) benefit it provides. most people have a lot of certainty over their belief system, even though statistically, it makes no sense for them to be.
+
+my goal is to get to this stage of building “wise knowledge commons” (somewhat similar to what _[[tbprocessed/base notes/ventures - general/the stoa\|the stoa]]_ aims to do) but for now let’s work with what we have and trace viable paths to get there.
 
 #### foundational concepts
 
@@ -65,11 +78,11 @@ for a deeper recognition of these adjacent groups, check out the [memetic tribes
 
 it's through this study that i found the most profoundly meaningful and cohesive analyses of our current situation, both as individuals and as a society at our time and age.
 
-[[people/references/daniel schmachtenberger\|daniel schmachtenberger]] has been a primary spokesperson about it, and i highly, highly, highly recommend his videos - check out my [curated playlist here](https://www.youtube.com/playlist?list=PLj8H7uBaUwDvd18QrEPugPMD5Z6Y0W-vB).
+[[people/references/architect;design/daniel schmachtenberger\|daniel schmachtenberger]] has been a primary spokesperson about it, and i highly, highly, highly recommend his videos - check out my [curated playlist here](https://www.youtube.com/playlist?list=PLj8H7uBaUwDvd18QrEPugPMD5Z6Y0W-vB).
 
 besides daniel's work, the simplest, yet most clarifying perspectives i found came from [[zak stein\|zak stein]] and the [[transformative education alliance\|transformative education alliance]] on their essay "[education is the metacrisis](https://systems-souls-society.com/education-is-the-metacrisis/)".
 
-for further breakdowns, [[jonathan rowson\|jonathan rowson]] did an amazing deep dive into multiple perspectives an essay called [tasting the pickle: ten flavours of meta-crisis and the appetite for a new civilisation](https://systems-souls-society.com/tasting-the-pickle-ten-flavours-of-meta-crisis-and-the-appetite-for-a-new-civilisation/), [[people/references/john vervaeke\|john vervaeke]] also has a great 50-lecture series on [[concepts/meaning crisis\|awakening from the meaning crisis]], [[josh field\|josh field]] shares very unique perspectives on the [[concepts/flow crisis\|flow crisis]], and there's a lot more you can discover by browsing the [metacrisis.org](https://metacrisis.org/) website or looking at very disruptive metacrisis-informed projects such as [[initiatives, orgs & communities/architect;design/SEEDS (ecosystem)\|SEEDS (ecosystem)]] and [[tbprocessed/base notes/ventures - general/holochain\|holochain]] (both are deep in the web3 space, i don't recommend if you're a beginner - understanding each of them may take dozens to hundreds of hours).
+for further breakdowns, [[jonathan rowson\|jonathan rowson]] did an amazing deep dive into multiple perspectives an essay called [tasting the pickle: ten flavours of meta-crisis and the appetite for a new civilisation](https://systems-souls-society.com/tasting-the-pickle-ten-flavours-of-meta-crisis-and-the-appetite-for-a-new-civilisation/), [[people/references/alchemy/john vervaeke\|john vervaeke]] also has a great 50-lecture series on [[concepts/meaning crisis\|awakening from the meaning crisis]], [[josh field\|josh field]] shares very unique perspectives on the [[concepts/flow crisis\|flow crisis]], and there's a lot more you can discover by browsing the [metacrisis.org](https://metacrisis.org/) website or looking at very disruptive metacrisis-informed projects such as [[initiatives, orgs & communities/architect;design/SEEDS (ecosystem)\|SEEDS (ecosystem)]] and [[tbprocessed/base notes/ventures - general/holochain\|holochain]] (both are deep in the web3 space, i don't recommend if you're a beginner - understanding each of them may take dozens to hundreds of hours).
 
 the major value i found in attempting to assess and conceptualize our current state - both as individuals and a society - is to recognize and develop vocabulary over the complex systems dynamics that are constantly affecting us, so we can be more aware of them, make better sense of what's going on and coordinate towards more desirable presents and futures.
 
@@ -144,7 +157,7 @@ and some folks like [[stanislav grof\|stanislav grof]], [[leo gura\|leo gura]], 
 
 - [[self-actualization\|self-actualization]], [[cognitive science\|cognitive science]]
 
-[[people/references/john vervaeke\|john vervaeke]] and his work on [[concepts/meaning crisis\|awakening from the meaning crisis]].
+[[people/references/alchemy/john vervaeke\|john vervaeke]] and his work on [[concepts/meaning crisis\|awakening from the meaning crisis]].
 
 [[robert kegan\|robert kegan]] [[adult development theory\|adult development theory]]
 
@@ -154,13 +167,13 @@ and some folks like [[stanislav grof\|stanislav grof]], [[leo gura\|leo gura]], 
 
 proposes [[human flourishing\|human flourishing]] especially through [[biomimicry\|biomimicry]] and [[self-healing\|self-healing]].
 
-[[people/references/charles eisenstein\|charles eisenstein]], [[gabor maté\|gabor maté]], [[thomas hübl\|thomas hübl]].
+[[people/references/architect;design/charles eisenstein\|charles eisenstein]], [[gabor maté\|gabor maté]], [[thomas hübl\|thomas hübl]].
 
 - [[shamanism\|shamanism]]
 
 a few amazonian tribes propose [[bem viver\|bem viver]], which is an indigenous term that directly translates "to live well". to many latin american tribes, it's an essential part of their worldview.
 
-brazilian lineages: [[people/references/léo artese\|léo artese (xamanismo universal)]], [[max mello\|max mello]] & [[suzan flores\|suzan flores]],
+brazilian lineages: [[people/references/alchemy/léo artese\|léo artese (xamanismo universal)]], [[max mello\|max mello]] & [[suzan flores\|suzan flores]],
 latin american: [[law of time\|law of time]]
 native american: [[tbprocessed/base notes/people/bill plotkin\|bill plotkin]].
 
@@ -174,9 +187,9 @@ in right relationship with self, nature and the world ([[gaia education\|gaia ed
 
 - vedic philosophy
 
-[[people/references/sri aurobindo\|sri aurobindo]], [[sadhguru\|sadhguru]], [[krishnamurti\|krishnamurti]], [[tantra\|tantra]], [[vedanta\|vedanta]]
+[[people/references/alchemy/sri aurobindo\|sri aurobindo]], [[sadhguru\|sadhguru]], [[krishnamurti\|krishnamurti]], [[tantra\|tantra]], [[vedanta\|vedanta]]
 
-how can they be complementary? that was the genius of [[people/references/sri aurobindo\|sri aurobindo]] and [[people/references/ken wilber\|ken wilber]]'s work. building on that.
+how can they be complementary? that was the genius of [[people/references/alchemy/sri aurobindo\|sri aurobindo]] and [[people/references/alchemy/ken wilber\|ken wilber]]'s work. building on that.
 
 - integral / metamodern
 
@@ -198,7 +211,6 @@ popularity isn't necessarily a good filter.
 "truth" (or scientific rigor) might also not help much. (limits/challenges of science -> not neutral observer [lifestyles, unmeasured cultural/behavioral aspects that influence results], bias for average [study what happen/may happen under most circumstances, not extraordinary/aspirational ones], etc...)
 
 a mix of these can start to build a reasonable algorithm --> mapping claims, divergences vs. convergences of perspectives/practices, scientific findings but also subjective experience (reports from friends/network/people you trust)...
-
 
 
 ---
@@ -225,11 +237,11 @@ a few of the main related themes are:
 ---
 #### where do we head now?
 
-ok, so there's a wealth of perspectives on both the [[concepts/metacrisis\|metacrisis]] we're undergoing as a species/civilization, as well as the concept of a [[well-lived life\|well-lived life]], considering our [[human potential\|human potential]] and different perspectives on [[how to live\|how to live]].
+ok, so there's a wealth of perspectives on both the [[concepts/metacrisis\|metacrisis]] we're undergoing as a species/civilization, as well as the concept of a [[well-lived life\|well-lived life]], considering our capacity for [[human flourishing\|human flourishing]] and different perspectives on [[how to live\|how to live]].
 
 if we can agree on a few [[assumptions\|assumptions]], such as that [[every perspective is partial\|every perspective is partial]], we can start to build a set of [[heuristics\|heuristics]] to inform our [[topics/alchemy/sensemaking\|sensemaking]] and [[terms/decision-making\|decision-making]] going forward.
 
-there is a route of recognizing/honoring the herculean effort that some synthesizers/expert generalists were able to do on a "[[theory of everything\|theory of everything]]", such as [[an immanent metaphysics\|an immanent metaphysics]], [[models & frameworks/unified theory of knowledge\|unified theory of knowledge]], [[concepts/integral theory\|integral theory]], and [[references/first principles and first values\|first principles and first values]] - that even though truly amazing and necessary, are very inaccessible for the vast majority of people right now.
+there is a route of recognizing/honoring the herculean effort that some synthesizers/expert generalists were able to do on a "[[theory of everything\|theory of everything]]", such as [[an immanent metaphysics\|an immanent metaphysics]], [[models & frameworks/unified theory of knowledge\|unified theory of knowledge]], [[concepts/integral theory\|integral theory]], and [[references/alchemy/first principles and first values\|first principles and first values]] - that even though truly amazing and necessary, are very inaccessible for the vast majority of people right now.
 
 also, acknowledging my lack of knowledge/expertise in multiple areas and my personal position as a young person trying to make sense of the world, i'll opt for taking the bits of wisdom i found from here and there and ask - *is there a minimum and easiest set of agreements that many people, holding different values and worldviews, can agree on? and if so, how might we work from there?*
 
@@ -276,209 +288,3 @@ other big challenges with working with loosely defined philosophical foundations
 ##### low hanging-fruit agreements
 
 i believe these are easy to agree on and they can lead to a powerful level of clarity and collaboration.
-
----
-### dive in
-
-#### thesis
-
-to address the metacrisis we need both individual efforts to design more [[conscious\|conscious]], [[impactful\|impactful]], [[collaborative\|collaborative]] and [[regenerative\|regenerative]] [[concepts/lifestyles\|lifestyles]], [[initiatives, orgs & communities/organizations MOC\|organizations]], [[terms/culture\|culture]] and [[communities\|communities]], as well as collective [[concepts/coordination\|coordination]] to create new [[governance\|governance]], [[economic\|economic]], [[terms/information\|information]], [[organizational\|organizational]], [[educational\|educational]] systems that honors [[nature\|nature]] and people's [[energies\|energies]], [[purpose\|purpose]], [[expression\|expression]] and [[vocation\|vocation]] as sacred.
-
-there are many people working on designing/building these new systems, making sense of our current state and addressing it from different perspectives. so my goal here is to:
-
-1) curate these initiatives/perspectives and present a few maps of the conceptual and materialized territories
-
-2) share a few interpretation lenses/frameworks on how these efforts may be mutually supportive and integrated into a bigger whole
-
-3) share my perspectives on the challenges that still remain and what we can do about them
-
-#### assertions / propositions
-
-1) we're not tapping into even 10% of the potential that [[concepts/mapping\|maps]] have to offer (especially in digital/data-based formats).
-
-2) there are simple tools and practices for more conscious and collaborative living that we're not using, that could have a major increase on our sense of belonging, trust, collaboration and coordination towards desirable futures. ([[models & frameworks/CEP+N\|CEP+N]] / [[prototypes/not proprietary/potluck\|potluck]] / [[_002_toolkit/000 ⛓ l1f3 player toolkit\|player toolkit]] / second brains -> omnichannel feeds / personal algorithms / digital gardens -> TfTs, AI agents, etc...)
-
-3) we're not tapping into even 2% of the potential that [[concepts/game\|games]] have to offer.
-
-in order to explain why - and how, i'll put this into practice, by using maps.
-
-#### maps
-
-if you know about [[models & frameworks/wardley mapping\|wardley mapping]] you might be familiar with a lot about what i'm about to share, but in any case, this application intends to emphasize a lot of [[omni-win dynamics\|omni-win dynamics]] often not found in his work, as i see a strong [[topics/player/game theory\|game-theoretical]] [[win-lose dynamics\|win-lose dynamics]]/[[concepts/moloch\|molochian]] bias in it.
-
-
-###### types of maps we'll use:
-
-- of worldviews/values/memetics
-- of topics/fields/ecosystems
-- of initiatives/communities
-- of challenges/opportunities
-- of approaches/perspectives/philosophies
-- of systems/resources/tools
-
-##### challenges being under-adressed
-
-
-
-##### challenges being well addressed
-
-[[high risk\|high risk]] ([[AI\|AI]], [[synthetic biology\|synthetic biology]], etc): 
-- [[consilience project\|consilience project]]
-
-##### opportunities not being seized
-
-the innovation i see/propose:
-
-[[highest leverage\|highest leverage]]:
-- giving people the conditions to express their vocation / energy / potential. a life support network as a means to coordinate / collaborate / align ourselves towards personal evolution, world regeneration and catastrophic risk prevention.
-
-doing this is not as hard as we might think. there's a lot of hanging fruits. we're just lacking intention/design.
-
-++ improving the design/intentionality of our core technological systems:
-(which feed our meta-systems of [[perception\|perception]], [[topics/alchemy/sensemaking\|sensemaking]], [[terms/decision-making\|decision-making]], [[terms/action\|action]] and [[topics/player/learning\|learning]])
-- [[output\|output]] - [[knowledge creation\|knowledge creation]], [[distribution\|distribution]] ([[channels\|channels]]), [[format\|format]] ([[video\|video]], [[garden\|garden]], [[multi-format\|multi-format]])... (life streaming prototype)
-- [[input\|input]]/[[storage\|storage]] - [[social media;curation omnichannel\|social media;curation omnichannel]] + [[personal knowledge base\|personal knowledge base]]
-- [[processing\|processing]] - [[intentional;conscious creation environment\|intentional;conscious creation environment]]
-
-[[low-hanging fruits\|low-hanging fruits]]:
-- using [[social networks\|social networks]] and [[AI\|AI]] for discovery + support in building trusting relationships
-- leveraging [[strategy\|strategy]] principles and [[concepts/coordination mechanisms\|coordination mechanisms]] for personal and collective sovereignty/agency development
-- scaling (topic) discovery and (personal) connections via [[knowledge visualization\|knowledge visualization]] (garden/research topics).
-- [[initiatives, orgs & communities/architect;design/trust network\|trust network]]
-- [[regenerative sites\|regenerative sites]]
-
-##### opportunities being well-harnessed
-
-[[islands of coherence\|islands of coherence]]. [[memetic communities\|memetic communities]]. [[sensemaking hubs\|sensemaking hubs]]/[[pods\|pods]]. [[concepts/communities of practice\|communities of practice]].
-
-#### pathways and possible next steps
-
-
----
-### go deeper
-
-they're below. feel free to explore them at different times, according to your own inquiries/curiosity. think of this pretty much like a glossary. if you find something in this research that clashes against your current worldview, you can dive deeper here to clean up any possible misunderstandings and understand what really makes sense for you.
-
-###### fundamental questions:
-
-initial questions:
-- what is the purpose of life?
-- what is reality?
-- what is life?
-- what is "truth"?
-- what is "goodness"?
-- what is "beauty"?
-
-foundational questions:
-
-- what does human flourishing mean? especially in this time-age?
-
-- what does it take to build a society in which we thrive, as individuals and as a collective?
-
-- how can we live our purpose, adventures & missions, at scale?
-
-- what is abundance? how can we tap into it and distribute it?
-
-- what does it mean to really "make the world work for 100% of humanity"?
-
-- what are the fundamental tools and systems we have/interact with in our lives?
-
-- what are the fundamental games we're playing, as humanity and as individuals?
-
-second-order questions:
-
-#### principles & purpose
-
-empower individuals and groups to develop sovereignty and agency.
-
-#### questions, topics & ideas
-
-
-#### sources & references
-
-
-#### foundational findings & insights
-
-i understood this research as an ongoing effort into understanding the foundational systems of our civilization and rebuilding them as open, distributed, collaborative and regenerative systems.
-
-- why open?
-just like openAI isn't really open, what do i mean here? voluntary, open-source, cooperative. [[the open revolution\|the open revolution]].
-
-- why distributed?
-[[antifragile\|antifragile]] - antifragility. living systems.
-
-more on [[security\|security]] / [[governance\|governance]] / [[terms/catastrophic risk\|catastrophic risks]] below:
-
-- why collaborative?
-[[people/references/charles eisenstein\|charles eisenstein]] [[concepts/sacred economics\|sacred economics]] - actually needing each other. work that reconnects. reconnection. resilience.
-
-- why regenerative?
-due to the design of our systems and their [[incentives\|incentives]], most people in power don't want to relinquish power. so it's almost impossible to effectively tackle major issues such as climate change, land ownership or big reforms to our political and economic systems.
-
-despite tons of speculation, scams, misleading marketing, degens, incels and other forms of unhealthy behavior, many people in the [[web3 1\|web3 1]] space are keenly aware of this and have been building in this direction for a long time.
-
-something i realized through [[references/player/anime ; manga ; webtoon/naruto (anime)\|naruto]] (believe it! "the cycle of hatred") and [[initiatives, orgs & communities/architect;design/SEEDS (ecosystem)\|SEEDS (ecosystem)]] is that we don't need yet another revolution, but a renaissance. if people are excluded, left out, that breeds division and hatred. if they are included, invited into new civilizations with a different set of values, where they can have a different experience of reality - one not of command and control, but of empathy and care - where *by design* they're taken care of and their power is gradually decentralized and shifted into the community, we have a chance to change through a change of heart.
-
-so we don't care about regeneration just because we need to take care of earth in order to survive as a species. regeneration is the process through which us and nature unfold. if we don't regenerate (heal) ourselves, our relationships, our institutions, there's no way we can flourish and thrive.
-
-#### motivation / background
-
-this investigation started for me back in 2014, as i was a 15-year-old trying to figure out a career to follow or what to do in the future. unable to conceive of a single path to follow or a single topic to study, i was jumping around exploring possibilities until i had my first startling realization about life and the world we live in:
-
-> i can't predict who i'll be in 5-10 years, much less what the world will look like by then. so it's not about what i do right now, but about being able to learn whatever's necessary when it's necessary.
->
-> so it's about [[learning how to learn\|learning how to learn]]. so i can recognize why, when and how to do something.
-
-essentially, this realization gave me a sense that no single project or topic was "the most important" in my life. **my own life is my biggest, most important project.**
-
-(which later on can be challenged - as in there's value in being devoted to something bigger than yourself - yet, in terms of [[first principles\|first principles]], if your life isn't your n° 1 priority, you may not be able to survive to dedicate yourself to that thing, or anything else)
-
-so it's not about being a narcissist and putting your desires and priorities above everyone else's, but recognizing that the quality of anything you do or achieve is determined by how you're choosing to live your life.
-
-the less focus, attention and awareness you have over your own life, the more unconscious and automatic behaviors you'll have, that may not be leading you to where you really want to be.
-
-that's how for me, the object of study became the subject (myself), and the subjects (i wanted to learn) became just objects for my subject.
-
-all this made me start questioning:
-
-- why are there hundreds of project management tools, but pretty much no "life management tools"? should i just use project management tools to manage my life?
-
-that's how i discovered [[models & frameworks/getting things done\|GTD]] and lots of [[coaching tools\|coaching tools]] at the time, but this didn't satistfy me at all. i grew up playing games, so i was used to having lots of [[interfaces\|interfaces]] and tools such as [[maps\|maps]], [[concepts/dashboards\|dashboards]], [[cheatsheets\|cheatsheets]], [[wikis\|wikis]], etc, to help me play, and even more elements like an [[inventory\|inventory]], [[skill\|skill]]/[[talent trees\|talent trees]], [[missions\|missions]], [[achievements\|achievements]] and [[challenges\|challenges]] for managing my virtual journeys and characters.
-
-so i was extremely confused:
-
-- why on earth are the tools i have to play a fictional game much better than the tools i have to manage my own real life?
-
-***wtf is going on here?***
-
-besides this lack of tools, there's an experience you might relate to even if you never played games. the feeling of an utterless lack of meaning, fun and fulfillment as you grow up and face the "real world" - the job market, relationships, or modern life in general.
-
-much like many games, i started noticing that playing our well-established societal games is often times numbing. instead of inspiring us, helping us learn and evolve, they often disconnect us from ourselves, others and reality itself, making us fall prey to our own automatic, unconscious detrimental behaviors.
-
-not only fun, the "normal adult life" lacked a soul. and i was on a mission to understand why.
-
-this investigation brought me many more questions, such as:
-
-> - what games do i actually want to play in my life?
-> - why isn't life more like a game? or, why isn't there a game of life yet?
-> - in what ways is life already a game?
-> - if this game of life existed, what would it really look like? or what would it take for it to be built?
-> - what perspectives and instances of the "life game" are there?
-> - how are people already playing life? and how could we be playing it?
-> - how might we play life in ways that are more conscious, impactful, collaborative, fun and fulfilling? are these even good, useful perspectives to measure and orient our life towards?
-
-throughout the past 8 years, these inquiries led me down many paths of discovery and self-transformation. the answers are much more complex, while at the same time, they can be simple. one of the big challenges is to actually make sense of so much divergent information, experiences and perspectives.
-
-this collection of essays is my attempt to consolidate the results of this research and provide some possible directions to these and other important questions, such as:
-
-> how can we create more fulfilling and meaningful lives in our present day and age?
-
-this inquiry led me to the realization of our interdependence with nature and many other beings, as well as our interconnectedness with/through our human-built systems.
-
-> how can we recognize ourselves and our role in the whole of reality and this world?
-
-and finally,
-
-> how can we address the spiritual/psychological, ecological, economic, political and educational crises we're going through and create the more beautiful world our hearts know is possible?
-
-below i present my thoughts and discoveries, by sharing several key concepts, challenges, references, projects and prototypes i found or created, in a comprehensive way.

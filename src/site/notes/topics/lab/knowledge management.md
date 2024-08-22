@@ -1,5 +1,5 @@
 ---
-{"aliases":["PKM","KM","pkm"],"created in":"2021-12-11T16:51:55-03:00","last tended to":"2024-08-18T12:38:20-03:00","tags":["🌿","topic","knowledgemanagement"],"relevance score":94,"dg-publish":true,"permalink":"/topics/lab/knowledge-management/","dgPassFrontmatter":true,"created":"2021-12-11T16:51:55.968-03:00","updated":"2024-08-18T15:24:32.450-03:00"}
+{"aliases":["PKM","KM","pkm"],"created in":"2021-12-11T16:51:55-03:00","last tended to":"2024-08-22T14:29:03-03:00","tags":["🌿","topic","knowledgemanagement"],"relevancescore":94,"dg-publish":true,"permalink":"/topics/lab/knowledge-management/","dgPassFrontmatter":true,"created":"2021-12-11T16:51:55.968-03:00","updated":"2024-08-22T14:29:03.030-03:00"}
 ---
 
 > [!info]- assumed audience
@@ -25,20 +25,20 @@ a loose/biased yet informative meme on the subject (by me):
 #### more references:
 
 begginer-friendly channels:
-[[thomas frank\|thomas frank]], [[people/references/ali abdaal\|ali abdaal]], [[tbprocessed/base notes/people/marie poulin\|marie poulin]]
+[[thomas frank\|thomas frank]], [[people/references/lab/ali abdaal\|ali abdaal]], [[tbprocessed/base notes/people/marie poulin\|marie poulin]]
 
 intermediate channels:
-[[people/references/tiago forte\|tiago forte]], [[people/references/nick milo\|nick milo]], [[anne-laure le cunff\|anne-laure le cunff]], [[august bradley\|august bradley]], [[people/references/shu omi\|shu omi]], [[people/references/fromsergio\|fromsergio]]
+[[people/references/lab/tiago forte\|tiago forte]], [[people/references/lab/nick milo\|nick milo]], [[anne-laure le cunff\|anne-laure le cunff]], [[august bradley\|august bradley]], [[people/references/lab/shu omi\|shu omi]], [[people/references/lab/fromsergio\|fromsergio]]
 
 more advanced / state of the art:
-[[people/references/maggie appleton\|maggie appleton]], [[people/references/gordon brander\|gordon brander]], [[tbprocessed/base notes/people/zsolt viczián\|zsolt viczián]], [[tbprocessed/base notes/people/bryan jenks\|bryan jenks]], [[people/references/robert haisfield\|robert haisfield]], [[andy matuschak\|andy matuschak]]
+[[people/references/lab/maggie appleton\|maggie appleton]], [[people/references/lab/gordon brander\|gordon brander]], [[tbprocessed/base notes/people/zsolt viczián\|zsolt viczián]], [[tbprocessed/base notes/people/bryan jenks\|bryan jenks]], [[people/references/lab/robert haisfield\|robert haisfield]], [[andy matuschak\|andy matuschak]]
 \+ most people on my twitter "[tier 1 knowledge management](https://twitter.com/i/lists/1452293502935748620)" list.
 
 main tools:
 [[tbprocessed/base notes/tools;products - general/notion\|notion]], [[tbprocessed/base notes/ventures - general/obsidian\|obsidian]], [[projects & tools/tools/logseq\|logseq]]
 \+ 75 tools from my twitter list: https://twitter.com/i/lists/1401589596635402250
 
-related terms/concepts: [[information ecology\|information ecology]], [[topics/architect;design/tools for thought\|tools for thought]], [[topics/lab/artificial intelligence\|AI]], [[file management\|file management]], [[bookmarks\|bookmarks]]
+related terms/concepts: [[information ecology\|information ecology]], [[topics/architect;design/tools for thought\|tools for thought]], [[topics/lab/artificial intelligence\|AI]], [[file management\|file management]], [[patterns/active patterns/knowledge design/social bookmarks\|social bookmarks]]
 [[workflows\|workflows]], [[processes\|processes]], [[frameworks\|frameworks]], [[BASB\|BASB]], [[models & frameworks/PPV\|PPV]], [[models & frameworks/C.O.D.E\|C.O.D.E]], [[models & frameworks/PARA\|PARA]], [[_004_L1F3/l1f3 management methodology\|L1F3 management framework]].
 --> [[relevance realization\|relevance realization]] | [[models & frameworks/OODA loop\|OODA loop]] | [[models & frameworks/DIKW pyramid\|DIKW pyramid]]...
 
@@ -53,7 +53,7 @@ collapse: open
 the contents of the writing below are currently haphazard, disjointed and all over the place. please proceed at your own risk. (*or don't.* feel free to come back later when it'll be hopefully updated and improved.)
 ```
 
-much like [[people/references/alexander obenauer\|alexander obenauer]] with the [[_006_core notes/personal OS design\|future of operating systems]], [[people/references/gordon brander\|gordon brander]] with [[concepts/protocols for thought\|protocols for thought]], [[people/references/samuel timbó\|samuel timbó]] with [[topics/lab/the future of computing\|the future of computing]], or [[people/references/hanzi freinacht\|hanzi freinacht]] with the future of [[politics\|politics]], i have a vision for the future of information and knowledge management.
+much like [[people/references/lab/alexander obenauer\|alexander obenauer]] with the [[_006_core notes/personal OS design\|future of operating systems]], [[people/references/lab/gordon brander\|gordon brander]] with [[concepts/protocols for thought\|protocols for thought]], [[people/references/lab/samuel timbó\|samuel timbó]] with [[topics/lab/the future of computing\|the future of computing]], or [[people/references/alchemy/hanzi freinacht\|hanzi freinacht]] with the future of [[politics\|politics]], i have a vision for the future of information and knowledge management.
 
 it includes an [[ontology\|ontology]] - the [[_004_L1F3/l1f3 management methodology\|L1F3 management framework]], its application in a [[system\|system]] - the [[_004_L1F3/l1f3 management system\|L1F3 management system]], and its decentralization as part of a [[protocol\|protocol]] - the [[_004_L1F3/l1f3 protocol\|L1F3 protocol]].
 
@@ -81,7 +81,7 @@ the major turning point happened when i went through the whole 4-week "[[learnin
 
 i was seeing clearly how "learning how to learn" isn't about techniques, but mostly about the overall context - environment, frame of mind, references/curation and emotional guidance of the learner. (i.e. [[topics/architect;design/ontological design\|ontological design]]).
 
-plus, lots of intuitions from other references that i eventually found/discovered in KM/its adjacent fields: tools for thought as extended cognition [maggie], transformational tft [andy/michael], the properties of the computational medium [[people/references/bret victor\|bret victor]], knowledge presentation as fractals [], ontologies as [scaling synthesis], topographical intelligence via maps [wardley maps]... and many others that i still haven't found well-articulated by anyone (such as game UI/UXs as incredibly useful for real-life management)...
+plus, lots of intuitions from other references that i eventually found/discovered in KM/its adjacent fields: tools for thought as extended cognition [maggie], transformational tft [andy/michael], the properties of the computational medium [[people/references/lab/bret victor\|bret victor]], knowledge presentation as fractals [], ontologies as [scaling synthesis], topographical intelligence via maps [wardley maps]... and many others that i still haven't found well-articulated by anyone (such as game UI/UXs as incredibly useful for real-life management)...
 
 if i, as a 15-year-old was feeling/noticing all that, how could these experts not be? this, alongside my underwhelming experience at my high school/technical degree, which was an extension of the "second best university in brazil", and therefore supposed to be "good", led me to an [[existential crisis\|existential crisis]].
 
@@ -111,7 +111,7 @@ to this day, it's extremely dumbfounding to me how we live in an [[information a
 
 that is, until ~2018, when tools such as [[tbprocessed/base notes/tools;products - general/notion\|notion]], [[tbprocessed/base notes/ventures - general/roam research\|roam research]] and [[tbprocessed/base notes/ventures - general/obsidian\|obsidian]] were launched, bringing a new surge of popularity to this idea of "[[no-code\|no-code]]", [[topics/architect;design/tools for thought\|tools for thought]] and "[[online productivity tools\|online productivity tools]]" in general - and now it also became a subject for internet nerds. yay! 🙃
 
-since that time i've been dedicating a large amount of my time and energy thinking about "[[personal systems design\|personal systems design]]" in the form of this "[[concepts/building a second brain\|building a second brain]]" / "[[digital systems design\|digital systems design]]", but i'd be lying if i said this is the essence of it.
+since that time i've been dedicating a large amount of my time and energy thinking about "[[personal systems design\|personal systems design]]" in the form of this "[[patterns/active patterns/knowledge management/building a second brain\|building a second brain]]" / "[[digital systems design\|digital systems design]]", but i'd be lying if i said this is the essence of it.
 
 the same feeling that has been with me since my first experience of [[awakening\|awakening]] has changed and evolved in many ways, but still underlies everything i do, learn, sense, share and build in this field. i trust my judgment and experience above all (which is often times challenging, as it proves itself to be "wrong" or simply - true, but partial), but that unique "taste", "design", "feel" still remains as the guiding force, and while i still don't always follow it blindly, there's a unique value to it and i intend to let it unfold.
 

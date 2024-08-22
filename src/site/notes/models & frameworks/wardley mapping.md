@@ -1,5 +1,5 @@
 ---
-{"aliases":["wardley maps"],"created in":"2023-06-04T20:16:22-03:00","last tended to":"2024-07-17T21:56:36-03:00","tags":["knowledgemanagement","🌿","mapping","strategy","framework"],"relevance score":86,"dg-publish":true,"permalink":"/models-and-frameworks/wardley-mapping/","dgPassFrontmatter":true,"created":"2023-06-04T20:16:22.963-03:00","updated":"2024-07-17T22:15:10.004-03:00"}
+{"aliases":["wardley maps"],"created in":"2023-06-04T20:16:22-03:00","last tended to":"2024-08-19T03:05:43-03:00","tags":["knowledgemanagement","🌿","mapping","strategy","framework"],"relevancescore":86,"dg-publish":true,"permalink":"/models-and-frameworks/wardley-mapping/","dgPassFrontmatter":true,"created":"2023-06-04T20:16:22.963-03:00","updated":"2024-08-19T03:05:43.155-03:00"}
 ---
 
 ###### according to wardley mapping, any map contains the following 6 elements:

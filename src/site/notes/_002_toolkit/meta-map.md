@@ -1,5 +1,5 @@
 ---
-{"aliases":["🗺 meta-map","wordcloud","🗾 meta-map"],"created in":"2022-01-03T19:16:10-03:00","last tended to":"2024-07-24T04:44:12-03:00","tags":["design","🌿","research","knowledgedesign","informationdesign","experiment"],"dg-publish":true,"permalink":"/002-toolkit/meta-map/","dgPassFrontmatter":true,"created":"2022-01-03T19:16:10.550-03:00","updated":"2024-07-24T04:44:29.287-03:00"}
+{"aliases":["🗺 meta-map","wordcloud","🗾 meta-map"],"created in":"2022-01-03T19:16:10-03:00","last tended to":"2024-08-20T12:59:20-03:00","tags":["design","🌿","research","knowledgedesign","informationdesign","experiment"],"dg-publish":true,"permalink":"/002-toolkit/meta-map/","dgPassFrontmatter":true,"created":"2022-01-03T19:16:10.550-03:00","updated":"2024-08-20T12:59:25.310-03:00"}
 ---
 
 an extensive list / experimental form of intuitive clustering of all major themes/domains and references i'm working with.
@@ -45,7 +45,7 @@ added:
 
 [[personal systems\|personal systems]] / [[personal workflows\|personal workflows]]
 
-[[topics/lab/digital gardening\|digital gardening]]
+[[patterns/active patterns/knowledge design/digital gardening\|digital gardening]]
 
 [[topics/lab/AI agents\|AI agents]]
 
@@ -248,7 +248,7 @@ multidimensional resources management
 
 [[topics/lab/knowledge management\|knowledge management]]
 
-[[people/references/shu omi\|shu omi]]
+[[people/references/lab/shu omi\|shu omi]]
 [[idea storage\|idea storage]]
 [[idea factory\|idea factory]]
 [[projects & tools/tools/amplenote\|amplenote]]
@@ -643,7 +643,7 @@ multidimensional resources management
 [[terms/decision-making\|decision-making]]
 [[collaboration]]
 
-[[_003_research/core ideas\|core ideas]]
+[[_003_research/03 - core ideas\|03 - core ideas]]
 [[insights\|insights]]
 [[concepts/atomic essays\|atomic essays]]
 [[thesis\|thesis]]
@@ -656,8 +656,8 @@ underutilized terms i have a special place for:
 
 [[internet citizen\|internet citizen]]
 
-[[learning out loud\|learning out loud]]
-[[building in public\|building in public]]
+[[patterns/active patterns/learning/learning out loud\|learning out loud]]
+[[patterns/active patterns/knowledge design/building in public\|building in public]]
 [[digital papertrail\|digital papertrail]]
 
 [[creative friendships\|creative friendships]]

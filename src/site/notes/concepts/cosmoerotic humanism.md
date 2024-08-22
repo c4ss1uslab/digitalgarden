@@ -1,10 +1,10 @@
 ---
-{"created in":"2024-03-19T17:52:10-03:00","last tended to":"2024-06-19T18:24:35-03:00","tags":["alchemy","concept","🌱","metacrisis"],"relevance score":94,"dg-publish":true,"permalink":"/concepts/cosmoerotic-humanism/","dgPassFrontmatter":true,"created":"2024-05-04T18:13:54.780-03:00","updated":"2024-07-09T17:28:00.519-03:00"}
+{"created in":"2024-03-19T17:52:10-03:00","last tended to":"2024-07-09T17:28:00-03:00","tags":["alchemy","concept","🌱","metacrisis"],"relevancescore":94,"dg-publish":true,"permalink":"/concepts/cosmoerotic-humanism/","dgPassFrontmatter":true,"created":"2024-05-04T18:13:54.780-03:00","updated":"2024-08-19T03:05:40.820-03:00"}
 ---
 
 really powerful philosophy proposed by [[david j. temple\|david j. temple]] as an evolution of [[perennial philosophy\|perennial philosophy]], [[topics/alchemy/spiritual lineages\|wisdom traditions]] and [[concepts/interior sciences\|interior]]/[[terms/sciences\|exterior sciences]] to address the [[systemic challenges\|systemic challenges]] and [[callings\|callings]] of our time & species.
 
-associated with: [[people/references/ken wilber\|ken wilber]]/[[concepts/integral theory\|integral theory]], [[concepts/metacrisis\|metacrisis]], [[initiatives, orgs & communities/architect;design/civilization research institute\|civilization research institute]].
+associated with: [[people/references/alchemy/ken wilber\|ken wilber]]/[[concepts/integral theory\|integral theory]], [[concepts/metacrisis\|metacrisis]], [[initiatives, orgs & communities/architect;design/civilization research institute\|civilization research institute]].
 ##### recommended resources
 
 [CosmoErotic Humanism: Philosophy in a Time Between Worlds](https://worldphilosophyandreligion.org/wp-content/uploads/2022/04/2020-03-10_CosmoEroticHumanism_6pager_FINAL.pdf) - very good short paper (7 pages) introducing the subject.

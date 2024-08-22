@@ -22,7 +22,7 @@ play is both an attitude and an [[terms/action\|action]], it happens at all leve
 
 ancient [[topics/alchemy/spiritual lineages\|wisdom traditions]] also do so by saying that life is a [[lila\|lila]], [[maya\|maya]], yet also a journey of [[tbprocessed/base notes/concepts - general/conscious evolution\|conscious evolution]].
 
-[[topics/alchemy/indigenous wisdom\|indigenous wisdom]] might state that life is about [[topics/player/learning\|learning]], [[terms/creation\|creating]], [[concepts/healing\|healing]], [[sharing\|sharing]], [[topics/player/play\|playing]]. and meta-theorists such as [[people/references/ken wilber\|ken wilber]] encapsulate it as [[concepts/waking up\|concepts/waking up]], [[concepts/growing up\|growing up]], [[concepts/cleaning up\|cleaning up]], [[concepts/showing up\|showing up]], [[concepts/opening up\|opening up]]. 
+[[topics/alchemy/indigenous wisdom\|indigenous wisdom]] might state that life is about [[topics/player/learning\|learning]], [[terms/creation\|creating]], [[concepts/healing\|healing]], [[sharing\|sharing]], [[topics/player/play\|playing]]. and meta-theorists such as [[people/references/alchemy/ken wilber\|ken wilber]] encapsulate it as [[concepts/waking up\|concepts/waking up]], [[concepts/growing up\|growing up]], [[concepts/cleaning up\|cleaning up]], [[concepts/showing up\|showing up]], [[concepts/opening up\|opening up]]. 
 
 [[cyberneticians\|cyberneticians]] might use the [[models & frameworks/OODA loop\|OODA loop]] often, using the [[sensing\|sensing]], [[topics/alchemy/sensemaking\|sensemaking]], [[terms/decision-making\|decision-making]], [[terms/action\|action]], [[topics/player/learning\|learning]] loops to study the [[patterns of living systems\|patterns of living systems]] and do [[complexity-informed design\|complexity-informed design]].
 
@@ -36,7 +36,7 @@ how do we hold space for all these perspectives, and more to come?
 
 [[_004_L1F3/l1f3 protocol\|L1F3 protocol]] is an experimental interoperability protocol for perspectives - testing, evaluating, taking, changing and creating.
 
-related people: [[tbprocessed/base notes/people/peth\|peth]]/[[changethegame\|changethegame]]/[[metadreamer\|metadreamer]], [[people/friends/davi lemos\|davi lemos]], [[people/friends/marcelo peterlini\|marcelo peterlini]], [[victor\|victor]] ([[vibecafe.xyz\|vibecafe.xyz]]), [[people/references/gordon brander\|gordon brander]], [[gui david\|gui david]]/[[ketan agrawal\|ketan agrawal]], [[ana marques\|ana marques]]/[[people/acquaintances/ciano\|ciano]], [[ethan nelson\|ethan nelson]]/[[eric brown\|eric brown]], [[julyanna carmo\|julyanna carmo]]/[[daya\|daya]]/[[ronaldo crispim\|ronaldo crispim]], [[people/acquaintances/luis sérgio ferreira\|luis sérgio ferreira]]/[[people/acquaintances/alex bretas\|alex bretas]].
+related people: [[tbprocessed/base notes/people/peth\|peth]]/[[changethegame\|changethegame]]/[[metadreamer\|metadreamer]], [[people/friends/davi lemos\|davi lemos]], [[people/friends/marcelo peterlini\|marcelo peterlini]], [[victor\|victor]] ([[vibecafe.xyz\|vibecafe.xyz]]), [[people/references/lab/gordon brander\|gordon brander]], [[gui david\|gui david]]/[[ketan agrawal\|ketan agrawal]], [[ana marques\|ana marques]]/[[people/acquaintances/ciano\|ciano]], [[ethan nelson\|ethan nelson]]/[[eric brown\|eric brown]], [[julyanna carmo\|julyanna carmo]]/[[daya\|daya]]/[[ronaldo crispim\|ronaldo crispim]], [[people/acquaintances/luis sérgio ferreira\|luis sérgio ferreira]]/[[people/acquaintances/alex bretas\|alex bretas]].
 
 ¹see: [[tbprocessed/base notes/concepts - general/disruption\|disruption]].
 ### main references:
@@ -103,7 +103,7 @@ examples: [[references/player/games/ashes of creation\|ashes of creation]] - htt
 cabinDAO profiles (+ other DAO governance mechanisms, greenpill, gnosis guild/zodiac, SEEDS)
 startover.xyz's experiments catalog
 united planet 2030 (SEEDS) / school of humanity
-[[people/references/gnoman\|gnoman]] regenaissance festival / [[edgar gouvea jr\|edgar gouvea jr]]'s gincanas
+[[people/references/architect;design/gnoman\|gnoman]] regenaissance festival / [[edgar gouvea jr\|edgar gouvea jr]]'s gincanas
 playful software - hyperlink, sane, fermat, mmmpages, hugginface spaces, others in the indieweb space
 (more to add...)
 X-prize, bootcamps, hackathons...
@@ -144,7 +144,7 @@ the contents of the writing below are currently haphazard, disjointed and all ov
 
 ###### game design refs
 
-in the field of [[topics/player/game design\|game design]] there are no established "[[patterns/game design patterns\|game design patterns]]", however there are proposals and compilations made by [staffan bjork & jussi holopainen](http://virt10.itu.chalmers.se/index.php/Main_Page) (2004), [joris dormans](https://pure.hva.nl/ws/portalfiles/portal/141730/556198_Dissertatie_Dormans.pdf) (2012), [jose zagal](https://www.gameontology.com/index.php/Main_Page) (2020), [christopher barney](https://patternlanguageforgamedesign.com/PatternLibraryApp/PatternLibrary/) (2021), and others that are useful references.
+in the field of [[topics/player/game design\|game design]] there are no established "[[patterns/pattern collections/game design patterns\|game design patterns]]", however there are proposals and compilations made by [staffan bjork & jussi holopainen](http://virt10.itu.chalmers.se/index.php/Main_Page) (2004), [joris dormans](https://pure.hva.nl/ws/portalfiles/portal/141730/556198_Dissertatie_Dormans.pdf) (2012), [jose zagal](https://www.gameontology.com/index.php/Main_Page) (2020), [christopher barney](https://patternlanguageforgamedesign.com/PatternLibraryApp/PatternLibrary/) (2021), and others that are useful references.
 
 ###### game theory refs
 
@@ -435,7 +435,7 @@ other components of personal systems (life OS, management, streaming, player sys
 ### more references
 
 [[a jogada\|a jogada]]
-[[people/references/caio vassão\|caio vassão]]
+[[people/references/architect;design/caio vassão\|caio vassão]]
 [[tbprocessed/base notes/ventures - general/our world the game\|our world the game]]
 [[unitedplanet\|unitedplanet]]
 

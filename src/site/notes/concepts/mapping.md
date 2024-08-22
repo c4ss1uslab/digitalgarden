@@ -1,5 +1,5 @@
 ---
-{"aliases":["map","maps"],"created in":"2022-04-19T15:34:21-03:00","last tended to":"2024-07-24T05:11:54-03:00","tags":["🌿","concept","mapping"],"relevance score":91,"dg-publish":true,"permalink":"/concepts/mapping/","dgPassFrontmatter":true,"created":"2022-04-19T15:34:21.040-03:00","updated":"2024-07-27T14:01:34.156-03:00"}
+{"aliases":["map","maps"],"created in":"2022-04-19T15:34:21-03:00","last tended to":"2024-07-27T14:01:34-03:00","tags":["🌿","concept","mapping"],"relevancescore":91,"dg-publish":true,"permalink":"/concepts/mapping/","dgPassFrontmatter":true,"created":"2022-04-19T15:34:21.040-03:00","updated":"2024-08-19T03:05:41.260-03:00"}
 ---
 
 ## 1) definitions & types of maps
@@ -183,7 +183,7 @@ to understand the usefulness of these initiatives, look at how they're mapping: 
 ---
 #### d) "maps" of the [[cozy web\|cozy web]]/[[indie web\|indie web]]/[[slow web\|slow web]]:
 
-introduction to the concept/space and illustration made by [[people/references/maggie appleton\|maggie appleton]]:
+introduction to the concept/space and illustration made by [[people/references/lab/maggie appleton\|maggie appleton]]:
  
 [![maggie appleton's internet communities cattegorization.png|700](/img/user/assets/maggie%20appleton's%20internet%20communities%20cattegorization.png)](https://maggieappleton.com/cozy-web)
 *(click to read more)*
@@ -251,7 +251,7 @@ the contents of the writing below are currently haphazard, disjointed and all ov
 ```
 
 ##### themes/topics, perspectives/arguments, memes mapping
-refs: [[initiatives, orgs & communities/architect;design/golden\|golden]], [[projects & tools/tools/metaculus\|metaculus]], [[initiatives, orgs & communities/architect;design/ideamarket\|ideamarket]], [[references/lab/mapsmap hackathon\|mapsmap hackathon]], [[initiatives, orgs & communities/architect;design/civilization research institute\|civilization research institute]], [[kialo\|kialo]], [[people/references/nikita voloboev\|nikita voloboev]]...
+refs: [[initiatives, orgs & communities/architect;design/golden\|golden]], [[projects & tools/tools/metaculus\|metaculus]], [[initiatives, orgs & communities/architect;design/ideamarket\|ideamarket]], [[references/lab/mapsmap hackathon\|mapsmap hackathon]], [[initiatives, orgs & communities/architect;design/civilization research institute\|civilization research institute]], [[kialo\|kialo]], [[people/references/lab/nikita voloboev\|nikita voloboev]]...
 
 other relevant approaches:
 - [[models & frameworks/CEP+N\|CEP+N]]

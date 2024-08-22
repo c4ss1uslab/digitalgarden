@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-05-04T18:20:10-03:00","last tended to":"2024-06-20T16:33:18-03:00","tags":["🌿","metacrisis"],"aliases":["2R"],"dg-publish":true,"relevance score":98,"permalink":"/concepts/second-renaissance/","dgPassFrontmatter":true,"created":"2024-05-04T18:20:10.067-03:00","updated":"2024-07-25T00:35:11.687-03:00"}
+{"created in":"2024-05-04T18:20:10-03:00","last tended to":"2024-08-19T03:05:41-03:00","tags":["🌿","metacrisis"],"aliases":["2R"],"dg-publish":true,"relevancescore":98,"permalink":"/concepts/second-renaissance/","dgPassFrontmatter":true,"created":"2024-05-04T18:20:10.067-03:00","updated":"2024-08-19T03:05:41.582-03:00"}
 ---
 
 very interesting framing proposed by [[initiatives, orgs & communities/architect;design/life itself\|life itself]] for understanding/navigating the civilization era we're living.
@@ -19,7 +19,7 @@ a related graph proposed by [[david j. temple\|david j. temple]], in [[concepts/
 **intro** - https://secondrenaissance.net/intro
 
 **whitepaper** - https://drive.google.com/file/d/1m6gA7GKansoJdRZEr1zO6Ds7Hp5rMvo6/view
-it's like a summary of [[people/references/hanzi freinacht\|hanzi]]'s [[listening society\|listening society]]. great intro.
+it's like a summary of [[people/references/alchemy/hanzi freinacht\|hanzi]]'s [[listening society\|listening society]]. great intro.
 
 **ecosystem** (people in the field with similar/complementary approaches) - https://secondrenaissance.net/ecosystem
 

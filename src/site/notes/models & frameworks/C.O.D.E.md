@@ -4,7 +4,7 @@
 
 acronym for [[capture\|capture]], [[organize\|organize]], [[distill\|distill]], [[express\|express]].
 
-a framework proposed by [[people/references/tiago forte\|tiago forte]] / [[concepts/building a second brain\|building a second brain]].
+a framework proposed by [[people/references/lab/tiago forte\|tiago forte]] / [[patterns/active patterns/knowledge management/building a second brain\|building a second brain]].
 
 \ + correlation with the [[models & frameworks/OODA loop\|OODA loop]].
 

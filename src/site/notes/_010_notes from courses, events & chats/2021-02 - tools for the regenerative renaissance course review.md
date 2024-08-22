@@ -17,7 +17,7 @@ i'd give the course a 4.5/5. i really liked it, there are just a few points i th
 
 i'd have really appreciated a little more big picture contextualization (how big is [[topics/architect;design/refi\|refi]], [[tbprocessed/base notes/topics/permaculture\|permaculture]], [[dOrgs\|dOrgs]], [[dGov\|dGov]], who are the big players in these spaces, stuff like that).
 
-would have loved to learn more about your background ([[people/references/phoebe tickell\|phoebe tickell]] and [[people/references/stephen reid\|stephen reid]]) and what you're currently most interested in/excited about.
+would have loved to learn more about your background ([[people/references/regen/phoebe tickell\|phoebe tickell]] and [[people/references/architect;design/stephen reid\|stephen reid]]) and what you're currently most interested in/excited about.
 
 the main takeaway for me was transforming my relationship with decentralized orgs into something more tangible and possible, instead of just an understanding of a [[DAO\|DAO]]/[[tbprocessed/base notes/ventures - general/DisCO\|DisCO]] is.
 

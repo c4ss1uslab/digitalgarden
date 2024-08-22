@@ -2,7 +2,7 @@
 {"created in":"2022-04-04T17:07:01-03:00","last tended to":"2024-06-20T16:45:03-03:00","aliases":["quadrants","ken wilber's quadrants","ken wilber's four quadrants","integral theory's quadrants","integral theory's four quadrants"],"tags":["alchemy","integraltheory","🌿","framework"],"dg-publish":true,"permalink":"/models-and-frameworks/four-quadrants/","dgPassFrontmatter":true,"created":"2022-04-04T17:07:01.878-03:00","updated":"2024-06-20T17:06:18.867-03:00"}
 ---
 
-one of the main elements of the [[models & frameworks/AQAL\|AQAL]] and one of the main philosophical contributions from [[people/references/ken wilber\|ken wilber]] (in my perspective).
+one of the main elements of the [[models & frameworks/AQAL\|AQAL]] and one of the main philosophical contributions from [[people/references/alchemy/ken wilber\|ken wilber]] (in my perspective).
 
 it states that all of reality can be interpreted through the lens of these quadrants - interior, exterior, individual and collective - i.e. everything in reality exists within it.
 

@@ -1,5 +1,5 @@
 ---
-{"created in":"2021-12-11T16:51:57-03:00","last tended to":"2024-06-22T20:49:35-03:00","website":"https://joinseeds.earth/","tags":["project","top3","web3","regeneration","ReFi","post-growth","🌿","DAOs","initiative"],"aliases":["SEEDS"],"relevance score":98,"dg-publish":true,"permalink":"/initiatives-orgs-and-communities/architect-design/seeds-ecosystem/","dgPassFrontmatter":true,"created":"2021-12-11T16:51:57.834-03:00","updated":"2024-07-19T20:06:58.702-03:00"}
+{"created in":"2021-12-11T16:51:57-03:00","last tended to":"2024-08-19T03:05:42-03:00","website":"https://joinseeds.earth/","tags":["project","top3","web3","regeneration","ReFi","post-growth","🌿","DAOs","initiative"],"aliases":["SEEDS"],"relevancescore":98,"dg-publish":true,"permalink":"/initiatives-orgs-and-communities/architect-design/seeds-ecosystem/","dgPassFrontmatter":true,"created":"2021-12-11T16:51:57.834-03:00","updated":"2024-08-19T03:05:42.091-03:00"}
 ---
 
 #### context

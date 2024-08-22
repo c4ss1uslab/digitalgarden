@@ -1,5 +1,5 @@
 ---
-{"created in":"2021-12-11T16:51:56-03:00","last tended to":"2024-07-23T02:22:33-03:00","tags":["tool","socialsensemaking","holochain","🌿"],"dg-publish":true,"relevance score":80,"permalink":"/projects-and-tools/tools/hylo/","dgPassFrontmatter":true,"created":"2021-12-11T16:51:56.442-03:00","updated":"2024-07-23T02:23:15.811-03:00"}
+{"created in":"2021-12-11T16:51:56-03:00","last tended to":"2024-08-19T03:05:44-03:00","tags":["tool","socialsensemaking","holochain","🌿"],"dg-publish":true,"relevancescore":80,"permalink":"/projects-and-tools/tools/hylo/","dgPassFrontmatter":true,"created":"2021-12-11T16:51:56.442-03:00","updated":"2024-08-19T03:05:44.533-03:00"}
 ---
 
 https://hylo.com/

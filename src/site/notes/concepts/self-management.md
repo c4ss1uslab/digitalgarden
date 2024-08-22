@@ -12,7 +12,7 @@ my proposal is to recognize the complementarity of them and do both. :)
 
 [[concepts/integral theory\|integral theory]] shows that distinction/complementarity through the framework of the [[models & frameworks/four quadrants\|four quadrants]] (applied/shown below), which says that each of these is focusing on a different dimension of reality. (individual exterior vs individual interior) - and so [[concepts/integral theory\|integral]] provides a great foundation to build upon and do both inner/outer tracking + presents fantastic distinctions on [[self-development\|self-development]], namely the [[models & frameworks/AQAL\|AQAL]] framework - [[models & frameworks/four quadrants\|quadrants]], [[states\|states]], [[stages\|stages]], [[types\|types]], [[lines\|lines]].
 
-[[people/references/hanzi freinacht\|hanzi freinacht]] also has great distinctions which can be powerfully applied, conceptualizing [[human development\|human development]] as a sum of [[cognitive development\|cognitive development]], [[cultural code\|cultural code]], [[overall state\|overall state]] and [[existential depth\|existential depth]].
+[[people/references/alchemy/hanzi freinacht\|hanzi freinacht]] also has great distinctions which can be powerfully applied, conceptualizing [[human development\|human development]] as a sum of [[cognitive development\|cognitive development]], [[cultural code\|cultural code]], [[overall state\|overall state]] and [[existential depth\|existential depth]].
 
 a good introduction to this broader perspective of self-management:
 

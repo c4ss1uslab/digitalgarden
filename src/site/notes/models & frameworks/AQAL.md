@@ -4,7 +4,7 @@
 
 AQAL is short for: all [[models & frameworks/four quadrants\|quadrants]], all [[levels\|levels]], all [[lines\|lines]], all [[states\|states]], all [[types\|types]].
 
-it's one of the core frameworks proposed by [[people/references/ken wilber\|ken wilber]], it integrates multiple other frameworks into a single one that encapsulates most of [[concepts/integral theory\|integral theory]].
+it's one of the core frameworks proposed by [[people/references/alchemy/ken wilber\|ken wilber]], it integrates multiple other frameworks into a single one that encapsulates most of [[concepts/integral theory\|integral theory]].
 
 it's one of the frames that helped me the most and reoriented my whole perception on life, so i highly recommend getting to know it. lots of people in the [[tbprocessed/base notes/concepts - general/game b\|game b]] / [[concepts/metacrisis\|metacrisis]] space also use it as a way to support complex, multi-perspectival, holistic [[topics/alchemy/sensemaking\|sensemaking]].
 { #b18ecf}
