@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-03-19T16:25:06-03:00","last tended to":"2024-08-22T15:27:36-03:00","tags":["person","research","knowledgemanagement","distributedsystems","cybernetics","top3","systemsscience","🌱"],"relevancescore":91,"dg-publish":true,"permalink":"/people/references/lab/gordon-brander/","dgPassFrontmatter":true,"created":"2024-03-19T16:25:06.818-03:00","updated":"2024-08-22T15:34:18.635-03:00"}
+{"created in":"2024-03-19T16:25:06-03:00","last tended to":"2024-08-26T13:16:07-03:00","tags":["person","research","knowledgemanagement","distributedsystems","cybernetics","top3","systemsscience","🌱"],"relevancescore":91,"dg-publish":true,"permalink":"/people/references/lab/gordon-brander/","dgPassFrontmatter":true,"created":"2024-03-19T16:25:06.818-03:00","updated":"2024-08-26T13:54:41.291-03:00"}
 ---
 
 https://gordonbrander.com/, founder of [[initiatives, orgs & communities/lab/subconscious (tool)\|subconscious (tool)]], publishing an amazing newsletter at: https://newsletter.squishy.computer/
@@ -24,7 +24,7 @@ simplifying/exploring foundational [[topics/lab/cybernetics\|cybernetics]]/[[top
 
 ###### other relevant tangential concepts related to his work/research:
 
-[[concepts/permacomputer\|permacomputer]].
+[[topics/lab/permacomputing\|permacomputing]].
 
 #### my notes/highlights:
 

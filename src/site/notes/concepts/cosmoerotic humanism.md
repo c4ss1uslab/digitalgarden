@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-03-19T17:52:10-03:00","last tended to":"2024-07-09T17:28:00-03:00","tags":["alchemy","concept","🌱","metacrisis"],"relevancescore":94,"dg-publish":true,"permalink":"/concepts/cosmoerotic-humanism/","dgPassFrontmatter":true,"created":"2024-05-04T18:13:54.780-03:00","updated":"2024-08-19T03:05:40.820-03:00"}
+{"created in":"2024-03-19T17:52:10-03:00","last tended to":"2024-08-19T03:05:40-03:00","tags":["alchemy","concept","🌱","metacrisis"],"relevancescore":96,"dg-publish":true,"permalink":"/concepts/cosmoerotic-humanism/","dgPassFrontmatter":true,"created":"2024-05-04T18:13:54.780-03:00","updated":"2024-08-23T17:43:49.746-03:00"}
 ---
 
 really powerful philosophy proposed by [[david j. temple\|david j. temple]] as an evolution of [[perennial philosophy\|perennial philosophy]], [[topics/alchemy/spiritual lineages\|wisdom traditions]] and [[concepts/interior sciences\|interior]]/[[terms/sciences\|exterior sciences]] to address the [[systemic challenges\|systemic challenges]] and [[callings\|callings]] of our time & species.

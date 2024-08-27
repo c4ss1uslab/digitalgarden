@@ -1,6 +1,10 @@
 ---
-{"aliases":["toolkit","🧰 toolkit","player toolkit","🧰 player toolkit","l1f3 player toolkit","🧰 l1f3 player toolkit","life player toolkit","🧰 life player toolkit","L1F3 player toolkit"],"created in":"2022-01-28T09:51:51-03:00","last tended to":"2024-07-23T01:35:22-03:00","tags":["prototype","🌿"],"dg-publish":true,"permalink":"/002-toolkit/000-l1f3-player-toolkit/","dgPassFrontmatter":true,"created":"2022-01-28T09:51:51.329-03:00","updated":"2024-07-23T01:36:26.463-03:00"}
+{"aliases":["toolkit","🧰 toolkit","player toolkit","🧰 player toolkit","l1f3 player toolkit","🧰 l1f3 player toolkit","life player toolkit","🧰 life player toolkit","L1F3 player toolkit"],"created in":"2022-01-28T09:51:51-03:00","last tended to":"2024-08-23T20:40:54-03:00","tags":["prototype","🌿"],"dg-publish":true,"permalink":"/002-toolkit/000-l1f3-player-toolkit/","dgPassFrontmatter":true,"created":"2022-01-28T09:51:51.329-03:00","updated":"2024-08-23T21:07:04.063-03:00"}
 ---
+
+#### about
+
+the l1f3 player toolkit is a first version prototype for: a minimal yet complete/integral framework for playing life in more [[conscious\|conscious]], [[terms/fun\|fun]], [[collaborative\|collaborative]], [[impactful\|impactful]] and [[topics/architect;design/regeneration\|regenerative]] ways.
 
 #### index
 
@@ -23,7 +27,7 @@ support systems:
 ---
 
 meta-systems:
-[[_004_L1F3/L1F3 game\|🎮 life game]]
+[[_004_L1F3/L1F3.game\|🎮 life game]]
 [[_004_L1F3/l1f3 operating system\|🌌 life operating system]]
 [[_004_L1F3/l1f3 management system\|🧠 life management system]]
 [[_004_L1F3/l1f3 streaming system\|🎥 life streaming system]]
@@ -36,4 +40,4 @@ player tools:
 ---
 ##### references:
 [[people/acquaintances/alex bretas\|alex bretas]] / [[reaprendiz\|reaprendiz]] stuff
-[[projects & tools/tools/EEF teaching & learning toolkit\|EEF teaching & learning toolkit]]
+[[projects & tools/tools/player/EEF teaching & learning toolkit\|EEF teaching & learning toolkit]]

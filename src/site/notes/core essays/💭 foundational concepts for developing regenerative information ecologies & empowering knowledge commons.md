@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-10-31T20:24:29-03:00","last tended to":"2024-07-19T22:52:14-03:00","dg-publish":true,"aliases":["💭 foundational concepts for knowledge commons"],"permalink":"/core-essays/foundational-concepts-for-developing-regenerative-information-ecologies-and-empowering-knowledge-commons/","dgPassFrontmatter":true,"created":"2023-10-31T20:24:29.951-03:00","updated":"2024-07-23T02:40:46.290-03:00"}
+{"created in":"2023-10-31T20:24:29-03:00","last tended to":"2024-08-27T17:07:17-03:00","dg-publish":true,"aliases":["💭 foundational concepts for knowledge commons"],"permalink":"/core-essays/foundational-concepts-for-developing-regenerative-information-ecologies-and-empowering-knowledge-commons/","dgPassFrontmatter":true,"created":"2023-10-31T20:24:29.951-03:00","updated":"2024-08-27T17:07:29.879-03:00"}
 ---
 
 draft link: https://medium.com/@cassiuscarvalho/foundational-concepts-for-developing-regenerative-information-ecologies-empowering-knowledge-d427b1dc2cb3
@@ -315,7 +315,7 @@ as a concept/practice, i find that digital gardens are already very valuable and
 
 some of my suggestions are: [maggie appleton](https://maggieappleton.com/garden), [nikita voloboev](https://wiki.nikiv.dev/), [azlen elza](https://notes.azlen.me/g3tibyfv/), [alex komoroske](https://thecompendium.cards/c/half-baked/), [tom critchlow](https://tomcritchlow.com/wiki/), [gordon brander](https://gordonbrander.com/pattern/), [gwern](https://gwern.net/), [bianca aguilar](https://www.are.na/bianca-aguilar), [scaling synthesis](https://scalingsynthesis.com/).
 
-the [[topics/lab/knowledge management\|PKM]]/[[tools for thought 1\|TfT]] (tools for thought) communities have grown a lot with the evolution and adoption of [[tbprocessed/base notes/tools;products - general/notion\|notion]] into mainstream use (largely driven by productivity youtubers such as [[matt d’avela\|matt d’avela]], [[thomas frank\|thomas frank]], [[people/references/lab/ali abdaal\|ali abdaal]], through the launch of [[tbprocessed/base notes/ventures - general/roam research\|roam research]] in 2016 as the first modern hyperlinked/graph-based note-taking tool (giving rise to many other popular tools today such as [[tbprocessed/base notes/ventures - general/obsidian\|obsidian]], [[remnote\|remnote]], [[projects & tools/tools/logseq\|logseq]] and [[tana\|tana]]) and the popularization of tiago forte’s [[patterns/active patterns/knowledge management/building a second brain\|BASB]] (building a second brain) methodology in the recent years.
+the [[topics/lab/knowledge management\|PKM]]/[[tools for thought 1\|TfT]] (tools for thought) communities have grown a lot with the evolution and adoption of [[tbprocessed/base notes/tools;products - general/notion\|notion]] into mainstream use (largely driven by productivity youtubers such as [[matt d’avela\|matt d’avela]], [[thomas frank\|thomas frank]], [[people/references/lab/ali abdaal\|ali abdaal]], through the launch of [[tbprocessed/base notes/ventures - general/roam research\|roam research]] in 2016 as the first modern hyperlinked/graph-based note-taking tool (giving rise to many other popular tools today such as [[tbprocessed/base notes/ventures - general/obsidian\|obsidian]], [[remnote\|remnote]], [[projects & tools/tools/lab/logseq\|logseq]] and [[tana\|tana]]) and the popularization of tiago forte’s [[patterns/active patterns/knowledge management/building a second brain\|BASB]] (building a second brain) methodology in the recent years.
 
 from my recent experience at an agroecological site, i noticed what’s missing on this digital movement, from an ecological/regenerative perspective is a deeper awareness of where all of this info-vegetation is planted, in relationship with what/whom.
 
@@ -338,10 +338,10 @@ but this is still an underdeveloped topic, with lots of potential for creation/i
 [[initiatives, orgs & communities/architect;design/goodly labs\|goodly labs]]' AI prototypes
 [[tbprocessed/base notes/ventures - general/SEEDS\|SEEDS]]' liquid democracy
 [[initiatives, orgs & communities/architect;design/meaning alignment institute\|meaning alignment institute]]
-[[roote\|roote]]'s [[projects & tools/projects/tweetscape\|tweetscape]]
+[[roote\|roote]]'s [[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social (ex-tweetscape)]]
 [[common sensemaker\|common sensemaker]]'s [sensenets](https://paragraph.xyz/@sense-nets/sense-nets-intro)
 [[initiatives, orgs & communities/architect;design/the society library\|society library]]
-[[projects & tools/tools/metaculus\|metaculus]]
+[[projects & tools/tools/design/metaculus\|metaculus]]
 (...)
 AI research tools
 digital gardening / second brain tools...

@@ -50,8 +50,8 @@ dynamic interfaces (generated via web/scraper/agent data + second brain informat
 
 https://maggieappleton.com/patterns
 https://gordonbrander.com/pattern
-[[projects & tools/projects/scaling synthesis\|scaling synthesis]]' stuff
-[[projects & tools/projects/gitcoin coordination mechanisms list\|gitcoin coordination mechanisms list]]
+[[projects & tools/projects/design/scaling synthesis\|scaling synthesis]]' stuff
+[[projects & tools/projects/design/gitcoin coordination mechanisms list\|gitcoin coordination mechanisms list]]
 \ + [[patterns/pattern collections/game design patterns\|game design patterns]]
 
 sourcing from: [[_004_L1F3/l1f3 management system\|l1f3 management system]].

@@ -35,7 +35,7 @@ more advanced / state of the art:
 \+ most people on my twitter "[tier 1 knowledge management](https://twitter.com/i/lists/1452293502935748620)" list.
 
 main tools:
-[[tbprocessed/base notes/tools;products - general/notion\|notion]], [[tbprocessed/base notes/ventures - general/obsidian\|obsidian]], [[projects & tools/tools/logseq\|logseq]]
+[[tbprocessed/base notes/tools;products - general/notion\|notion]], [[tbprocessed/base notes/ventures - general/obsidian\|obsidian]], [[projects & tools/tools/lab/logseq\|logseq]]
 \+ 75 tools from my twitter list: https://twitter.com/i/lists/1401589596635402250
 
 related terms/concepts: [[information ecology\|information ecology]], [[topics/architect;design/tools for thought\|tools for thought]], [[topics/lab/artificial intelligence\|AI]], [[file management\|file management]], [[patterns/active patterns/knowledge design/social bookmarks\|social bookmarks]]
@@ -125,6 +125,6 @@ and this isn't trashing on the field, i love most of it. i believe most of us re
 
 in short, my understanding/approach today is that:
 
-i don't propose a "definitive" or "best" way to handle information, but i do believe that having clean and relevant data, able to be used in multiple [[interoperable\|interoperable]], [[agent-centric\|agent-centric]] apps and shared in lots of different, flexible, contextual [[prototypes/l1f3 management system views\|views]], taking into account the different needs and preferences of people/institutions, sure is one of the better ones.
+i don't propose a "definitive" or "best" way to handle information, but i do believe that having clean and relevant data, able to be used in multiple [[interoperable\|interoperable]], [[agent-centric\|agent-centric]] apps and shared in lots of different, flexible, contextual [[prototypes/on hold/l1f3 management system views\|views]], taking into account the different needs and preferences of people/institutions, sure is one of the better ones.
 
 and i've been researching/building several systems, tools and prototypes in this direction - you can see more of them at my [[_001_MOCs/050 🟩 mid game/060 🗡 projects MOC\|projects]] page, or start with the [[_004_L1F3/l1f3 management system\|l1f3 management system]].

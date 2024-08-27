@@ -21,7 +21,7 @@ github - project categories:
 
 [[perception\|perception]] ([[topics/lab/data management\|data management]]/[[topics/lab/information management\|information management]]) / [[topics/alchemy/sensemaking\|sensemaking]] ([[topics/lab/knowledge management\|knowledge management]] - [[_001_MOCs/050 🟩 mid game/040 🤹🏻‍♂️ areas MOC\|responsibilities]], [[_002_toolkit/x+ 🎭 roles LPS\|roles]], [[_001_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|challenges]], etc) / [[terms/decision-making\|decision-making]] ([[decision management\|decision management]]) / [[terms/action\|action]]/[[topics/player/learning\|learning]] ([[task management\|task management]] / [[time management\|time management]] / [[energy management\|energy management]] / [[tbprocessed/base notes/topics/learning management\|learning management]]) / [[feedback\|feedback]]/[[results\|results]] ([[wisdom management\|wisdom management]] / [[values management\|values management]] / [[concepts/self-management\|self-management]])
 
-\+ different [[prototypes/l1f3 management system views\|views]]
+\+ different [[prototypes/on hold/l1f3 management system views\|views]]
 
 #### systems overview
 

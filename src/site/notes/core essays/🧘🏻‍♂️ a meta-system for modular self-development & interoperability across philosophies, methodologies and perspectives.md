@@ -16,7 +16,7 @@ integral theory already did that with [[religions\|religions]], [[topics/alchemy
 
 i could quote the works of [[eric brown\|eric brown]] on [hedonic engineering: building a psycho-spiritual growth stack](https://seriousplay.substack.com/p/hedonic-engineering), [[euvie ivanova\|euvie ivanova]] on [psycho-technologies for the age of collapse](https://euvieivanova.substack.com/p/psycho-technologies-for-the-age-of), [[people/references/alchemy/john vervaeke\|john vervaeke]] on [religion that is not a religion](https://www.youtube.com/@johnvervaeke), [psychotechnologies and distributed cognition](https://www.youtube.com/watch?v=237-jbJfleY) and the [[concepts/meaning crisis\|meaning crisis]] as a whole. (i love their works and recommend all of them)
 
-my good friend [[people/friends/marcelo peterlini\|marcelo peterlini]] also has been doing his own research and co-creation with [[daniel thorson\|daniel thorson]] on the [[church of the intimate web\|church of the intimate web]], which also features a synthetization of a lot of powerful perspectives.
+my good friend [[people/friends/marcelo peterlini\|marcelo peterlini]] also has been doing his own research and co-creation with [[people/references/alchemy/daniel thorson\|daniel thorson]] on the [[church of the intimate web\|church of the intimate web]], which also features a synthetization of a lot of powerful perspectives.
 
 plus some [[initiatives, orgs & communities/alchemy/possibility management\|possibility management]] on [[thoughtware upgrades\|thoughtware upgrades]]... and many others [to be explored]. sadhguru - self-engineering, [[topics/alchemy/spiritual lineages\|spiritual lineages]]...
 

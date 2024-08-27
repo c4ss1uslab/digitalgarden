@@ -251,7 +251,7 @@ the contents of the writing below are currently haphazard, disjointed and all ov
 ```
 
 ##### themes/topics, perspectives/arguments, memes mapping
-refs: [[initiatives, orgs & communities/architect;design/golden\|golden]], [[projects & tools/tools/metaculus\|metaculus]], [[initiatives, orgs & communities/architect;design/ideamarket\|ideamarket]], [[references/lab/mapsmap hackathon\|mapsmap hackathon]], [[initiatives, orgs & communities/architect;design/civilization research institute\|civilization research institute]], [[kialo\|kialo]], [[people/references/lab/nikita voloboev\|nikita voloboev]]...
+refs: [[initiatives, orgs & communities/architect;design/golden\|golden]], [[projects & tools/tools/design/metaculus\|metaculus]], [[initiatives, orgs & communities/architect;design/ideamarket\|ideamarket]], [[references/lab/mapsmap hackathon\|mapsmap hackathon]], [[initiatives, orgs & communities/architect;design/civilization research institute\|civilization research institute]], [[kialo\|kialo]], [[people/references/lab/nikita voloboev\|nikita voloboev]]...
 
 other relevant approaches:
 - [[models & frameworks/CEP+N\|CEP+N]]
@@ -267,14 +267,14 @@ other relevant approaches:
 
 ###### main references:
 - [[initiatives, orgs & communities/architect;design/sublime (ex-startupy)\|sublime (ex-startupy)]]
-- [[projects & tools/tools/melon\|melon]]
+- [[projects & tools/tools/design/melon\|melon]]
 - [[initiatives, orgs & communities/architect;design/golden\|golden]]
-- [[projects & tools/tools/weco\|weco]]
-- [[projects & tools/tools/hylo\|hylo]]
+- [[projects & tools/tools/design/weco\|weco]]
+- [[projects & tools/tools/design/hylo\|hylo]]
 - [[initiatives, orgs & communities/lab/neighbourhoods\|neighbourhoods]]
 
 ###### other orgs building tools:
-- [[the computational democracy project\|the computational democracy project]] ([[projects & tools/tools/pol.is\|pol.is]])
+- [[the computational democracy project\|the computational democracy project]] ([[projects & tools/tools/lab/pol.is\|pol.is]])
 - [[initiatives, orgs & communities/architect;design/goodly labs\|goodly labs]]
 
 ###### decentralized social media initiatives:
@@ -295,13 +295,13 @@ other relevant approaches:
 
 
 ###### tier 1:
-[[projects & tools/tools/growth lab app\|growth lab app]] ([[projects & tools/tools/atlas of economic complexity\|atlas of economic complexity]], [[projects & tools/tools/atlas\|atlas]] ([[initiatives, orgs & communities/lab/nomic AI\|nomic AI]]), [[projects & tools/tools/head start\|head start]] ([[projects & tools/tools/open knowledge maps\|open knowledge maps]]), [[projects & tools/tools/juggl\|juggl]] (in [[tbprocessed/base notes/ventures - general/obsidian\|obsidian]]), [[projects & tools/tools/kumu\|kumu]], [[projects & tools/tools/softspace\|softspace]] (in [[XR 1\|XR 1]]).
+[[projects & tools/tools/lab/growth lab app\|growth lab app]] ([[projects & tools/tools/lab/atlas of economic complexity\|atlas of economic complexity]], [[projects & tools/tools/lab/atlas (nomic)\|atlas (nomic)]] ([[initiatives, orgs & communities/lab/nomic AI\|nomic AI]]), [[projects & tools/tools/lab/head start\|head start]] ([[projects & tools/tools/lab/open knowledge maps\|open knowledge maps]]), [[projects & tools/tools/lab/juggl\|juggl]] (in [[tbprocessed/base notes/ventures - general/obsidian\|obsidian]]), [[projects & tools/tools/design/kumu\|kumu]], [[projects & tools/tools/lab/softspace\|softspace]] (in [[XR 1\|XR 1]]).
 
-not tested, but look promising: [sigma.js](https://www.sigmajs.org/), [[gephi\|gephi]] & [[projects & tools/tools/gephi lite\|gephi lite]], [[projects & tools/tools/graphext\|graphext]], [[projects & tools/tools/yworks\|yworks]]...
+not tested, but look promising: [sigma.js](https://www.sigmajs.org/), [[gephi\|gephi]] & [[projects & tools/tools/lab/gephi lite\|gephi lite]], [[projects & tools/tools/lab/graphext\|graphext]], [[projects & tools/tools/lab/yworks\|yworks]]...
 
 ###### tier 2:
 
-[[neo4J\|neo4J]], [[d3.js\|d3.js]], [[infranodus\|infranodus]], [[projects & tools/tools/metamaps\|metamaps]] ([[projects & tools/tools/kumu\|kumu]]-like), [[projects & tools/tools/datasette\|datasette]]
+[[neo4J\|neo4J]], [[d3.js\|d3.js]], [[infranodus\|infranodus]], [[projects & tools/tools/lab/metamaps\|metamaps]] ([[projects & tools/tools/design/kumu\|kumu]]-like), [[projects & tools/tools/lab/datasette\|datasette]]
 
 [layer](https://beta.getlayer.xyz/) - [[geographic\|geographic]]/[[demographic\|demographic]] data only.
 

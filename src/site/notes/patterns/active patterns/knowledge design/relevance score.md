@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-08-20T11:42:20-03:00","last tended to":"2024-08-20T20:56:06-03:00","tags":["patterns","🌿"],"dg-publish":true,"permalink":"/patterns/active-patterns/knowledge-design/relevance-score/","dgPassFrontmatter":true,"created":"2024-08-20T11:42:20.162-03:00","updated":"2024-08-22T01:40:24.587-03:00"}
+{"created in":"2024-08-20T11:42:20-03:00","last tended to":"2024-08-27T11:25:09-03:00","tags":["patterns","🌿"],"dg-publish":true,"permalink":"/patterns/active-patterns/knowledge-design/relevance-score/","dgPassFrontmatter":true,"created":"2024-08-20T11:42:20.162-03:00","updated":"2024-08-27T12:13:41.866-03:00"}
 ---
 
 #### about
@@ -22,62 +22,69 @@ if something tends to *stay relevant for a long time*, it's likely something imp
 
 well, that's my perspective. it's a starting point. more nuance needed/welcome over time as we continue to use this pattern. :)
 
-#### relevance score map
+---
+#### relevance score visualizations
 
-i still have to figure out why the [digital garden plugin](https://dg-docs.ole.dev/) i'm using isn't allowing me to pass frontmatter through, so the relevance score isn't showing on my notes. i currently have 42 notes with assigned relevance scores, and slowly adding it to more and more of them.
+i still have to figure out why the [digital garden plugin](https://dg-docs.ole.dev/) i'm using isn't allowing me to show the relevance score property on my notes. i currently have 46 notes with assigned relevance scores over 80, and i'm slowly adding it to more and more of them (mostly [[terms/design\|design]]/[[_005_c4ss1us/c4ss1us.design\|architect]] & [[_005_c4ss1us/c4ss1us.lab\|lab]] notes were tagged so far, so the index below is missing a ton of stuff from [[_005_c4ss1us/c4ss1us.alchemy\|alchemy]], [[_005_c4ss1us/c4ss.art\|art]], [[_005_c4ss1us/c4ss1us.player\|player]] and [[_005_c4ss1us/c4ss1us.regen\|regen]], that are less processed/more embrionary).
 
-i intend to fix this soon, but in the meantime, here's a useful visualization:
+i intend to fix this soon, but in the meantime, while i'm also building the [[_001_MOCs/025 🔷 long game/025 🗺 topics & references MOC\|025 🗺 topics & references MOC]] and [[_003_research/00 - viable pathways book-zine\|viable pathways]]' [[_003_research/05 - core references & resources\|05 - core references & resources]] pages, this is a useful visualization for navigating this research garden by identifying what i deem as most relevant from the areas above:
 
-##### 1) relevance score index
+\**i've hid anything below 80 relevance score since - well, they're not as relevant at the moment, and therefore shouldn't clutter this visualization.*
+
+##### 1) index
 
 | file                                                                                                                     | relevancescore | type                                             |
 | ------------------------------------------------------------------------------------------------------------------------ | -------------- | ------------------------------------------------ |
+| [[_004_L1F3/L1F3 support systems\|L1F3 support systems]]                                                              | 99             | _004_L1F3                                        |
 | [[concepts/metacrisis\|metacrisis]]                                                                                   | 98             | concepts                                         |
-| [[concepts/second renaissance\|second renaissance]]                                                                   | 98             | concepts                                         |
 | [[initiatives, orgs & communities/architect;design/civilization research institute\|civilization research institute]] | 98             | initiatives, orgs & communities/architect;design |
 | [[initiatives, orgs & communities/architect;design/SEEDS (ecosystem)\|SEEDS (ecosystem)]]                             | 98             | initiatives, orgs & communities/architect;design |
-| [[concepts/the great simplification\|the great simplification]]                                                       | 96             | concepts                                         |
+| [[concepts/cosmoerotic humanism\|cosmoerotic humanism]]                                                               | 96             | concepts                                         |
+| [[concepts/integral theory\|integral theory]]                                                                         | 96             | concepts                                         |
+| [[concepts/metamodernism\|metamodernism]]                                                                             | 96             | concepts                                         |
+| [[concepts/second renaissance\|second renaissance]]                                                                   | 96             | concepts                                         |
+| [[initiatives, orgs & communities/lab/holochain\|holochain]]                                                          | 96             | initiatives, orgs & communities/lab              |
+| [[people/references/architect;design/daniel schmachtenberger\|daniel schmachtenberger]]                               | 96             | people/references/architect;design               |
 | [[patterns/pattern collections/knowledge design patterns\|knowledge design patterns]]                                 | 96             | patterns/pattern collections                     |
+| [[projects & tools/tools/lab/duskOS\|duskOS]]                                                                         | 96             | projects & tools/tools/lab                       |
 | [[references/alchemy/first principles and first values\|first principles and first values]]                           | 96             | references/alchemy                               |
-| [[topics/architect;design/life design\|life design]]                                                                  | 95             | topics/architect;design                          |
-| [[concepts/cosmoerotic humanism\|cosmoerotic humanism]]                                                               | 94             | concepts                                         |
-| [[concepts/integral theory\|integral theory]]                                                                         | 94             | concepts                                         |
-| [[concepts/metamodernism\|metamodernism]]                                                                             | 94             | concepts                                         |
+| [[topics/architect;design/life design\|life design]]                                                                  | 96             | topics/architect;design                          |
+| [[topics/lab/permacomputing\|permacomputing]]                                                                         | 96             | topics/lab                                       |
+| [[concepts/the great simplification\|the great simplification]]                                                       | 94             | concepts                                         |
 | [[practices/música do círculo\|música do círculo]]                                                                    | 94             | practices                                        |
+| [[topics/architect;design/lifestyles\|lifestyles]]                                                                    | 94             | topics/architect;design                          |
 | [[topics/lab/knowledge management\|knowledge management]]                                                             | 94             | topics/lab                                       |
 | [[concepts/4e cognition\|4e cognition]]                                                                               | 92             | concepts                                         |
 | [[concepts/ways of knowing\|ways of knowing]]                                                                         | 92             | concepts                                         |
 | [[people/references/lab/bret victor\|bret victor]]                                                                    | 92             | people/references/lab                            |
 | [[people/references/regen/vanessa andreotti\|vanessa andreotti]]                                                      | 92             | people/references/regen                          |
+| [[projects & tools/tools/lab/human programming interface\|human programming interface]]                               | 92             | projects & tools/tools/lab                       |
 | [[concepts/mapping\|mapping]]                                                                                         | 91             | concepts                                         |
 | [[initiatives, orgs & communities/lab/subconscious (tool)\|subconscious (tool)]]                                      | 91             | initiatives, orgs & communities/lab              |
 | [[people/references/lab/alexander obenauer\|alexander obenauer]]                                                      | 91             | people/references/lab                            |
 | [[people/references/lab/gordon brander\|gordon brander]]                                                              | 91             | people/references/lab                            |
 | [[people/references/lab/maggie appleton\|maggie appleton]]                                                            | 91             | people/references/lab                            |
 | [[concepts/dashboards\|dashboards]]                                                                                   | 90             | concepts                                         |
-| [[projects & tools/tools/softspace\|softspace]]                                                                       | 90             | projects & tools/tools                           |
+| [[projects & tools/tools/lab/softspace\|softspace]]                                                                   | 90             | projects & tools/tools/lab                       |
 | [[topics/lab/information design\|information design]]                                                                 | 90             | topics/lab                                       |
 | [[concepts/moloch\|moloch]]                                                                                           | 88             | concepts                                         |
 | [[initiatives, orgs & communities/architect;design/goodly labs\|goodly labs]]                                         | 88             | initiatives, orgs & communities/architect;design |
 | [[initiatives, orgs & communities/architect;design/meaning alignment institute\|meaning alignment institute]]         | 88             | initiatives, orgs & communities/architect;design |
 | [[initiatives, orgs & communities/lab/ink & switch\|ink & switch]]                                                    | 88             | initiatives, orgs & communities/lab              |
-| [[projects & tools/projects/codexOS\|codexOS]]                                                                        | 87             | projects & tools/projects                        |
+| [[projects & tools/projects/lab/codexOS\|codexOS]]                                                                    | 87             | projects & tools/projects/lab                    |
 | [[models & frameworks/wardley mapping\|wardley mapping]]                                                              | 86             | models & frameworks                              |
-| [[projects & tools/projects/mercuryOS\|mercuryOS]]                                                                    | 86             | projects & tools/projects                        |
-| [[projects & tools/projects/scaling synthesis\|scaling synthesis]]                                                    | 86             | projects & tools/projects                        |
-| [[projects & tools/projects/xanadu\|xanadu]]                                                                          | 84             | projects & tools/projects                        |
+| [[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social (ex-tweetscape)]]                        | 86             | projects & tools/projects/lab                    |
+| [[projects & tools/projects/design/mercuryOS\|mercuryOS]]                                                             | 86             | projects & tools/projects/design                 |
+| [[projects & tools/projects/design/scaling synthesis\|scaling synthesis]]                                             | 86             | projects & tools/projects/design                 |
+| [[projects & tools/projects/design/xanadu\|xanadu]]                                                                   | 84             | projects & tools/projects/design                 |
 | [[initiatives, orgs & communities/alchemy/possibility management\|possibility management]]                            | 82             | initiatives, orgs & communities/alchemy          |
-| [[projects & tools/projects/interneto\|interneto]]                                                                    | 82             | projects & tools/projects                        |
-| [[projects & tools/projects/tweetscape\|tweetscape]]                                                                  | 82             | projects & tools/projects                        |
+| [[projects & tools/projects/lab/interneto\|interneto]]                                                                | 82             | projects & tools/projects/lab                    |
 | [[initiatives, orgs & communities/architect;design/emergence magazine\|emergence magazine]]                           | 81             | initiatives, orgs & communities/architect;design |
-| [[projects & tools/tools/trove\|trove]]                                                                               | 81             | projects & tools/tools                           |
-| [[projects & tools/tools/hylo\|hylo]]                                                                                 | 80             | projects & tools/tools                           |
-| [[projects & tools/tools/unit\|unit]]                                                                                 | 80             | projects & tools/tools                           |
-| [[projects & tools/tools/EEF teaching & learning toolkit\|EEF teaching & learning toolkit]]                           | 76             | projects & tools/tools                           |
+| [[projects & tools/tools/lab/trove\|trove]]                                                                           | 81             | projects & tools/tools/lab                       |
 
 { .block-language-dataview}
 
-##### 2) relevance score map
+##### 2) map
 
 (under development, version in-progress below)
 

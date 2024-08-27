@@ -35,7 +35,7 @@ funding the commons -> gitcoin, [[tea.xyz\|tea.xyz]].
 [[tbprocessed/base notes/ventures - general/metacurrency project\|metacurrency project]]
 [[references/design/library of economic possibility\|library of economic possibility]]
 [[initiatives, orgs & communities/architect;design/valueflows\|valueflows]]
-[[projects & tools/projects/gitcoin coordination mechanisms list\|gitcoin coordination mechanisms list]]
+[[projects & tools/projects/design/gitcoin coordination mechanisms list\|gitcoin coordination mechanisms list]]
 https://tokenengineeringcommunity.github.io/website/docs/library-welcome
 the field of [[topics/architect;design/refi\|refi]] as a whole + [[facilitation methodologies\|facilitation methodologies]] such as [[models & frameworks/pedagogia da cooperação\|pedagogia da cooperação]]
 

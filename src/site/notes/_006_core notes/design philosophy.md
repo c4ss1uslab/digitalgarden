@@ -12,9 +12,9 @@ great critical take/intro to existing design philosophies: https://consiliencepr
 [[metadesign\|metadesign]]
 [[topics/architect;design/ontological design\|ontological design]]
 
-when we're talking about [[software\|software]] architecture, i often align with the [[local-first\|local-first]], [[privacy\|privacy]]-preserving, [[credible exit\|credible exit]], [[modularity\|modularity]], [[interoperability\|interoperability]] ideals/standards in the [[topics/lab/free open-source software\|FOSS]] community, but with a strong consideration of [[risks\|risks]] and [[externalities\|externalities]] from [[bioweapons\|bioweapons]], [[topics/lab/artificial intelligence\|AI]], [[nanotech\|nanotech]], etc...
+when we're talking about [[software\|software]] architecture, i often align with the [[local-first\|local-first]], [[terms/privacy\|privacy]]-preserving, [[credible exit\|credible exit]], [[modularity\|modularity]], [[interoperability\|interoperability]] ideals/standards in the [[topics/lab/free open-source software\|FOSS]] community, but with a strong consideration of [[risks\|risks]] and [[externalities\|externalities]] from [[bioweapons\|bioweapons]], [[topics/lab/artificial intelligence\|AI]], [[nanotech\|nanotech]], etc...
 
-there's also [[agent-centric design\|agent-centric design]]/[[biomimicry\|biomimetic]] design proposed by [[tbprocessed/base notes/ventures - general/holochain\|holochain]]. and a few others less clearly articulated proposed by [[projects & tools/tools/IPFS\|IPFS]], [[solid\|solid]] and a few other [[dweb\|dweb]] proponents.
+there's also [[agent-centric design\|agent-centric design]]/[[biomimicry\|biomimetic]] design proposed by [[initiatives, orgs & communities/lab/holochain\|holochain]]. and a few others less clearly articulated proposed by [[projects & tools/tools/design/IPFS\|IPFS]], [[solid\|solid]] and a few other [[dweb\|dweb]] proponents.
 
 ##### what constitutes a design philosophy?
 

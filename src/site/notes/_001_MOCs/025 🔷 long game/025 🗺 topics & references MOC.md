@@ -1,8 +1,9 @@
 ---
-{"aliases":["topics","fields","fields of knowledge"],"created in":"2021-12-11T16:52:03-03:00","last tended to":"2024-07-19T22:07:25-03:00","dg-publish":true,"tags":["🌿"],"permalink":"/001-mo-cs/025-long-game/025-topics-and-references-moc/","dgPassFrontmatter":true,"created":"2021-12-11T16:52:03.339-03:00","updated":"2024-07-19T22:07:46.271-03:00"}
+{"aliases":["topics","fields","fields of knowledge"],"created in":"2021-12-11T16:52:03-03:00","last tended to":"2024-07-19T22:07:25-03:00","dg-publish":true,"tags":["🌿"],"permalink":"/001-mo-cs/025-long-game/025-topics-and-references-moc/","dgPassFrontmatter":true,"created":"2021-12-11T16:52:03.339-03:00","updated":"2024-08-27T16:04:20.118-03:00"}
 ---
 
-###### captions
+on the contents below, the emojis mean different things. here's their caption:
+#### captions
 
 contents:
 📂[[resource compilations\|resource compilations]]
@@ -97,15 +98,15 @@ level of depth:
 🌿 [[terms/metaverse\|metaverse]]
 	🔥 [[initiatives, orgs & communities/lab/m3 metaverse makers\|m3 metaverse makers]]
 🌿 [[interfaces\|interfaces]] & [[topics/lab/user experience\|UX]]
-	🧪 [[prototypes/l1f3 player dashboard\|l1f3 player dashboard]]
-	🧰 [[_002_toolkit/000 ⛓ l1f3 player toolkit\|l1f3 player toolkit]] ([[pinterest curation\|pinterest curation]] / [[projects & tools/tools/game UI database\|game UI database]])
+	🧪 [[prototypes/on hold/l1f3 player dashboard\|l1f3 player dashboard]]
+	🧰 [[_002_toolkit/000 ⛓ l1f3 player toolkit\|l1f3 player toolkit]] ([[pinterest curation\|pinterest curation]] / [[projects & tools/tools/player/game UI database\|game UI database]])
 🌿 [[concepts/mapping\|mapping]]
 	🔥 [[models & frameworks/wardley mapping\|wardley mapping]]
 	🔥 [[maps curation\|maps curation]] (twitter link)
 	🧪 [[tbprocessed/base notes/tools;products - proprietary/tools/life map\|life map]]
-	🧪 [[prototypes/l1f3 projects' references map\|l1f3 projects' references map]]
+	🧪 [[prototypes/on hold/l1f3 projects' references map\|l1f3 projects' references map]]
 	🧪 [[tbprocessed/base notes/tools;products - proprietary/tools/IRDI\|IRDI - integral radar of developmental initiatives]]
-	🧪 [[prototypes/omnichannel curation feed\|omnichannel curation feed]]
+	🧪 [[prototypes/on hold/omnichannel curation feed\|omnichannel curation feed]]
 	💡 [[tbprocessed/base notes/tools;products - proprietary/tools/research;visualization agent\|research;visualization agent]]
 	💡 [[twitter map\|twitter map]]
 	💫 [[mapping videos\|mapping videos]]
@@ -114,10 +115,10 @@ level of depth:
 🌿 [[digital systems design\|digital systems design]]
 	🔥 [[concepts/values-based design\|values-and-meaning based design]]
 🌱 [[topics/lab/data management\|data management]]
-	🔥 [[tbprocessed/base notes/ventures - general/holochain\|holochain]]
+	🔥 [[initiatives, orgs & communities/lab/holochain\|holochain]]
 	🔥 [[prototypes/not proprietary/synapsis\|synapsis]]
 	🔥 [[initiatives, orgs & communities/architect;design/protocol labs\|protocol labs]]
-	🔥 [[projects & tools/tools/human programming interface\|human programming interface]]
+	🔥 [[projects & tools/tools/lab/human programming interface\|human programming interface]]
 	💡 [[concepts/personal tech stack\|personal tech stack]]
 🌱 [[topics/lab/programming\|programming]]
 
@@ -167,12 +168,12 @@ level of depth:
 		--> [[models & frameworks/tzolkin\|models & frameworks/tzolkin]]
 		--> [[writings/journal/22-02-20 - tarot reading\|22-02-20 - tarot reading]]
 	--> 🌬 [[mind expansion games\|mind expansion games]]
-		--> [[projects & tools/tools/fourgames card deck\|fourgames card deck]]
+		--> [[projects & tools/tools/player/fourgames card deck\|fourgames card deck]]
 		--> [[a jogada\|a jogada]]
 	--> 💧 [[human connection games\|human connection games]]
 		--> [[prototypes/not proprietary/pure players card game\|pure players card game]]
 		--> [[amuta cards\|amuta cards]]
-		--> [[projects & tools/tools/música do círculo's card deck\|música do círculo's card deck]]
+		--> [[projects & tools/tools/music/música do círculo's card deck\|música do círculo's card deck]]
 	--> 🌱 [[physical games\|physical games]]
 		--> [[initiatives, orgs & communities/athlete/playfight\|playfight]]
 		--> [[parkour\|parkour]]
@@ -191,7 +192,7 @@ level of depth:
 	🔥 [[iris AI\|iris AI]]
 	🔥 [[initiatives, orgs & communities/architect;design/sublime (ex-startupy)\|sublime (ex-startupy)]]
 🌱 [[facilitation\|facilitation]] tools
-	🔥 [[projects & tools/tools/fourgames card deck\|fourgames card deck]]
+	🔥 [[projects & tools/tools/player/fourgames card deck\|fourgames card deck]]
 	🔥 [[inventário amuta\|inventário amuta]]
 	💩 [[practices/música do círculo\|música do círculo]]
 	💩 [[initiatives, orgs & communities/athlete/playfight\|playfight]]

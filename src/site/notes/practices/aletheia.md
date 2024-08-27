@@ -8,7 +8,7 @@ a therapeutic/coaching practice/methodology of "[[unfoldment\|unfoldment]]" prop
 
 a great intro: https://podcasters.spotify.com/pod/show/emerge/episodes/Steve-March---An-Integrated-Ecology-of-Practice-for-the-Meta-Crisis-e1jnsno
 
-friends that are deep into it: [[daniel thorson\|daniel thorson]] and [[people/friends/marcelo peterlini\|marcelo peterlini]].
+friends that are deep into it: [[people/references/alchemy/daniel thorson\|daniel thorson]] and [[people/friends/marcelo peterlini\|marcelo peterlini]].
 
 ------
 ###### a few scrappy/unprocessed notes from this podcast:

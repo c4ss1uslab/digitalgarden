@@ -166,14 +166,14 @@ ultimately, [[sari\|sari]] captures it well here:
 
 ###### main references:
 - [[initiatives, orgs & communities/architect;design/sublime (ex-startupy)\|sublime (ex-startupy)]]
-- [[projects & tools/tools/melon\|melon]]
+- [[projects & tools/tools/design/melon\|melon]]
 - [[initiatives, orgs & communities/architect;design/golden\|golden]]
-- [[projects & tools/tools/weco\|weco]]
-- [[projects & tools/tools/hylo\|hylo]]
+- [[projects & tools/tools/design/weco\|weco]]
+- [[projects & tools/tools/design/hylo\|hylo]]
 - [[initiatives, orgs & communities/lab/neighbourhoods\|neighbourhoods]]
 
 ###### other orgs building tools:
-- [[the computational democracy project\|the computational democracy project]] ([[projects & tools/tools/pol.is\|pol.is]])
+- [[the computational democracy project\|the computational democracy project]] ([[projects & tools/tools/lab/pol.is\|pol.is]])
 - [[initiatives, orgs & communities/architect;design/goodly labs\|goodly labs]]
 
 ###### decentralized social media initiatives:

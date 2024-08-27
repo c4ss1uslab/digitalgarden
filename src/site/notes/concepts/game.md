@@ -27,12 +27,12 @@
 
 instead of (or in addition to) war/combat games, can we have coordination/peace games?
 
-the "[[projects & tools/projects/world game\|great logistics game]]" or "[[projects & tools/projects/world game\|world (peace) game]]" was proposed by [[buckminster fuller\|buckminster fuller]] as a tool to facilitate a comprehensive, anticipatory, design science approach to the problems of the world.
+the "[[projects & tools/projects/player/world game\|great logistics game]]" or "[[projects & tools/projects/player/world game\|world (peace) game]]" was proposed by [[buckminster fuller\|buckminster fuller]] as a tool to facilitate a comprehensive, anticipatory, design science approach to the problems of the world.
 
 its goal is to figure out how to: 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/projects-and-tools/projects/world-game/#52ca2c" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/projects-and-tools/projects/player/world-game/#52ca2c" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -51,8 +51,8 @@ other approaches:
 
 main references:
 - [[initiatives, orgs & communities/architect;design/metagame.wtf\|metagame.wtf]]
-- [[projects & tools/projects/world game\|world game]] - bucky fuller institute (workshop / os.earth)
-- [[projects & tools/projects/startover.xyz\|startover.xyz]]
+- [[projects & tools/projects/player/world game\|world game]] - bucky fuller institute (workshop / os.earth)
+- [[projects & tools/projects/player/startover.xyz\|startover.xyz]]
 - [[initiatives, orgs & communities/architect;design/SEEDS (ecosystem)\|SEEDS (ecosystem)]]
 - [[models & frameworks/fourgames\|fourgames]]
 - [[people/friends/ísis schuarts\|ísis schuarts]] (adam kadmon institute / l1f3 stream)

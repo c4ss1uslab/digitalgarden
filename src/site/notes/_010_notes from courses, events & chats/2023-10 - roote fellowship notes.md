@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-10-03T16:43:48-03:00","last tended to":"2024-08-18T13:39:43-03:00","tags":["fellowship","review","self-knowledge","systemschange","🌿"],"dg-publish":true,"permalink":"/010-notes-from-courses-events-and-chats/2023-10-roote-fellowship-notes/","dgPassFrontmatter":true,"created":"2023-10-03T16:43:48.690-03:00","updated":"2024-08-18T13:41:46.744-03:00"}
+{"created in":"2023-10-03T16:43:48-03:00","last tended to":"2024-08-27T17:07:16-03:00","tags":["fellowship","review","self-knowledge","systemschange","🌿"],"dg-publish":true,"permalink":"/010-notes-from-courses-events-and-chats/2023-10-roote-fellowship-notes/","dgPassFrontmatter":true,"created":"2023-10-03T16:43:48.690-03:00","updated":"2024-08-27T17:07:29.808-03:00"}
 ---
 
 "roote helps you clarify root-level systems to help humanity find our route. the fellowship is designed to bring ambitious frontier people together to connect and accelerate them on their path to impact on the wisdom age."
@@ -8,7 +8,7 @@ about: https://www.roote.co/fellowship
 
 i participated in it during oct-nov 2023. i give it a 6/10 rating.
 
-[the wisdom age](https://www.roote.co/wisdom-age) is a fantastic [[topics/architect;design/research\|research]]-synthesizing essay by them that made me want to engage deeper with [[roote\|roote]]. in 2022-23, they also were prototyping [[projects & tools/projects/tweetscape\|tweetscape]], a very interesting tool for intentionally using [[twitter\|twitter]] for [[topics/architect;design/research\|research]] and [[topics/alchemy/sensemaking\|sensemaking]].
+[the wisdom age](https://www.roote.co/wisdom-age) is a fantastic [[topics/architect;design/research\|research]]-synthesizing essay by them that made me want to engage deeper with [[roote\|roote]]. in 2022-23, they also were prototyping [[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social (ex-tweetscape)]], a very interesting tool for intentionally using [[twitter\|twitter]] for [[topics/architect;design/research\|research]] and [[topics/alchemy/sensemaking\|sensemaking]].
 
 i hoped the fellowship would go deeper into subjects such as the [[concepts/metacrisis\|metacrisis]], [[concepts/complex systems\|complex systems]], [[concepts/metamodernism\|metamodernism]] and discuss [[approaches\|approaches]]/propose [[experiments\|experiments]] as a [[community of practice\|community of practice]].
 

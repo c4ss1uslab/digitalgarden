@@ -1,5 +1,5 @@
 ---
-{"aliases":[".dgarden","🌲 digital garden","idea garden","🌱 idea garden","c4ss1us.dgarden","🌲 c4ss1us.dgarden","digital garden","home","knowledge garden"],"created in":"2023-07-27T15:44:39-03:00","last tended to":"2024-08-20T13:30:58-03:00","dg-publish":true,"dg-home":true,"permalink":"/000-digital-garden/c4ss1us-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2021-12-11T16:51:50.661-03:00","updated":"2024-08-20T13:31:44.766-03:00"}
+{"aliases":[".dgarden","🌲 digital garden","idea garden","🌱 idea garden","c4ss1us.dgarden","🌲 c4ss1us.dgarden","digital garden","home","knowledge garden"],"created in":"2023-07-27T15:44:39-03:00","last tended to":"2024-08-23T20:40:52-03:00","dg-publish":true,"dg-home":true,"permalink":"/000-digital-garden/c4ss1us-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2021-12-11T16:51:50.661-03:00","updated":"2024-08-27T16:01:16.517-03:00"}
 ---
 
 ## hello! welcome to my digital garden! 🌷
@@ -8,7 +8,7 @@ this is the space in which i'm:
 
 a) publishing my research/curation and proto-designs on [[concepts/consciousness\|consciousness]], [[topics/architect;design/technology\|technology]], [[_005_c4ss1us/c4ss.art\|art]], [[topics/regen/earth regeneration\|regeneration]] and [[concepts/game\|games]] as responses to the [[concepts/metacrisis\|metacrisis]] - the uniquely challenging moment we're living in the history of our civilization, and
 
-b) exploring pathways to create [[thriving\|thriving]] societies, oriented towards supporting [[human development\|human development]], instead of the one we have, based on [[win-lose dynamics\|win-lose dynamics]] and [[extractivist paradigms\|extractivist paradigms]] that are [[debasing our ecological substrate\|debasing our ecological substrate]], promoting profound [[psycho-spiritual alienation\|psycho-spiritual alienation]] and leading us towards impeding [[systemic collapse\|systemic collapse]].
+b) planting notes - exploring different [[ideas\|ideas]], [[resources\|resources]], [[pathways\|pathways]] to create [[thriving\|thriving]] societies, oriented towards supporting the [[concepts/integral development\|integral development]] of individuals and institutions, instead of the one we have, based on [[win-lose dynamics\|win-lose dynamics]] and [[extractivist paradigms\|extractivist paradigms]] that are [[debasing our ecological substrate\|debasing our ecological substrate]], promoting profound [[psycho-spiritual alienation\|psycho-spiritual alienation]] and leading us towards impeding [[systemic collapse\|systemic collapse]].
 
 > [!info]- more on the design/philosophy of this space
 > > "a digital garden is something inbetween a personal blog and a wiki. it's a collection of evolving notes, essays, and ideas that aren't strictly organised by their publication date. they're inherently exploratory – posts are linked through contextual associations (bi-directional links). they aren't refined or complete - posts can be published as half-finished thoughts that will grow and evolve over time. they're less rigid, less performative, and less perfect than the personal "blogs" we're used to encountering on the web." - [[people/references/lab/maggie appleton\|maggie appleton]] on [digital gardening tools and resources](https://github.com/MaggieAppleton/digital-gardeners).
@@ -46,17 +46,19 @@ the goal of my research was to map, understand and curate multiple cohesive appr
 
 > **how can we address the profound spiritual/psychological, ecological, economic, sociopolitical, technological and educational challenges we're going through and create the more beautiful world our hearts know is possible?**
 
-by sharing my findings, i aim to present what i see as viable pathways to address the [[concepts/metacrisis\|metacrisis]] and enable new, more [[resilient\|resilient]] & [[regenerative\|regenerative]] [[topics/architect;design/systems\|systems]], [[concepts/lifestyles\|lifestyles]] and [[ways of being\|ways of being]].
+i.e. the [[inner\|inner]] and [[outer\|outer]] dimensions of the [[concepts/metacrisis\|metacrisis]].
 
-other inquiries i intend to address are:
+by sharing my findings, i aim to establish some foundational [[knowledge commons\|knowledge commons]] to support us in navigating this complexity and enabling new, more [[resilient\|resilient]], [[regenerative\|regenerative]] [[topics/architect;design/systems\|systems]], [[topics/architect;design/lifestyles\|lifestyles]] and [[ways of being\|ways of being]].
+
+a couple [[investigation trails\|investigation trails]] we'll dive into here are:
 
 > **1) how can we support individuals and groups to create [[tbprocessed/base notes/concepts - general/art\|art]], [[topics/architect;design/technology\|technology]] and [[concepts/game\|games]] in service of [[concepts/consciousness development\|consciousness development]] and ecosystems [[topics/architect;design/regeneration\|regeneration]]?**
 
 *a.k.a. how can we develop systems and structures to support life thriving on earth?*
 
-> **2) how can we make life more like a [[concepts/game\|game]]?**
+> **2) how can we make life more like a sacred [[concepts/game\|game]]?**
 
-*but not any kind of game.* a game that's deeply *fun, collaborative, challenging, meaningful* and *fulfilling*.
+*a sacred game is not any kind of game.* it's one that's deeply *fun, collaborative, challenging, meaningful* and *fulfilling*.
 a game that honors the beauty and mystery of life, that challenges and supports us to flourish - to discover ourselves, unfold our potentials and share our gifts with others.
 
 an inquiry into how we can:
@@ -69,9 +71,9 @@ an inquiry into how we can:
 
 </div></div>
 
-(see more at: [[_004_L1F3/L1F3 game\|L1F3 game]])
+(see more at: [[_004_L1F3/L1F3.game\|L1F3.game]])
 
-some people have a resistance with the [[concepts/game\|game]] frame because of its often seen competitive, game-theoretical win-lose dynamics. i share that hesitation, in the normal sense of the term. that's why the concept of game i'm using here is closer to the [[concepts/infinite games\|infinite game]] and [[omni-win dynamics\|omni-win dynamics]] observed by thinkers such as [[projects & tools/projects/world game\|buckminster fuller]] and communities such as [[models & frameworks/fourgames\|fourgames]], [[initiatives, orgs & communities/architect;design/metagame.wtf\|metagame.wtf]] and [[projects & tools/projects/startover.xyz\|startover.xyz]].
+some people have a resistance with the [[concepts/game\|game]] frame because of its often seen competitive, game-theoretical win-lose dynamics. i share that hesitation, in the normal sense of the term. that's why the concept of game i'm using here is closer to the [[concepts/infinite games\|infinite game]] and [[omni-win dynamics\|omni-win dynamics]] observed by thinkers such as [[projects & tools/projects/player/world game\|buckminster fuller in the world game]] and communities such as [[models & frameworks/fourgames\|fourgames]], [[initiatives, orgs & communities/architect;design/metagame.wtf\|metagame.wtf]] and [[projects & tools/projects/player/startover.xyz\|startover.xyz]].
 
 games activate our sense of [[serious play\|serious play]]. you can create a container in which you truly feel like you "gave it your best" (and it may be an epic journey in which you thrive - and learn/gather feedback from that), or you can also fail miserably and learn a bunch of other lessons from that. it provides a context for a profound, experiential form of learning, since you have a very tight form of the [[models & frameworks/OODA loop\|OODA loop]].
 
@@ -92,379 +94,81 @@ or you can jump in below.
 
 note: these articles are still under development/revision. the emojis represent their growth stage.
 
-my aim here isn't to provide definitive answers, but starting points. my hope if for this curation to serve as an overview, to give us some clarity of the territory and empower us as [[sensemakers\|sensemakers]] and regenerative [[players\|players]]. so we can start playing these [[concepts/game\|games]] more consciously, easily and collaboratively.
+my aim here isn't to provide definitive answers, but starting points. my hope if for this curation to serve as an overview, to give us some clarity of the territory and empower us as [[sensemakers\|sensemakers]] and infinite [[players\|players]]. so we can start playing these [[metagames\|metagames]] more consciously, easily and collaboratively.
 
 #### 2) 🕸 loose navigation - notes breakdown
 
-alternatively, if you want to explore these topics on your own, you can see below a high-level skeleton of the main projects, prototypes and references i've been working with. some of these will be more structured pages, others will be links to resources, others are still blank. follow your own judgment/curiosity! 🙃
 
-on the contents below, the emojis mean different things. here's their caption:
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/001-mo-cs/025-long-game/025-topics-and-references-moc/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/patterns/active-patterns/knowledge-design/relevance-score/#relevance-score-visualizations" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
+#### relevance score visualizations
 
-###### captions
+i still have to figure out why the [digital garden plugin](https://dg-docs.ole.dev/) i'm using isn't allowing me to show the relevance score property on my notes. i currently have 46 notes with assigned relevance scores over 80, and i'm slowly adding it to more and more of them (mostly [[terms/design\|design]]/[[_005_c4ss1us/c4ss1us.design\|architect]] & [[_005_c4ss1us/c4ss1us.lab\|lab]] notes were tagged so far, so the index below is missing a ton of stuff from [[_005_c4ss1us/c4ss1us.alchemy\|alchemy]], [[_005_c4ss1us/c4ss.art\|art]], [[_005_c4ss1us/c4ss1us.player\|player]] and [[_005_c4ss1us/c4ss1us.regen\|regen]], that are less processed/more embrionary).
 
-contents:
-📂[[resource compilations\|resource compilations]]
-🔥 [[high-signal reference\|high-signal reference]]
-🧰 [[well-fundamented approach\|well-fundamented approach]]
-❔ [[questions\|questions]]
-🔨 [[functional tool\|functional tool]]
-🔩 [[prototype (partly functional)\|prototype (partly functional)]]
-🧪 [[experiment\|experiment]]
-💡 [[budding idea\|budding idea]]
-💫 [[seedling idea\|seedling idea]]
+i intend to fix this soon, but in the meantime, while i'm also building the [[_001_MOCs/025 🔷 long game/025 🗺 topics & references MOC\|025 🗺 topics & references MOC]] and [[_003_research/00 - viable pathways book-zine\|viable pathways]]' [[_003_research/05 - core references & resources\|05 - core references & resources]] pages, this is a useful visualization for navigating this research garden by identifying what i deem as most relevant from the areas above:
 
-level of depth:
-🏞 [[expert\|expert]] (10.000h+)
-🌲 [[advanced\|advanced]] (1000-10.000h)
-🌿 [[intermediate\|intermediate]] (200-1000h)
-🌱 [[beginner\|beginner]] (100-200h)
-💩 [[absolute beginner\|absolute beginner]] (20-100h)
+\**i've hid anything below 80 relevance score since - well, they're not as relevant at the moment, and therefore shouldn't clutter this visualization.*
 
-#### topics i'm most interested in / [[aliveness map\|aliveness map]]:
+##### 1) index
 
-#### 🧙🏻‍♂️ [[_005_c4ss1us/c4ss1us.alchemy\|.alchemy]]
-##### 🌌 [[concepts/consciousness\|consciousness]]
-🌲 [[concepts/metacrisis\|metacrisis]]
-	([[concepts/meaning crisis\|meaning crisis]] / [[existential crisis\|existential crisis]] / [[wisdom crisis\|wisdom crisis]])
-	--> [[concepts/health crisis\|health crisis]] / [[education crisis\|education crisis]] / [[commons\|commons]] [[crisis\|crisis]]
-🌲 [[meta-perspectival frameworks\|meta-perspectival frameworks]]
-	🔥 [[topics/architect;design/ontological design\|ontological design]]
-	🔥 [[models & frameworks/fourgames\|fourgames]]
-	🔥 [[concepts/integral theory\|integral meta-theory]]
-	🔥 [[metadesign\|metadesign]] (portuguese)
-🌲 [[topics/player/self-directed learning\|self-directed learning]]
-	🔥 [[initiatives, orgs & communities/player/MoL\|MoL]] / [[unilivre\|unilivre]] (portuguese)
-	🔥 [[reaprendiz\|reaprendiz]] (portuguese)
-🌲 [[topics/architect;design/life design\|life design]] / [[tbprocessed/base notes/topics/life gamification\|life gamification]]
-	[[_002_toolkit/000 ⛓ l1f3 player toolkit\|🧰 l1f3 player toolkit]]
-🌲 [[concepts/self-management\|self-management]]
-	🧰 [[_004_L1F3/l1f3 management methodology\|l1f3 management methodology]]
-	🔥 [life manager (ísis' approach)](https://www.youtube.com/watch?v=Nxo8hX97ojk) (portuguese)
-🌿 [[topics/alchemy/spiritual lineages\|wisdom traditions]] & [[ecologies of practices\|ecologies of practices]]
-	🌿 [[integral yoga\|integral yoga]]
-	🌿 [[vipassana meditation\|vipassana meditation]]
-	🌱 [[initiatives, orgs & communities/alchemy/possibility management\|possibility management]]
-🌿 [[entheogens\|entheogens]]
-	🌿 [[topics/alchemy/mushrooms\|mushrooms]]
-	🌿 [[ayahuasca\|ayahuasca]]
-	🌱 [[MDMA\|MDMA]]
-🌿 [[concepts/self design\|self design]]
-	🧪 [[models & frameworks/archetypal matrix\|archetypal matrix]]
-	🧪 [[concepts/extended cognition\|extended cognition]]
-	🌱 [[thoughtware design\|thoughtware design]]
+| file                                                                                                                     | relevancescore | type                                             |
+| ------------------------------------------------------------------------------------------------------------------------ | -------------- | ------------------------------------------------ |
+| [[_004_L1F3/L1F3 support systems\|L1F3 support systems]]                                                              | 99             | _004_L1F3                                        |
+| [[concepts/metacrisis\|metacrisis]]                                                                                   | 98             | concepts                                         |
+| [[initiatives, orgs & communities/architect;design/civilization research institute\|civilization research institute]] | 98             | initiatives, orgs & communities/architect;design |
+| [[initiatives, orgs & communities/architect;design/SEEDS (ecosystem)\|SEEDS (ecosystem)]]                             | 98             | initiatives, orgs & communities/architect;design |
+| [[concepts/cosmoerotic humanism\|cosmoerotic humanism]]                                                               | 96             | concepts                                         |
+| [[concepts/integral theory\|integral theory]]                                                                         | 96             | concepts                                         |
+| [[concepts/metamodernism\|metamodernism]]                                                                             | 96             | concepts                                         |
+| [[concepts/second renaissance\|second renaissance]]                                                                   | 96             | concepts                                         |
+| [[initiatives, orgs & communities/lab/holochain\|holochain]]                                                          | 96             | initiatives, orgs & communities/lab              |
+| [[people/references/architect;design/daniel schmachtenberger\|daniel schmachtenberger]]                               | 96             | people/references/architect;design               |
+| [[patterns/pattern collections/knowledge design patterns\|knowledge design patterns]]                                 | 96             | patterns/pattern collections                     |
+| [[projects & tools/tools/lab/duskOS\|duskOS]]                                                                         | 96             | projects & tools/tools/lab                       |
+| [[references/alchemy/first principles and first values\|first principles and first values]]                           | 96             | references/alchemy                               |
+| [[topics/architect;design/life design\|life design]]                                                                  | 96             | topics/architect;design                          |
+| [[topics/lab/permacomputing\|permacomputing]]                                                                         | 96             | topics/lab                                       |
+| [[concepts/the great simplification\|the great simplification]]                                                       | 94             | concepts                                         |
+| [[practices/música do círculo\|música do círculo]]                                                                    | 94             | practices                                        |
+| [[topics/architect;design/lifestyles\|lifestyles]]                                                                    | 94             | topics/architect;design                          |
+| [[topics/lab/knowledge management\|knowledge management]]                                                             | 94             | topics/lab                                       |
+| [[concepts/4e cognition\|4e cognition]]                                                                               | 92             | concepts                                         |
+| [[concepts/ways of knowing\|ways of knowing]]                                                                         | 92             | concepts                                         |
+| [[people/references/lab/bret victor\|bret victor]]                                                                    | 92             | people/references/lab                            |
+| [[people/references/regen/vanessa andreotti\|vanessa andreotti]]                                                      | 92             | people/references/regen                          |
+| [[projects & tools/tools/lab/human programming interface\|human programming interface]]                               | 92             | projects & tools/tools/lab                       |
+| [[concepts/mapping\|mapping]]                                                                                         | 91             | concepts                                         |
+| [[initiatives, orgs & communities/lab/subconscious (tool)\|subconscious (tool)]]                                      | 91             | initiatives, orgs & communities/lab              |
+| [[people/references/lab/alexander obenauer\|alexander obenauer]]                                                      | 91             | people/references/lab                            |
+| [[people/references/lab/gordon brander\|gordon brander]]                                                              | 91             | people/references/lab                            |
+| [[people/references/lab/maggie appleton\|maggie appleton]]                                                            | 91             | people/references/lab                            |
+| [[concepts/dashboards\|dashboards]]                                                                                   | 90             | concepts                                         |
+| [[projects & tools/tools/lab/softspace\|softspace]]                                                                   | 90             | projects & tools/tools/lab                       |
+| [[topics/lab/information design\|information design]]                                                                 | 90             | topics/lab                                       |
+| [[concepts/moloch\|moloch]]                                                                                           | 88             | concepts                                         |
+| [[initiatives, orgs & communities/architect;design/goodly labs\|goodly labs]]                                         | 88             | initiatives, orgs & communities/architect;design |
+| [[initiatives, orgs & communities/architect;design/meaning alignment institute\|meaning alignment institute]]         | 88             | initiatives, orgs & communities/architect;design |
+| [[initiatives, orgs & communities/lab/ink & switch\|ink & switch]]                                                    | 88             | initiatives, orgs & communities/lab              |
+| [[projects & tools/projects/lab/codexOS\|codexOS]]                                                                    | 87             | projects & tools/projects/lab                    |
+| [[models & frameworks/wardley mapping\|wardley mapping]]                                                              | 86             | models & frameworks                              |
+| [[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social (ex-tweetscape)]]                        | 86             | projects & tools/projects/lab                    |
+| [[projects & tools/projects/design/mercuryOS\|mercuryOS]]                                                             | 86             | projects & tools/projects/design                 |
+| [[projects & tools/projects/design/scaling synthesis\|scaling synthesis]]                                             | 86             | projects & tools/projects/design                 |
+| [[projects & tools/projects/design/xanadu\|xanadu]]                                                                   | 84             | projects & tools/projects/design                 |
+| [[initiatives, orgs & communities/alchemy/possibility management\|possibility management]]                            | 82             | initiatives, orgs & communities/alchemy          |
+| [[projects & tools/projects/lab/interneto\|interneto]]                                                                | 82             | projects & tools/projects/lab                    |
+| [[initiatives, orgs & communities/architect;design/emergence magazine\|emergence magazine]]                           | 81             | initiatives, orgs & communities/architect;design |
+| [[projects & tools/tools/lab/trove\|trove]]                                                                           | 81             | projects & tools/tools/lab                       |
 
-#### ✒ [[_005_c4ss1us/c4ss1us.design\|.design]]
-##### 🎞 [[knowledge\|knowledge]] / [[topics/architect;design/media\|media]]
-🌲 [[topics/architect;design/research\|topics/architect;design/research]]
-	📂 [[meta-research consolidation resource\|meta-research consolidation resource]]
-🌲 [[tbprocessed/base notes/concepts - general/curation\|curation]]
-	🔥 [[initiatives, orgs & communities/architect;design/sublime (ex-startupy)\|sublime (ex-startupy)]]
-🌲 [[topics/alchemy/sensemaking\|sensemaking]]
-	📂 [favorite sensemaking videos playlist](https://www.youtube.com/playlist?list=PLj8H7uBaUwDvd18QrEPugPMD5Z6Y0W-vB)
-🌿 [[concepts/life streaming\|life streaming]]
-	🧰 [[_004_L1F3/l1f3 streaming system\|life streaming system]]
-🌿 [[concepts/life intelligence\|life intelligence]]
-	🧪 [[3rd brain workflow\|3rd brain workflow]]
-##### 🌐 [[topics/architect;design/systems\|systems]]
-🌲 [[meta-systems\|meta-systems]] for [[topics/alchemy/sensemaking\|sensemaking]], [[topics/player/play\|play]], [[concepts/coordination\|coordination]] & [[terms/collaboration\|collaboration]]
-🌲 [[concepts/civilization design\|civilization design]]
-	[[concepts/network state\|network states]]
-	[[smart cities\|smart cities]] / [[smart villages\|smart villages]]
-	[[ecovillages\|ecovillages]] / [[intentional communities\|intentional communities]]
-🌿 [[topics/architect;design/new economies\|new economies]] & [[initiatives, orgs & communities/organizations MOC\|organizations]] [economic]
-	🌿 [[concepts/multicurrencies economy\|concepts/multicurrencies economy]] / [[initiatives, orgs & communities/DAOs MOC\|DAOs MOC]]
-	🌿 [[creator economy\|creator economy]] / [[curator economy\|curator economy]]
-	🌱 [[collaborative economy\|collaborative economy]] / [[shared economy\|shared economy]]
-🌿 [[new lifestyles\|new lifestyles]] & [[reality models\|reality models]] (metagame) [personal]
-🌱 [[new culture\|new culture]], [[areas/relationships\|relationships]] & [[communities\|communities]] (governance) [social]
-🌱 [[new ecologies\|new ecologies]] & [[areas/environments\|environments]] (regenerative systems design) [ecological]
-##### 🏡 [[areas/environments\|environments]]
-🌿 [[digital environments\|digital environments]]
-🌱 [[physical environments\|physical environments]]
-🌱 [[physical objects\|physical objects]]
+{ .block-language-dataview}
 
-#### 👨🏻‍🔬 [[_005_c4ss1us/c4ss1us.lab\|.lab]]
-##### 💻 [[topics/architect;design/technology\|technology]]
-🌲 [[topics/lab/knowledge management\|PKM]] / [[concepts/life management\|life management]]
-	🔩 [[_004_L1F3/l1f3 management methodology\|life management methodology (LMM)]] ([[obsidian system\|obsidian system]])
-	🔩 [[projects & tools/proprietary/disruptive life management system\|DLMS - disruptive life management system]] ([[notion system\|notion system]])
-	🔩 [[tbprocessed/base notes/tools;products - proprietary/tools/life organization & visualization system\|LOVS - life organization & visualization system]] ([[notion system\|notion system]])
-	📂 [[knowledge management methodologies\|knowledge management methodologies]]
-🌲 [[topics/architect;design/crypto\|crypto]] / [[topics/architect;design/web3\|web3]]
-	🔥 [[initiatives, orgs & communities/architect;design/SEEDS (ecosystem)\|SEEDS (ecosystem)]]
-🌿 [[terms/metaverse\|metaverse]]
-	🔥 [[initiatives, orgs & communities/lab/m3 metaverse makers\|m3 metaverse makers]]
-🌿 [[interfaces\|interfaces]] & [[topics/lab/user experience\|UX]]
-	🧪 [[prototypes/l1f3 player dashboard\|l1f3 player dashboard]]
-	🧰 [[_002_toolkit/000 ⛓ l1f3 player toolkit\|l1f3 player toolkit]] ([[pinterest curation\|pinterest curation]] / [[projects & tools/tools/game UI database\|game UI database]])
-🌿 [[concepts/mapping\|mapping]]
-	🔥 [[models & frameworks/wardley mapping\|wardley mapping]]
-	🔥 [[maps curation\|maps curation]] (twitter link)
-	🧪 [[tbprocessed/base notes/tools;products - proprietary/tools/life map\|life map]]
-	🧪 [[prototypes/l1f3 projects' references map\|l1f3 projects' references map]]
-	🧪 [[tbprocessed/base notes/tools;products - proprietary/tools/IRDI\|IRDI - integral radar of developmental initiatives]]
-	🧪 [[prototypes/omnichannel curation feed\|omnichannel curation feed]]
-	💡 [[tbprocessed/base notes/tools;products - proprietary/tools/research;visualization agent\|research;visualization agent]]
-	💡 [[twitter map\|twitter map]]
-	💫 [[mapping videos\|mapping videos]]
-	💫 [[map-making workflow (excalidraw)\|map-making workflow (excalidraw)]]
-	💫 [[ideaverse\|ideaverse]] / [[research visualization world\|research visualization world]] / [[_000_digital garden/c4ss1us' garden\|c4ss1us' garden]] evolution into a [[topics/art/3d\|3d]]/artistic [[3rd brain\|3rd brain]]
-🌿 [[digital systems design\|digital systems design]]
-	🔥 [[concepts/values-based design\|values-and-meaning based design]]
-🌱 [[topics/lab/data management\|data management]]
-	🔥 [[tbprocessed/base notes/ventures - general/holochain\|holochain]]
-	🔥 [[prototypes/not proprietary/synapsis\|synapsis]]
-	🔥 [[initiatives, orgs & communities/architect;design/protocol labs\|protocol labs]]
-	🔥 [[projects & tools/tools/human programming interface\|human programming interface]]
-	💡 [[concepts/personal tech stack\|personal tech stack]]
-🌱 [[topics/lab/programming\|programming]]
+##### 2) map
 
-#### 👨🏻‍🎨 [[_005_c4ss1us/c4ss.art\|.art]]
-##### 🎨 [[tbprocessed/base notes/concepts - general/art\|art]]
-🌿 [[concepts/gameworld building\|gameworld building]]
-🌿 [[topics/player/game design\|game design]]
-🌿 [[memetics\|memetics]]
-🌿 [[narrative design\|narrative design]]
-🌱 [[videoscapes\|videoscapes]]
-	📂 [[_005_c4ss1us/c4ss1us.log ambience playlists\|_005_c4ss1us/c4ss1us.log ambience playlists]]
-🌱 [[topics/player/anime\|anime]] / [[topics/player/webtoons\|webtoons]]
-	🔥 [[the beginning after the end\|the beginning after the end]] / [[references/player/anime ; manga ; webtoon/overgeared\|overgeared]]
-	🧪 [[_005_c4ss1us/c4ss1us - the webtoon\|.c4ss//webtoon]]
-🌱 [[topics/art/sound design\|sound design]]
-🌱 [[environment design\|environment design]]
-💩 [[motion design\|motion design]]
-💩 [[2d art\|2d art]] / [[illustration\|illustration]]
-💩 [[3d art\|3d art]]
-	🔥 [[initiatives, orgs & communities/lab/m3 metaverse makers\|m3 metaverse makers]]
-💩 [[video editing\|video editing]]
-	📂 [favorite content creation references playlist](https://www.youtube.com/playlist?list=PLj8H7uBaUwDvqFBle8ziVnKGzL4KFk5di)
+(under development, version in-progress below)
 
-#### 🎮 [[_005_c4ss1us/c4ss1us.player\|.player]]
-##### 🎮 [[topics/player/play\|play]]
-🌲 [[life gaming\|life gaming]]
-	🧰 [[_004_L1F3/l1f3 player system\|l1f3 player system]]
-	[[_002_toolkit/000 ⛓ l1f3 player toolkit\|🧰 l1f3 player toolkit]]
-	🔩 [[life gaming methodology\|life gaming methodology (LGM)]]
-	💡 [[concepts/player lifestyle\|player lifestyle]]
-	📂 [[life gamification methodologies\|life gamification methodologies]]
-🌲 [[topics/player/gaming\|gaming]]
-	🌲 [[MMORPG\|MMORPG]]
-	🌿 [[RPG\|RPG]]
-	💩 [[VRMMORPG\|VRMMORPG]]
-🌿 [[gamified learning\|gamified learning]]
-🌿 [[concepts/evolutionary games\|evolutionary games]] / [[regenerative games\|regenerative games]]
-	- types:
-	--> [[creative games\|creative games]]
-	--> [[collaborative games\|collaborative games]]
-	--> [[competitive games\|competitive games]]
-	--> [[coordination games\|coordination games]]
-	- categories:
- --> 🔥 [[self-discovery games\|self-discovery games]]
-		--> [[mahalila\|mahalila]]
-		--> [[i-ching\|i-ching]]
-		--> [[models & frameworks/tzolkin\|models & frameworks/tzolkin]]
-		--> [[writings/journal/22-02-20 - tarot reading\|22-02-20 - tarot reading]]
-	--> 🌬 [[mind expansion games\|mind expansion games]]
-		--> [[projects & tools/tools/fourgames card deck\|fourgames card deck]]
-		--> [[a jogada\|a jogada]]
-	--> 💧 [[human connection games\|human connection games]]
-		--> [[prototypes/not proprietary/pure players card game\|pure players card game]]
-		--> [[amuta cards\|amuta cards]]
-		--> [[projects & tools/tools/música do círculo's card deck\|música do círculo's card deck]]
-	--> 🌱 [[physical games\|physical games]]
-		--> [[initiatives, orgs & communities/athlete/playfight\|playfight]]
-		--> [[parkour\|parkour]]
-		--> [[hot yoga\|hot yoga]]
-		--> [[body percussion\|body percussion]]
-		--> [[sports\|sports]]
- --> etc...
-
-#### 👨🏻‍🎤 [[_005_c4ss1us/c4ss.host\|.host]]
-##### 🎎 [[areas/relationships\|relationships]]
-🌿 [[communication frameworks\|communication frameworks]]
-	🔥 [[concepts/integral theory\|integral theory]]
-	🔥 [[initiatives, orgs & communities/alchemy/possibility management\|possibility management]]
-	🔥 [[memetics\|memetics]]
-🌿 [[collective intelligence\|collective intelligence]] tools
-	🔥 [[iris AI\|iris AI]]
-	🔥 [[initiatives, orgs & communities/architect;design/sublime (ex-startupy)\|sublime (ex-startupy)]]
-🌱 [[facilitation\|facilitation]] tools
-	🔥 [[projects & tools/tools/fourgames card deck\|fourgames card deck]]
-	🔥 [[inventário amuta\|inventário amuta]]
-	💩 [[practices/música do círculo\|música do círculo]]
-	💩 [[initiatives, orgs & communities/athlete/playfight\|playfight]]
-🌱 [[resource allocation\|resource allocation]] tools
-	🔥 [[models & frameworks/fluxonomy 4d\|fluxonomy 4d]]
-	🔥 [[metacurrency\|metacurrency]] / [[models & frameworks/forms of capital\|12 forms of capital]]
-
-#### 🎶 [[_005_c4ss1us/c4ss.music\|.music]]
-
-🌿 [[music curation\|music curation]]
-	[[youtube playlists\|youtube playlists]]
-	[[spotify playlists\|spotify playlists]]
-🌱 [[music playing\|music playing]]
-	🌱 [[body music\|body music]]
-	🌱 [[circle music\|circle music]]
-	💩 [[singing\|singing]]
-	💩 [[drums\|drums]]
-💩 [[topics/art/music production\|music production]]
-	💩 [[topics/art/sound design\|sound design]]
-	💩 [[soundscapes\|soundscapes]] / [[background music\|background music]]
-	💩 [[soundtracks\|soundtracks]]
-	💩 [[nerdcore\|nerdcore]] / [[thematic songs\|thematic songs]]
-	💩 [[asian lo-fi\|asian lo-fi]]
-	💩 [[instrumental post-rock\|instrumental post-rock]]
-	💩 [[ritualistic music\|ritualistic music]]
-
-#### 👨🏻‍🌾 [[_005_c4ss1us/c4ss1us.regen\|.regen]]
-
-🌱 [[regenerative systems design\|regenerative systems design]]
-🌱 [[regenerative urban lifestyles\|regenerative urban lifestyles]]
-💩 [[substances\|substances]]
-	💩 [[coffee\|coffee]]
-	💩 [[cocoa\|cocoa]]
-	💩 [[tea\|tea]]
-	💩 [[topics/alchemy/mushrooms\|mushrooms]]
-
-#### 🤖 [[_005_c4ss1us/c4ss1us.AI\|.AI]]
-
-🌿 [[AI prototypes\|AI prototypes]]
-	🧪 [[topics/lab/AI assistant\|AI assistant]]
-	💡 [[topics/architect;design/personal algorithms design\|personal algorithms design]]
-	💡 [[topics/lab/AI agents\|AI agents]]
-		💡 [[research agent\|research agent]]
-		💡 [[sensemaking partner\|sensemaking partner]]
-		💡 [[information processor\|information processor]]
-		💡 [[illustration maker\|illustration maker]]
-		💡 [[interface maker\|interface maker]]
-	💫 [[machine learning design\|machine learning design]]
-🌿 [[AI curation\|AI curation]]
-	📂 [[3d world generation\|3d world generation]] / [[3D modeling\|3D modeling]]
-	📂 [[video generation\|video generation]]
-	📂 [[interface design\|interface design]]
-	📂 [[audio generation\|audio generation]]
-	📂 [[image generation\|image generation]]
-	📂 [[content curation\|content curation]]
-	📂 [[information processing\|information processing]]
-	📂 [[training\|training]] / [[self-optimization\|self-optimization]] models
-
-
----
-#### what for?
-##### [[topics/architect;design/regeneration\|regeneration]] & [[tbprocessed/base notes/concepts - general/disruption\|disruption]]
-
-(what if my yt feed was organized this way?)
-
-personal website sections:
-(art)
-music
-game design
-
-(disruption)
-knowledge
-crypto
-
-(conscious evolution)
-wisdom
-practice
-
-- clarity & preparation
-	- [[topics/alchemy/sensemaking\|sensemaking]]
-	- [[meta-systemic design\|meta-systemic design]]
-		- [[design methodologies\|design methodologies]]
-			- [[concepts/regenerative design\|regenerative design]]
-		- [[tbprocessed/base notes/topics/financial ecosystem\|financial ecosystem]]
-			- [[topics/architect;design/crypto\|crypto]]
-				- [[DeFi\|DeFi]]
-				- [[topics/architect;design/refi\|refi]]
-				- [[REcon\|REcon]]
-		- [[governance\|governance]]
-		- [[topics/architect;design/media\|media]]
-	- [[tbprocessed/base notes/topics/resources generation\|resources generation]]
-		- [[topics/architect;design/economics\|economics]]
-			- [[topics/architect;design/new economies\|new economies]]
-				- [[creator economy\|creator economy]]
-				- [[topics/architect;design/digital economy\|digital economy]]
-	- [[resources management\|resources management]]
-		- [[topics/lab/knowledge management\|knowledge management]]
-			- [[topics/lab/data management\|data management]]
-
-- collaboration
-	- [[tbprocessed/base notes/topics/learning management\|learning management]]
-	- [[intentional work\|intentional work]]
-	- [[human connection facilitation\|human connection facilitation]]
-	- [[digital communities\|digital communities]]
-		- [[tbprocessed/base notes/topics/digital community platforms\|digital community platforms]]
-		- [[tbprocessed/base notes/topics/gamified communities\|gamified communities]]
-		- [[tbprocessed/base notes/topics/crowdsourced curation communities\|crowdsourced curation communities]]
-		- [[tbprocessed/base notes/topics/curation communities\|curation communities]]
-	- [[tbprocessed/base notes/topics/life gamification\|life gamification]]
-		- [[tbprocessed/base notes/topics/gamified communities\|gamified communities]]
-	- [[tbprocessed/base notes/concepts - general/art\|art]] / [[topics/art/music\|music]] / [[topics/player/play\|play]] / [[transformational experiences\|transformational experiences]]
-
-
-#### general topics:
-- [[social systems\|social systems]], [[infrastructure\|infrastructure]], [[superstructure\|superstructure]]
-[[structures\|structures]], [[topics/architect;design/systems\|systems]], [[processes\|processes]], [[areas/relationships\|relationships]] & [[resources\|resources]]
-	- [[terms/information\|information]]
-		- [[governance\|governance]]
-		- [[finance\|finance]]
-		- [[topics/architect;design/media\|media]]
-	- [[energy\|energy]]
-		- [[renewable energy\|renewable energy]]
-	- [[food\|food]]
-		- [[agriculture\|agriculture]]
-			- [[tbprocessed/base notes/topics/permaculture\|permaculture]]
-		- [[water systems\|water systems]]
-	- [[materials\|materials]]
-		- [[materials economy\|materials economy]] / [[construction\|construction]]
-		- [[transportation\|transportation]]
-	- [[topics/player/entertainment\|entertainment]]
-		- [[topics/architect;design/media\|media]]
-			- [[movies\|movies]] / [[documentaries\|documentaries]] / [[reality shows\|reality shows]]
-			- [[_002_toolkit/spaces/theater\|theater]]
-		- [[topics/player/gaming\|gaming]] / [[topics/player/gamification\|gamification]]
-	
-	
-the future of:
--   [[topics/alchemy/spirituality\|spirituality]] / [[concepts/consciousness development\|consciousness development]]
--   [[topics/player/learning\|learning]] / [[education\|education]]
--   [[terms/work\|work]] / [[terms/collaboration\|collaboration]]
--   [[topics/player/gaming\|gaming]] / [[topics/player/play\|play]]
--   [[communities\|communities]] / [[areas/relationships\|relationships]]
--   [[tbprocessed/base notes/concepts - general/art\|art]] / [[topics/architect;design/media\|media]] / [[terms/culture\|culture]]
--   [[alternative living\|alternative living]] / [[regenerative living\|regenerative living]]
--   [[topics/architect;design/systems\|systems]] / [[topics/architect;design/systems design\|systems design]] / [[topics/architect;design/systems development\|systems development]]
--   [[topics/architect;design/economics\|economics]] / [[tbprocessed/base notes/topics/resources generation\|resources generation]] / [[resources management\|resources management]]
--   [[terms/information\|information]] / [[knowledge generation\|knowledge generation]] / [[topics/lab/knowledge management\|knowledge management]]
--   [[governance\|governance]] / [[terms/decision-making\|decision-making]] / [[decision management\|decision management]]
--   [[intelligence\|intelligence]] / [[topics/architect;design/research\|topics/architect;design/research]] / [[concepts/mapping\|mapping]] / [[tbprocessed/base notes/concepts - general/curation\|curation]]
--   [[physical environments\|physical environments]] / [[digital environments\|digital environments]]
--   [[topics/architect;design/technology\|technology]]
-
-#### by sphere:
-
-##### [[tbprocessed/base notes/ventures - proprietary/reality disruption labs\|reality disruption labs]]
-- [[concepts/multidimensional artifacts\|multidimensional objects]]
-- [[concepts/guilds\|real-life guilds]]
-
-##### [[tbprocessed/KOSMOS/KOSMOS\|KOSMOS]] / [[reality disruption ecosystem\|reality disruption ecosystem]]
-- [[tbprocessed/base notes/ventures - proprietary/reality disruption labs\|reality disruption labs]]
-- [[initiatives, orgs & communities/alchemy/possibility management\|possibility management]]
-- [[concepts/gameworld building\|gameworld building]]
-
-##### [[initiatives, orgs & communities/host/mundos possíveis\|mundos possíveis]]
-- [[DAO-DHO evolution\|DAO-DHO evolution]] + [[topics/player/gamification\|gamification]]
-- [[information ecology\|information ecology]]
-	- [[concepts/mapping\|mapping]]
-	- [[topics/alchemy/sensemaking\|sensemaking]]
-- [[terms/metaverse\|metaverse]] / [[NFTs\|NFTs]] / [[social token experiments\|social token experiments]]
+![weighted topics breakdown.excalidraw.png](/img/user/_008_illustrations%20&%20designs/weighted%20topics%20breakdown.excalidraw.png)
 
 </div></div>
 

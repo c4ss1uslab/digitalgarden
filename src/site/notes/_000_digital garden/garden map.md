@@ -11,7 +11,7 @@ https://tomcritchlow.com/map/
 https://diagram.website/
 [[models & frameworks/wardley mapping\|wardley mapping]] and the concept of [[information ecologies\|information ecologies]].
 
-i intend to make this eventually as a procedurally-generated (constantly updating) map, sourcing data from my [[obsidian vault\|obsidian vault]], but using something like [[projects & tools/tools/juggl\|juggl]], [[infranodus\|infranodus]], or some kind of [[references/lab/map-making tools\|map-making tool]].
+i intend to make this eventually as a procedurally-generated (constantly updating) map, sourcing data from my [[obsidian vault\|obsidian vault]], but using something like [[projects & tools/tools/lab/juggl\|juggl]], [[infranodus\|infranodus]], or some kind of [[references/lab/map-making tools\|map-making tool]].
 
 this way you can have a glimpse at the major "[[knowledge ecosystems\|knowledge ecosystems]]" being tended to and have a big picture view to help you navigate this content.
 

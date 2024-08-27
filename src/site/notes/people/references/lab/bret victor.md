@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-05-29T14:27:52-03:00","last tended to":"2024-08-22T00:28:08-03:00","tags":["interfacedesign","experiencedesign","lab","person","tier1","visuallearning","spatialsoftware","interactiondesign","🌿"],"dg-publish":true,"relevancescore":92,"permalink":"/people/references/lab/bret-victor/","dgPassFrontmatter":true,"created":"2024-05-29T14:27:52.255-03:00","updated":"2024-08-22T14:10:41.234-03:00"}
+{"created in":"2024-05-29T14:27:52-03:00","last tended to":"2024-08-22T14:10:41-03:00","tags":["interfacedesign","experiencedesign","lab","person","tier1","visuallearning","spatialsoftware","interactiondesign","🌿"],"dg-publish":true,"relevancescore":92,"permalink":"/people/references/lab/bret-victor/","dgPassFrontmatter":true,"created":"2024-05-29T14:27:52.255-03:00","updated":"2024-08-23T20:33:04.016-03:00"}
 ---
 
 https://worrydream.com/
@@ -7,6 +7,8 @@ https://worrydream.com/
 
 
 researcher on the [[topics/lab/the future of computing\|the future of computing]], [[topics/lab/spatial computing\|spatial computing]], [[concepts/extended cognition\|extended cognition]] and more. founder of [[dynamicland\|dynamicland]].
+
+his main thesis reflects a frustration i held for a long time, but wasn't able to articulate: we invented the [[dynamic medium\|dynamic medium]] (you could interpret it as "[[computing\|computing]]", but see the references below for way more detail) and we still don't use it to 10% of its potential.
 
 #### references:
 
@@ -25,7 +27,7 @@ in it, he presents very simply and clearly his [[theory of change\|theory of cha
 > Intention:
 > Use the dynamic medium to reinvent the representations of thought. Invent a way of thinking — imagining, understanding, creating, explaining — via dynamic representations that engage all modes of thought and respect the whole human being.
 
-\+ more details, illustrations and his plan for application on [[dynamicland\|dynamicland]]. it's 80% the same vision for what i was prototyping with the [[24h system\|24h system]] at [[high stakes academy\|high stakes academy]] back in 2019.
+\+ more details, illustrations and his plan for application on [[dynamicland\|dynamicland]]. it's very similar to the vision i was prototyping with the [[24h system\|24h system]] at [[high stakes academy\|high stakes academy]] back in 2019, minus the [[concepts/life management\|life management]] aspect of it.
 
  2) [stop drawing dead fish](https://vimeo.com/64895205) - exploring/introducing a few "[[unique affordances of the computational medium\|unique affordances of the computational medium]]"
 

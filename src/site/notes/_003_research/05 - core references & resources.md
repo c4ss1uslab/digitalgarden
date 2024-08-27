@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-07-30T21:38:54-03:00","last tended to":"2024-08-22T14:29:02-03:00","tags":["🌱"],"dg-publish":true,"permalink":"/003-research/05-core-references-and-resources/","dgPassFrontmatter":true,"created":"2022-07-30T21:38:54.771-03:00","updated":"2024-08-22T14:57:48.517-03:00"}
+{"created in":"2022-07-30T21:38:54-03:00","last tended to":"2024-08-27T17:07:15-03:00","tags":["🌱"],"dg-publish":true,"permalink":"/003-research/05-core-references-and-resources/","dgPassFrontmatter":true,"created":"2022-07-30T21:38:54.771-03:00","updated":"2024-08-27T17:07:27.828-03:00"}
 ---
 
 ```ad-warning
@@ -12,7 +12,7 @@ the contents of the writing below are currently haphazard, disjointed and all ov
 
 pages (more contextual):
 -> see refs below
-\+ [[projects & tools/tools/raindrop\|raindrop]] interneto-like bookmarks (coming soon)
+\+ [[projects & tools/tools/lab/raindrop\|raindrop]] interneto-like bookmarks (coming soon)
 
 tools/orgs:
 -> [[concepts/personal tech stack\|personal tech stack]] -> [[_005_c4ss1us/c4ss1us' tech stack notion database\|c4ss1us' tech stack notion database]]
@@ -28,17 +28,19 @@ tools/orgs:
 > [The War on Sensemaking, Daniel Schmachtenberger - YouTube](https://www.youtube.com/watch?v=7LqaotiGWjQ)
 > 
 > civilization design - prototypes:
-> [Global Green New Deal! It's time to do what our governments have failed to do. Heal our planet. - YouTube](https://www.youtube.com/watch?v=3MounsvZFPk)
-> [11 YEAR JOURNEY TO REGENERATE OUR EARTH | Ep. 1 Journey to Regenerative Civilizations Series - YouTube](https://www.youtube.com/watch?v=YrNw_PdJd68&list=PL3Xi8vZSmBTStS0BoFItW8389HJLypX0E)
+> [SEEDS introduction - Global Green New Deal! It's time to do what our governments have failed to do. Heal our planet. - YouTube](https://www.youtube.com/watch?v=3MounsvZFPk)
+> [Ep. 1 - Journey to Regenerative Civilizations Series - YouTube](https://www.youtube.com/watch?v=YrNw_PdJd68&list=PL3Xi8vZSmBTStS0BoFItW8389HJLypX0E)
 > 
 > information ecology maps:
 > [diagram.website](https://diagram.website/)
 > [Map of my Internet - Joodaloop](https://map.joodaloop.com/)
+> 
+>
 > research consolidation / experiments:
 > [Diome - Technology for a Regenerative Society](https://diome.xyz/0+%F0%9F%8C%9E+About/0.0+Technology+for+a+Regenerative+Society)
 > [[initiatives, orgs & communities/lab/ink & switch\|ink & switch]]
 > [LN 000: The Lab Notes](https://alexanderobenauer.com/labnotes/000/) / [EXPERIMENT 001: Cross-reference Navigation in Obsidian](https://alexanderobenauer.com/labnotes/exp001/) / OLLOS (members-only)
-> [Tweetscape Experiments](https://tweetscape.co/) #discontinued
+> [Curl Projects](https://curlprojects.com/)
 > 
 > wikis:
 > [P2P Foundation Wiki](https://wiki.p2pfoundation.net/Main_Page)
@@ -70,7 +72,7 @@ tools/orgs:
 > collective/collaborative databases
 > [Manifesto - Startupy](https://beta.startupy.world/manifesto/) - now?
 > [Hey heey, welcome to Startupy — Startupy Index](https://startupyworld.notion.site/Hey-heey-welcome-to-Startupy-60f9443ac8a0486dba3ef8fd93becae6) - now https://sublimeapp.notion.site/A-SUBLIME-INTERNET-b5453f44067e4e8c81f02716fc162cdc
-> [[projects & tools/tools/trove\|trove]]
+> [[projects & tools/tools/lab/trove\|trove]]
 > 
 > topic navigation maps:
 > [Tom Critchlow's Topics Map](https://tomcritchlow.com/map/)
@@ -98,6 +100,7 @@ tools/orgs:
 > research project breakdown page:
 > [WonderOS](https://wonderos.org/) / [Hello, Operator!](https://wonderos.org/hello/)
 > [MercuryOS](https://www.mercuryos.com/) / [Jasmin Winiarski Maze Portfolio Website](https://jasminwiniarski.com/maze.html)
+> [[projects & tools/tools/lab/collapseOS\|collapseOS]]
 > 
 > MVP specifications:
 > [SoftspaceAR | MVP Design Paper - by Yiliu - Softspace](https://substack.soft.space/p/softspacear-mvp-design-paper?sd=pf)
@@ -116,7 +119,7 @@ tools/orgs:
 > 
 > digital gardens:
 > [The Garden of Maggie Appleton](https://maggieappleton.com/garden)
-> [The Curated Avenue](https://www.thecuratedavenue.com/) ([[patricia parkinson\|patricia parkinson]])
+> [kosmik garden](https://kosmic.garden/) ([[people/acquaintances/patricia parkinson\|patricia parkinson]])
 > [tft hacker](https://tfthacker.com/)
 > [scaling synthesis](https://scalingsynthesis.com/)
 > [azlen elza](https://azlen.me/)
@@ -125,7 +128,7 @@ tools/orgs:
 > [Life Itself Research Garden](https://notes.lifeitself.org/)
 > 
 > ebook:
-> [📖 Livro digital: Portfólios de Vida](https://www.canva.com/design/DAFFgAXQDus/jKAu5mKFanUYgKocAe_P8w/edit?utm_content=DAFFgAXQDus&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton#6)
+> [📖 Livro digital: Portfólios de Vida](https://www.canva.com/design/DAFFgAXQDus/jKAu5mKFanUYgKocAe_P8w/edit)
 > 
 > cards:
 > [The FourGames Deck: Creating a Handy Oracle Card Game](https://www.aion.enterprises/blog/fourgames-deck-creating-handy-oracle-card-game)
@@ -163,50 +166,63 @@ core concepts:
 [[findhorn\|findhorn]]
 [[damanhur\|damanhur]]
 
-future of education / coordination / collaboration as the life game:
-[Level Up: Presenting the Future of Education as a Game, and How … — Voice Over Exit](https://voice.mirror.xyz/jb6ziF4xdVEzfAlyoeZhDI2Lo0Oy-l7I-ac9vVvAhMw)
-[Education is the Metacrisis - Perspectiva](https://systems-souls-society.com/education-is-the-metacrisis/)
-[Gaming the Future - Technologies for Intelligent Voluntary Cooperation (Foresight Institute)](https://foresightinstitute.substack.com/p/coming-soon?showWelcome=true&r=18qub2)
-
-historical accounts / breakdown articles:
-[Tools for Thought as Cultural Practices, not Computational Objects - Maggie Appleton](https://maggieappleton.com/tools-for-thought) 
-[Spatial Web Browsing](https://maggieappleton.com/spatial-web) / [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history) / [Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs](https://github.com/MaggieAppleton/digital-gardeners)
-
-knowledge management design specifications:
-[Andy Matuschak](https://andymatuschak.org/)
-[Personal Knowledge Graphs](https://personalknowledgegraphs.com/#/page/Personal%20Knowledge%20Graphs)
-[Linus - the sephist](https://thesephist.com/)
-[Scaling Synthesis](https://scalingsynthesis.com/)
-
-[[_006_core notes/design principles\|design principles]], [[metaframeworks\|metaframeworks]]:
-[Metadesign, Jogos e Transformação Cultural. | by Caio Vassão | Medium](https://caiovassao.medium.com/metadesign-jogos-e-transforma%C3%A7%C3%A3o-cultural-4ffce499cd8a) / [Metadesign e Meta-aprendizagem: da estética ao cosmo. | by Caio Vassão | Medium](https://caiovassao.medium.com/metadesign-e-meta-aprendizagem-da-est%C3%A9tica-ao-cosmo-1f35b7b9a92b) / [Como financiar a transformação?. Nesse quarto artigo sobre o “Novo Ciclo… | by Caio Vassão | The Funnel | Medium](https://medium.com/the-funnel/como-financiar-a-transforma%C3%A7%C3%A3o-cd88fa028996)
-
+> historical accounts / breakdown articles:
+> [Tools for Thought as Cultural Practices, not Computational Objects - Maggie Appleton](https://maggieappleton.com/tools-for-thought) 
+> [Spatial Web Browsing](https://maggieappleton.com/spatial-web) / [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history) / [Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs](https://github.com/MaggieAppleton/digital-gardeners)
+> 
+> big picture framing articles on the future of education / coordination / collaboration as the life game:
+> [Level Up: Presenting the Future of Education as a Game, and How … — Voice Over Exit](https://voice.mirror.xyz/jb6ziF4xdVEzfAlyoeZhDI2Lo0Oy-l7I-ac9vVvAhMw)
+> [Education is the Metacrisis - Perspectiva](https://systems-souls-society.com/education-is-the-metacrisis/)
+> [Gaming the Future - Technologies for Intelligent Voluntary Cooperation (Foresight Institute)](https://foresightinstitute.substack.com/p/coming-soon?showWelcome=true&r=18qub2)
+> 
+> knowledge management design specifications:
+> [Andy Matuschak](https://andymatuschak.org/)
+> [Personal Knowledge Graphs](https://personalknowledgegraphs.com/#/page/Personal%20Knowledge%20Graphs)
+> [Scaling Synthesis](https://scalingsynthesis.com/)
+> 
+> personal OS design specifications:
+> [Linus - the sephist](https://thesephist.com/)
+> [[people/references/lab/karlicoss\|karlicoss]]
+> 
+> [[_006_core notes/design principles\|design principles]] / [[metaframeworks\|metaframeworks]] series:
+> [Metadesign, Jogos e Transformação Cultural. | by Caio Vassão | Medium](https://caiovassao.medium.com/metadesign-jogos-e-transforma%C3%A7%C3%A3o-cultural-4ffce499cd8a)
+> [Metadesign e Meta-aprendizagem: da estética ao cosmo. | by Caio Vassão | Medium](https://caiovassao.medium.com/metadesign-e-meta-aprendizagem-da-est%C3%A9tica-ao-cosmo-1f35b7b9a92b)
+> [Como financiar a transformação? | by Caio Vassão | The Funnel | Medium](https://medium.com/the-funnel/como-financiar-a-transforma%C3%A7%C3%A3o-cd88fa028996)
+> 
 > map navigation interface based on open-source data:
 > [Open Knowledge Maps - A visual interface to the world's scientific knowledge](https://openknowledgemaps.org/)
 > [Open Syllabus: Galaxy](https://galaxy.opensyllabus.org/)  / [Open Syllabus](https://opensyllabus.org/) / [Dataset Documentation — Open Syllabus 2.8 documentation](https://docs.opensyllabus.org/)
-
-> metaverse-oriented AI:
+>
+> 3D/metaverse-oriented AI:
 > [[masterpiece studio\|masterpiece studio]]
 > [[luma labs\|luma labs]]
 > [[blockade labs\|blockade labs]]
+> 
+> article-style ecosystem mapping:
+> [The Liminal Web: Mapping An Emergent Subculture Of Sensemakers, Meta-Theorists & Systems Poets](https://www.joelightfoot.org/post/the-liminal-web-mapping-an-emergent-subculture-of-sensemakers-meta-theorists-systems-poets)
+> [Mapping Metamodern - Charting an emerging ecosystem by Life Itself, Emerge and collaborators](https://ecosystem.lifeitself.us/)
+> 
+> curated lists of projects w/ descriptions:
+> [The Architecture of Open Source Applications](https://www.aosabook.org/en/index.html) / [Projects | thesephist.com](https://thesephist.com/projects/)
+>
+> interactive encyclopedia/wiki:
+> [DIGITIZATION.wiki](https://www.digitization.wiki/)
+> [Iconographic Encyclopædia of Science, Literature, and Art](https://www.c82.net/iconography/)
 
-article-style ecosystem mapping:
-[The Liminal Web: Mapping An Emergent Subculture Of Sensemakers, Meta-Theorists & Systems Poets](https://www.joelightfoot.org/post/the-liminal-web-mapping-an-emergent-subculture-of-sensemakers-meta-theorists-systems-poets) / [Mapping Metamodern - Charting an emerging ecosystem by Life Itself, Emerge and collaborators](https://ecosystem.lifeitself.us/)
+complex [[topics/alchemy/sensemaking\|sensemaking]] content:
 
-curated lists of projects w/ descriptions:
-[The Architecture of Open Source Applications](https://www.aosabook.org/en/index.html) / [Projects | thesephist.com](https://thesephist.com/projects/)
+[[geopolitics\|geopolitics]], [[topics/architect;design/economics\|economics]] & [[finance\|finance]]:
+slightly less biased, lighter/more informative analyses: [coldfusion](https://www.youtube.com/c/ColdFusion)
+[How Money & Banking Work (& why they're broken today) - Lyn Alden](https://www.youtube.com/watch?v=jk_HWmmwiAs)
+[how money works channel](https://www.youtube.com/c/HowMoneyWorks)
 
-interactive encyclopedia/wiki:
-[DIGITIZATION.wiki](https://www.digitization.wiki/)
-[Iconographic Encyclopædia of Science, Literature, and Art](https://www.c82.net/iconography/)
-
-content on "how the world works":
-[coldfusion](https://www.youtube.com/c/ColdFusion)
-[how money works](https://www.youtube.com/c/HowMoneyWorks)
-[[wikihow\|wikihow]]
-[[_006_core notes/design principles\|design principles]] (by ray dalio)
-[[initiatives, orgs & communities/host/mundos possíveis\|mundos possíveis]] documentary
+practical [[philosophy\|philosophy]]/basic orienting principles:
+[[principles\|principles]] (by ray dalio)
 [[dan koe\|dan koe]]'s career philosophical videos
+
+inspirational/perspectival content:
+[[initiatives, orgs & communities/host/mundos possíveis\|mundos possíveis]] documentary
+[[people/references/architect;design/charles eisenstein\|charles eisenstein]]
 
 best personal websites:
 technical -> [Maggie Appleton](https://maggieappleton.com/) / [Andy Matuschak](https://andymatuschak.org/)
@@ -221,7 +237,7 @@ alternative personal websites:
 [[tier 1 MOC\|tier 1 MOC]] researchers:
 [[people/references/lab/omar rizwan\|omar rizwan]], [[people/references/lab/jinha lee\|jinha lee]], [tylerangert](https://twitter.com/tylerangert), [andy matuschak](https://twitter.com/andy_matuschak), [robert haisfield](https://twitter.com/RobertHaisfield), [alexander obenauer](https://twitter.com/alexobenauer) (theorists)
 [maggie appleton](https://twitter.com/maggieappleton/) , [sari azout](https://twitter.com/sariazout), [serj hunt](https://twitter.com/Serjhunt_ARK), [raghav agrawal](https://twitter.com/impactology), [john nulls](https://twitter.com/johnnulls), [andrew altshuller](https://twitter.com/1eo) (curators)
-[[projects & tools/tools/softspace\|softspace]]'s [Yiliu Shen-Burke](https://twitter.com/softspaceninja) / [[kosmik\|kosmik]]'s [paul rony](https://twitter.com/Paul_Rony) / [[fermat.ws\|fermat.ws]]' [pol baladas](https://twitter.com/polbaladas) / [[excalidraw\|excalidraw]]'s [zsolt viczián](https://twitter.com/zsviczian) / [[projects & tools/projects/tweetscape\|tweetscape]]'s [thesephist](https://twitter.com/thesephist), [[people/references/lab/jacky zhao\|jacky zhao]], [[people/references/architect;design/stephen reid\|stephen reid]], [nick torba](https://twitter.com/nicktorba) & [julian fleck](https://twitter.com/j0lian) / [[people/references/lab/fromsergio\|fromsergio]] (developers)
+[[projects & tools/tools/lab/softspace\|softspace]]'s [Yiliu Shen-Burke](https://twitter.com/softspaceninja) / [[kosmik\|kosmik]]'s [paul rony](https://twitter.com/Paul_Rony) / [[fermat.ws\|fermat.ws]]' [pol baladas](https://twitter.com/polbaladas) / [[excalidraw\|excalidraw]]'s [zsolt viczián](https://twitter.com/zsviczian) / [[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social (ex-tweetscape)]]'s [thesephist](https://twitter.com/thesephist), [[people/references/lab/jacky zhao\|jacky zhao]], [[people/references/architect;design/stephen reid\|stephen reid]], [nick torba](https://twitter.com/nicktorba) & [julian fleck](https://twitter.com/j0lian) / [[people/references/lab/fromsergio\|fromsergio]] (developers)
 [jin](https://twitter.com/dankvr)
 [caio vassão](https://caiovassao.medium.com/) / [jamie combs](https://twitter.com/JamieCombs)
 [[people/acquaintances/alex bretas\|alex bretas]] / [[people/acquaintances/luis sérgio ferreira\|luis sérgio ferreira]]
@@ -253,27 +269,27 @@ relevant organizations:
 #### (mostly) FLOSS personal tech stacks
 
 visual bookmarks navigation:
-[[projects & tools/projects/interneto\|interneto]]
+[[projects & tools/projects/lab/interneto\|interneto]]
 [[projects & tools/tier 2/webcrate\|webcrate]]
-[[projects & tools/tools/linkace\|linkace]]
-[[projects & tools/tools/otter manager\|otter manager]]
-[[projects & tools/tools/raindrop\|raindrop]]
+[[projects & tools/tools/lab/linkace\|linkace]]
+[[projects & tools/tools/lab/otter manager\|otter manager]]
+[[projects & tools/tools/lab/raindrop\|raindrop]]
 [[toby\|toby]]
 [[projects & tools/tier 2/diigo\|diigo]]
 
 file management:
-[[projects & tools/tools/eagle (app)\|eagle (app)]]
+[[projects & tools/tools/lab/eagle (app)\|eagle (app)]]
 
 desktop customization / ricing:
-[[topics/lab/nix customization\|nix customization]] / [[rainmeter\|rainmeter]] / [[projects & tools/tools/screenstyler\|screenstyler]]
+[[topics/lab/nix customization\|nix customization]] / [[rainmeter\|rainmeter]] / [[projects & tools/tools/lab/screenstyler\|screenstyler]]
 
 PKM setups:
 [obsidian projects dashboard](https://bagerbach.com/blog/projects-and-goals-obsidian) / [Rainbell129/Obsidian-Homepage: A dashboard for your obsidian vault.](https://github.com/Rainbell129/Obsidian-Homepage)
-[[projects & tools/tools/juggl\|juggl]] / [[breadcrumbs\|breadcrumbs]] / [[dataview\|dataview]]
+[[projects & tools/tools/lab/juggl\|juggl]] / [[breadcrumbs\|breadcrumbs]] / [[dataview\|dataview]]
 
 community-curated knowledge networks:
 [[initiatives, orgs & communities/architect;design/sublime (ex-startupy)\|sublime (ex-startupy)]]
-[[projects & tools/tools/melon\|melon]]
+[[projects & tools/tools/design/melon\|melon]]
 [Top Curators On The Internet - Google Docs](https://docs.google.com/document/d/1PNYQmjOdAmKbRzLGI83nvSQ5hRRlIJz7VZq13WwehtQ/edit)
 
 ```ad-warning
@@ -319,7 +335,7 @@ https://codeberg.org/teaserbot-labs/delightful-humane-design
 [invidious](https://invidious.io/) - alternative youtube front-end
 [nitter](https://nitter.net/) - alternative twitter front-end
 [[tweetbase\|tweetbase]]
-[[projects & tools/projects/tweetscape\|tweetscape]]
+[[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social (ex-tweetscape)]]
 [[nodus labs\|nodus labs]]
 [[AI knowledge graphs\|AI knowledge graphs]]
 
@@ -327,14 +343,14 @@ https://codeberg.org/teaserbot-labs/delightful-humane-design
 #### data breakdown:
 
 networks / data sources:
-[[google\|google]] / [[youtube\|youtube]] / [[wikipedia\|wikipedia]] / [[twitter\|twitter]] / [[reddit\|reddit]] / [[facebook\|facebook]] / [[projects & tools/tools/instagram\|instagram]] / [[substack\|substack]] ([[RSS feed\|RSS feed]]) / [[podcast\|podcast]] ([[snipd\|snipd]]) / [[tbprocessed/base notes/ventures - general/discord\|discord]]
-[[initiatives, orgs & communities/architect;design/golden\|golden]] / [[initiatives, orgs & communities/architect;design/sublime (ex-startupy)\|sublime (ex-startupy)]] / [[mastodon\|mastodon]] / [[bluesky\|bluesky]] / [[are.na\|are.na]] / [[glasp\|glasp]] / [[projects & tools/tools/melon\|melon]]
+[[google\|google]] / [[youtube\|youtube]] / [[wikipedia\|wikipedia]] / [[twitter\|twitter]] / [[reddit\|reddit]] / [[facebook\|facebook]] / [[projects & tools/tools/lab/instagram\|instagram]] / [[substack\|substack]] ([[RSS feed\|RSS feed]]) / [[podcast\|podcast]] ([[snipd\|snipd]]) / [[tbprocessed/base notes/ventures - general/discord\|discord]]
+[[initiatives, orgs & communities/architect;design/golden\|golden]] / [[initiatives, orgs & communities/architect;design/sublime (ex-startupy)\|sublime (ex-startupy)]] / [[mastodon\|mastodon]] / [[bluesky\|bluesky]] / [[are.na\|are.na]] / [[glasp\|glasp]] / [[projects & tools/tools/design/melon\|melon]]
 [[pinterest\|pinterest]] / [[artstation\|artstation]] / [[dribbble\|dribbble]] / [[behance\|behance]]
 
 files management:
-[[patterns/active patterns/knowledge design/social bookmarks\|social bookmarks]] - [[projects & tools/tools/raindrop\|raindrop]]
+[[patterns/active patterns/knowledge design/social bookmarks\|social bookmarks]] - [[projects & tools/tools/lab/raindrop\|raindrop]]
 [[notes\|notes]] - [[telegram\|telegram]] <> [[tbprocessed/base notes/ventures - general/obsidian\|obsidian]]
-[[images\|images]] - [[projects & tools/tools/eagle (app)\|eagle (app)]]
+[[images\|images]] - [[projects & tools/tools/lab/eagle (app)\|eagle (app)]]
 [[videos\|videos]] - [[youtube\|youtube]]
 [[personal data\|personal data]] - [[prototypes/not proprietary/synapsis\|synapsis]] ([[rescuetime\|rescuetime]], [[rize\|rize]], [[toggl\|toggl]])
 

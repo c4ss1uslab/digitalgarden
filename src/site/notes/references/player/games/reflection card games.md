@@ -4,11 +4,11 @@
 
 ##### thinkpak (brainstorming/scamper):
 https://www.amazon.com/Thinkpak-Brainstorming-Card-Michael-Michalko/dp/1580087728
-[[projects & tools/projects/bakka archetypes\|bakka archetypes]]
+[[projects & tools/projects/art/bakka archetypes\|bakka archetypes]]
 
 ##### bakka archetypes (branding):
 https://shop.theuglylab.com.br/cards/bakka
 
-##### [[projects & tools/tools/fourgames card deck\|fourgames card deck]]
+##### [[projects & tools/tools/player/fourgames card deck\|fourgames card deck]]
 
 ##### [[practices/tarot\|tarot]]
