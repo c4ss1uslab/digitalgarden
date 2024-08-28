@@ -53,7 +53,7 @@ collapse: open
 the contents of the writing below are currently haphazard, disjointed and all over the place. please proceed at your own risk. (*or don't.* feel free to come back later when it'll be hopefully updated and improved.)
 ```
 
-much like [[people/references/lab/alexander obenauer\|alexander obenauer]] with the [[_006_core notes/personal OS design\|future of operating systems]], [[people/references/lab/gordon brander\|gordon brander]] with [[concepts/protocols for thought\|protocols for thought]], [[people/references/lab/samuel timbó\|samuel timbó]] with [[topics/lab/the future of computing\|the future of computing]], or [[people/references/alchemy/hanzi freinacht\|hanzi freinacht]] with the future of [[politics\|politics]], i have a vision for the future of information and knowledge management.
+much like [[people/references/lab/alexander obenauer\|alexander obenauer]] with the [[_006_core notes/personal OS design\|future of operating systems]], [[people/references/lab/gordon brander\|gordon brander]] with [[responses/design/protocols for thought\|protocols for thought]], [[people/references/lab/samuel timbó\|samuel timbó]] with [[topics/lab/the future of computing\|the future of computing]], or [[people/references/alchemy/hanzi freinacht\|hanzi freinacht]] with the future of [[topics/architect;design/politics\|politics]], i have a vision for the future of information and knowledge management.
 
 it includes an [[ontology\|ontology]] - the [[_004_L1F3/l1f3 management methodology\|L1F3 management framework]], its application in a [[system\|system]] - the [[_004_L1F3/l1f3 management system\|L1F3 management system]], and its decentralization as part of a [[protocol\|protocol]] - the [[_004_L1F3/l1f3 protocol\|L1F3 protocol]].
 

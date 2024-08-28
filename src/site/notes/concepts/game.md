@@ -1,5 +1,5 @@
 ---
-{"aliases":["games"],"created in":"2022-02-27T14:27:13-03:00","last tended to":"2024-06-16T17:08:08-03:00","tags":["player","🌱","concept"],"dg-publish":true,"permalink":"/concepts/game/","dgPassFrontmatter":true,"created":"2022-02-27T14:27:13.500-03:00","updated":"2024-06-17T21:18:31.423-03:00"}
+{"aliases":["games"],"created in":"2022-02-27T14:27:13-03:00","last tended to":"2024-06-17T21:18:31-03:00","tags":["player","🌱","concept"],"dg-publish":true,"permalink":"/concepts/game/","dgPassFrontmatter":true,"created":"2022-02-27T14:27:13.500-03:00","updated":"2024-08-28T14:31:16.692-03:00"}
 ---
 
 ##### a few of my favorite definitions of "game"
@@ -18,10 +18,10 @@
 
 ###### 4-quadrant view:
 
-1) self-discovery/transformation
-2) learning/capacity development
-3) self-healing/relationship building
-4) strategy/co-creation
+1) self-discovery/transformation ([[concepts/waking up\|waking up]])
+2) learning/capacity development ([[concepts/growing up\|growing up]])
+3) self-healing/relationship building ([[concepts/cleaning up\|cleaning up]])
+4) strategy/co-creation ([[concepts/showing up\|showing up]])
 
 ###### coordination/peace games
 
@@ -58,7 +58,7 @@ main references:
 - [[people/friends/ísis schuarts\|ísis schuarts]] (adam kadmon institute / l1f3 stream)
 
 write/clarify my differences in approach from (above & below):
-- [[initiatives, orgs & communities/alchemy/integral life\|integral life]] / [[concepts/integral OS\|integral OS]]
+- [[initiatives, orgs & communities/alchemy/integral life\|integral life]] / [[references/alchemy/integral OS\|integral OS]]
 - [[flow genome project\|flow genome project]]
 - [[foresight institute\|foresight institute]]
 - [[initiatives, orgs & communities/architect;design/the consilience project\|the consilience project]]

@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-07-30T21:38:54-03:00","last tended to":"2024-08-27T17:07:15-03:00","tags":["🌱"],"dg-publish":true,"permalink":"/003-research/05-core-references-and-resources/","dgPassFrontmatter":true,"created":"2022-07-30T21:38:54.771-03:00","updated":"2024-08-27T17:07:27.828-03:00"}
+{"created in":"2022-07-30T21:38:54-03:00","last tended to":"2024-08-27T17:07:15-03:00","tags":["🌱"],"dg-publish":true,"permalink":"/003-research/05-core-references-and-resources/","dgPassFrontmatter":true,"created":"2022-07-30T21:38:54.771-03:00","updated":"2024-08-28T15:04:36.936-03:00"}
 ---
 
 ```ad-warning
@@ -149,8 +149,8 @@ core concepts:
 [[tbprocessed/base notes/concepts - general/game b\|game b]] / [[concepts/civilization design\|civilization design]] / [[topics/architect;design/systems design\|systems design]]
 [[topics/architect;design/distributed systems\|distributed systems]] / [[decentralized systems\|decentralized systems]] / [[regenerative systems\|regenerative systems]] / [[disruptive systems\|disruptive systems]]
 [[topics/architect;design/regeneration\|regeneration]] / [[tbprocessed/base notes/concepts - general/disruption\|disruption]] / [[integration\|integration]]
-[[metadesign\|metadesign]] / [[topics/architect;design/ontological design\|ontological design]]
-[[concepts/integral theory\|integral theory]] / [[models & frameworks/four quadrants\|four quadrants]] / [[models & frameworks/fourgames\|fourgames]]
+[[models & frameworks/metadesign\|metadesign]] / [[topics/architect;design/ontological design\|ontological design]]
+[[models & frameworks/integral theory\|integral theory]] / [[models & frameworks/four quadrants\|four quadrants]] / [[models & frameworks/fourgames\|fourgames]]
 [[meta-cognitive processes\|meta-cognitive processes]] / [[concepts/life management\|life management]]
 [[maps\|maps]] / [[boards\|boards]] -> [[models & frameworks/wardley mapping\|wardley mapping]] / [[game board\|game board]]
 
@@ -234,7 +234,7 @@ alternative personal websites:
 [The Satyrs’ Forest 🍇](https://marijn.uk/) / [R.V.Klein 🐇 HOME](https://rvklein.me/index.html)
 [Drew's Conversation Menu - Google Docs](https://docs.google.com/document/d/1VA6ihOr3JNRG0xehB56kJF9N9VVrRakPv2VPzgW3Ln8/edit#)
 
-[[tier 1 MOC\|tier 1 MOC]] researchers:
+[[_001_MOCs/tier 1 MOC\|tier 1 MOC]] researchers:
 [[people/references/lab/omar rizwan\|omar rizwan]], [[people/references/lab/jinha lee\|jinha lee]], [tylerangert](https://twitter.com/tylerangert), [andy matuschak](https://twitter.com/andy_matuschak), [robert haisfield](https://twitter.com/RobertHaisfield), [alexander obenauer](https://twitter.com/alexobenauer) (theorists)
 [maggie appleton](https://twitter.com/maggieappleton/) , [sari azout](https://twitter.com/sariazout), [serj hunt](https://twitter.com/Serjhunt_ARK), [raghav agrawal](https://twitter.com/impactology), [john nulls](https://twitter.com/johnnulls), [andrew altshuller](https://twitter.com/1eo) (curators)
 [[projects & tools/tools/lab/softspace\|softspace]]'s [Yiliu Shen-Burke](https://twitter.com/softspaceninja) / [[kosmik\|kosmik]]'s [paul rony](https://twitter.com/Paul_Rony) / [[fermat.ws\|fermat.ws]]' [pol baladas](https://twitter.com/polbaladas) / [[excalidraw\|excalidraw]]'s [zsolt viczián](https://twitter.com/zsviczian) / [[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social (ex-tweetscape)]]'s [thesephist](https://twitter.com/thesephist), [[people/references/lab/jacky zhao\|jacky zhao]], [[people/references/architect;design/stephen reid\|stephen reid]], [nick torba](https://twitter.com/nicktorba) & [julian fleck](https://twitter.com/j0lian) / [[people/references/lab/fromsergio\|fromsergio]] (developers)
@@ -343,7 +343,7 @@ https://codeberg.org/teaserbot-labs/delightful-humane-design
 #### data breakdown:
 
 networks / data sources:
-[[google\|google]] / [[youtube\|youtube]] / [[wikipedia\|wikipedia]] / [[twitter\|twitter]] / [[reddit\|reddit]] / [[facebook\|facebook]] / [[projects & tools/tools/lab/instagram\|instagram]] / [[substack\|substack]] ([[RSS feed\|RSS feed]]) / [[podcast\|podcast]] ([[snipd\|snipd]]) / [[tbprocessed/base notes/ventures - general/discord\|discord]]
+[[google\|google]] / [[youtube\|youtube]] / [[wikipedia\|wikipedia]] / [[projects & tools/tools/lab/twitter 1\|twitter 1]] / [[reddit\|reddit]] / [[facebook\|facebook]] / [[projects & tools/tools/lab/instagram\|instagram]] / [[substack\|substack]] ([[RSS feed\|RSS feed]]) / [[podcast\|podcast]] ([[snipd\|snipd]]) / [[tbprocessed/base notes/ventures - general/discord\|discord]]
 [[initiatives, orgs & communities/architect;design/golden\|golden]] / [[initiatives, orgs & communities/architect;design/sublime (ex-startupy)\|sublime (ex-startupy)]] / [[mastodon\|mastodon]] / [[bluesky\|bluesky]] / [[are.na\|are.na]] / [[glasp\|glasp]] / [[projects & tools/tools/design/melon\|melon]]
 [[pinterest\|pinterest]] / [[artstation\|artstation]] / [[dribbble\|dribbble]] / [[behance\|behance]]
 

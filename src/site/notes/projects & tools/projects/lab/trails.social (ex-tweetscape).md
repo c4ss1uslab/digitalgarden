@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-04-17T18:58:23-03:00","last tended to":"2024-08-27T17:08:33-03:00","tags":["project","openknowledge","🌿","open-source","socialsensemaking","informationmanagement","tool","sensemaking"],"relevancescore":86,"dg-publish":true,"permalink":"/projects-and-tools/projects/lab/trails-social-ex-tweetscape/","dgPassFrontmatter":true,"created":"2024-04-17T18:58:23.356-03:00","updated":"2024-08-27T17:08:57.221-03:00"}
+{"created in":"2024-04-17T18:58:23-03:00","last tended to":"2024-08-28T15:04:37-03:00","tags":["project","openknowledge","🌿","open-source","socialsensemaking","informationmanagement","tool","sensemaking"],"relevancescore":86,"dg-publish":true,"permalink":"/projects-and-tools/projects/lab/trails-social-ex-tweetscape/","dgPassFrontmatter":true,"created":"2024-04-17T18:58:23.356-03:00","updated":"2024-08-28T15:04:37.906-03:00"}
 ---
 
 #### about
@@ -12,7 +12,7 @@
 
 #### context
 
-a discontinued yet very, very interesting prototype for an alternative [[twitter\|twitter]] feed made by a few folks at [[roote\|roote]].
+a discontinued yet very, very interesting prototype for an alternative [[projects & tools/tools/lab/twitter 1\|twitter 1]] feed made by a few folks at [[roote\|roote]].
 
 **good intro:** https://www.roote.co/tweetscape/vision
 
@@ -20,7 +20,7 @@ their design was great, and they had fantastic write-ups on the whole design/dev
 
 after their initial design and their development halt due to twitter API changes, they expanded the scope of the project (applying the design specs to more than twitter) and renamed it to trails.social, which i love.
 
-from my understanding, their lead engineers/designers were [[nick torba\|nick torba]] and [[julian fleck\|julian fleck]]. there were a few other people supporting while they were incubated by [[roote\|roote]] and [[andre vacha\|andre vacha]] joined after some time as well.
+from my understanding, their lead engineers/designers were [[people/references/lab/nick torba\|nick torba]] and [[people/references/lab/julian fleck\|julian fleck]]. there were a few other people supporting while they were incubated by [[roote\|roote]] and [[people/references/lab/andre vacha\|andre vacha]] joined after some time as well.
 
 for me, it's a core reference for the design of an [[prototypes/on hold/omnichannel curation feed\|omnichannel curation feed]].
 #### write-ups:

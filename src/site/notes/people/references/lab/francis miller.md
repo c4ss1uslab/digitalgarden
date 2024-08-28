@@ -1,10 +1,10 @@
 ---
-{"created in":"2024-06-14T18:48:35-03:00","last tended to":"2024-07-24T00:37:04-03:00","tags":["person","informationmanagement","design","tier1","knowledgedesign","learning","visuallearning","research","🌿","lab"],"dg-publish":true,"permalink":"/people/references/lab/francis-miller/","dgPassFrontmatter":true,"created":"2024-06-14T18:48:35.670-03:00","updated":"2024-07-24T00:58:16.175-03:00"}
+{"created in":"2024-06-14T18:48:35-03:00","last tended to":"2024-08-28T15:13:32-03:00","tags":["person","informationmanagement","design","tier1","knowledgedesign","learning","visuallearning","research","🌿","lab","informationdesign","knowledgevisualization"],"dg-publish":true,"relevancescore":90,"permalink":"/people/references/lab/francis-miller/","dgPassFrontmatter":true,"created":"2024-06-14T18:48:35.670-03:00","updated":"2024-08-28T15:15:41.122-03:00"}
 ---
 
 https://www.francismiller.com/
 
-everything he's published on his website is amazing, very detailed. fantastic if you're thinking deeply abound information/knowledge design/presentation - https://www.francismiller.com/articles/
+everything he's published on his website is amazing, very detailed. fantastic if you're thinking deeply about [[topics/lab/information design\|information design]]/[[knowledge design\|knowledge design]]/[[responses/lab/knowledge visualization\|knowledge visualization]] - https://www.francismiller.com/articles/
 
 for a lighter intro, see: https://www.francismiller.com/introduction/
 

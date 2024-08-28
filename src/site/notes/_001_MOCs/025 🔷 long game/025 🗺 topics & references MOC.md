@@ -33,8 +33,8 @@ level of depth:
 🌲 [[meta-perspectival frameworks\|meta-perspectival frameworks]]
 	🔥 [[topics/architect;design/ontological design\|ontological design]]
 	🔥 [[models & frameworks/fourgames\|fourgames]]
-	🔥 [[concepts/integral theory\|integral meta-theory]]
-	🔥 [[metadesign\|metadesign]] (portuguese)
+	🔥 [[models & frameworks/integral theory\|integral meta-theory]]
+	🔥 [[models & frameworks/metadesign\|metadesign]] (portuguese)
 🌲 [[topics/player/self-directed learning\|self-directed learning]]
 	🔥 [[initiatives, orgs & communities/player/MoL\|MoL]] / [[unilivre\|unilivre]] (portuguese)
 	🔥 [[reaprendiz\|reaprendiz]] (portuguese)
@@ -77,7 +77,7 @@ level of depth:
 🌿 [[topics/architect;design/new economies\|new economies]] & [[initiatives, orgs & communities/organizations MOC\|organizations]] [economic]
 	🌿 [[concepts/multicurrencies economy\|concepts/multicurrencies economy]] / [[initiatives, orgs & communities/DAOs MOC\|DAOs MOC]]
 	🌿 [[creator economy\|creator economy]] / [[curator economy\|curator economy]]
-	🌱 [[collaborative economy\|collaborative economy]] / [[shared economy\|shared economy]]
+	🌱 [[collaborative economy\|collaborative economy]] / [[concepts/shared economy\|shared economy]]
 🌿 [[new lifestyles\|new lifestyles]] & [[reality models\|reality models]] (metagame) [personal]
 🌱 [[new culture\|new culture]], [[areas/relationships\|relationships]] & [[communities\|communities]] (governance) [social]
 🌱 [[new ecologies\|new ecologies]] & [[areas/environments\|environments]] (regenerative systems design) [ecological]
@@ -100,7 +100,7 @@ level of depth:
 🌿 [[interfaces\|interfaces]] & [[topics/lab/user experience\|UX]]
 	🧪 [[prototypes/on hold/l1f3 player dashboard\|l1f3 player dashboard]]
 	🧰 [[_002_toolkit/000 ⛓ l1f3 player toolkit\|l1f3 player toolkit]] ([[pinterest curation\|pinterest curation]] / [[projects & tools/tools/player/game UI database\|game UI database]])
-🌿 [[concepts/mapping\|mapping]]
+🌿 [[responses/lab/mapping\|mapping]]
 	🔥 [[models & frameworks/wardley mapping\|wardley mapping]]
 	🔥 [[maps curation\|maps curation]] (twitter link)
 	🧪 [[tbprocessed/base notes/tools;products - proprietary/tools/life map\|life map]]
@@ -113,7 +113,7 @@ level of depth:
 	💫 [[map-making workflow (excalidraw)\|map-making workflow (excalidraw)]]
 	💫 [[ideaverse\|ideaverse]] / [[research visualization world\|research visualization world]] / [[_000_digital garden/c4ss1us' garden\|c4ss1us' garden]] evolution into a [[topics/art/3d\|3d]]/artistic [[3rd brain\|3rd brain]]
 🌿 [[digital systems design\|digital systems design]]
-	🔥 [[concepts/values-based design\|values-and-meaning based design]]
+	🔥 [[responses/design/values-based design\|values-and-meaning based design]]
 🌱 [[topics/lab/data management\|data management]]
 	🔥 [[initiatives, orgs & communities/lab/holochain\|holochain]]
 	🔥 [[prototypes/not proprietary/synapsis\|synapsis]]
@@ -185,7 +185,7 @@ level of depth:
 #### 👨🏻‍🎤 [[_005_c4ss1us/c4ss.host\|.host]]
 ##### 🎎 [[areas/relationships\|relationships]]
 🌿 [[communication frameworks\|communication frameworks]]
-	🔥 [[concepts/integral theory\|integral theory]]
+	🔥 [[models & frameworks/integral theory\|integral theory]]
 	🔥 [[initiatives, orgs & communities/alchemy/possibility management\|possibility management]]
 	🔥 [[memetics\|memetics]]
 🌿 [[collective intelligence\|collective intelligence]] tools
@@ -194,7 +194,7 @@ level of depth:
 🌱 [[facilitation\|facilitation]] tools
 	🔥 [[projects & tools/tools/player/fourgames card deck\|fourgames card deck]]
 	🔥 [[inventário amuta\|inventário amuta]]
-	💩 [[practices/música do círculo\|música do círculo]]
+	💩 [[responses/art/música do círculo\|música do círculo]]
 	💩 [[initiatives, orgs & communities/athlete/playfight\|playfight]]
 🌱 [[resource allocation\|resource allocation]] tools
 	🔥 [[models & frameworks/fluxonomy 4d\|fluxonomy 4d]]
@@ -273,9 +273,9 @@ practice
 
 - clarity & preparation
 	- [[topics/alchemy/sensemaking\|sensemaking]]
-	- [[meta-systemic design\|meta-systemic design]]
+	- [[concepts/meta-systemic design\|meta-systemic design]]
 		- [[design methodologies\|design methodologies]]
-			- [[concepts/regenerative design\|regenerative design]]
+			- [[responses/regen/regenerative design\|regenerative design]]
 		- [[tbprocessed/base notes/topics/financial ecosystem\|financial ecosystem]]
 			- [[topics/architect;design/crypto\|crypto]]
 				- [[DeFi\|DeFi]]
@@ -341,7 +341,7 @@ the future of:
 -   [[topics/architect;design/economics\|economics]] / [[tbprocessed/base notes/topics/resources generation\|resources generation]] / [[resources management\|resources management]]
 -   [[terms/information\|information]] / [[knowledge generation\|knowledge generation]] / [[topics/lab/knowledge management\|knowledge management]]
 -   [[governance\|governance]] / [[terms/decision-making\|decision-making]] / [[decision management\|decision management]]
--   [[intelligence\|intelligence]] / [[topics/architect;design/research\|topics/architect;design/research]] / [[concepts/mapping\|mapping]] / [[tbprocessed/base notes/concepts - general/curation\|curation]]
+-   [[intelligence\|intelligence]] / [[topics/architect;design/research\|topics/architect;design/research]] / [[responses/lab/mapping\|mapping]] / [[tbprocessed/base notes/concepts - general/curation\|curation]]
 -   [[physical environments\|physical environments]] / [[digital environments\|digital environments]]
 -   [[topics/architect;design/technology\|technology]]
 
@@ -359,6 +359,6 @@ the future of:
 ##### [[initiatives, orgs & communities/host/mundos possíveis\|mundos possíveis]]
 - [[DAO-DHO evolution\|DAO-DHO evolution]] + [[topics/player/gamification\|gamification]]
 - [[information ecology\|information ecology]]
-	- [[concepts/mapping\|mapping]]
+	- [[responses/lab/mapping\|mapping]]
 	- [[topics/alchemy/sensemaking\|sensemaking]]
 - [[terms/metaverse\|metaverse]] / [[NFTs\|NFTs]] / [[social token experiments\|social token experiments]]

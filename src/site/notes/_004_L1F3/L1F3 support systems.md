@@ -6,7 +6,7 @@
 
 the way i use the term "life support system" is as "any crucial system(s) within a habitat that are responsible for maintaining the survival of a certain species".
 
-if we apply that for humans, there are many [[natural systems\|natural]] and [[built systems\|built systems]] on [[terms/earth\|earth]] that support our life on this planet.
+if we apply that for humans, there are many [[terms/natural systems\|natural]] and [[built systems\|built systems]] on [[terms/earth\|earth]] that support our life on this planet.
 
 differently, a "L1F3 support system" is "any crucial system(s) within a habitat that are responsible for supporting the [[thriving\|thriving]] of a certain species". so they both [[transcend and include\|transcend and include]] all systems that are responsible for maintaining our survival.
 

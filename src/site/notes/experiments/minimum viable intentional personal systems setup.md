@@ -1,8 +1,8 @@
 ---
-{"created in":"2022-03-24T12:57:53-03:00","last tended to":"2024-08-06T16:14:30-03:00","aliases":["minimum viable intentional tech stack setup","minimum viable intentional personal operations setup","intentional digital systems setup","minimum viable intentional digital setup","self-management tech setup","minimum viable intentional personal systems setup"],"tags":["experiment","🌿","design","lab"],"dg-publish":true,"permalink":"/experiments/minimum-viable-intentional-personal-systems-setup/","dgPassFrontmatter":true,"created":"2022-03-24T12:57:53.053-03:00","updated":"2024-08-06T16:14:31.530-03:00"}
+{"created in":"2022-03-24T12:57:53-03:00","last tended to":"2024-08-06T16:14:30-03:00","aliases":["minimum viable intentional tech stack setup","minimum viable intentional personal operations setup","intentional digital systems setup","minimum viable intentional digital setup","self-management tech setup","minimum viable intentional personal systems setup"],"tags":["experiment","🌿","design","lab"],"dg-publish":true,"permalink":"/experiments/minimum-viable-intentional-personal-systems-setup/","dgPassFrontmatter":true,"created":"2022-03-24T12:57:53.053-03:00","updated":"2024-08-28T13:27:53.208-03:00"}
 ---
 
-related notes (to be processed): [[_006_core notes/personal OS design\|personal OS design]], [[concepts/personal tech stack\|personal tech stack]].
+related notes (to be processed): [[concepts/personal tech stack\|personal tech stack]], [[_006_core notes/personal OS design\|personal OS design]], [[topics/architect;design/personal algorithms design\|personal algorithms design]], [[personal systems design\|personal systems design]].
 
 **also:** clarify distinction between [[personal systems\|personal systems]] and [[digital systems\|digital systems]].
 
@@ -35,4 +35,5 @@ these are basically more advanced [[concepts/life management\|life management]] 
 in 2020, i created a (now outdated) [[prototypes/on hold/notion personal tech stack database\|notion personal tech stack database]] as part of the [[notion life management prototype\|notion life management prototype]]. i will eventually update it with my most recent curation and setup, especially as i move it to [[anytype\|anytype]] or some other form of user-owned local software that does [[relational database\|relational database]] management (possibly [[prototypes/not proprietary/synapsis\|synapsis]], [[tbprocessed/base notes/ventures - general/obsidian\|obsidian]]/[[projects & tools/tools/lab/logseq\|logseq]]/[[dendron\|dendron]] with plugins, or a custom solution in the future).
 
 ---
-related: [[personal systems design\|personal systems design]], [[tech stack design\|tech stack design]], [[digital systems design\|digital systems design]], [[digital environment design\|digital environment design]].
+
+related: [[tech stack design\|tech stack design]], [[digital systems design\|digital systems design]], [[digital environment design\|digital environment design]], [[algorithm design\|algorithm design]], [[topics/lab/recommender systems\|recommender systems]].

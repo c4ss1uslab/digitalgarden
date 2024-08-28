@@ -61,7 +61,7 @@ added:
 
 [[topics/player/game interfaces\|game interfaces]] / [[topics/player/game HUDs\|HUDs]] + [[topics/lab/UX design\|UX design]]
 
-[[concepts/values-based design\|values-based design]] / [[topics/architect;design/humane tech design\|humane tech design]]
+[[responses/design/values-based design\|values-based design]] / [[topics/architect;design/humane tech design\|humane tech design]]
 
 multidimensional resources management
 (potluck)
@@ -76,13 +76,13 @@ multidimensional resources management
 
 [[topics/architect;design/web3\|web3]]
 
-[[concepts/mapping\|mapping]]
+[[responses/lab/mapping\|mapping]]
 
 [[topics/alchemy/sensemaking\|sensemaking]]
 
 [[augmenting your OODA loop\|augmenting your OODA loop]]
 
-[[meta-systemic design\|meta-systemic design]]
+[[concepts/meta-systemic design\|meta-systemic design]]
 
 [[concepts/civilization design\|civilization design]]
 
@@ -98,7 +98,7 @@ multidimensional resources management
 
 [[topics/architect;design/ontological design\|ontological design]]
 
-[[concepts/integral OS\|integral OS]]
+[[references/alchemy/integral OS\|integral OS]]
 
 [[concepts/dharma\|dharma]]
 
@@ -461,8 +461,8 @@ multidimensional resources management
 [[create an optimal context\|create an optimal context]]
 [[contexts for human flourishing\|contexts for human flourishing]]
 
-[[concepts/integral theory\|integral theory]]
-[[concepts/integral OS\|integral OS]]
+[[models & frameworks/integral theory\|integral theory]]
+[[references/alchemy/integral OS\|integral OS]]
 [[all-quadrants optimization\|all-quadrants optimization]]
 
 [[initiatives, orgs & communities/alchemy/possibility management\|possibility management]]
@@ -510,7 +510,7 @@ multidimensional resources management
 [[good\|good]]
 [[beautiful\|beautiful]]
 
-[[sharing\|sharing]]
+[[terms/sharing\|sharing]]
 [[purpose\|purpose]]
 [[values\|values]]
 [[mission\|mission]]
@@ -649,7 +649,7 @@ multidimensional resources management
 [[thesis\|thesis]]
 [[presentation\|presentation]]
 
-[[concepts/fractal presentation of information\|fractal model of information presentation]]
+[[responses/lab/fractal presentation of information\|fractal model of information presentation]]
 
 
 underutilized terms i have a special place for:

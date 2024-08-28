@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-08-23T17:05:23-03:00","last tended to":"2024-08-23T17:31:31-03:00","aliases":["collapse","post-collapse","civilization collapse","collapse of our civilization"],"tags":["metacrisis","civilizationdesign","🌱","topic"],"dg-publish":true,"permalink":"/topics/architect-design/civilizational-collapse/","dgPassFrontmatter":true,"created":"2024-08-23T17:05:23.902-03:00","updated":"2024-08-23T17:55:52.756-03:00"}
+{"created in":"2024-08-23T17:05:23-03:00","last tended to":"2024-08-23T17:55:52-03:00","aliases":["collapse","post-collapse","civilization collapse","collapse of our civilization","systemic collapse"],"tags":["metacrisis","civilizationdesign","🌱","topic"],"dg-publish":true,"permalink":"/topics/architect-design/civilizational-collapse/","dgPassFrontmatter":true,"created":"2024-08-23T17:05:23.902-03:00","updated":"2024-08-28T12:07:11.761-03:00"}
 ---
 
 major reference on the subject: [[people/references/architect;design/joseph tainter\|tainter]] on [[the collapse of complex societies\|the collapse of complex societies]].

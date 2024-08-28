@@ -12,7 +12,7 @@ short intros:
 --> https://www.bfi.org/about-fuller/big-ideas/world-game/
 --> https://worldgameworkshop.org/brief-history
 
-it is currently being stewarded by the [[schumacher center for a new economics\|schumacher center for a new economics]].
+it is currently being stewarded by the [[initiatives, orgs & communities/regen/schumacher center for a new economics\|schumacher center for a new economics]].
 
 ---
 ##### core links:

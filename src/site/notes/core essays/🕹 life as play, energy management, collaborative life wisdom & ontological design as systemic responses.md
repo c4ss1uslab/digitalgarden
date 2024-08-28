@@ -48,7 +48,7 @@ for me, i found that slowly progressing through them has felt like an adequate s
 
 ###### my favorite heuristic device
 
-besides these, **the simplest and most powerful framework** that continues to give me a lot of insights is [[concepts/integral theory\|integral theory]]'s **[[models & frameworks/AQAL\|AQAL]]** - quadrants / levels / lines / states / types.
+besides these, **the simplest and most powerful framework** that continues to give me a lot of insights is [[models & frameworks/integral theory\|integral theory]]'s **[[models & frameworks/AQAL\|AQAL]]** - quadrants / levels / lines / states / types.
 
 if you're unfamiliar with it, i **highly**, **highly** suggest checking it out via a ["map of human knowledge" video] + [integral approach link]. perhaps you won't fully "get it" or resonate with it at first, but the more you interact with it, the more i believe you'll start to see its usefulness and wisdom. 🙃 and as a very practical example of its use, let's consider this framework by applying it to our matter at hand:
 
@@ -63,7 +63,7 @@ just by considering these inquiries, especially over time, the answers that aris
 
 ###### life as play
 
-[[serious play\|serious play]].
+[[concepts/serious play\|serious play]].
 
 existem profissionais dedicados analistas de esportes, de negócios, de jogos (cientistas de dados, etc). tanto pra cuidar da parte tática/estratégica quanto das pessoas - psicólogos, preparadores físicos, fisioterapeutas, massagistas, etc...
 

@@ -17,7 +17,7 @@ also on [figma](https://www.figma.com/file/5UpGleobC3WJFckn9BNA6U/c4ss1us'-l1f3-
 
 scraping:
 \+ tier 1 ([[references/lab/twitter lists\|twitter lists]], [[pockettube\|pockettube]], [[instagram profiles\|instagram profiles]])
-\+ adding filters (highlight common followings + next: [[hive.one\|hive.one]] cross-ref)
+\+ adding filters (highlight common followings + next: [[projects & tools/tools/lab/hive.one\|hive.one]] cross-ref)
 next: integrate: "maps of ([[github\|github]], [[youtube\|youtube]], [[reddit\|reddit]], etc)"...
 
 basic algorithm / display pre-set views:

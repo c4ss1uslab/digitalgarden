@@ -18,7 +18,7 @@ related prototypes: [[experiments/c4ss1us' conversation menu\|c4ss1us' conversat
 ---
 #### the idea
 
-the original idea for this prototype came at the [[practices/música do círculo\|música do círculo]] retreat in jun/2023. i was surrounded by amazing artists and people in general, yet many of our conversations tended towards triviality.
+the original idea for this prototype came at the [[responses/art/música do círculo\|música do círculo]] retreat in jun/2023. i was surrounded by amazing artists and people in general, yet many of our conversations tended towards triviality.
 
 i wondered - instead of making a lot of effort trying to gear the conversation towards more generative places - *how could i make connecting with people, learning and sharing about our lives more playful, fun, seamless?*
 
@@ -42,11 +42,11 @@ for the mvp, i'm considering between using a: [[raspberry pi\|raspberry pi]], [[
 
 *march/2024 update:*
 
-i signed up for an 8-week course at [[SESC santana\|SESC santana]] on [[circuitpy\|circuitpy]] and [[raspberry pi pico\|raspberry pi pico]], and it seems like a great beginner-friendly setup. i'll be learning about it and experimenting with building this prototype there.
+i signed up for an 8-week course at [[SESC santana\|SESC santana]] on [[circuitpy\|circuitpy]] and [[projects & tools/tools/lab/raspberry pi pico\|raspberry pi pico]], and it seems like a great beginner-friendly setup. i'll be learning about it and experimenting with building this prototype there.
 
 *july/2024 update:*
 
-after i learned some basics of [[electronics\|electronics]] and [[circuitpy\|circuitpy]]/[[raspberry pi pico\|pi pico]] from the course, i decided to not focus on it n ow, as i realized publishing my [[_003_research/00 - viable pathways book-zine\|viable pathways book-zine]] my n° 1 priority.
+after i learned some basics of [[electronics\|electronics]] and [[circuitpy\|circuitpy]]/[[projects & tools/tools/lab/raspberry pi pico\|pi pico]] from the course, i decided to not focus on it n ow, as i realized publishing my [[_003_research/00 - viable pathways book-zine\|viable pathways book-zine]] my n° 1 priority.
 
 it's still something i really wanna do in the mid-term (2-3 years max).
 

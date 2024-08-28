@@ -6,4 +6,4 @@ a marketing professor and podcaster gathering some mainstream attention by talki
 
 great talk - [TED - How the US Is Destroying Young People’s Future](https://www.youtube.com/watch?v=qEJ4hkpQW8E)
 
-many implications for [[politics\|politics]], [[culture wars\|culture wars]]/[[polarization\|polarization]] and showing many failings (or features, depending on the perspective of who's benefitting) of the design of our [[economic system\|economic system]].
+many implications for [[topics/architect;design/politics\|politics]], [[culture wars\|culture wars]]/[[polarization\|polarization]] and showing many failings (or features, depending on the perspective of who's benefitting) of the design of our [[economic system\|economic system]].

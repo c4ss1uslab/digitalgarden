@@ -12,11 +12,11 @@ institutionalized [[education\|education]] is a very impactful area of our world
 
 but the discussion about systemic impacts of our existing educational design and emergent approaches will come later. after all, we create institutions, pedagogies, tools, resources and support networks, precisely to support individuals in their learning processes.
 
-for now, there are many resources out there on [[unschooling\|unschooling]], [[homeschooling\|homeschooling]] and [[topics/player/self-directed learning\|self-directed learning]]. in brazil, there are many folks doing amazing work on this direction such as [[people/acquaintances/alex bretas\|alex bretas]] and [[people/acquaintances/luis sérgio ferreira\|luis sérgio ferreira]], as well as transformative [[topics/player/pedagogical approaches\|pedagogical approaches]] such as [[models & frameworks/pedagogia do oprimido\|pedagogy of the oppressed]] and [[models & frameworks/pedagogia da cooperação\|cooperation pedagogy]] that add to the more disseminated [[montessori\|montessori]], [[waldorf\|waldorf]], [[constructivism\|constructivist]] approaches. beyond their bright contributions to the field, from my own experience of growing up being obsessed with [[topics/player/gaming\|gaming]] and seeing how much it both developed and hindered my [[cognitive processes\|cognitive processes]], i'm particularly interested in the role of [[concepts/game\|games]] and [[topics/architect;design/technology\|technology]] in learning.
+for now, there are many resources out there on [[unschooling\|unschooling]], [[homeschooling\|homeschooling]] and [[topics/player/self-directed learning\|self-directed learning]]. in brazil, there are many folks doing amazing work on this direction such as [[people/acquaintances/alex bretas\|alex bretas]] and [[people/acquaintances/luis sérgio ferreira\|luis sérgio ferreira]], as well as transformative [[topics/player/pedagogical approaches\|pedagogical approaches]] such as [[models & frameworks/pedagogia do oprimido\|pedagogy of the oppressed]] and [[models & frameworks/pedagogia da cooperação\|cooperation pedagogy]] that add to the more disseminated [[montessori\|montessori]], [[models & frameworks/waldorf\|waldorf]], [[constructivism\|constructivist]] approaches. beyond their bright contributions to the field, from my own experience of growing up being obsessed with [[topics/player/gaming\|gaming]] and seeing how much it both developed and hindered my [[cognitive processes\|cognitive processes]], i'm particularly interested in the role of [[concepts/game\|games]] and [[topics/architect;design/technology\|technology]] in learning.
 
 there are many fields that deepen this understanding, such as [[topics/architect;design/serious games\|serious games]], (...), [[topics/player/computer supported collaborative learning\|computer supported collaborative learning]], but where i found the most enlightening perspectives/literature was in the studies of [[cognitive science\|cognitive science]], [[concepts/extended cognition\|extended cognition]], [[topics/lab/knowledge management\|knowledge management]] and [[topics/architect;design/tools for thought\|tools for thought]].
 
-this, plus the tons of value i found in my own [[topics/architect;design/anthropology\|anthropological]] explorations/research on [[topics/alchemy/spiritual lineages\|wisdom traditions]] such as [[terms/buddhism\|buddhism]], [[taoism\|taoism]] and [[shamanism\|shamanism]], as well as emergent fields such as [[adult development theory\|adult development theory]], [[concepts/integral theory\|integral theory]] and [[concepts/metamodernism\|metamodernism]] will compose the majority of this article.
+this, plus the tons of value i found in my own [[topics/architect;design/anthropology\|anthropological]] explorations/research on [[topics/alchemy/spiritual lineages\|wisdom traditions]] such as [[terms/buddhism\|buddhism]], [[taoism\|taoism]] and [[shamanism\|shamanism]], as well as emergent fields such as [[adult development theory\|adult development theory]], [[models & frameworks/integral theory\|integral theory]] and [[responses/alchemy/metamodernism\|metamodernism]] will compose the majority of this article.
 
 granted, i still haven't delved as deep into early [[topics/lab/cybernetics\|cybernetics]], [[information theory\|information theory]] and a few other [[topics/lab/computer science\|computer scienc-y]] topics, which hold [[topics/architect;design/personal algorithms design\|very interesting insights too]].
 
@@ -64,7 +64,7 @@ researchers/practitioners such as [[people/references/lab/maggie appleton\|maggi
 
 \+ other researchers such as: [[people/references/architect;design/raghav agrawal\|raghav agrawal]], [[people/references/lab/omar rizwan\|omar rizwan]], [[serj hunt\|serj hunt]] and pretty much anyone associated with the [[initiatives, orgs & communities/lab/ink & switch\|ink & switch]] lab.
 
-\++ communities that apply these principles in practice such as [[practices/música do círculo\|música do círculo]] - [[concepts/4e cognition\|4e cognition]], [[references/design/4e cognition and music - integrative literature review\|4e cognition and music - integrative literature review]].
+\++ communities that apply these principles in practice such as [[responses/art/música do círculo\|música do círculo]] - [[concepts/4e cognition\|4e cognition]], [[references/design/4e cognition and music - integrative literature review\|4e cognition and music - integrative literature review]].
 
 
 
@@ -77,7 +77,7 @@ they point at something that rings very true to my young, eager, child self: ⬇
 
 ##### 3) discovery-based learning
 
-learning is much more effective if we have [[immersion\|immersion]] and [[meaning\|meaning]] in a [[persistence\|persistent]] context. -> curiosity-driven, agent-driven vs imposed.
+learning is much more effective if we have [[immersion\|immersion]] and [[meaning\|meaning]] in a [[terms/persistence\|persistent]] context. -> curiosity-driven, agent-driven vs imposed.
 
 they give the learner agency ([[interactivity\|interactivity]]) and meaning through [[worldbuilding\|worldbuilding]] - major aspects of gamified learning - https://www.youtube.com/watch?v=r_uH-C5MZRA
 

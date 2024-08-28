@@ -9,7 +9,7 @@ keywords: [[content curation\|content curation]], [[terms/consumption\|content c
 
 #### design:
 
-[[concepts/fractal presentation of information\|fractal presentation of information]]
+[[responses/lab/fractal presentation of information\|fractal presentation of information]]
 
 
 ![life manager-life streaming flow.jpeg](/img/user/images/models%20&%20frameworks/life%20manager-life%20streaming%20flow.jpeg)

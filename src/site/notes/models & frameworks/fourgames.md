@@ -6,7 +6,7 @@
 
 good intro video: https://www.youtube.com/watch?v=Tv7mUMDfW6c
 
-the [[models & frameworks/fourgames\|fourgames]] is a practical framework for untangling/simplifying complexity created by [[jamie combs\|jamie combs]], who also calls himself "captain simple", inspired, among other references, by [[concepts/integral theory\|integral theory]].
+the [[models & frameworks/fourgames\|fourgames]] is a practical framework for untangling/simplifying complexity created by [[jamie combs\|jamie combs]], who also calls himself "captain simple", inspired, among other references, by [[models & frameworks/integral theory\|integral theory]].
 
 it presents the core elements of self/someone's life as 4 overlapping, inter-unfolding games.
 

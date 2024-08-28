@@ -1,12 +1,12 @@
 ---
-{"created in":"2023-12-27T13:44:24-03:00","last tended to":"2024-07-19T20:35:26-03:00","aliases":["open-source human"],"tags":["experiment","🌿","open-source","quantifiedself","openknowledge","lifestreaming"],"dg-publish":true,"permalink":"/experiments/open-source-human-experiment/","dgPassFrontmatter":true,"created":"2023-12-27T13:44:24.897-03:00","updated":"2024-07-19T20:36:24.713-03:00"}
+{"created in":"2023-12-27T13:44:24-03:00","last tended to":"2024-07-19T20:35:26-03:00","aliases":["open-source human"],"tags":["experiment","🌿","open-source","quantifiedself","openknowledge","lifestreaming"],"dg-publish":true,"permalink":"/experiments/open-source-human-experiment/","dgPassFrontmatter":true,"created":"2023-12-27T13:44:24.897-03:00","updated":"2024-08-28T15:23:46.558-03:00"}
 ---
 
 since 2019, i've been structuring my whole life to be open-source and streamed in real-time using the [[_004_L1F3/l1f3 streaming system\|l1f3 streaming system]].
 
 *i.e. i want pretty much everything i do to be public*, to varying accessibility degrees, so my life itself can be an experiment into how much this kind of shareability can help with [[self-discovery\|self-discovery]], [[terms/collaboration\|collaboration]] and positive [[terms/impact\|impact]] on others.
 
-one obvious challenge this brings up is potential [[adversarial relationships\|adversarial relationships]] and [[exploitative dynamics\|exploitative dynamics]]. i won't address this fully here, but for now, i'm betting that pros outweigh the cons and that's why there are accessibility levels. they're not "bought", but built based on [[initiatives, orgs & communities/architect;design/trust network\|trust networks]]. more on this later.
+one obvious challenge this brings up is potential [[adversarial relationships\|adversarial relationships]] and [[exploitative dynamics\|exploitative dynamics]]. i won't address this fully here, but for now, i'm betting that pros outweigh the cons and that's why there are accessibility levels. they're not "bought", but built based on [[responses/design/trust networks\|trust networks]]. more on this later.
 
 in order to get this experiment going, i've been slowly building up an mvp by sharing a [[experiments/minimum viable intentional personal systems setup\|minimum viable intentional personal systems setup]] and [[experiments/minimum viable personal tech stack;setup\|tech stack;setup]], using the [[_004_L1F3/l1f3 management methodology\|L1F3 management framework]].
 

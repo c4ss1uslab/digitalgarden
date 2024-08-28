@@ -1,10 +1,10 @@
 ---
-{"created in":"2024-08-20T11:42:20-03:00","last tended to":"2024-08-27T11:25:09-03:00","tags":["patterns","🌿"],"dg-publish":true,"permalink":"/patterns/active-patterns/knowledge-design/relevance-score/","dgPassFrontmatter":true,"created":"2024-08-20T11:42:20.162-03:00","updated":"2024-08-27T12:13:41.866-03:00"}
+{"created in":"2024-08-20T11:42:20-03:00","last tended to":"2024-08-28T12:26:06-03:00","tags":["patterns","🌿"],"dg-publish":true,"aliases":["relevance scores"],"permalink":"/patterns/active-patterns/knowledge-design/relevance-score/","dgPassFrontmatter":true,"created":"2024-08-20T11:42:20.162-03:00","updated":"2024-08-28T15:26:21.534-03:00"}
 ---
 
 #### about
 
-what's the difference between a "relevance score" vs an [[importance\|importance]] rating, as seen in [[gwern\|gwern]]'s website, for example?
+what's the difference between a "relevance score" vs an [[importance\|importance]] rating, as seen in [[people/references/lab/gwern\|gwern]]'s website, for example?
 
 in [gwern's own words](https://gwern.net/about#importance-tags):
 
@@ -25,7 +25,7 @@ well, that's my perspective. it's a starting point. more nuance needed/welcome o
 ---
 #### relevance score visualizations
 
-i still have to figure out why the [digital garden plugin](https://dg-docs.ole.dev/) i'm using isn't allowing me to show the relevance score property on my notes. i currently have 46 notes with assigned relevance scores over 80, and i'm slowly adding it to more and more of them (mostly [[terms/design\|design]]/[[_005_c4ss1us/c4ss1us.design\|architect]] & [[_005_c4ss1us/c4ss1us.lab\|lab]] notes were tagged so far, so the index below is missing a ton of stuff from [[_005_c4ss1us/c4ss1us.alchemy\|alchemy]], [[_005_c4ss1us/c4ss.art\|art]], [[_005_c4ss1us/c4ss1us.player\|player]] and [[_005_c4ss1us/c4ss1us.regen\|regen]], that are less processed/more embrionary).
+i still have to figure out why the [digital garden plugin](https://dg-docs.ole.dev/) i'm using isn't allowing me to show the relevance score property on my notes. i currently have 53 notes with assigned relevance scores over 80, and i'm slowly adding it to more and more of them (mostly [[terms/design\|design]]/[[_005_c4ss1us/c4ss1us.design\|architect]] & [[_005_c4ss1us/c4ss1us.lab\|lab]] notes were tagged so far, so the index below is missing a ton of stuff from [[_005_c4ss1us/c4ss1us.alchemy\|alchemy]], [[_005_c4ss1us/c4ss.art\|art]], [[_005_c4ss1us/c4ss1us.player\|player]] and [[_005_c4ss1us/c4ss1us.regen\|regen]], that are less processed/more embrionary).
 
 i intend to fix this soon, but in the meantime, while i'm also building the [[_001_MOCs/025 🔷 long game/025 🗺 topics & references MOC\|025 🗺 topics & references MOC]] and [[_003_research/00 - viable pathways book-zine\|viable pathways]]' [[_003_research/05 - core references & resources\|05 - core references & resources]] pages, this is a useful visualization for navigating this research garden by identifying what i deem as most relevant from the areas above:
 
@@ -39,43 +39,50 @@ i intend to fix this soon, but in the meantime, while i'm also building the [[_0
 | [[concepts/metacrisis\|metacrisis]]                                                                                   | 98             | concepts                                         |
 | [[initiatives, orgs & communities/architect;design/civilization research institute\|civilization research institute]] | 98             | initiatives, orgs & communities/architect;design |
 | [[initiatives, orgs & communities/architect;design/SEEDS (ecosystem)\|SEEDS (ecosystem)]]                             | 98             | initiatives, orgs & communities/architect;design |
-| [[concepts/cosmoerotic humanism\|cosmoerotic humanism]]                                                               | 96             | concepts                                         |
-| [[concepts/integral theory\|integral theory]]                                                                         | 96             | concepts                                         |
-| [[concepts/metamodernism\|metamodernism]]                                                                             | 96             | concepts                                         |
-| [[concepts/second renaissance\|second renaissance]]                                                                   | 96             | concepts                                         |
 | [[initiatives, orgs & communities/lab/holochain\|holochain]]                                                          | 96             | initiatives, orgs & communities/lab              |
-| [[people/references/architect;design/daniel schmachtenberger\|daniel schmachtenberger]]                               | 96             | people/references/architect;design               |
+| [[models & frameworks/integral theory\|integral theory]]                                                              | 96             | models & frameworks                              |
 | [[patterns/pattern collections/knowledge design patterns\|knowledge design patterns]]                                 | 96             | patterns/pattern collections                     |
 | [[projects & tools/tools/lab/duskOS\|duskOS]]                                                                         | 96             | projects & tools/tools/lab                       |
+| [[people/references/architect;design/daniel schmachtenberger\|daniel schmachtenberger]]                               | 96             | people/references/architect;design               |
 | [[references/alchemy/first principles and first values\|first principles and first values]]                           | 96             | references/alchemy                               |
 | [[topics/architect;design/life design\|life design]]                                                                  | 96             | topics/architect;design                          |
-| [[topics/lab/permacomputing\|permacomputing]]                                                                         | 96             | topics/lab                                       |
+| [[responses/alchemy/cosmoerotic humanism\|cosmoerotic humanism]]                                                      | 96             | responses/alchemy                                |
+| [[responses/alchemy/metamodernism\|metamodernism]]                                                                    | 96             | responses/alchemy                                |
+| [[responses/regen/permacomputing\|permacomputing]]                                                                    | 96             | responses/regen                                  |
+| [[responses/design/second renaissance\|second renaissance]]                                                           | 96             | responses/design                                 |
 | [[concepts/the great simplification\|the great simplification]]                                                       | 94             | concepts                                         |
-| [[practices/música do círculo\|música do círculo]]                                                                    | 94             | practices                                        |
+| [[people/references/lab/devine lu linvega\|devine lu linvega]]                                                        | 94             | people/references/lab                            |
 | [[topics/architect;design/lifestyles\|lifestyles]]                                                                    | 94             | topics/architect;design                          |
 | [[topics/lab/knowledge management\|knowledge management]]                                                             | 94             | topics/lab                                       |
+| [[responses/regen/regenerative design\|regenerative design]]                                                          | 94             | responses/regen                                  |
+| [[responses/art/música do círculo\|música do círculo]]                                                                | 94             | responses/art                                    |
 | [[concepts/4e cognition\|4e cognition]]                                                                               | 92             | concepts                                         |
 | [[concepts/ways of knowing\|ways of knowing]]                                                                         | 92             | concepts                                         |
+| [[projects & tools/tools/lab/human programming interface\|human programming interface]]                               | 92             | projects & tools/tools/lab                       |
 | [[people/references/lab/bret victor\|bret victor]]                                                                    | 92             | people/references/lab                            |
 | [[people/references/regen/vanessa andreotti\|vanessa andreotti]]                                                      | 92             | people/references/regen                          |
-| [[projects & tools/tools/lab/human programming interface\|human programming interface]]                               | 92             | projects & tools/tools/lab                       |
-| [[concepts/mapping\|mapping]]                                                                                         | 91             | concepts                                         |
 | [[initiatives, orgs & communities/lab/subconscious (tool)\|subconscious (tool)]]                                      | 91             | initiatives, orgs & communities/lab              |
 | [[people/references/lab/alexander obenauer\|alexander obenauer]]                                                      | 91             | people/references/lab                            |
 | [[people/references/lab/gordon brander\|gordon brander]]                                                              | 91             | people/references/lab                            |
 | [[people/references/lab/maggie appleton\|maggie appleton]]                                                            | 91             | people/references/lab                            |
+| [[responses/lab/mapping\|mapping]]                                                                                    | 91             | responses/lab                                    |
 | [[concepts/dashboards\|dashboards]]                                                                                   | 90             | concepts                                         |
 | [[projects & tools/tools/lab/softspace\|softspace]]                                                                   | 90             | projects & tools/tools/lab                       |
+| [[people/references/lab/francis miller\|francis miller]]                                                              | 90             | people/references/lab                            |
 | [[topics/lab/information design\|information design]]                                                                 | 90             | topics/lab                                       |
+| [[responses/lab/knowledge visualization\|knowledge visualization]]                                                    | 90             | responses/lab                                    |
 | [[concepts/moloch\|moloch]]                                                                                           | 88             | concepts                                         |
 | [[initiatives, orgs & communities/architect;design/goodly labs\|goodly labs]]                                         | 88             | initiatives, orgs & communities/architect;design |
 | [[initiatives, orgs & communities/architect;design/meaning alignment institute\|meaning alignment institute]]         | 88             | initiatives, orgs & communities/architect;design |
 | [[initiatives, orgs & communities/lab/ink & switch\|ink & switch]]                                                    | 88             | initiatives, orgs & communities/lab              |
+| [[topics/architect;design/personal algorithms design\|personal algorithms design]]                                    | 88             | topics/architect;design                          |
 | [[projects & tools/projects/lab/codexOS\|codexOS]]                                                                    | 87             | projects & tools/projects/lab                    |
 | [[models & frameworks/wardley mapping\|wardley mapping]]                                                              | 86             | models & frameworks                              |
-| [[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social (ex-tweetscape)]]                        | 86             | projects & tools/projects/lab                    |
 | [[projects & tools/projects/design/mercuryOS\|mercuryOS]]                                                             | 86             | projects & tools/projects/design                 |
 | [[projects & tools/projects/design/scaling synthesis\|scaling synthesis]]                                             | 86             | projects & tools/projects/design                 |
+| [[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social (ex-tweetscape)]]                        | 86             | projects & tools/projects/lab                    |
+| [[projects & tools/tools/lab/hive.one\|hive.one]]                                                                     | 86             | projects & tools/tools/lab                       |
+| [[topics/lab/recommender systems\|recommender systems]]                                                               | 86             | topics/lab                                       |
 | [[projects & tools/projects/design/xanadu\|xanadu]]                                                                   | 84             | projects & tools/projects/design                 |
 | [[initiatives, orgs & communities/alchemy/possibility management\|possibility management]]                            | 82             | initiatives, orgs & communities/alchemy          |
 | [[projects & tools/projects/lab/interneto\|interneto]]                                                                | 82             | projects & tools/projects/lab                    |

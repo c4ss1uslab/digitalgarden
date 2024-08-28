@@ -1,7 +1,6 @@
 ---
-{"aliases":["🎮 LPS","🎮 l1f3 player system","🎮 life player system","life player system","L1F3 player system"],"created in":"2022-02-11T11:29:00-03:00","last tended to":"2024-08-02T15:04:38-03:00","tags":["project","🌱","l1f3"],"dg-publish":true,"permalink":"/004-l1-f3/l1f3-player-system/","dgPassFrontmatter":true,"created":"2022-02-11T11:29:00.000-03:00","updated":"2024-08-23T20:42:28.019-03:00"}
+{"aliases":["🎮 LPS","🎮 l1f3 player system","🎮 life player system","life player system","L1F3 player system"],"created in":"2022-02-11T11:29:00-03:00","last tended to":"2024-08-28T15:09:16-03:00","tags":["project","🌱","l1f3","art","player","design","lab"],"dg-publish":true,"permalink":"/004-l1-f3/l1f3-player-system/","dgPassFrontmatter":true,"created":"2022-02-11T11:29:00.000-03:00","updated":"2024-08-28T15:09:49.080-03:00"}
 ---
-
 
 #project
 main archetype: [[_002_toolkit/classes/hacker\|👨🏻‍💻 hacker]]

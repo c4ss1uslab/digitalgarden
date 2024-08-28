@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-12-03T15:03:17-03:00","last tended to":"2024-08-19T03:16:07-03:00","dg-publish":true,"aliases":["🎎 the role of curation, community & ambient content"],"tags":["essay","🌿"],"permalink":"/core-essays/the-role-and-potential-of-curation-community-and-lo-fi-ambient-content-amidst-accelerating-attention-and-experience-economies/","dgPassFrontmatter":true,"created":"2023-12-03T15:03:17.203-03:00","updated":"2024-08-20T13:29:48.692-03:00"}
+{"created in":"2023-12-03T15:03:17-03:00","last tended to":"2024-08-20T13:29:48-03:00","dg-publish":true,"aliases":["🎎 the role of curation, community & ambient content"],"tags":["essay","🌿"],"permalink":"/core-essays/the-role-and-potential-of-curation-community-and-lo-fi-ambient-content-amidst-accelerating-attention-and-experience-economies/","dgPassFrontmatter":true,"created":"2023-12-03T15:03:17.203-03:00","updated":"2024-08-28T15:23:45.996-03:00"}
 ---
 
 ```ad-warning
@@ -59,7 +59,7 @@ and this time in physical isolation made reflect and research a lot on the theme
 
 in 2023, my life has been pretty much the opposite. going to ecovillages, farms, slums, courses, retreats and all sorts of cultural, local community events in são paulo, brazil.
 
-in this article, i aim to share my findings, curation and perspectives on the [[future of communities\|future of communities]] and the [[internet\|internet]] - and subjacent themes, such as the [[terms/metaverse\|metaverse]], [[initiatives, orgs & communities/architect;design/trust network\|trust network]] and a lot more.
+in this article, i aim to share my findings, curation and perspectives on the [[future of communities\|future of communities]] and the [[internet\|internet]] - and subjacent themes, such as the [[terms/metaverse\|metaverse]], [[responses/design/trust networks\|trust networks]] and a lot more.
 
 i bring special attention to **[[intentional online communities\|intentional online communities]]** and **[[concepts/third spaces\|third spaces]]** as cultural [[attractors\|attractors]]. they're places that can feel more like home than at home or at work.
 
@@ -173,7 +173,7 @@ ultimately, [[sari\|sari]] captures it well here:
 - [[initiatives, orgs & communities/lab/neighbourhoods\|neighbourhoods]]
 
 ###### other orgs building tools:
-- [[the computational democracy project\|the computational democracy project]] ([[projects & tools/tools/lab/pol.is\|pol.is]])
+- [[initiatives, orgs & communities/the computational democracy project\|the computational democracy project]] ([[projects & tools/tools/lab/pol.is\|pol.is]])
 - [[initiatives, orgs & communities/architect;design/goodly labs\|goodly labs]]
 
 ###### decentralized social media initiatives:

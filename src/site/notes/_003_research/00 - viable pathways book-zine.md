@@ -1,6 +1,10 @@
 ---
-{"created in":"2022-03-25T13:53:56-03:00","last tended to":"2024-08-20T13:14:58-03:00","tags":["🌿"],"aliases":["viable pathways","viable pathways zine","viable pathways book-zine","viable pathways book-zine mvp","book-zine"],"dg-publish":true,"permalink":"/003-research/00-viable-pathways-book-zine/","dgPassFrontmatter":true,"created":"2022-03-25T13:53:56.444-03:00","updated":"2024-08-20T13:17:35.314-03:00"}
+{"created in":"2022-03-25T13:53:56-03:00","last tended to":"2024-08-20T13:17:35-03:00","tags":["🌿"],"aliases":["viable pathways","viable pathways zine","viable pathways book-zine","viable pathways book-zine mvp","book-zine"],"dg-publish":true,"permalink":"/003-research/00-viable-pathways-book-zine/","dgPassFrontmatter":true,"created":"2022-03-25T13:53:56.444-03:00","updated":"2024-08-28T12:58:50.987-03:00"}
 ---
+
+#### ⚠ coming soon!
+
+what you'll find below are some drafts of this publication. check back in a few weeks for a polished version!
 
 ![viable pathways book-zine cover.png|1000](/img/user/assets/viable%20pathways%20book-zine%20cover.png)
 
@@ -64,13 +68,13 @@ we're living an age of the [[concepts/metacrisis\|metacrisis]].
 
 i.e. our civilization is currently on a path of increasingly exponential [[terms/catastrophic risk\|catastrophic]] and [[concepts/existential risk\|existential risks]], heading into ever-accelerating collapse, as it's built upon an economic system that predates on its own ecological substrate, based on large-scale game-theoretical win-lose/self-terminating dynamics and extractivist paradigms, accelerated by mainstream culture/philosophies devoid of spirit and exponential technologies further promoting these dynamics.
 
-some folks see this as a "too dark" or gloomy perspective, prefer to talk about the "[[green transition\|green transition]]", "[[regenerative transition\|regenerative transition]]", "[[concepts/second renaissance\|second renaissance]]", many others - and i also use these terms at times, but while *only talking about them* may be comforting, what the data shows is that our efforts are currently not even close to steer our civilization towards these brighter futures.
+some folks see this as a "too dark" or gloomy perspective, prefer to talk about the "[[green transition\|green transition]]", "[[regenerative transition\|regenerative transition]]", "[[responses/design/second renaissance\|second renaissance]]", many others - and i also use these terms at times, but while *only talking about them* may be comforting, what the data shows is that our efforts are currently not even close to steer our civilization towards these brighter futures.
 
 our institutions and systems are failing in recognizing and addressing this - [[governments\|governments]], [[initiatives, orgs & communities/organizations MOC\|organizations]], [[academia\|academia]], [[religions\|religions]], and whether [[local communities\|local]], [[decentralized communities\|decentralized]] or [[online communities\|online communities]]. this research aims to a) map the challenges we're facing, b) identify the approaches being tested, and c) under-the-radar approaches and the initiatives working to address them - as way to give us a deeper and wider understanding of our context.
 
 there are many resources and perspectives to help you dive into this field of research, and although 'the [[concepts/metacrisis\|metacrisis]]' is not a sexy/enticing term (people might feel a lot more moved by terms such as [[flourishing\|flourishing]], [[love\|love]], [[beauty\|beauty]], [[topics/architect;design/regeneration\|regeneration]], [[thriving\|thriving]]), it's in deeply understanding the complexity and challenges that we're in that we can gain awareness over it and further empower ourselves to build the [[more beautiful world our hearts know is possible\|more beautiful world our hearts know is possible]].
 
-if you're not familiar with the concept of the [[concepts/metacrisis\|metacrisis]], it's a term coined by a certain corner of the internet, sometimes called the "[[sensemaking web\|sensemaking web]]", "[[liminal web\|liminal web]]" or "[[tbprocessed/base notes/concepts - general/game b\|game b]]", heavily informed by the studies of [[topics/alchemy/spiritual lineages\|wisdom traditions]], [[transpersonal psychology\|transpersonal psychology]], [[concepts/integral theory\|integral theory]], [[concepts/metamodernism\|metamodernism]], [[topics/player/game theory\|game theory]], [[cognitive science\|cognitive science]], [[topics/architect;design/systems\|systems]]/[[complexity science\|complexity science]] and a few other fields.
+if you're not familiar with the concept of the [[concepts/metacrisis\|metacrisis]], it's a term coined by a certain corner of the internet, sometimes called the "[[sensemaking web\|sensemaking web]]", "[[liminal web\|liminal web]]" or "[[tbprocessed/base notes/concepts - general/game b\|game b]]", heavily informed by the studies of [[topics/alchemy/spiritual lineages\|wisdom traditions]], [[transpersonal psychology\|transpersonal psychology]], [[models & frameworks/integral theory\|integral theory]], [[responses/alchemy/metamodernism\|metamodernism]], [[topics/player/game theory\|game theory]], [[cognitive science\|cognitive science]], [[topics/architect;design/systems\|systems]]/[[complexity science\|complexity science]] and a few other fields.
 
 other adjacent terms and communities you might be familiar with are: the [[concepts/polycrisis\|polycrisis]], the [[regenerative movement\|regenerative movement]], the [[human potential movement\|human potential movement]], [[effective altruism\|effective altruism]], [[mindfulness\|mindfulness]], the [[humane tech\|humane tech]] movement, the [[topics/player/alternative education\|alternative education]] movement, [[effective accelerationism\|effective accelerationism]], [[topics/architect;design/web3\|web3]]...
 
@@ -141,7 +145,7 @@ in integral, they talk about the [[fourth turning of buddhism\|fourth turning of
 
 [[the next buddha will be a sangha\|the next buddha will be a sangha]]:
 
-[[monastic academy\|monastic academy]] - [[people/references/alchemy/daniel thorson\|daniel thorson]], [[intimacy crisis\|intimacy crisis]], [[relational practices\|relational practices]].
+[[monastic academy\|monastic academy]] - [[people/references/alchemy/daniel thorson\|daniel thorson]], [[concepts/intimacy crisis\|intimacy crisis]], [[relational practices\|relational practices]].
 
 -  [[transpersonal psychology\|transpersonal psychology]], [[psychedelics\|psychedelics]], [[human potential movement\|human potential movement]], [[new age\|new age]].
 
@@ -165,7 +169,7 @@ and some folks like [[stanislav grof\|stanislav grof]], [[leo gura\|leo gura]], 
 
 - [[regenerative movement\|regenerative movement]]
 
-proposes [[human flourishing\|human flourishing]] especially through [[biomimicry\|biomimicry]] and [[self-healing\|self-healing]].
+proposes [[human flourishing\|human flourishing]] especially through [[concepts/biomimicry\|biomimicry]] and [[self-healing\|self-healing]].
 
 [[people/references/architect;design/charles eisenstein\|charles eisenstein]], [[gabor maté\|gabor maté]], [[thomas hübl\|thomas hübl]].
 
@@ -202,7 +206,7 @@ great work by https://medium.com/s/world-wide-wtf/memetic-tribes-and-culture-war
 more on https://nadia.xyz/climate-tribes and https://medium.com/@brandon_29259/comparing-approaches-to-addressing-the-meta-crisis-9393e6ee17d7.
 
 ---
-this is a non-exhaustive list, as i know there are many other paths i haven't delved into, with different degrees of scientific/philosophical foundation, but it's not my intention to provide a full map/picture here and now. that'd ideally be something many people are engaged in building, as part of a [[modular\|modular]], [[open-source\|open-source]] [[_004_L1F3/l1f3 operating system\|_004_L1F3/l1f3 operating system]], built precisely to test and coordinate propositions such as that [[every perspective is partial\|every perspective is partial]] at scale.
+this is a non-exhaustive list, as i know there are many other paths i haven't delved into, with different degrees of scientific/philosophical foundation, but it's not my intention to provide a full map/picture here and now. that'd ideally be something many people are engaged in building, as part of a [[modular\|modular]], [[open-source\|open-source]] [[_004_L1F3/l1f3 operating system\|_004_L1F3/l1f3 operating system]], built precisely to test and coordinate propositions such as that [[inquiries & heuristics/heuristics/every perspective is partial\|every perspective is partial]] at scale.
 
 by creating a decentralized aggregator of [[worldviews\|worldviews]] and [[practices\|practices]], we can democratize access to and support even more the practice of [[science\|science]], [[_006_core notes/design philosophy\|design philosophy]], [[topics/alchemy/spirituality\|spirituality]] and ultimately, [[concepts/wisdom\|wisdom]].
 
@@ -224,11 +228,11 @@ other qualitative words descriptive of this research:
 a few of the main related themes are:
 [[regenerative systems design\|regenerative systems design]], [[personal sovereignty\|personal sovereignty]], [[food sovereignty\|food sovereignty]], [[energetic sovereignty\|energetic sovereignty]], [[attentional sovereignty\|attentional sovereignty]], [[personal agency\|personal agency]]
 [[open-source\|open-source]], [[disruptive technologies\|disruptive technologies]], [[regenerative technologies\|regenerative technologies]], [[humane tech\|humane tech]], [[topics/architect;design/distributed systems\|distributed systems]], [[operating systems\|operating systems]], [[agent-centric design\|agent-centric design]]
-[[topics/architect;design/ontological design\|ontological design]], [[metadesign\|metadesign]], [[social systems\|social systems]], [[civilization cycles\|civilization cycles]], [[societal collapse\|societal collapse]], [[topics/player/game theory\|game theory]], [[concepts/existential risk\|existential risk]], [[concepts/civilization design\|civilization design]]
+[[topics/architect;design/ontological design\|ontological design]], [[models & frameworks/metadesign\|metadesign]], [[social systems\|social systems]], [[civilization cycles\|civilization cycles]], [[societal collapse\|societal collapse]], [[topics/player/game theory\|game theory]], [[concepts/existential risk\|existential risk]], [[concepts/civilization design\|civilization design]]
 [[concepts/self design\|self design]], [[concepts/self-transformation\|self-transformation]], [[consciousness expansion\|consciousness expansion]], [[concepts/non-ordinary states of consciousness\|non-ordinary states of consciousness]], [[topics/alchemy/trauma healing\|trauma healing]], [[psychological development\|psychological development]], [[transpersonal psychology\|transpersonal psychology]], [[concepts/psychospiritual tools & practices\|psychospiritual tools & practices]]
 [[concepts/embodied cognition\|embodied cognition]], [[concepts/extended cognition\|extended cognition]], [[orientation\|orientation]], [[topics/alchemy/sensemaking\|sensemaking]], [[terms/decision-making\|decision-making]], [[cognitive offloading\|cognitive offloading]], [[topics/player/self-directed learning\|self-directed learning]] processes
 [[topics/architect;design/futurism\|futurism]], [[futures studies\|futures studies]], [[future narratives\|future narratives]], [[information ecology\|information ecology]], [[reality models\|reality models]], [[worldviews\|worldviews]], [[cosmovisions\|cosmovisions]], [[decolonization\|decolonization]], [[ancestral futures\|ancestral futures]]
-[[21st-century\|21st-century]], [[topics/architect;design/anthropology\|anthropology]], [[topics/architect;design/lifestyles\|lifestyles]], [[topics/architect;design/life design\|life design]], [[concepts/life intelligence\|life intelligence]], [[cultural artifacts\|cultural artifacts]], [[urban flourishing\|urban flourishing]], [[topics/architect;design/serious games\|serious games]], [[serious play\|serious play]]
+[[21st-century\|21st-century]], [[topics/architect;design/anthropology\|anthropology]], [[topics/architect;design/lifestyles\|lifestyles]], [[topics/architect;design/life design\|life design]], [[concepts/life intelligence\|life intelligence]], [[cultural artifacts\|cultural artifacts]], [[urban flourishing\|urban flourishing]], [[topics/architect;design/serious games\|serious games]], [[concepts/serious play\|serious play]]
 [[concepts/infinite games\|infinite games]], [[zero-sum games\|zero-sum games]], [[concepts/evolutionary games\|evolutionary games]] (check a jogada + game theory wiki)
 [[digital anthropology\|digital anthropology]], [[transhumanism\|transhumanism]], [[non-human agents\|non-human agents]], [[exponential technologies\|exponential technologies]], [[decentralized systems\|decentralized systems]]
 [[flow state\|flow state]], [[environment design\|environment design]], [[digital environments\|digital environments]], [[online communities\|online communities]], [[personal knowledge management\|personal knowledge management]], [[topics/architect;design/tools for thought\|tools for thought]], [[new media formats\|new media formats]]
@@ -239,9 +243,9 @@ a few of the main related themes are:
 
 ok, so there's a wealth of perspectives on both the [[concepts/metacrisis\|metacrisis]] we're undergoing as a species/civilization, as well as the concept of a [[well-lived life\|well-lived life]], considering our capacity for [[human flourishing\|human flourishing]] and different perspectives on [[how to live\|how to live]].
 
-if we can agree on a few [[assumptions\|assumptions]], such as that [[every perspective is partial\|every perspective is partial]], we can start to build a set of [[heuristics\|heuristics]] to inform our [[topics/alchemy/sensemaking\|sensemaking]] and [[terms/decision-making\|decision-making]] going forward.
+if we can agree on a few [[assumptions\|assumptions]], such as that [[inquiries & heuristics/heuristics/every perspective is partial\|every perspective is partial]], we can start to build a set of [[heuristics\|heuristics]] to inform our [[topics/alchemy/sensemaking\|sensemaking]] and [[terms/decision-making\|decision-making]] going forward.
 
-there is a route of recognizing/honoring the herculean effort that some synthesizers/expert generalists were able to do on a "[[theory of everything\|theory of everything]]", such as [[an immanent metaphysics\|an immanent metaphysics]], [[models & frameworks/unified theory of knowledge\|unified theory of knowledge]], [[concepts/integral theory\|integral theory]], and [[references/alchemy/first principles and first values\|first principles and first values]] - that even though truly amazing and necessary, are very inaccessible for the vast majority of people right now.
+there is a route of recognizing/honoring the herculean effort that some synthesizers/expert generalists were able to do on a "[[concepts/theory of everything\|theory of everything]]", such as [[an immanent metaphysics\|an immanent metaphysics]], [[models & frameworks/unified theory of knowledge\|unified theory of knowledge]], [[models & frameworks/integral theory\|integral theory]], and [[references/alchemy/first principles and first values\|first principles and first values]] - that even though truly amazing and necessary, are very inaccessible for the vast majority of people right now.
 
 also, acknowledging my lack of knowledge/expertise in multiple areas and my personal position as a young person trying to make sense of the world, i'll opt for taking the bits of wisdom i found from here and there and ask - *is there a minimum and easiest set of agreements that many people, holding different values and worldviews, can agree on? and if so, how might we work from there?*
 
