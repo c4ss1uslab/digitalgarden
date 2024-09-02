@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-12-03T15:03:17-03:00","last tended to":"2024-08-20T13:29:48-03:00","dg-publish":true,"aliases":["🎎 the role of curation, community & ambient content"],"tags":["essay","🌿"],"permalink":"/core-essays/the-role-and-potential-of-curation-community-and-lo-fi-ambient-content-amidst-accelerating-attention-and-experience-economies/","dgPassFrontmatter":true,"created":"2023-12-03T15:03:17.203-03:00","updated":"2024-08-28T15:23:45.996-03:00"}
+{"created in":"2023-12-03T15:03:17-03:00","last tended to":"2024-08-28T15:23:45-03:00","dg-publish":true,"aliases":["🎎 the role of curation, community & ambient content"],"tags":["essay","🌿"],"permalink":"/core-essays/the-role-and-potential-of-curation-community-and-lo-fi-ambient-content-amidst-accelerating-attention-and-experience-economies/","dgPassFrontmatter":true,"created":"2023-12-03T15:03:17.203-03:00","updated":"2024-09-02T14:30:53.640-03:00"}
 ---
 
 ```ad-warning
@@ -8,7 +8,9 @@ collapse: open
 the contents of the writing below are currently haphazard, disjointed and all over the place. please proceed at your own risk. (*or don't.* feel free to come back later when it'll be hopefully updated and improved.)
 ```
 
-![integral dashboard.jpeg](/img/user/images/interfaces%20&%20designs/integral%20dashboard.jpeg)
+<!--![integral dashboard.jpeg](/img/user/images/interfaces%20&%20designs/integral%20dashboard.jpeg)-->
+![](https://i.imgur.com/ONtzvQV.jpeg)
+
 
 we'll talk about shared brains, third spaces, communities - as shown by folks in the [[cozy web\|cozy web]]/[[indie web\|indie web]]/[[slow web\|slow web]]...
 

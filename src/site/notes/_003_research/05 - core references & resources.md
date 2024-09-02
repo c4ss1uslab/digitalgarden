@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-07-30T21:38:54-03:00","last tended to":"2024-08-27T17:07:15-03:00","tags":["🌱"],"dg-publish":true,"permalink":"/003-research/05-core-references-and-resources/","dgPassFrontmatter":true,"created":"2022-07-30T21:38:54.771-03:00","updated":"2024-08-28T15:04:36.936-03:00"}
+{"created in":"2022-07-30T21:38:54-03:00","last tended to":"2024-09-02T14:49:03-03:00","tags":["🌱"],"dg-publish":true,"permalink":"/003-research/05-core-references-and-resources/","dgPassFrontmatter":true,"created":"2022-07-30T21:38:54.771-03:00","updated":"2024-09-02T15:03:01.798-03:00"}
 ---
 
 ```ad-warning
@@ -343,7 +343,7 @@ https://codeberg.org/teaserbot-labs/delightful-humane-design
 #### data breakdown:
 
 networks / data sources:
-[[google\|google]] / [[youtube\|youtube]] / [[wikipedia\|wikipedia]] / [[projects & tools/tools/lab/twitter 1\|twitter 1]] / [[reddit\|reddit]] / [[facebook\|facebook]] / [[projects & tools/tools/lab/instagram\|instagram]] / [[substack\|substack]] ([[RSS feed\|RSS feed]]) / [[podcast\|podcast]] ([[snipd\|snipd]]) / [[tbprocessed/base notes/ventures - general/discord\|discord]]
+[[google\|google]] / [[youtube\|youtube]] / [[wikipedia\|wikipedia]] / [[projects & tools/tools/lab/twitter\|twitter]] / [[reddit\|reddit]] / [[facebook\|facebook]] / [[projects & tools/tools/lab/instagram\|instagram]] / [[substack\|substack]] ([[RSS feed\|RSS feed]]) / [[podcast\|podcast]] ([[snipd\|snipd]]) / [[tbprocessed/base notes/ventures - general/discord\|discord]]
 [[initiatives, orgs & communities/architect;design/golden\|golden]] / [[initiatives, orgs & communities/architect;design/sublime (ex-startupy)\|sublime (ex-startupy)]] / [[mastodon\|mastodon]] / [[bluesky\|bluesky]] / [[are.na\|are.na]] / [[glasp\|glasp]] / [[projects & tools/tools/design/melon\|melon]]
 [[pinterest\|pinterest]] / [[artstation\|artstation]] / [[dribbble\|dribbble]] / [[behance\|behance]]
 

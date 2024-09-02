@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-10-31T20:24:29-03:00","last tended to":"2024-08-27T17:07:17-03:00","dg-publish":true,"aliases":["💭 foundational concepts for knowledge commons"],"permalink":"/core-essays/foundational-concepts-for-developing-regenerative-information-ecologies-and-empowering-knowledge-commons/","dgPassFrontmatter":true,"created":"2023-10-31T20:24:29.951-03:00","updated":"2024-08-27T17:07:29.879-03:00"}
+{"created in":"2023-10-31T20:24:29-03:00","last tended to":"2024-09-02T14:45:08-03:00","dg-publish":true,"aliases":["💭 foundational concepts for knowledge commons"],"permalink":"/core-essays/foundational-concepts-for-developing-regenerative-information-ecologies-and-empowering-knowledge-commons/","dgPassFrontmatter":true,"created":"2023-10-31T20:24:29.951-03:00","updated":"2024-09-02T15:01:11.371-03:00"}
 ---
 
 draft link: https://medium.com/@cassiuscarvalho/foundational-concepts-for-developing-regenerative-information-ecologies-empowering-knowledge-d427b1dc2cb3
@@ -285,7 +285,8 @@ envisioning’s [techdetector](https://techdetector.de/radar) radar
 
 yet, it’s not alive, dynamic, in a socio-technological, shared reality sense. there’s no integral database or interface for navigating the world’s knowledge, in spite of some proofs of concept here and there.
 
-![](https://cdn-images-1.medium.com/max/800/1*Q5GozJ2pIgytwEK1RINt4Q.jpeg)
+<!--![integral dashboard.jpeg](/img/user/images/interfaces%20&%20designs/integral%20dashboard.jpeg)-->
+![](https://i.imgur.com/ONtzvQV.jpeg)
 
 AQAL dashboard concept applied to the individual.
 
@@ -328,7 +329,8 @@ but this is still an underdeveloped topic, with lots of potential for creation/i
 [[initiatives, orgs & communities/lab/subconscious (tool)\|subconscious (tool)]] & tools for [[concepts/coordination\|coordination]], [[terms/collaboration\|collaboration]], etc...
 
 
-![KM - capture, organize, synthesize loop.jpg|400](/img/user/images/models%20&%20frameworks/KM%20-%20capture,%20organize,%20synthesize%20loop.jpg)
+<!--![[KM capture, organize, synthesize loop.jpg\|KM capture, organize, synthesize loop.jpg]]-->
+![](https://i.imgur.com/6oT0Ngwm.jpg)
 
 ##### breakdown
 

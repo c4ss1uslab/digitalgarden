@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-04-17T18:58:23-03:00","last tended to":"2024-08-28T15:04:37-03:00","tags":["project","openknowledge","🌿","open-source","socialsensemaking","informationmanagement","tool","sensemaking"],"relevancescore":86,"dg-publish":true,"permalink":"/projects-and-tools/projects/lab/trails-social-ex-tweetscape/","dgPassFrontmatter":true,"created":"2024-04-17T18:58:23.356-03:00","updated":"2024-08-28T15:04:37.906-03:00"}
+{"created in":"2024-04-17T18:58:23-03:00","last tended to":"2024-09-02T15:03:02-03:00","tags":["project","openknowledge","🌿","open-source","socialsensemaking","informationmanagement","tool","sensemaking"],"relevancescore":86,"dg-publish":true,"permalink":"/projects-and-tools/projects/lab/trails-social-ex-tweetscape/","dgPassFrontmatter":true,"created":"2024-04-17T18:58:23.356-03:00","updated":"2024-09-02T15:03:02.667-03:00"}
 ---
 
 #### about
@@ -12,7 +12,7 @@
 
 #### context
 
-a discontinued yet very, very interesting prototype for an alternative [[projects & tools/tools/lab/twitter 1\|twitter 1]] feed made by a few folks at [[roote\|roote]].
+a discontinued yet very, very interesting prototype for an alternative [[projects & tools/tools/lab/twitter\|twitter]] feed made by a few folks at [[roote\|roote]].
 
 **good intro:** https://www.roote.co/tweetscape/vision
 

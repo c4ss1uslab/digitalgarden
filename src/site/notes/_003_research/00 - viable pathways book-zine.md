@@ -1,12 +1,14 @@
 ---
-{"created in":"2022-03-25T13:53:56-03:00","last tended to":"2024-08-20T13:17:35-03:00","tags":["🌿"],"aliases":["viable pathways","viable pathways zine","viable pathways book-zine","viable pathways book-zine mvp","book-zine"],"dg-publish":true,"permalink":"/003-research/00-viable-pathways-book-zine/","dgPassFrontmatter":true,"created":"2022-03-25T13:53:56.444-03:00","updated":"2024-08-28T12:58:50.987-03:00"}
+{"created in":"2022-03-25T13:53:56-03:00","last tended to":"2024-09-02T14:47:23-03:00","tags":["🌿"],"aliases":["viable pathways","viable pathways zine","viable pathways book-zine","viable pathways book-zine mvp","book-zine"],"dg-publish":true,"permalink":"/003-research/00-viable-pathways-book-zine/","dgPassFrontmatter":true,"created":"2022-03-25T13:53:56.444-03:00","updated":"2024-09-02T14:59:47.882-03:00"}
 ---
 
 #### ⚠ coming soon!
 
 what you'll find below are some drafts of this publication. check back in a few weeks for a polished version!
 
-![viable pathways book-zine cover.png|1000](/img/user/assets/viable%20pathways%20book-zine%20cover.png)
+<!--![viable pathways book-zine cover.png|1000](/img/user/assets/viable%20pathways%20book-zine%20cover.png)-->
+![](https://i.imgur.com/MzsDZ3I.jpeg)
+
 
 hey, welcome! this is the skeleton of a living, under-construction book-zine - an experimental [[hyper-linked multimedia medium\|hyper-linked multimedia medium]] that acts as a theoretical research / practical toolkit in-between. it's still very messy, as you'll be able to see if you choose to keep reading now (or you can wait for it to be released and access the polished version later).
 

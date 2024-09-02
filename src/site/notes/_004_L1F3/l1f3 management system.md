@@ -70,7 +70,7 @@ categories of personal systems:
 
 ——> visualize my systems like unit (programmable) / models?
 
-\+ ![KM capture, organize, synthesize loop.jpg|350](/img/user/images/models%20&%20frameworks/KM%20capture,%20organize,%20synthesize%20loop.jpg)
+\+ ![[KM capture, organize, synthesize loop.jpg\|350]]
 
 (...)
 

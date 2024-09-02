@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-04-01T18:22:37-03:00","last tended to":"2024-06-14T19:41:13-03:00","tags":["🌿","experiment"],"dg-publish":true,"permalink":"/experiments/c4ss1us-conversation-menu/","dgPassFrontmatter":true,"created":"2024-04-01T18:22:37.994-03:00","updated":"2024-07-19T22:48:12.076-03:00"}
+{"created in":"2024-04-01T18:22:37-03:00","last tended to":"2024-07-19T22:48:12-03:00","tags":["🌿","experiment","host"],"dg-publish":true,"permalink":"/experiments/c4ss1us-conversation-menu/","dgPassFrontmatter":true,"created":"2024-04-01T18:22:37.994-03:00","updated":"2024-09-02T15:04:56.973-03:00"}
 ---
 
 https://bit.ly/c4ss1us-conversation-menu

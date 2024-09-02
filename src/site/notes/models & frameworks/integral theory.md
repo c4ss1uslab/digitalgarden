@@ -23,7 +23,7 @@ the full [[models & frameworks/AQAL map\|AQAL map]]:
 
 
 
-![aqal - an integral map.jpg](/img/user/images/maps/aqal%20-%20an%20integral%20map.jpg) 
+![](https://i.imgur.com/jmBqHWS.jpg)
 
 </div></div>
 
