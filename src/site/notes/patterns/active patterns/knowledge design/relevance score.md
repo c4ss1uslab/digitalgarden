@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-08-20T11:42:20-03:00","last tended to":"2024-08-28T12:26:06-03:00","tags":["patterns","🌿"],"dg-publish":true,"aliases":["relevance scores"],"permalink":"/patterns/active-patterns/knowledge-design/relevance-score/","dgPassFrontmatter":true,"created":"2024-08-20T11:42:20.162-03:00","updated":"2024-08-28T15:26:21.534-03:00"}
+{"created in":"2024-08-20T11:42:20-03:00","last tended to":"2024-08-28T15:26:21-03:00","tags":["patterns","🌿","knowledgedesign"],"dg-publish":true,"aliases":["relevance scores"],"permalink":"/patterns/active-patterns/knowledge-design/relevance-score/","dgPassFrontmatter":true,"created":"2024-08-20T11:42:20.162-03:00","updated":"2024-09-02T14:03:36.356-03:00"}
 ---
 
 #### about
@@ -42,35 +42,35 @@ i intend to fix this soon, but in the meantime, while i'm also building the [[_0
 | [[initiatives, orgs & communities/lab/holochain\|holochain]]                                                          | 96             | initiatives, orgs & communities/lab              |
 | [[models & frameworks/integral theory\|integral theory]]                                                              | 96             | models & frameworks                              |
 | [[patterns/pattern collections/knowledge design patterns\|knowledge design patterns]]                                 | 96             | patterns/pattern collections                     |
-| [[projects & tools/tools/lab/duskOS\|duskOS]]                                                                         | 96             | projects & tools/tools/lab                       |
 | [[people/references/architect;design/daniel schmachtenberger\|daniel schmachtenberger]]                               | 96             | people/references/architect;design               |
+| [[projects & tools/tools/lab/duskOS\|duskOS]]                                                                         | 96             | projects & tools/tools/lab                       |
 | [[references/alchemy/first principles and first values\|first principles and first values]]                           | 96             | references/alchemy                               |
-| [[topics/architect;design/life design\|life design]]                                                                  | 96             | topics/architect;design                          |
 | [[responses/alchemy/cosmoerotic humanism\|cosmoerotic humanism]]                                                      | 96             | responses/alchemy                                |
 | [[responses/alchemy/metamodernism\|metamodernism]]                                                                    | 96             | responses/alchemy                                |
-| [[responses/regen/permacomputing\|permacomputing]]                                                                    | 96             | responses/regen                                  |
 | [[responses/design/second renaissance\|second renaissance]]                                                           | 96             | responses/design                                 |
+| [[responses/regen/permacomputing\|permacomputing]]                                                                    | 96             | responses/regen                                  |
+| [[topics/architect;design/life design\|life design]]                                                                  | 96             | topics/architect;design                          |
 | [[concepts/the great simplification\|the great simplification]]                                                       | 94             | concepts                                         |
 | [[people/references/lab/devine lu linvega\|devine lu linvega]]                                                        | 94             | people/references/lab                            |
+| [[responses/art/música do círculo\|música do círculo]]                                                                | 94             | responses/art                                    |
+| [[responses/regen/regenerative design\|regenerative design]]                                                          | 94             | responses/regen                                  |
 | [[topics/architect;design/lifestyles\|lifestyles]]                                                                    | 94             | topics/architect;design                          |
 | [[topics/lab/knowledge management\|knowledge management]]                                                             | 94             | topics/lab                                       |
-| [[responses/regen/regenerative design\|regenerative design]]                                                          | 94             | responses/regen                                  |
-| [[responses/art/música do círculo\|música do círculo]]                                                                | 94             | responses/art                                    |
 | [[concepts/4e cognition\|4e cognition]]                                                                               | 92             | concepts                                         |
 | [[concepts/ways of knowing\|ways of knowing]]                                                                         | 92             | concepts                                         |
-| [[projects & tools/tools/lab/human programming interface\|human programming interface]]                               | 92             | projects & tools/tools/lab                       |
 | [[people/references/lab/bret victor\|bret victor]]                                                                    | 92             | people/references/lab                            |
 | [[people/references/regen/vanessa andreotti\|vanessa andreotti]]                                                      | 92             | people/references/regen                          |
+| [[projects & tools/tools/lab/human programming interface\|human programming interface]]                               | 92             | projects & tools/tools/lab                       |
 | [[initiatives, orgs & communities/lab/subconscious (tool)\|subconscious (tool)]]                                      | 91             | initiatives, orgs & communities/lab              |
 | [[people/references/lab/alexander obenauer\|alexander obenauer]]                                                      | 91             | people/references/lab                            |
 | [[people/references/lab/gordon brander\|gordon brander]]                                                              | 91             | people/references/lab                            |
 | [[people/references/lab/maggie appleton\|maggie appleton]]                                                            | 91             | people/references/lab                            |
 | [[responses/lab/mapping\|mapping]]                                                                                    | 91             | responses/lab                                    |
 | [[concepts/dashboards\|dashboards]]                                                                                   | 90             | concepts                                         |
-| [[projects & tools/tools/lab/softspace\|softspace]]                                                                   | 90             | projects & tools/tools/lab                       |
 | [[people/references/lab/francis miller\|francis miller]]                                                              | 90             | people/references/lab                            |
-| [[topics/lab/information design\|information design]]                                                                 | 90             | topics/lab                                       |
+| [[projects & tools/tools/lab/softspace\|softspace]]                                                                   | 90             | projects & tools/tools/lab                       |
 | [[responses/lab/knowledge visualization\|knowledge visualization]]                                                    | 90             | responses/lab                                    |
+| [[topics/lab/information design\|information design]]                                                                 | 90             | topics/lab                                       |
 | [[concepts/moloch\|moloch]]                                                                                           | 88             | concepts                                         |
 | [[initiatives, orgs & communities/architect;design/goodly labs\|goodly labs]]                                         | 88             | initiatives, orgs & communities/architect;design |
 | [[initiatives, orgs & communities/architect;design/meaning alignment institute\|meaning alignment institute]]         | 88             | initiatives, orgs & communities/architect;design |
@@ -78,9 +78,9 @@ i intend to fix this soon, but in the meantime, while i'm also building the [[_0
 | [[topics/architect;design/personal algorithms design\|personal algorithms design]]                                    | 88             | topics/architect;design                          |
 | [[projects & tools/projects/lab/codexOS\|codexOS]]                                                                    | 87             | projects & tools/projects/lab                    |
 | [[models & frameworks/wardley mapping\|wardley mapping]]                                                              | 86             | models & frameworks                              |
+| [[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social (ex-tweetscape)]]                        | 86             | projects & tools/projects/lab                    |
 | [[projects & tools/projects/design/mercuryOS\|mercuryOS]]                                                             | 86             | projects & tools/projects/design                 |
 | [[projects & tools/projects/design/scaling synthesis\|scaling synthesis]]                                             | 86             | projects & tools/projects/design                 |
-| [[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social (ex-tweetscape)]]                        | 86             | projects & tools/projects/lab                    |
 | [[projects & tools/tools/lab/hive.one\|hive.one]]                                                                     | 86             | projects & tools/tools/lab                       |
 | [[topics/lab/recommender systems\|recommender systems]]                                                               | 86             | topics/lab                                       |
 | [[projects & tools/projects/design/xanadu\|xanadu]]                                                                   | 84             | projects & tools/projects/design                 |
@@ -95,4 +95,5 @@ i intend to fix this soon, but in the meantime, while i'm also building the [[_0
 
 (under development, version in-progress below)
 
-![weighted topics breakdown.excalidraw.png](/img/user/_008_illustrations%20&%20designs/weighted%20topics%20breakdown.excalidraw.png)
+<!--![weighted topics breakdown.excalidraw.png](/img/user/_008_illustrations%20&%20designs/weighted%20topics%20breakdown.excalidraw.png)-->
+![](https://i.imgur.com/yh18lym.png)

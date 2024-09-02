@@ -1,5 +1,5 @@
 ---
-{"aliases":[".dgarden","🌲 digital garden","idea garden","🌱 idea garden","c4ss1us.dgarden","🌲 c4ss1us.dgarden","digital garden","home","knowledge garden"],"created in":"2023-07-27T15:44:39-03:00","last tended to":"2024-08-28T13:19:51-03:00","dg-publish":true,"dg-home":true,"permalink":"/000-digital-garden/c4ss1us-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2021-12-11T16:51:50.661-03:00","updated":"2024-08-28T13:22:19.972-03:00"}
+{"aliases":[".dgarden","🌲 digital garden","idea garden","🌱 idea garden","c4ss1us.dgarden","🌲 c4ss1us.dgarden","digital garden","home","knowledge garden"],"created in":"2023-07-27T15:44:39-03:00","last tended to":"2024-09-02T13:41:10-03:00","dg-publish":true,"dg-home":true,"permalink":"/000-digital-garden/c4ss1us-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2021-12-11T16:51:50.661-03:00","updated":"2024-09-02T14:03:04.345-03:00"}
 ---
 
 ## hello! welcome to my digital garden! 🌷
@@ -37,7 +37,8 @@ choose your path below!
 
 #### 1) 🗺 my research - structured way
 
-![research overview 1.png|700](/img/user/images/made%20by%20me/research%20overview%201.png)
+<!--![research overview.excalidraw.png](/img/user/_008_illustrations%20&%20designs/research%20overview.excalidraw.png)-->
+![](https://i.imgur.com/aFTlkeJ.png)
 (*clickable soon!* *for now, you'll find a few essays below.*)
 
 read more about the research themes/inquiries or jump straight to the core essays below.
@@ -65,6 +66,7 @@ read more about the research themes/inquiries or jump straight to the core essay
 > 
 > an inquiry into how we can:
 > 
+> 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/004-l1-f3/l1-f3-game/#cff951" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -73,6 +75,7 @@ read more about the research themes/inquiries or jump straight to the core essay
 
 </div></div>
 
+> 
 > (see more at: [[_004_L1F3/L1F3.game\|L1F3.game]])
 > 
 > some people have a resistance with the [[concepts/game\|game]] frame because of its often seen competitive, game-theoretical win-lose dynamics. i share that hesitation, in the normal sense of the term. that's why the concept of game i'm using here is closer to the [[concepts/infinite games\|infinite game]] and [[omni-win dynamics\|omni-win dynamics]] observed by thinkers such as [[projects & tools/projects/player/world game\|buckminster fuller in the world game]] and communities such as [[models & frameworks/fourgames\|fourgames]], [[initiatives, orgs & communities/architect;design/metagame.wtf\|metagame.wtf]] and [[projects & tools/projects/player/startover.xyz\|startover.xyz]].
@@ -123,35 +126,35 @@ i intend to fix this soon, but in the meantime, while i'm also building the [[_0
 | [[initiatives, orgs & communities/lab/holochain\|holochain]]                                                          | 96             | initiatives, orgs & communities/lab              |
 | [[models & frameworks/integral theory\|integral theory]]                                                              | 96             | models & frameworks                              |
 | [[patterns/pattern collections/knowledge design patterns\|knowledge design patterns]]                                 | 96             | patterns/pattern collections                     |
-| [[projects & tools/tools/lab/duskOS\|duskOS]]                                                                         | 96             | projects & tools/tools/lab                       |
 | [[people/references/architect;design/daniel schmachtenberger\|daniel schmachtenberger]]                               | 96             | people/references/architect;design               |
+| [[projects & tools/tools/lab/duskOS\|duskOS]]                                                                         | 96             | projects & tools/tools/lab                       |
 | [[references/alchemy/first principles and first values\|first principles and first values]]                           | 96             | references/alchemy                               |
-| [[topics/architect;design/life design\|life design]]                                                                  | 96             | topics/architect;design                          |
 | [[responses/alchemy/cosmoerotic humanism\|cosmoerotic humanism]]                                                      | 96             | responses/alchemy                                |
 | [[responses/alchemy/metamodernism\|metamodernism]]                                                                    | 96             | responses/alchemy                                |
-| [[responses/regen/permacomputing\|permacomputing]]                                                                    | 96             | responses/regen                                  |
 | [[responses/design/second renaissance\|second renaissance]]                                                           | 96             | responses/design                                 |
+| [[responses/regen/permacomputing\|permacomputing]]                                                                    | 96             | responses/regen                                  |
+| [[topics/architect;design/life design\|life design]]                                                                  | 96             | topics/architect;design                          |
 | [[concepts/the great simplification\|the great simplification]]                                                       | 94             | concepts                                         |
 | [[people/references/lab/devine lu linvega\|devine lu linvega]]                                                        | 94             | people/references/lab                            |
+| [[responses/art/música do círculo\|música do círculo]]                                                                | 94             | responses/art                                    |
+| [[responses/regen/regenerative design\|regenerative design]]                                                          | 94             | responses/regen                                  |
 | [[topics/architect;design/lifestyles\|lifestyles]]                                                                    | 94             | topics/architect;design                          |
 | [[topics/lab/knowledge management\|knowledge management]]                                                             | 94             | topics/lab                                       |
-| [[responses/regen/regenerative design\|regenerative design]]                                                          | 94             | responses/regen                                  |
-| [[responses/art/música do círculo\|música do círculo]]                                                                | 94             | responses/art                                    |
 | [[concepts/4e cognition\|4e cognition]]                                                                               | 92             | concepts                                         |
 | [[concepts/ways of knowing\|ways of knowing]]                                                                         | 92             | concepts                                         |
-| [[projects & tools/tools/lab/human programming interface\|human programming interface]]                               | 92             | projects & tools/tools/lab                       |
 | [[people/references/lab/bret victor\|bret victor]]                                                                    | 92             | people/references/lab                            |
 | [[people/references/regen/vanessa andreotti\|vanessa andreotti]]                                                      | 92             | people/references/regen                          |
+| [[projects & tools/tools/lab/human programming interface\|human programming interface]]                               | 92             | projects & tools/tools/lab                       |
 | [[initiatives, orgs & communities/lab/subconscious (tool)\|subconscious (tool)]]                                      | 91             | initiatives, orgs & communities/lab              |
 | [[people/references/lab/alexander obenauer\|alexander obenauer]]                                                      | 91             | people/references/lab                            |
 | [[people/references/lab/gordon brander\|gordon brander]]                                                              | 91             | people/references/lab                            |
 | [[people/references/lab/maggie appleton\|maggie appleton]]                                                            | 91             | people/references/lab                            |
 | [[responses/lab/mapping\|mapping]]                                                                                    | 91             | responses/lab                                    |
 | [[concepts/dashboards\|dashboards]]                                                                                   | 90             | concepts                                         |
-| [[projects & tools/tools/lab/softspace\|softspace]]                                                                   | 90             | projects & tools/tools/lab                       |
 | [[people/references/lab/francis miller\|francis miller]]                                                              | 90             | people/references/lab                            |
-| [[topics/lab/information design\|information design]]                                                                 | 90             | topics/lab                                       |
+| [[projects & tools/tools/lab/softspace\|softspace]]                                                                   | 90             | projects & tools/tools/lab                       |
 | [[responses/lab/knowledge visualization\|knowledge visualization]]                                                    | 90             | responses/lab                                    |
+| [[topics/lab/information design\|information design]]                                                                 | 90             | topics/lab                                       |
 | [[concepts/moloch\|moloch]]                                                                                           | 88             | concepts                                         |
 | [[initiatives, orgs & communities/architect;design/goodly labs\|goodly labs]]                                         | 88             | initiatives, orgs & communities/architect;design |
 | [[initiatives, orgs & communities/architect;design/meaning alignment institute\|meaning alignment institute]]         | 88             | initiatives, orgs & communities/architect;design |
@@ -159,9 +162,9 @@ i intend to fix this soon, but in the meantime, while i'm also building the [[_0
 | [[topics/architect;design/personal algorithms design\|personal algorithms design]]                                    | 88             | topics/architect;design                          |
 | [[projects & tools/projects/lab/codexOS\|codexOS]]                                                                    | 87             | projects & tools/projects/lab                    |
 | [[models & frameworks/wardley mapping\|wardley mapping]]                                                              | 86             | models & frameworks                              |
+| [[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social (ex-tweetscape)]]                        | 86             | projects & tools/projects/lab                    |
 | [[projects & tools/projects/design/mercuryOS\|mercuryOS]]                                                             | 86             | projects & tools/projects/design                 |
 | [[projects & tools/projects/design/scaling synthesis\|scaling synthesis]]                                             | 86             | projects & tools/projects/design                 |
-| [[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social (ex-tweetscape)]]                        | 86             | projects & tools/projects/lab                    |
 | [[projects & tools/tools/lab/hive.one\|hive.one]]                                                                     | 86             | projects & tools/tools/lab                       |
 | [[topics/lab/recommender systems\|recommender systems]]                                                               | 86             | topics/lab                                       |
 | [[projects & tools/projects/design/xanadu\|xanadu]]                                                                   | 84             | projects & tools/projects/design                 |
@@ -176,7 +179,9 @@ i intend to fix this soon, but in the meantime, while i'm also building the [[_0
 
 (under development, version in-progress below)
 
-![weighted topics breakdown.excalidraw.png](/img/user/_008_illustrations%20&%20designs/weighted%20topics%20breakdown.excalidraw.png)
+<!--![weighted topics breakdown.excalidraw.png](/img/user/_008_illustrations%20&%20designs/weighted%20topics%20breakdown.excalidraw.png)-->
+![](https://i.imgur.com/yh18lym.png)
+
 
 </div></div>
 
@@ -187,10 +192,10 @@ i intend to fix this soon, but in the meantime, while i'm also building the [[_0
 
 ##### how do I make my own garden?
 
-i edit this using obsidian, a note-taking software that I use for my [second brain](https://maggieappleton.com/basb). you can start using the app by downloading it for free at [obsidian.md](https://obsidian.md). there are many tutorials and possible advanced setups, but for starters, i recommend nick milo's ["obsidian for beginners" youtube series](https://www.youtube.com/playlist?list=PL3NaIVgSlAVLHty1-NuvPa9V0b0UwbzBd) and his [LYT obsidian toolkit](https://notes.linkingyourthinking.com/_Start+Here).
+i edit this using obsidian, a note-taking software that i use for my [second brain](https://maggieappleton.com/basb). you can start using the app by downloading it for free at [obsidian.md](https://obsidian.md). there are many tutorials and possible advanced setups, but for starters, i recommend nick milo's ["obsidian for beginners" youtube series](https://www.youtube.com/playlist?list=PL3NaIVgSlAVLHty1-NuvPa9V0b0UwbzBd) and his [LYT obsidian toolkit](https://notes.linkingyourthinking.com/_Start+Here).
 
-to host my notes, i use the [obsidian digital garden plugin](https://dg-docs.ole.dev/) .
+to host my notes, i use the [obsidian digital garden plugin](https://dg-docs.ole.dev/) . it's quite easy to setup. but you can also pay for obsidian publish for a simpler, less technical setup.
 
 ##### how can i be in the loop for new content/updates on these projects?
 
-sign up for my [newsletter](https://c4ss1us.substack.com/). also, if you want to be even more 'in the know', one possibility is to join a whatsapp group i created, in which i only occasionally share updates and exchange with a small group of friends. i'm leaving it open for new co-conspirators as well right now, as a way to approximate our relationship if you really feel the resonance. ❤ ask me about it on [telegram](https://t.me/c4ss1us) or via email at cassius dot carv at gmail dot com.
+sign up for my [newsletter](https://c4ss1us.substack.com/). also, if you want to be even more 'in the know', one possibility is to join a whatsapp group i created, in which i only occasionally share updates and exchange with a small group of friends. i'm leaving it open for new co-conspirators as well right now, as a way to approximate our relationship if you really feel the resonance. ❤ ask me about it on [telegram](https://t.me/c4ss1us).

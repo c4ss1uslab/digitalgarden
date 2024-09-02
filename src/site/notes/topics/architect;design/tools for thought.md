@@ -1,8 +1,8 @@
 ---
-{"created in":"2022-12-06T12:07:03-03:00","last tended to":"2024-08-20T16:14:25-03:00","aliases":["TfT","tft"],"tags":["knowledgemanagement","topic","toolsforthought","lab","🌿","tier1","learning","research"],"dg-publish":true,"permalink":"/topics/architect-design/tools-for-thought/","dgPassFrontmatter":true,"created":"2022-12-06T12:07:03.218-03:00","updated":"2024-08-20T17:04:36.789-03:00"}
+{"created in":"2022-12-06T12:07:03-03:00","last tended to":"2024-08-20T17:04:36-03:00","aliases":["TfT","tft"],"tags":["knowledgemanagement","topic","toolsforthought","lab","🌿","tier1","learning","research"],"dg-publish":true,"permalink":"/topics/architect-design/tools-for-thought/","dgPassFrontmatter":true,"created":"2022-12-06T12:07:03.218-03:00","updated":"2024-09-02T11:44:47.028-03:00"}
 ---
 
-related topics: [[topics/lab/knowledge management\|knowledge management]], [[note-making\|note-making]], [[responses/lab/networked thought\|networked thought]], [[computer-supported collaborative work\|computer-supported collaborative work]] (CSCW), [[topics/lab/knowledge graphs\|knowledge graphs]], [[topics/lab/human-computer interaction\|human-computer interaction]] (HCI), [[concepts/extended cognition\|extended cognition]].
+ related topics: [[topics/lab/knowledge management\|knowledge management]], [[note-making\|note-making]], [[responses/lab/networked thought\|networked thought]], [[computer-supported collaborative work\|computer-supported collaborative work]] (CSCW), [[topics/lab/knowledge graphs\|knowledge graphs]], [[topics/lab/human-computer interaction\|human-computer interaction]] (HCI), [[concepts/extended cognition\|extended cognition]].
 
 #### about
 
