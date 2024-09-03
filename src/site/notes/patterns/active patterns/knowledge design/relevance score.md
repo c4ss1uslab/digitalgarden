@@ -41,8 +41,8 @@ i intend to fix this soon, but in the meantime, while i'm also building the [[_0
 | [[initiatives, orgs & communities/architect;design/SEEDS (ecosystem)\|SEEDS (ecosystem)]]                             | 98             | initiatives, orgs & communities/architect;design |
 | [[initiatives, orgs & communities/lab/holochain\|holochain]]                                                          | 96             | initiatives, orgs & communities/lab              |
 | [[models & frameworks/integral theory\|integral theory]]                                                              | 96             | models & frameworks                              |
-| [[patterns/pattern collections/knowledge design patterns\|knowledge design patterns]]                                 | 96             | patterns/pattern collections                     |
 | [[people/references/architect;design/daniel schmachtenberger\|daniel schmachtenberger]]                               | 96             | people/references/architect;design               |
+| [[patterns/pattern collections/knowledge design patterns\|knowledge design patterns]]                                 | 96             | patterns/pattern collections                     |
 | [[projects & tools/tools/lab/duskOS\|duskOS]]                                                                         | 96             | projects & tools/tools/lab                       |
 | [[references/alchemy/first principles and first values\|first principles and first values]]                           | 96             | references/alchemy                               |
 | [[responses/alchemy/cosmoerotic humanism\|cosmoerotic humanism]]                                                      | 96             | responses/alchemy                                |
