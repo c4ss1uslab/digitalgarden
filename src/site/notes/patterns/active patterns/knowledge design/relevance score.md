@@ -41,8 +41,8 @@ i intend to fix this soon, but in the meantime, while i'm also building the [[_0
 | [[initiatives, orgs & communities/architect;design/SEEDS (ecosystem)\|SEEDS (ecosystem)]]                             | 98             | initiatives, orgs & communities/architect;design |
 | [[initiatives, orgs & communities/lab/holochain\|holochain]]                                                          | 96             | initiatives, orgs & communities/lab              |
 | [[models & frameworks/integral theory\|integral theory]]                                                              | 96             | models & frameworks                              |
-| [[people/references/architect;design/daniel schmachtenberger\|daniel schmachtenberger]]                               | 96             | people/references/architect;design               |
 | [[patterns/pattern collections/knowledge design patterns\|knowledge design patterns]]                                 | 96             | patterns/pattern collections                     |
+| [[people/references/architect;design/daniel schmachtenberger\|daniel schmachtenberger]]                               | 96             | people/references/architect;design               |
 | [[projects & tools/tools/lab/duskOS\|duskOS]]                                                                         | 96             | projects & tools/tools/lab                       |
 | [[references/alchemy/first principles and first values\|first principles and first values]]                           | 96             | references/alchemy                               |
 | [[responses/alchemy/cosmoerotic humanism\|cosmoerotic humanism]]                                                      | 96             | responses/alchemy                                |
@@ -61,14 +61,14 @@ i intend to fix this soon, but in the meantime, while i'm also building the [[_0
 | [[people/references/lab/bret victor\|bret victor]]                                                                    | 92             | people/references/lab                            |
 | [[people/references/regen/vanessa andreotti\|vanessa andreotti]]                                                      | 92             | people/references/regen                          |
 | [[projects & tools/tools/lab/human programming interface\|human programming interface]]                               | 92             | projects & tools/tools/lab                       |
-| [[initiatives, orgs & communities/lab/subconscious (tool)\|subconscious (tool)]]                                      | 91             | initiatives, orgs & communities/lab              |
 | [[people/references/lab/alexander obenauer\|alexander obenauer]]                                                      | 91             | people/references/lab                            |
 | [[people/references/lab/gordon brander\|gordon brander]]                                                              | 91             | people/references/lab                            |
 | [[people/references/lab/maggie appleton\|maggie appleton]]                                                            | 91             | people/references/lab                            |
+| [[projects & tools/projects/lab/subconscious (tool)\|subconscious (tool)]]                                            | 91             | projects & tools/projects/lab                    |
 | [[responses/lab/mapping\|mapping]]                                                                                    | 91             | responses/lab                                    |
-| [[concepts/dashboards\|dashboards]]                                                                                   | 90             | concepts                                         |
 | [[people/references/lab/francis miller\|francis miller]]                                                              | 90             | people/references/lab                            |
 | [[projects & tools/tools/lab/softspace\|softspace]]                                                                   | 90             | projects & tools/tools/lab                       |
+| [[responses/lab/dashboards\|dashboards]]                                                                              | 90             | responses/lab                                    |
 | [[responses/lab/knowledge visualization\|knowledge visualization]]                                                    | 90             | responses/lab                                    |
 | [[topics/lab/information design\|information design]]                                                                 | 90             | topics/lab                                       |
 | [[concepts/moloch\|moloch]]                                                                                           | 88             | concepts                                         |

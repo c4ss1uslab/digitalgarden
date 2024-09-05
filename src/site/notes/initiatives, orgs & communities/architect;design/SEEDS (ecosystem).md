@@ -1,5 +1,5 @@
 ---
-{"created in":"2021-12-11T16:51:57-03:00","last tended to":"2024-08-23T20:40:59-03:00","website":"https://joinseeds.earth/","tags":["project","top3","web3","regeneration","ReFi","post-growth","🌿","DAOs","initiative"],"aliases":["SEEDS"],"relevancescore":98,"dg-publish":true,"permalink":"/initiatives-orgs-and-communities/architect-design/seeds-ecosystem/","dgPassFrontmatter":true,"created":"2021-12-11T16:51:57.834-03:00","updated":"2024-08-23T20:40:59.572-03:00"}
+{"created in":"2021-12-11T16:51:57-03:00","last tended to":"2024-08-23T20:40:59-03:00","website":"https://joinseeds.earth/","tags":["project","top3","web3","regeneration","ReFi","post-growth","🌿","DAOs","initiative"],"aliases":["SEEDS"],"relevancescore":98,"dg-publish":true,"permalink":"/initiatives-orgs-and-communities/architect-design/seeds-ecosystem/","dgPassFrontmatter":true,"created":"2021-12-11T16:51:57.834-03:00","updated":"2024-09-04T14:41:50.734-03:00"}
 ---
 
 #### context
@@ -10,7 +10,7 @@ the project has been mostly on hold since 2022, when at ~10k participants (but o
 
 it's an incredibly complex, deep and thoughtful project, with lots of hands, hearts and minds involved. and it requires a big commitment/learning curve to really understand its scope and how much has already been developed, if you want to learn about it. nonetheless, i strongly recommend it.
 
-i was very involved during the whole year of 2021 - i did the [[writings/tools for the regenerative renaissance review\|tools for the regenerative renaissance]] course, the [[initiatives, orgs & communities/player/SEEDS ambassador academy\|ambassador academy]], SEEDS leadership course, proposed campaigns, co-created proposals, participated in the renaissance explorers (alchemists/architects) cohorts, reviewed the SEEDS Guide, etc...
+i was very involved during the whole year of 2021 - i did the [[2021-04 - tools for the regenerative renaissance review\|tools for the regenerative renaissance]] course, the [[initiatives, orgs & communities/player/SEEDS ambassador academy\|ambassador academy]], SEEDS leadership course, proposed campaigns, co-created proposals, participated in the renaissance explorers (alchemists/architects) cohorts, reviewed the SEEDS Guide, etc...
 
 it's one of the most cohesive, deeply researched/well-thought-out projects i know of, moving beyond simplistic notions of [[topics/architect;design/regeneration\|regeneration]], to building out actual implementations of [[concepts/sacred economics\|sacred economics]], informed by the work/research on the [[concepts/metacrisis\|metacrisis]], and with a design/scope much more sophisticated than the vast majority of the [[topics/architect;design/web3\|web3]] and [[topics/architect;design/refi\|refi]] projects as well.
 

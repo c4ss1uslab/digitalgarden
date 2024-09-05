@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-07-30T21:38:54-03:00","last tended to":"2024-09-02T14:49:03-03:00","tags":["🌱"],"dg-publish":true,"permalink":"/003-research/05-core-references-and-resources/","dgPassFrontmatter":true,"created":"2022-07-30T21:38:54.771-03:00","updated":"2024-09-02T15:03:01.798-03:00"}
+{"created in":"2022-07-30T21:38:54-03:00","last tended to":"2024-09-02T15:03:01-03:00","tags":["🌱"],"dg-publish":true,"permalink":"/003-research/05-core-references-and-resources/","dgPassFrontmatter":true,"created":"2022-07-30T21:38:54.771-03:00","updated":"2024-09-04T21:57:04.265-03:00"}
 ---
 
 ```ad-warning
@@ -140,32 +140,6 @@ tools/orgs:
 > AI guides:
 > [sw-yx - AI notes: notes on AI state of the art, with a focus on generative and large language models.](https://github.com/sw-yx/ai-notes/)
 > 
-> AI directories:
-> https://www.futuretools.io/
-> 
-
-core concepts:
-[[concepts/metacrisis\|metacrisis]] / [[planetary transition\|planetary transition]] / [[tbprocessed/base notes/concepts - general/human phase shift\|human phase shift]]
-[[tbprocessed/base notes/concepts - general/game b\|game b]] / [[concepts/civilization design\|civilization design]] / [[topics/architect;design/systems design\|systems design]]
-[[topics/architect;design/distributed systems\|distributed systems]] / [[decentralized systems\|decentralized systems]] / [[regenerative systems\|regenerative systems]] / [[disruptive systems\|disruptive systems]]
-[[topics/architect;design/regeneration\|regeneration]] / [[tbprocessed/base notes/concepts - general/disruption\|disruption]] / [[integration\|integration]]
-[[models & frameworks/metadesign\|metadesign]] / [[topics/architect;design/ontological design\|ontological design]]
-[[models & frameworks/integral theory\|integral theory]] / [[models & frameworks/four quadrants\|four quadrants]] / [[models & frameworks/fourgames\|fourgames]]
-[[meta-cognitive processes\|meta-cognitive processes]] / [[concepts/life management\|life management]]
-[[maps\|maps]] / [[boards\|boards]] -> [[models & frameworks/wardley mapping\|wardley mapping]] / [[game board\|game board]]
-
-[[concepts/civilization design\|civilization design]]:
-[[concepts/network state\|network states]]
-[[ecovillages\|ecovillages]], [[smart cities\|smart cities]], [[smart villages\|smart villages]]
-[[civilization emerging\|civilization emerging]] / [[civium\|civium]]
--> prototypes:
-[[initiatives, orgs & communities/regen/future thinkers smart village\|future thinkers smart village]]
-[[auroville\|auroville]]
-[[the venus project\|the venus project]]
-[[auravana\|auravana]]
-[[findhorn\|findhorn]]
-[[damanhur\|damanhur]]
-
 > historical accounts / breakdown articles:
 > [Tools for Thought as Cultural Practices, not Computational Objects - Maggie Appleton](https://maggieappleton.com/tools-for-thought) 
 > [Spatial Web Browsing](https://maggieappleton.com/spatial-web) / [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history) / [Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs](https://github.com/MaggieAppleton/digital-gardeners)
@@ -208,6 +182,32 @@ core concepts:
 > interactive encyclopedia/wiki:
 > [DIGITIZATION.wiki](https://www.digitization.wiki/)
 > [Iconographic Encyclopædia of Science, Literature, and Art](https://www.c82.net/iconography/)
+> 
+> AI directories:
+> https://www.futuretools.io/
+> 
+
+core concepts:
+[[concepts/metacrisis\|metacrisis]] / [[planetary transition\|planetary transition]] / [[tbprocessed/base notes/concepts - general/human phase shift\|human phase shift]]
+[[tbprocessed/base notes/concepts - general/game b\|game b]] / [[concepts/civilization design\|civilization design]] / [[topics/architect;design/systems design\|systems design]]
+[[topics/architect;design/distributed systems\|distributed systems]] / [[decentralized systems\|decentralized systems]] / [[regenerative systems\|regenerative systems]] / [[disruptive systems\|disruptive systems]]
+[[topics/architect;design/regeneration\|regeneration]] / [[tbprocessed/base notes/concepts - general/disruption\|disruption]] / [[integration\|integration]]
+[[models & frameworks/metadesign\|metadesign]] / [[topics/architect;design/ontological design\|ontological design]]
+[[models & frameworks/integral theory\|integral theory]] / [[models & frameworks/four quadrants\|four quadrants]] / [[models & frameworks/fourgames\|fourgames]]
+[[meta-cognitive processes\|meta-cognitive processes]] / [[concepts/life management\|life management]]
+[[maps\|maps]] / [[boards\|boards]] -> [[models & frameworks/wardley mapping\|wardley mapping]] / [[game board\|game board]]
+
+[[concepts/civilization design\|civilization design]]:
+[[concepts/network state\|network states]]
+[[ecovillages\|ecovillages]], [[smart cities\|smart cities]], [[smart villages\|smart villages]]
+[[civilization emerging\|civilization emerging]] / [[civium\|civium]]
+-> prototypes:
+[[initiatives, orgs & communities/regen/future thinkers smart village\|future thinkers smart village]]
+[[auroville\|auroville]]
+[[the venus project\|the venus project]]
+[[auravana\|auravana]]
+[[findhorn\|findhorn]]
+[[damanhur\|damanhur]]
 
 complex [[topics/alchemy/sensemaking\|sensemaking]] content:
 
@@ -265,23 +265,6 @@ relevant organizations:
 [Chie Integrates](https://www.chieintegrates.com/)
 [Commons Engine](https://commonsengine.org/services/)
 [VillageLab](https://villagelab.net/)
-
-#### (mostly) FLOSS personal tech stacks
-
-visual bookmarks navigation:
-[[projects & tools/projects/lab/interneto\|interneto]]
-[[projects & tools/tier 2/webcrate\|webcrate]]
-[[projects & tools/tools/lab/linkace\|linkace]]
-[[projects & tools/tools/lab/otter manager\|otter manager]]
-[[projects & tools/tools/lab/raindrop\|raindrop]]
-[[toby\|toby]]
-[[projects & tools/tier 2/diigo\|diigo]]
-
-file management:
-[[projects & tools/tools/lab/eagle (app)\|eagle (app)]]
-
-desktop customization / ricing:
-[[topics/lab/nix customization\|nix customization]] / [[rainmeter\|rainmeter]] / [[projects & tools/tools/lab/screenstyler\|screenstyler]]
 
 PKM setups:
 [obsidian projects dashboard](https://bagerbach.com/blog/projects-and-goals-obsidian) / [Rainbell129/Obsidian-Homepage: A dashboard for your obsidian vault.](https://github.com/Rainbell129/Obsidian-Homepage)

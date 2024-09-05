@@ -2,7 +2,7 @@
 {"created in":"2024-03-19T16:25:06-03:00","last tended to":"2024-08-26T13:54:41-03:00","tags":["person","research","knowledgemanagement","distributedsystems","cybernetics","top3","systemsscience","🌱"],"relevancescore":91,"dg-publish":true,"permalink":"/people/references/lab/gordon-brander/","dgPassFrontmatter":true,"created":"2024-03-19T16:25:06.818-03:00","updated":"2024-08-28T14:27:33.499-03:00"}
 ---
 
-https://gordonbrander.com/, founder of [[initiatives, orgs & communities/lab/subconscious (tool)\|subconscious (tool)]], publishing an amazing newsletter at: https://newsletter.squishy.computer/
+https://gordonbrander.com/, founder of [[projects & tools/projects/lab/subconscious (tool)\|subconscious (tool)]], publishing an amazing newsletter at: https://newsletter.squishy.computer/
 
 an incredibly deep thinker, researcher, writer and builder - one of my favorite human beings working in [[topics/architect;design/technology\|tech]], designing [[responses/design/protocols for thought\|protocols for thought]], i.e. open-source tools for [thinking together](https://subconscious.substack.com/p/thinking-together), [[concepts/coordination\|coordination]]/[[terms/collaboration\|collaboration]], at the intersection of [[topics/architect;design/tools for thought\|tools for thought]], [[topics/lab/artificial intelligence\|AI]], [[concepts/extended cognition\|extended cognition]], [[topics/lab/cybernetics\|cybernetics]] and more.
 

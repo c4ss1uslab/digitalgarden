@@ -198,7 +198,7 @@ multidimensional resources management
 [[tools for life\|tools for life]]
 [[tools for play\|tools for play]]
 
-[[concepts/dashboards\|dashboards]]
+[[responses/lab/dashboards\|dashboards]]
 [[interfaces\|interfaces]]
 [[topics/lab/interactive data visualization\|interactive data visualization]]
 [[interface design\|interface design]]

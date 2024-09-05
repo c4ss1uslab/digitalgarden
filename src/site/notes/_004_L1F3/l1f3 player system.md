@@ -4,7 +4,7 @@
 
 #project
 main archetype: [[_002_toolkit/classes/hacker\|👨🏻‍💻 hacker]]
-keywords: [[topics/lab/interfaces MOC\|user interface]], [[topics/lab/user experience\|user experience]], [[topics/lab/AI assistant\|AI assistant]], [[topics/lab/algorithms\|algorithms]], [[visualizations\|visualizations]], [[concepts/dashboards\|dashboards]], [[experience design\|experience design]]
+keywords: [[topics/lab/interfaces MOC\|user interface]], [[topics/lab/user experience\|user experience]], [[topics/lab/AI assistant\|AI assistant]], [[topics/lab/algorithms\|algorithms]], [[visualizations\|visualizations]], [[responses/lab/dashboards\|dashboards]], [[experience design\|experience design]]
 
 ---
 

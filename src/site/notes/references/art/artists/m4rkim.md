@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-07-26T08:22:01-03:00","last tended to":"2024-09-03T14:58:06-03:00","tags":["artist","music","geek","🌱"],"dg-publish":true,"permalink":"/references/art/artists/m4rkim/","dgPassFrontmatter":true,"created":"2024-07-26T08:22:01.867-03:00","updated":"2024-09-03T17:32:24.914-03:00"}
+{"created in":"2024-07-26T08:22:01-03:00","last tended to":"2024-09-03T17:32:24-03:00","tags":["artist","music","geek","🌱"],"dg-publish":true,"permalink":"/references/art/artists/m4rkim/","dgPassFrontmatter":true,"created":"2024-07-26T08:22:01.867-03:00","updated":"2024-09-04T13:44:15.342-03:00"}
 ---
 
 ##### listening stats
@@ -87,8 +87,6 @@ nerdcore as a genre has a much bigger focus on [[storytelling\|storytelling]] an
 since artists create music about fictional universes, the way they choose to portray it - be it having a focus on the emotional/psychological aspects of the character/story or making metaphors/parallels between that world and our reality - says a lot about the artist's worldview/focus and also select/affect how the public receive it.
 
 it's often common to have a mix of styles - a song that goes from calm/reflexive instrumentals, with ethnic elements reminding the character's theme, to parts with trap/rap influences and metal somewhere in between. i've seen the same character being interpreted as love song, a sad/reflexive song, an aggressive, trap, and sometimes all of it in one song - after all, characters/stories are complex and they often mix these things.
-
-
 
 ##### a personal review - why m4rkim is my #1 most listened artist:
 
