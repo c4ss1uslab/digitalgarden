@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-08-20T11:42:20-03:00","last tended to":"2024-08-28T15:26:21-03:00","tags":["patterns","🌿","knowledgedesign"],"dg-publish":true,"aliases":["relevance scores"],"permalink":"/patterns/active-patterns/knowledge-design/relevance-score/","dgPassFrontmatter":true,"created":"2024-08-20T11:42:20.162-03:00","updated":"2024-09-02T14:03:36.356-03:00"}
+{"created in":"2024-08-20T11:42:20-03:00","last tended to":"2024-09-02T14:03:36-03:00","tags":["patterns","🌿","knowledgedesign"],"dg-publish":true,"aliases":["relevance scores"],"permalink":"/patterns/active-patterns/knowledge-design/relevance-score/","dgPassFrontmatter":true,"created":"2024-08-20T11:42:20.162-03:00","updated":"2024-09-05T13:31:33.272-03:00"}
 ---
 
 #### about
@@ -12,15 +12,15 @@ in [gwern's own words](https://gwern.net/about#importance-tags):
 
 at face value, this makes sense, but what if that poem, dream, or nootropics experiment turns out to make an impact on you and become a major experience in your life? something that started with a low apparent importance can grow and become something else.
 
-that's why i call it relevance. it's more fleeting, contextual. what's important today (getting a job, making ends meet) might be completely unimportant in a different context (when you're financially stable and are dealing with family/emotional challenges). both at an individual level (like in the example i gave), but also at a societal level.
+that's why i call it relevance. it's more fleeting, contextual. what's important today (getting a job, making ends meet) might be completely unimportant in a different context (when you're financially stable and are dealing with family/emotional challenges, for example). and this applies both at an individual level, but also at a societal level.
 
 when i use "relevance", i'm pointing to the cognitive process of [[recursive relevance realization\|recursive relevance realization]], which we're always engaged in, re-evaluating *what is relevant now, and why*.
 
 if something tends to *stay relevant for a long time*, it's likely something important for us. if it seems super important at some point, but after some time it loses its grip on us, how important was it really? or was it just pointing to something deeper, that's more important to us?
 
-*i.e.* relevance is more short-term. importance is more long-term. importance can be (sort of) measure by how relevant something stays for you over time.
+*i.e.* relevance is more short-term. importance is more long-term. importance can be (sort of) measured by how relevant something stays/becomes for you over time.
 
-well, that's my perspective. it's a starting point. more nuance needed/welcome over time as we continue to use this pattern. :)
+well, that's my perspective and how i'm choosing to use the term. it's a starting point. more nuance needed/welcome over time as we continue to use this pattern. :)
 
 ---
 #### relevance score visualizations
@@ -45,8 +45,8 @@ i intend to fix this soon, but in the meantime, while i'm also building the [[_0
 | [[people/references/architect;design/daniel schmachtenberger\|daniel schmachtenberger]]                               | 96             | people/references/architect;design               |
 | [[projects & tools/tools/lab/duskOS\|duskOS]]                                                                         | 96             | projects & tools/tools/lab                       |
 | [[references/alchemy/first principles and first values\|first principles and first values]]                           | 96             | references/alchemy                               |
-| [[responses/alchemy/cosmoerotic humanism\|cosmoerotic humanism]]                                                      | 96             | responses/alchemy                                |
 | [[responses/alchemy/metamodernism\|metamodernism]]                                                                    | 96             | responses/alchemy                                |
+| [[responses/alchemy/cosmoerotic humanism\|cosmoerotic humanism]]                                                      | 96             | responses/alchemy                                |
 | [[responses/design/second renaissance\|second renaissance]]                                                           | 96             | responses/design                                 |
 | [[responses/regen/permacomputing\|permacomputing]]                                                                    | 96             | responses/regen                                  |
 | [[topics/architect;design/life design\|life design]]                                                                  | 96             | topics/architect;design                          |
@@ -58,8 +58,8 @@ i intend to fix this soon, but in the meantime, while i'm also building the [[_0
 | [[topics/lab/knowledge management\|knowledge management]]                                                             | 94             | topics/lab                                       |
 | [[concepts/4e cognition\|4e cognition]]                                                                               | 92             | concepts                                         |
 | [[concepts/ways of knowing\|ways of knowing]]                                                                         | 92             | concepts                                         |
-| [[people/references/lab/bret victor\|bret victor]]                                                                    | 92             | people/references/lab                            |
 | [[people/references/regen/vanessa andreotti\|vanessa andreotti]]                                                      | 92             | people/references/regen                          |
+| [[people/references/lab/bret victor\|bret victor]]                                                                    | 92             | people/references/lab                            |
 | [[projects & tools/tools/lab/human programming interface\|human programming interface]]                               | 92             | projects & tools/tools/lab                       |
 | [[people/references/lab/alexander obenauer\|alexander obenauer]]                                                      | 91             | people/references/lab                            |
 | [[people/references/lab/gordon brander\|gordon brander]]                                                              | 91             | people/references/lab                            |

@@ -1,5 +1,5 @@
 ---
-{"aliases":[".dgarden","🌲 digital garden","idea garden","🌱 idea garden","c4ss1us.dgarden","🌲 c4ss1us.dgarden","digital garden","home","knowledge garden"],"created in":"2023-07-27T15:44:39-03:00","last tended to":"2024-09-02T14:03:04-03:00","dg-publish":true,"dg-home":true,"permalink":"/000-digital-garden/c4ss1us-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2021-12-11T16:51:50.661-03:00","updated":"2024-09-05T13:13:32.341-03:00"}
+{"aliases":[".dgarden","🌲 digital garden","idea garden","🌱 idea garden","c4ss1us.dgarden","🌲 c4ss1us.dgarden","digital garden","home","knowledge garden"],"created in":"2023-07-27T15:44:39-03:00","last tended to":"2024-09-05T14:46:27-03:00","dg-publish":true,"dg-home":true,"permalink":"/000-digital-garden/c4ss1us-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2021-12-11T16:51:50.661-03:00","updated":"2024-09-05T14:46:27.502-03:00"}
 ---
 
 ## hello! welcome to my digital garden! 🌷
@@ -67,7 +67,7 @@ read more about the research themes/inquiries or jump straight to the core essay
 > an inquiry into how we can:
 > 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/004-l1-f3/l1-f3-game/#cff951" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/004-l1-f3/l1f3-game/#cff951" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -76,7 +76,7 @@ read more about the research themes/inquiries or jump straight to the core essay
 </div></div>
 
 > 
-> (see more at: [[_004_L1F3/L1F3.game\|L1F3.game]])
+> (see more at: [[_004_L1F3/l1f3 game\|l1f3 game]])
 > 
 > some people have a resistance with the [[concepts/game\|game]] frame because of its often seen competitive, game-theoretical win-lose dynamics. i share that hesitation, in the normal sense of the term. that's why the concept of game i'm using here is closer to the [[concepts/infinite games\|infinite game]] and [[omni-win dynamics\|omni-win dynamics]] observed by thinkers such as [[projects & tools/projects/player/world game\|buckminster fuller in the world game]] and communities such as [[models & frameworks/fourgames\|fourgames]], [[initiatives, orgs & communities/architect;design/metagame.wtf\|metagame.wtf]] and [[projects & tools/projects/player/startover.xyz\|startover.xyz]].
 > 
@@ -129,8 +129,8 @@ i intend to fix this soon, but in the meantime, while i'm also building the [[_0
 | [[people/references/architect;design/daniel schmachtenberger\|daniel schmachtenberger]]                               | 96             | people/references/architect;design               |
 | [[projects & tools/tools/lab/duskOS\|duskOS]]                                                                         | 96             | projects & tools/tools/lab                       |
 | [[references/alchemy/first principles and first values\|first principles and first values]]                           | 96             | references/alchemy                               |
-| [[responses/alchemy/cosmoerotic humanism\|cosmoerotic humanism]]                                                      | 96             | responses/alchemy                                |
 | [[responses/alchemy/metamodernism\|metamodernism]]                                                                    | 96             | responses/alchemy                                |
+| [[responses/alchemy/cosmoerotic humanism\|cosmoerotic humanism]]                                                      | 96             | responses/alchemy                                |
 | [[responses/design/second renaissance\|second renaissance]]                                                           | 96             | responses/design                                 |
 | [[responses/regen/permacomputing\|permacomputing]]                                                                    | 96             | responses/regen                                  |
 | [[topics/architect;design/life design\|life design]]                                                                  | 96             | topics/architect;design                          |
@@ -142,8 +142,8 @@ i intend to fix this soon, but in the meantime, while i'm also building the [[_0
 | [[topics/lab/knowledge management\|knowledge management]]                                                             | 94             | topics/lab                                       |
 | [[concepts/4e cognition\|4e cognition]]                                                                               | 92             | concepts                                         |
 | [[concepts/ways of knowing\|ways of knowing]]                                                                         | 92             | concepts                                         |
-| [[people/references/lab/bret victor\|bret victor]]                                                                    | 92             | people/references/lab                            |
 | [[people/references/regen/vanessa andreotti\|vanessa andreotti]]                                                      | 92             | people/references/regen                          |
+| [[people/references/lab/bret victor\|bret victor]]                                                                    | 92             | people/references/lab                            |
 | [[projects & tools/tools/lab/human programming interface\|human programming interface]]                               | 92             | projects & tools/tools/lab                       |
 | [[people/references/lab/alexander obenauer\|alexander obenauer]]                                                      | 91             | people/references/lab                            |
 | [[people/references/lab/gordon brander\|gordon brander]]                                                              | 91             | people/references/lab                            |

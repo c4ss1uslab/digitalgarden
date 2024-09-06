@@ -1,5 +1,5 @@
 ---
-{"aliases":["🗺 meta-map","wordcloud","🗾 meta-map"],"created in":"2022-01-03T19:16:10-03:00","last tended to":"2024-08-23T20:40:55-03:00","tags":["design","🌿","research","knowledgedesign","informationdesign","experiment"],"dg-publish":true,"permalink":"/002-toolkit/meta-map/","dgPassFrontmatter":true,"created":"2022-01-03T19:16:10.550-03:00","updated":"2024-08-23T20:40:55.098-03:00"}
+{"aliases":["🗺 meta-map","wordcloud","🗾 meta-map"],"created in":"2022-01-03T19:16:10-03:00","last tended to":"2024-09-05T14:46:29-03:00","tags":["design","🌿","research","knowledgedesign","informationdesign","experiment"],"dg-publish":true,"permalink":"/002-toolkit/meta-map/","dgPassFrontmatter":true,"created":"2022-01-03T19:16:10.550-03:00","updated":"2024-09-05T14:46:29.365-03:00"}
 ---
 
 an extensive list / experimental form of intuitive clustering of all major themes/domains and references i'm working with.
@@ -544,7 +544,7 @@ multidimensional resources management
 [[win-win games\|win-win games]]
 [[winning happening games\|winning happening games]]
 
-[[_004_L1F3/L1F3.game\|L1F3.game]]
+[[_004_L1F3/l1f3 game\|l1f3 game]]
 
 [[practices/tarot\|tarot]]
 [[i ching\|i ching]]

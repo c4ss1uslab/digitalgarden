@@ -1,5 +1,5 @@
 ---
-{"created in":"2021-12-11T16:51:57-03:00","last tended to":"2024-08-23T20:40:59-03:00","website":"https://joinseeds.earth/","tags":["project","top3","web3","regeneration","ReFi","post-growth","🌿","DAOs","initiative"],"aliases":["SEEDS"],"relevancescore":98,"dg-publish":true,"permalink":"/initiatives-orgs-and-communities/architect-design/seeds-ecosystem/","dgPassFrontmatter":true,"created":"2021-12-11T16:51:57.834-03:00","updated":"2024-09-04T14:41:50.734-03:00"}
+{"created in":"2021-12-11T16:51:57-03:00","last tended to":"2024-09-05T14:46:31-03:00","website":"https://joinseeds.earth/","tags":["project","top3","web3","regeneration","ReFi","post-growth","🌿","DAOs","initiative"],"aliases":["SEEDS"],"relevancescore":98,"dg-publish":true,"permalink":"/initiatives-orgs-and-communities/architect-design/seeds-ecosystem/","dgPassFrontmatter":true,"created":"2021-12-11T16:51:57.834-03:00","updated":"2024-09-05T14:46:31.697-03:00"}
 ---
 
 #### context
@@ -30,7 +30,7 @@ for nerds/people wanting to dive deep, you can check out the SEEDS Guide here (a
 [[financial systems\|financial systems]]
 [[organizational systems\|organizational systems]]
 [[governance systems\|governance systems]]
-[[_004_L1F3/L1F3.game\|life game]]
+[[_004_L1F3/l1f3 game\|life game]]
 
 ###### ecosystem overview:
 

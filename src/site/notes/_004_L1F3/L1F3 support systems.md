@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-08-23T20:38:47-03:00","last tended to":"2024-08-23T21:22:59-03:00","tags":["l1f3","project","🌿"],"dg-publish":true,"relevancescore":99,"permalink":"/004-l1-f3/l1-f3-support-systems/","dgPassFrontmatter":true,"created":"2024-08-23T20:38:47.282-03:00","updated":"2024-08-23T21:23:16.499-03:00"}
+{"created in":"2024-08-23T20:38:47-03:00","last tended to":"2024-09-05T14:46:30-03:00","tags":["l1f3","project","🌿"],"dg-publish":true,"relevancescore":99,"permalink":"/004-l1-f3/l1-f3-support-systems/","dgPassFrontmatter":true,"created":"2024-08-23T20:38:47.282-03:00","updated":"2024-09-05T14:46:30.133-03:00"}
 ---
 
 ### definition
@@ -24,7 +24,7 @@ i'll introduce an ontology and a few suggestions for further research/classifica
 
 the major systems i have been designing/prototyping for a long time are:
 
-1) [[_004_L1F3/L1F3.game\|L1F3.GAME]]
+1) [[_004_L1F3/l1f3 game\|L1F3.GAME]]
 
 2) [[_004_L1F3/l1f3 management system\|L1F3 management system]]
 

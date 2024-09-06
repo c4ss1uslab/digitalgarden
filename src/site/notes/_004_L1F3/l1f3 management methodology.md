@@ -1,22 +1,36 @@
 ---
-{"aliases":["LMM - life management methodology","life management methodology (LMM)","life management methodology","L1F3 management framework","l1f3 management framework","L1F3 management methodology","L1F3 ontology","🕸 L1F3 management framework","🕸 L1F3 management methodology","🕸 l1f3 management framework","🕸 l1f3 management methodology"],"created in":"2022-04-11T16:33:28-03:00","last tended to":"2024-06-14T18:51:36-03:00","dg-publish":true,"tags":["project","🌿","l1f3"],"permalink":"/004-l1-f3/l1f3-management-methodology/","dgPassFrontmatter":true,"created":"2022-04-11T16:33:28.838-03:00","updated":"2024-07-19T00:15:40.405-03:00"}
+{"aliases":["LMM - life management methodology","life management methodology (LMM)","life management methodology","L1F3 management framework","l1f3 management framework","L1F3 management methodology","L1F3 ontology","🕸 L1F3 management framework","🕸 L1F3 management methodology","🕸 l1f3 management framework","🕸 l1f3 management methodology"],"created in":"2022-04-11T16:33:28-03:00","last tended to":"2024-09-05T15:25:27-03:00","dg-publish":true,"tags":["project","🌿","l1f3"],"permalink":"/004-l1-f3/l1f3-management-methodology/","dgPassFrontmatter":true,"created":"2022-04-11T16:33:28.838-03:00","updated":"2024-09-05T15:31:08.307-03:00"}
 ---
+
+#### about
 
 since 2015, i've been asking myself - is there an "optimal" or "better" way to manage my life? what would that look like?
 
-i experimented with tons of systems and frameworks, such as [[zettelkasten\|zettelkasten]], [[david allen\|david allen]]'s GTD 5 horizons, [[people/references/lab/nick milo\|nick milo]] LYT's [[concepts/maps of content\|maps of content]], [[august bradley\|august bradley]]'s [[models & frameworks/PPV\|PPV]], plus my own work in 2018 with [[people/references/alchemy/gabriel goffi\|gabriel goffi]] and in 2022 with [[people/friends/ísis schuarts\|ísis schuarts]] (life manager), and by drinking inspiration from [[people/references/alchemy/ken wilber\|ken wilber]]'s work on the [[references/alchemy/integral OS\|integral OS]], gaming interfaces/models, and jamie combs' [[models & frameworks/fourgames\|fourgames]], i finally found a "*life management methodology*" that works for me.
+and then from learning lots of [[topics/alchemy/mental models\|mental models]], simple [[_001_MOCs/000 🟣 deep game/015 ✨ heuristics & inquiries MOC\|heuristics]] and operating [[_001_MOCs/000 🟣 deep game/010 💠 values & principles MOC\|principles]], i kept experimenting with tons of systems and frameworks, such as [[zettelkasten\|zettelkasten]], [[david allen\|david allen]]'s [[models & frameworks/getting things done\|getting things done]], [[leo babauta\|leo babauta]]'s [[zen to done\|zen to done]], [[people/references/lab/nick milo\|nick milo]] [[linking your thinking\|linking your thinking]], [[august bradley\|august bradley]]'s [[models & frameworks/PPV\|PPV]], [[taylor pearson\|taylor pearson]]'s [[purposeful productivity\|purposeful productivity]], [[rodrigo arantes\|rodrigo arantes]]' [[a jogada\|a jogada]], my own work in 2018 with [[people/references/alchemy/gabriel goffi\|gabriel goffi]] and in 2022 with [[people/friends/ísis schuarts\|ísis schuarts]] ([[life manager\|life manager]]), drinking inspiration from [[people/references/alchemy/ken wilber\|ken wilber]]'s work on the [[references/alchemy/integral OS\|integral OS]], ancestral orientation devices such as the [[i-ching\|i-ching]], [[mahalila\|mahalila]], [[practices/tarot\|tarot]], as well as several different [[tbprocessed/base notes/tools;products - general/notion\|notion]] workflows/templates once these started to pop up, og [[patterns/pattern collections/knowledge design patterns\|knowledge design frameworks and patterns]], a bunch of [[topics/player/game interfaces\|game interfaces]]/[[patterns/pattern collections/game design patterns\|design patterns]], and [[jamie combs\|jamie combs]]' [[models & frameworks/fourgames\|fourgames]] framework - finally - around 2022 i started to have glimpses of a "*life management methodology*" that worked for me.
 
-yet, i wanted it to work for other people too. so my inquiry remained: how can i create something that is grounded in reality, that is systemic, modular, non-dogmatic, interoperable, fully extensible, customizable and regenerative by design?
+while going through all that, i kept constantly questioning myself:
 
-i wanted it to be minimally opinionated, yet i found this regenerative frame to be a key difference between meaninglessness and unconsciously damaging behaviors to ways of living that are more conscious and life-affirming, so i opted to keep it.
+> what are or "should be" the design primitives of [[concepts/life management\|life management]]?
+> what are the fundamental ways in which we see, relate to and engage with reality?
+> what are the fundamental tools that we use to do so?
 
-as it's modular, the ontology is under constant development, but the core principles/structures are set in place.
+instead of assuming a bunch of premises widely accepted in modern culture (and just "get on with these simple productivity apps/tricks"), this inquiry clearly came from an inner place of strong dissonance - what's being talked about in media, how "normal lives" are being lived feels off. that's not what i believe in and want for my life.
 
-##### the L1F3 framework
+so this necessarily crosses into deeper [[topics/alchemy/metaphysics\|metaphysical]], [[epistemology\|epistemological]], [[ontology\|ontological]], [[axiology\|axiological]] territory.
+
+yet, i didn't want to get esoteric. i wanted it to work for other people too. so my inquiry remained: how can i create something that is grounded in reality, that is systemic, modular, non-dogmatic, interoperable, fully extensible, customizable and regenerative by design?
+
+very wordy and challenging, yes. but necessary nonetheless.
+
+i wanted it to be minimally opinionated, yet i found this [[topics/architect;design/regeneration\|regenerative]] frame to be a key difference between meaninglessness and unconsciously damaging behaviors to ways of living that are more conscious and life-affirming, so i opted to keep it.
+
+as it's intended to be modular, the ontology of the framework itself is under constant development, but the initial core principles/structures are set in place.
+
+#### the L1F3 framework
 
 it consists of:
 
-a set of [[concepts/maps of content\|maps of content]], structured under [[4 games\|4 games]] that are similar to GTD's [[5 horizons\|5 horizons]].
+a set of [[concepts/maps of content\|maps of content]], structured under the [[models & frameworks/fourgames\|fourgames]] framework, that is in a sense, similar to GTD's [[6 horizons of focus - GTD.png|6 horizons of focus]].
 
 🟣 [[concepts/deep game\|deep game]]:
 - [[_001_MOCs/000 🟣 deep game/000 🧘🏻‍♂️ self\|000 🧘🏻‍♂️ self]]
@@ -51,11 +65,9 @@ a set of [[concepts/maps of content\|maps of content]], structured under [[4 gam
 inspired by the [[models & frameworks/OODA loop\|OODA loop]], i also created a few spaces to visualize/understand/improve meta-cognitive processes:
 - [[sensing hub\|sensing hub]]
 - [[sensemaking hub\|sensemaking hub]]
-- [[_002_toolkit/008 🕹 decision hub\|008 🕹 decision hub]]
-- action hub (task management) - ok
-- learning hub (learning management) - ok
-
-
+- [[_002_toolkit/008 🕹 decision hub\|decision-making hub]]
+- [[action hub\|action hub]] (task management) - ok
+- [[learning hub\|learning hub]] (learning management) - ok
 
 inspired by the [[models & frameworks/fourgames\|fourgames]] framework, there are also pages categorized according to the descriptions of their games:
 

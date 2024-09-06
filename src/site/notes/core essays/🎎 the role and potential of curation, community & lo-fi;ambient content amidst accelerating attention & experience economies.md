@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-12-03T15:03:17-03:00","last tended to":"2024-08-28T15:23:45-03:00","dg-publish":true,"aliases":["🎎 the role of curation, community & ambient content"],"tags":["essay","🌿"],"permalink":"/core-essays/the-role-and-potential-of-curation-community-and-lo-fi-ambient-content-amidst-accelerating-attention-and-experience-economies/","dgPassFrontmatter":true,"created":"2023-12-03T15:03:17.203-03:00","updated":"2024-09-02T14:30:53.640-03:00"}
+{"created in":"2023-12-03T15:03:17-03:00","last tended to":"2024-09-02T14:30:53-03:00","dg-publish":true,"aliases":["🎎 the role of curation, community & ambient content"],"tags":["essay","🌿"],"permalink":"/core-essays/the-role-and-potential-of-curation-community-and-lo-fi-ambient-content-amidst-accelerating-attention-and-experience-economies/","dgPassFrontmatter":true,"created":"2023-12-03T15:03:17.203-03:00","updated":"2024-09-05T13:33:41.772-03:00"}
 ---
 
 ```ad-warning
@@ -45,7 +45,7 @@ my curation can be of the utmost value if:
 
 in my writing, i can share/clearly state the insights/learnings i gathered by inhabiting these diverse archetypes/domains of knowledge.
 
-e.g.: present my CEP+R at each article.
+e.g.: present my [[models & frameworks/CEP+N\|CEP+N]] at each article.
 -> design nerds: daniel, rieki, vassão, etc
 -> builder nerds: sephist, dgardens, etc
 -> art: fablab, mdc, domestika, rap geek...
