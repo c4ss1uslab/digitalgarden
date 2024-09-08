@@ -1,5 +1,5 @@
 ---
-{"aliases":[".dgarden","🌲 digital garden","idea garden","🌱 idea garden","c4ss1us.dgarden","🌲 c4ss1us.dgarden","digital garden","home","knowledge garden"],"created in":"2023-07-27T15:44:39-03:00","last tended to":"2024-09-05T14:46:27-03:00","dg-publish":true,"dg-home":true,"permalink":"/000-digital-garden/c4ss1us-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2021-12-11T16:51:50.661-03:00","updated":"2024-09-05T14:46:27.502-03:00"}
+{"aliases":[".dgarden","🌲 digital garden","idea garden","🌱 idea garden","c4ss1us.dgarden","🌲 c4ss1us.dgarden","digital garden","home","knowledge garden"],"created in":"2023-07-27T15:44:39-03:00","last tended to":"2024-09-05T14:46:27-03:00","dg-publish":true,"dg-home":true,"permalink":"/000-digital-garden/c4ss1us-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2021-12-11T16:51:50.661-03:00","updated":"2024-09-08T16:55:38.170-03:00"}
 ---
 
 ## hello! welcome to my digital garden! 🌷
@@ -8,7 +8,7 @@ this is a space in which i'm:
 
 a) publishing my [[topics/architect;design/research\|research]]/[[tbprocessed/base notes/concepts - general/curation\|curation]] and [[_001_MOCs/050 🟩 mid game/070 🔩 prototypes MOC\|proto]]-[[designs\|designs]] on [[concepts/consciousness\|consciousness]], [[topics/architect;design/technology\|technology]], [[_005_c4ss1us/c4ss.art\|art]], [[topics/regen/earth regeneration\|regeneration]] and [[concepts/game\|games]] as responses to the [[concepts/metacrisis\|metacrisis]] - the uniquely challenging moment we're living in the history of our civilization, and
 
-b) planting notes - exploring different [[ideas\|ideas]], [[resources\|resources]], [[pathways\|pathways]] to create [[thriving\|thriving]] societies, oriented towards supporting the [[concepts/integral development\|integral development]] of individuals and our systems, instead of the one we have, based on [[concepts/moloch\|win-lose dynamics]] and [[extractivist paradigms\|extractivist paradigms]] that are [[debasing our ecological substrate\|debasing our ecological substrate]], promoting profound [[concepts/intimacy crisis\|psycho-spiritual alienation]] and leading us towards impeding [[topics/architect;design/civilizational collapse\|systemic collapse]].
+b) planting notes - exploring different [[ideas\|ideas]], [[resources\|resources]], [[pathways\|pathways]] to create [[thriving\|thriving]] societies, oriented towards supporting the [[concepts/integral development\|integral development]] of individuals and our systems, instead of the one we have, based on [[concepts/moloch\|win-lose dynamics]] and [extractivist paradigms](https://civilizationemerging.com/new-economics-series-4/) that are [[debasing our ecological substrate\|debasing our ecological substrate]], promoting profound [[concepts/intimacy crisis\|psycho-spiritual alienation]] and leading us towards impeding [[topics/architect;design/civilizational collapse\|systemic collapse]].
 
 > [!info]- more on the design/philosophy of this space
 > > "a digital garden is something inbetween a personal blog and a wiki. it's a collection of evolving notes, essays, and ideas that aren't strictly organised by their publication date. they're inherently exploratory – posts are linked through contextual associations (bi-directional links). they aren't refined or complete - posts can be published as half-finished thoughts that will grow and evolve over time. they're less rigid, less performative, and less perfect than the personal "blogs" we're used to encountering on the web." - [[people/references/lab/maggie appleton\|maggie appleton]] on [digital gardening tools and resources](https://github.com/MaggieAppleton/digital-gardeners).
@@ -109,7 +109,7 @@ my aim here isn't to provide definitive answers, but starting points. my hope if
 
 #### relevance score visualizations
 
-i still have to figure out why the [digital garden plugin](https://dg-docs.ole.dev/) i'm using isn't allowing me to show the relevance score property on my notes. i currently have 65 notes with assigned relevance scores over 80, and i'm slowly adding it to more and more of them (mostly [[terms/design\|design]]/[[_005_c4ss1us/c4ss1us.design\|architect]] & [[_005_c4ss1us/c4ss1us.lab\|lab]] notes were tagged so far, so the index below is missing a ton of stuff from [[_005_c4ss1us/c4ss1us.alchemy\|alchemy]], [[_005_c4ss1us/c4ss.art\|art]], [[_005_c4ss1us/c4ss1us.player\|player]] and [[_005_c4ss1us/c4ss1us.regen\|regen]], that are less processed/more embrionary).
+i still have to figure out why the [digital garden plugin](https://dg-docs.ole.dev/) i'm using isn't allowing me to show the relevance score property on my notes. i currently have 66 notes with assigned relevance scores over 80, and i'm slowly adding it to more and more of them (mostly [[terms/design\|design]]/[[_005_c4ss1us/c4ss1us.design\|architect]] & [[_005_c4ss1us/c4ss1us.lab\|lab]] notes were tagged so far, so the index below is missing a ton of stuff from [[_005_c4ss1us/c4ss1us.alchemy\|alchemy]], [[_005_c4ss1us/c4ss.art\|art]], [[_005_c4ss1us/c4ss1us.player\|player]] and [[_005_c4ss1us/c4ss1us.regen\|regen]], that are less processed/more embrionary).
 
 i intend to fix this soon, but in the meantime, while i'm also building the [[_001_MOCs/025 🔷 long game/025 🗺 topics & references MOC\|025 🗺 topics & references MOC]] and [[_003_research/00 - viable pathways book-zine\|viable pathways]]' [[_003_research/05 - core references & resources\|05 - core references & resources]] pages, this is a useful visualization for navigating this research garden by identifying what i deem as most relevant from the areas above:
 
@@ -126,6 +126,8 @@ i intend to fix this soon, but in the meantime, while i'm also building the [[_0
 | [[topics/architect;design/coordination systems\|coordination systems]]                                                | 97             | topics/architect;design                          |
 | [[_004_L1F3/L1F3 support systems\|L1F3 support systems]]                                                              | 97             | _004_L1F3                                        |
 | [[concepts/integral development\|integral development]]                                                               | 96             | concepts                                         |
+| [[concepts/intimacy crisis\|intimacy crisis]]                                                                         | 96             | concepts                                         |
+| [[initiatives, orgs & communities/alchemy/church of the intimate web\|church of the intimate web]]                    | 96             | initiatives, orgs & communities/alchemy          |
 | [[initiatives, orgs & communities/architect;design/metagame.wtf\|metagame.wtf]]                                       | 96             | initiatives, orgs & communities/architect;design |
 | [[initiatives, orgs & communities/architect;design/SEEDS (ecosystem)\|SEEDS (ecosystem)]]                             | 96             | initiatives, orgs & communities/architect;design |
 | [[models & frameworks/integral theory\|integral theory]]                                                              | 96             | models & frameworks                              |
@@ -146,9 +148,9 @@ i intend to fix this soon, but in the meantime, while i'm also building the [[_0
 | [[responses/regen/regenerative design\|regenerative design]]                                                          | 94             | responses/regen                                  |
 | [[topics/architect;design/lifestyles\|lifestyles]]                                                                    | 94             | topics/architect;design                          |
 | [[topics/architect;design/personal algorithms design\|personal algorithms design]]                                    | 94             | topics/architect;design                          |
+| [[topics/architect;design/semantic web\|semantic web]]                                                                | 94             | topics/architect;design                          |
 | [[topics/architect;design/tools for thought\|tools for thought]]                                                      | 94             | topics/architect;design                          |
 | [[topics/architect;design/knowledge commons\|knowledge commons]]                                                      | 94             | topics/architect;design                          |
-| [[topics/architect;design/semantic web\|semantic web]]                                                                | 94             | topics/architect;design                          |
 | [[topics/lab/information design\|information design]]                                                                 | 94             | topics/lab                                       |
 | [[topics/lab/interactive visualizations\|interactive visualizations]]                                                 | 94             | topics/lab                                       |
 | [[topics/lab/knowledge management\|knowledge management]]                                                             | 94             | topics/lab                                       |
@@ -163,6 +165,7 @@ i intend to fix this soon, but in the meantime, while i'm also building the [[_0
 | [[people/references/lab/maggie appleton\|maggie appleton]]                                                            | 91             | people/references/lab                            |
 | [[projects & tools/projects/lab/subconscious (tool)\|subconscious (tool)]]                                            | 91             | projects & tools/projects/lab                    |
 | [[people/references/lab/francis miller\|francis miller]]                                                              | 90             | people/references/lab                            |
+| [[people/references/lab/karlicoss\|karlicoss]]                                                                        | 90             | people/references/lab                            |
 | [[projects & tools/tools/lab/softspace\|softspace]]                                                                   | 90             | projects & tools/tools/lab                       |
 | [[concepts/moloch\|moloch]]                                                                                           | 88             | concepts                                         |
 | [[initiatives, orgs & communities/architect;design/goodly labs\|goodly labs]]                                         | 88             | initiatives, orgs & communities/architect;design |
@@ -172,18 +175,18 @@ i intend to fix this soon, but in the meantime, while i'm also building the [[_0
 | [[topics/lab/knowledge graphs\|knowledge graphs]]                                                                     | 88             | topics/lab                                       |
 | [[projects & tools/projects/lab/codexOS\|codexOS]]                                                                    | 87             | projects & tools/projects/lab                    |
 | [[models & frameworks/wardley mapping\|wardley mapping]]                                                              | 86             | models & frameworks                              |
-| [[projects & tools/tools/lab/hive.one\|hive.one]]                                                                     | 86             | projects & tools/tools/lab                       |
-| [[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social (ex-tweetscape)]]                        | 86             | projects & tools/projects/lab                    |
-| [[projects & tools/projects/design/mercuryOS\|mercuryOS]]                                                             | 86             | projects & tools/projects/design                 |
 | [[projects & tools/projects/design/scaling synthesis\|scaling synthesis]]                                             | 86             | projects & tools/projects/design                 |
+| [[projects & tools/projects/design/mercuryOS\|mercuryOS]]                                                             | 86             | projects & tools/projects/design                 |
+| [[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social (ex-tweetscape)]]                        | 86             | projects & tools/projects/lab                    |
+| [[projects & tools/tools/lab/hive.one\|hive.one]]                                                                     | 86             | projects & tools/tools/lab                       |
 | [[topics/lab/recommender systems\|recommender systems]]                                                               | 86             | topics/lab                                       |
 | [[projects & tools/projects/design/xanadu\|xanadu]]                                                                   | 84             | projects & tools/projects/design                 |
-| [[projects & tools/tools/lab/catalist network\|catalist network]]                                                     | 82             | projects & tools/tools/lab                       |
 | [[projects & tools/projects/lab/interneto\|interneto]]                                                                | 82             | projects & tools/projects/lab                    |
+| [[projects & tools/tools/lab/catalist network\|catalist network]]                                                     | 82             | projects & tools/tools/lab                       |
 | [[initiatives, orgs & communities/architect;design/emergence magazine\|emergence magazine]]                           | 81             | initiatives, orgs & communities/architect;design |
 | [[initiatives, orgs & communities/alchemy/possibility management\|possibility management]]                            | 80             | initiatives, orgs & communities/alchemy          |
-| [[projects & tools/tools/lab/unit\|unit]]                                                                             | 80             | projects & tools/tools/lab                       |
 | [[projects & tools/tools/design/hylo\|hylo]]                                                                          | 80             | projects & tools/tools/design                    |
+| [[projects & tools/tools/lab/unit\|unit]]                                                                             | 80             | projects & tools/tools/lab                       |
 
 { .block-language-dataview}
 

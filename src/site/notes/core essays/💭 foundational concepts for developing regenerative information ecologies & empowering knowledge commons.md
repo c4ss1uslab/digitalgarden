@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-10-31T20:24:29-03:00","last tended to":"2024-09-07T20:47:35-03:00","dg-publish":true,"aliases":["💭 foundational concepts for knowledge commons"],"permalink":"/core-essays/foundational-concepts-for-developing-regenerative-information-ecologies-and-empowering-knowledge-commons/","dgPassFrontmatter":true,"created":"2023-10-31T20:24:29.951-03:00","updated":"2024-09-07T20:47:35.237-03:00"}
+{"created in":"2023-10-31T20:24:29-03:00","last tended to":"2024-09-07T20:47:35-03:00","dg-publish":true,"aliases":["💭 foundational concepts for knowledge commons"],"permalink":"/core-essays/foundational-concepts-for-developing-regenerative-information-ecologies-and-empowering-knowledge-commons/","dgPassFrontmatter":true,"created":"2023-10-31T20:24:29.951-03:00","updated":"2024-09-08T17:51:28.521-03:00"}
 ---
 
 draft link: https://medium.com/@cassiuscarvalho/foundational-concepts-for-developing-regenerative-information-ecologies-empowering-knowledge-d427b1dc2cb3
@@ -87,7 +87,7 @@ since then, [the stoa](https://www.youtube.com/c/TheStoa) has been an online com
 
 as some of these ideas have been informative to many researchers, web3 builders, social activists, spiritual practitioners and regenerative systems designers (myself included), i believe there are many concepts that deserve to get outside this bubble and more into the mainstream conversation of how to build a better internet.
 
-(see life itself’s [metamodern ecosystem map](https://lifeitself.org/ecosystem) for an overview on communities inspired/informed by this knowledge, or joe lightfoot’s 2021 “[the liminal web](https://www.joelightfoot.org/post/the-liminal-web-mapping-an-emergent-subculture-of-sensemakers-meta-theorists-systems-poets)” article, referenced by the map right below)
+(see [[initiatives, orgs & communities/architect;design/life itself\|life itself]]’s [metamodern ecosystem map](https://lifeitself.org/ecosystem) for an overview on communities inspired/informed by this knowledge, or [[joe lightfoot\|joe lightfoot]]’s 2021 “[the liminal web](https://www.joelightfoot.org/post/the-liminal-web-mapping-an-emergent-subculture-of-sensemakers-meta-theorists-systems-poets)” article, referenced by the map right below)
 
 ![](https://cdn-images-1.medium.com/max/800/1*b31hiO4ynbDLRrXWEFF4aQ.png)
 

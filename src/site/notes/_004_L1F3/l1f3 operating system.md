@@ -1,5 +1,5 @@
 ---
-{"aliases":["🌌 LOS","🌌 l1f3 operating system","l1f3 OS","🌌 l1f3 OS","🌌 life operating system","life OS","🌌 life OS","life operating system","L1F3 operating system"],"created in":"2021-12-11T16:51:55-03:00","last tended to":"2024-08-23T20:40:18-03:00","tags":["project","🌱","l1f3","alchemy","design"],"dg-publish":true,"permalink":"/004-l1-f3/l1f3-operating-system/","dgPassFrontmatter":true,"created":"2021-12-11T16:51:55.565-03:00","updated":"2024-08-28T15:08:56.855-03:00"}
+{"aliases":["🌌 LOS","🌌 l1f3 operating system","l1f3 OS","🌌 l1f3 OS","🌌 life operating system","life OS","🌌 life OS","life operating system","L1F3 operating system"],"created in":"2021-12-11T16:51:55-03:00","last tended to":"2024-09-08T00:11:57-03:00","tags":["project","🌱","l1f3","alchemy","design"],"dg-publish":true,"permalink":"/004-l1-f3/l1f3-operating-system/","dgPassFrontmatter":true,"created":"2021-12-11T16:51:55.565-03:00","updated":"2024-09-08T00:11:57.335-03:00"}
 ---
 
 in the context of the [[models & frameworks/OODA loop\|OODA loop]], this system is mostly about [[observation\|observation]].
@@ -35,7 +35,7 @@ and building minimum viable prototypes as some answers are discovered.
 - [[personal operating systems\|personal operating systems]]
 	- [[worldviews\|worldviews]] / [[value;belief systems\|value;belief systems]]
 	- [[personal matrix\|personal matrix]] / [[distinctions\|distinctions]]
-	- [[_002_toolkit/classes/archetypes MoC\|archetypes MoC]] / [[archetypal lineage\|archetypal lineage]]
+	- [[_002_toolkit/classes/archetypes MOC\|archetypes MOC]] / [[archetypal lineage\|archetypal lineage]]
 	- [[cognitive biases\|cognitive biases]]
 	- [[topics/alchemy/mental models\|mental models]]
 	- [[nervous system\|nervous system]]

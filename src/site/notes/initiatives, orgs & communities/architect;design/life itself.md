@@ -1,14 +1,20 @@
 ---
-{"created in":"2024-06-17T21:59:49-03:00","last tended to":"2024-06-19T18:33:24-03:00","tags":["organization","community","🌱","alchemy","design"],"dg-publish":true,"permalink":"/initiatives-orgs-and-communities/architect-design/life-itself/","dgPassFrontmatter":true,"created":"2024-06-17T21:59:49.025-03:00","updated":"2024-09-05T12:35:46.315-03:00"}
+{"created in":"2024-06-17T21:59:49-03:00","last tended to":"2024-09-08T17:40:48-03:00","tags":["organization","community","🌱","alchemy","design","metamodernism","metacrisis"],"dg-publish":true,"permalink":"/initiatives-orgs-and-communities/architect-design/life-itself/","dgPassFrontmatter":true,"created":"2024-06-17T21:59:49.025-03:00","updated":"2024-09-08T17:44:03.478-03:00"}
 ---
 
 "We are pragmatic utopians, committed to practical action for a radically wiser, weller world. We create coliving hubs, start businesses, do research and engage in activism to pioneer a wiser culture. We are ordinary people who choose an extra-ordinary path, treading the middle way between [Plum Village](https://www.plumvillage.uk/) and Silicon Valley."
 
 https://lifeitself.us/
 
-###### resources i still wanna explore in more depth:
+##### favorite resources:
 
-research on:
+see: [[responses/design/second renaissance\|second renaissance]]
+
+https://lifeitself.org/blog/domains-maps-rafts
+
+##### resources i still wanna explore in more depth:
+
+their research on:
 
 Participatory approaches for cities - investigation - ongoing - https://github.com/cityinteractionlab/participatory_approaches
 Mapping an Emerging Ecosystem - guide - ongoing - https://lifeitself.org/ecosystem

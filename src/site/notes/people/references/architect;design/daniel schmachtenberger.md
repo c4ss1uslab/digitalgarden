@@ -1,23 +1,27 @@
 ---
-{"created in":"2022-03-11T14:11:43-03:00","last tended to":"2024-09-06T15:26:53-03:00","tags":["top3","person","metacrisis","alchemy","sensemaking","architect","research","🌱"],"relevancescore":98,"dg-publish":true,"permalink":"/people/references/architect-design/daniel-schmachtenberger/","dgPassFrontmatter":true,"created":"2022-03-11T14:11:43.148-03:00","updated":"2024-09-07T15:11:10.634-03:00"}
+{"created in":"2022-03-11T14:11:43-03:00","last tended to":"2024-09-07T15:11:10-03:00","tags":["top3","person","metacrisis","alchemy","sensemaking","architect","research","🌱"],"relevancescore":98,"dg-publish":true,"permalink":"/people/references/architect-design/daniel-schmachtenberger/","dgPassFrontmatter":true,"created":"2022-03-11T14:11:43.148-03:00","updated":"2024-09-07T21:28:27.247-03:00"}
 ---
+
+#### about
 
 personal website: https://civilizationemerging.com/
 
 daniel is one of the deepest, most thoughtful and relevant thinkers i know. he does an incredible job assessing the underlying dynamics of our [[human predicament\|human predicament]] - the [[concepts/metacrisis\|metacrisis]] - and pathways to avert [[concepts/existential risk\|existential]] & [[terms/catastrophic risk\|catastrophic risks]] of societal collapse and enable more beautiful ways forward.
 
-##### favorite resources
+---
+#### favorite resources
 
-i recommend starting out with my **[\[favorites\] - sensemaking](https://www.youtube.com/playlist?list=PLj8H7uBaUwDvd18QrEPugPMD5Z6Y0W-vB) playlist**, in which he's heavily featured.
+**playlist:** i recommend starting out with my [\[favorites\] - sensemaking](https://www.youtube.com/playlist?list=PLj8H7uBaUwDvd18QrEPugPMD5Z6Y0W-vB) playlist, in which he's heavily featured.
 
-**articles:** all of the articles (8) available on his site are amazing, although dense - https://civilizationemerging.com/articles/social/
+**articles:** all of the articles (8) available on [his website](https://civilizationemerging.com/articles/social/) are amazing, although dense. i recommend starting (counterintuitively) with the [New Economic Series: Part 4](https://civilizationemerging.com/new-economics-series-4/) for a big picture view of what he's about.
 
-**key terms:** [[topics/alchemy/sensemaking\|sensemaking]], [[strategy\|strategy]], [[concepts/commons crisis\|commons]], (...)
+**key terms:** [[systemic transition\|systemic transition]], [[concepts/wisdom\|wisdom]], [[concepts/commons crisis\|commons]], [[terms/design\|design]], [[topics/alchemy/sensemaking\|sensemaking]], [[strategy\|strategy]] (...)
 
 **glossary:** [[cultural materialism\|cultural materialism]], [[tragedy of the commons\|tragedy of the commons]], [[arms-race\|arms-race]] / [[race to the bottom\|race to the bottom]], [[topics/player/game theory\|game-theoretical]] [[incentives\|incentives]] & [[deterrents\|deterrents]], [[jevonn's paradox\|jevonn's paradox]], [[kleiber's law\|kleiber's law]], (...)
 
 **see also:** [[people/references/architect;design/stephen reid\|stephen reid]]'s [daniel schmachtenberger knowledgegraph](https://stephenreid.net/k/daniel)
 
+---
 ##### scrappy notes from the ["bend not break" 5-episode series](https://www.youtube.com/playlist?list=PLdc087VsWiC5YxTILWB68HaQyFl-Krtd7) on [[concepts/the great simplification\|the great simplification]] podcast
 
 1) **my attempt at highlighting/consolidating a frame on generator functions:**

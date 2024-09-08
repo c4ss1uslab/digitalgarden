@@ -1,5 +1,5 @@
 ---
-{"aliases":["🕹 l1f3 game","life game","🕹 life game","massively-multiplayer online-and-offline collaborative self-transformation & civilization-building game","L1F3.GAME","l1f3.game","🕹 L1F3.game","🕹 L1F3 game","🕹 L1F3.GAME","L1F3 game","L1F3.game"],"created in":"2022-02-05T11:41:05-03:00","last tended to":"2024-09-07T20:47:34-03:00","dg-publish":true,"tags":["l1f3","project","🌿","game","seriousgame","player"],"permalink":"/004-l1-f3/l1f3-game/","dgPassFrontmatter":true,"created":"2022-02-05T11:41:05.535-03:00","updated":"2024-09-07T20:47:34.106-03:00"}
+{"aliases":["🕹 l1f3 game","life game","🕹 life game","massively-multiplayer online-and-offline collaborative self-transformation & civilization-building game","L1F3.GAME","l1f3.game","🕹 L1F3.game","🕹 L1F3 game","🕹 L1F3.GAME","L1F3 game","L1F3.game"],"created in":"2022-02-05T11:41:05-03:00","last tended to":"2024-09-08T00:11:57-03:00","dg-publish":true,"tags":["l1f3","project","🌿","game","seriousgame","player"],"permalink":"/004-l1-f3/l1f3-game/","dgPassFrontmatter":true,"created":"2022-02-05T11:41:05.535-03:00","updated":"2024-09-08T00:11:57.135-03:00"}
 ---
 
 the l1f3 game is an ongoing endeavor to:
@@ -187,7 +187,7 @@ flow lives in between challenge and comfort.
 [[underworld conquering\|underworld conquering]]
 [[7 chakras\|7 chakras]]
 [[concepts/ego states\|ego states]]
-[[_002_toolkit/classes/archetypes MoC\|archetypes MoC]]
+[[_002_toolkit/classes/archetypes MOC\|archetypes MOC]]
 aligning with [[nature cycles\|nature cycles]]
 [[fasting\|fasting]]
 aprender, curar, servir, curtir
@@ -310,7 +310,7 @@ managing oneself (energy, time, parts, thoughts, emotions, actions)
 owning your shadows ([[concepts/underworld\|concepts/underworld]])
 [[7 chakras\|7 chakras]]
 managing [[concepts/ego states\|ego states]]
-accessing [[_002_toolkit/classes/archetypes MoC\|archetypes MoC]]
+accessing [[_002_toolkit/classes/archetypes MOC\|archetypes MOC]]
 aligning with [[nature cycles\|nature cycles]]
 [[proving oneself\|proving oneself]]
 [[discovering oneself\|discovering oneself]]

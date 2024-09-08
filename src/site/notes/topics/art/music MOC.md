@@ -1,5 +1,5 @@
 ---
-{"created in":"2021-12-11T16:52:02-03:00","last tended to":"2024-09-07T19:39:15-03:00","tags":["topic","art","music","🌱"],"dg-publish":true,"permalink":"/topics/art/music-moc/","dgPassFrontmatter":true,"created":"2021-12-11T16:52:02.160-03:00","updated":"2024-09-07T20:03:49.955-03:00"}
+{"created in":"2021-12-11T16:52:02-03:00","last tended to":"2024-09-07T20:03:49-03:00","tags":["topic","art","music","🌱"],"dg-publish":true,"permalink":"/topics/art/music-moc/","dgPassFrontmatter":true,"created":"2021-12-11T16:52:02.160-03:00","updated":"2024-09-08T00:10:21.656-03:00"}
 ---
 
 #### resources
@@ -8,15 +8,8 @@
 
 https://everynoise.com/ (technically a graph, but works like a map)
 https://musicmap.info/
-https://www.music-map.com/ (also a graph)
+https://music-map.com/ (also a graph)
 https://discoverquickly.com/ (linked to your spotify)
-
-##### music-making approaches
-
-[música do círculo's cooperative improvised body music-making]
-[bobby mcferrin's circlesongs]
-[rhiannon's vocal improvisation](https://www.youtube.com/watch?v=96t6t7BSrTA)
-[roger treece's circlesongs method]
 
 ##### curated collections
 
