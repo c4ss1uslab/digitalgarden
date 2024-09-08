@@ -1,5 +1,5 @@
 ---
-{"aliases":["⚙ LMS","⚙ l1f3 management system","l1f3 manager","⚙ l1f3 manager","life management system","⚙ life management system","life manager","⚙ life manager","L1F3 management system","⚙ L1F3 management system"],"created in":"2021-12-11T16:52:05-03:00","last tended to":"2024-08-28T15:09:06-03:00","tags":["project","🌿","l1f3","alchemy","design","lab"],"dg-publish":true,"permalink":"/004-l1-f3/l1f3-management-system/","dgPassFrontmatter":true,"created":"2021-12-11T16:52:05.970-03:00","updated":"2024-09-02T13:26:34.553-03:00"}
+{"aliases":["⚙ LMS","⚙ l1f3 management system","l1f3 manager","⚙ l1f3 manager","life management system","⚙ life management system","life manager","⚙ life manager","L1F3 management system","⚙ L1F3 management system"],"created in":"2021-12-11T16:52:05-03:00","last tended to":"2024-09-07T19:03:14-03:00","tags":["project","🌿","l1f3","alchemy","design","lab"],"dg-publish":true,"permalink":"/004-l1-f3/l1f3-management-system/","dgPassFrontmatter":true,"created":"2021-12-11T16:52:05.970-03:00","updated":"2024-09-07T19:04:07.960-03:00"}
 ---
 
 main archetype: [[_002_toolkit/classes/architect\|🕶 architect]]
@@ -101,7 +101,7 @@ categories of personal systems:
 - [[scripts\|scripts]]
 
 in:
-- [[topics/art/music\|music]]
+- [[topics/art/music MOC\|music MOC]]
 - [[terms/audio\|audio]]
 - [[interfaces\|interfaces]]
 - [[images\|images]]

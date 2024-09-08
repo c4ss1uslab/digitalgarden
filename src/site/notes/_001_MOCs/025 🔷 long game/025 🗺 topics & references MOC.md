@@ -1,5 +1,5 @@
 ---
-{"aliases":["topics","fields","fields of knowledge"],"created in":"2021-12-11T16:52:03-03:00","last tended to":"2024-07-19T22:07:25-03:00","dg-publish":true,"tags":["🌿"],"permalink":"/001-mo-cs/025-long-game/025-topics-and-references-moc/","dgPassFrontmatter":true,"created":"2021-12-11T16:52:03.339-03:00","updated":"2024-08-27T16:04:20.118-03:00"}
+{"aliases":["topics","fields","fields of knowledge"],"created in":"2021-12-11T16:52:03-03:00","last tended to":"2024-09-07T19:03:12-03:00","dg-publish":true,"tags":["🌿"],"permalink":"/001-mo-cs/025-long-game/025-topics-and-references-moc/","dgPassFrontmatter":true,"created":"2021-12-11T16:52:03.339-03:00","updated":"2024-09-07T20:47:32.594-03:00"}
 ---
 
 on the contents below, the emojis mean different things. here's their caption:
@@ -69,7 +69,7 @@ level of depth:
 🌿 [[concepts/life intelligence\|life intelligence]]
 	🧪 [[3rd brain workflow\|3rd brain workflow]]
 ##### 🌐 [[topics/architect;design/systems\|systems]]
-🌲 [[meta-systems\|meta-systems]] for [[topics/alchemy/sensemaking\|sensemaking]], [[topics/player/play\|play]], [[concepts/coordination\|coordination]] & [[terms/collaboration\|collaboration]]
+🌲 [[meta-systems\|meta-systems]] for [[topics/alchemy/sensemaking\|sensemaking]], [[topics/player/play\|play]], [[topics/architect;design/coordination systems\|coordination systems]] & [[terms/collaboration\|collaboration]]
 🌲 [[concepts/civilization design\|civilization design]]
 	[[concepts/network state\|network states]]
 	[[smart cities\|smart cities]] / [[smart villages\|smart villages]]
@@ -303,7 +303,7 @@ practice
 		- [[tbprocessed/base notes/topics/curation communities\|curation communities]]
 	- [[tbprocessed/base notes/topics/life gamification\|life gamification]]
 		- [[tbprocessed/base notes/topics/gamified communities\|gamified communities]]
-	- [[tbprocessed/base notes/concepts - general/art\|art]] / [[topics/art/music\|music]] / [[topics/player/play\|play]] / [[transformational experiences\|transformational experiences]]
+	- [[tbprocessed/base notes/concepts - general/art\|art]] / [[topics/art/music MOC\|music MOC]] / [[topics/player/play\|play]] / [[transformational experiences\|transformational experiences]]
 
 
 #### general topics:

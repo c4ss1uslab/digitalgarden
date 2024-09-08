@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-03-25T13:53:56-03:00","last tended to":"2024-09-02T14:47:23-03:00","tags":["🌿"],"aliases":["viable pathways","viable pathways zine","viable pathways book-zine","viable pathways book-zine mvp","book-zine"],"dg-publish":true,"permalink":"/003-research/00-viable-pathways-book-zine/","dgPassFrontmatter":true,"created":"2022-03-25T13:53:56.444-03:00","updated":"2024-09-02T14:59:47.882-03:00"}
+{"created in":"2022-03-25T13:53:56-03:00","last tended to":"2024-09-02T14:59:47-03:00","tags":["🌿"],"aliases":["viable pathways","viable pathways zine","viable pathways book-zine","viable pathways book-zine mvp","book-zine"],"dg-publish":true,"permalink":"/003-research/00-viable-pathways-book-zine/","dgPassFrontmatter":true,"created":"2022-03-25T13:53:56.444-03:00","updated":"2024-09-07T21:13:32.892-03:00"}
 ---
 
 #### ⚠ coming soon!
@@ -210,7 +210,7 @@ more on https://nadia.xyz/climate-tribes and https://medium.com/@brandon_29259/c
 ---
 this is a non-exhaustive list, as i know there are many other paths i haven't delved into, with different degrees of scientific/philosophical foundation, but it's not my intention to provide a full map/picture here and now. that'd ideally be something many people are engaged in building, as part of a [[modular\|modular]], [[open-source\|open-source]] [[_004_L1F3/l1f3 operating system\|_004_L1F3/l1f3 operating system]], built precisely to test and coordinate propositions such as that [[inquiries & heuristics/heuristics/every perspective is partial\|every perspective is partial]] at scale.
 
-by creating a decentralized aggregator of [[worldviews\|worldviews]] and [[practices\|practices]], we can democratize access to and support even more the practice of [[science\|science]], [[_006_core notes/design philosophy\|design philosophy]], [[topics/alchemy/spirituality\|spirituality]] and ultimately, [[concepts/wisdom\|wisdom]].
+by creating a decentralized aggregator of [[worldviews\|worldviews]] and [[practices\|practices]], we can democratize access to and support even more the practice of [[science\|science]], [[_006_core notes/design philosophies\|design philosophies]], [[topics/alchemy/spirituality\|spirituality]] and ultimately, [[concepts/wisdom\|wisdom]].
 
 
 popularity isn't necessarily a good filter.

@@ -41,7 +41,7 @@ i tell this story in more detail in [other places], so i won't go deep into it, 
 
 i was completely uninspired, sad, triggered and traumatized, and laying in my bed, i started watching some [[the voice\|the voice]] auditions from around the world.
 
-i found a few that i really liked and so followed the rabbit hole to discover the original artists. that way i found a few artists i really like up to today ([[maëlle\|maëlle]], [[references/art/artists/london grammar\|london grammar]], [[references/art/artists/daneliya tuleshova\|daneliya tuleshova]]). i also got recommended a channel called "[[in the woods\|in the woods]]", which curated "post-rock" music. i had no idea what it meant but it seemed like a cool concept, so i explored to find stuff that i really liked as well ([[references/art/artists/those who ride with giants\|those who ride with giants]], [[black hill\|black hill]]).
+i found a few that i really liked and so followed the rabbit hole to discover the original artists. that way i found a few artists i really like up to today ([[maëlle\|maëlle]], [[references/music/artists/london grammar\|london grammar]], [[references/music/artists/daneliya tuleshova\|daneliya tuleshova]]). i also got recommended a channel called "[[in the woods\|in the woods]]", which curated "post-rock" music. i had no idea what it meant but it seemed like a cool concept, so i explored to find stuff that i really liked as well ([[references/music/artists/those who ride with giants\|those who ride with giants]], [[black hill\|black hill]]).
 
 but the turning point was [[dimash\|dimash]]. a nature/nurture freak, with a 6-octave range (pretty much both "male" and "female" voices), incredible interpretation, emotion, technique, versatility, both classical & pop background, he's the whole package. someone with a crazy talent who had the support and love to keep honing it since he was 5.
 
@@ -51,11 +51,11 @@ i didn't know art/music could convey emotion, stories, in a level of truth that 
 
 this led me down this other rabbit hole - i started re-listening to lots of anime/game soundtracks i hadn't heard in ages. still love some of them[link]. that's where i recognized i really liked OSTs too. it's crazy how they can create an atmosphere, a mood that invites you to experience yourself more deeply and to paint it with your own feelings.
 
-and then two *major* things happened. 1) i discovered [[references/art/artists/dakhabrakha\|dakhabrakha]], and 2) i discovered [[brazilian nerdcore\|brazilian nerdcore]].
+and then two *major* things happened. 1) i discovered [[references/music/artists/dakhabrakha\|dakhabrakha]], and 2) i discovered [[brazilian nerdcore\|brazilian nerdcore]].
 
 ~ 2020 ~
 
-first, it was [[references/art/artists/dakhabrakha\|dakhabrakha]]. this was 2020. while listening to quite some indie/folk/traditional asian music, thanks to youtube again, i was recommended one of their live performances. it was instant love.
+first, it was [[references/music/artists/dakhabrakha\|dakhabrakha]]. this was 2020. while listening to quite some indie/folk/traditional asian music, thanks to youtube again, i was recommended one of their live performances. it was instant love.
 
 i had never heard of the term "[[world music\|world music]]" (though i was listening to some of it), and much less heard of it interpreted through the lens of ukrainian "ethno-chaos". a few of their songs may sound/look at first look like some common neo-folk with some quirks/drops of unexpectedness here and there that make it "fun", but if you listen to it, really, openly and attentively, especially their more unconventional songs, i'm convinced there's some ancestral, mushroomy alchemy there.
 
@@ -117,7 +117,7 @@ these songs me decide to start watching anime again, beginning with [[demon slay
 
 > the songs had this feeling of amateur production, that made it feel familiar, reachable, that perhaps in a few years i could make something like it for fun, but they still had some undeniable quality to them. more than it, they had a soul - they weren't captured by the traditional music industry/commercial purposes. the artists are making it because they enjoy it, first of all. (sure, there's algorithmic pressure, but let's save this discussion for some other time)
 
-i discovered i'm a big fan of this unique blend of epic/orchestral trap and rock/metal, and the evolution of [[references/art/artists/m4rkim\|m4rkim]]'s sound can be clearly seen if you compare these initial songs i mentioned to others like [castelo infinito](https://www.youtube.com/watch?v=kQtKTZn9tI0&list=PLnpPY4NV-19ybJLIjj-xxAWshw3abDJyG&index=9) (featuring great collabs), [hantengu](https://www.youtube.com/watch?v=Qs5xNmzXKfE&list=PLnpPY4NV-19ybJLIjj-xxAWshw3abDJyG&index=3), [crocodile](https://www.youtube.com/watch?v=iuj9Diz4MN8&list=PLnpPY4NV-19ybJLIjj-xxAWshw3abDJyG&index=4), [gilgamesh](https://www.youtube.com/playlist?list=PLnpPY4NV-19ybJLIjj-xxAWshw3abDJyG), [kenjaku](https://www.youtube.com/watch?v=DDv-6A-2iiQ&list=PLnpPY4NV-19ybJLIjj-xxAWshw3abDJyG&index=5).
+i discovered i'm a big fan of this unique blend of epic/orchestral trap and rock/metal, and the evolution of [[references/music/artists/m4rkim\|m4rkim]]'s sound can be clearly seen if you compare these initial songs i mentioned to others like [castelo infinito](https://www.youtube.com/watch?v=kQtKTZn9tI0&list=PLnpPY4NV-19ybJLIjj-xxAWshw3abDJyG&index=9) (featuring great collabs), [hantengu](https://www.youtube.com/watch?v=Qs5xNmzXKfE&list=PLnpPY4NV-19ybJLIjj-xxAWshw3abDJyG&index=3), [crocodile](https://www.youtube.com/watch?v=iuj9Diz4MN8&list=PLnpPY4NV-19ybJLIjj-xxAWshw3abDJyG&index=4), [gilgamesh](https://www.youtube.com/playlist?list=PLnpPY4NV-19ybJLIjj-xxAWshw3abDJyG), [kenjaku](https://www.youtube.com/watch?v=DDv-6A-2iiQ&list=PLnpPY4NV-19ybJLIjj-xxAWshw3abDJyG&index=5).
 
 everyone will have their personal preferences, and each artist in the scene has a few characteristics that i appreciate a lot.
 
@@ -139,7 +139,7 @@ when i listened to [[MHrap\|MHrap]], and saw how the tons of slangs he used made
 
 anime often tend to deal with very symbolic, philosophical themes as well. this made me recognize and inquiry deeper into: *what are the over-arching meta-narratives that are powerfully orienting, challenging and healing for me?*
 
-in that moment of incessant questioning - why is life worth living? - music showed me a few answers. [[dimash\|dimash]] showed me a mix of modern and "classical", polished beauty. [[references/art/artists/dakhabrakha\|dakhabrakha]] showed me unexpected, ancestral, raw beauty. [[brazilian nerdcore\|brazilian nerdcore]] showed me joy, brotherhood and authenticity.
+in that moment of incessant questioning - why is life worth living? - music showed me a few answers. [[dimash\|dimash]] showed me a mix of modern and "classical", polished beauty. [[references/music/artists/dakhabrakha\|dakhabrakha]] showed me unexpected, ancestral, raw beauty. [[brazilian nerdcore\|brazilian nerdcore]] showed me joy, brotherhood and authenticity.
 
 sure it's good to express yourself, feel heard/understood, but maintaining/developing connection, establishing threads of deepening intimacy (with yourself, others and the universe), that's what it's about.
 

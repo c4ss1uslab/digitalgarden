@@ -1,5 +1,5 @@
 ---
-{"aliases":["🕹 l1f3 game","life game","🕹 life game","massively-multiplayer online-and-offline collaborative self-transformation & civilization-building game","L1F3.GAME","l1f3.game","🕹 L1F3.game","🕹 L1F3 game","🕹 L1F3.GAME","L1F3 game","L1F3.game"],"created in":"2022-02-05T11:41:05-03:00","last tended to":"2024-09-02T11:58:08-03:00","dg-publish":true,"tags":["l1f3","project","🌿","game","seriousgame","player"],"permalink":"/004-l1-f3/l1f3-game/","dgPassFrontmatter":true,"created":"2022-02-05T11:41:05.535-03:00","updated":"2024-09-05T14:46:43.591-03:00"}
+{"aliases":["🕹 l1f3 game","life game","🕹 life game","massively-multiplayer online-and-offline collaborative self-transformation & civilization-building game","L1F3.GAME","l1f3.game","🕹 L1F3.game","🕹 L1F3 game","🕹 L1F3.GAME","L1F3 game","L1F3.game"],"created in":"2022-02-05T11:41:05-03:00","last tended to":"2024-09-07T20:47:34-03:00","dg-publish":true,"tags":["l1f3","project","🌿","game","seriousgame","player"],"permalink":"/004-l1-f3/l1f3-game/","dgPassFrontmatter":true,"created":"2022-02-05T11:41:05.535-03:00","updated":"2024-09-07T20:47:34.106-03:00"}
 ---
 
 the l1f3 game is an ongoing endeavor to:
@@ -28,7 +28,7 @@ ancient [[topics/alchemy/spiritual lineages\|wisdom traditions]] also do so by s
 
 [[regenerative designers\|regenerative designers]] (ana), [[cognitive scientists\|cognitive scientists]] -> [[relevance realization\|relevance realization]] and [[reciprocal narrowing\|reciprocal narrowing]]...
 
-i ([[tbprocessed/working on/[3Q; IC] - planning;communication/c4ss1us\|c4ss1us]]) might say: let's build systems to enable deeper levels of [[terms/collaboration\|collaboration]], [[concepts/coordination\|coordination]], [[terms/design\|design]] and [[concepts/self-transformation\|self-transformation]] in life!
+i ([[tbprocessed/working on/[3Q; IC] - planning;communication/c4ss1us\|c4ss1us]]) might say: let's build systems to enable deeper levels of [[terms/collaboration\|collaboration]], [[topics/architect;design/coordination systems\|coordination systems]], [[terms/design\|design]] and [[concepts/self-transformation\|self-transformation]] in life!
 
 many other philosophers, anthropologists, researchers, historians, educators, biologists, and people from all fields, backgrounds and journeys also have their valuable perspectives to add...
 

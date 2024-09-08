@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-07-30T21:38:54-03:00","last tended to":"2024-09-02T15:03:01-03:00","tags":["🌱"],"dg-publish":true,"permalink":"/003-research/05-core-references-and-resources/","dgPassFrontmatter":true,"created":"2022-07-30T21:38:54.771-03:00","updated":"2024-09-04T21:57:04.265-03:00"}
+{"created in":"2022-07-30T21:38:54-03:00","last tended to":"2024-09-07T20:29:11-03:00","tags":["🌱"],"dg-publish":true,"permalink":"/003-research/05-core-references-and-resources/","dgPassFrontmatter":true,"created":"2022-07-30T21:38:54.771-03:00","updated":"2024-09-07T21:13:33.037-03:00"}
 ---
 
 ```ad-warning
@@ -72,7 +72,7 @@ tools/orgs:
 > collective/collaborative databases
 > [Manifesto - Startupy](https://beta.startupy.world/manifesto/) - now?
 > [Hey heey, welcome to Startupy — Startupy Index](https://startupyworld.notion.site/Hey-heey-welcome-to-Startupy-60f9443ac8a0486dba3ef8fd93becae6) - now https://sublimeapp.notion.site/A-SUBLIME-INTERNET-b5453f44067e4e8c81f02716fc162cdc
-> [[projects & tools/tools/lab/trove\|trove]]
+> [[projects & tools/tools/lab/catalist network\|catalist network]]
 > 
 > topic navigation maps:
 > [Tom Critchlow's Topics Map](https://tomcritchlow.com/map/)
@@ -469,7 +469,7 @@ by topic:
 
 - [[topics/player/gaming\|gaming]] (9)
 
-- [[topics/art/music\|music]] (4)
+- [[topics/art/music MOC\|music MOC]] (4)
 
 - [[education\|education]] (9)
 
@@ -501,7 +501,7 @@ D - [[Additive Manufacturing\|Additive Manufacturing]]
 D.A - [[Laser Sintering and Fusion\|Laser Sintering and Fusion]]
 D.B - [[Fused Filament Fabrication\|Fused Filament Fabrication]]
 D.C - [[Stereolithography\|Stereolithography]]
-E - [[_006_core notes/design philosophy\|design philosophy]] & [[Ethics\|Ethics]]
+E - [[_006_core notes/design philosophies\|design philosophies]] & [[Ethics\|Ethics]]
 E.A - [[Bioethics\|Bioethics]]
 E.B - [[Moral Philosophy\|Moral Philosophy]]
 E.C - [[Ethics and AI\|Ethics and AI]]

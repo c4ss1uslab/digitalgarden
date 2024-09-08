@@ -4,7 +4,7 @@
 
 https://www.francismiller.com/
 
-everything he's published on his website is amazing, very detailed. fantastic if you're thinking deeply about [[topics/lab/information design\|information design]]/[[knowledge design\|knowledge design]]/[[responses/lab/knowledge visualization\|knowledge visualization]] - https://www.francismiller.com/articles/
+everything he's published on his website is amazing, very detailed. fantastic if you're thinking deeply about [[topics/lab/information design\|information design]]/[[knowledge design\|knowledge design]]/[[topics/lab/knowledge visualization\|knowledge visualization]] - https://www.francismiller.com/articles/
 
 for a lighter intro, see: https://www.francismiller.com/introduction/
 

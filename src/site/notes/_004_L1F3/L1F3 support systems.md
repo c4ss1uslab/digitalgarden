@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-08-23T20:38:47-03:00","last tended to":"2024-09-05T14:46:30-03:00","tags":["l1f3","project","🌿"],"dg-publish":true,"relevancescore":99,"permalink":"/004-l1-f3/l1-f3-support-systems/","dgPassFrontmatter":true,"created":"2024-08-23T20:38:47.282-03:00","updated":"2024-09-05T14:46:30.133-03:00"}
+{"created in":"2024-08-23T20:38:47-03:00","last tended to":"2024-09-07T15:11:25-03:00","tags":["l1f3","project","🌿"],"dg-publish":true,"relevancescore":97,"permalink":"/004-l1-f3/l1-f3-support-systems/","dgPassFrontmatter":true,"created":"2024-08-23T20:38:47.282-03:00","updated":"2024-09-07T21:17:59.017-03:00"}
 ---
 
 ### definition

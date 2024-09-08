@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-10-31T20:24:29-03:00","last tended to":"2024-09-02T14:45:08-03:00","dg-publish":true,"aliases":["💭 foundational concepts for knowledge commons"],"permalink":"/core-essays/foundational-concepts-for-developing-regenerative-information-ecologies-and-empowering-knowledge-commons/","dgPassFrontmatter":true,"created":"2023-10-31T20:24:29.951-03:00","updated":"2024-09-02T15:01:11.371-03:00"}
+{"created in":"2023-10-31T20:24:29-03:00","last tended to":"2024-09-07T20:47:35-03:00","dg-publish":true,"aliases":["💭 foundational concepts for knowledge commons"],"permalink":"/core-essays/foundational-concepts-for-developing-regenerative-information-ecologies-and-empowering-knowledge-commons/","dgPassFrontmatter":true,"created":"2023-10-31T20:24:29.951-03:00","updated":"2024-09-07T20:47:35.237-03:00"}
 ---
 
 draft link: https://medium.com/@cassiuscarvalho/foundational-concepts-for-developing-regenerative-information-ecologies-empowering-knowledge-d427b1dc2cb3
@@ -34,7 +34,7 @@ if you’re interested in further simplifying this and/or transforming into visu
 
 > assumed audience: you’re familiar with domains/terms such as regeneration, self-development and the online media landscape, or at least you can infer how/why they’re relevant to our lives. you care about transforming yourself and making society a better place.
 
-before i jumping into the main subjects of this article  —  [[information ecology\|information ecology]] and [[knowledge commons\|knowledge commons]]  —  i want to share with you a bit about my background, worldview and where i'm oriented towards, so you know some of my biases and where this research is coming from.
+before i jumping into the main subjects of this article  —  [[information ecology\|information ecology]] and [[topics/architect;design/knowledge commons\|knowledge commons]]  —  i want to share with you a bit about my background, worldview and where i'm oriented towards, so you know some of my biases and where this research is coming from.
 
 hopefully this can support you to do your own [[topics/alchemy/sensemaking\|sensemaking]] on the subjects i'm sharing here.
 
@@ -326,7 +326,7 @@ but this is still an underdeveloped topic, with lots of potential for creation/i
 
 #### 4) personal systems design
 
-[[projects & tools/projects/lab/subconscious (tool)\|subconscious (tool)]] & tools for [[concepts/coordination\|coordination]], [[terms/collaboration\|collaboration]], etc...
+[[projects & tools/projects/lab/subconscious (tool)\|subconscious (tool)]] & tools for [[topics/architect;design/coordination systems\|coordination systems]], [[terms/collaboration\|collaboration]], etc...
 
 
 <!--![[KM capture, organize, synthesize loop.jpg\|KM capture, organize, synthesize loop.jpg]]-->

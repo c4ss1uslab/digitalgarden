@@ -1,5 +1,5 @@
 ---
-{"aliases":["🗺 meta-map","wordcloud","🗾 meta-map"],"created in":"2022-01-03T19:16:10-03:00","last tended to":"2024-09-05T14:46:29-03:00","tags":["design","🌿","research","knowledgedesign","informationdesign","experiment"],"dg-publish":true,"permalink":"/002-toolkit/meta-map/","dgPassFrontmatter":true,"created":"2022-01-03T19:16:10.550-03:00","updated":"2024-09-05T14:46:29.365-03:00"}
+{"aliases":["🗺 meta-map","wordcloud","🗾 meta-map"],"created in":"2022-01-03T19:16:10-03:00","last tended to":"2024-09-07T20:47:33-03:00","tags":["design","🌿","research","knowledgedesign","informationdesign","experiment"],"dg-publish":true,"permalink":"/002-toolkit/meta-map/","dgPassFrontmatter":true,"created":"2022-01-03T19:16:10.550-03:00","updated":"2024-09-07T21:13:32.435-03:00"}
 ---
 
 an extensive list / experimental form of intuitive clustering of all major themes/domains and references i'm working with.
@@ -20,7 +20,7 @@ collapse:
 added:
 1.a) meta-map can also be referred to as [[wordcloud]] - a simpler way to describe, visualize and navigate it.
 1.b) [[strategy\|strategy]] strongly related to [[business intelligence\|business intelligence]], [[research institutes\|research institutes]] and [[design agencies\|design agencies]].
-1.c) [[intelligence\|intelligence]], [[concepts/coordination\|coordination]], [[terms/collaboration\|collaboration]], [[cooperation\|cooperation]] as a new "bubble".
+1.c) [[intelligence\|intelligence]], [[coordination]], [[terms/collaboration\|collaboration]], [[cooperation\|cooperation]] as a new "bubble".
 ```
 
 ---
@@ -55,7 +55,7 @@ added:
 
 [[concepts/self-augmentation\|self-augmentation]]
 
-[[tbprocessed/base notes/concepts - general/curation\|online curation]] / [[knowledge commons\|knowledge commons]]
+[[tbprocessed/base notes/concepts - general/curation\|online curation]] / [[topics/architect;design/knowledge commons\|knowledge commons]]
 
 [[topics/player/cooperative games\|cooperative]] / [[coopetitive games\|coopetitive games]]
 
@@ -120,13 +120,13 @@ multidimensional resources management
 
 [[concepts/gameworld building\|gameworld building]]
 
-[[_006_core notes/design philosophy\|design philosophy]]
+[[_006_core notes/design philosophies\|design philosophies]]
 
 [[aesthetics\|aesthetics]]
 
 [[topics/player/game design\|game design]]
 
-[[topics/art/music\|music]]
+[[topics/art/music MOC\|music MOC]]
 
 [[improvisation\|improvisation]]
 
@@ -200,7 +200,7 @@ multidimensional resources management
 
 [[responses/lab/dashboards\|dashboards]]
 [[interfaces\|interfaces]]
-[[topics/lab/interactive data visualization\|interactive data visualization]]
+[[topics/lab/interactive visualizations\|interactive visualizations]]
 [[interface design\|interface design]]
 [[experience design\|experience design]]
 [[topics/lab/UI design\|UI design]]
@@ -324,7 +324,7 @@ multidimensional resources management
 [[concepts/time\|time]]
 [[attention\|attention]]
 
-[[concepts/coordination\|coordination]]
+[[topics/architect;design/coordination systems\|coordination systems]]
 
 [[topics/lab/visual programming\|visual programming]]
 [[topics/lab/artificial intelligence\|artificial intelligence]] [[topics/lab/programming\|programming]]
@@ -375,7 +375,7 @@ multidimensional resources management
 [[topics/player/gamification\|gamification]]
 
 [[topics/architect;design/media\|media]]
-[[topics/art/music\|music]]
+[[topics/art/music MOC\|music MOC]]
 [[videos\|videos]]
 [[terms/articles\|articles]]
 [[posts\|posts]]
@@ -439,7 +439,7 @@ multidimensional resources management
 [[effective collaboration\|effective collaboration]]
 
 [[intelligence]]
-[[concepts/coordination\|coordination]]
+[[topics/architect;design/coordination systems\|coordination systems]]
 [[terms/collaboration\|collaboration]]
 [[cooperation]]
 
@@ -450,7 +450,7 @@ multidimensional resources management
 [[social technologies\|social technologies]]
 [[terms/culture\|culture]]
 
-[[coordination]]
+[[topics/architect;design/coordination systems\|coordination systems]]
 [[scaling coordination\|scaling coordination]]
 [[resources management\|resources management]]
 

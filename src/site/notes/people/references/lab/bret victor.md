@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-05-29T14:27:52-03:00","last tended to":"2024-08-22T14:10:41-03:00","tags":["interfacedesign","experiencedesign","lab","person","tier1","visuallearning","spatialsoftware","interactiondesign","🌿"],"dg-publish":true,"relevancescore":92,"permalink":"/people/references/lab/bret-victor/","dgPassFrontmatter":true,"created":"2024-05-29T14:27:52.255-03:00","updated":"2024-08-23T20:33:04.016-03:00"}
+{"created in":"2024-05-29T14:27:52-03:00","last tended to":"2024-09-07T20:47:35-03:00","tags":["interfacedesign","experiencedesign","lab","person","tier1","visuallearning","spatialsoftware","interactiondesign","🌿"],"dg-publish":true,"relevancescore":92,"permalink":"/people/references/lab/bret-victor/","dgPassFrontmatter":true,"created":"2024-05-29T14:27:52.255-03:00","updated":"2024-09-07T20:47:35.415-03:00"}
 ---
 
 https://worrydream.com/
@@ -8,7 +8,7 @@ https://worrydream.com/
 
 researcher on the [[topics/lab/the future of computing\|the future of computing]], [[topics/lab/spatial computing\|spatial computing]], [[concepts/extended cognition\|extended cognition]] and more. founder of [[projects & tools/tools/lab/dynamicland\|dynamicland]].
 
-his main thesis reflects a frustration i held for a long time, but wasn't able to articulate: we invented the [[dynamic medium\|dynamic medium]] (you could interpret it as "[[computing\|computing]]", but see the references below for way more detail) and we still don't use it to 10% of its potential.
+his main thesis reflects a frustration i held for a long time, but wasn't able to articulate: we invented the [[dynamic medium\|dynamic medium]] (you could interpret it as "[[topics/lab/computing\|computing]]", but see the references below for way more detail) and we still don't use it to 10% of its potential.
 
 #### references:
 
@@ -56,7 +56,7 @@ it presents a few of the kinds of technical transformations/innovations/initiati
 > they're both short, i recommend you read the full article, but you can skip to these to get why they're so important.
 > 
 > on 1:
-> he introduces important concepts i'll return to often when discussing [[concepts/coordination\|coordination]], [[terms/collaboration\|collaboration]], [[topics/alchemy/sensemaking\|sensemaking]]: [[model-driven debate\|model-driven debate]], [[model-driven reading\|model-driven reading]], [[model-driven authoring\|model-driven authoring]].
+> he introduces important concepts i'll return to often when discussing [[topics/architect;design/coordination systems\|coordination systems]], [[terms/collaboration\|collaboration]], [[topics/alchemy/sensemaking\|sensemaking]]: [[model-driven debate\|model-driven debate]], [[model-driven reading\|model-driven reading]], [[model-driven authoring\|model-driven authoring]].
 > 
 > these can be seen/experienced in his own [[ten brighter ideas\|ten brighter ideas]], [[initiatives, orgs & communities/architect;design/the society library\|the society library]]'s debate maps, and more.
 > 

@@ -6,7 +6,7 @@
 ![](https://i.imgur.com/eCPfDgm.png)
 
 
-this is a playful, very low-fidelity artsy [[responses/lab/knowledge visualization\|knowledge visualization]] experiment - i wanted to visualize what the topology of my [[_000_digital garden/c4ss1us' garden\|digital garden]] sort of looked like.
+this is a playful, very low-fidelity artsy [[topics/lab/knowledge visualization\|knowledge visualization]] experiment - i wanted to visualize what the topology of my [[_000_digital garden/c4ss1us' garden\|digital garden]] sort of looked like.
 
 inspired by:
 https://tomcritchlow.com/map/
