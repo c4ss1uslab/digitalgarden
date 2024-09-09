@@ -1,5 +1,5 @@
 ---
-{"aliases":[".dgarden","🌲 digital garden","idea garden","🌱 idea garden","c4ss1us.dgarden","🌲 c4ss1us.dgarden","digital garden","home","knowledge garden"],"created in":"2023-07-27T15:44:39-03:00","last tended to":"2024-09-05T14:46:27-03:00","dg-publish":true,"dg-home":true,"permalink":"/000-digital-garden/c4ss1us-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2021-12-11T16:51:50.661-03:00","updated":"2024-09-08T16:55:38.170-03:00"}
+{"aliases":[".dgarden","🌲 digital garden","idea garden","🌱 idea garden","c4ss1us.dgarden","🌲 c4ss1us.dgarden","digital garden","home","knowledge garden"],"created in":"2023-07-27T15:44:39-03:00","last tended to":"2024-09-08T16:55:38-03:00","dg-publish":true,"dg-home":true,"permalink":"/000-digital-garden/c4ss1us-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2021-12-11T16:51:50.661-03:00","updated":"2024-09-09T16:17:47.402-03:00"}
 ---
 
 ## hello! welcome to my digital garden! 🌷
@@ -63,8 +63,14 @@ read more about the research themes/inquiries or jump straight to the core essay
 > 
 > *a sacred game is not any kind of game.* it's one that's deeply *fun, collaborative, challenging, meaningful* and *fulfilling*.
 > a game that honors the beauty and mystery of life, that challenges and supports us to flourish - to discover ourselves, unfold our potentials and share our gifts with others.
+>
+>some people have a resistance with the [[concepts/game\|game]] frame because of its often seen competitive, game-theoretical win-lose dynamics. i share that hesitation, in the normal sense of the term. that's why the concept of game i'm using here is closer to the [[concepts/infinite games\|infinite game]] and [[omni-win dynamics\|omni-win dynamics]] observed by thinkers such as [[projects & tools/projects/player/world game\|buckminster fuller in the world game]] and communities such as [[models & frameworks/fourgames\|fourgames]], [[initiatives, orgs & communities/architect;design/metagame.wtf\|metagame.wtf]] and [[projects & tools/projects/player/startover.xyz\|startover.xyz]].
+>
+> **why not just "play" then?**
 > 
-> an inquiry into how we can:
+> because games introduce the distinction of [[concepts/serious play\|serious play]]. a game can be a container in which you feel like you truly "gave it your best" - it may be an epic journey in which you thrive and learn/gather feedback from that - or you can also fail miserably and learn a bunch of other lessons from that. it provides a context for a profound, immediate, experiential form of learning, since you have a very tight application of the [[models & frameworks/OODA loop\|OODA loop]].
+> 
+> this is therefore an inquiry into how we can:
 > 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/004-l1-f3/l1f3-game/#cff951" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -78,12 +84,7 @@ read more about the research themes/inquiries or jump straight to the core essay
 > 
 > (see more at: [[_004_L1F3/l1f3 game\|l1f3 game]])
 > 
-> some people have a resistance with the [[concepts/game\|game]] frame because of its often seen competitive, game-theoretical win-lose dynamics. i share that hesitation, in the normal sense of the term. that's why the concept of game i'm using here is closer to the [[concepts/infinite games\|infinite game]] and [[omni-win dynamics\|omni-win dynamics]] observed by thinkers such as [[projects & tools/projects/player/world game\|buckminster fuller in the world game]] and communities such as [[models & frameworks/fourgames\|fourgames]], [[initiatives, orgs & communities/architect;design/metagame.wtf\|metagame.wtf]] and [[projects & tools/projects/player/startover.xyz\|startover.xyz]].
-> 
-> games activate our sense of [[concepts/serious play\|serious play]]. you can create a container in which you truly feel like you "gave it your best" (and it may be an epic journey in which you thrive - and learn/gather feedback from that), or you can also fail miserably and learn a bunch of other lessons from that. it provides a context for a profound, experiential form of learning, since you have a very tight form of the [[models & frameworks/OODA loop\|OODA loop]].
-> 
 > you can read a lot more about the motivations, background and philosophical basis of this research on my [[_003_research/00 - viable pathways book-zine\|viable pathways book-zine]] (coming soon).
->
 
 ##### core essays
 
@@ -146,11 +147,11 @@ i intend to fix this soon, but in the meantime, while i'm also building the [[_0
 | [[people/references/lab/devine lu linvega\|devine lu linvega]]                                                        | 94             | people/references/lab                            |
 | [[responses/lab/mapping\|mapping]]                                                                                    | 94             | responses/lab                                    |
 | [[responses/regen/regenerative design\|regenerative design]]                                                          | 94             | responses/regen                                  |
+| [[topics/architect;design/knowledge commons\|knowledge commons]]                                                      | 94             | topics/architect;design                          |
 | [[topics/architect;design/lifestyles\|lifestyles]]                                                                    | 94             | topics/architect;design                          |
 | [[topics/architect;design/personal algorithms design\|personal algorithms design]]                                    | 94             | topics/architect;design                          |
 | [[topics/architect;design/semantic web\|semantic web]]                                                                | 94             | topics/architect;design                          |
 | [[topics/architect;design/tools for thought\|tools for thought]]                                                      | 94             | topics/architect;design                          |
-| [[topics/architect;design/knowledge commons\|knowledge commons]]                                                      | 94             | topics/architect;design                          |
 | [[topics/lab/information design\|information design]]                                                                 | 94             | topics/lab                                       |
 | [[topics/lab/interactive visualizations\|interactive visualizations]]                                                 | 94             | topics/lab                                       |
 | [[topics/lab/knowledge management\|knowledge management]]                                                             | 94             | topics/lab                                       |
@@ -175,14 +176,14 @@ i intend to fix this soon, but in the meantime, while i'm also building the [[_0
 | [[topics/lab/knowledge graphs\|knowledge graphs]]                                                                     | 88             | topics/lab                                       |
 | [[projects & tools/projects/lab/codexOS\|codexOS]]                                                                    | 87             | projects & tools/projects/lab                    |
 | [[models & frameworks/wardley mapping\|wardley mapping]]                                                              | 86             | models & frameworks                              |
-| [[projects & tools/projects/design/scaling synthesis\|scaling synthesis]]                                             | 86             | projects & tools/projects/design                 |
-| [[projects & tools/projects/design/mercuryOS\|mercuryOS]]                                                             | 86             | projects & tools/projects/design                 |
-| [[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social (ex-tweetscape)]]                        | 86             | projects & tools/projects/lab                    |
 | [[projects & tools/tools/lab/hive.one\|hive.one]]                                                                     | 86             | projects & tools/tools/lab                       |
+| [[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social (ex-tweetscape)]]                        | 86             | projects & tools/projects/lab                    |
+| [[projects & tools/projects/design/mercuryOS\|mercuryOS]]                                                             | 86             | projects & tools/projects/design                 |
+| [[projects & tools/projects/design/scaling synthesis\|scaling synthesis]]                                             | 86             | projects & tools/projects/design                 |
 | [[topics/lab/recommender systems\|recommender systems]]                                                               | 86             | topics/lab                                       |
 | [[projects & tools/projects/design/xanadu\|xanadu]]                                                                   | 84             | projects & tools/projects/design                 |
-| [[projects & tools/projects/lab/interneto\|interneto]]                                                                | 82             | projects & tools/projects/lab                    |
 | [[projects & tools/tools/lab/catalist network\|catalist network]]                                                     | 82             | projects & tools/tools/lab                       |
+| [[projects & tools/projects/lab/interneto\|interneto]]                                                                | 82             | projects & tools/projects/lab                    |
 | [[initiatives, orgs & communities/architect;design/emergence magazine\|emergence magazine]]                           | 81             | initiatives, orgs & communities/architect;design |
 | [[initiatives, orgs & communities/alchemy/possibility management\|possibility management]]                            | 80             | initiatives, orgs & communities/alchemy          |
 | [[projects & tools/tools/design/hylo\|hylo]]                                                                          | 80             | projects & tools/tools/design                    |

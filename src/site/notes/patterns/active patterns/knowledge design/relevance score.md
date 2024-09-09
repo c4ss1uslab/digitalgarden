@@ -62,11 +62,11 @@ i intend to fix this soon, but in the meantime, while i'm also building the [[_0
 | [[people/references/lab/devine lu linvega\|devine lu linvega]]                                                        | 94             | people/references/lab                            |
 | [[responses/lab/mapping\|mapping]]                                                                                    | 94             | responses/lab                                    |
 | [[responses/regen/regenerative design\|regenerative design]]                                                          | 94             | responses/regen                                  |
+| [[topics/architect;design/knowledge commons\|knowledge commons]]                                                      | 94             | topics/architect;design                          |
 | [[topics/architect;design/lifestyles\|lifestyles]]                                                                    | 94             | topics/architect;design                          |
 | [[topics/architect;design/personal algorithms design\|personal algorithms design]]                                    | 94             | topics/architect;design                          |
 | [[topics/architect;design/semantic web\|semantic web]]                                                                | 94             | topics/architect;design                          |
 | [[topics/architect;design/tools for thought\|tools for thought]]                                                      | 94             | topics/architect;design                          |
-| [[topics/architect;design/knowledge commons\|knowledge commons]]                                                      | 94             | topics/architect;design                          |
 | [[topics/lab/information design\|information design]]                                                                 | 94             | topics/lab                                       |
 | [[topics/lab/interactive visualizations\|interactive visualizations]]                                                 | 94             | topics/lab                                       |
 | [[topics/lab/knowledge management\|knowledge management]]                                                             | 94             | topics/lab                                       |
@@ -91,14 +91,14 @@ i intend to fix this soon, but in the meantime, while i'm also building the [[_0
 | [[topics/lab/knowledge graphs\|knowledge graphs]]                                                                     | 88             | topics/lab                                       |
 | [[projects & tools/projects/lab/codexOS\|codexOS]]                                                                    | 87             | projects & tools/projects/lab                    |
 | [[models & frameworks/wardley mapping\|wardley mapping]]                                                              | 86             | models & frameworks                              |
-| [[projects & tools/projects/design/scaling synthesis\|scaling synthesis]]                                             | 86             | projects & tools/projects/design                 |
-| [[projects & tools/projects/design/mercuryOS\|mercuryOS]]                                                             | 86             | projects & tools/projects/design                 |
-| [[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social (ex-tweetscape)]]                        | 86             | projects & tools/projects/lab                    |
 | [[projects & tools/tools/lab/hive.one\|hive.one]]                                                                     | 86             | projects & tools/tools/lab                       |
+| [[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social (ex-tweetscape)]]                        | 86             | projects & tools/projects/lab                    |
+| [[projects & tools/projects/design/mercuryOS\|mercuryOS]]                                                             | 86             | projects & tools/projects/design                 |
+| [[projects & tools/projects/design/scaling synthesis\|scaling synthesis]]                                             | 86             | projects & tools/projects/design                 |
 | [[topics/lab/recommender systems\|recommender systems]]                                                               | 86             | topics/lab                                       |
 | [[projects & tools/projects/design/xanadu\|xanadu]]                                                                   | 84             | projects & tools/projects/design                 |
-| [[projects & tools/projects/lab/interneto\|interneto]]                                                                | 82             | projects & tools/projects/lab                    |
 | [[projects & tools/tools/lab/catalist network\|catalist network]]                                                     | 82             | projects & tools/tools/lab                       |
+| [[projects & tools/projects/lab/interneto\|interneto]]                                                                | 82             | projects & tools/projects/lab                    |
 | [[initiatives, orgs & communities/architect;design/emergence magazine\|emergence magazine]]                           | 81             | initiatives, orgs & communities/architect;design |
 | [[initiatives, orgs & communities/alchemy/possibility management\|possibility management]]                            | 80             | initiatives, orgs & communities/alchemy          |
 | [[projects & tools/tools/design/hylo\|hylo]]                                                                          | 80             | projects & tools/tools/design                    |
