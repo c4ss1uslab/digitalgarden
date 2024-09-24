@@ -6,7 +6,7 @@ https://worrydream.com/
 { #ae2304}
 
 
-researcher on the [[topics/lab/the future of computing\|the future of computing]], [[topics/lab/spatial computing\|spatial computing]], [[concepts/extended cognition\|extended cognition]] and more. founder of [[projects & tools/tools/lab/dynamicland\|dynamicland]].
+researcher on the [[topics/lab/the future of computing\|the future of computing]], [[topics/lab/spatial computing\|spatial computing]], [[concepts/design/extended cognition\|extended cognition]] and more. founder of [[projects & tools/tools/lab/dynamicland\|dynamicland]].
 
 his main thesis reflects a frustration i held for a long time, but wasn't able to articulate: we invented the [[dynamic medium\|dynamic medium]] (you could interpret it as "[[topics/lab/computing\|computing]]", but see the references below for way more detail) and we still don't use it to 10% of its potential.
 
@@ -27,7 +27,7 @@ in it, he presents very simply and clearly his [[theory of change\|theory of cha
 > Intention:
 > Use the dynamic medium to reinvent the representations of thought. Invent a way of thinking — imagining, understanding, creating, explaining — via dynamic representations that engage all modes of thought and respect the whole human being.
 
-\+ more details, illustrations and his plan for application on [[projects & tools/tools/lab/dynamicland\|dynamicland]]. it's very similar to the vision i was prototyping with the [[24h system\|24h system]] at [[high stakes academy\|high stakes academy]] back in 2019, minus the [[concepts/life management\|life management]] aspect of it.
+\+ more details, illustrations and his plan for application on [[projects & tools/tools/lab/dynamicland\|dynamicland]]. it's very similar to the vision i was prototyping with the [[projects & tools/projects/design/24h system\|24h system]] at [[high stakes academy\|high stakes academy]] back in 2019, minus the [[concepts/design/life management\|life management]] aspect of it.
 
  2) [stop drawing dead fish](https://vimeo.com/64895205) - exploring/introducing a few "[[unique affordances of the computational medium\|unique affordances of the computational medium]]"
 
@@ -67,7 +67,7 @@ it presents a few of the kinds of technical transformations/innovations/initiati
 
 especially important considering his shift from focusing on our standard [[2d interfaces\|2d interfaces]] of modern computing to other forms of [[topics/player/spatial intelligence\|spatial intelligence]] and [[topics/lab/spatial computing\|spatial computing]].
 
-###### 4) [[concepts/learnable programming\|learnable programming]]
+###### 4) [[concepts/lab/learnable programming\|learnable programming]]
 
 a new perspective on what programming should actually be/feel/look like. simply stated - humane, interpretable, intuitive. a practical vision (with examples/prototypes) that deeply resonates.
 

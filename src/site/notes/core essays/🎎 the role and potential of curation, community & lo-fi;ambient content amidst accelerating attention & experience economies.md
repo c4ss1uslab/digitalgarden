@@ -45,7 +45,7 @@ my curation can be of the utmost value if:
 
 in my writing, i can share/clearly state the insights/learnings i gathered by inhabiting these diverse archetypes/domains of knowledge.
 
-e.g.: present my [[models & frameworks/CEP+N\|CEP+N]] at each article.
+e.g.: present my [[models & frameworks/host/CEP+N\|CEP+N]] at each article.
 -> design nerds: daniel, rieki, vassão, etc
 -> builder nerds: sephist, dgardens, etc
 -> art: fablab, mdc, domestika, rap geek...
@@ -63,7 +63,7 @@ in 2023, my life has been pretty much the opposite. going to ecovillages, farms,
 
 in this article, i aim to share my findings, curation and perspectives on the [[future of communities\|future of communities]] and the [[internet\|internet]] - and subjacent themes, such as the [[terms/metaverse\|metaverse]], [[responses/design/trust networks\|trust networks]] and a lot more.
 
-i bring special attention to **[[intentional online communities\|intentional online communities]]** and **[[concepts/third spaces\|third spaces]]** as cultural [[attractors\|attractors]]. they're places that can feel more like home than at home or at work.
+i bring special attention to **[[intentional online communities\|intentional online communities]]** and **[[concepts/design/third spaces\|third spaces]]** as cultural [[attractors\|attractors]]. they're places that can feel more like home than at home or at work.
 
 and how all of this is deeply related to the realizations i had about[[energy management\|energy management]] during this time in isolation.
 
@@ -187,6 +187,6 @@ ultimately, [[sari\|sari]] captures it well here:
 </div></div>
 
 
-for an even deeper understanding, beyond [[distributed cognition\|distributed cognition]], we can also have [[concepts/augmented intelligence\|augmented intelligence]] with [[topics/lab/AI agents\|AI agents]], [[visualizations\|visualizations]], and more.
+for an even deeper understanding, beyond [[distributed cognition\|distributed cognition]], we can also have [[concepts/design/augmented intelligence\|augmented intelligence]] with [[topics/lab/AI agents\|AI agents]], [[visualizations\|visualizations]], and more.
 
 [moving castles](https://trust.support/feed/moving-castles) is a pioneer work on this field, [[people/acquaintances/moritz bierling\|people/acquaintances/moritz bierling]] also shares [a rich conceptual understanding of the space](https://twitter.com/bierlingm/status/1274362866750160896), which influenced my own understanding and experimentation with [[secondary minds\|secondary minds]].

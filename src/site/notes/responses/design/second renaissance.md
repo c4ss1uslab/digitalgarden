@@ -35,15 +35,15 @@ how can we facilitate a graceful descent? and could that descent still really be
 
 maybe yes. a material descent/complete makeover and a spiritual/regenerative renaissance?
 
-it deeply resonates. a renaissance full of meaning, flourishing, revival, regeneration. widespread more conscious, challenging, yet nourishing lifestyles and ways of being. [[metamodern arts\|metamodern arts]], [[topics/alchemy/indigenous wisdom\|indigenous wisdom]], [[topics/architect;design/systems science\|systems]] and [[concepts/interior sciences\|interior sciences]] show viable ways forward. [[initiatives, orgs & communities/architect;design/life itself\|life itself]] and my own efforts in mapping emergent initiatives/ecosystems also do.
+it deeply resonates. a renaissance full of meaning, flourishing, revival, regeneration. widespread more conscious, challenging, yet nourishing lifestyles and ways of being. [[metamodern arts\|metamodern arts]], [[topics/alchemy/indigenous wisdom\|indigenous wisdom]], [[topics/architect;design/systems science\|systems]] and [[concepts/alchemy/interior sciences\|interior sciences]] show viable ways forward. [[initiatives, orgs & communities/architect;design/life itself\|life itself]] and my own efforts in mapping emergent initiatives/ecosystems also do.
 
 hopefully we're able to mature quickly and powerfully enough to facilitate this transition gracefully.
 
 *why i'm a somewhat worried:*
 
-if we look at the actual hard data and the systems at the base of our modern civilizations, the major drivers of the [[concepts/metacrisis\|metacrisis]] are there  underlying dynamics of [[exponentialization of existential and catastrophic risks\|exponentialization of existential and catastrophic risks]] and [[topics/architect;design/systems\|systems]]/[[behaviors\|behaviors]] that are increasingly exploitative, wealth-concentrating and [[debasing our ecological substrate\|debasing our ecological substrate]].
+if we look at the actual hard data and the systems at the base of our modern civilizations, the major drivers of the [[concepts/design/metacrisis\|metacrisis]] are there  underlying dynamics of [[exponentialization of existential and catastrophic risks\|exponentialization of existential and catastrophic risks]] and [[topics/architect;design/systems\|systems]]/[[behaviors\|behaviors]] that are increasingly exploitative, wealth-concentrating and [[debasing our ecological substrate\|debasing our ecological substrate]].
 
-without any major civilizational-level changes, the trajectory we're headed towards is a collapse (and of the ugly kind), or more hopefully, as [[nate hagens\|nate hagens]] states, a [[concepts/the great simplification\|great simplification]].
+without any major civilizational-level changes, the trajectory we're headed towards is a collapse (and of the ugly kind), or more hopefully, as [[nate hagens\|nate hagens]] states, a [[concepts/design/the great simplification\|great simplification]].
 
 still, we as a humanity have made major civilization shifts before. i work for/hope that we can consciously navigate it this time.
 
@@ -55,8 +55,8 @@ although it's inspiring to me, to many, especially in the global south, the "sec
 
 *other thoughts:*
 
-the first renaissance was an age of retrieval of lost [[knowledge\|knowledge]] & [[concepts/wisdom\|wisdom]], a profound questioning that permeated the zeitgeist and produced new expressions of the [[true\|true]], [[good\|good]] and [[beautiful\|beautiful]] (e.g. science, law and art) integrating some ancient wisdom with the tools, discoveries and context of modernity.
+the first renaissance was an age of retrieval of lost [[knowledge\|knowledge]] & [[concepts/alchemy/wisdom\|wisdom]], a profound questioning that permeated the zeitgeist and produced new expressions of the [[true\|true]], [[good\|good]] and [[beautiful\|beautiful]] (e.g. science, law and art) integrating some ancient wisdom with the tools, discoveries and context of modernity.
 
-the second renaissance is both an integration of our discoveries across multiple social, exterior and interior sciences, and also a reintegration of [[indigenous knowledge\|indigenous knowledge]], [[topics/alchemy/indigenous wisdom\|wisdom]] and [[concepts/ways of knowing\|ways of knowing]] that were systemically persecuted and erased by modernity.
+the second renaissance is both an integration of our discoveries across multiple social, exterior and interior sciences, and also a reintegration of [[indigenous knowledge\|indigenous knowledge]], [[topics/alchemy/indigenous wisdom\|wisdom]] and [[concepts/alchemy/ways of knowing\|ways of knowing]] that were systemically persecuted and erased by modernity.
 
 a new understanding of [[values\|values]] and the [[sacred\|sacred]] has to underpin it.

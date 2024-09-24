@@ -1,19 +1,32 @@
 ---
-{"created in":"2024-07-26T08:22:01-03:00","last tended to":"2024-09-03T17:32:24-03:00","tags":["artist","music","geek","🌱"],"dg-publish":true,"permalink":"/references/music/artists/m4rkim/","dgPassFrontmatter":true,"created":"2024-07-26T08:22:01.867-03:00","updated":"2024-09-04T13:44:15.342-03:00"}
+{"created in":"2024-07-26T08:22:01-03:00","last tended to":"2024-09-24T15:39:51-03:00","tags":["artist","music","geek","🌿"],"dg-publish":true,"notestage":["🌿"],"relevancescore":91,"permalink":"/references/music/artists/m4rkim/","dgPassFrontmatter":true,"created":"2024-07-26T08:22:01.867-03:00","updated":"2024-09-24T16:29:59.084-03:00"}
 ---
+
+[m4rkim](https://www.youtube.com/@M4rkim) is a young brazilian artist (born in 2002), that creates [[nerdcore\|nerdcore]] music, or as it's known in portuguese: [[música nerd\|música nerd]]/[[música geek\|música geek]]. i.e. music inspired by/that reflects themes from nerd culture: [[topics/player/anime\|anime]], [[manga\|manga]], [[concepts/player/game\|games]] and such. his style blends mostly [[rock\|rock]]/[[metal\|metal]], [[trap\|trap]] and [[rap\|rap]].
 
 ##### listening stats
 
-#1 in [last.fm], with 4.725 plays. (last updated: sept 9th, 2024)
+m4rkim is my #1 most listened artist in the past 5 years (with 4.725 plays [tracked in last.fm](https://www.last.fm/user/cassiuscarvalho) - last updated: sept 9th, 2024)
 
-##### my favorites:
+##### my favorites
 
-a playlist with a few of my favorites: https://www.youtube.com/playlist?list=PLnpPY4NV-19ybJLIjj-xxAWshw3abDJyG
+a playlist with a few of my favorites: [[br nerdcore] m4rkim favorites](https://www.youtube.com/playlist?list=PLnpPY4NV-19ybJLIjj-xxAWshw3abDJyG) (14 songs)
+
 a list of my most listened songs (1-50): https://www.last.fm/user/cassiuscarvalho/library/music/M4rkim/+tracks
 
-##### a curated collection
+##### why nerdcore
 
-if you're unfamiliar with the term and want to know a bit more before diving in, head to the next section - [[references/music/artists/m4rkim#an introduction to those new to nerdcore\|an introduction to nerdcore]].
+i find it fascinating how often [[cultural artifacts\|cultural artifacts]] - works of [[fiction\|fiction]] in general, but especially [[topics/player/anime\|anime]], [[manga\|manga]] and [[concepts/player/game\|games]] (which usually reserve the right to not be as "close to reality" as other [[tv shows\|tv shows]] or [[mainstream music\|mainstream music]]) can portray subjects/narratives that are deeply [[symbolic\|symbolic]], [[philosophical\|philosophical]] and [[psychological\|psychological]]. similar to [[devotional\|devotional]]/[[ritualistic music\|ritualistic music]], they're interested in conveying [[meta-narratives\|meta-narratives]] instead of just talking about immediate [[suffering\|suffering]], [[needs\|needs]], [[_001_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|challenges]], [[_001_MOCs/050 🟩 mid game/065 🏆 goals & KPIs MOC\|goals]] that are widespread in our society today - and most other forms of media.
+
+themes like the [[cycle of hatred\|cycle of hatred]] and [[war\|war]], changing yourself and growing by [[taking multiple perspectives\|taking multiple perspectives]], the futility and profundity of many of our [[desires\|desires]], how egocentric/infantile/traumatized our [[morals\|morals]] usually are, the oppression of modern [[extractive systems and lifestyles\|extractive systems and lifestyles]]...
+
+if you take both mainstream anime like [[references/player/anime ; manga ; webtoon/naruto (character)\|naruto]], [[attack on titan\|attack on titan]], [[chainsaw man\|chainsaw man]] or more niche like [[vagabond\|vagabond]], [[serial experiments lain\|serial experiments lain]], [[evangelion\|evangelion]], [[shuumatsu no valkyrie\|shuumatsu no valkyrie]] i find the kinds of reflections they (can) generate deeper than most other media i have watched. a lot of it is also just [[power fantasies\|power fantasies]] and kids learning to [[topics/alchemy/sensemaking\|make sense of the world]] and take responsibility for their lives and the state of the world, which have their pros and cons...
+
+granted - [[references/music/artists/m4rkim\|m4rkim]] isn't the most philosophical of the nerdcore artists. he's actually one of the most literal ones - his songs often portray more his emotional interpretation of the characters and a literal storytelling of what happens in their lives - yet, he finds a way to capture musically the [[vibe\|vibe]] of that character/story in a way that resonates deeply with my adolescent (and even adult) self. by the way he creates his songs, it feels like he completely "gets" it. i feel heard/understood on a deep level. (more on this later)
+
+for a deeper/historical introduction to this genre, see the next section - [[references/music/artists/m4rkim#an introduction to those new to nerdcore\|an introduction to nerdcore]].
+
+##### a curated introductory collection
 
 [this playlist](https://www.youtube.com/playlist?list=PLnpPY4NV-19wZVhLOaKkPcCEMlNWTu9cL) is a curated collection featuring a little bit of everything i find fascinating in the nerdcore scene in a reasonable amount of time. (5h hehe) i'm currently in the process of writing about it (and most of its songs) in more detail, and will update it here once i do so.
 
@@ -86,17 +99,19 @@ nerdcore as a genre has a much bigger focus on [[storytelling\|storytelling]] an
 
 since artists create music about fictional universes, the way they choose to portray it - be it having a focus on the emotional/psychological aspects of the character/story or making metaphors/parallels between that world and our reality - says a lot about the artist's worldview/focus and also select/affect how the public receive it.
 
-it's often common to have a mix of styles - a song that goes from calm/reflexive instrumentals, with ethnic elements reminding the character's theme, to parts with trap/rap influences and metal somewhere in between. i've seen the same character being interpreted as love song, a sad/reflexive song, an aggressive, trap, and sometimes all of it in one song - after all, characters/stories are complex and they often mix these things.
+it's often common to have a mix of styles - a song that goes from calm/reflexive instrumentals, with ethnic elements reminding the character's theme, to parts with trap/rap influences and metal somewhere in between. i've seen the same character being interpreted as love song, a sad/reflexive song, aggressive, mocking, and sometimes all of it in one song - after all, characters/stories are complex and they often mix these things.
 
 ##### a personal review - why m4rkim is my #1 most listened artist:
 
-*(written in 07/26/2024)*
+text written in july 26th, 2024:
 
 *disclaimer: m4rkim is by far my most listened to artist in the [[brazilian nerdcore\|brazilian nerdcore]] scene. (3x more than the second/third [[anirap\|anirap]]/[[kaito\|kaito]], and 4-5x more than most others [[basara\|basara]], [[oshaman\|oshaman]], [[secondtime\|secondtime]], etc) i love the guy. my analysis/reflection below is not being overly critical, but just pointing out things i really enjoy and things i think he could be even better at.*
 
-i really like his primarily [[trap\|trap]]/[[rock\|rock]] style, mixing a lot of [[concepts/flow\|flow]] and [[aggressive deliveries\|aggressive deliveries]]. it can be seen early on on songs like [gon], [erwin smith], and [saber], and more refined later on on songs like [ichigo], [kenjaku], [rob lucci]. and as he kept evolving, i think he really found his sound in this style and capitalized on it. his cypher [hashiras x kokushibou, castelo infinito]() captured this spirit and was for a long time my favorite while he still hadn't released some the songs that were soon to become my favorites.
+*update (sept 24th, 2024): it's like [[references/music/artists/m4rkim\|m4rkim]] read exactly what i wrote below and decided to up his game for [murciélago - ulquiorra]. it's a great song. if it weren't for a few aspects of the mix (slightly too loud violins and a slightly too high chorus, i missed a bit more heaviness in it), it'd be my favorite song. still, it's super good and it honors how good of a character ulquiorra is.*
 
-for example, my two favorite m4rkim songs - [hantengu] and [crocodile] - have nothing to do with the characters, but because of how it actually sounds/how it was delivered. the construction/build up is great and their choruses are explosive -  very powerful and surprising. they kept me at the edge the whole time. [gilgamesh], also one of my favorites, has a bit more of the character flair shining through - the orchestral instrumentation, the debonair demeanor, the lyrics themselves. props to him and the producers/editors!
+i really like m4rkim's primarily [[trap\|trap]]/[[rock\|rock]] style, mixing a lot of [[concepts/alchemy/flow\|flow]] and [[aggressive deliveries\|aggressive deliveries]]. it can be seen early on on songs like [gon](https://www.youtube.com/watch?v=7KyRAKAPEtg&list=PLnpPY4NV-19ybJLIjj-xxAWshw3abDJyG&index=14), [erwin smith](https://www.youtube.com/watch?v=jt_P3HFVTaw&list=PLnpPY4NV-19ybJLIjj-xxAWshw3abDJyG&index=13), and [saber](https://www.youtube.com/watch?v=Gpy8i0lx4U4&list=PLnpPY4NV-19ybJLIjj-xxAWshw3abDJyG&index=11), and more refined later on on songs like [ichigo], [kenjaku](https://www.youtube.com/watch?v=DDv-6A-2iiQ&list=PLnpPY4NV-19ybJLIjj-xxAWshw3abDJyG&index=5), [rob lucci](). and as he kept evolving, i think he really found his sound in this style and capitalized on it. his cypher [hashiras x kokushibou, castelo infinito]() captured this spirit and was for a long time my favorite while he still hadn't released some the songs that were soon to become my favorites.
+
+for example, my two favorite m4rkim songs - [hantengu](https://www.youtube.com/watch?v=Qs5xNmzXKfE&list=PLnpPY4NV-19ybJLIjj-xxAWshw3abDJyG&index=3) and [crocodile](https://www.youtube.com/watch?v=iuj9Diz4MN8&list=PLnpPY4NV-19ybJLIjj-xxAWshw3abDJyG&index=4) - have nothing to do with the characters, but because of how it actually sounds/how it was delivered. the construction/build up is great and their choruses are explosive -  very powerful and surprising. they kept me at the edge the whole time. [gilgamesh](https://www.youtube.com/watch?v=HOJdqxbXoso&list=PLnpPY4NV-19ybJLIjj-xxAWshw3abDJyG&index=2), also one of my favorites, has a bit more of the character flair shining through - the orchestral instrumentation, the debonair demeanor, the lyrics themselves. props to him and the producers/editors!
 
 one thing i noticed though, as i was looking through my most listened songs, i started noticing/comparing the characters they were about vs the characters in the songs i really like from other [[brazilian nerdcore\|brazilian nerdcore]] artists.
 

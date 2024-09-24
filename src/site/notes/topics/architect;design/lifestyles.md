@@ -1,10 +1,10 @@
 ---
-{"created in":"2022-11-29T12:38:46-03:00","last tended to":"2024-08-23T17:08:58-03:00","tags":["l1f3","alchemy","design","🌱","topic"],"dg-publish":true,"relevancescore":94,"aliases":["lifestyle"],"permalink":"/topics/architect-design/lifestyles/","dgPassFrontmatter":true,"created":"2022-11-29T12:38:46.892-03:00","updated":"2024-08-23T21:20:31.605-03:00"}
+{"created in":"2022-11-29T12:38:46-03:00","last tended to":"2024-09-24T16:01:20-03:00","tags":["l1f3","alchemy","design","topic","🌱"],"dg-publish":true,"relevancescore":94,"aliases":["lifestyle"],"notestage":["🌱"],"permalink":"/topics/architect-design/lifestyles/","dgPassFrontmatter":true,"created":"2022-11-29T12:38:46.892-03:00","updated":"2024-09-24T16:29:53.702-03:00"}
 ---
 
-i believe the subject of our lifestyles has a dramatic impact on our lives and it is not nearly discussed enough when talking about [[concepts/self-transformation\|self-transformation]], [[social change\|social change]] or [[concepts/civilization design\|civilization design]] in general.
+i believe the subject of our lifestyles has a dramatic impact on our lives and it is not nearly discussed enough when talking about [[concepts/alchemy/self-transformation\|self-transformation]], [[social change\|social change]] or [[concepts/design/civilization design\|civilization design]] in general.
 
-the term "[[topics/architect;design/lifestyle design\|lifestyle design]]" did rise in popularity with digital nomads and such, but the major resources that emerged with it, like [[tim ferriss\|tim ferriss]]' [[4-hour workweek\|4-hour workweek]] and [[designing your life\|designing your life]] are tremendously superficial, besides carrying very eurocentric biases.
+the term "[[topics/architect;design/lifestyle design\|lifestyle design]]" did rise in popularity with digital nomads and such, but the major resources that emerged with it, like [[tim ferriss\|tim ferriss]]' [[4-hour workweek\|4-hour workweek]] and [[references/design/designing your life\|designing your life]] are tremendously superficial, besides carrying very eurocentric biases.
 
 this is both a [[sociological\|sociological]], [[topics/architect;design/anthropology\|anthropological]] and a practical self-reflective analysis towards [[life improvement\|life improvement]].
 

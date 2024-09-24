@@ -1,9 +1,7 @@
 ---
-{"aliases":["🎮 LPS","🎮 l1f3 player system","🎮 life player system","life player system","L1F3 player system"],"created in":"2022-02-11T11:29:00-03:00","last tended to":"2024-08-28T15:09:16-03:00","tags":["project","🌱","l1f3","art","player","design","lab"],"dg-publish":true,"permalink":"/004-l1-f3/l1f3-player-system/","dgPassFrontmatter":true,"created":"2022-02-11T11:29:00.000-03:00","updated":"2024-08-28T15:09:49.080-03:00"}
+{"aliases":["🎮 LPS","🎮 l1f3 player system","🎮 life player system","life player system","L1F3 player system"],"created in":"2022-02-11T11:29:00-03:00","last tended to":"2024-09-24T15:59:13-03:00","tags":["project","l1f3","art","player","design","lab","🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/004-l1-f3/l1f3-player-system/","dgPassFrontmatter":true,"created":"2022-02-11T11:29:00.000-03:00","updated":"2024-09-24T16:28:23.716-03:00"}
 ---
 
-#project
-main archetype: [[_002_toolkit/classes/hacker\|👨🏻‍💻 hacker]]
 keywords: [[topics/lab/interfaces MOC\|user interface]], [[topics/lab/user experience\|user experience]], [[topics/lab/AI assistant\|AI assistant]], [[topics/lab/algorithms\|algorithms]], [[visualizations\|visualizations]], [[responses/lab/dashboards\|dashboards]], [[experience design\|experience design]]
 
 ---
@@ -31,7 +29,7 @@ player resources:
 +
 - [[pages\|pages]] to share
 - [[objects\|objects]] to share
-- [[concepts/game\|games]] to propose/play
+- [[concepts/player/game\|games]] to propose/play
 
 references:
 

@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-07-30T21:38:54-03:00","last tended to":"2024-09-08T18:04:11-03:00","tags":["🌱"],"dg-publish":true,"permalink":"/003-research/05-core-references-and-resources/","dgPassFrontmatter":true,"created":"2022-07-30T21:38:54.771-03:00","updated":"2024-09-08T18:15:36.224-03:00"}
+{"created in":"2022-07-30T21:38:54-03:00","last tended to":"2024-09-16T18:36:31-03:00","tags":["🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/003-research/05-core-references-and-resources/","dgPassFrontmatter":true,"created":"2022-07-30T21:38:54.771-03:00","updated":"2024-09-24T16:20:23.956-03:00"}
 ---
 
 ```ad-warning
@@ -15,7 +15,7 @@ pages (more contextual):
 \+ [[projects & tools/tools/lab/raindrop\|raindrop]] interneto-like bookmarks (coming soon)
 
 tools/orgs:
--> [[concepts/personal tech stack\|personal tech stack]] -> [[_005_c4ss1us/c4ss1us' tech stack notion database\|c4ss1us' tech stack notion database]]
+-> [[concepts/design/personal tech stack\|personal tech stack]] -> [[_005_c4ss1us/c4ss1us' tech stack notion database\|c4ss1us' tech stack notion database]]
 
 #### core references breakdown:
 
@@ -199,14 +199,14 @@ tools/orgs:
 > 
 
 core concepts:
-[[concepts/metacrisis\|metacrisis]] / [[planetary transition\|planetary transition]] / [[tbprocessed/base notes/concepts - general/human phase shift\|human phase shift]]
-[[tbprocessed/base notes/concepts - general/game b\|game b]] / [[concepts/civilization design\|civilization design]] / [[topics/architect;design/systems design\|systems design]]
+[[concepts/design/metacrisis\|metacrisis]] / [[planetary transition\|planetary transition]] / [[tbprocessed/base notes/concepts - general/human phase shift\|human phase shift]]
+[[tbprocessed/base notes/concepts - general/game b\|game b]] / [[concepts/design/civilization design\|civilization design]] / [[topics/architect;design/systems design\|systems design]]
 [[omni-win systems\|omni-win systems]] / [[topics/architect;design/distributed systems\|distributed systems]] / [[decentralized systems\|decentralized systems]] / [[regenerative systems\|regenerative systems]] / [[disruptive systems\|disruptive systems]]
 [[topics/architect;design/regeneration\|regeneration]] / [[tbprocessed/base notes/concepts - general/disruption\|disruption]] / [[integration\|integration]]
-[[models & frameworks/metadesign\|metadesign]] / [[topics/architect;design/ontological design\|ontological design]]
-[[models & frameworks/integral theory\|integral theory]] / [[models & frameworks/four quadrants\|four quadrants]] / [[models & frameworks/fourgames\|fourgames]]
-[[meta-cognitive processes\|meta-cognitive processes]] / [[concepts/life management\|life management]] / [[life support systems\|life support systems]]
-[[patterns/pattern collections/game design patterns\|game design patterns]] -> [[maps\|maps]] / [[boards\|boards]] -> [[models & frameworks/wardley mapping\|wardley mapping]] / [[game board\|game board]]
+[[models & frameworks/design/metadesign\|metadesign]] / [[topics/architect;design/ontological design\|ontological design]]
+[[models & frameworks/alchemy/integral theory\|integral theory]] / [[models & frameworks/design/four quadrants\|four quadrants]] / [[models & frameworks/player/fourgames\|fourgames]]
+[[meta-cognitive processes\|meta-cognitive processes]] / [[concepts/design/life management\|life management]] / [[life support systems\|life support systems]]
+[[patterns/pattern collections/game design patterns\|game design patterns]] -> [[maps\|maps]] / [[boards\|boards]] -> [[models & frameworks/design/wardley mapping\|wardley mapping]] / [[game board\|game board]]
 
 PKM setups:
 [obsidian projects dashboard](https://bagerbach.com/blog/projects-and-goals-obsidian) / [Rainbell129/Obsidian-Homepage: A dashboard for your obsidian vault.](https://github.com/Rainbell129/Obsidian-Homepage)
@@ -221,14 +221,14 @@ community-curated knowledge networks:
 [Top Curators On The Internet - Google Docs](https://docs.google.com/document/d/1PNYQmjOdAmKbRzLGI83nvSQ5hRRlIJz7VZq13WwehtQ/edit)
 
 individual's wikis/knowledge gardens:
-[[diome.xyz\|diome.xyz]]
+[[projects & tools/projects/design/diome.xyz\|diome.xyz]]
 [[people/references/lab/jacky zhao\|jacky zhao]]
 
 [[topics/architect;design/market intelligence\|market intelligence]] organizations/tools:
 [[initiatives, orgs & communities/architect;design/golden\|golden]]
-[[models & frameworks/wardley mapping\|wardley mapping]]
+[[models & frameworks/design/wardley mapping\|wardley mapping]]
 [[bismarck analysis\|bismarck analysis]] (high curation)
-[[the cynefin co\|the cynefin co]] / [[sensemaker (tool)\|sensemaker (tool)]]
+[[the cynefin co\|the cynefin co]] / [[projects & tools/tools/design/sensemaker (tool)\|sensemaker (tool)]]
 [[projects & tools/tools/design/metaculus\|metaculus]] (platform)
 
 best personal websites:
@@ -356,7 +356,7 @@ tbd - [[metacurrency\|metacurrency]]
 [[how to do the work\|how to do the work]] - [[the holistic psychologist\|the holistic psychologist]]
 
 ---
-#### [[concepts/life management\|life management]]
+#### [[concepts/design/life management\|life management]]
 
 mainstream communicators:
 [[thomas frank\|thomas frank]], [[people/references/lab/ali abdaal\|ali abdaal]], [[tbprocessed/base notes/people/marie poulin\|marie poulin]], [[anne-laure le cunff\|anne-laure le cunff]] / [[tbprocessed/base notes/ventures - general/ness labs\|ness labs]], [[august bradley\|august bradley]]
@@ -393,7 +393,7 @@ color:                  # Override the color.
 
 future of:
 
-[[concepts/consciousness\|consciousness]]
+[[concepts/alchemy/consciousness\|consciousness]]
 [[topics/architect;design/technology\|technology]]
 [[tbprocessed/base notes/concepts - general/art\|art]]/[[terms/culture\|culture]]
 [[topics/architect;design/systems\|systems]]
@@ -429,7 +429,7 @@ by topic:
 
 - [[topics/lab/knowledge management\|knowledge management]] (18)
 
-- [[concepts/self\|self]] (56)
+- [[concepts/alchemy/self\|self]] (56)
 
 - [[social systems\|social systems]] (47)
 

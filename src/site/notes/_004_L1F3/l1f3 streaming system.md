@@ -1,5 +1,5 @@
 ---
-{"aliases":["life streaming system","🌫 l1f3 streaming system","🌫 life streaming system","🌫 LSS","L1F3 streaming system"],"created in":"2022-02-05T11:38:47-03:00","last tended to":"2024-07-24T00:28:58-03:00","tags":["project","🌱","l1f3"],"dg-publish":true,"permalink":"/004-l1-f3/l1f3-streaming-system/","dgPassFrontmatter":true,"created":"2022-02-05T11:38:47.503-03:00","updated":"2024-08-23T20:42:12.596-03:00"}
+{"aliases":["life streaming system","🌫 l1f3 streaming system","🌫 life streaming system","🌫 LSS","L1F3 streaming system"],"created in":"2022-02-05T11:38:47-03:00","last tended to":"2024-09-24T15:59:49-03:00","tags":["project","l1f3","🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/004-l1-f3/l1f3-streaming-system/","dgPassFrontmatter":true,"created":"2022-02-05T11:38:47.503-03:00","updated":"2024-09-24T16:29:09.978-03:00"}
 ---
 
 main archetypes: [[_002_toolkit/classes/artist\|🎨 artist]], [[_005_c4ss1us/c4ss1us.design\|✒ architect]]

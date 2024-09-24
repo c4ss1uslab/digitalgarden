@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-10-31T21:37:39-03:00","last tended to":"2024-06-21T17:20:59-03:00","dg-publish":true,"aliases":["🦸🏻‍♀️ design specs & constraints for economics"],"tags":["🌱"],"permalink":"/core-essays/design-specs-and-constraints-for-enabling-minimum-viable-vocational-economies/","dgPassFrontmatter":true,"created":"2023-10-31T21:37:39.647-03:00","updated":"2024-07-23T02:41:22.077-03:00"}
+{"created in":"2023-10-31T21:37:39-03:00","last tended to":"2024-09-24T15:42:13-03:00","dg-publish":true,"aliases":["🦸🏻‍♀️ design specs & constraints for economics"],"tags":["essay","economics","🌱"],"notestage":["🌱"],"permalink":"/core-essays/design-specs-and-constraints-for-enabling-minimum-viable-vocational-economies/","dgPassFrontmatter":true,"created":"2023-10-31T21:37:39.647-03:00","updated":"2024-09-24T16:19:41.643-03:00"}
 ---
 
 draft link: https://medium.com/@cassiuscarvalho/design-specs-constraints-for-enabling-minimum-viable-vocational-economies-d4dda4867e23
@@ -18,7 +18,7 @@ for an 80-page-plus guidebook + 12-episode series breaking down how our economic
 
 more to add: measuring GDP.
 
-how money can be beautiful: [[concepts/sacred economics\|sacred economics]].
+how money can be beautiful: [[concepts/design/sacred economics\|sacred economics]].
 
 our economic system has an extractive, scarce worldview. abundance isn't having "infinite", "more than you need".
 
@@ -30,14 +30,14 @@ this is a real challenge that i've struggled with a lot, not sure i found a comp
 
 funding the commons -> gitcoin, [[tea.xyz\|tea.xyz]].
 
-[[models & frameworks/forms of capital\|8 forms of capital]]
-[[models & frameworks/fluxonomy 4d\|fluxonomy 4d]]
+[[models & frameworks/design/forms of capital\|8 forms of capital]]
+[[models & frameworks/design/fluxonomy 4d\|fluxonomy 4d]]
 [[tbprocessed/base notes/ventures - general/metacurrency project\|metacurrency project]]
 [[references/design/library of economic possibility\|library of economic possibility]]
 [[initiatives, orgs & communities/architect;design/valueflows\|valueflows]]
 [[projects & tools/projects/design/gitcoin coordination mechanisms list\|gitcoin coordination mechanisms list]]
 https://tokenengineeringcommunity.github.io/website/docs/library-welcome
-the field of [[topics/architect;design/refi\|refi]] as a whole + [[facilitation methodologies\|facilitation methodologies]] such as [[models & frameworks/pedagogia da cooperação\|pedagogia da cooperação]]
+the field of [[topics/architect;design/refi\|refi]] as a whole + [[facilitation methodologies\|facilitation methodologies]] such as [[models & frameworks/host/pedagogia da cooperação\|pedagogia da cooperação]]
 
 experiments:
 - SEEDS (as a whole) + gratitude token (crypto/local currencies)

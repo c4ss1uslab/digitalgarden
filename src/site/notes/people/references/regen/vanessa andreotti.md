@@ -1,8 +1,8 @@
 ---
-{"created in":"2024-08-20T20:44:56-03:00","last tended to":"2024-08-20T21:14:11-03:00","tags":["person","regeneration","metacrisis","brazilian","tier1","indigenous","🌱","alchemy","research"],"dg-publish":true,"relevancescore":92,"permalink":"/people/references/regen/vanessa-andreotti/","dgPassFrontmatter":true,"created":"2024-08-20T20:44:56.880-03:00","updated":"2024-09-06T15:13:34.599-03:00"}
+{"created in":"2024-08-20T20:44:56-03:00","last tended to":"2024-09-24T16:18:21-03:00","tags":["person","regeneration","metacrisis","brazilian","tier1","indigenous","🌱","alchemy","research"],"dg-publish":true,"relevancescore":92,"notestage":["🌱"],"permalink":"/people/references/regen/vanessa-andreotti/","dgPassFrontmatter":true,"created":"2024-08-20T20:44:56.880-03:00","updated":"2024-09-24T16:18:22.485-03:00"}
 ---
 
-author of [[hospicing modernity\|hospicing modernity]], co-creator of the [[gesturing towards decolonial futures\|gesturing towards decolonial futures]] collective, dean of the faculty of education at the [[university of toronto\|university of toronto]].
+author of [[hospicing modernity\|hospicing modernity]], co-creator of the [[initiatives, orgs & communities/regen/gesturing towards decolonial futures\|gesturing towards decolonial futures]] collective, dean of the faculty of education at the [[university of toronto\|university of toronto]].
 
 amazing podcast interview introducing her work/research: ["Hospicing Modernity and Rehabilitating Humanity" | The Great Simplification 125](https://www.youtube.com/watch?v=h5kQ7_IZ8YI)
 
@@ -29,7 +29,7 @@ four keys for [[topics/architect;design/regeneration\|regeneration]]:
 > I knew this would be awful when she gave a land acknowledgement at the beginning and it only went downhill from there. This is why I hate academics.
 -> 6 likes. (?)
 > 
-> **my comments:** who are these people (2nd and 3rd comments)??? they're selective enough to be on [[concepts/the great simplification\|the great simplification]] podcast, but not resonating with vanessa. how are they interpreting this? do they lump this in with other postmodern, wishy-washy, relativistic stuff?
+> **my comments:** who are these people (2nd and 3rd comments)??? they're selective enough to be on [[concepts/design/the great simplification\|the great simplification]] podcast, but not resonating with vanessa. how are they interpreting this? do they lump this in with other postmodern, wishy-washy, relativistic stuff?
 
 ---
 ##### my highlights from the book

@@ -12,7 +12,7 @@ it's an incredibly complex, deep and thoughtful project, with lots of hands, hea
 
 i was very involved during the whole year of 2021 - i did the [[_010_notes from courses, events & chats/2021-02 - tools for the regenerative renaissance course review\|tools for the regenerative renaissance]] course, the [[initiatives, orgs & communities/player/SEEDS ambassador academy\|ambassador academy]], SEEDS leadership course, proposed campaigns, co-created proposals, participated in the renaissance explorers (alchemists/architects) cohorts, reviewed the SEEDS Guide, etc...
 
-it's one of the most cohesive, deeply researched/well-thought-out projects i know of, moving beyond simplistic notions of [[topics/architect;design/regeneration\|regeneration]], to building out actual implementations of [[concepts/sacred economics\|sacred economics]], informed by the work/research on the [[concepts/metacrisis\|metacrisis]], and with a design/scope much more sophisticated than the vast majority of the [[topics/architect;design/web3\|web3]] and [[topics/architect;design/refi\|refi]] projects as well.
+it's one of the most cohesive, deeply researched/well-thought-out projects i know of, moving beyond simplistic notions of [[topics/architect;design/regeneration\|regeneration]], to building out actual implementations of [[concepts/design/sacred economics\|sacred economics]], informed by the work/research on the [[concepts/design/metacrisis\|metacrisis]], and with a design/scope much more sophisticated than the vast majority of the [[topics/architect;design/web3\|web3]] and [[topics/architect;design/refi\|refi]] projects as well.
 
 #### resources
 

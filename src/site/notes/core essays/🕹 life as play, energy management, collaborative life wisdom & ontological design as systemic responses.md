@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-12-12T12:06:45-03:00","last tended to":"2024-07-15T17:08:29-03:00","dg-publish":true,"aliases":["🕹 energy management, life as play"],"permalink":"/core-essays/life-as-play-energy-management-collaborative-life-wisdom-and-ontological-design-as-systemic-responses/","dgPassFrontmatter":true,"created":"2023-12-12T12:06:45.872-03:00","updated":"2024-07-23T02:40:57.793-03:00"}
+{"created in":"2023-12-12T12:06:45-03:00","last tended to":"2024-09-16T15:26:24-03:00","dg-publish":true,"aliases":["🕹 energy management, life as play"],"permalink":"/core-essays/life-as-play-energy-management-collaborative-life-wisdom-and-ontological-design-as-systemic-responses/","dgPassFrontmatter":true,"created":"2023-12-12T12:06:45.872-03:00","updated":"2024-09-16T15:26:47.980-03:00"}
 ---
 
 draft link: https://medium.com/@cassiuscarvalho/life-as-play-collaborative-life-wisdom-ontological-design-as-a-revolutionary-practice-291959d935e5
@@ -31,9 +31,9 @@ inspiration / motivation / discipline - rats/elephants/butterflies
 
 ###### simplest/most accepted yet very useful:
 passive vs active / open vs closed (yin vs yang)
-[[models & frameworks/5 bodies\|models & frameworks/5 bodies]] (& similar approaches)
+[[models & frameworks/alchemy/5 bodies\|models & frameworks/alchemy/5 bodies]] (& similar approaches)
 hierarchy of needs (& similar approaches)
-[[models & frameworks/4 elements\|models & frameworks/4 elements]] (& similar approaches - [[areas/life areas (base)/alchemy/4 energy states\|4 energy states]], [[4 feelings\|4 feelings]])
+[[models & frameworks/alchemy/4 elements\|models & frameworks/alchemy/4 elements]] (& similar approaches - [[areas/life areas (base)/alchemy/4 energy states\|4 energy states]], [[4 feelings\|4 feelings]])
 
 ###### distinctions from a few more empirical fields (that i found useful) but can easily be pseudo-sciency, and thus require a much deeper/more careful investigation:
 
@@ -48,7 +48,7 @@ for me, i found that slowly progressing through them has felt like an adequate s
 
 ###### my favorite heuristic device
 
-besides these, **the simplest and most powerful framework** that continues to give me a lot of insights is [[models & frameworks/integral theory\|integral theory]]'s **[[models & frameworks/AQAL\|AQAL]]** - quadrants / levels / lines / states / types.
+besides these, **the simplest and most powerful framework** that continues to give me a lot of insights is [[models & frameworks/alchemy/integral theory\|integral theory]]'s **[[models & frameworks/alchemy/AQAL\|AQAL]]** - quadrants / levels / lines / states / types.
 
 if you're unfamiliar with it, i **highly**, **highly** suggest checking it out via a ["map of human knowledge" video] + [integral approach link]. perhaps you won't fully "get it" or resonate with it at first, but the more you interact with it, the more i believe you'll start to see its usefulness and wisdom. 🙃 and as a very practical example of its use, let's consider this framework by applying it to our matter at hand:
 
@@ -63,7 +63,7 @@ just by considering these inquiries, especially over time, the answers that aris
 
 ###### life as play
 
-[[concepts/serious play\|serious play]].
+[[concepts/player/serious play\|serious play]].
 
 existem profissionais dedicados analistas de esportes, de negócios, de jogos (cientistas de dados, etc). tanto pra cuidar da parte tática/estratégica quanto das pessoas - psicólogos, preparadores físicos, fisioterapeutas, massagistas, etc...
 
@@ -83,7 +83,7 @@ a few communities that practice this in some way:
 
 [[topics/lab/AI agents\|AI agents]]
 
-[[models & frameworks/fourgames\|fourgames]]
+[[models & frameworks/player/fourgames\|fourgames]]
 
 --
 
@@ -101,7 +101,7 @@ play modes [dashboard]:
 
 sensing, sensemaking, decision-making, action, learning
 
-[[concepts/waking up\|concepts/waking up]], [[concepts/growing up\|growing up]], [[concepts/cleaning up\|cleaning up]], [[concepts/showing up\|showing up]], [[concepts/opening up\|opening up]] -> ecologies of practices
+[[concepts/alchemy/waking up\|concepts/alchemy/waking up]], [[concepts/alchemy/growing up\|growing up]], [[concepts/alchemy/cleaning up\|cleaning up]], [[concepts/alchemy/showing up\|showing up]], [[concepts/alchemy/opening up\|opening up]] -> ecologies of practices
 
 - expanding the  understanding of games
 — game theory

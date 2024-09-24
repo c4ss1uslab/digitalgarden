@@ -6,7 +6,7 @@ main archetype: [[_002_toolkit/classes/architect\|🕶 architect]]
 
 #### description
 
-this project is my wildly ambitious attempt to design/prototype the [[_006_core notes/personal OS design\|OS of the future]] - with its most important [[_001_MOCs/050 🟩 mid game/080 ⚒ tools MOC\|tools]], [[workflows\|workflows]], [[_002_toolkit/019 🤖 agents\|agents]] and [[user interface 1\|interfaces]] - in a very opinionated ([[models & frameworks/integral theory\|integral]]/[[responses/alchemy/metamodernism\|metamodern]]) way that works according to my [[beliefs\|beliefs]], [[desires\|desires]] and [[goals\|goals]] of [[enabling human potential\|enabling human potential]] and [[topics/regen/earth regeneration\|regenerating earth]], yet in an [[open-source\|open-source]], [[modular\|modular]], non-deterministic way, open for customization and augmentation by anyone with other biocentric values.
+this project is my wildly ambitious attempt to design/prototype the [[_006_core notes/personal OS design\|OS of the future]] - with its most important [[_001_MOCs/050 🟩 mid game/080 ⚒ tools MOC\|tools]], [[workflows\|workflows]], [[_002_toolkit/019 🤖 agents\|agents]] and [[user interface 1\|interfaces]] - in a very opinionated ([[models & frameworks/alchemy/integral theory\|integral]]/[[responses/alchemy/metamodernism\|metamodern]]) way that works according to my [[beliefs\|beliefs]], [[desires\|desires]] and [[goals\|goals]] of [[enabling human potential\|enabling human potential]] and [[topics/regen/earth regeneration\|regenerating earth]], yet in an [[open-source\|open-source]], [[modular\|modular]], non-deterministic way, open for customization and augmentation by anyone with other biocentric values.
 
 which is part of an even wilder, more ambitious project - uncovering and redesigning our fundamental personal and civilizational [[core essays/🌐 an introduction to the L1F3 support systems\|L1F3 support systems]].
 
@@ -19,7 +19,7 @@ github - project categories:
 
 #### main components:
 
-[[perception\|perception]] ([[topics/lab/data management\|data management]]/[[topics/lab/information management\|information management]]) / [[topics/alchemy/sensemaking\|sensemaking]] ([[topics/lab/knowledge management\|knowledge management]] - [[_001_MOCs/050 🟩 mid game/040 🤹🏻‍♂️ areas MOC\|responsibilities]], [[_002_toolkit/x+ 🎭 roles LPS\|roles]], [[_001_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|challenges]], etc) / [[terms/decision-making\|decision-making]] ([[decision management\|decision management]]) / [[terms/action\|action]]/[[topics/player/learning\|learning]] ([[task management\|task management]] / [[time management\|time management]] / [[energy management\|energy management]] / [[tbprocessed/base notes/topics/learning management\|learning management]]) / [[feedback\|feedback]]/[[results\|results]] ([[wisdom management\|wisdom management]] / [[values management\|values management]] / [[concepts/self-management\|self-management]])
+[[perception\|perception]] ([[topics/lab/data management\|data management]]/[[topics/lab/information management\|information management]]) / [[topics/alchemy/sensemaking\|sensemaking]] ([[topics/lab/knowledge management\|knowledge management]] - [[_001_MOCs/050 🟩 mid game/040 🤹🏻‍♂️ areas MOC\|responsibilities]], [[_002_toolkit/x+ 🎭 roles LPS\|roles]], [[_001_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|challenges]], etc) / [[terms/decision-making\|decision-making]] ([[decision management\|decision management]]) / [[terms/action\|action]]/[[topics/player/learning\|learning]] ([[task management\|task management]] / [[time management\|time management]] / [[energy management\|energy management]] / [[tbprocessed/base notes/topics/learning management\|learning management]]) / [[feedback\|feedback]]/[[results\|results]] ([[wisdom management\|wisdom management]] / [[values management\|values management]] / [[concepts/alchemy/self-management\|self-management]])
 
 \+ different [[prototypes/on hold/l1f3 management system views\|views]]
 
@@ -29,7 +29,7 @@ github - project categories:
 
 categories of personal systems:
 
-#### [[concepts/self-management\|self-management]]
+#### [[concepts/alchemy/self-management\|self-management]]
 - [self-reflection] -> [[values management\|values management]]
 - [priming]
 - [sensing]
@@ -39,7 +39,7 @@ categories of personal systems:
 - [learning]
 - [tracking]
 
-#### [[concepts/life management\|life management]] systems breakdown:
+#### [[concepts/design/life management\|life management]] systems breakdown:
 - [[prototypes/on hold/resources management system\|🌫 resources management system]]
 - [[prototypes/on hold/knowledge management system\|🧠 knowledge management system]]
 - [[prototypes/on hold/decision management system\|♟ decision management system]]
@@ -64,7 +64,7 @@ categories of personal systems:
 - [[prototypes/on hold/notion + obsidian integration\|notion + obsidian integration]]
 
 \+ [[topics/lab/quantified self\|quantified self]] compilations
-[[concepts/personal tech stack\|personal tech stack]] / setups
+[[concepts/design/personal tech stack\|personal tech stack]] / setups
 
 ##### system workflows/modules
 
@@ -83,7 +83,7 @@ categories of personal systems:
 [[interoperable\|interoperable]] ([[credible exit\|credible exit]])
 
 ##### core design elements:
-##### [[topics/lab/data structures\|data structures]] / [[concepts/information levels\|information levels]] ([[idea unit\|idea unit]] / [[modular idea\|modular idea]]):
+##### [[topics/lab/data structures\|data structures]] / [[concepts/design/information levels\|information levels]] ([[idea unit\|idea unit]] / [[modular idea\|modular idea]]):
 
 - [[data\|data]]
 - [[ideas\|ideas]]/[[thoughts\|thoughts]]
@@ -92,7 +92,7 @@ categories of personal systems:
 - [[areas/relationships\|relationships]]
 
 ##### [[modular structures\|modular structures]] / [[composable structures\|composable structures]] like:
-- [[concepts/assets\|assets]]
+- [[concepts/design/assets\|assets]]
 - [[models\|models]]
 - [[templates\|templates]]
 - [[mods\|mods]]
@@ -108,7 +108,7 @@ in:
 - [[scenes\|scenes]]
 
 can create certain file types:
-- [[concepts/game\|game]]
+- [[concepts/player/game\|game]]
 - [[software\|software]] (.[[exe\|exe]])
 - [[interface\|interface]]
 - [[database\|database]]

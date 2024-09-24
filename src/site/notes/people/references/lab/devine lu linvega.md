@@ -4,7 +4,7 @@
 
 https://wiki.xxiivv.com/
 
-creator of [[projects & tools/tools/lab/duskOS\|duskOS]], [[projects & tools/tools/lab/collapseOS\|collapseOS]]. co-founder of [[hundredrabbits collective\|hundredrabbits collective]], author of an [amazing series of articles](http://tumbleforth.hardcoded.net/) introducing regular web developers to [[low-level programming\|low-level programming]] via walking through his design and learnings while building [[projects & tools/tools/lab/duskOS\|duskOS]].
+creator of [[projects & tools/tools/lab/duskOS\|duskOS]], [[projects & tools/tools/lab/collapseOS\|collapseOS]]. co-founder of [[initiatives, orgs & communities/lab/hundredrabbits collective\|hundredrabbits collective]], author of an [amazing series of articles](http://tumbleforth.hardcoded.net/) introducing regular web developers to [[low-level programming\|low-level programming]] via walking through his design and learnings while building [[projects & tools/tools/lab/duskOS\|duskOS]].
 
 overall, a crazy deep unconventional thinker, with an extremely intentional [[lifestyle\|lifestyle]] - living on a sailboat, a [[memex\|memex]]/[[prototypes/on hold/knowledge management system\|knowledge management system]], projects such as the [[responses/regen/permacomputing\|permacomputing]] operating systems themselves, and more [tools] and [games]...
 

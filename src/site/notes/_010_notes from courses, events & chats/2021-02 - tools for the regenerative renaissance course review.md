@@ -23,7 +23,7 @@ the main takeaway for me was transforming my relationship with decentralized org
 
 i'd have appreciated a few more examples of decentralized organizations in different industries. i appreciated getting to know purpose and their work though.
 
-i also felt really connected with the energy of a renaissance and a meta-narrative crossing and connecting different paradigms ([[topics/architect;design/regeneration\|regeneration]], [[tbprocessed/base notes/concepts - general/game b\|game b]], [[responses/alchemy/metamodernism\|metamodernism]], [[models & frameworks/integral theory\|integral theory]], etc).
+i also felt really connected with the energy of a renaissance and a meta-narrative crossing and connecting different paradigms ([[topics/architect;design/regeneration\|regeneration]], [[tbprocessed/base notes/concepts - general/game b\|game b]], [[responses/alchemy/metamodernism\|metamodernism]], [[models & frameworks/alchemy/integral theory\|integral theory]], etc).
 
 would also have loved to have gotten a better sense of what people are interested in to know who to connect further with. maybe adding a space for people's social media, favorite session(s) of the course and main topics of interest on that end-of-the-course spreadsheet.
 

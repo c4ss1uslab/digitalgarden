@@ -5,7 +5,7 @@
 ## 1) definitions & types of maps
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/models-and-frameworks/wardley-mapping/#according-to-wardley-mapping-any-map-contains-the-following-6-elements" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/models-and-frameworks/design/wardley-mapping/#according-to-wardley-mapping-any-map-contains-the-following-6-elements" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -25,7 +25,7 @@ which is a very specific frame, and makes us realize how, according to this pers
 yet, many people refer to them as maps, so i'll propose a different, more loose classification of maps taking into account other people's curation of popular maps as well:
 ### types of maps:
 
-#### 1) [[models & frameworks/wardley mapping\|wardley maps]]
+#### 1) [[models & frameworks/design/wardley mapping\|wardley maps]]
 
 ![example wardley map - annotated.png|500](/img/user/images/maps/example%20wardley%20map%20-%20annotated.png)
 
@@ -41,7 +41,7 @@ a) [[memespace maps\|memespace maps]]
 b) [[ribbonfarm\|ribbonfarm]]'s maps
 c) [[defining characteristics of maps\|defining characteristics of maps]]
 d) [[maps of maps\|maps of maps]] (curating/organizing perspectives)
-e) [[models & frameworks/wardley mapping\|wardley maps]]
+e) [[models & frameworks/design/wardley mapping\|wardley maps]]
 f) [[idea mazes\|idea mazes]]
 g) [[subway maps\|subway maps]] (visual)
 h) [[topical maps\|topical maps]]/[[field maps\|field maps]] ([[zoomable maps\|zoomable maps]]/maps with meaningful axes and proportions)
@@ -172,7 +172,7 @@ https://calculatingempires.net/ - a genealogy of technology and power since 1500
 https://www.visualcapitalist.com/histomap/ - visualizing the 4,000-year history of global power
 
 ---
-#### c) "maps" of the [[concepts/metacrisis\|metacrisis]] / [[topics/alchemy/sensemaking\|sensemaking]] / [[tbprocessed/base notes/concepts - general/game b\|game b]] space:
+#### c) "maps" of the [[concepts/design/metacrisis\|metacrisis]] / [[topics/alchemy/sensemaking\|sensemaking]] / [[tbprocessed/base notes/concepts - general/game b\|game b]] space:
 
 an introduction to the subject/space: https://secondrenaissance.net/intro
 
@@ -254,7 +254,7 @@ the contents of the writing below are currently haphazard, disjointed and all ov
 refs: [[initiatives, orgs & communities/architect;design/golden\|golden]], [[projects & tools/tools/design/metaculus\|metaculus]], [[initiatives, orgs & communities/architect;design/ideamarket\|ideamarket]], [[references/lab/mapsmap hackathon\|mapsmap hackathon]], [[initiatives, orgs & communities/architect;design/civilization research institute\|civilization research institute]], [[kialo\|kialo]], [[people/references/lab/nikita voloboev\|nikita voloboev]]...
 
 other relevant approaches:
-- [[models & frameworks/CEP+N\|CEP+N]]
+- [[models & frameworks/host/CEP+N\|CEP+N]]
 - [[references/lab/github resource lists\|github resource lists]]
 - etc...
 
@@ -321,4 +321,4 @@ note that mapping is different from [[references/lab/map-making tools\|map-makin
 
 datasets: 
 
-fine-tuned LLMs: [[cognicist iris\|cognicist iris]], [[initiatives, orgs & communities/alchemy/integral life\|integral life]], [[models & frameworks/fourgames\|fourgames]]...
+fine-tuned LLMs: [[cognicist iris\|cognicist iris]], [[initiatives, orgs & communities/alchemy/integral life\|integral life]], [[models & frameworks/player/fourgames\|fourgames]]...

@@ -56,7 +56,7 @@ it's still something i really wanna do in the mid-term (2-3 years max).
 https://www.inkandswitch.com/inkbase/
 https://dynamicland.org/
 https://andrewmurraydunn.com/soul-map
-[[initiatives, orgs & communities/alchemy/possibility management\|possibility management]]'s [[concepts/artifacts\|artifacts]]
+[[initiatives, orgs & communities/alchemy/possibility management\|possibility management]]'s [[concepts/player/artifacts\|artifacts]]
 [[ana marques\|ana marques]]' [[references/player/games/sanctuaries of attention game\|sanctuaries of attention game]]
 [[people/acquaintances/simone catalan\|simone catalan]]'s [[projects & tools/projects/player/jogo da colaboração\|jogo da colaboração]]
 [[references/player/games/findhorn's transformation game\|findhorn's transformation game]]

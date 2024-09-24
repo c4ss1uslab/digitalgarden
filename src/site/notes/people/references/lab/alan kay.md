@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-08-20T15:15:53-03:00","last tended to":"2024-09-07T20:39:18-03:00","tags":["person","lab","interfacedesign","research","learning","visuallearning","🌱","design","technology"],"dg-publish":true,"permalink":"/people/references/lab/alan-kay/","dgPassFrontmatter":true,"created":"2024-08-20T15:15:53.471-03:00","updated":"2024-09-07T20:39:21.282-03:00"}
+{"created in":"2024-08-20T15:15:53-03:00","last tended to":"2024-09-24T15:48:02-03:00","tags":["person","lab","interfacedesign","research","learning","visuallearning","design","technology","🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/people/references/lab/alan-kay/","dgPassFrontmatter":true,"created":"2024-08-20T15:15:53.471-03:00","updated":"2024-09-24T16:21:14.438-03:00"}
 ---
 
 one of the very influential early innovators in personal computing.

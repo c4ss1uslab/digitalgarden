@@ -28,7 +28,7 @@ if you’re interested in further simplifying this and/or transforming into visu
 
 > context:
 
-> i’ve been very involved with two online movements/communities ([[concepts/metacrisis\|metacrisis]] & [[topics/lab/knowledge management\|knowledge management]]) for about 5 and 9 years, respectively. this article is a compilation of the best concepts/resources i’ve gathered from them — and from outside of them, but that are relevant to what they’re about.
+> i’ve been very involved with two online movements/communities ([[concepts/design/metacrisis\|metacrisis]] & [[topics/lab/knowledge management\|knowledge management]]) for about 5 and 9 years, respectively. this article is a compilation of the best concepts/resources i’ve gathered from them — and from outside of them, but that are relevant to what they’re about.
 
 > whether you’re familiar with these communities/terms or not, my goal is to bring new, powerful perspectives as to how we can address some of the major crises we’re living through: the crises of imagination, meaning, agency and connection  —  which i argue are all sustained by downward spiraling feedback loops between our degraded information ecology, adversarial economic system, [unloving] coordination mechanisms and siloed data structures/knowledge management tools.
 
@@ -46,7 +46,7 @@ the missions i’m committed to working towards are:
 
 i share this as a way to clarify the “agenda” behind this article (the biases/direction of the writer), and as means to find others who are on similar journeys and wish to collaborate towards these desired futures.
 
-these 3 themes of work came both from my research on systemic [[_001_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|challenges]], [[topics/player/game theory\|game theory]] and [[concepts/existential risk\|existential risk]], as well as personal intuitions, insights and awakenings i had on my self-knowledge path.
+these 3 themes of work came both from my research on systemic [[_001_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|challenges]], [[topics/player/game theory\|game theory]] and [[concepts/design/existential risk\|existential risk]], as well as personal intuitions, insights and awakenings i had on my self-knowledge path.
 
 throughout this path, i’ve found many organizations, communities and people doing amazing work. a few of the ones that impacted me the most being: [[people/references/architect;design/daniel schmachtenberger\|daniel schmachtenberger]], [[people/references/alchemy/ken wilber\|ken wilber]], [[people/references/lab/maggie appleton\|maggie appleton]], [[initiatives, orgs & communities/architect;design/metagame.wtf\|metagame.wtf]], [[initiatives, orgs & communities/architect;design/SEEDS (ecosystem)\|SEEDS]], [possibility management](http://possibilitymanagement.com/), [protocol labs], [holochain](http://holochain.org), [[projects & tools/projects/lab/subconscious (tool)\|subconscious (tool)]], [L1F3.STREAM](https://www.youtube.com/playlist?list=PLliJTfwEBewrsBny4TAusQGNBfgzWB8QN), [high stakes academy] and [mundos possíveis](https://www.instagram.com/mundos_possiveis/) (the last three only have content in brazilian portuguese for now).
 
@@ -123,7 +123,7 @@ c) niche subcultures/communities no one’s heard of
 
 which leads us to the first foundational concept:
 
-#### 1) [[concepts/game\|games]], [[topics/player/game theory\|game theory]], [[topics/player/game design\|game design]] & [[game boards\|game boards]].
+#### 1) [[concepts/player/game\|games]], [[topics/player/game theory\|game theory]], [[topics/player/game design\|game design]] & [[game boards\|game boards]].
 
 [[antonio\|antonio]] - ERGO model: [[terms/environment\|environment]], [[roles\|roles]], [[guidelines\|guidelines]], [[objectives\|objectives]].
 

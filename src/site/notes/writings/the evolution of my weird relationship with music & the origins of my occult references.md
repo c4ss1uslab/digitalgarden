@@ -147,7 +147,7 @@ and what really showed me that was the next level of all this, [[responses/art/m
 
 but that's a whole other story, still [currently unfolding].
 
-after all, perhaps we need some [[initiations\|initiations]]. [[concepts/non-ordinary states of consciousness\|non-ordinary states of consciousness]], [[transcendental experiences\|transcendental experiences]]. maybe he wave to seek that path. maybe that path is seeking us and we just need to open up for it.
+after all, perhaps we need some [[initiations\|initiations]]. [[concepts/alchemy/non-ordinary states of consciousness\|non-ordinary states of consciousness]], [[transcendental experiences\|transcendental experiences]]. maybe he wave to seek that path. maybe that path is seeking us and we just need to open up for it.
 
 music becomes second nature. it's like it flows through your veins. it might not always be beautiful. it won't always be "normal". but you're connected to that flow nonetheless.
 

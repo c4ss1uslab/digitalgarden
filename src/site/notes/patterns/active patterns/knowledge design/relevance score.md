@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-08-20T11:42:20-03:00","last tended to":"2024-09-07T21:21:00-03:00","tags":["patterns","🌿","knowledgedesign"],"dg-publish":true,"aliases":["relevance scores"],"permalink":"/patterns/active-patterns/knowledge-design/relevance-score/","dgPassFrontmatter":true,"created":"2024-08-20T11:42:20.162-03:00","updated":"2024-09-08T16:11:31.802-03:00"}
+{"created in":"2024-08-20T11:42:20-03:00","last tended to":"2024-09-16T18:35:37-03:00","tags":["patterns","🌿","knowledgedesign"],"dg-publish":true,"aliases":["relevance scores"],"notestage":["🌿"],"permalink":"/patterns/active-patterns/knowledge-design/relevance-score/","dgPassFrontmatter":true,"created":"2024-08-20T11:42:20.162-03:00","updated":"2024-09-16T18:36:46.513-03:00"}
 ---
 
 #### about
@@ -25,7 +25,7 @@ well, that's my perspective and how i'm choosing to use the term. it's a startin
 ---
 #### relevance score visualizations
 
-i still have to figure out why the [digital garden plugin](https://dg-docs.ole.dev/) i'm using isn't allowing me to show the relevance score property on my notes. i currently have 66 notes with assigned relevance scores over 80, and i'm slowly adding it to more and more of them (mostly [[terms/design\|design]]/[[_005_c4ss1us/c4ss1us.design\|architect]] & [[_005_c4ss1us/c4ss1us.lab\|lab]] notes were tagged so far, so the index below is missing a ton of stuff from [[_005_c4ss1us/c4ss1us.alchemy\|alchemy]], [[_005_c4ss1us/c4ss.art\|art]], [[_005_c4ss1us/c4ss1us.player\|player]] and [[_005_c4ss1us/c4ss1us.regen\|regen]], that are less processed/more embrionary).
+i still have to figure out why the [digital garden plugin](https://dg-docs.ole.dev/) i'm using isn't allowing me to show the relevance score property on my notes. i currently have 75 notes with assigned relevance scores over 80, and i'm slowly adding it to more and more of them (mostly [[terms/design\|design]]/[[_005_c4ss1us/c4ss1us.design\|architect]] & [[_005_c4ss1us/c4ss1us.lab\|lab]] notes were tagged so far, so the index below is missing a ton of stuff from [[_005_c4ss1us/c4ss1us.alchemy\|alchemy]], [[_005_c4ss1us/c4ss.art\|art]], [[_005_c4ss1us/c4ss1us.player\|player]] and [[_005_c4ss1us/c4ss1us.regen\|regen]], that are less processed/more embrionary).
 
 i intend to fix this soon, but in the meantime, while i'm also building the [[_001_MOCs/025 🔷 long game/025 🗺 topics & references MOC\|025 🗺 topics & references MOC]] and [[_003_research/00 - viable pathways book-zine\|viable pathways]]' [[_003_research/05 - core references & resources\|05 - core references & resources]] pages, this is a useful visualization for navigating this research garden by identifying what i deem as most relevant from the areas above:
 
@@ -33,76 +33,93 @@ i intend to fix this soon, but in the meantime, while i'm also building the [[_0
 
 ##### 1) index
 
-| file                                                                                                                     | relevancescore | type                                             |
-| ------------------------------------------------------------------------------------------------------------------------ | -------------- | ------------------------------------------------ |
-| [[concepts/metacrisis\|metacrisis]]                                                                                   | 98             | concepts                                         |
-| [[initiatives, orgs & communities/architect;design/civilization research institute\|civilization research institute]] | 98             | initiatives, orgs & communities/architect;design |
-| [[people/references/architect;design/daniel schmachtenberger\|daniel schmachtenberger]]                               | 98             | people/references/architect;design               |
-| [[_006_core notes/design philosophies\|design philosophies]]                                                          | 98             | _006_core notes                                  |
-| [[topics/architect;design/coordination systems\|coordination systems]]                                                | 97             | topics/architect;design                          |
-| [[_004_L1F3/L1F3 support systems\|L1F3 support systems]]                                                              | 97             | _004_L1F3                                        |
-| [[concepts/integral development\|integral development]]                                                               | 96             | concepts                                         |
-| [[concepts/intimacy crisis\|intimacy crisis]]                                                                         | 96             | concepts                                         |
-| [[initiatives, orgs & communities/alchemy/church of the intimate web\|church of the intimate web]]                    | 96             | initiatives, orgs & communities/alchemy          |
-| [[initiatives, orgs & communities/architect;design/metagame.wtf\|metagame.wtf]]                                       | 96             | initiatives, orgs & communities/architect;design |
-| [[initiatives, orgs & communities/architect;design/SEEDS (ecosystem)\|SEEDS (ecosystem)]]                             | 96             | initiatives, orgs & communities/architect;design |
-| [[models & frameworks/integral theory\|integral theory]]                                                              | 96             | models & frameworks                              |
-| [[patterns/pattern collections/knowledge design patterns\|knowledge design patterns]]                                 | 96             | patterns/pattern collections                     |
-| [[references/alchemy/first principles and first values\|first principles and first values]]                           | 96             | references/alchemy                               |
-| [[responses/alchemy/metamodernism\|metamodernism]]                                                                    | 96             | responses/alchemy                                |
-| [[responses/alchemy/cosmoerotic humanism\|cosmoerotic humanism]]                                                      | 96             | responses/alchemy                                |
-| [[responses/design/second renaissance\|second renaissance]]                                                           | 96             | responses/design                                 |
-| [[responses/regen/permacomputing\|permacomputing]]                                                                    | 96             | responses/regen                                  |
-| [[topics/architect;design/life design\|life design]]                                                                  | 96             | topics/architect;design                          |
-| [[initiatives, orgs & communities/lab/holochain\|holochain]]                                                          | 95             | initiatives, orgs & communities/lab              |
-| [[projects & tools/tools/lab/duskOS\|duskOS]]                                                                         | 95             | projects & tools/tools/lab                       |
-| [[concepts/4e cognition\|4e cognition]]                                                                               | 94             | concepts                                         |
-| [[concepts/the great simplification\|the great simplification]]                                                       | 94             | concepts                                         |
-| [[concepts/ways of knowing\|ways of knowing]]                                                                         | 94             | concepts                                         |
-| [[people/references/lab/devine lu linvega\|devine lu linvega]]                                                        | 94             | people/references/lab                            |
-| [[responses/lab/mapping\|mapping]]                                                                                    | 94             | responses/lab                                    |
-| [[responses/regen/regenerative design\|regenerative design]]                                                          | 94             | responses/regen                                  |
-| [[topics/architect;design/knowledge commons\|knowledge commons]]                                                      | 94             | topics/architect;design                          |
-| [[topics/architect;design/lifestyles\|lifestyles]]                                                                    | 94             | topics/architect;design                          |
-| [[topics/architect;design/personal algorithms design\|personal algorithms design]]                                    | 94             | topics/architect;design                          |
-| [[topics/architect;design/semantic web\|semantic web]]                                                                | 94             | topics/architect;design                          |
-| [[topics/architect;design/tools for thought\|tools for thought]]                                                      | 94             | topics/architect;design                          |
-| [[topics/lab/information design\|information design]]                                                                 | 94             | topics/lab                                       |
-| [[topics/lab/interactive visualizations\|interactive visualizations]]                                                 | 94             | topics/lab                                       |
-| [[topics/lab/knowledge management\|knowledge management]]                                                             | 94             | topics/lab                                       |
-| [[topics/lab/knowledge visualization\|knowledge visualization]]                                                       | 94             | topics/lab                                       |
-| [[responses/art/música do círculo\|música do círculo]]                                                                | 93             | responses/art                                    |
-| [[people/references/lab/bret victor\|bret victor]]                                                                    | 92             | people/references/lab                            |
-| [[people/references/regen/vanessa andreotti\|vanessa andreotti]]                                                      | 92             | people/references/regen                          |
-| [[projects & tools/tools/lab/human programming interface\|human programming interface]]                               | 92             | projects & tools/tools/lab                       |
-| [[topics/player/self-directed learning\|self-directed learning]]                                                      | 92             | topics/player                                    |
-| [[people/references/lab/alexander obenauer\|alexander obenauer]]                                                      | 91             | people/references/lab                            |
-| [[people/references/lab/gordon brander\|gordon brander]]                                                              | 91             | people/references/lab                            |
-| [[people/references/lab/maggie appleton\|maggie appleton]]                                                            | 91             | people/references/lab                            |
-| [[projects & tools/projects/lab/subconscious (tool)\|subconscious (tool)]]                                            | 91             | projects & tools/projects/lab                    |
-| [[people/references/lab/francis miller\|francis miller]]                                                              | 90             | people/references/lab                            |
-| [[people/references/lab/karlicoss\|karlicoss]]                                                                        | 90             | people/references/lab                            |
-| [[projects & tools/tools/lab/softspace\|softspace]]                                                                   | 90             | projects & tools/tools/lab                       |
-| [[concepts/moloch\|moloch]]                                                                                           | 88             | concepts                                         |
-| [[initiatives, orgs & communities/architect;design/goodly labs\|goodly labs]]                                         | 88             | initiatives, orgs & communities/architect;design |
-| [[initiatives, orgs & communities/architect;design/meaning alignment institute\|meaning alignment institute]]         | 88             | initiatives, orgs & communities/architect;design |
-| [[initiatives, orgs & communities/lab/ink & switch\|ink & switch]]                                                    | 88             | initiatives, orgs & communities/lab              |
-| [[responses/lab/dashboards\|dashboards]]                                                                              | 88             | responses/lab                                    |
-| [[topics/lab/knowledge graphs\|knowledge graphs]]                                                                     | 88             | topics/lab                                       |
-| [[projects & tools/projects/lab/codexOS\|codexOS]]                                                                    | 87             | projects & tools/projects/lab                    |
-| [[models & frameworks/wardley mapping\|wardley mapping]]                                                              | 86             | models & frameworks                              |
-| [[projects & tools/tools/lab/hive.one\|hive.one]]                                                                     | 86             | projects & tools/tools/lab                       |
-| [[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social (ex-tweetscape)]]                        | 86             | projects & tools/projects/lab                    |
-| [[projects & tools/projects/design/mercuryOS\|mercuryOS]]                                                             | 86             | projects & tools/projects/design                 |
-| [[projects & tools/projects/design/scaling synthesis\|scaling synthesis]]                                             | 86             | projects & tools/projects/design                 |
-| [[topics/lab/recommender systems\|recommender systems]]                                                               | 86             | topics/lab                                       |
-| [[projects & tools/projects/design/xanadu\|xanadu]]                                                                   | 84             | projects & tools/projects/design                 |
-| [[projects & tools/tools/lab/catalist network\|catalist network]]                                                     | 82             | projects & tools/tools/lab                       |
-| [[projects & tools/projects/lab/interneto\|interneto]]                                                                | 82             | projects & tools/projects/lab                    |
-| [[initiatives, orgs & communities/architect;design/emergence magazine\|emergence magazine]]                           | 81             | initiatives, orgs & communities/architect;design |
-| [[initiatives, orgs & communities/alchemy/possibility management\|possibility management]]                            | 80             | initiatives, orgs & communities/alchemy          |
-| [[projects & tools/tools/design/hylo\|hylo]]                                                                          | 80             | projects & tools/tools/design                    |
-| [[projects & tools/tools/lab/unit\|unit]]                                                                             | 80             | projects & tools/tools/lab                       |
+| file                                                                                                                     | relevancescore | type                                             | notestage            |
+| ------------------------------------------------------------------------------------------------------------------------ | -------------- | ------------------------------------------------ | -------------------- |
+| [[concepts/design/metacrisis\|metacrisis]]                                                                            | 98             | concepts/design                                  | <ul><li>🌿</li></ul> |
+| [[initiatives, orgs & communities/architect;design/civilization research institute\|civilization research institute]] | 98             | initiatives, orgs & communities/architect;design | \-                   |
+| [[people/references/architect;design/daniel schmachtenberger\|daniel schmachtenberger]]                               | 98             | people/references/architect;design               | <ul><li>🌱</li></ul> |
+| [[_006_core notes/design philosophies\|design philosophies]]                                                          | 98             | _006_core notes                                  | <ul><li>🌱</li></ul> |
+| [[topics/architect;design/coordination systems\|coordination systems]]                                                | 97             | topics/architect;design                          | <ul><li>🌱</li></ul> |
+| [[_004_L1F3/L1F3 support systems\|L1F3 support systems]]                                                              | 97             | _004_L1F3                                        | \-                   |
+| [[concepts/alchemy/integral development\|integral development]]                                                       | 96             | concepts/alchemy                                 | <ul><li>🌱</li></ul> |
+| [[concepts/design/intimacy crisis\|intimacy crisis]]                                                                  | 96             | concepts/design                                  | <ul><li>🌱</li></ul> |
+| [[concepts/design/ring of power\|ring of power]]                                                                      | 96             | concepts/design                                  | <ul><li>🌱</li></ul> |
+| [[initiatives, orgs & communities/alchemy/church of the intimate web\|church of the intimate web]]                    | 96             | initiatives, orgs & communities/alchemy          | <ul><li>🌱</li></ul> |
+| [[initiatives, orgs & communities/architect;design/metagame.wtf\|metagame.wtf]]                                       | 96             | initiatives, orgs & communities/architect;design | \-                   |
+| [[initiatives, orgs & communities/architect;design/SEEDS (ecosystem)\|SEEDS (ecosystem)]]                             | 96             | initiatives, orgs & communities/architect;design | \-                   |
+| [[models & frameworks/alchemy/integral theory\|integral theory]]                                                      | 96             | models & frameworks/alchemy                      | \-                   |
+| [[patterns/pattern collections/knowledge design patterns\|knowledge design patterns]]                                 | 96             | patterns/pattern collections                     | <ul><li>🌱</li></ul> |
+| [[projects & tools/projects/design/diome.xyz\|diome.xyz]]                                                             | 96             | projects & tools/projects/design                 | <ul><li>🌱</li></ul> |
+| [[references/alchemy/first principles and first values\|first principles and first values]]                           | 96             | references/alchemy                               | <ul><li>🌱</li></ul> |
+| [[responses/alchemy/cosmoerotic humanism\|cosmoerotic humanism]]                                                      | 96             | responses/alchemy                                | <ul><li>🌱</li></ul> |
+| [[responses/alchemy/metamodernism\|metamodernism]]                                                                    | 96             | responses/alchemy                                | <ul><li>🌱</li></ul> |
+| [[responses/design/second renaissance\|second renaissance]]                                                           | 96             | responses/design                                 | \-                   |
+| [[responses/regen/permacomputing\|permacomputing]]                                                                    | 96             | responses/regen                                  | <ul><li>🌱</li></ul> |
+| [[topics/architect;design/climate crisis\|climate crisis]]                                                            | 96             | topics/architect;design                          | <ul><li>🌱</li></ul> |
+| [[topics/architect;design/life design\|life design]]                                                                  | 96             | topics/architect;design                          | <ul><li>🌱</li></ul> |
+| [[initiatives, orgs & communities/architect;design/life itself research\|life itself research]]                       | 95             | initiatives, orgs & communities/architect;design | <ul><li>🌱</li></ul> |
+| [[initiatives, orgs & communities/lab/holochain\|holochain]]                                                          | 95             | initiatives, orgs & communities/lab              | \-                   |
+| [[projects & tools/projects/player/world game\|world game]]                                                           | 95             | projects & tools/projects/player                 | \-                   |
+| [[projects & tools/tools/lab/duskOS\|duskOS]]                                                                         | 95             | projects & tools/tools/lab                       | <ul><li>🌱</li></ul> |
+| [[concepts/alchemy/4e cognition\|4e cognition]]                                                                       | 94             | concepts/alchemy                                 | <ul><li>🌱</li></ul> |
+| [[concepts/alchemy/meaning crisis\|meaning crisis]]                                                                   | 94             | concepts/alchemy                                 | \-                   |
+| [[concepts/alchemy/ways of knowing\|ways of knowing]]                                                                 | 94             | concepts/alchemy                                 | <ul><li>🌱</li></ul> |
+| [[concepts/design/legitimacy crisis\|legitimacy crisis]]                                                              | 94             | concepts/design                                  | <ul><li>🌱</li></ul> |
+| [[concepts/design/moloch\|moloch]]                                                                                    | 94             | concepts/design                                  | \-                   |
+| [[concepts/design/the great simplification\|the great simplification]]                                                | 94             | concepts/design                                  | \-                   |
+| [[financial crisis\|financial crisis]]                                                                                | 94             |                                                  | \-                   |
+| [[initiatives, orgs & communities/architect;design/life itself\|life itself]]                                         | 94             | initiatives, orgs & communities/architect;design | <ul><li>🌱</li></ul> |
+| [[people/references/lab/devine lu linvega\|devine lu linvega]]                                                        | 94             | people/references/lab                            | \-                   |
+| [[responses/lab/mapping\|mapping]]                                                                                    | 94             | responses/lab                                    | \-                   |
+| [[responses/regen/regenerative design\|regenerative design]]                                                          | 94             | responses/regen                                  | \-                   |
+| [[topics/architect;design/energy crisis\|energy crisis]]                                                              | 94             | topics/architect;design                          | <ul><li>🌱</li></ul> |
+| [[topics/architect;design/knowledge commons\|knowledge commons]]                                                      | 94             | topics/architect;design                          | \-                   |
+| [[topics/architect;design/lifestyles\|lifestyles]]                                                                    | 94             | topics/architect;design                          | <ul><li>🌱</li></ul> |
+| [[topics/architect;design/personal algorithms design\|personal algorithms design]]                                    | 94             | topics/architect;design                          | <ul><li>🌱</li></ul> |
+| [[topics/architect;design/semantic web\|semantic web]]                                                                | 94             | topics/architect;design                          | <ul><li>🌱</li></ul> |
+| [[topics/architect;design/tools for thought\|tools for thought]]                                                      | 94             | topics/architect;design                          | \-                   |
+| [[topics/lab/information design\|information design]]                                                                 | 94             | topics/lab                                       | \-                   |
+| [[topics/lab/interactive visualizations\|interactive visualizations]]                                                 | 94             | topics/lab                                       | <ul><li>🌱</li></ul> |
+| [[topics/lab/knowledge management\|knowledge management]]                                                             | 94             | topics/lab                                       | \-                   |
+| [[topics/lab/knowledge visualization\|knowledge visualization]]                                                       | 94             | topics/lab                                       | <ul><li>🌱</li></ul> |
+| [[models & frameworks/player/fourgames\|fourgames]]                                                                   | 93             | models & frameworks/player                       | \-                   |
+| [[projects & tools/projects/player/startover.xyz\|startover.xyz]]                                                     | 93             | projects & tools/projects/player                 | <ul><li>🌱</li></ul> |
+| [[responses/art/música do círculo\|música do círculo]]                                                                | 93             | responses/art                                    | \-                   |
+| [[concepts/alchemy/decolonization\|decolonization]]                                                                   | 92             | concepts/alchemy                                 | \-                   |
+| [[people/references/lab/bret victor\|bret victor]]                                                                    | 92             | people/references/lab                            | \-                   |
+| [[people/references/regen/vanessa andreotti\|vanessa andreotti]]                                                      | 92             | people/references/regen                          | <ul><li>🌱</li></ul> |
+| [[projects & tools/tools/lab/human programming interface\|human programming interface]]                               | 92             | projects & tools/tools/lab                       | \-                   |
+| [[topics/player/self-directed learning\|self-directed learning]]                                                      | 92             | topics/player                                    | \-                   |
+| [[models & frameworks/host/pedagogia da cooperação\|pedagogia da cooperação]]                                         | 91             | models & frameworks/host                         | <ul><li>🌱</li></ul> |
+| [[people/references/lab/alexander obenauer\|alexander obenauer]]                                                      | 91             | people/references/lab                            | <ul><li>🌱</li></ul> |
+| [[people/references/lab/gordon brander\|gordon brander]]                                                              | 91             | people/references/lab                            | <ul><li>🌱</li></ul> |
+| [[people/references/lab/maggie appleton\|maggie appleton]]                                                            | 91             | people/references/lab                            | <ul><li>🌱</li></ul> |
+| [[projects & tools/projects/lab/subconscious (tool)\|subconscious (tool)]]                                            | 91             | projects & tools/projects/lab                    | <ul><li>🌱</li></ul> |
+| [[references/music/artists/m4rkim\|m4rkim]]                                                                           | 91             | references/music/artists                         | <ul><li>🌿</li></ul> |
+| [[people/references/lab/francis miller\|francis miller]]                                                              | 90             | people/references/lab                            | \-                   |
+| [[people/references/lab/karlicoss\|karlicoss]]                                                                        | 90             | people/references/lab                            | <ul><li>🌱</li></ul> |
+| [[projects & tools/tools/lab/softspace\|softspace]]                                                                   | 90             | projects & tools/tools/lab                       | <ul><li>🌱</li></ul> |
+| [[initiatives, orgs & communities/architect;design/goodly labs\|goodly labs]]                                         | 88             | initiatives, orgs & communities/architect;design | \-                   |
+| [[initiatives, orgs & communities/architect;design/meaning alignment institute\|meaning alignment institute]]         | 88             | initiatives, orgs & communities/architect;design | \-                   |
+| [[initiatives, orgs & communities/lab/ink & switch\|ink & switch]]                                                    | 88             | initiatives, orgs & communities/lab              | \-                   |
+| [[responses/lab/dashboards\|dashboards]]                                                                              | 88             | responses/lab                                    | <ul><li>🌱</li></ul> |
+| [[topics/lab/knowledge graphs\|knowledge graphs]]                                                                     | 88             | topics/lab                                       | <ul><li>🌱</li></ul> |
+| [[projects & tools/projects/lab/codexOS\|codexOS]]                                                                    | 87             | projects & tools/projects/lab                    | \-                   |
+| [[initiatives, orgs & communities/lab/neighbourhoods\|neighbourhoods]]                                                | 86             | initiatives, orgs & communities/lab              | <ul><li>🌱</li></ul> |
+| [[models & frameworks/design/wardley mapping\|wardley mapping]]                                                       | 86             | models & frameworks/design                       | \-                   |
+| [[projects & tools/projects/design/mercuryOS\|mercuryOS]]                                                             | 86             | projects & tools/projects/design                 | \-                   |
+| [[projects & tools/projects/design/scaling synthesis\|scaling synthesis]]                                             | 86             | projects & tools/projects/design                 | <ul><li>🌱</li></ul> |
+| [[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social (ex-tweetscape)]]                        | 86             | projects & tools/projects/lab                    | \-                   |
+| [[projects & tools/tools/design/weco\|weco]]                                                                          | 86             | projects & tools/tools/design                    | <ul><li>🌱</li></ul> |
+| [[projects & tools/tools/lab/hive.one\|hive.one]]                                                                     | 86             | projects & tools/tools/lab                       | \-                   |
+| [[topics/lab/recommender systems\|recommender systems]]                                                               | 86             | topics/lab                                       | <ul><li>🌱</li></ul> |
+| [[projects & tools/projects/design/xanadu\|xanadu]]                                                                   | 84             | projects & tools/projects/design                 | \-                   |
+| [[projects & tools/projects/lab/interneto\|interneto]]                                                                | 82             | projects & tools/projects/lab                    | \-                   |
+| [[projects & tools/tools/lab/catalist network\|catalist network]]                                                     | 82             | projects & tools/tools/lab                       | \-                   |
+| [[initiatives, orgs & communities/architect;design/emergence magazine\|emergence magazine]]                           | 81             | initiatives, orgs & communities/architect;design | \-                   |
+| [[initiatives, orgs & communities/alchemy/possibility management\|possibility management]]                            | 80             | initiatives, orgs & communities/alchemy          | <ul><li>🌲</li></ul> |
+| [[projects & tools/tools/design/hylo\|hylo]]                                                                          | 80             | projects & tools/tools/design                    | <ul><li>🌱</li></ul> |
+| [[projects & tools/tools/lab/unit\|unit]]                                                                             | 80             | projects & tools/tools/lab                       | <ul><li>🌱</li></ul> |
 
 { .block-language-dataview}
 

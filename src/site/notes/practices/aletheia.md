@@ -1,10 +1,10 @@
 ---
-{"created in":"2024-07-23T02:30:55-03:00","last tended to":"2024-07-24T01:01:34-03:00","tags":["🌱","alchemy","practice"],"dg-publish":true,"permalink":"/practices/aletheia/","dgPassFrontmatter":true,"created":"2024-07-23T02:30:55.328-03:00","updated":"2024-07-24T01:01:37.453-03:00"}
+{"created in":"2024-07-23T02:30:55-03:00","last tended to":"2024-09-24T15:48:08-03:00","tags":["alchemy","practice","🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/practices/aletheia/","dgPassFrontmatter":true,"created":"2024-07-23T02:30:55.328-03:00","updated":"2024-09-24T16:21:21.414-03:00"}
 ---
 
 https://integralunfoldment.com/next-generation
 
-a therapeutic/coaching practice/methodology of "[[unfoldment\|unfoldment]]" proposed by [[steve march\|steve march]], integrating wisdom from multiple [[concepts/psychospiritual tools & practices\|psychospiritual tools & practices]] into an [[ecology of practices\|ecology of practices]]. it feels really resonant and i want to learn/experience more of it in the coming months.
+a therapeutic/coaching practice/methodology of "[[unfoldment\|unfoldment]]" proposed by [[steve march\|steve march]], integrating wisdom from multiple [[concepts/alchemy/psychospiritual tools & practices\|psychospiritual tools & practices]] into an [[ecology of practices\|ecology of practices]]. it feels really resonant and i want to learn/experience more of it in the coming months.
 
 a great intro: https://podcasters.spotify.com/pod/show/emerge/episodes/Steve-March---An-Integrated-Ecology-of-Practice-for-the-Meta-Crisis-e1jnsno
 

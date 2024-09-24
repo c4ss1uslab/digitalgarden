@@ -1,5 +1,5 @@
 ---
-{"aliases":["topics","fields","fields of knowledge"],"created in":"2021-12-11T16:52:03-03:00","last tended to":"2024-09-07T19:03:12-03:00","dg-publish":true,"tags":["🌿"],"permalink":"/001-mo-cs/025-long-game/025-topics-and-references-moc/","dgPassFrontmatter":true,"created":"2021-12-11T16:52:03.339-03:00","updated":"2024-09-07T20:47:32.594-03:00"}
+{"aliases":["topics","fields","fields of knowledge"],"created in":"2021-12-11T16:52:03-03:00","last tended to":"2024-09-07T20:47:32-03:00","dg-publish":true,"tags":["🌿"],"permalink":"/001-mo-cs/025-long-game/025-topics-and-references-moc/","dgPassFrontmatter":true,"created":"2021-12-11T16:52:03.339-03:00","updated":"2024-09-16T15:30:06.931-03:00"}
 ---
 
 on the contents below, the emojis mean different things. here's their caption:
@@ -26,21 +26,21 @@ level of depth:
 #### topics i'm most interested in / [[aliveness map\|aliveness map]]:
 
 #### 🧙🏻‍♂️ [[_005_c4ss1us/c4ss1us.alchemy\|.alchemy]]
-##### 🌌 [[concepts/consciousness\|consciousness]]
-🌲 [[concepts/metacrisis\|metacrisis]]
-	([[concepts/meaning crisis\|meaning crisis]] / [[existential crisis\|existential crisis]] / [[wisdom crisis\|wisdom crisis]])
-	--> [[concepts/health crisis\|health crisis]] / [[education crisis\|education crisis]] / [[commons\|commons]] [[crisis\|crisis]]
+##### 🌌 [[concepts/alchemy/consciousness\|consciousness]]
+🌲 [[concepts/design/metacrisis\|metacrisis]]
+	([[concepts/alchemy/meaning crisis\|meaning crisis]] / [[existential crisis\|existential crisis]] / [[wisdom crisis\|wisdom crisis]])
+	--> [[concepts/design/health crisis\|health crisis]] / [[education crisis\|education crisis]] / [[commons\|commons]] [[crisis\|crisis]]
 🌲 [[meta-perspectival frameworks\|meta-perspectival frameworks]]
 	🔥 [[topics/architect;design/ontological design\|ontological design]]
-	🔥 [[models & frameworks/fourgames\|fourgames]]
-	🔥 [[models & frameworks/integral theory\|integral meta-theory]]
-	🔥 [[models & frameworks/metadesign\|metadesign]] (portuguese)
+	🔥 [[models & frameworks/player/fourgames\|fourgames]]
+	🔥 [[models & frameworks/alchemy/integral theory\|integral meta-theory]]
+	🔥 [[models & frameworks/design/metadesign\|metadesign]] (portuguese)
 🌲 [[topics/player/self-directed learning\|self-directed learning]]
 	🔥 [[initiatives, orgs & communities/player/MoL\|MoL]] / [[unilivre\|unilivre]] (portuguese)
 	🔥 [[reaprendiz\|reaprendiz]] (portuguese)
 🌲 [[topics/architect;design/life design\|life design]] / [[tbprocessed/base notes/topics/life gamification\|life gamification]]
 	[[_002_toolkit/000 ⛓ l1f3 player toolkit\|🧰 l1f3 player toolkit]]
-🌲 [[concepts/self-management\|self-management]]
+🌲 [[concepts/alchemy/self-management\|self-management]]
 	🧰 [[_004_L1F3/l1f3 management methodology\|l1f3 management methodology]]
 	🔥 [life manager (ísis' approach)](https://www.youtube.com/watch?v=Nxo8hX97ojk) (portuguese)
 🌿 [[topics/alchemy/spiritual lineages\|wisdom traditions]] & [[ecologies of practices\|ecologies of practices]]
@@ -51,9 +51,9 @@ level of depth:
 	🌿 [[topics/alchemy/mushrooms\|mushrooms]]
 	🌿 [[ayahuasca\|ayahuasca]]
 	🌱 [[MDMA\|MDMA]]
-🌿 [[concepts/self design\|self design]]
-	🧪 [[models & frameworks/archetypal matrix\|archetypal matrix]]
-	🧪 [[concepts/extended cognition\|extended cognition]]
+🌿 [[concepts/alchemy/self design\|self design]]
+	🧪 [[models & frameworks/alchemy/archetypal matrix\|archetypal matrix]]
+	🧪 [[concepts/design/extended cognition\|extended cognition]]
 	🌱 [[thoughtware design\|thoughtware design]]
 
 #### ✒ [[_005_c4ss1us/c4ss1us.design\|.design]]
@@ -64,20 +64,20 @@ level of depth:
 	🔥 [[initiatives, orgs & communities/architect;design/sublime (ex-startupy)\|sublime (ex-startupy)]]
 🌲 [[topics/alchemy/sensemaking\|sensemaking]]
 	📂 [favorite sensemaking videos playlist](https://www.youtube.com/playlist?list=PLj8H7uBaUwDvd18QrEPugPMD5Z6Y0W-vB)
-🌿 [[concepts/life streaming\|life streaming]]
+🌿 [[concepts/design/life streaming\|life streaming]]
 	🧰 [[_004_L1F3/l1f3 streaming system\|life streaming system]]
-🌿 [[concepts/life intelligence\|life intelligence]]
+🌿 [[concepts/design/life intelligence\|life intelligence]]
 	🧪 [[3rd brain workflow\|3rd brain workflow]]
 ##### 🌐 [[topics/architect;design/systems\|systems]]
 🌲 [[meta-systems\|meta-systems]] for [[topics/alchemy/sensemaking\|sensemaking]], [[topics/player/play\|play]], [[topics/architect;design/coordination systems\|coordination systems]] & [[terms/collaboration\|collaboration]]
-🌲 [[concepts/civilization design\|civilization design]]
-	[[concepts/network state\|network states]]
+🌲 [[concepts/design/civilization design\|civilization design]]
+	[[concepts/design/network state\|network states]]
 	[[smart cities\|smart cities]] / [[smart villages\|smart villages]]
 	[[ecovillages\|ecovillages]] / [[intentional communities\|intentional communities]]
 🌿 [[topics/architect;design/new economies\|new economies]] & [[initiatives, orgs & communities/organizations MOC\|organizations]] [economic]
 	🌿 [[concepts/multicurrencies economy\|concepts/multicurrencies economy]] / [[initiatives, orgs & communities/DAOs MOC\|DAOs MOC]]
 	🌿 [[creator economy\|creator economy]] / [[curator economy\|curator economy]]
-	🌱 [[collaborative economy\|collaborative economy]] / [[concepts/shared economy\|shared economy]]
+	🌱 [[collaborative economy\|collaborative economy]] / [[concepts/design/shared economy\|shared economy]]
 🌿 [[new lifestyles\|new lifestyles]] & [[reality models\|reality models]] (metagame) [personal]
 🌱 [[new culture\|new culture]], [[areas/relationships\|relationships]] & [[communities\|communities]] (governance) [social]
 🌱 [[new ecologies\|new ecologies]] & [[areas/environments\|environments]] (regenerative systems design) [ecological]
@@ -88,7 +88,7 @@ level of depth:
 
 #### 👨🏻‍🔬 [[_005_c4ss1us/c4ss1us.lab\|.lab]]
 ##### 💻 [[topics/architect;design/technology\|technology]]
-🌲 [[topics/lab/knowledge management\|PKM]] / [[concepts/life management\|life management]]
+🌲 [[topics/lab/knowledge management\|PKM]] / [[concepts/design/life management\|life management]]
 	🔩 [[_004_L1F3/l1f3 management methodology\|life management methodology (LMM)]] ([[obsidian system\|obsidian system]])
 	🔩 [[projects & tools/proprietary/disruptive life management system\|DLMS - disruptive life management system]] ([[notion system\|notion system]])
 	🔩 [[tbprocessed/base notes/tools;products - proprietary/tools/life organization & visualization system\|LOVS - life organization & visualization system]] ([[notion system\|notion system]])
@@ -101,7 +101,7 @@ level of depth:
 	🧪 [[prototypes/on hold/l1f3 player dashboard\|l1f3 player dashboard]]
 	🧰 [[_002_toolkit/000 ⛓ l1f3 player toolkit\|l1f3 player toolkit]] ([[pinterest curation\|pinterest curation]] / [[projects & tools/tools/player/game UI database\|game UI database]])
 🌿 [[responses/lab/mapping\|mapping]]
-	🔥 [[models & frameworks/wardley mapping\|wardley mapping]]
+	🔥 [[models & frameworks/design/wardley mapping\|wardley mapping]]
 	🔥 [[maps curation\|maps curation]] (twitter link)
 	🧪 [[tbprocessed/base notes/tools;products - proprietary/tools/life map\|life map]]
 	🧪 [[prototypes/on hold/l1f3 projects' references map\|l1f3 projects' references map]]
@@ -119,14 +119,14 @@ level of depth:
 	🔥 [[prototypes/not proprietary/synapsis\|synapsis]]
 	🔥 [[initiatives, orgs & communities/architect;design/protocol labs\|protocol labs]]
 	🔥 [[projects & tools/tools/lab/human programming interface\|human programming interface]]
-	💡 [[concepts/personal tech stack\|personal tech stack]]
+	💡 [[concepts/design/personal tech stack\|personal tech stack]]
 🌱 [[topics/lab/programming\|programming]]
 
 #### 👨🏻‍🎨 [[_005_c4ss1us/c4ss.art\|.art]]
 ##### 🎨 [[tbprocessed/base notes/concepts - general/art\|art]]
-🌿 [[concepts/gameworld building\|gameworld building]]
+🌿 [[concepts/player/gameworld building\|gameworld building]]
 🌿 [[topics/player/game design\|game design]]
-🌿 [[memetics\|memetics]]
+🌿 [[concepts/design/memetics\|memetics]]
 🌿 [[narrative design\|narrative design]]
 🌱 [[videoscapes\|videoscapes]]
 	📂 [[_005_c4ss1us/c4ss1us.log ambience playlists\|_005_c4ss1us/c4ss1us.log ambience playlists]]
@@ -148,14 +148,14 @@ level of depth:
 	🧰 [[_004_L1F3/l1f3 player system\|l1f3 player system]]
 	[[_002_toolkit/000 ⛓ l1f3 player toolkit\|🧰 l1f3 player toolkit]]
 	🔩 [[life gaming methodology\|life gaming methodology (LGM)]]
-	💡 [[concepts/player lifestyle\|player lifestyle]]
+	💡 [[concepts/player/player lifestyle\|player lifestyle]]
 	📂 [[life gamification methodologies\|life gamification methodologies]]
 🌲 [[topics/player/gaming\|gaming]]
 	🌲 [[MMORPG\|MMORPG]]
 	🌿 [[RPG\|RPG]]
 	💩 [[VRMMORPG\|VRMMORPG]]
 🌿 [[gamified learning\|gamified learning]]
-🌿 [[concepts/evolutionary games\|evolutionary games]] / [[regenerative games\|regenerative games]]
+🌿 [[concepts/alchemy/evolutionary games\|evolutionary games]] / [[regenerative games\|regenerative games]]
 	- types:
 	--> [[creative games\|creative games]]
 	--> [[collaborative games\|collaborative games]]
@@ -165,7 +165,7 @@ level of depth:
  --> 🔥 [[self-discovery games\|self-discovery games]]
 		--> [[mahalila\|mahalila]]
 		--> [[i-ching\|i-ching]]
-		--> [[models & frameworks/tzolkin\|models & frameworks/tzolkin]]
+		--> [[models & frameworks/alchemy/tzolkin\|models & frameworks/alchemy/tzolkin]]
 		--> [[writings/journal/22-02-20 - tarot reading\|22-02-20 - tarot reading]]
 	--> 🌬 [[mind expansion games\|mind expansion games]]
 		--> [[projects & tools/tools/player/fourgames card deck\|fourgames card deck]]
@@ -185,9 +185,9 @@ level of depth:
 #### 👨🏻‍🎤 [[_005_c4ss1us/c4ss.host\|.host]]
 ##### 🎎 [[areas/relationships\|relationships]]
 🌿 [[communication frameworks\|communication frameworks]]
-	🔥 [[models & frameworks/integral theory\|integral theory]]
+	🔥 [[models & frameworks/alchemy/integral theory\|integral theory]]
 	🔥 [[initiatives, orgs & communities/alchemy/possibility management\|possibility management]]
-	🔥 [[memetics\|memetics]]
+	🔥 [[concepts/design/memetics\|memetics]]
 🌿 [[collective intelligence\|collective intelligence]] tools
 	🔥 [[iris AI\|iris AI]]
 	🔥 [[initiatives, orgs & communities/architect;design/sublime (ex-startupy)\|sublime (ex-startupy)]]
@@ -197,8 +197,8 @@ level of depth:
 	💩 [[responses/art/música do círculo\|música do círculo]]
 	💩 [[initiatives, orgs & communities/athlete/playfight\|playfight]]
 🌱 [[resource allocation\|resource allocation]] tools
-	🔥 [[models & frameworks/fluxonomy 4d\|fluxonomy 4d]]
-	🔥 [[metacurrency\|metacurrency]] / [[models & frameworks/forms of capital\|12 forms of capital]]
+	🔥 [[models & frameworks/design/fluxonomy 4d\|fluxonomy 4d]]
+	🔥 [[metacurrency\|metacurrency]] / [[models & frameworks/design/forms of capital\|12 forms of capital]]
 
 #### 🎶 [[_005_c4ss1us/c4ss.music\|.music]]
 
@@ -273,7 +273,7 @@ practice
 
 - clarity & preparation
 	- [[topics/alchemy/sensemaking\|sensemaking]]
-	- [[concepts/meta-systemic design\|meta-systemic design]]
+	- [[concepts/design/meta-systemic design\|meta-systemic design]]
 		- [[design methodologies\|design methodologies]]
 			- [[responses/regen/regenerative design\|regenerative design]]
 		- [[tbprocessed/base notes/topics/financial ecosystem\|financial ecosystem]]
@@ -307,7 +307,7 @@ practice
 
 
 #### general topics:
-- [[social systems\|social systems]], [[infrastructure\|infrastructure]], [[superstructure\|superstructure]]
+- [[social systems\|social systems]], [[concepts/design/infrastructure\|infrastructure]], [[concepts/design/superstructure\|superstructure]]
 [[structures\|structures]], [[topics/architect;design/systems\|systems]], [[processes\|processes]], [[areas/relationships\|relationships]] & [[resources\|resources]]
 	- [[terms/information\|information]]
 		- [[governance\|governance]]
@@ -330,7 +330,7 @@ practice
 	
 	
 the future of:
--   [[topics/alchemy/spirituality\|spirituality]] / [[concepts/consciousness development\|consciousness development]]
+-   [[topics/alchemy/spirituality\|spirituality]] / [[concepts/alchemy/consciousness development\|consciousness development]]
 -   [[topics/player/learning\|learning]] / [[education\|education]]
 -   [[terms/work\|work]] / [[terms/collaboration\|collaboration]]
 -   [[topics/player/gaming\|gaming]] / [[topics/player/play\|play]]
@@ -348,13 +348,13 @@ the future of:
 #### by sphere:
 
 ##### [[tbprocessed/base notes/ventures - proprietary/reality disruption labs\|reality disruption labs]]
-- [[concepts/multidimensional artifacts\|multidimensional objects]]
-- [[concepts/guilds\|real-life guilds]]
+- [[concepts/alchemy/multidimensional artifacts\|multidimensional objects]]
+- [[concepts/player/guilds\|real-life guilds]]
 
 ##### [[tbprocessed/KOSMOS/KOSMOS\|KOSMOS]] / [[reality disruption ecosystem\|reality disruption ecosystem]]
 - [[tbprocessed/base notes/ventures - proprietary/reality disruption labs\|reality disruption labs]]
 - [[initiatives, orgs & communities/alchemy/possibility management\|possibility management]]
-- [[concepts/gameworld building\|gameworld building]]
+- [[concepts/player/gameworld building\|gameworld building]]
 
 ##### [[initiatives, orgs & communities/host/mundos possíveis\|mundos possíveis]]
 - [[DAO-DHO evolution\|DAO-DHO evolution]] + [[topics/player/gamification\|gamification]]

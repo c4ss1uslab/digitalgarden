@@ -1,10 +1,10 @@
 ---
-{"created in":"2024-03-19T17:52:10-03:00","last tended to":"2024-08-23T17:43:49-03:00","tags":["alchemy","concept","🌱","metacrisis"],"relevancescore":96,"dg-publish":true,"permalink":"/responses/alchemy/cosmoerotic-humanism/","dgPassFrontmatter":true,"created":"2024-05-04T18:13:54.780-03:00","updated":"2024-09-02T15:06:05.595-03:00"}
+{"created in":"2024-03-19T17:52:10-03:00","last tended to":"2024-09-24T15:53:56-03:00","tags":["alchemy","concept","metacrisis","philosophy","🌱"],"relevancescore":96,"dg-publish":true,"notestage":["🌱"],"permalink":"/responses/alchemy/cosmoerotic-humanism/","dgPassFrontmatter":true,"created":"2024-05-04T18:13:54.780-03:00","updated":"2024-09-24T16:23:06.740-03:00"}
 ---
 
-really powerful philosophy proposed by [[david j. temple\|david j. temple]] as an evolution of [[perennial philosophy\|perennial philosophy]], [[topics/alchemy/spiritual lineages\|wisdom traditions]] and [[concepts/interior sciences\|interior]]/[[terms/sciences\|exterior sciences]] to address the [[systemic challenges\|systemic challenges]] and [[callings\|callings]] of our time & species.
+really powerful philosophy proposed by [[david j. temple\|david j. temple]] as an evolution of [[perennial philosophy\|perennial philosophy]], [[topics/alchemy/spiritual lineages\|wisdom traditions]] and [[concepts/alchemy/interior sciences\|interior]]/[[terms/sciences\|exterior sciences]] to address the [[systemic challenges\|systemic challenges]] and [[callings\|callings]] of our time & species.
 
-associated with: [[people/references/alchemy/ken wilber\|ken wilber]]/[[models & frameworks/integral theory\|integral theory]], [[concepts/metacrisis\|metacrisis]], [[initiatives, orgs & communities/architect;design/civilization research institute\|civilization research institute]].
+associated with: [[people/references/alchemy/ken wilber\|ken wilber]]/[[models & frameworks/alchemy/integral theory\|integral theory]], [[concepts/design/metacrisis\|metacrisis]], [[initiatives, orgs & communities/architect;design/civilization research institute\|civilization research institute]].
 
 ---
 ##### recommended resources

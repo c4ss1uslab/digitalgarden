@@ -1,5 +1,5 @@
 ---
-{"aliases":["🕹 l1f3 game","life game","🕹 life game","massively-multiplayer online-and-offline collaborative self-transformation & civilization-building game","L1F3.GAME","l1f3.game","🕹 L1F3.game","🕹 L1F3 game","🕹 L1F3.GAME","L1F3 game","L1F3.game"],"created in":"2022-02-05T11:41:05-03:00","last tended to":"2024-09-08T00:11:57-03:00","dg-publish":true,"tags":["l1f3","project","🌿","game","seriousgame","player"],"permalink":"/004-l1-f3/l1f3-game/","dgPassFrontmatter":true,"created":"2022-02-05T11:41:05.535-03:00","updated":"2024-09-08T00:11:57.135-03:00"}
+{"aliases":["🕹 l1f3 game","life game","🕹 life game","massively-multiplayer online-and-offline collaborative self-transformation & civilization-building game","L1F3.GAME","l1f3.game","🕹 L1F3.game","🕹 L1F3 game","🕹 L1F3.GAME","L1F3 game","L1F3.game"],"created in":"2022-02-05T11:41:05-03:00","last tended to":"2024-09-16T14:45:41-03:00","dg-publish":true,"tags":["l1f3","project","🌿","game","seriousgame","player"],"permalink":"/004-l1-f3/l1f3-game/","dgPassFrontmatter":true,"created":"2022-02-05T11:41:05.535-03:00","updated":"2024-09-16T14:45:41.867-03:00"}
 ---
 
 the l1f3 game is an ongoing endeavor to:
@@ -8,7 +8,7 @@ the l1f3 game is an ongoing endeavor to:
 { #cff951}
 
 
-a game oriented towards supporting/challenging us on our path of [[tbprocessed/base notes/concepts - general/conscious evolution\|conscious evolution]] and development of more [[conscious\|conscious]], [[terms/fun\|fun]], [[terms/collaboration\|collaborative]], [[topics/architect;design/regeneration\|regenerative]] and [[tbprocessed/base notes/concepts - general/disruption\|disruptive]]¹ [[topics/architect;design/systems\|systems]] - for addressing our [[concepts/metacrisis\|personal and civilizational crises]].
+a game oriented towards supporting/challenging us on our path of [[tbprocessed/base notes/concepts - general/conscious evolution\|conscious evolution]] and development of more [[conscious\|conscious]], [[terms/fun\|fun]], [[terms/collaboration\|collaborative]], [[topics/architect;design/regeneration\|regenerative]] and [[tbprocessed/base notes/concepts - general/disruption\|disruptive]]¹ [[topics/architect;design/systems\|systems]] - for addressing our [[concepts/design/metacrisis\|personal and civilizational crises]].
 
 for the sake of resilience, values-alignment and accessibility, it has to be built on top of [[_004_L1F3/l1f3 protocol\|an open-source, distributed, modular, interoperable protocol for playing life - individually and together]].
 
@@ -16,19 +16,19 @@ for the sake of resilience, values-alignment and accessibility, it has to be bui
 
 the L1F3 game exists so we can play life in more conscious, fun, collaborative, impactful, regenerative ways.
 
-play is both an attitude and an [[terms/action\|action]], it happens at all levels above [[data\|data]], [[terms/information\|information]] and [[knowledge\|knowledge]]. considering the [[models & frameworks/OODA loop\|OODA loop]], to play is an agreement, a decision that transforms your whole loop - it changes how you observe, orient, decide and act moving forward.
+play is both an attitude and an [[terms/action\|action]], it happens at all levels above [[data\|data]], [[terms/information\|information]] and [[knowledge\|knowledge]]. considering the [[models & frameworks/design/OODA loop\|OODA loop]], to play is an agreement, a decision that transforms your whole loop - it changes how you observe, orient, decide and act moving forward.
 
-[[models & frameworks/fourgames\|fourgames]] introduces a simple yet profound lens for how [[life is play\|life is play]]. the games we are always playing and can choose to be more conscious of.
+[[models & frameworks/player/fourgames\|fourgames]] introduces a simple yet profound lens for how [[life is play\|life is play]]. the games we are always playing and can choose to be more conscious of.
 
 ancient [[topics/alchemy/spiritual lineages\|wisdom traditions]] also do so by saying that life is a [[lila\|lila]], [[maya\|maya]], yet also a journey of [[tbprocessed/base notes/concepts - general/conscious evolution\|conscious evolution]].
 
-[[topics/alchemy/indigenous wisdom\|indigenous wisdom]] might state that life is about [[topics/player/learning\|learning]], [[terms/creation\|creating]], [[concepts/healing\|healing]], [[terms/sharing\|sharing]], [[topics/player/play\|playing]]. and meta-theorists such as [[people/references/alchemy/ken wilber\|ken wilber]] encapsulate it as [[concepts/waking up\|concepts/waking up]], [[concepts/growing up\|growing up]], [[concepts/cleaning up\|cleaning up]], [[concepts/showing up\|showing up]], [[concepts/opening up\|opening up]]. 
+[[topics/alchemy/indigenous wisdom\|indigenous wisdom]] might state that life is about [[topics/player/learning\|learning]], [[terms/creation\|creating]], [[concepts/alchemy/healing\|healing]], [[terms/sharing\|sharing]], [[topics/player/play\|playing]]. and meta-theorists such as [[people/references/alchemy/ken wilber\|ken wilber]] encapsulate it as [[concepts/alchemy/waking up\|concepts/alchemy/waking up]], [[concepts/alchemy/growing up\|growing up]], [[concepts/alchemy/cleaning up\|cleaning up]], [[concepts/alchemy/showing up\|showing up]], [[concepts/alchemy/opening up\|opening up]]. 
 
-[[cyberneticians\|cyberneticians]] might use the [[models & frameworks/OODA loop\|OODA loop]] often, using the [[sensing\|sensing]], [[topics/alchemy/sensemaking\|sensemaking]], [[terms/decision-making\|decision-making]], [[terms/action\|action]], [[topics/player/learning\|learning]] loops to study the [[patterns of living systems\|patterns of living systems]] and do [[complexity-informed design\|complexity-informed design]].
+[[cyberneticians\|cyberneticians]] might use the [[models & frameworks/design/OODA loop\|OODA loop]] often, using the [[sensing\|sensing]], [[topics/alchemy/sensemaking\|sensemaking]], [[terms/decision-making\|decision-making]], [[terms/action\|action]], [[topics/player/learning\|learning]] loops to study the [[patterns of living systems\|patterns of living systems]] and do [[complexity-informed design\|complexity-informed design]].
 
 [[regenerative designers\|regenerative designers]] (ana), [[cognitive scientists\|cognitive scientists]] -> [[relevance realization\|relevance realization]] and [[reciprocal narrowing\|reciprocal narrowing]]...
 
-i ([[tbprocessed/working on/[3Q; IC] - planning;communication/c4ss1us\|c4ss1us]]) might say: let's build systems to enable deeper levels of [[terms/collaboration\|collaboration]], [[topics/architect;design/coordination systems\|coordination systems]], [[terms/design\|design]] and [[concepts/self-transformation\|self-transformation]] in life!
+i ([[tbprocessed/working on/[3Q; IC] - planning;communication/c4ss1us\|c4ss1us]]) might say: let's build systems to enable deeper levels of [[terms/collaboration\|collaboration]], [[topics/architect;design/coordination systems\|coordination systems]], [[terms/design\|design]] and [[concepts/alchemy/self-transformation\|self-transformation]] in life!
 
 many other philosophers, anthropologists, researchers, historians, educators, biologists, and people from all fields, backgrounds and journeys also have their valuable perspectives to add...
 
@@ -57,14 +57,14 @@ source: [[buckminster fuller institute\|buckminster fuller institute]], os.earth
 
 
 [[initiatives, orgs & communities/architect;design/metagame.wtf\|metagame.wtf]]
-source: [[tbprocessed/base notes/people/peth\|peth]], [[concepts/metacrisis\|metacrisis]] / [[tbprocessed/base notes/concepts - general/game b\|game b]] space
+source: [[tbprocessed/base notes/people/peth\|peth]], [[concepts/design/metacrisis\|metacrisis]] / [[tbprocessed/base notes/concepts - general/game b\|game b]] space
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/initiatives-orgs-and-communities/architect-design/metagame-wtf/#fc662c" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-*metagame* is a [[topics/architect;design/web3\|web3]] community building a [massive online coordination game](https://metagame.wtf/) - oriented towards figuring out how to play life together, address the [[concepts/metacrisis\|metacrisis]] and [[concepts/moloch\|moloch]], and build new socio-economic systems more aligned with the better versions of ourselves. 
+*metagame* is a [[topics/architect;design/web3\|web3]] community building a [massive online coordination game](https://metagame.wtf/) - oriented towards figuring out how to play life together, address the [[concepts/design/metacrisis\|metacrisis]] and [[concepts/design/moloch\|moloch]], and build new socio-economic systems more aligned with the better versions of ourselves. 
 
 </div></div>
 
@@ -121,7 +121,7 @@ the contents of the writing below are currently haphazard, disjointed and all ov
 
 [[race\|race]]
 [[classes\|classes]]
-[[concepts/attributes\|attributes]]
+[[concepts/player/attributes\|attributes]]
 [[background\|background]]
 [[skills\|skills]]
 [[talents\|talents]]
@@ -174,19 +174,19 @@ flow lives in between challenge and comfort.
 
 #### what are the possible games to play? / what are the games people often play?
 
--> being/becoming yourself. healing. growing. evolving. - [[concepts/solar plexus chakra\|solar plexus chakra]] / [[concepts/crown chakra\|crown chakra]]
--> [[economy\|economy]], [[tbprocessed/base notes/topics/resources generation\|generating resources]] (usually [[building a business\|building a business]]) - [[concepts/root chakra\|root chakra]]
--> [[relationship development\|relationship development]] / [[network\|network]] building (usually [[topics/host/community building\|building a community]]) - [[concepts/sacral chakra\|sacral chakra]] / [[concepts/heart chakra\|heart chakra]]
--> [[influence\|influence]], [[terms/communication\|communication]] (usually [[building a media\|building a media]]) - [[concepts/throat chakra\|throat chakra]]
--> [[topics/lab/technology development\|developing technology]], [[topics/architect;design/systems development\|developing systems]] (usually by [[building a product\|building a product]]) - [[concepts/third eye chakra\|third eye chakra]]
+-> being/becoming yourself. healing. growing. evolving. - [[concepts/alchemy/solar plexus chakra\|solar plexus chakra]] / [[concepts/alchemy/crown chakra\|crown chakra]]
+-> [[economy\|economy]], [[tbprocessed/base notes/topics/resources generation\|generating resources]] (usually [[building a business\|building a business]]) - [[concepts/alchemy/root chakra\|root chakra]]
+-> [[relationship development\|relationship development]] / [[network\|network]] building (usually [[topics/host/community building\|building a community]]) - [[concepts/alchemy/sacral chakra\|sacral chakra]] / [[concepts/alchemy/heart chakra\|heart chakra]]
+-> [[influence\|influence]], [[terms/communication\|communication]] (usually [[building a media\|building a media]]) - [[concepts/alchemy/throat chakra\|throat chakra]]
+-> [[topics/lab/technology development\|developing technology]], [[topics/architect;design/systems development\|developing systems]] (usually by [[building a product\|building a product]]) - [[concepts/alchemy/third eye chakra\|third eye chakra]]
 -> [[creating art\|creating art]]
 
 ###### [[areas/spiritual\|spiritual]]/personal
 [[solving a problem\|solving a problem]] ([[depression\|depression]], [[anxiety\|anxiety]], [[sense of being lost\|sense of being lost]]) -> [[becoming more aligned\|becoming more aligned]]
-[[concepts/initiation\|initiation]]
+[[concepts/alchemy/initiation\|initiation]]
 [[underworld conquering\|underworld conquering]]
 [[7 chakras\|7 chakras]]
-[[concepts/ego states\|ego states]]
+[[concepts/alchemy/ego states\|ego states]]
 [[_002_toolkit/classes/archetypes MOC\|archetypes MOC]]
 aligning with [[nature cycles\|nature cycles]]
 [[fasting\|fasting]]
@@ -236,7 +236,7 @@ in short, the level of responsibility. in most [[topics/player/gamification\|gam
 
 in real life, everyone is co-creating reality. [[_004_L1F3/l1f3 game\|L1[[l1f3 game]]oduct you buy and use, it's something you co-create by participating. you are at the same time the [[designer\|designer]] and the [[player\|player]] of your own life (and its games).
 
-there's a huge difference in the mindset, and therefore, in how we act, play, and experience reality itself. if we recognize that life is a [[tbprocessed/base notes/ventures - general/meta-game\|meta-game]], and opt for co-designing it, we have way more [[concepts/sovereignty\|sovereignty]] and [[concepts/agency\|agency]].
+there's a huge difference in the mindset, and therefore, in how we act, play, and experience reality itself. if we recognize that life is a [[tbprocessed/base notes/ventures - general/meta-game\|meta-game]], and opt for co-designing it, we have way more [[concepts/alchemy/sovereignty\|sovereignty]] and [[concepts/alchemy/agency\|agency]].
 
 that's the proposal of the [[_004_L1F3/l1f3 game\|L1[[l1f3 game]]ther [[serious life games\|serious life games]].
 
@@ -252,7 +252,7 @@ there's also a big challenge in [[topics/architect;design/web3\|web3]]/crypto sp
 
 **Q: what's the difference between this and [[projects & tools/projects/player/startover.xyz\|startover.xyz]]?**
 
-they're much more focused on internal transformation than the balance between internal and external contribution/expression, while we're more oriented by [[models & frameworks/integral theory\|integral theory]]'s distinctions of the [[models & frameworks/four facets of integral development\|four facets of integral development]].
+they're much more focused on internal transformation than the balance between internal and external contribution/expression, while we're more oriented by [[models & frameworks/alchemy/integral theory\|integral theory]]'s distinctions of the [[models & frameworks/alchemy/four facets of integral development\|four facets of integral development]].
 
 they're also more interested in furthering their own empirical research rather than integrating different [[topics/alchemy/spiritual lineages\|wisdom traditions]] and [[_001_MOCs/025 🔷 long game/025 🗺 topics & references MOC\|fields of knowledge]].
 
@@ -270,7 +270,7 @@ one way we can begin to create that is by choosing to play a game of finding/ali
 
 everyone has a unique energetic fingerprint, so finding out / aligning with yours is a lifelong mission.
 
-but for starters, [[concepts/flow\|flow]] lives in between challenge and comfort.
+but for starters, [[concepts/alchemy/flow\|flow]] lives in between challenge and comfort.
 
 for example, specifically, for me this means:
 -> taking actions that push me out of my box/comfort zone but that are not too challenging.
@@ -287,7 +287,7 @@ what moves you?
 
 -> what are the possible games to be played? / what are the games people often play?
 
-refs: [[games people play\|games people play]], [[a jogada\|a jogada]], [[models & frameworks/fourgames\|fourgames]], (...)
+refs: [[games people play\|games people play]], [[a jogada\|a jogada]], [[models & frameworks/player/fourgames\|fourgames]], (...)
 
 despertar, curar, aprender, servir, curtir
 (awakening, healing, learning, serving, enjoying)
@@ -296,20 +296,20 @@ creating / cultivating / learning / sharing
 
 managing oneself (energy, time, parts, thoughts, emotions, actions)
 
--> [[terms/introspection\|introspection]], discovering yourself. awakening. healing. unfolding. - [[concepts/solar plexus chakra\|solar plexus chakra]] / [[concepts/crown chakra\|crown chakra]]
--> [[economy\|economy]], [[tbprocessed/base notes/topics/resources generation\|generating resources]] (usually [[entrepreneurship\|entrepreneurship]], [[sales\|sales]], [[marketing\|marketing]], [[management\|management]]) - [[concepts/root chakra\|root chakra]]
--> [[relationship development\|relationship development]] / [[network\|network]] building (usually [[topics/host/community building\|community building]]) - [[concepts/sacral chakra\|sacral chakra]] / [[concepts/heart chakra\|heart chakra]]
--> [[influence\|influence]], [[terms/communication\|communication]] (usually [[areas/content creation\|content creation]]) - [[concepts/throat chakra\|throat chakra]]
--> tech design, [[topics/lab/technology development\|technology development]], [[topics/architect;design/systems development\|systems development]] (usually by [[building a product\|building a product]]) - [[concepts/third eye chakra\|third eye chakra]]
+-> [[terms/introspection\|introspection]], discovering yourself. awakening. healing. unfolding. - [[concepts/alchemy/solar plexus chakra\|solar plexus chakra]] / [[concepts/alchemy/crown chakra\|crown chakra]]
+-> [[economy\|economy]], [[tbprocessed/base notes/topics/resources generation\|generating resources]] (usually [[entrepreneurship\|entrepreneurship]], [[sales\|sales]], [[marketing\|marketing]], [[management\|management]]) - [[concepts/alchemy/root chakra\|root chakra]]
+-> [[relationship development\|relationship development]] / [[network\|network]] building (usually [[topics/host/community building\|community building]]) - [[concepts/alchemy/sacral chakra\|sacral chakra]] / [[concepts/alchemy/heart chakra\|heart chakra]]
+-> [[influence\|influence]], [[terms/communication\|communication]] (usually [[areas/content creation\|content creation]]) - [[concepts/alchemy/throat chakra\|throat chakra]]
+-> tech design, [[topics/lab/technology development\|technology development]], [[topics/architect;design/systems development\|systems development]] (usually by [[building a product\|building a product]]) - [[concepts/alchemy/third eye chakra\|third eye chakra]]
 -> [[creating art\|creating art]]
 
 ###### [[areas/spiritual\|spiritual]]/personal
 [[solving a problem\|solving a problem]] ([[depression\|depression]], [[anxiety\|anxiety]], [[sense of being lost\|sense of being lost]]) -> [[becoming more aligned\|becoming more aligned]]
-[[concepts/initiation\|initiation]]
+[[concepts/alchemy/initiation\|initiation]]
 [[fasting\|fasting]]
-owning your shadows ([[concepts/underworld\|concepts/underworld]])
+owning your shadows ([[concepts/alchemy/underworld\|concepts/alchemy/underworld]])
 [[7 chakras\|7 chakras]]
-managing [[concepts/ego states\|ego states]]
+managing [[concepts/alchemy/ego states\|ego states]]
 accessing [[_002_toolkit/classes/archetypes MOC\|archetypes MOC]]
 aligning with [[nature cycles\|nature cycles]]
 [[proving oneself\|proving oneself]]
@@ -367,7 +367,7 @@ shared context allows for coordination and collaboration. that's why [[communiti
 
 refs:
 societal level:
-[[social impact\|social impact]] articulations such as - [[unitedplanet\|unitedplanet]] / [[models & frameworks/sustainable development goals\|SDGs]]
+[[social impact\|social impact]] articulations such as - [[unitedplanet\|unitedplanet]] / [[models & frameworks/design/sustainable development goals\|SDGs]]
 [[foresight\|foresight]] institutions / cultural/[[futurist organizations\|futures observatories]]
 [[think tanks\|think tanks]] / [[x prize\|x prize]]-like foundations
 [[incubators\|incubators]] / [[accelerators\|accelerators]] / [[hubs\|hubs]] / [[fellowships\|fellowships]]
@@ -395,7 +395,7 @@ https://subconscious.substack.com/p/effort-is-evidence-of-broken-feedback
 
 ##### 4) digital environments/objects
 
-[[_002_toolkit/000 ⛓ l1f3 player toolkit\|player toolkit]] enters here. [[concepts/personal tech stack\|personal tech stack]]. [[concepts/third spaces\|third spaces]].
+[[_002_toolkit/000 ⛓ l1f3 player toolkit\|player toolkit]] enters here. [[concepts/design/personal tech stack\|personal tech stack]]. [[concepts/design/third spaces\|third spaces]].
 
 ###### 4.1) personal tech stacks
 
@@ -414,9 +414,9 @@ modularity and interoperability are so important here. [[initiatives, orgs & com
 
 ##### 1) [[_002_toolkit/000 ⛓ l1f3 player toolkit\|🧰 l1f3 player toolkit]]
 
-a set of best practices, interfaces, pages and dashboards for managing your [[concepts/self\|self]].
+a set of best practices, interfaces, pages and dashboards for managing your [[concepts/alchemy/self\|self]].
 
-things such as: **player attributes** ([[skills\|skills]], [[talents\|talents]], [[status\|status]]es, [[classes\|classes]], etc), **artifacts** ([[areas/life areas (internal)/physical\|physical]], [[digital\|digital]], [[hybrid\|hybrid]], [[areas/life areas (internal)/energetic\|energetic]]), **aspirations** ([[other notes ; references/metagame/metagame quests\|metagame quests]], [[concepts/initiation\|initiations]], [[training\|training]], etc).
+things such as: **player attributes** ([[skills\|skills]], [[talents\|talents]], [[status\|status]]es, [[classes\|classes]], etc), **artifacts** ([[areas/life areas (internal)/physical\|physical]], [[digital\|digital]], [[hybrid\|hybrid]], [[areas/life areas (internal)/energetic\|energetic]]), **aspirations** ([[other notes ; references/metagame/metagame quests\|metagame quests]], [[concepts/alchemy/initiation\|initiations]], [[training\|training]], etc).
 
 many RPG and MMORPG systems to use as reference.
 

@@ -4,4 +4,4 @@
 
 a platform for building a collaborative database of [[social impact\|social impact]] / [[systems change\|systems change]] / [[topics/architect;design/regeneration\|regenerative]] projects - https://www.catalist.network/
 
-the project proposes an interesting [[ontology\|ontology]]: [[spaces\|spaces]], [[objects\|objects]] (with [[types\|types]]), [[sets\|sets]] and [[concepts/attributes\|attributes]]. see: https://www.catalist.network/explore
+the project proposes an interesting [[concepts/alchemy/ontology\|ontology]]: [[spaces\|spaces]], [[objects\|objects]] (with [[types\|types]]), [[sets\|sets]] and [[concepts/player/attributes\|attributes]]. see: https://www.catalist.network/explore

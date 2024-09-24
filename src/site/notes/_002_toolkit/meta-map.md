@@ -1,5 +1,5 @@
 ---
-{"aliases":["🗺 meta-map","wordcloud","🗾 meta-map"],"created in":"2022-01-03T19:16:10-03:00","last tended to":"2024-09-07T20:47:33-03:00","tags":["design","🌿","research","knowledgedesign","informationdesign","experiment"],"dg-publish":true,"permalink":"/002-toolkit/meta-map/","dgPassFrontmatter":true,"created":"2022-01-03T19:16:10.550-03:00","updated":"2024-09-07T21:13:32.435-03:00"}
+{"aliases":["🗺 meta-map","wordcloud","🗾 meta-map"],"created in":"2022-01-03T19:16:10-03:00","last tended to":"2024-09-16T14:45:41-03:00","tags":["design","🌿","research","knowledgedesign","informationdesign","experiment"],"dg-publish":true,"permalink":"/002-toolkit/meta-map/","dgPassFrontmatter":true,"created":"2022-01-03T19:16:10.550-03:00","updated":"2024-09-16T14:45:41.719-03:00"}
 ---
 
 an extensive list / experimental form of intuitive clustering of all major themes/domains and references i'm working with.
@@ -41,7 +41,7 @@ added:
 
 [[local-first\|local-first]], [[modular\|modular]], [[p2p\|p2p]] software
 
-[[concepts/personal tech stack\|personal tech stack]] / [[personal data infrastructure\|personal data infrastructure]]
+[[concepts/design/personal tech stack\|personal tech stack]] / [[personal data infrastructure\|personal data infrastructure]]
 
 [[personal systems\|personal systems]] / [[personal workflows\|personal workflows]]
 
@@ -51,9 +51,9 @@ added:
 
 [[algorithm design\|algorithm design]]
 
-[[concepts/extended cognition\|extended cognition]]
+[[concepts/design/extended cognition\|extended cognition]]
 
-[[concepts/self-augmentation\|self-augmentation]]
+[[concepts/design/self-augmentation\|self-augmentation]]
 
 [[tbprocessed/base notes/concepts - general/curation\|online curation]] / [[topics/architect;design/knowledge commons\|knowledge commons]]
 
@@ -72,7 +72,7 @@ multidimensional resources management
 
 **.design**
 
-[[concepts/metacrisis\|metacrisis]]
+[[concepts/design/metacrisis\|metacrisis]]
 
 [[topics/architect;design/web3\|web3]]
 
@@ -82,13 +82,13 @@ multidimensional resources management
 
 [[augmenting your OODA loop\|augmenting your OODA loop]]
 
-[[concepts/meta-systemic design\|meta-systemic design]]
+[[concepts/design/meta-systemic design\|meta-systemic design]]
 
-[[concepts/civilization design\|civilization design]]
+[[concepts/design/civilization design\|civilization design]]
 
-[[concepts/life management\|life management]]
+[[concepts/design/life management\|life management]]
 
-[[concepts/self-management\|self-management]]
+[[concepts/alchemy/self-management\|self-management]]
 
 [[core essays/🌐 an introduction to the L1F3 support systems\|L1F3 support systems]]
 
@@ -100,9 +100,9 @@ multidimensional resources management
 
 [[references/alchemy/integral OS\|integral OS]]
 
-[[concepts/dharma\|dharma]]
+[[concepts/alchemy/dharma\|dharma]]
 
-[[concepts/self design\|self design]]
+[[concepts/alchemy/self design\|self design]]
 
 [[ecologies of practices\|ecologies of practices]]
 
@@ -112,13 +112,13 @@ multidimensional resources management
 
 [[rituals\|rituals]]
 
-[[concepts/third spaces\|third spaces]]
+[[concepts/design/third spaces\|third spaces]]
 
 [[topics/architect;design/regeneration\|regeneration]]
 
 **.art**
 
-[[concepts/gameworld building\|gameworld building]]
+[[concepts/player/gameworld building\|gameworld building]]
 
 [[_006_core notes/design philosophies\|design philosophies]]
 
@@ -146,12 +146,12 @@ multidimensional resources management
 #### meta-list
 
 .design
-[[concepts/hyperspaces\|hyperspaces]]
+[[concepts/design/hyperspaces\|hyperspaces]]
 [[higher-dimensional spaces\|higher-dimensional spaces]]
 [[meta-spaces\|meta-spaces]]
 [[energetic spaces\|energetic spaces]]
 [[digital spaces\|digital spaces]]
-[[concepts/third spaces\|third spaces]]
+[[concepts/design/third spaces\|third spaces]]
 [[shared spaces\|shared spaces]]
 [[open spaces\|open spaces]]
 [[public spaces\|public spaces]]
@@ -162,19 +162,19 @@ multidimensional resources management
 [[discovery spaces\|discovery spaces]]
 
 [[hyper-objects\|hyper-objects]]
-[[concepts/multidimensional artifacts\|multidimensional artifacts]]
+[[concepts/alchemy/multidimensional artifacts\|multidimensional artifacts]]
 [[multidimensional objects\|multidimensional objects]]
-[[concepts/multidimensional cubes\|multidimensional cubes]]
+[[concepts/alchemy/multidimensional cubes\|multidimensional cubes]]
 
-[[concepts/gameworld building\|gameworld building]]
+[[concepts/player/gameworld building\|gameworld building]]
 
 [[alchemy\|alchemy]]
 [[sourcing\|sourcing]]
 
 [[meta-mind\|meta-mind]]
 
-[[concepts/agency\|agency]]
-[[concepts/sovereignty\|sovereignty]]
+[[concepts/alchemy/agency\|agency]]
+[[concepts/alchemy/sovereignty\|sovereignty]]
 
 [[ownership\|ownership]]
 [[customization\|customization]]
@@ -182,9 +182,9 @@ multidimensional resources management
 [[agent-centric design\|agent-centric design]]
 
 [[distributed cognition\|distributed cognition]]
-[[concepts/extended cognition\|extended cognition]]
-[[concepts/embodied cognition\|embodied cognition]]
-[[concepts/augmented intelligence\|augmented intelligence]]
+[[concepts/design/extended cognition\|extended cognition]]
+[[concepts/alchemy/embodied cognition\|embodied cognition]]
+[[concepts/design/augmented intelligence\|augmented intelligence]]
 
 [[automation\|automation]]
 [[streamlining\|streamlining]]
@@ -272,7 +272,7 @@ multidimensional resources management
 
 [[productive output\|productive output]]
 
-[[models & frameworks/forms of capital\|forms of capital]]
+[[models & frameworks/design/forms of capital\|forms of capital]]
 
 [[content\|content]]
 
@@ -287,9 +287,9 @@ multidimensional resources management
 
 [[_004_L1F3/L1F3.stream\|L1F3.stream]]
 
-[[concepts/seedling\|seedling]]
-[[concepts/budding\|budding]]
-[[concepts/evergreen\|evergreen]]
+[[concepts/lab/seedling\|seedling]]
+[[concepts/lab/budding\|budding]]
+[[concepts/lab/evergreen\|evergreen]]
 
 [[knowledge workers\|knowledge workers]]
 [[information economy\|information economy]]
@@ -313,7 +313,7 @@ multidimensional resources management
 [[outsourcing\|outsourcing]]
 
 [[topics/architect;design/systems\|systems]] [[tbprocessed/base notes/principles;frameworks - general/leverage\|leverage]]
-[[concepts/abundance\|abundance]]
+[[concepts/alchemy/abundance\|abundance]]
 [[abundance-generating mechanisms\|abundance-generating mechanisms]]
 
 [[terms/information\|information]]
@@ -321,7 +321,7 @@ multidimensional resources management
 [[intelligence\|intelligence]]
 [[terms/action\|action]]
 [[energy\|energy]]
-[[concepts/time\|time]]
+[[concepts/alchemy/time\|time]]
 [[attention\|attention]]
 
 [[topics/architect;design/coordination systems\|coordination systems]]
@@ -339,7 +339,7 @@ multidimensional resources management
 
 [[data sharing\|data sharing]]
 
-[[concepts/healing\|healing]]
+[[concepts/alchemy/healing\|healing]]
 [[reflection\|reflection]]
 [[mirroring\|mirroring]]
 
@@ -461,14 +461,14 @@ multidimensional resources management
 [[create an optimal context\|create an optimal context]]
 [[contexts for human flourishing\|contexts for human flourishing]]
 
-[[models & frameworks/integral theory\|integral theory]]
+[[models & frameworks/alchemy/integral theory\|integral theory]]
 [[references/alchemy/integral OS\|integral OS]]
 [[all-quadrants optimization\|all-quadrants optimization]]
 
 [[initiatives, orgs & communities/alchemy/possibility management\|possibility management]]
 [[BASB\|BASB]]
 [[LYT\|LYT]]
-[[models & frameworks/PPV\|PPV]]
+[[models & frameworks/lab/PPV\|PPV]]
 
 [[life maps\|life maps]]
 [[reality maps\|reality maps]]
@@ -478,11 +478,11 @@ multidimensional resources management
 
 [[self-optimization\|self-optimization]]
 
-[[concepts/waking up\|concepts/waking up]]
-[[concepts/growing up\|growing up]]
-[[concepts/cleaning up\|cleaning up]]
-[[concepts/showing up\|showing up]]
-[[concepts/opening up\|opening up]]
+[[concepts/alchemy/waking up\|concepts/alchemy/waking up]]
+[[concepts/alchemy/growing up\|growing up]]
+[[concepts/alchemy/cleaning up\|cleaning up]]
+[[concepts/alchemy/showing up\|showing up]]
+[[concepts/alchemy/opening up\|opening up]]
 
 [[self-discovery\|self-discovery]]
 [[self-improvement\|self-improvement]]
@@ -537,7 +537,7 @@ multidimensional resources management
 
 [[topics/player/gaming\|gaming]]
 
-[[concepts/game\|games]]
+[[concepts/player/game\|games]]
 [[players\|players]]
 
 [[omni-win games\|omni-win games]]
@@ -552,7 +552,7 @@ multidimensional resources management
 [[topics/player/board games\|board games]]
 [[RPG\|RPG]]
 
-[[models & frameworks/four quadrants\|four quadrants]]
+[[models & frameworks/design/four quadrants\|four quadrants]]
 [[lines\|lines]]
 [[levels\|levels]]
 [[states\|states]]
@@ -581,16 +581,16 @@ multidimensional resources management
 [[tools\|tools]]
 [[resources\|resources]]
 
-[[concepts/multidimensional artifacts\|multidimensional artifacts]]
+[[concepts/alchemy/multidimensional artifacts\|multidimensional artifacts]]
 [[multidimensional objects\|multidimensional objects]]
 
 [[reality models\|reality models]]
 [[topics/architect;design/lifestyles\|lifestyles]]
 [[topics/architect;design/lifestyle design\|lifestyle design]]
 
-[[concepts/self design\|self design]]
+[[concepts/alchemy/self design\|self design]]
 [[topics/architect;design/life design\|life design]]
-[[concepts/civilization design\|civilization design]]
+[[concepts/design/civilization design\|civilization design]]
 
 [[training\|training]]
 [[preparation\|preparation]]
@@ -624,7 +624,7 @@ multidimensional resources management
 [[act\|act]]
 
 [[resources\|resources]]
-[[concepts/assets\|assets]]
+[[concepts/design/assets\|assets]]
 
 [[input\|input]]
 [[storage\|storage]]
@@ -637,7 +637,7 @@ multidimensional resources management
 [[express\|express]]
 
 [[topics/architect;design/systems\|systems]]
-[[concepts/abundance\|abundance]]
+[[concepts/alchemy/abundance\|abundance]]
 [[relevance realization\|relevance realization]]
 [[prioritization\|prioritization]]
 [[terms/decision-making\|decision-making]]
@@ -645,7 +645,7 @@ multidimensional resources management
 
 [[_003_research/03 - core ideas\|03 - core ideas]]
 [[insights\|insights]]
-[[concepts/atomic essays\|atomic essays]]
+[[concepts/lab/atomic essays\|atomic essays]]
 [[thesis\|thesis]]
 [[presentation\|presentation]]
 
