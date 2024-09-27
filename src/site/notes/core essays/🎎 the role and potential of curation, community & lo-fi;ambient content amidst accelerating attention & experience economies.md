@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-12-03T15:03:17-03:00","last tended to":"2024-09-02T14:30:53-03:00","dg-publish":true,"aliases":["🎎 the role of curation, community & ambient content"],"tags":["essay","🌿"],"permalink":"/core-essays/the-role-and-potential-of-curation-community-and-lo-fi-ambient-content-amidst-accelerating-attention-and-experience-economies/","dgPassFrontmatter":true,"created":"2023-12-03T15:03:17.203-03:00","updated":"2024-09-05T13:33:41.772-03:00"}
+{"created in":"2023-12-03T15:03:17-03:00","last tended to":"2024-09-24T17:18:15-03:00","dg-publish":true,"aliases":["🎎 the role of curation, community & ambient content"],"tags":["essay","🌿"],"notestage":["🌿"],"permalink":"/core-essays/the-role-and-potential-of-curation-community-and-lo-fi-ambient-content-amidst-accelerating-attention-and-experience-economies/","dgPassFrontmatter":true,"created":"2023-12-03T15:03:17.203-03:00","updated":"2024-09-24T17:18:10.928-03:00"}
 ---
 
 ```ad-warning

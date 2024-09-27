@@ -1,5 +1,5 @@
 ---
-{"aliases":["PKM","KM","pkm"],"created in":"2021-12-11T16:51:55-03:00","last tended to":"2024-08-22T14:29:03-03:00","tags":["🌿","topic","knowledgemanagement"],"relevancescore":94,"dg-publish":true,"permalink":"/topics/lab/knowledge-management/","dgPassFrontmatter":true,"created":"2021-12-11T16:51:55.968-03:00","updated":"2024-08-22T14:29:03.030-03:00"}
+{"aliases":["PKM","KM","pkm"],"created in":"2021-12-11T16:51:55-03:00","last tended to":"2024-09-26T15:26:01-03:00","tags":["🌿","topic","knowledgemanagement"],"relevancescore":94,"dg-publish":true,"notestage":["🌿"],"permalink":"/topics/lab/knowledge-management/","dgPassFrontmatter":true,"created":"2021-12-11T16:51:55.968-03:00","updated":"2024-09-26T15:26:05.052-03:00"}
 ---
 
 > [!info]- assumed audience

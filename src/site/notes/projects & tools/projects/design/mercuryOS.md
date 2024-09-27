@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-03-25T14:49:22-03:00","last tended to":"2024-08-27T11:27:18-03:00","tags":["OS","research","design","OSdesign","tier1","lab"],"relevancescore":86,"dg-publish":true,"permalink":"/projects-and-tools/projects/design/mercury-os/","dgPassFrontmatter":true,"created":"2024-03-25T14:49:22.380-03:00","updated":"2024-09-07T20:27:41.408-03:00"}
+{"created in":"2024-03-25T14:49:22-03:00","last tended to":"2024-09-26T15:56:20-03:00","tags":["OS","research","design","OSdesign","tier1","lab","🌱"],"relevancescore":86,"dg-publish":true,"notestage":["🌱"],"permalink":"/projects-and-tools/projects/design/mercury-os/","dgPassFrontmatter":true,"created":"2024-03-25T14:49:22.380-03:00","updated":"2024-09-26T15:56:21.248-03:00"}
 ---
 
 a speculative vision for a future OS detailed here - https://www.mercuryos.com/

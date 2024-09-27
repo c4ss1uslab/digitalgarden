@@ -1,5 +1,5 @@
 ---
-{"aliases":["map","maps"],"created in":"2022-04-19T15:34:21-03:00","last tended to":"2024-09-07T20:07:17-03:00","tags":["🌿","mapping","topic","response","knowledgedesign","knowledgevisualization","lab","design"],"relevancescore":94,"dg-publish":true,"permalink":"/responses/lab/mapping/","dgPassFrontmatter":true,"created":"2022-04-19T15:34:21.040-03:00","updated":"2024-09-07T20:25:16.080-03:00"}
+{"aliases":["map","maps"],"created in":"2022-04-19T15:34:21-03:00","last tended to":"2024-09-26T15:23:18-03:00","tags":["🌿","mapping","topic","response","knowledgedesign","knowledgevisualization","lab","design"],"relevancescore":94,"dg-publish":true,"notestage":["🌿"],"permalink":"/responses/lab/mapping/","dgPassFrontmatter":true,"created":"2022-04-19T15:34:21.040-03:00","updated":"2024-09-26T15:23:19.017-03:00"}
 ---
 
 ## 1) definitions & types of maps

@@ -1,5 +1,5 @@
 ---
-{"aliases":["integral meta-theory","integral"],"created in":"2022-03-24T17:31:07-03:00","last tended to":"2024-08-28T14:54:26-03:00","tags":["top3","🌿","alchemy","sensemaking","design","framework"],"dg-publish":true,"relevancescore":96,"permalink":"/models-and-frameworks/alchemy/integral-theory/","dgPassFrontmatter":true,"created":"2022-03-24T17:31:07.911-03:00","updated":"2024-08-28T14:55:25.094-03:00"}
+{"aliases":["integral meta-theory","integral"],"created in":"2022-03-24T17:31:07-03:00","last tended to":"2024-09-26T15:21:24-03:00","tags":["top3","🌿","alchemy","sensemaking","design","framework"],"dg-publish":true,"relevancescore":96,"notestage":["🌿"],"permalink":"/models-and-frameworks/alchemy/integral-theory/","dgPassFrontmatter":true,"created":"2022-03-24T17:31:07.911-03:00","updated":"2024-09-26T15:21:25.677-03:00"}
 ---
 
 a meta-theory proposed by [[people/references/alchemy/ken wilber\|ken wilber]], through his study, practice and synthesis of multiple [[topics/alchemy/spiritual lineages\|wisdom traditions]], modern academic disciplines and scientific research.

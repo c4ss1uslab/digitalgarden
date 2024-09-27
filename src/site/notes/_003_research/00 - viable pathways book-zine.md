@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-03-25T13:53:56-03:00","last tended to":"2024-09-02T14:59:47-03:00","tags":["🌿"],"aliases":["viable pathways","viable pathways zine","viable pathways book-zine","viable pathways book-zine mvp","book-zine"],"dg-publish":true,"permalink":"/003-research/00-viable-pathways-book-zine/","dgPassFrontmatter":true,"created":"2022-03-25T13:53:56.444-03:00","updated":"2024-09-07T21:13:32.892-03:00"}
+{"created in":"2022-03-25T13:53:56-03:00","last tended to":"2024-09-24T17:18:19-03:00","tags":["🌿"],"aliases":["viable pathways","viable pathways zine","viable pathways book-zine","viable pathways book-zine mvp","book-zine"],"dg-publish":true,"notestage":["🌿"],"permalink":"/003-research/00-viable-pathways-book-zine/","dgPassFrontmatter":true,"created":"2022-03-25T13:53:56.444-03:00","updated":"2024-09-24T17:18:21.026-03:00"}
 ---
 
 #### ⚠ coming soon!

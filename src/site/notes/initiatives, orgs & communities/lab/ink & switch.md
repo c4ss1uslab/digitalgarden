@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-03-08T19:58:17-03:00","last tended to":"2024-08-19T03:05:42-03:00","aliases":["inkandswitch"],"tags":["organization","lab","toolsforthought","knowledgedesign","interfacedesign","research","local-first","open-source"],"relevancescore":88,"dg-publish":true,"permalink":"/initiatives-orgs-and-communities/lab/ink-and-switch/","dgPassFrontmatter":true,"created":"2024-03-08T19:58:17.985-03:00","updated":"2024-08-19T03:05:42.866-03:00"}
+{"created in":"2024-03-08T19:58:17-03:00","last tended to":"2024-09-26T15:55:17-03:00","aliases":["inkandswitch"],"tags":["organization","lab","toolsforthought","knowledgedesign","interfacedesign","research","local-first","open-source","🌱"],"relevancescore":88,"dg-publish":true,"notestage":["🌱"],"permalink":"/initiatives-orgs-and-communities/lab/ink-and-switch/","dgPassFrontmatter":true,"created":"2024-03-08T19:58:17.985-03:00","updated":"2024-09-26T15:55:18.136-03:00"}
 ---
 
 https://www.inkandswitch.com/

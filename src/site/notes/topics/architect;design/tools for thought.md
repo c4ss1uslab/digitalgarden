@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-12-06T12:07:03-03:00","last tended to":"2024-09-07T20:47:37-03:00","aliases":["TfT","tft"],"tags":["knowledgemanagement","topic","toolsforthought","lab","🌿","tier1","learning","research"],"dg-publish":true,"relevancescore":94,"permalink":"/topics/architect-design/tools-for-thought/","dgPassFrontmatter":true,"created":"2022-12-06T12:07:03.218-03:00","updated":"2024-09-07T20:47:37.523-03:00"}
+{"created in":"2022-12-06T12:07:03-03:00","last tended to":"2024-09-26T15:25:22-03:00","aliases":["TfT","tft"],"tags":["knowledgemanagement","topic","toolsforthought","lab","🌿","tier1","learning","research"],"dg-publish":true,"relevancescore":94,"notestage":["🌿"],"permalink":"/topics/architect-design/tools-for-thought/","dgPassFrontmatter":true,"created":"2022-12-06T12:07:03.218-03:00","updated":"2024-09-26T15:25:23.658-03:00"}
 ---
 
  related topics: [[topics/lab/knowledge management\|knowledge management]], [[note-making\|note-making]], [[responses/lab/networked thought\|networked thought]], [[computer-supported collaborative work\|computer-supported collaborative work]] (CSCW), [[topics/lab/knowledge graphs\|knowledge graphs]], [[topics/lab/human-computer interaction\|human-computer interaction]] (HCI), [[concepts/design/extended cognition\|extended cognition]].

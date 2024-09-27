@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-12-26T15:03:57-03:00","last tended to":"2024-09-16T15:13:50-03:00","aliases":["molochian"],"tags":["🌿","metacrisis","architect","concept"],"relevancescore":94,"dg-publish":true,"permalink":"/concepts/design/moloch/","dgPassFrontmatter":true,"created":"2023-12-26T15:03:57.585-03:00","updated":"2024-09-16T15:14:03.940-03:00"}
+{"created in":"2023-12-26T15:03:57-03:00","last tended to":"2024-09-26T15:22:37-03:00","aliases":["molochian"],"tags":["🌿","metacrisis","architect","concept"],"relevancescore":94,"dg-publish":true,"notestage":["🌿"],"permalink":"/concepts/design/moloch/","dgPassFrontmatter":true,"created":"2023-12-26T15:03:57.585-03:00","updated":"2024-09-26T15:22:38.352-03:00"}
 ---
 
 when we think about "what is wrong with our existing civilization?", i'm quite sure moloch is a big part of the answer.

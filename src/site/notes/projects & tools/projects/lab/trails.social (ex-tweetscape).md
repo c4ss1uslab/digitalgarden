@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-04-17T18:58:23-03:00","last tended to":"2024-09-02T15:03:02-03:00","tags":["project","openknowledge","🌿","open-source","socialsensemaking","informationmanagement","tool","sensemaking"],"relevancescore":86,"dg-publish":true,"permalink":"/projects-and-tools/projects/lab/trails-social-ex-tweetscape/","dgPassFrontmatter":true,"created":"2024-04-17T18:58:23.356-03:00","updated":"2024-09-02T15:03:02.667-03:00"}
+{"created in":"2024-04-17T18:58:23-03:00","last tended to":"2024-09-26T15:56:28-03:00","tags":["project","openknowledge","🌿","open-source","socialsensemaking","informationmanagement","tool","sensemaking"],"relevancescore":86,"dg-publish":true,"notestage":["🌿"],"permalink":"/projects-and-tools/projects/lab/trails-social-ex-tweetscape/","dgPassFrontmatter":true,"created":"2024-04-17T18:58:23.356-03:00","updated":"2024-09-26T15:56:29.078-03:00"}
 ---
 
 #### about

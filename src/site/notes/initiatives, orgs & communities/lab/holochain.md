@@ -1,10 +1,10 @@
 ---
-{"created in":"2021-12-11T16:51:56-03:00","last tended to":"2024-08-23T17:44:46-03:00","tags":["technology","web3","distributedsystems","regeneration","socialoperatingsystems","design","lab","datamanagement","open-source","tool","initiative"],"relevancescore":95,"dg-publish":true,"permalink":"/initiatives-orgs-and-communities/lab/holochain/","dgPassFrontmatter":true,"created":"2021-12-11T16:51:56.443-03:00","updated":"2024-09-07T21:15:02.099-03:00"}
+{"created in":"2021-12-11T16:51:56-03:00","last tended to":"2024-09-26T15:21:43-03:00","tags":["technology","web3","distributedsystems","regeneration","socialoperatingsystems","design","lab","datamanagement","open-source","tool","initiative","🌱"],"relevancescore":95,"dg-publish":true,"notestage":["🌱"],"permalink":"/initiatives-orgs-and-communities/lab/holochain/","dgPassFrontmatter":true,"created":"2021-12-11T16:51:56.443-03:00","updated":"2024-09-26T15:22:03.168-03:00"}
 ---
 
 i see the project as a herculean attempt at rewriting the foundations of our [[personal computing\|personal computing]] stack as [[distributed\|distributed]], [[terms/privacy\|privacy]] and [[open-source\|open-source]] - enable our [[social coordination systems\|social coordination systems]] to be radically more conscious, resilient and regenerative.
 
-extremely high barrier for entry though for non-developers at the moment (and developers alike, considering the amount of [[inner work\|inner work]] necessary to recognize its value).
+there's an extremely high barrier for entry though for non-developers at the moment (and developers alike, considering the amount of [[inner work\|inner work]] necessary to recognize its value).
 
 ##### introduction:
 
