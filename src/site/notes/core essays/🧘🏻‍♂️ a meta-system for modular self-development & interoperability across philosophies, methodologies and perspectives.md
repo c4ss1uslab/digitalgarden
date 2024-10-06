@@ -40,7 +40,7 @@ we can be forever seeking "who has/what is the more comprehensive/coherent/whole
 
 we all came here with different missions, needs, backgrounds and challenges. "all paths lead to the tao, but not all are equally valuable".
 
-the age-old challenge of [[concepts/alchemy/self design\|self design]] is as much a work of [[designing\|design]] as of [[discovery\|discovery]] and [[deconstruction\|deconstruction]].
+the age-old challenge of [[_004_L1F3/core concepts/self design\|self design]] is as much a work of [[designing\|design]] as of [[discovery\|discovery]] and [[deconstruction\|deconstruction]].
 
 ![integral dashboard.jpeg](/img/user/images/interfaces%20&%20designs/integral%20dashboard.jpeg)
 

@@ -38,9 +38,9 @@ level of depth:
 🌲 [[topics/player/self-directed learning\|self-directed learning]]
 	🔥 [[initiatives, orgs & communities/player/MoL\|MoL]] / [[unilivre\|unilivre]] (portuguese)
 	🔥 [[reaprendiz\|reaprendiz]] (portuguese)
-🌲 [[topics/architect;design/life design\|life design]] / [[tbprocessed/base notes/topics/life gamification\|life gamification]]
+🌲 [[_004_L1F3/core concepts/life design\|life design]] / [[tbprocessed/base notes/topics/life gamification\|life gamification]]
 	[[_002_toolkit/000 ⛓ l1f3 player toolkit\|🧰 l1f3 player toolkit]]
-🌲 [[concepts/alchemy/self-management\|self-management]]
+🌲 [[_004_L1F3/core concepts/self-management\|self-management]]
 	🧰 [[_004_L1F3/l1f3 management methodology\|l1f3 management methodology]]
 	🔥 [life manager (ísis' approach)](https://www.youtube.com/watch?v=Nxo8hX97ojk) (portuguese)
 🌿 [[topics/alchemy/spiritual lineages\|wisdom traditions]] & [[ecologies of practices\|ecologies of practices]]
@@ -51,7 +51,7 @@ level of depth:
 	🌿 [[topics/alchemy/mushrooms\|mushrooms]]
 	🌿 [[ayahuasca\|ayahuasca]]
 	🌱 [[MDMA\|MDMA]]
-🌿 [[concepts/alchemy/self design\|self design]]
+🌿 [[_004_L1F3/core concepts/self design\|self design]]
 	🧪 [[models & frameworks/alchemy/archetypal matrix\|archetypal matrix]]
 	🧪 [[concepts/design/extended cognition\|extended cognition]]
 	🌱 [[thoughtware design\|thoughtware design]]
@@ -64,13 +64,13 @@ level of depth:
 	🔥 [[initiatives, orgs & communities/architect;design/sublime (ex-startupy)\|sublime (ex-startupy)]]
 🌲 [[topics/alchemy/sensemaking\|sensemaking]]
 	📂 [favorite sensemaking videos playlist](https://www.youtube.com/playlist?list=PLj8H7uBaUwDvd18QrEPugPMD5Z6Y0W-vB)
-🌿 [[concepts/design/life streaming\|life streaming]]
+🌿 [[_004_L1F3/core concepts/life streaming\|life streaming]]
 	🧰 [[_004_L1F3/l1f3 streaming system\|life streaming system]]
-🌿 [[concepts/design/life intelligence\|life intelligence]]
+🌿 [[_004_L1F3/core concepts/life intelligence\|life intelligence]]
 	🧪 [[3rd brain workflow\|3rd brain workflow]]
 ##### 🌐 [[topics/architect;design/systems\|systems]]
 🌲 [[meta-systems\|meta-systems]] for [[topics/alchemy/sensemaking\|sensemaking]], [[topics/player/play\|play]], [[topics/architect;design/coordination systems\|coordination systems]] & [[terms/collaboration\|collaboration]]
-🌲 [[concepts/design/civilization design\|civilization design]]
+🌲 [[_004_L1F3/core concepts/civilization design\|civilization design]]
 	[[concepts/design/network state\|network states]]
 	[[smart cities\|smart cities]] / [[smart villages\|smart villages]]
 	[[ecovillages\|ecovillages]] / [[intentional communities\|intentional communities]]
@@ -88,7 +88,7 @@ level of depth:
 
 #### 👨🏻‍🔬 [[_005_c4ss1us/c4ss1us.lab\|.lab]]
 ##### 💻 [[topics/architect;design/technology\|technology]]
-🌲 [[topics/lab/knowledge management\|PKM]] / [[concepts/design/life management\|life management]]
+🌲 [[topics/lab/knowledge management\|PKM]] / [[_004_L1F3/core concepts/life management\|life management]]
 	🔩 [[_004_L1F3/l1f3 management methodology\|life management methodology (LMM)]] ([[obsidian system\|obsidian system]])
 	🔩 [[projects & tools/proprietary/disruptive life management system\|DLMS - disruptive life management system]] ([[notion system\|notion system]])
 	🔩 [[tbprocessed/base notes/tools;products - proprietary/tools/life organization & visualization system\|LOVS - life organization & visualization system]] ([[notion system\|notion system]])

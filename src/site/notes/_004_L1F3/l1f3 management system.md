@@ -19,7 +19,7 @@ github - project categories:
 
 #### main components:
 
-[[perception\|perception]] ([[topics/lab/data management\|data management]]/[[topics/lab/information management\|information management]]) / [[topics/alchemy/sensemaking\|sensemaking]] ([[topics/lab/knowledge management\|knowledge management]] - [[_001_MOCs/050 🟩 mid game/040 🤹🏻‍♂️ areas MOC\|responsibilities]], [[_002_toolkit/x+ 🎭 roles LPS\|roles]], [[_001_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|challenges]], etc) / [[terms/decision-making\|decision-making]] ([[decision management\|decision management]]) / [[terms/action\|action]]/[[topics/player/learning\|learning]] ([[task management\|task management]] / [[time management\|time management]] / [[energy management\|energy management]] / [[tbprocessed/base notes/topics/learning management\|learning management]]) / [[feedback\|feedback]]/[[results\|results]] ([[wisdom management\|wisdom management]] / [[values management\|values management]] / [[concepts/alchemy/self-management\|self-management]])
+[[perception\|perception]] ([[topics/lab/data management\|data management]]/[[topics/lab/information management\|information management]]) / [[topics/alchemy/sensemaking\|sensemaking]] ([[topics/lab/knowledge management\|knowledge management]] - [[_001_MOCs/050 🟩 mid game/040 🤹🏻‍♂️ areas MOC\|responsibilities]], [[_002_toolkit/x+ 🎭 roles LPS\|roles]], [[_001_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|challenges]], etc) / [[terms/decision-making\|decision-making]] ([[decision management\|decision management]]) / [[terms/action\|action]]/[[topics/player/learning\|learning]] ([[task management\|task management]] / [[time management\|time management]] / [[energy management\|energy management]] / [[tbprocessed/base notes/topics/learning management\|learning management]]) / [[feedback\|feedback]]/[[results\|results]] ([[wisdom management\|wisdom management]] / [[values management\|values management]] / [[_004_L1F3/core concepts/self-management\|self-management]])
 
 \+ different [[prototypes/on hold/l1f3 management system views\|views]]
 
@@ -29,7 +29,7 @@ github - project categories:
 
 categories of personal systems:
 
-#### [[concepts/alchemy/self-management\|self-management]]
+#### [[_004_L1F3/core concepts/self-management\|self-management]]
 - [self-reflection] -> [[values management\|values management]]
 - [priming]
 - [sensing]
@@ -39,7 +39,7 @@ categories of personal systems:
 - [learning]
 - [tracking]
 
-#### [[concepts/design/life management\|life management]] systems breakdown:
+#### [[_004_L1F3/core concepts/life management\|life management]] systems breakdown:
 - [[prototypes/on hold/resources management system\|🌫 resources management system]]
 - [[prototypes/on hold/knowledge management system\|🧠 knowledge management system]]
 - [[prototypes/on hold/decision management system\|♟ decision management system]]

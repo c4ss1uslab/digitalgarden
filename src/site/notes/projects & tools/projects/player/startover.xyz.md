@@ -8,4 +8,4 @@
 
 https://startoverxyz.mystrikingly.com/
 
-it's basically a collection of [[_001_MOCs/050 🟩 mid game/090 🧪 experiments MOC\|experiments]] on [[concepts/alchemy/self-transformation\|self-transformation]] and [[topics/architect;design/life design\|life design]] proposed by the folks at [[initiatives, orgs & communities/alchemy/possibility management\|possibility management]], framing it as a [[metagame\|metagame]].
+it's basically a collection of [[_001_MOCs/050 🟩 mid game/090 🧪 experiments MOC\|experiments]] on [[concepts/alchemy/self-transformation\|self-transformation]] and [[_004_L1F3/core concepts/life design\|life design]] proposed by the folks at [[initiatives, orgs & communities/alchemy/possibility management\|possibility management]], framing it as a [[metagame\|metagame]].

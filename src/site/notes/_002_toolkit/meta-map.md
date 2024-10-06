@@ -84,11 +84,11 @@ multidimensional resources management
 
 [[concepts/design/meta-systemic design\|meta-systemic design]]
 
-[[concepts/design/civilization design\|civilization design]]
+[[_004_L1F3/core concepts/civilization design\|civilization design]]
 
-[[concepts/design/life management\|life management]]
+[[_004_L1F3/core concepts/life management\|life management]]
 
-[[concepts/alchemy/self-management\|self-management]]
+[[_004_L1F3/core concepts/self-management\|self-management]]
 
 [[core essays/🌐 an introduction to the L1F3 support systems\|L1F3 support systems]]
 
@@ -102,7 +102,7 @@ multidimensional resources management
 
 [[concepts/alchemy/dharma\|dharma]]
 
-[[concepts/alchemy/self design\|self design]]
+[[_004_L1F3/core concepts/self design\|self design]]
 
 [[ecologies of practices\|ecologies of practices]]
 
@@ -585,12 +585,12 @@ multidimensional resources management
 [[multidimensional objects\|multidimensional objects]]
 
 [[reality models\|reality models]]
-[[topics/architect;design/lifestyles\|lifestyles]]
+[[_004_L1F3/core concepts/lifestyles\|lifestyles]]
 [[topics/architect;design/lifestyle design\|lifestyle design]]
 
-[[concepts/alchemy/self design\|self design]]
-[[topics/architect;design/life design\|life design]]
-[[concepts/design/civilization design\|civilization design]]
+[[_004_L1F3/core concepts/self design\|self design]]
+[[_004_L1F3/core concepts/life design\|life design]]
+[[_004_L1F3/core concepts/civilization design\|civilization design]]
 
 [[training\|training]]
 [[preparation\|preparation]]

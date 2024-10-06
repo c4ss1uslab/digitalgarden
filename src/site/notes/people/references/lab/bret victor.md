@@ -27,7 +27,7 @@ in it, he presents very simply and clearly his [[theory of change\|theory of cha
 > Intention:
 > Use the dynamic medium to reinvent the representations of thought. Invent a way of thinking — imagining, understanding, creating, explaining — via dynamic representations that engage all modes of thought and respect the whole human being.
 
-\+ more details, illustrations and his plan for application on [[projects & tools/tools/lab/dynamicland\|dynamicland]]. it's very similar to the vision i was prototyping with the [[projects & tools/projects/design/24h system\|24h system]] at [[high stakes academy\|high stakes academy]] back in 2019, minus the [[concepts/design/life management\|life management]] aspect of it.
+\+ more details, illustrations and his plan for application on [[projects & tools/tools/lab/dynamicland\|dynamicland]]. it's very similar to the vision i was prototyping with the [[projects & tools/projects/design/24h system\|24h system]] at [[high stakes academy\|high stakes academy]] back in 2019, minus the [[_004_L1F3/core concepts/life management\|life management]] aspect of it.
 
  2) [stop drawing dead fish](https://vimeo.com/64895205) - exploring/introducing a few "[[unique affordances of the computational medium\|unique affordances of the computational medium]]"
 

@@ -200,12 +200,12 @@ tools/orgs:
 
 core concepts:
 [[concepts/design/metacrisis\|metacrisis]] / [[planetary transition\|planetary transition]] / [[tbprocessed/base notes/concepts - general/human phase shift\|human phase shift]]
-[[tbprocessed/base notes/concepts - general/game b\|game b]] / [[concepts/design/civilization design\|civilization design]] / [[topics/architect;design/systems design\|systems design]]
+[[tbprocessed/base notes/concepts - general/game b\|game b]] / [[_004_L1F3/core concepts/civilization design\|civilization design]] / [[topics/architect;design/systems design\|systems design]]
 [[omni-win systems\|omni-win systems]] / [[topics/architect;design/distributed systems\|distributed systems]] / [[decentralized systems\|decentralized systems]] / [[regenerative systems\|regenerative systems]] / [[disruptive systems\|disruptive systems]]
 [[topics/architect;design/regeneration\|regeneration]] / [[tbprocessed/base notes/concepts - general/disruption\|disruption]] / [[integration\|integration]]
 [[models & frameworks/design/metadesign\|metadesign]] / [[topics/architect;design/ontological design\|ontological design]]
 [[models & frameworks/alchemy/integral theory\|integral theory]] / [[models & frameworks/design/four quadrants\|four quadrants]] / [[models & frameworks/player/fourgames\|fourgames]]
-[[meta-cognitive processes\|meta-cognitive processes]] / [[concepts/design/life management\|life management]] / [[life support systems\|life support systems]]
+[[meta-cognitive processes\|meta-cognitive processes]] / [[_004_L1F3/core concepts/life management\|life management]] / [[life support systems\|life support systems]]
 [[patterns/pattern collections/game design patterns\|game design patterns]] -> [[maps\|maps]] / [[boards\|boards]] -> [[models & frameworks/design/wardley mapping\|wardley mapping]] / [[game board\|game board]]
 
 PKM setups:
@@ -356,7 +356,7 @@ tbd - [[metacurrency\|metacurrency]]
 [[how to do the work\|how to do the work]] - [[the holistic psychologist\|the holistic psychologist]]
 
 ---
-#### [[concepts/design/life management\|life management]]
+#### [[_004_L1F3/core concepts/life management\|life management]]
 
 mainstream communicators:
 [[thomas frank\|thomas frank]], [[people/references/lab/ali abdaal\|ali abdaal]], [[tbprocessed/base notes/people/marie poulin\|marie poulin]], [[anne-laure le cunff\|anne-laure le cunff]] / [[tbprocessed/base notes/ventures - general/ness labs\|ness labs]], [[august bradley\|august bradley]]

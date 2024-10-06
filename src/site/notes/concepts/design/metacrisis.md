@@ -4,7 +4,7 @@
 
 the metacrisis is a lens for analyzing/understanding the *human predicament* and the complexity of our current moment in the history of civilizations.
 
-*definition i use:* the metacrisis is the set of interconnected, interdependent crises of our time, that seem to be leading us towards any or a mixture of these: a) impending [[topics/architect;design/civilizational collapse\|systemic collapse]] as we approach planetary boundaries, b) authoritarian modes of damage control or c) transition into more [[topics/architect;design/regeneration\|regenerative]], mature, antifragile civilizations and [[topics/architect;design/lifestyles\|lifestyles]].
+*definition i use:* the metacrisis is the set of interconnected, interdependent crises of our time, that seem to be leading us towards any or a mixture of these: a) impending [[topics/architect;design/civilizational collapse\|systemic collapse]] as we approach planetary boundaries, b) authoritarian modes of damage control or c) transition into more [[topics/architect;design/regeneration\|regenerative]], mature, antifragile civilizations and [[_004_L1F3/core concepts/lifestyles\|lifestyles]].
 
 ###### main references
 

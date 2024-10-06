@@ -1,8 +1,8 @@
 ---
-{"created in":"2024-04-01T18:55:58-03:00","last tended to":"2024-09-29T14:46:59-03:00","aliases":["personal tech stacks"],"tags":["concept","design","lab","alchemy","art","player","🌿","tier1"],"notestage":["🌿"],"dg-publish":true,"permalink":"/concepts/design/personal-tech-stack/","dgPassFrontmatter":true,"created":"2024-04-01T18:55:58.519-03:00","updated":"2024-09-29T14:47:08.125-03:00"}
+{"created in":"2024-04-01T18:55:58-03:00","last tended to":"2024-10-06T02:50:36-03:00","aliases":["personal tech stacks"],"tags":["concept","design","lab","alchemy","art","player","🌿","tier1"],"notestage":["🌿"],"dg-publish":true,"relevancescore":92,"permalink":"/concepts/design/personal-tech-stack/","dgPassFrontmatter":true,"created":"2024-04-01T18:55:58.519-03:00","updated":"2024-10-06T02:50:39.050-03:00"}
 ---
 
-see: [[topics/architect;design/life design\|life design]], [[experiments/minimum viable intentional personal systems setup\|minimum viable intentional personal systems setup]]
+see: [[_004_L1F3/core concepts/life design\|life design]], [[experiments/minimum viable intentional personal systems setup\|minimum viable intentional personal systems setup]]
 
 when i talk about personal tech stacks, i'm referring to both hardware and software. the intention is to always have [[local-first\|local-first]], [[agent-centric\|agent-centric]], [[humane\|humane]] [[topics/lab/free open-source software\|free open-source software]] and [[open hardware\|open hardware]], but that's not always possible.
 

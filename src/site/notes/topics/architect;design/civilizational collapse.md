@@ -20,7 +20,7 @@ the more i read into it, the more likely this seems. but even with my caveats/ho
 
 **ultimately, collapsing or not really doesn't matter much**.
 
-even if our analysis is wrong once again and we don't collapse (which doesn't seem likely), it's about how our current [[topics/architect;design/lifestyles\|lifestyles]] have become insanely wasteful, alienating, disconnected from nature and ourselves. depressing, really.
+even if our analysis is wrong once again and we don't collapse (which doesn't seem likely), it's about how our current [[_004_L1F3/core concepts/lifestyles\|lifestyles]] have become insanely wasteful, alienating, disconnected from nature and ourselves. depressing, really.
 
 it's not about being right about what's going to happen, or some speculative mental masturbation exercise. to put it simply, the [[right relationship\|right relationship]] to be in with life/nature isn't one of extraction and mindless consumption, but of respect and constant learning about the delicate web of impacts from our actions.
 

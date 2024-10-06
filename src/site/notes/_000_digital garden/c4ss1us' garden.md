@@ -51,7 +51,7 @@ read more about the research themes/inquiries or jump straight to the core essay
 >
 > i.e. the [[inner\|inner]] and [[outer\|outer]] dimensions of the [[concepts/design/metacrisis\|metacrisis]].
 >
-> by sharing my findings, i aim to establish some foundational [[topics/architect;design/knowledge commons\|knowledge commons]] to support us in navigating this complexity and enabling new, more [[resilient\|resilient]], [[regenerative\|regenerative]] [[topics/architect;design/systems\|systems]], [[topics/architect;design/lifestyles\|lifestyles]] and [[concepts/alchemy/ways of being\|ways of being]].
+> by sharing my findings, i aim to establish some foundational [[topics/architect;design/knowledge commons\|knowledge commons]] to support us in navigating this complexity and enabling new, more [[resilient\|resilient]], [[regenerative\|regenerative]] [[topics/architect;design/systems\|systems]], [[_004_L1F3/core concepts/lifestyles\|lifestyles]] and [[concepts/alchemy/ways of being\|ways of being]].
 > 
 > a couple [[investigation trails\|investigation trails]] we'll dive into here are:
 > 
@@ -109,7 +109,7 @@ my aim here isn't to provide definitive answers, but starting points. my hope if
 
 #### relevance score visualizations
 
-i still have to figure out why the [digital garden plugin](https://dg-docs.ole.dev/) i'm using isn't allowing me to show the relevance score property on my notes. i currently have 94 notes with assigned relevance scores over 80, and i'm slowly adding it to more and more of them (mostly [[terms/design\|design]]/[[_005_c4ss1us/c4ss1us.design\|architect]] & [[_005_c4ss1us/c4ss1us.lab\|lab]] notes were tagged so far, so the index below is missing a ton of stuff from [[_005_c4ss1us/c4ss1us.alchemy\|alchemy]], [[_005_c4ss1us/c4ss.art\|art]], [[_005_c4ss1us/c4ss1us.player\|player]] and [[_005_c4ss1us/c4ss1us.regen\|regen]], that are less processed/more embryonary).
+i still have to figure out why the [digital garden plugin](https://dg-docs.ole.dev/) i'm using isn't allowing me to show the relevance score property on my notes. i currently have 103 notes with assigned relevance scores over 80, and i'm slowly adding it to more and more of them (mostly [[terms/design\|design]]/[[_005_c4ss1us/c4ss1us.design\|architect]] & [[_005_c4ss1us/c4ss1us.lab\|lab]] notes were tagged so far, so the index below is missing a ton of stuff from [[_005_c4ss1us/c4ss1us.alchemy\|alchemy]], [[_005_c4ss1us/c4ss.art\|art]], [[_005_c4ss1us/c4ss1us.player\|player]] and [[_005_c4ss1us/c4ss1us.regen\|regen]], that are less processed/more embryonary).
 
 i intend to fix this soon, but in the meantime, while i'm also building the [[_001_MOCs/025 🔷 long game/025 🗺 topics & references MOC\|025 🗺 topics & references MOC]] and [[_003_research/00 - viable pathways book-zine\|viable pathways]]' [[_003_research/05 - core references & resources\|05 - core references & resources]] pages, this is a useful visualization for navigating this research garden by identifying what i deem as most relevant from the areas above:
 
@@ -128,9 +128,11 @@ i intend to fix this soon, but in the meantime, while i'm also building the [[_0
 | [[_006_core notes/design philosophies\|design philosophies]]                                                          | 98             | _006_core notes                                  | <ul><li>🌱</li></ul> |
 | [[_006_core notes/theories of change\|theories of change]]                                                            | 98             | _006_core notes                                  | <ul><li>🌱</li></ul> |
 | [[concepts/alchemy/integral development\|integral development]]                                                       | 97             | concepts/alchemy                                 | <ul><li>🌱</li></ul> |
-| [[concepts/design/civilization design\|civilization design]]                                                          | 97             | concepts/design                                  | <ul><li>🌱</li></ul> |
 | [[topics/architect;design/coordination systems\|coordination systems]]                                                | 97             | topics/architect;design                          | <ul><li>🌱</li></ul> |
 | [[_004_L1F3/L1F3 support systems\|L1F3 support systems]]                                                              | 97             | _004_L1F3                                        | <ul><li>🌿</li></ul> |
+| [[_004_L1F3/core concepts/civilization design\|civilization design]]                                                  | 97             | _004_L1F3/core concepts                          | <ul><li>🌱</li></ul> |
+| [[concepts/alchemy/dharma\|dharma]]                                                                                   | 96             | concepts/alchemy                                 | <ul><li>🌱</li></ul> |
+| [[concepts/alchemy/wisdom\|wisdom]]                                                                                   | 96             | concepts/alchemy                                 | <ul><li>🌱</li></ul> |
 | [[concepts/design/intimacy crisis\|intimacy crisis]]                                                                  | 96             | concepts/design                                  | <ul><li>🌱</li></ul> |
 | [[initiatives, orgs & communities/alchemy/church of the intimate web\|church of the intimate web]]                    | 96             | initiatives, orgs & communities/alchemy          | <ul><li>🌱</li></ul> |
 | [[initiatives, orgs & communities/architect;design/metagame.wtf\|metagame.wtf]]                                       | 96             | initiatives, orgs & communities/architect;design | <ul><li>🌿</li></ul> |
@@ -144,12 +146,17 @@ i intend to fix this soon, but in the meantime, while i'm also building the [[_0
 | [[responses/alchemy/cosmoerotic humanism\|cosmoerotic humanism]]                                                      | 96             | responses/alchemy                                | <ul><li>🌱</li></ul> |
 | [[responses/alchemy/metamodernism\|metamodernism]]                                                                    | 96             | responses/alchemy                                | <ul><li>🌱</li></ul> |
 | [[responses/regen/permacomputing\|permacomputing]]                                                                    | 96             | responses/regen                                  | <ul><li>🌱</li></ul> |
+| [[topics/alchemy/sensemaking\|sensemaking]]                                                                           | 96             | topics/alchemy                                   | <ul><li>🌱</li></ul> |
 | [[topics/architect;design/climate crisis\|climate crisis]]                                                            | 96             | topics/architect;design                          | <ul><li>🌱</li></ul> |
-| [[topics/architect;design/life design\|life design]]                                                                  | 96             | topics/architect;design                          | <ul><li>🌱</li></ul> |
+| [[topics/architect;design/commons management\|commons management]]                                                    | 96             | topics/architect;design                          | <ul><li>🌱</li></ul> |
+| [[_004_L1F3/core concepts/self design\|self design]]                                                                  | 96             | _004_L1F3/core concepts                          | <ul><li>🌱</li></ul> |
+| [[_004_L1F3/core concepts/life design\|life design]]                                                                  | 96             | _004_L1F3/core concepts                          | <ul><li>🌱</li></ul> |
+| [[_004_L1F3/core concepts/self-management\|self-management]]                                                          | 96             | _004_L1F3/core concepts                          | <ul><li>🌿</li></ul> |
 | [[initiatives, orgs & communities/architect;design/life itself research\|life itself research]]                       | 95             | initiatives, orgs & communities/architect;design | <ul><li>🌱</li></ul> |
 | [[initiatives, orgs & communities/lab/holochain\|holochain]]                                                          | 95             | initiatives, orgs & communities/lab              | <ul><li>🌱</li></ul> |
 | [[projects & tools/tools/lab/duskOS\|duskOS]]                                                                         | 95             | projects & tools/tools/lab                       | <ul><li>🌱</li></ul> |
 | [[concepts/alchemy/4e cognition\|4e cognition]]                                                                       | 94             | concepts/alchemy                                 | <ul><li>🌱</li></ul> |
+| [[concepts/alchemy/initiation\|initiation]]                                                                           | 94             | concepts/alchemy                                 | <ul><li>🌱</li></ul> |
 | [[concepts/alchemy/meaning crisis\|meaning crisis]]                                                                   | 94             | concepts/alchemy                                 | <ul><li>🌱</li></ul> |
 | [[concepts/alchemy/ways of knowing\|ways of knowing]]                                                                 | 94             | concepts/alchemy                                 | <ul><li>🌱</li></ul> |
 | [[concepts/design/legitimacy crisis\|legitimacy crisis]]                                                              | 94             | concepts/design                                  | <ul><li>🌱</li></ul> |
@@ -162,7 +169,6 @@ i intend to fix this soon, but in the meantime, while i'm also building the [[_0
 | [[topics/architect;design/financial crisis\|financial crisis]]                                                        | 94             | topics/architect;design                          | <ul><li>🌱</li></ul> |
 | [[topics/architect;design/energy crisis\|energy crisis]]                                                              | 94             | topics/architect;design                          | <ul><li>🌱</li></ul> |
 | [[topics/architect;design/knowledge commons\|knowledge commons]]                                                      | 94             | topics/architect;design                          | <ul><li>🌱</li></ul> |
-| [[topics/architect;design/lifestyles\|lifestyles]]                                                                    | 94             | topics/architect;design                          | <ul><li>🌱</li></ul> |
 | [[topics/architect;design/personal algorithms design\|personal algorithms design]]                                    | 94             | topics/architect;design                          | <ul><li>🌱</li></ul> |
 | [[topics/architect;design/semantic web\|semantic web]]                                                                | 94             | topics/architect;design                          | <ul><li>🌱</li></ul> |
 | [[topics/architect;design/tools for thought\|tools for thought]]                                                      | 94             | topics/architect;design                          | <ul><li>🌿</li></ul> |
@@ -170,11 +176,14 @@ i intend to fix this soon, but in the meantime, while i'm also building the [[_0
 | [[topics/lab/interactive visualizations\|interactive visualizations]]                                                 | 94             | topics/lab                                       | <ul><li>🌱</li></ul> |
 | [[topics/lab/knowledge visualization\|knowledge visualization]]                                                       | 94             | topics/lab                                       | <ul><li>🌱</li></ul> |
 | [[topics/lab/knowledge management\|knowledge management]]                                                             | 94             | topics/lab                                       | <ul><li>🌿</li></ul> |
+| [[_004_L1F3/core concepts/lifestyles\|lifestyles]]                                                                    | 94             | _004_L1F3/core concepts                          | <ul><li>🌱</li></ul> |
+| [[_004_L1F3/core concepts/life intelligence\|life intelligence]]                                                      | 94             | _004_L1F3/core concepts                          | <ul><li>🌱</li></ul> |
 | [[models & frameworks/player/fourgames\|fourgames]]                                                                   | 93             | models & frameworks/player                       | <ul><li>🌿</li></ul> |
 | [[projects & tools/projects/player/startover.xyz\|startover.xyz]]                                                     | 93             | projects & tools/projects/player                 | <ul><li>🌱</li></ul> |
 | [[responses/art/música do círculo\|música do círculo]]                                                                | 93             | responses/art                                    | <ul><li>🌿</li></ul> |
 | [[concepts/alchemy/decolonization\|decolonization]]                                                                   | 92             | concepts/alchemy                                 | <ul><li>🌱</li></ul> |
 | [[concepts/alchemy/psychotechnologies\|psychotechnologies]]                                                           | 92             | concepts/alchemy                                 | <ul><li>🌿</li></ul> |
+| [[concepts/design/personal tech stack\|personal tech stack]]                                                          | 92             | concepts/design                                  | <ul><li>🌿</li></ul> |
 | [[initiatives, orgs & communities/architect;design/meaning alignment institute\|meaning alignment institute]]         | 92             | initiatives, orgs & communities/architect;design | <ul><li>🌱</li></ul> |
 | [[people/references/lab/bret victor\|bret victor]]                                                                    | 92             | people/references/lab                            | <ul><li>🌿</li></ul> |
 | [[people/references/regen/vanessa andreotti\|vanessa andreotti]]                                                      | 92             | people/references/regen                          | <ul><li>🌱</li></ul> |

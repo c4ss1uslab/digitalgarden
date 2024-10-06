@@ -10,7 +10,7 @@ and then from learning lots of [[topics/alchemy/mental models\|mental models]], 
 
 while going through all that, i kept constantly questioning myself:
 
-> what are or "should be" the design primitives of [[concepts/design/life management\|life management]]?
+> what are or "should be" the design primitives of [[_004_L1F3/core concepts/life management\|life management]]?
 > what are the fundamental ways in which we see, relate to and engage with reality?
 > what are the fundamental tools that we use to do so?
 
