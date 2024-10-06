@@ -1,5 +1,5 @@
 ---
-{"aliases":["🕹 l1f3 game","life game","🕹 life game","massively-multiplayer online-and-offline collaborative self-transformation & civilization-building game","L1F3.GAME","l1f3.game","🕹 L1F3.game","🕹 L1F3 game","🕹 L1F3.GAME","L1F3 game","L1F3.game"],"created in":"2022-02-05T11:41:05-03:00","last tended to":"2024-09-16T14:45:41-03:00","dg-publish":true,"tags":["l1f3","project","🌿","game","seriousgame","player"],"permalink":"/004-l1-f3/l1f3-game/","dgPassFrontmatter":true,"created":"2022-02-05T11:41:05.535-03:00","updated":"2024-09-16T14:45:41.867-03:00"}
+{"aliases":["🕹 l1f3 game","life game","🕹 life game","massively-multiplayer online-and-offline collaborative self-transformation & civilization-building game","L1F3.GAME","l1f3.game","🕹 L1F3.game","🕹 L1F3 game","🕹 L1F3.GAME","L1F3 game","L1F3.game"],"created in":"2022-02-05T11:41:05-03:00","last tended to":"2024-09-29T14:34:24-03:00","tags":["l1f3","project","🌿","game","seriousgame","player"],"dg-publish":true,"notestage":["🌿"],"permalink":"/004-l1-f3/l1f3-game/","dgPassFrontmatter":true,"created":"2022-02-05T11:41:05.535-03:00","updated":"2024-09-29T14:37:10.093-03:00"}
 ---
 
 the l1f3 game is an ongoing endeavor to:
@@ -12,21 +12,21 @@ a game oriented towards supporting/challenging us on our path of [[tbprocessed/b
 
 for the sake of resilience, values-alignment and accessibility, it has to be built on top of [[_004_L1F3/l1f3 protocol\|an open-source, distributed, modular, interoperable protocol for playing life - individually and together]].
 
-#### definitions
+#### interoperability across play
 
-the L1F3 game exists so we can play life in more conscious, fun, collaborative, impactful, regenerative ways.
+the L1F3 game exists so we can play life in more [[conscious\|conscious]], [[terms/fun\|fun]], [[collaborative\|collaborative]], [[impactful\|impactful]] and [[topics/architect;design/regeneration\|regenerative]] ways.
 
 play is both an attitude and an [[terms/action\|action]], it happens at all levels above [[data\|data]], [[terms/information\|information]] and [[knowledge\|knowledge]]. considering the [[models & frameworks/design/OODA loop\|OODA loop]], to play is an agreement, a decision that transforms your whole loop - it changes how you observe, orient, decide and act moving forward.
 
 [[models & frameworks/player/fourgames\|fourgames]] introduces a simple yet profound lens for how [[life is play\|life is play]]. the games we are always playing and can choose to be more conscious of.
 
-ancient [[topics/alchemy/spiritual lineages\|wisdom traditions]] also do so by saying that life is a [[lila\|lila]], [[maya\|maya]], yet also a journey of [[tbprocessed/base notes/concepts - general/conscious evolution\|conscious evolution]].
+ancient [[topics/alchemy/spiritual lineages\|wisdom traditions]] also do so by saying that life is a [[lila\|lila]] (play), [[maya\|maya]] (illusion), yet also a journey of [[tbprocessed/base notes/concepts - general/conscious evolution\|conscious evolution]].
 
-[[topics/alchemy/indigenous wisdom\|indigenous wisdom]] might state that life is about [[topics/player/learning\|learning]], [[terms/creation\|creating]], [[concepts/alchemy/healing\|healing]], [[terms/sharing\|sharing]], [[topics/player/play\|playing]]. and meta-theorists such as [[people/references/alchemy/ken wilber\|ken wilber]] encapsulate it as [[concepts/alchemy/waking up\|concepts/alchemy/waking up]], [[concepts/alchemy/growing up\|growing up]], [[concepts/alchemy/cleaning up\|cleaning up]], [[concepts/alchemy/showing up\|showing up]], [[concepts/alchemy/opening up\|opening up]]. 
+[[topics/alchemy/indigenous wisdom\|indigenous wisdom]] might state that life is about [[topics/player/learning\|learning]], [[terms/creation\|creating]], [[concepts/alchemy/healing\|healing]], [[terms/sharing\|sharing]], [[topics/player/play\|playing]]. and meta-theorists such as [[people/references/alchemy/ken wilber\|ken wilber]] encapsulate it as [[concepts/alchemy/waking up\|waking up]], [[concepts/alchemy/growing up\|growing up]], [[concepts/alchemy/cleaning up\|cleaning up]], [[concepts/alchemy/showing up\|showing up]], [[concepts/alchemy/opening up\|opening up]]. 
 
 [[cyberneticians\|cyberneticians]] might use the [[models & frameworks/design/OODA loop\|OODA loop]] often, using the [[sensing\|sensing]], [[topics/alchemy/sensemaking\|sensemaking]], [[terms/decision-making\|decision-making]], [[terms/action\|action]], [[topics/player/learning\|learning]] loops to study the [[patterns of living systems\|patterns of living systems]] and do [[complexity-informed design\|complexity-informed design]].
 
-[[regenerative designers\|regenerative designers]] (ana), [[cognitive scientists\|cognitive scientists]] -> [[relevance realization\|relevance realization]] and [[reciprocal narrowing\|reciprocal narrowing]]...
+[[regenerative designers\|regenerative designers]], [[cognitive scientists\|cognitive scientists]] -> [[relevance realization\|relevance realization]] and [[reciprocal narrowing\|reciprocal narrowing]]...
 
 i ([[tbprocessed/working on/[3Q; IC] - planning;communication/c4ss1us\|c4ss1us]]) might say: let's build systems to enable deeper levels of [[terms/collaboration\|collaboration]], [[topics/architect;design/coordination systems\|coordination systems]], [[terms/design\|design]] and [[concepts/alchemy/self-transformation\|self-transformation]] in life!
 

@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-11-13T17:20:26-03:00","last tended to":"2024-08-28T15:23:47-03:00","dg-publish":true,"tags":["🌿","prototype"],"permalink":"/prototypes/not-proprietary/potluck/","dgPassFrontmatter":true,"created":"2023-11-13T17:20:26.098-03:00","updated":"2024-08-28T15:24:29.080-03:00"}
+{"created in":"2023-11-13T17:20:26-03:00","last tended to":"2024-09-29T14:47:12-03:00","tags":["🌿","prototype"],"dg-publish":true,"notestage":["🌿"],"permalink":"/prototypes/not-proprietary/potluck/","dgPassFrontmatter":true,"created":"2023-11-13T17:20:26.098-03:00","updated":"2024-09-29T14:47:15.416-03:00"}
 ---
 
 potluck is a prototype made by kev, a friend i made at the [[coolab+dweb camp\|coolab+dweb camp]] in 2023. when he told me about it, i said "damn! that's pretty much the same vision i've been developing of a tool for effective and spontaneous [[resource allocation\|resource allocation]] within a [[responses/design/trust networks\|trust network]]. i've been searching for this for over a year now! so glad i don't have to build it! 😂"

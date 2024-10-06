@@ -8,11 +8,11 @@ the way i use the term "life support system" is as "any crucial system(s) within
 
 if we apply that for humans, there are many [[terms/natural systems\|natural]] and [[built systems\|built systems]] on [[terms/earth\|earth]] that support our life on this planet.
 
-differently, a "L1F3 support system" is "any crucial system(s) within a habitat that are responsible for supporting the [[thriving\|thriving]] of a certain species". so they both [[transcend and include\|transcend and include]] all systems that are responsible for maintaining our survival.
+differently, a "L1F3 support system" is "any crucial system(s) within a habitat that are responsible for supporting the [[concepts/alchemy/thriving\|thriving]] of a certain species". so they both [[transcend and include\|transcend and include]] all systems that are responsible for maintaining our survival.
 
 \**ps: knowing of our [[interdependence\|interdependence]], here we must include our [[circle of concern\|circle of concern]] towards all other living beings as well - our thriving isn't real unless theirs is also taken into account.*
 
-given this explanation, hopefully i don't have to explain why [[_004_L1F3/L1F3 support systems\|L1F3 support systems]] matter. (see: [[thriving\|thriving]] for a detailed discussion on how i use the term, [[externalities\|externalities]] accounting and carefully considering [[success metrics\|success metrics]]/[[health metrics\|health metrics]])
+given this explanation, hopefully i don't have to explain why [[_004_L1F3/L1F3 support systems\|L1F3 support systems]] matter. (see: [[concepts/alchemy/thriving\|thriving]] for a detailed discussion on how i use the term, [[externalities\|externalities]] accounting and carefully considering [[success metrics\|success metrics]]/[[health metrics\|health metrics]])
 
 and given this definition, an exorbitant number of known and unknown systems classify as [[_004_L1F3/L1F3 support systems\|L1F3 support systems]]. how do we classify/navigate this?
 

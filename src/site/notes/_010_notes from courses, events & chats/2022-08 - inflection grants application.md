@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-08-04T03:13:03-03:00","last tended to":"2024-09-04T14:55:25-03:00","tags":["🌿"],"dg-publish":true,"permalink":"/010-notes-from-courses-events-and-chats/2022-08-inflection-grants-application/","dgPassFrontmatter":true,"created":"2022-08-04T03:13:03.726-03:00","updated":"2024-09-04T14:55:26.690-03:00"}
+{"created in":"2022-08-04T03:13:03-03:00","last tended to":"2024-09-29T14:26:22-03:00","tags":["🌿"],"dg-publish":true,"notestage":["🌿"],"permalink":"/010-notes-from-courses-events-and-chats/2022-08-inflection-grants-application/","dgPassFrontmatter":true,"created":"2022-08-04T03:13:03.726-03:00","updated":"2024-09-29T14:26:24.042-03:00"}
 ---
 
 written in: oct 1st, 2022

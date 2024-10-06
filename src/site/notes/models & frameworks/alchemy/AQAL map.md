@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-04-07T14:08:22-03:00","last tended to":"2024-08-28T14:53:46-03:00","tags":["framework","map","integraltheory","🌿"],"dg-publish":true,"permalink":"/models-and-frameworks/alchemy/aqal-map/","dgPassFrontmatter":true,"created":"2022-04-07T14:08:22.352-03:00","updated":"2024-09-02T14:55:18.252-03:00"}
+{"created in":"2022-04-07T14:08:22-03:00","last tended to":"2024-09-29T14:27:47-03:00","tags":["framework","map","integraltheory","🌿"],"dg-publish":true,"notestage":["🌿"],"permalink":"/models-and-frameworks/alchemy/aqal-map/","dgPassFrontmatter":true,"created":"2022-04-07T14:08:22.352-03:00","updated":"2024-09-29T14:27:48.775-03:00"}
 ---
 
 the AQAL map (below) presents the [[models & frameworks/alchemy/AQAL\|AQAL framework]] in a single image, though it might be hard to get for beginners.

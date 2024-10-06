@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-06-19T19:06:36-03:00","last tended to":"2024-09-24T15:57:54-03:00","tags":["concept","alchemy","socialchange","integraltheory","humandevelopment","🌱"],"dg-publish":true,"relevancescore":96,"notestage":["🌱"],"permalink":"/concepts/alchemy/integral-development/","dgPassFrontmatter":true,"created":"2024-06-19T19:06:36.924-03:00","updated":"2024-09-24T16:26:20.834-03:00"}
+{"created in":"2024-06-19T19:06:36-03:00","last tended to":"2024-09-24T16:26:20-03:00","tags":["concept","alchemy","socialchange","integraltheory","humandevelopment","🌱"],"dg-publish":true,"relevancescore":97,"notestage":["🌱"],"permalink":"/concepts/alchemy/integral-development/","dgPassFrontmatter":true,"created":"2024-06-19T19:06:36.924-03:00","updated":"2024-10-06T02:08:12.612-03:00"}
 ---
 
 integral development is a term that refers to the wholistic development of individuals and societies.

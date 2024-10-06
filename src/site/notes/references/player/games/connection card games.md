@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-04-02T18:14:10-03:00","last tended to":"2024-07-19T22:58:55-03:00","tags":["🌿","host","player","game","resource","seriousgame"],"dg-publish":true,"permalink":"/references/player/games/connection-card-games/","dgPassFrontmatter":true,"created":"2024-04-02T18:14:10.485-03:00","updated":"2024-07-20T00:15:40.422-03:00"}
+{"created in":"2024-04-02T18:14:10-03:00","last tended to":"2024-09-29T14:30:42-03:00","tags":["🌿","host","player","game","resource","seriousgame"],"dg-publish":true,"notestage":["🌿"],"permalink":"/references/player/games/connection-card-games/","dgPassFrontmatter":true,"created":"2024-04-02T18:14:10.485-03:00","updated":"2024-09-29T14:30:43.353-03:00"}
 ---
 
 ##### [[we're not really strangers\|we're not really strangers]]

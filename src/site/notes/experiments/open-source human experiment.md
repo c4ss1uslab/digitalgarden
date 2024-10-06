@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-12-27T13:44:24-03:00","last tended to":"2024-07-19T20:35:26-03:00","aliases":["open-source human"],"tags":["experiment","🌿","open-source","quantifiedself","openknowledge","lifestreaming"],"dg-publish":true,"permalink":"/experiments/open-source-human-experiment/","dgPassFrontmatter":true,"created":"2023-12-27T13:44:24.897-03:00","updated":"2024-08-28T15:23:46.558-03:00"}
+{"created in":"2023-12-27T13:44:24-03:00","last tended to":"2024-09-29T14:46:50-03:00","aliases":["open-source human"],"tags":["experiment","🌿","open-source","quantifiedself","openknowledge","lifestreaming"],"dg-publish":true,"notestage":["🌿"],"permalink":"/experiments/open-source-human-experiment/","dgPassFrontmatter":true,"created":"2023-12-27T13:44:24.897-03:00","updated":"2024-09-29T14:46:51.181-03:00"}
 ---
 
 since 2019, i've been structuring my whole life to be open-source and streamed in real-time using the [[_004_L1F3/l1f3 streaming system\|l1f3 streaming system]].

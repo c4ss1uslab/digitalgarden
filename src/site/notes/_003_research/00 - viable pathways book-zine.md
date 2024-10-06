@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-03-25T13:53:56-03:00","last tended to":"2024-09-24T17:18:19-03:00","tags":["🌿"],"aliases":["viable pathways","viable pathways zine","viable pathways book-zine","viable pathways book-zine mvp","book-zine"],"dg-publish":true,"notestage":["🌿"],"permalink":"/003-research/00-viable-pathways-book-zine/","dgPassFrontmatter":true,"created":"2022-03-25T13:53:56.444-03:00","updated":"2024-09-24T17:18:21.026-03:00"}
+{"created in":"2022-03-25T13:53:56-03:00","last tended to":"2024-09-30T13:09:56-03:00","tags":["🌿"],"aliases":["viable pathways","viable pathways zine","viable pathways book-zine","viable pathways book-zine mvp","book-zine"],"dg-publish":true,"notestage":["🌿"],"permalink":"/003-research/00-viable-pathways-book-zine/","dgPassFrontmatter":true,"created":"2022-03-25T13:53:56.444-03:00","updated":"2024-10-06T02:11:50.529-03:00"}
 ---
 
 #### ⚠ coming soon!
@@ -74,7 +74,7 @@ some folks see this as a "too dark" or gloomy perspective, prefer to talk about 
 
 our institutions and systems are failing in recognizing and addressing this - [[governments\|governments]], [[initiatives, orgs & communities/organizations MOC\|organizations]], [[academia\|academia]], [[religions\|religions]], and whether [[topics/architect;design/local communities\|local]], [[decentralized communities\|decentralized]] or [[online communities\|online communities]]. this research aims to a) map the challenges we're facing, b) identify the approaches being tested, and c) under-the-radar approaches and the initiatives working to address them - as way to give us a deeper and wider understanding of our context.
 
-there are many resources and perspectives to help you dive into this field of research, and although 'the [[concepts/design/metacrisis\|metacrisis]]' is not a sexy/enticing term (people might feel a lot more moved by terms such as [[flourishing\|flourishing]], [[love\|love]], [[beauty\|beauty]], [[topics/architect;design/regeneration\|regeneration]], [[thriving\|thriving]]), it's in deeply understanding the complexity and challenges that we're in that we can gain awareness over it and further empower ourselves to build the [[more beautiful world our hearts know is possible\|more beautiful world our hearts know is possible]].
+there are many resources and perspectives to help you dive into this field of research, and although 'the [[concepts/design/metacrisis\|metacrisis]]' is not a sexy/enticing term (people might feel a lot more moved by terms such as [[flourishing\|flourishing]], [[love\|love]], [[beauty\|beauty]], [[topics/architect;design/regeneration\|regeneration]], [[concepts/alchemy/thriving\|thriving]]), it's in deeply understanding the complexity and challenges that we're in that we can gain awareness over it and further empower ourselves to build the [[more beautiful world our hearts know is possible\|more beautiful world our hearts know is possible]].
 
 if you're not familiar with the concept of the [[concepts/design/metacrisis\|metacrisis]], it's a term coined by a certain corner of the internet, sometimes called the "[[sensemaking web\|sensemaking web]]", "[[liminal web\|liminal web]]" or "[[tbprocessed/base notes/concepts - general/game b\|game b]]", heavily informed by the studies of [[topics/alchemy/spiritual lineages\|wisdom traditions]], [[transpersonal psychology\|transpersonal psychology]], [[models & frameworks/alchemy/integral theory\|integral theory]], [[responses/alchemy/metamodernism\|metamodernism]], [[topics/player/game theory\|game theory]], [[cognitive science\|cognitive science]], [[topics/architect;design/systems\|systems]]/[[complexity science\|complexity science]] and a few other fields.
 
@@ -139,7 +139,7 @@ very popular: [[stoicism\|stoicism]], [[eslan delaganore\|eslan delaganore]], [[
 
 - [[terms/buddhism\|buddhism]]
 
-proposes [[concepts/alchemy/enlightenment\|enlightenment]] / the cessation of suffering.
+proposes [[concepts/alchemy/enlightenment (spirituality)\|enlightenment (spirituality)]] / the cessation of suffering.
 
 several traditions of [[zen buddhism\|zen buddhism]], [[vipassana\|vipassana]]...
 
@@ -203,12 +203,17 @@ how can they be complementary? that was the genius of [[people/references/alchem
 
 hardly find consensus, but great memetic mapping:
 
-great work by https://medium.com/s/world-wide-wtf/memetic-tribes-and-culture-war-2-0-14705c43f6bb?s=09 and its accompanying sheet - https://docs.google.com/spreadsheets/d/11Ov1Y1xM-LCeYSSBYZ7yPXJah2ldgFX4oIlDtdd7-Qw/edit
+[[initiatives, orgs & communities/architect;design/life itself\|life itself]] did really well in [[responses/lab/mapping\|mapping]] an emergent [[responses/design/second renaissance\|second renaissance]].
 
-more on https://nadia.xyz/climate-tribes and https://medium.com/@brandon_29259/comparing-approaches-to-addressing-the-meta-crisis-9393e6ee17d7.
+a few other great references:
+
+[[peter limberg\|peter limberg]]/[[tbprocessed/base notes/ventures - general/the stoa\|the stoa]]'s 2018: https://medium.com/s/world-wide-wtf/memetic-tribes-and-culture-war-2-0-14705c43f6bb?s=09 and its accompanying sheet - https://docs.google.com/spreadsheets/d/11Ov1Y1xM-LCeYSSBYZ7yPXJah2ldgFX4oIlDtdd7-Qw/edit
+
+[[nadia asparouhova\|nadia asparouhova]] on https://nadia.xyz/climate-tribes and
+[[brandon noorgard\|brandon noorgard]] on https://medium.com/@brandon_29259/comparing-approaches-to-addressing-the-meta-crisis-9393e6ee17d7.
 
 ---
-this is a non-exhaustive list, as i know there are many other paths i haven't delved into, with different degrees of scientific/philosophical foundation, but it's not my intention to provide a full map/picture here and now. that'd ideally be something many people are engaged in building, as part of a [[modular\|modular]], [[open-source\|open-source]] [[_004_L1F3/l1f3 operating system\|_004_L1F3/l1f3 operating system]], built precisely to test and coordinate propositions such as that [[inquiries & heuristics/heuristics/every perspective is partial\|every perspective is partial]] at scale.
+this is a non-exhaustive list, as i know there are many other paths i haven't delved into, with different degrees of scientific/philosophical foundation, but it's not my intention to provide a full map/picture here and now. that'd ideally be something many people are engaged in building, as part of a [[modular\|modular]], [[open-source\|open-source]] [[_004_L1F3/l1f3 operating system\|l1f3 operating system]], built precisely to test and coordinate propositions such as that [[inquiries & heuristics/heuristics/every perspective is partial\|every perspective is partial]] at scale.
 
 by creating a decentralized aggregator of [[worldviews\|worldviews]] and [[practices\|practices]], we can democratize access to and support even more the practice of [[science\|science]], [[_006_core notes/design philosophies\|design philosophies]], [[topics/alchemy/spirituality\|spirituality]] and ultimately, [[concepts/alchemy/wisdom\|wisdom]].
 

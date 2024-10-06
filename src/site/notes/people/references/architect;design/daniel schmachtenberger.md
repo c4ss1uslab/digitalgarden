@@ -41,7 +41,7 @@ daniel is one of the deepest, most thoughtful and relevant thinkers i know. he d
 
 they ultimately brought it up and discussed elements in each of these, but didn't proceed in filling/developing it. it reminded me of [[josh williams\|josh williams]]' [an introduction to the metacrisis](https://sites.google.com/view/intro-to-the-metacrisis) presentation.
 
-i find it relevant to continue coming back to this an d filling it as a [[map\|map]]/[[radar\|radar]], similar to the [[envisioning tech radar\|envisioning tech radar]].
+i find it relevant to continue coming back to this an d filling it as a [[map\|map]]/[[radar\|radar]], similar to the [[projects & tools/projects/lab/envisioning tech radar\|envisioning tech radar]].
 
 ---
 ###### bend not break #4 notes:

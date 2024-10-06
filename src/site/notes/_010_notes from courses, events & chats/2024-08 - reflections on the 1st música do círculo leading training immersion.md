@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-09-03T15:36:44-03:00","last tended to":"2024-09-24T13:19:01-03:00","tags":["essay","personal","music","alchemy","🌿"],"dg-publish":true,"permalink":"/010-notes-from-courses-events-and-chats/2024-08-reflections-on-the-1st-musica-do-circulo-leading-training-immersion/","dgPassFrontmatter":true,"created":"2024-09-03T15:36:44.069-03:00","updated":"2024-09-24T13:24:43.550-03:00"}
+{"created in":"2024-09-03T15:36:44-03:00","last tended to":"2024-09-29T14:26:33-03:00","tags":["essay","personal","music","alchemy","🌿"],"dg-publish":true,"notestage":["🌿"],"permalink":"/010-notes-from-courses-events-and-chats/2024-08-reflections-on-the-1st-musica-do-circulo-leading-training-immersion/","dgPassFrontmatter":true,"created":"2024-09-03T15:36:44.069-03:00","updated":"2024-09-29T14:26:34.309-03:00"}
 ---
 
 *texto escrito no dia 31 de agosto de 2024.*

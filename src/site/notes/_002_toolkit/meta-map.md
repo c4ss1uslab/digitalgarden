@@ -1,5 +1,5 @@
 ---
-{"aliases":["🗺 meta-map","wordcloud","🗾 meta-map"],"created in":"2022-01-03T19:16:10-03:00","last tended to":"2024-09-16T14:45:41-03:00","tags":["design","🌿","research","knowledgedesign","informationdesign","experiment"],"dg-publish":true,"permalink":"/002-toolkit/meta-map/","dgPassFrontmatter":true,"created":"2022-01-03T19:16:10.550-03:00","updated":"2024-09-16T14:45:41.719-03:00"}
+{"aliases":["🗺 meta-map","wordcloud","🗾 meta-map"],"created in":"2022-01-03T19:16:10-03:00","last tended to":"2024-09-29T14:42:57-03:00","tags":["design","🌿","research","knowledgedesign","informationdesign","experiment"],"dg-publish":true,"notestage":["🌿"],"permalink":"/002-toolkit/meta-map/","dgPassFrontmatter":true,"created":"2022-01-03T19:16:10.550-03:00","updated":"2024-09-29T14:42:58.804-03:00"}
 ---
 
 an extensive list / experimental form of intuitive clustering of all major themes/domains and references i'm working with.
@@ -312,7 +312,7 @@ multidimensional resources management
 [[clarity\|clarity]]
 [[outsourcing\|outsourcing]]
 
-[[topics/architect;design/systems\|systems]] [[tbprocessed/base notes/principles;frameworks - general/leverage\|leverage]]
+[[topics/architect;design/systems\|systems]] [[concepts/design/leverage\|leverage]]
 [[concepts/alchemy/abundance\|abundance]]
 [[abundance-generating mechanisms\|abundance-generating mechanisms]]
 

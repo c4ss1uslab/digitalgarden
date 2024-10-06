@@ -39,7 +39,7 @@ in it, he presents very simply and clearly his [[theory of change\|theory of cha
 
 ###### 1) [[references/player/learning/explorable explanations\|explorable explanations]]
 
-introduces: [[reactive documents\|reactive documents]] (as seen in [[ten brighter ideas\|ten brighter ideas]]), [[explorable examples\|explorable examples]], [[contextual information\|contextual information]].
+introduces: [[reactive documents\|reactive documents]] (as seen in [[references/lab/ten brighter ideas\|ten brighter ideas]]), [[explorable examples\|explorable examples]], [[contextual information\|contextual information]].
 
 ###### 2) [what can a technologist do about climate change?](https://worrydream.com/ClimateChange/)
 
@@ -58,7 +58,7 @@ it presents a few of the kinds of technical transformations/innovations/initiati
 > on 1:
 > he introduces important concepts i'll return to often when discussing [[topics/architect;design/coordination systems\|coordination systems]], [[terms/collaboration\|collaboration]], [[topics/alchemy/sensemaking\|sensemaking]]: [[model-driven debate\|model-driven debate]], [[model-driven reading\|model-driven reading]], [[model-driven authoring\|model-driven authoring]].
 > 
-> these can be seen/experienced in his own [[ten brighter ideas\|ten brighter ideas]], [[initiatives, orgs & communities/architect;design/the society library\|the society library]]'s debate maps, and more.
+> these can be seen/experienced in his own [[references/lab/ten brighter ideas\|ten brighter ideas]], [[initiatives, orgs & communities/architect;design/the society library\|the society library]]'s debate maps, and more.
 > 
 > on 2:
 > he shares a simple yet powerful framing of how we cannot afford as a society to continue with our businesses/governments/economies "as usual". there is and there can be no such thing as not being "mission-driven" (despite how coachy or wishy-washy that might sound). we're always optimizing for some things at the expanse of others, often unconsciously. we need to take this seriously and [end the reign of nihilistic design](https://consilienceproject.org/technology-is-not-values-neutral-ending-the-reign-of-nihilistic-design-2/). i urge you to read this and the article i just linked, deepening the analysis.

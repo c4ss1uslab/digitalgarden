@@ -1,5 +1,5 @@
 ---
-{"aliases":["topics","fields","fields of knowledge"],"created in":"2021-12-11T16:52:03-03:00","last tended to":"2024-09-07T20:47:32-03:00","dg-publish":true,"tags":["🌿"],"permalink":"/001-mo-cs/025-long-game/025-topics-and-references-moc/","dgPassFrontmatter":true,"created":"2021-12-11T16:52:03.339-03:00","updated":"2024-09-16T15:30:06.931-03:00"}
+{"aliases":["topics","fields","fields of knowledge"],"created in":"2021-12-11T16:52:03-03:00","last tended to":"2024-09-29T14:25:03-03:00","dg-publish":true,"tags":["🌿","selfmanagement"],"notestage":["🌿"],"permalink":"/001-mo-cs/025-long-game/025-topics-and-references-moc/","dgPassFrontmatter":true,"created":"2021-12-11T16:52:03.339-03:00","updated":"2024-09-29T14:26:10.719-03:00"}
 ---
 
 on the contents below, the emojis mean different things. here's their caption:
@@ -28,7 +28,7 @@ level of depth:
 #### 🧙🏻‍♂️ [[_005_c4ss1us/c4ss1us.alchemy\|.alchemy]]
 ##### 🌌 [[concepts/alchemy/consciousness\|consciousness]]
 🌲 [[concepts/design/metacrisis\|metacrisis]]
-	([[concepts/alchemy/meaning crisis\|meaning crisis]] / [[existential crisis\|existential crisis]] / [[wisdom crisis\|wisdom crisis]])
+	([[concepts/alchemy/meaning crisis\|meaning crisis]] / [[concepts/alchemy/existential crisis\|existential crisis]] / [[topics/alchemy/wisdom crisis\|wisdom crisis]])
 	--> [[concepts/design/health crisis\|health crisis]] / [[education crisis\|education crisis]] / [[commons\|commons]] [[crisis\|crisis]]
 🌲 [[meta-perspectival frameworks\|meta-perspectival frameworks]]
 	🔥 [[topics/architect;design/ontological design\|ontological design]]

@@ -1,5 +1,5 @@
 ---
-{"aliases":["LMM - life management methodology","life management methodology (LMM)","life management methodology","L1F3 management framework","l1f3 management framework","L1F3 management methodology","L1F3 ontology","🕸 L1F3 management framework","🕸 L1F3 management methodology","🕸 l1f3 management framework","🕸 l1f3 management methodology"],"created in":"2022-04-11T16:33:28-03:00","last tended to":"2024-09-05T15:25:27-03:00","dg-publish":true,"tags":["project","🌿","l1f3"],"permalink":"/004-l1-f3/l1f3-management-methodology/","dgPassFrontmatter":true,"created":"2022-04-11T16:33:28.838-03:00","updated":"2024-09-05T15:31:08.307-03:00"}
+{"aliases":["LMM - life management methodology","life management methodology (LMM)","life management methodology","L1F3 management framework","l1f3 management framework","L1F3 management methodology","L1F3 ontology","🕸 L1F3 management framework","🕸 L1F3 management methodology","🕸 l1f3 management framework","🕸 l1f3 management methodology"],"created in":"2022-04-11T16:33:28-03:00","last tended to":"2024-09-29T14:38:11-03:00","dg-publish":true,"tags":["project","🌿","l1f3"],"notestage":["🌿"],"permalink":"/004-l1-f3/l1f3-management-methodology/","dgPassFrontmatter":true,"created":"2022-04-11T16:33:28.838-03:00","updated":"2024-09-29T14:38:12.593-03:00"}
 ---
 
 #### about

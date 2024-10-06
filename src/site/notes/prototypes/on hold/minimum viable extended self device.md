@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-02-15T15:09:27-03:00","last tended to":"2024-07-19T23:35:48-03:00","tags":["prototype","onhold","🌿"],"dg-publish":true,"aliases":["XS device","minimum viable XS device"],"permalink":"/prototypes/on-hold/minimum-viable-extended-self-device/","dgPassFrontmatter":true,"created":"2024-02-15T15:09:27.156-03:00","updated":"2024-07-19T23:38:45.349-03:00"}
+{"created in":"2024-02-15T15:09:27-03:00","last tended to":"2024-09-29T14:43:25-03:00","tags":["prototype","onhold","🌿"],"dg-publish":true,"aliases":["XS device","minimum viable XS device"],"notestage":["🌿"],"permalink":"/prototypes/on-hold/minimum-viable-extended-self-device/","dgPassFrontmatter":true,"created":"2024-02-15T15:09:27.156-03:00","updated":"2024-09-29T14:43:26.327-03:00"}
 ---
 
 [[type\|type]]: [[areas/life areas (internal)/physical\|physical]] / [[digital\|digital]] [[objects\|objects]]

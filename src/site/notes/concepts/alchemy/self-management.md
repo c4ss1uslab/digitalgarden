@@ -1,5 +1,5 @@
 ---
-{"aliases":["self-management tools & distinctions","manage oneself","manage yourself","self","self-mngmt"],"created in":"2023-07-25T09:18:23-03:00","last tended to":"2024-07-24T03:26:04-03:00","tags":["concept","selfmanagement","tier1","alchemy","design","🌿"],"dg-publish":true,"permalink":"/concepts/alchemy/self-management/","dgPassFrontmatter":true,"created":"2023-07-25T09:18:23.349-03:00","updated":"2024-09-03T13:38:39.856-03:00"}
+{"aliases":["self-management tools & distinctions","manage oneself","manage yourself","self","self-mngmt"],"created in":"2023-07-25T09:18:23-03:00","last tended to":"2024-09-29T14:49:16-03:00","tags":["concept","selfmanagement","tier1","alchemy","design","🌿"],"dg-publish":true,"notestage":["🌿"],"permalink":"/concepts/alchemy/self-management/","dgPassFrontmatter":true,"created":"2023-07-25T09:18:23.349-03:00","updated":"2024-09-29T14:49:17.540-03:00"}
 ---
 
 people that are engaged in "self-management" are usually approaching it from one of 2 perspectives:

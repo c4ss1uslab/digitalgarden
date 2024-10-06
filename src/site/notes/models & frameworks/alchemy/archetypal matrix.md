@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-03-29T19:01:57-03:00","last tended to":"2024-09-02T12:40:35-03:00","tags":["alchemy","🌿","framework"],"dg-publish":true,"permalink":"/models-and-frameworks/alchemy/archetypal-matrix/","dgPassFrontmatter":true,"created":"2024-03-29T19:01:57.398-03:00","updated":"2024-09-02T12:43:51.964-03:00"}
+{"created in":"2024-03-29T19:01:57-03:00","last tended to":"2024-09-29T14:27:59-03:00","tags":["alchemy","🌿","framework"],"dg-publish":true,"notestage":["🌿"],"permalink":"/models-and-frameworks/alchemy/archetypal-matrix/","dgPassFrontmatter":true,"created":"2024-03-29T19:01:57.398-03:00","updated":"2024-09-29T14:28:00.378-03:00"}
 ---
 
 this is a simple, yet major idea i've been developing and experimenting a ton with over the last few years. orienting my life around it has been both deeply nourishing and immensely challenging.

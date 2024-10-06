@@ -228,7 +228,7 @@ individual's wikis/knowledge gardens:
 [[initiatives, orgs & communities/architect;design/golden\|golden]]
 [[models & frameworks/design/wardley mapping\|wardley mapping]]
 [[bismarck analysis\|bismarck analysis]] (high curation)
-[[the cynefin co\|the cynefin co]] / [[projects & tools/tools/design/sensemaker (tool)\|sensemaker (tool)]]
+[[initiatives, orgs & communities/architect;design/the cynefin co\|the cynefin co]] / [[projects & tools/tools/design/sensemaker (tool)\|sensemaker (tool)]]
 [[projects & tools/tools/design/metaculus\|metaculus]] (platform)
 
 best personal websites:
