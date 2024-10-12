@@ -281,7 +281,7 @@ multidimensional resources management
 [[social graph\|social graph]]
 
 [[areas/content creation\|content creation]]
-[[prototypes/on hold/content creation system;workflow\|content creation system;workflow]]
+[[prototypes/made by me/content creation system;workflow\|content creation system;workflow]]
 
 [[_004_L1F3/l1f3 streaming system\|l1f3 streaming system]]
 
@@ -424,7 +424,7 @@ multidimensional resources management
 [[terms/blockchain\|blockchain]]
 [[initiatives, orgs & communities/lab/holochain\|holochain]]
 
-[[prototypes/not proprietary/synapsis\|synapsis]]
+[[prototypes/made by others/synapsis\|synapsis]]
 
 [[business intelligence]]
 [[research institutes]]
@@ -512,7 +512,7 @@ multidimensional resources management
 
 [[terms/sharing\|sharing]]
 [[purpose\|purpose]]
-[[values\|values]]
+[[concepts/alchemy/values\|values]]
 [[mission\|mission]]
 [[terms/community\|community]]
 [[movement\|movement]]
@@ -533,7 +533,7 @@ multidimensional resources management
 [[social recognition\|social recognition]]
 [[social network\|social network]]
 
-[[tbprocessed/base notes/concepts - general/value\|value]]
+[[concepts/design/value\|value]]
 
 [[topics/player/gaming\|gaming]]
 
@@ -604,12 +604,12 @@ multidimensional resources management
 
 [[_004_L1F3/l1f3 management system\|l1f3 management system]]
 
-[[prototypes/on hold/knowledge management system\|knowledge management system]]
-[[prototypes/on hold/decision management system\|decision management system]]
-[[prototypes/on hold/action management system\|action management system]]
-[[prototypes/on hold/learning management system\|learning management system]]
+[[prototypes/made by me/knowledge management system\|knowledge management system]]
+[[prototypes/made by me/decision management system\|decision management system]]
+[[prototypes/made by me/action management system\|action management system]]
+[[prototypes/made by me/learning management system\|learning management system]]
 
-[[prototypes/on hold/resources management system\|resources management system]]
+[[prototypes/made by me/resources management system\|resources management system]]
 
 [[sensing\|sensing]]
 [[topics/alchemy/sensemaking\|sensemaking]]

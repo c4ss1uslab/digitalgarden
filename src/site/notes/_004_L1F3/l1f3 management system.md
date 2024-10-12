@@ -21,7 +21,7 @@ github - project categories:
 
 [[perception\|perception]] ([[topics/lab/data management\|data management]]/[[topics/lab/information management\|information management]]) / [[topics/alchemy/sensemaking\|sensemaking]] ([[topics/lab/knowledge management\|knowledge management]] - [[_001_MOCs/050 🟩 mid game/040 🤹🏻‍♂️ areas MOC\|responsibilities]], [[_002_toolkit/x+ 🎭 roles LPS\|roles]], [[_001_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|challenges]], etc) / [[terms/decision-making\|decision-making]] ([[decision management\|decision management]]) / [[terms/action\|action]]/[[topics/player/learning\|learning]] ([[task management\|task management]] / [[time management\|time management]] / [[energy management\|energy management]] / [[tbprocessed/base notes/topics/learning management\|learning management]]) / [[feedback\|feedback]]/[[results\|results]] ([[wisdom management\|wisdom management]] / [[values management\|values management]] / [[_004_L1F3/core concepts/self-management\|self-management]])
 
-\+ different [[prototypes/on hold/l1f3 management system views\|views]]
+\+ different [[prototypes/made by me/l1f3 management system views\|views]]
 
 #### systems overview
 
@@ -40,11 +40,11 @@ categories of personal systems:
 - [tracking]
 
 #### [[_004_L1F3/core concepts/life management\|life management]] systems breakdown:
-- [[prototypes/on hold/resources management system\|🌫 resources management system]]
-- [[prototypes/on hold/knowledge management system\|🧠 knowledge management system]]
-- [[prototypes/on hold/decision management system\|♟ decision management system]]
-- [[prototypes/on hold/action management system\|⚔ action management system]]
-- [[prototypes/on hold/learning management system\|📚 learning management system]]
+- [[prototypes/made by me/resources management system\|🌫 resources management system]]
+- [[prototypes/made by me/knowledge management system\|🧠 knowledge management system]]
+- [[prototypes/made by me/decision management system\|♟ decision management system]]
+- [[prototypes/made by me/action management system\|⚔ action management system]]
+- [[prototypes/made by me/learning management system\|📚 learning management system]]
 
 #### [[systems management\|systems management]]
 - [[topics/lab/data management\|data management]]
@@ -54,14 +54,14 @@ categories of personal systems:
 
 ++
 ###### sub-projects:
-- [[prototypes/on hold/knowledge management interfaces\|knowledge management interfaces]]
-- [[prototypes/on hold/learning management interfaces\|learning management interfaces]]
-- [[projects & tools/proprietary/building an extended mind\|building an extended mind]]
+- [[prototypes/made by me/knowledge management interfaces\|knowledge management interfaces]]
+- [[prototypes/made by me/learning management interfaces\|learning management interfaces]]
+- [[projects & tools/made by me/building an extended mind\|building an extended mind]]
 - [[tbprocessed/base notes/projects/building a digital garden\|building a digital garden]]
 - [[tbprocessed/base notes/projects/obsidian mastery\|obsidian mastery]]
 - [[notion pages creation;organization\|notion pages creation;organization]]
 - [[notion aesthetics\|notion aesthetics]]
-- [[prototypes/on hold/notion + obsidian integration\|notion + obsidian integration]]
+- [[prototypes/made by me/on hold/notion + obsidian integration\|notion + obsidian integration]]
 
 \+ [[topics/lab/quantified self\|quantified self]] compilations
 [[concepts/design/personal tech stack\|personal tech stack]] / setups
@@ -151,7 +151,7 @@ can create certain file types:
 			- [[_002_toolkit/008 🕹 decision hub\|008 🕹 decision hub]]
 			- [[_001_MOCs/075 🔴🟠🟡 short game/095 📕 learning MOC\|095 📕 learning MOC]]
 			- [[_001_MOCs/075 🔴🟠🟡 short game/100 💪🏻 activities MOC\|100 💪🏻 activities MOC]]
- - [ ] part 2: [[experiments/minimum viable intentional personal systems setup\|minimum viable intentional personal systems setup]]
+ - [ ] part 2: [[experiments/made by me/design/minimum viable intentional personal systems setup\|minimum viable intentional personal systems setup]]
 
 
 ---

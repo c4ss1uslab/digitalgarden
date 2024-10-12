@@ -5,7 +5,7 @@
 > [!info]- assumed audience
 > > if you're new to this subject, keep reading for a list of introductory resources. i also strongly suggest you read: [[_006_core notes/why knowledge management matters (and goes way beyond what most PKM is about today)\|why knowledge management matters (and goes way beyond what most PKM is about today)]].
 > > 
-> > if you're already familiar with the field, i recommend you check out my posts: [[core essays/💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons\|💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons]], [[_004_L1F3/l1f3 management methodology\|L1F3 management framework]] and [[prototypes/on hold/knowledge management system\|knowledge management system]] to have a comprehensive view on my learnings and the approach/design/prototypes i've been developing.
+> > if you're already familiar with the field, i recommend you check out my posts: [[core essays/💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons\|💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons]], [[_004_L1F3/l1f3 management methodology\|L1F3 management framework]] and [[prototypes/made by me/knowledge management system\|knowledge management system]] to have a comprehensive view on my learnings and the approach/design/prototypes i've been developing.
 
 ##### about
 
@@ -43,7 +43,7 @@ related terms/concepts: [[information ecology\|information ecology]], [[topics/a
 --> [[relevance realization\|relevance realization]] | [[models & frameworks/design/OODA loop\|OODA loop]] | [[models & frameworks/design/DIKW pyramid\|DIKW pyramid]]...
 
 my related projects:
-[[prototypes/on hold/knowledge management system\|knowledge management system]]
+[[prototypes/made by me/knowledge management system\|knowledge management system]]
 
 #### the origin story - my initiation into the fields of self-directed learning & knowledge management
 
@@ -83,7 +83,7 @@ i was seeing clearly how "learning how to learn" isn't about techniques, but mos
 
 plus, lots of intuitions from other references that i eventually found/discovered in KM/its adjacent fields: tools for thought as extended cognition [maggie], transformational tft [andy/michael], the properties of the computational medium [[people/references/lab/bret victor\|bret victor]], knowledge presentation as fractals [], ontologies as [scaling synthesis], topographical intelligence via maps [wardley maps]... and many others that i still haven't found well-articulated by anyone (such as game UI/UXs as incredibly useful for real-life management)...
 
-if i, as a 15-year-old was feeling/noticing all that, how could these experts not be? this, alongside my underwhelming experience at my high school/technical degree, which was an extension of the "second best university in brazil", and therefore supposed to be "good", led me to an [[concepts/alchemy/existential crisis\|existential crisis]].
+if i, as a 15-year-old was feeling/noticing all that, how could these experts not be? this, alongside my underwhelming experience at my high school/technical degree, which was an extension of the "second best university in brazil", and therefore supposed to be "good", led me to an [[diagnosis/existential crisis\|existential crisis]].
 
 (given - this specific course was an introductory one. yet, i couldn't stop thinking - was this the most valuable information they could think of sharing to the broadest audience possible? i went into their references and the more i looked into it, the more depressed i felt. their approach to learning was very limited, with no regard whatsoever for [[_004_L1F3/core concepts/life design\|life design]], [[topics/lab/knowledge management\|knowledge management]] and [[topics/player/game design\|game design]].)
 
@@ -125,6 +125,6 @@ and this isn't trashing on the field, i love most of it. i believe most of us re
 
 in short, my understanding/approach today is that:
 
-i don't propose a "definitive" or "best" way to handle information, but i do believe that having clean and relevant data, able to be used in multiple [[interoperable\|interoperable]], [[agent-centric\|agent-centric]] apps and shared in lots of different, flexible, contextual [[prototypes/on hold/l1f3 management system views\|views]], taking into account the different needs and preferences of people/institutions, sure is one of the better ones.
+i don't propose a "definitive" or "best" way to handle information, but i do believe that having clean and relevant data, able to be used in multiple [[interoperable\|interoperable]], [[agent-centric\|agent-centric]] apps and shared in lots of different, flexible, contextual [[prototypes/made by me/l1f3 management system views\|views]], taking into account the different needs and preferences of people/institutions, sure is one of the better ones.
 
 and i've been researching/building several systems, tools and prototypes in this direction - you can see more of them at my [[_001_MOCs/050 🟩 mid game/060 🗡 projects MOC\|projects]] page, or start with the [[_004_L1F3/l1f3 management system\|l1f3 management system]].

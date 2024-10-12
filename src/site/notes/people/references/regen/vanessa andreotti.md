@@ -1,12 +1,10 @@
 ---
-{"created in":"2024-08-20T20:44:56-03:00","last tended to":"2024-09-24T16:18:21-03:00","tags":["person","regeneration","metacrisis","brazilian","tier1","indigenous","🌱","alchemy","research"],"dg-publish":true,"relevancescore":92,"notestage":["🌱"],"permalink":"/people/references/regen/vanessa-andreotti/","dgPassFrontmatter":true,"created":"2024-08-20T20:44:56.880-03:00","updated":"2024-09-24T16:18:22.485-03:00"}
+{"created in":"2024-08-20T20:44:56-03:00","last tended to":"2024-10-12T16:02:52-03:00","tags":["person","regeneration","metacrisis","brazilian","tier1","indigenous","🌱","alchemy","research"],"dg-publish":true,"relevancescore":94,"notestage":["🌱"],"permalink":"/people/references/regen/vanessa-andreotti/","dgPassFrontmatter":true,"created":"2024-08-20T20:44:56.880-03:00","updated":"2024-10-12T16:29:00.650-03:00"}
 ---
 
 author of [[hospicing modernity\|hospicing modernity]], co-creator of the [[initiatives, orgs & communities/regen/gesturing towards decolonial futures\|gesturing towards decolonial futures]] collective, dean of the faculty of education at the [[university of toronto\|university of toronto]].
 
-amazing podcast interview introducing her work/research: ["Hospicing Modernity and Rehabilitating Humanity" | The Great Simplification 125](https://www.youtube.com/watch?v=h5kQ7_IZ8YI)
-
-see also: [[people/references/architect;design/stephen reid\|stephen reid]]'s [vanessa andreotti knowledgegraph](https://stephenreid.net/k/vanessa).
+amazing podcast interview introducing hers and [[initiatives, orgs & communities/regen/gesturing towards decolonial futures\|GTDF]]'s work/research: ["Hospicing Modernity and Rehabilitating Humanity" | The Great Simplification 125](https://www.youtube.com/watch?v=h5kQ7_IZ8YI)
 
 ---
 ##### highlights/notes from the podcast
@@ -35,3 +33,7 @@ four keys for [[topics/architect;design/regeneration\|regeneration]]:
 ##### my highlights from the book
 
 (coming soon)
+
+---
+
+see also: [[people/references/architect;design/stephen reid\|stephen reid]]'s [vanessa andreotti knowledgegraph](https://stephenreid.net/k/vanessa).

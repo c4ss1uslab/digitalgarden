@@ -59,4 +59,4 @@ the first renaissance was an age of retrieval of lost [[knowledge\|knowledge]] &
 
 the second renaissance is both an integration of our discoveries across multiple social, exterior and interior sciences, and also a reintegration of [[indigenous knowledge\|indigenous knowledge]], [[topics/alchemy/indigenous wisdom\|wisdom]] and [[concepts/alchemy/ways of knowing\|ways of knowing]] that were systemically persecuted and erased by modernity.
 
-a new understanding of [[values\|values]] and the [[sacred\|sacred]] has to underpin it.
+a new understanding of [[concepts/alchemy/values\|values]] and the [[sacred\|sacred]] has to underpin it.

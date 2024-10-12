@@ -20,7 +20,7 @@ this is both a [[sociological\|sociological]], [[topics/architect;design/anthrop
 	
 	we're not taking into account the externalities of our lifestyles. their real costs are invisibilized (energy, buying, disposing, hiring, firing)...
 	
-	i.e. people's lifestyles often reflect their [[values\|values]], or more deeply, [[effective value memes\|effective value memes]].
+	i.e. people's lifestyles often reflect their [[concepts/alchemy/values\|values]], or more deeply, [[effective value memes\|effective value memes]].
 	
 	examples: [[digital nomadism\|digital nomadism]] <> [[minimalism\|minimalism]] (intersection) <> [[topics/architect;design/regeneration\|regenerative]]/[[holistic\|holistic]]... a higher level of intentionality around their [[energy management\|energy management]] and [luiz smth design].
 

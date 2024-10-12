@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-04-25T15:09:17-03:00","last tended to":"2024-09-26T18:08:28-03:00","tags":["alchemy","concept","metacrisis","superstructure","🌿"],"dg-publish":true,"relevancescore":92,"notestage":["🌿"],"permalink":"/concepts/alchemy/psychotechnologies/","dgPassFrontmatter":true,"created":"2024-04-25T15:09:17.861-03:00","updated":"2024-09-26T18:12:11.144-03:00"}
+{"created in":"2024-04-25T15:09:17-03:00","last tended to":"2024-09-26T18:12:11-03:00","tags":["alchemy","concept","metacrisis","superstructure","🌿","response"],"dg-publish":true,"relevancescore":92,"notestage":["🌿"],"permalink":"/concepts/alchemy/psychotechnologies/","dgPassFrontmatter":true,"created":"2024-04-25T15:09:17.861-03:00","updated":"2024-10-12T18:50:07.757-03:00"}
 ---
 
 a term often used by folks in the [[concepts/design/metacrisis\|metacrisis]] space.

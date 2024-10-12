@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-10-03T16:43:48-03:00","last tended to":"2024-09-29T14:26:16-03:00","tags":["fellowship","review","self-knowledge","systemschange","🌿"],"dg-publish":true,"notestage":["🌿"],"permalink":"/010-notes-from-courses-events-and-chats/2023-10-roote-fellowship-notes/","dgPassFrontmatter":true,"created":"2023-10-03T16:43:48.690-03:00","updated":"2024-09-29T14:26:17.858-03:00"}
+{"created in":"2023-10-03T16:43:48-03:00","last tended to":"2024-10-12T18:13:42-03:00","tags":["fellowship","review","self-knowledge","systemschange","🌿"],"dg-publish":true,"notestage":["🌿"],"aliases":["roote fellowship"],"permalink":"/010-notes-from-courses-events-and-chats/2023-10-roote-fellowship-notes/","dgPassFrontmatter":true,"created":"2023-10-03T16:43:48.690-03:00","updated":"2024-10-12T18:13:44.855-03:00"}
 ---
 
 "roote helps you clarify root-level systems to help humanity find our route. the fellowship is designed to bring ambitious frontier people together to connect and accelerate them on their path to impact on the wisdom age."
@@ -79,7 +79,7 @@ b) "next steps" presentation:
 - regenerative economies (eisenstein)
 	- SEEDS
 - vocational (a.k.a. creative)/shared/collaborative/multicurrencies economy systems/tools/practices
-	- [[prototypes/not proprietary/potluck\|potluck]]
+	- [[prototypes/made by others/potluck\|potluck]]
 - - metaverse via personal tech stacks/setups (M3/OMI group)
 	- FOSS
 	- PKM/anytype

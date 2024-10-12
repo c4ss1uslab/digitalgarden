@@ -22,7 +22,7 @@ for the past 5 years i've been devoting my life to researching what is [[human f
 
 despite the boldness of the task and my humbleness to state that i don't have definitive answers, i’m happy to share what i discovered from it. since then, i've gained hints of profound clarity on some *partial, yet useful answers*, as well as on the [[_001_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|challenges]] and [[_001_MOCs/025 🔷 long game/035 🔭 missions MOC\|missions]] i decided to work towards. (might we collaborate on some of them? 🙃)
 
-this is my compilation of the findings, resources and references i found most valuable on this journey. it's also part of my effort of designing and living my life as an [[experiments/open-source human experiment\|open-source human]] - this content intends to establish the foundational knowledge commons for the [[tbprocessed/base notes/ventures - proprietary/reality disruption labs\|reality disruption labs]] - a public [[_004_L1F3/core concepts/life intelligence\|life intelligence]] collaboratory and [[concepts/design/metamodern guild\|metamodern guild]] for [L1F3 players](https://c4ss1us.notion.site/l1f3-players-unite-67b9592280554dc98a7e71918c1204c0) i've been co-creating.
+this is my compilation of the findings, resources and references i found most valuable on this journey. it's also part of my effort of designing and living my life as an [[experiments/made by me/player/open-source human experiment\|open-source human]] - this content intends to establish the foundational knowledge commons for the [[tbprocessed/base notes/ventures - proprietary/reality disruption labs\|reality disruption labs]] - a public [[_004_L1F3/core concepts/life intelligence\|life intelligence]] collaboratory and [[concepts/design/metamodern guild\|metamodern guild]] for [L1F3 players](https://c4ss1us.notion.site/l1f3-players-unite-67b9592280554dc98a7e71918c1204c0) i've been co-creating.
 
 you can explore this research on [different levels], based on your [background] experience as well.
 
@@ -88,7 +88,7 @@ it's through this study that i found the most profoundly meaningful and cohesive
 
 besides daniel's work, the simplest, yet most clarifying perspectives i found came from [[zak stein\|zak stein]] and the [[transformative education alliance\|transformative education alliance]] on their essay "[education is the metacrisis](https://systems-souls-society.com/education-is-the-metacrisis/)".
 
-for further breakdowns, [[jonathan rowson\|jonathan rowson]] did an amazing deep dive into multiple perspectives an essay called [tasting the pickle: ten flavours of meta-crisis and the appetite for a new civilisation](https://systems-souls-society.com/tasting-the-pickle-ten-flavours-of-meta-crisis-and-the-appetite-for-a-new-civilisation/), [[people/references/alchemy/john vervaeke\|john vervaeke]] also has a great 50-lecture series on [[concepts/alchemy/meaning crisis\|awakening from the meaning crisis]], [[josh field\|josh field]] shares very unique perspectives on the [[concepts/design/flow crisis\|flow crisis]], and there's a lot more you can discover by browsing the [metacrisis.org](https://metacrisis.org/) website or looking at very disruptive metacrisis-informed projects such as [[initiatives, orgs & communities/architect;design/SEEDS (ecosystem)\|SEEDS (ecosystem)]] and [[initiatives, orgs & communities/lab/holochain\|holochain]] (both are deep in the web3 space, i don't recommend if you're a beginner - understanding each of them may take dozens to hundreds of hours).
+for further breakdowns, [[jonathan rowson\|jonathan rowson]] did an amazing deep dive into multiple perspectives an essay called [tasting the pickle: ten flavours of meta-crisis and the appetite for a new civilisation](https://systems-souls-society.com/tasting-the-pickle-ten-flavours-of-meta-crisis-and-the-appetite-for-a-new-civilisation/), [[people/references/alchemy/john vervaeke\|john vervaeke]] also has a great 50-lecture series on [[diagnosis/meaning crisis\|awakening from the meaning crisis]], [[josh field\|josh field]] shares very unique perspectives on the [[concepts/design/flow crisis\|flow crisis]], and there's a lot more you can discover by browsing the [metacrisis.org](https://metacrisis.org/) website or looking at very disruptive metacrisis-informed projects such as [[initiatives, orgs & communities/architect;design/SEEDS (ecosystem)\|SEEDS (ecosystem)]] and [[initiatives, orgs & communities/lab/holochain\|holochain]] (both are deep in the web3 space, i don't recommend if you're a beginner - understanding each of them may take dozens to hundreds of hours).
 
 the major value i found in attempting to assess and conceptualize our current state - both as individuals and a society - is to recognize and develop vocabulary over the complex systems dynamics that are constantly affecting us, so we can be more aware of them, make better sense of what's going on and coordinate towards more desirable presents and futures.
 
@@ -147,7 +147,7 @@ in integral, they talk about the [[fourth turning of buddhism\|fourth turning of
 
 [[the next buddha will be a sangha\|the next buddha will be a sangha]]:
 
-[[monastic academy\|monastic academy]] - [[people/references/alchemy/daniel thorson\|daniel thorson]], [[concepts/design/intimacy crisis\|intimacy crisis]], [[relational practices\|relational practices]].
+[[monastic academy\|monastic academy]] - [[people/references/alchemy/daniel thorson\|daniel thorson]], [[diagnosis/intimacy crisis\|intimacy crisis]], [[relational practices\|relational practices]].
 
 -  [[transpersonal psychology\|transpersonal psychology]], [[psychedelics\|psychedelics]], [[human potential movement\|human potential movement]], [[new age\|new age]].
 
@@ -163,7 +163,7 @@ and some folks like [[stanislav grof\|stanislav grof]], [[leo gura\|leo gura]], 
 
 - [[self-actualization\|self-actualization]], [[cognitive science\|cognitive science]]
 
-[[people/references/alchemy/john vervaeke\|john vervaeke]] and his work on [[concepts/alchemy/meaning crisis\|awakening from the meaning crisis]].
+[[people/references/alchemy/john vervaeke\|john vervaeke]] and his work on [[diagnosis/meaning crisis\|awakening from the meaning crisis]].
 
 [[robert kegan\|robert kegan]] [[adult development theory\|adult development theory]]
 

@@ -72,13 +72,13 @@
 ![](https://i.imgur.com/HjTfZVe.png)
 
 
-- [[prototypes/on hold/omnichannel curation feed\|omnichannel curation feed]] - #🌿 
+- [[prototypes/made by me/omnichannel curation feed\|omnichannel curation feed]] - #🌿 
 
 <!--![omnichannel curation feed sketch.excalidraw.png](/img/user/_008_illustrations%20&%20designs/omnichannel%20curation%20feed%20sketch.excalidraw.png)-->
 ![](https://i.imgur.com/h7jvtoS.png)
 
 
--> additional info: [[prototypes/on hold/content creation system;workflow\|content creation system;workflow]] - #🌱 
+-> additional info: [[prototypes/made by me/content creation system;workflow\|content creation system;workflow]] - #🌱 
 
 <!--![content consumption;creation workflow mapping.excalidraw.png](/img/user/_008_illustrations%20&%20designs/content%20consumption;creation%20workflow%20mapping.excalidraw.png)-->
 ![](https://i.imgur.com/iCH77YL.png)

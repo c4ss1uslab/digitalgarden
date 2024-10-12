@@ -28,7 +28,7 @@ level of depth:
 #### 🧙🏻‍♂️ [[_005_c4ss1us/c4ss1us.alchemy\|.alchemy]]
 ##### 🌌 [[concepts/alchemy/consciousness\|consciousness]]
 🌲 [[concepts/design/metacrisis\|metacrisis]]
-	([[concepts/alchemy/meaning crisis\|meaning crisis]] / [[concepts/alchemy/existential crisis\|existential crisis]] / [[topics/alchemy/wisdom crisis\|wisdom crisis]])
+	([[diagnosis/meaning crisis\|meaning crisis]] / [[diagnosis/existential crisis\|existential crisis]] / [[topics/alchemy/wisdom crisis\|wisdom crisis]])
 	--> [[concepts/design/health crisis\|health crisis]] / [[education crisis\|education crisis]] / [[commons\|commons]] [[crisis\|crisis]]
 🌲 [[meta-perspectival frameworks\|meta-perspectival frameworks]]
 	🔥 [[topics/architect;design/ontological design\|ontological design]]
@@ -90,7 +90,7 @@ level of depth:
 ##### 💻 [[topics/architect;design/technology\|technology]]
 🌲 [[topics/lab/knowledge management\|PKM]] / [[_004_L1F3/core concepts/life management\|life management]]
 	🔩 [[_004_L1F3/l1f3 management methodology\|life management methodology (LMM)]] ([[obsidian system\|obsidian system]])
-	🔩 [[projects & tools/proprietary/disruptive life management system\|DLMS - disruptive life management system]] ([[notion system\|notion system]])
+	🔩 [[projects & tools/made by me/disruptive life management system\|DLMS - disruptive life management system]] ([[notion system\|notion system]])
 	🔩 [[tbprocessed/base notes/tools;products - proprietary/tools/life organization & visualization system\|LOVS - life organization & visualization system]] ([[notion system\|notion system]])
 	📂 [[knowledge management methodologies\|knowledge management methodologies]]
 🌲 [[topics/architect;design/crypto\|crypto]] / [[topics/architect;design/web3\|web3]]
@@ -98,15 +98,15 @@ level of depth:
 🌿 [[terms/metaverse\|metaverse]]
 	🔥 [[initiatives, orgs & communities/lab/m3 metaverse makers\|m3 metaverse makers]]
 🌿 [[interfaces\|interfaces]] & [[topics/lab/user experience\|UX]]
-	🧪 [[prototypes/on hold/l1f3 player dashboard\|l1f3 player dashboard]]
+	🧪 [[prototypes/made by me/l1f3 player dashboard\|l1f3 player dashboard]]
 	🧰 [[_002_toolkit/000 ⛓ l1f3 player toolkit\|l1f3 player toolkit]] ([[pinterest curation\|pinterest curation]] / [[projects & tools/tools/player/game UI database\|game UI database]])
 🌿 [[responses/lab/mapping\|mapping]]
 	🔥 [[models & frameworks/design/wardley mapping\|wardley mapping]]
 	🔥 [[maps curation\|maps curation]] (twitter link)
 	🧪 [[tbprocessed/base notes/tools;products - proprietary/tools/life map\|life map]]
-	🧪 [[prototypes/on hold/l1f3 projects' references map\|l1f3 projects' references map]]
+	🧪 [[prototypes/made by me/l1f3 projects' references map\|l1f3 projects' references map]]
 	🧪 [[tbprocessed/base notes/tools;products - proprietary/tools/IRDI\|IRDI - integral radar of developmental initiatives]]
-	🧪 [[prototypes/on hold/omnichannel curation feed\|omnichannel curation feed]]
+	🧪 [[prototypes/made by me/omnichannel curation feed\|omnichannel curation feed]]
 	💡 [[tbprocessed/base notes/tools;products - proprietary/tools/research;visualization agent\|research;visualization agent]]
 	💡 [[twitter map\|twitter map]]
 	💫 [[mapping videos\|mapping videos]]
@@ -116,7 +116,7 @@ level of depth:
 	🔥 [[responses/design/values-based design\|values-and-meaning based design]]
 🌱 [[topics/lab/data management\|data management]]
 	🔥 [[initiatives, orgs & communities/lab/holochain\|holochain]]
-	🔥 [[prototypes/not proprietary/synapsis\|synapsis]]
+	🔥 [[prototypes/made by others/synapsis\|synapsis]]
 	🔥 [[initiatives, orgs & communities/architect;design/protocol labs\|protocol labs]]
 	🔥 [[projects & tools/tools/lab/human programming interface\|human programming interface]]
 	💡 [[concepts/design/personal tech stack\|personal tech stack]]
@@ -171,7 +171,7 @@ level of depth:
 		--> [[projects & tools/tools/player/fourgames card deck\|fourgames card deck]]
 		--> [[a jogada\|a jogada]]
 	--> 💧 [[human connection games\|human connection games]]
-		--> [[prototypes/not proprietary/pure players card game\|pure players card game]]
+		--> [[prototypes/made by others/pure players card game\|pure players card game]]
 		--> [[amuta cards\|amuta cards]]
 		--> [[projects & tools/tools/music/música do círculo's card deck\|música do círculo's card deck]]
 	--> 🌱 [[physical games\|physical games]]

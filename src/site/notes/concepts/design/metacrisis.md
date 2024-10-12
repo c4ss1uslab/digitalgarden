@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-10-31T15:56:54-03:00","last tended to":"2024-09-24T12:27:02-03:00","dg-publish":true,"aliases":["personal and civilizational crises","systemic crises"],"tags":["concept","metacrisis"],"relevancescore":98,"notestage":["🌿"],"permalink":"/concepts/design/metacrisis/","dgPassFrontmatter":true,"created":"2023-10-31T15:56:54.956-03:00","updated":"2024-09-24T15:41:42.016-03:00"}
+{"created in":"2023-10-31T15:56:54-03:00","last tended to":"2024-09-24T15:41:42-03:00","dg-publish":true,"aliases":["personal and civilizational crises","systemic crises"],"tags":["concept","metacrisis"],"relevancescore":98,"notestage":["🌿"],"permalink":"/concepts/design/metacrisis/","dgPassFrontmatter":true,"created":"2023-10-31T15:56:54.956-03:00","updated":"2024-10-11T18:02:38.006-03:00"}
 ---
 
 the metacrisis is a lens for analyzing/understanding the *human predicament* and the complexity of our current moment in the history of civilizations.
@@ -28,10 +28,10 @@ the [[areas/spiritual\|spiritual]]/[[psychological\|psychological]], [[ecologica
 
 which can then be broken down into several other crisis and dynamics:
 
--> spiritual/psychological -> [[mental health crisis\|mental health]], [[concepts/alchemy/meaning crisis\|meaning]], [[concepts/alchemy/existential crisis\|existential]], [[concepts/design/intimacy crisis\|intimacy crisis]], etc...
--> ecological -> [[concepts/design/health crisis\|health]], [[topics/architect;design/climate crisis\|climate]], [[topics/architect;design/energy crisis\|energy crisis]], etc...
+-> spiritual/psychological -> [[mental health crisis\|mental health]], [[diagnosis/meaning crisis\|meaning]], [[diagnosis/existential crisis\|existential]], [[diagnosis/intimacy crisis\|intimacy crisis]], etc...
+-> ecological -> [[concepts/design/health crisis\|health]], [[diagnosis/climate crisis\|climate]], [[diagnosis/energy crisis\|energy crisis]], etc...
 -> political -> [[concepts/design/legitimacy crisis\|legitimacy crisis]], [[concepts/design/coordination failure\|coordination failure]], [[geopolitical risks\|geopolitical risks]], etc...
--> economic -> [[topics/architect;design/financial crisis\|financial crisis]], [[technological risk\|technological risk]], [[concepts/design/capability crisis\|capability crisis]], [[perverse incentives\|perverse incentives]], etc...
+-> economic -> [[diagnosis/financial collapse\|financial collapse]], [[technological risk\|technological risk]], [[concepts/design/capability crisis\|capability crisis]], [[perverse incentives\|perverse incentives]], etc...
 -> educational -> [[concepts/design/sensemaking crisis\|sensemaking]], [[topics/alchemy/wisdom crisis\|wisdom crisis]], [[trust crisis\|trust crisis]], etc...
 
 they loosely map into the [[models & frameworks/design/four quadrants\|four quadrants]]/[[models & frameworks/framework variations/5 elements\|5 elements]] framework, which helps to navigate/coordinate around it. they are crises of different inter-relating dimensions ([[inner\|inner]], [[outer\|outer]], [[individual\|individual]], [[collective\|collective]]).
@@ -51,6 +51,6 @@ feel free to bug me on [twitter](https://twitter.com/c4ss1usl1f3) to finish maki
 
 [[josh field\|josh field]] - [[concepts/design/flow crisis\|flow crisis]] - a few less-known but very interesting/valuable perspectives on it
 
-[[people/references/alchemy/john vervaeke\|john vervaeke]] - [[concepts/alchemy/meaning crisis\|meaning crisis]] - lots of good content from around it, more useful for understanding/navigating the (inner) psychological crises of our time
+[[people/references/alchemy/john vervaeke\|john vervaeke]] - [[diagnosis/meaning crisis\|meaning crisis]] - lots of good content from around it, more useful for understanding/navigating the (inner) psychological crises of our time
 
 [life itself ecosystem map](https://ecosystem.lifeitself.us/) - a pretty good map of the organizations/communities in the space

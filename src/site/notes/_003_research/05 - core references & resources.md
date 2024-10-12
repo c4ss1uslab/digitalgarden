@@ -301,7 +301,7 @@ files management:
 [[notes\|notes]] - [[telegram\|telegram]] <> [[tbprocessed/base notes/ventures - general/obsidian\|obsidian]]
 [[images\|images]] - [[projects & tools/tools/lab/eagle (app)\|eagle (app)]]
 [[videos\|videos]] - [[youtube\|youtube]]
-[[personal data\|personal data]] - [[prototypes/not proprietary/synapsis\|synapsis]] ([[rescuetime\|rescuetime]], [[rize\|rize]], [[toggl\|toggl]])
+[[personal data\|personal data]] - [[prototypes/made by others/synapsis\|synapsis]] ([[rescuetime\|rescuetime]], [[rize\|rize]], [[toggl\|toggl]])
 
 x pages (bookmarks)
 x notes/highlights

@@ -23,6 +23,6 @@ curated by the [[initiatives, orgs & communities/player/MoL\|MoL]]/[[unilivre\|u
 cards (for print): https://github.com/vpapadopou/liberating-structures-cards/blob/master/print/print-a4.pdf
 app: https://play.google.com/store/apps/details?id=de.holisticon.app.ls&hl=en&pli=1
 
-##### [[prototypes/not proprietary/pure players card game\|pure players card game]]
+##### [[prototypes/made by others/pure players card game\|pure players card game]]
 
 early-stage prototyping by a friend of mine.

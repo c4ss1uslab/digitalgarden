@@ -14,7 +14,7 @@ the contents of the writing below are currently haphazard, disjointed and all ov
 
 integral theory already did that with [[religions\|religions]], [[topics/alchemy/spiritual lineages\|wisdom traditions]], [[scientific discoveries\|scientific discoveries]] and [[psychological studies\|psychological studies]].
 
-i could quote the works of [[eric brown\|eric brown]] on [hedonic engineering: building a psycho-spiritual growth stack](https://seriousplay.substack.com/p/hedonic-engineering), [[euvie ivanova\|euvie ivanova]] on [psycho-technologies for the age of collapse](https://euvieivanova.substack.com/p/psycho-technologies-for-the-age-of), [[people/references/alchemy/john vervaeke\|john vervaeke]] on [religion that is not a religion](https://www.youtube.com/@johnvervaeke), [psychotechnologies and distributed cognition](https://www.youtube.com/watch?v=237-jbJfleY) and the [[concepts/alchemy/meaning crisis\|meaning crisis]] as a whole. (i love their works and recommend all of them)
+i could quote the works of [[eric brown\|eric brown]] on [hedonic engineering: building a psycho-spiritual growth stack](https://seriousplay.substack.com/p/hedonic-engineering), [[euvie ivanova\|euvie ivanova]] on [psycho-technologies for the age of collapse](https://euvieivanova.substack.com/p/psycho-technologies-for-the-age-of), [[people/references/alchemy/john vervaeke\|john vervaeke]] on [religion that is not a religion](https://www.youtube.com/@johnvervaeke), [psychotechnologies and distributed cognition](https://www.youtube.com/watch?v=237-jbJfleY) and the [[diagnosis/meaning crisis\|meaning crisis]] as a whole. (i love their works and recommend all of them)
 
 my good friend [[people/friends/marcelo peterlini\|marcelo peterlini]] also has been doing his own research and co-creation with [[people/references/alchemy/daniel thorson\|daniel thorson]] on the [[initiatives, orgs & communities/alchemy/church of the intimate web\|church of the intimate web]], which also features a synthetization of a lot of powerful perspectives.
 
@@ -61,5 +61,5 @@ gamers are usually familiar with this idea since they're often tweaking their ga
 
 in nerd terms: [[concepts/alchemy/epistemology\|epistemology]], [[topics/alchemy/metaphysics\|metaphysics]], [[concepts/alchemy/ontology\|ontology]].
 
-the set of [[beliefs\|beliefs]], [[values\|values]], [[conditionings\|conditionings]] with which you operate in life.
+the set of [[beliefs\|beliefs]], [[concepts/alchemy/values\|values]], [[conditionings\|conditionings]] with which you operate in life.
 

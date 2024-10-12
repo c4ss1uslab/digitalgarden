@@ -7,5 +7,5 @@ maintainer of [metacrisis.xyz](https://metacrisis.xyz). i align with much of his
 #### syllabus from his courses:
 
 [[_010_notes from courses, events & chats/2021-02 - tools for the regenerative renaissance course review\|tools for the regenerative renaissance]]
-[[AI and our regenerative future\|AI and our regenerative future]]
+[[references/lab/AI and our regenerative future\|AI and our regenerative future]]
 [[_010_notes from courses, events & chats/technological metamodernism\|technological metamodernism]]
