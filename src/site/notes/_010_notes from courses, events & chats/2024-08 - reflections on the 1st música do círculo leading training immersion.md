@@ -28,7 +28,7 @@ os próximos sistemas. caminhos possíveis pra vidas mais conscientes, coerentes
 
 o sentimento de estar aqui, presente, entregue, com tantas pessoas interessantes, potentes, alinhadas num propósito maior e não conseguir me expressar, me fazer visto, é muito frustrante.
 
-o que eu tenho descoberto, é que como uma expectativa desse curso, é que eu continue descobrindo formas de me expressar e me desdobrar, pra que a partir da minha autenticidade - que venha a [[brazilian nerdcore\|música nerd]], o metal, o trap, o rap, o beatbox, as músicas tradicionais dos povos ([[world music\|world music]]), a poesia, o teatro, a contemplação, o espairecer - eu possa vir a amparar esse espaço pra outras pessoas também.
+o que eu tenho descoberto, é que como uma expectativa desse curso, é que eu continue descobrindo formas de me expressar e me desdobrar, pra que a partir da minha autenticidade - que venha a [[topics/art/brazilian nerdcore\|música nerd]], o metal, o trap, o rap, o beatbox, as músicas tradicionais dos povos ([[topics/art/world music\|world music]]), a poesia, o teatro, a contemplação, o espairecer - eu possa vir a amparar esse espaço pra outras pessoas também.
 
 então o meu pedido é: que possamos ter espaços conjuntos pra explorar essa expressão do sagrado em nós.
 

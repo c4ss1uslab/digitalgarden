@@ -30,4 +30,4 @@ as of: october 12th, 2024
 
 members: [[people/references/regen/vanessa andreotti\|vanessa andreotti]], . sharon stein . rene susa . cash ahenakew .  dani d’emilia . dani pigeau .  camilla cardoso . dino siwek .  awo fatokum  . giovanna andreotti . azul (carolina duque).  lynn mario de souza . azul duque  . kyra fay . lisa taylor . bruno andreotti
 
-related: [[teia das 5 curas\|teia das 5 curas]]
+related: [[initiatives, orgs & communities/alchemy/teia das 5 curas\|teia das 5 curas]]

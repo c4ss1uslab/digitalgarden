@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-05-31T16:42:16-03:00","last tended to":"2024-09-26T15:26:26-03:00","aliases":["MdC","mdc"],"tags":["music","play","🌿","host","practice"],"relevancescore":93,"dg-publish":true,"notestage":["🌿"],"permalink":"/responses/art/musica-do-circulo/","dgPassFrontmatter":true,"created":"2023-05-31T16:42:16.760-03:00","updated":"2024-09-26T15:26:27.264-03:00"}
+{"created in":"2023-05-31T16:42:16-03:00","last tended to":"2024-09-26T15:26:26-03:00","aliases":["MdC","mdc"],"tags":["music","play","🌿","host","practice"],"relevancescore":93,"dg-publish":true,"notestage":["🌿"],"permalink":"/responses/art/musica-do-circulo/","dgPassFrontmatter":true,"created":"2023-05-31T16:42:16.760-03:00","updated":"2024-10-13T01:39:07.310-03:00"}
 ---
 
 https://musicadocirculo.com/
@@ -36,7 +36,7 @@ https://www.instagram.com/stories/highlights/18017605172249078/
 </div></div>
 
 
-related: [[topics/art/metamodern music\|metamodern music]], [[body music\|body music]], [[vocal improvisation\|vocal improvisation]], [[topics/art/beatbox\|beatbox]]...
+related: [[writings/thoughts on metamodern music\|thoughts on metamodern music]], [[body music\|body music]], [[vocal improvisation\|vocal improvisation]], [[topics/art/beatbox\|beatbox]]...
 
 > [!seealso]- other somewhat poetic thoughts/reflections:
 > 
