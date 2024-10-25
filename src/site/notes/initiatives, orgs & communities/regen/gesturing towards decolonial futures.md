@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-08-20T20:47:02-03:00","last tended to":"2024-10-12T16:07:49-03:00","aliases":["GTDF","gtdf","gtdf collective","GTDF collective","gestuiing towards decolonial futures collective"],"tags":["collective","indigenous","alchemy","host","metacrisis","brazilian","regen","decolonization","🌱"],"relevancescore":94,"notestage":["🌱"],"dg-publish":true,"permalink":"/initiatives-orgs-and-communities/regen/gesturing-towards-decolonial-futures/","dgPassFrontmatter":true,"created":"2024-08-20T20:47:02.331-03:00","updated":"2024-10-12T16:28:08.371-03:00"}
+{"created in":"2024-08-20T20:47:02-03:00","last tended to":"2024-10-12T16:28:08-03:00","aliases":["GTDF","gtdf","gtdf collective","GTDF collective","gestuiing towards decolonial futures collective"],"tags":["collective","indigenous","alchemy","host","metacrisis","brazilian","regen","decolonization","🌱"],"relevancescore":96,"notestage":["🌱"],"dg-publish":true,"permalink":"/initiatives-orgs-and-communities/regen/gesturing-towards-decolonial-futures/","dgPassFrontmatter":true,"created":"2024-08-20T20:47:02.331-03:00","updated":"2024-10-25T14:59:01.658-03:00"}
 ---
 
 #### about

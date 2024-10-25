@@ -17,7 +17,7 @@ daniel is one of the deepest, most thoughtful and relevant thinkers i know. he d
 
 **key terms:** [[systemic transition\|systemic transition]], [[concepts/alchemy/wisdom\|wisdom]], [[concepts/design/commons crisis\|commons]], [[terms/design\|design]], [[topics/alchemy/sensemaking\|sensemaking]], [[strategy\|strategy]] (...)
 
-**glossary:** [[cultural materialism\|cultural materialism]], [[tragedy of the commons\|tragedy of the commons]], [[arms-race\|arms-race]] / [[race to the bottom\|race to the bottom]], [[topics/player/game theory\|game-theoretical]] [[incentives\|incentives]] & [[deterrents\|deterrents]], [[jevonn's paradox\|jevonn's paradox]], [[kleiber's law\|kleiber's law]], (...)
+**glossary:** [[models & frameworks/design/cultural materialism\|cultural materialism]], [[tragedy of the commons\|tragedy of the commons]], [[arms-race\|arms-race]] / [[race to the bottom\|race to the bottom]], [[topics/player/game theory\|game-theoretical]] [[incentives\|incentives]] & [[deterrents\|deterrents]], [[jevonn's paradox\|jevonn's paradox]], [[kleiber's law\|kleiber's law]], (...)
 
 **see also:** [[people/references/architect;design/stephen reid\|stephen reid]]'s [daniel schmachtenberger knowledgegraph](https://stephenreid.net/k/daniel)
 

@@ -335,7 +335,7 @@ multidimensional resources management
 [[r&d groups\|r&d groups]]
 
 [[holonic data management\|holonic data management]]
-[[personal data management\|personal data management]]
+[[topics/lab/personal data management\|personal data management]]
 
 [[data sharing\|data sharing]]
 

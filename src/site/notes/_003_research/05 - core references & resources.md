@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-07-30T21:38:54-03:00","last tended to":"2024-09-16T18:36:31-03:00","tags":["🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/003-research/05-core-references-and-resources/","dgPassFrontmatter":true,"created":"2022-07-30T21:38:54.771-03:00","updated":"2024-09-24T16:20:23.956-03:00"}
+{"created in":"2022-07-30T21:38:54-03:00","last tended to":"2024-09-24T16:20:23-03:00","tags":["🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/003-research/05-core-references-and-resources/","dgPassFrontmatter":true,"created":"2022-07-30T21:38:54.771-03:00","updated":"2024-10-22T19:55:34.846-03:00"}
 ---
 
 ```ad-warning
@@ -297,7 +297,7 @@ networks / data sources:
 [[pinterest\|pinterest]] / [[artstation\|artstation]] / [[dribbble\|dribbble]] / [[behance\|behance]]
 
 files management:
-[[patterns/active patterns/knowledge design/social bookmarks\|social bookmarks]] - [[projects & tools/tools/lab/raindrop\|raindrop]]
+[[patterns/active patterns/knowledge design/social reading bookmarks\|social reading bookmarks]] - [[projects & tools/tools/lab/raindrop\|raindrop]]
 [[notes\|notes]] - [[telegram\|telegram]] <> [[tbprocessed/base notes/ventures - general/obsidian\|obsidian]]
 [[images\|images]] - [[projects & tools/tools/lab/eagle (app)\|eagle (app)]]
 [[videos\|videos]] - [[youtube\|youtube]]

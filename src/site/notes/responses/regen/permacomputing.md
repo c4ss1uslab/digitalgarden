@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-08-22T15:27:37-03:00","last tended to":"2024-09-24T16:06:42-03:00","tags":["concept","regen","technology","design","cybernetics","research","🌱","lab","response"],"relevancescore":96,"dg-publish":true,"notestage":["🌱"],"permalink":"/responses/regen/permacomputing/","dgPassFrontmatter":true,"created":"2024-08-22T15:27:37.000-03:00","updated":"2024-09-24T16:06:43.693-03:00"}
+{"created in":"2024-08-22T15:27:37-03:00","last tended to":"2024-09-24T16:06:42-03:00","tags":["concept","regen","technology","design","cybernetics","research","🌱","lab","response"],"relevancescore":96,"dg-publish":true,"notestage":["🌱"],"permalink":"/responses/regen/permacomputing/","dgPassFrontmatter":true,"created":"2024-08-22T15:27:37.000-03:00","updated":"2024-10-25T11:54:18.287-03:00"}
 ---
 
 #### about
@@ -16,7 +16,7 @@ for a breakdown/exploration of active/adjacent communities: http://viznut.fi/tex
 
 #### context
 
-it can be a hard pill to swallow. for me, it partly was. first because it required many other pills before - the disillusionment with the [[terms/techno-optimism\|techno-optimism]] / [[effective accelerationism\|effective accelerationist]] meme, the understanding of [[tbprocessed/base notes/topics/permaculture\|permaculture]]/the [[topics/architect;design/regeneration\|regenerative]] meme, the overall opening of the heart and the [[concepts/alchemy/eye of value\|eye of value]] - plus, seeing the attempts at [[tech for good\|tech for good]], [[models & frameworks/design/human-centered design\|human-centered design]] as often times, not going deep enough.
+it can be a hard pill to swallow. for me, it partly was. first because it required many other pills before - the disillusionment with the [[terms/techno-optimism\|techno-optimism]] / [[effective accelerationism\|effective accelerationist]] meme, the understanding of [[tbprocessed/base notes/topics/permaculture\|permaculture]]/the [[topics/architect;design/regeneration\|regenerative]] meme, the overall opening of the heart and the [[concepts/alchemy/eye of value\|eye of value]] - plus, seeing the attempts at [[tech for good\|tech for good]], [[models & frameworks/design/humane design\|humane design]] as often times, not going deep enough.
 
 secondly, especially emotionally for me, as someone who grew up watching [[references/player/anime ; manga ; webtoon/sword art online\|sword art online]], and to this day still loves [[references/player/anime ; manga ; webtoon/overgeared\|overgeared]], [[references/player/anime ; manga ; webtoon/solo leveling\|solo leveling]] and some other highly advanced tech-gaming real-life scenarios, to have one of the **core tenets of technology design** for it be **[[self-obviating\|self-obviating]]** is at first, heartbreaking.
 

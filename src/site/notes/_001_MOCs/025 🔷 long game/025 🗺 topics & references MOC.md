@@ -1,5 +1,5 @@
 ---
-{"aliases":["topics","fields","fields of knowledge"],"created in":"2021-12-11T16:52:03-03:00","last tended to":"2024-09-29T14:25:03-03:00","dg-publish":true,"tags":["🌿","selfmanagement"],"notestage":["🌿"],"permalink":"/001-mo-cs/025-long-game/025-topics-and-references-moc/","dgPassFrontmatter":true,"created":"2021-12-11T16:52:03.339-03:00","updated":"2024-09-29T14:26:10.719-03:00"}
+{"aliases":["topics","fields","fields of knowledge"],"created in":"2021-12-11T16:52:03-03:00","last tended to":"2024-09-29T14:26:10-03:00","dg-publish":true,"tags":["🌿","selfmanagement"],"notestage":["🌿"],"permalink":"/001-mo-cs/025-long-game/025-topics-and-references-moc/","dgPassFrontmatter":true,"created":"2021-12-11T16:52:03.339-03:00","updated":"2024-10-24T21:59:41.456-03:00"}
 ---
 
 on the contents below, the emojis mean different things. here's their caption:
@@ -114,7 +114,7 @@ level of depth:
 	💫 [[ideaverse\|ideaverse]] / [[research visualization world\|research visualization world]] / [[_000_digital garden/c4ss1us' garden\|c4ss1us' garden]] evolution into a [[topics/art/3d\|3d]]/artistic [[3rd brain\|3rd brain]]
 🌿 [[digital systems design\|digital systems design]]
 	🔥 [[responses/design/values-based design\|values-and-meaning based design]]
-🌱 [[topics/lab/data management\|data management]]
+🌱 [[topics/lab/personal data management\|personal data management]]
 	🔥 [[initiatives, orgs & communities/lab/holochain\|holochain]]
 	🔥 [[prototypes/made by others/synapsis\|synapsis]]
 	🔥 [[initiatives, orgs & communities/architect;design/protocol labs\|protocol labs]]
@@ -290,7 +290,7 @@ practice
 				- [[topics/architect;design/digital economy\|digital economy]]
 	- [[resources management\|resources management]]
 		- [[topics/lab/knowledge management\|knowledge management]]
-			- [[topics/lab/data management\|data management]]
+			- [[topics/lab/personal data management\|personal data management]]
 
 - collaboration
 	- [[tbprocessed/base notes/topics/learning management\|learning management]]

@@ -1,8 +1,6 @@
 ---
-{"created in":"2024-08-23T17:05:23-03:00","last tended to":"2024-09-24T15:53:02-03:00","aliases":["collapse","post-collapse","civilization collapse","collapse of our civilization","systemic collapse"],"tags":["metacrisis","civilizationdesign","topic","🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/topics/architect-design/civilizational-collapse/","dgPassFrontmatter":true,"created":"2024-08-23T17:05:23.902-03:00","updated":"2024-09-24T16:22:27.765-03:00"}
+{"created in":"2024-08-23T17:05:23-03:00","last tended to":"2024-09-24T16:22:27-03:00","aliases":["collapse","post-collapse","civilization collapse","collapse of our civilization","systemic collapse"],"tags":["metacrisis","civilizationdesign","topic","🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/topics/architect-design/civilizational-collapse/","dgPassFrontmatter":true,"created":"2024-08-23T17:05:23.902-03:00","updated":"2024-10-25T14:53:29.173-03:00"}
 ---
-
-major reference on the subject: [[people/references/architect;design/joseph tainter\|tainter]] on [[the collapse of complex societies\|the collapse of complex societies]].
 
 [[people/references/architect;design/daniel schmachtenberger\|daniel schmachtenberger]] and the folks researching the [[concepts/design/metacrisis\|metacrisis]] also often refer to it as a likely though not desirable outcome from the plethora of [[concepts/design/existential risk\|existential]] and [[terms/catastrophic risk\|catastrophic risks]] we're living through.
 
@@ -25,3 +23,8 @@ even if our analysis is wrong once again and we don't collapse (which doesn't se
 it's not about being right about what's going to happen, or some speculative mental masturbation exercise. to put it simply, the [[right relationship\|right relationship]] to be in with life/nature isn't one of extraction and mindless consumption, but of respect and constant learning about the delicate web of impacts from our actions.
 
 this conscious relationship with reality is what i want to work towards.
+
+
+##### further reading
+
+[[people/references/architect;design/joseph tainter\|joseph tainter]] on [[the collapse of complex societies\|the collapse of complex societies]].

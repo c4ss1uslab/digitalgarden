@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-08-20T20:44:56-03:00","last tended to":"2024-10-12T16:02:52-03:00","tags":["person","regeneration","metacrisis","brazilian","tier1","indigenous","🌱","alchemy","research"],"dg-publish":true,"relevancescore":94,"notestage":["🌱"],"permalink":"/people/references/regen/vanessa-andreotti/","dgPassFrontmatter":true,"created":"2024-08-20T20:44:56.880-03:00","updated":"2024-10-12T16:29:00.650-03:00"}
+{"created in":"2024-08-20T20:44:56-03:00","last tended to":"2024-10-12T16:29:00-03:00","tags":["person","regeneration","metacrisis","brazilian","tier1","indigenous","🌱","alchemy","research"],"dg-publish":true,"relevancescore":96,"notestage":["🌱"],"permalink":"/people/references/regen/vanessa-andreotti/","dgPassFrontmatter":true,"created":"2024-08-20T20:44:56.880-03:00","updated":"2024-10-25T14:59:48.358-03:00"}
 ---
 
 author of [[hospicing modernity\|hospicing modernity]], co-creator of the [[initiatives, orgs & communities/regen/gesturing towards decolonial futures\|gesturing towards decolonial futures]] collective, dean of the faculty of education at the [[university of toronto\|university of toronto]].

@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-03-19T16:25:06-03:00","last tended to":"2024-10-15T01:02:14-03:00","tags":["person","research","knowledgemanagement","distributedsystems","cybernetics","top3","systemsscience","🌱"],"relevancescore":91,"dg-publish":true,"notestage":["🌱"],"permalink":"/people/references/lab/gordon-brander/","dgPassFrontmatter":true,"created":"2024-03-19T16:25:06.818-03:00","updated":"2024-10-17T15:03:49.374-03:00"}
+{"created in":"2024-03-19T16:25:06-03:00","last tended to":"2024-10-18T13:25:06-03:00","tags":["person","research","knowledgemanagement","distributedsystems","cybernetics","top3","systemsscience","🌱"],"relevancescore":91,"dg-publish":true,"notestage":["🌱"],"permalink":"/people/references/lab/gordon-brander/","dgPassFrontmatter":true,"created":"2024-03-19T16:25:06.818-03:00","updated":"2024-10-18T14:02:26.701-03:00"}
 ---
 
 https://gordonbrander.com/, founder of [[projects & tools/projects/lab/subconscious (tool)\|subconscious (tool)]], publishing an amazing newsletter at: https://newsletter.squishy.computer/
@@ -29,11 +29,16 @@ simplifying/exploring foundational [[topics/lab/cybernetics\|cybernetics]]/[[top
 
 in order of [[patterns/active patterns/knowledge design/relevance score\|relevance score]] (coming soon):
 
+##### design principles:
 [[Thinking together\|Thinking together]]
+[[Tools for thought should evolve building blocks\|Tools for thought should evolve building blocks]]
+[[Fragments - Attractors\|Fragments - Attractors]]
+[[Living systems grow from simple seeds\|Living systems grow from simple seeds]]
+[[Effort is evidence of broken feedback loops\|Effort is evidence of broken feedback loops]]
+
+##### state of the world analysis/propositions:
 [[LLMs and information post-scarcity\|LLMs and information post-scarcity]]
 [[LLMs and hyper-orality\|LLMs and hyper-orality]]
-[[Living systems grow from simple seeds\|Living systems grow from simple seeds]]
-[[Tools for thought should evolve building blocks\|Tools for thought should evolve building blocks]]
 [[Everyone will have their own AI\|Everyone will have their own AI]]
 
 #### other interesting/fun ideas

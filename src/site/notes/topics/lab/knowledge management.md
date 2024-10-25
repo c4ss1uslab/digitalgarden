@@ -1,5 +1,5 @@
 ---
-{"aliases":["PKM","KM","pkm"],"created in":"2021-12-11T16:51:55-03:00","last tended to":"2024-09-26T15:26:01-03:00","tags":["🌿","topic","knowledgemanagement"],"relevancescore":94,"dg-publish":true,"notestage":["🌿"],"permalink":"/topics/lab/knowledge-management/","dgPassFrontmatter":true,"created":"2021-12-11T16:51:55.968-03:00","updated":"2024-09-26T15:26:05.052-03:00"}
+{"aliases":["PKM","KM","pkm"],"created in":"2021-12-11T16:51:55-03:00","last tended to":"2024-10-22T19:55:35-03:00","tags":["🌿","topic","knowledgemanagement"],"relevancescore":94,"dg-publish":true,"notestage":["🌿"],"permalink":"/topics/lab/knowledge-management/","dgPassFrontmatter":true,"created":"2021-12-11T16:51:55.968-03:00","updated":"2024-10-22T19:55:35.898-03:00"}
 ---
 
 > [!info]- assumed audience
@@ -38,7 +38,7 @@ main tools:
 [[tbprocessed/base notes/tools;products - general/notion\|notion]], [[tbprocessed/base notes/ventures - general/obsidian\|obsidian]], [[projects & tools/tools/lab/logseq\|logseq]]
 \+ 75 tools from my twitter list: https://twitter.com/i/lists/1401589596635402250
 
-related terms/concepts: [[information ecology\|information ecology]], [[topics/architect;design/tools for thought\|tools for thought]], [[topics/lab/artificial intelligence\|AI]], [[file management\|file management]], [[patterns/active patterns/knowledge design/social bookmarks\|social bookmarks]]
+related terms/concepts: [[information ecology\|information ecology]], [[topics/architect;design/tools for thought\|tools for thought]], [[topics/lab/artificial intelligence\|AI]], [[file management\|file management]], [[patterns/active patterns/knowledge design/social reading bookmarks\|social reading bookmarks]]
 [[workflows\|workflows]], [[processes\|processes]], [[frameworks\|frameworks]], [[BASB\|BASB]], [[models & frameworks/lab/PPV\|PPV]], [[models & frameworks/lab/C.O.D.E\|C.O.D.E]], [[models & frameworks/lab/PARA\|PARA]], [[_004_L1F3/l1f3 management methodology\|L1F3 management framework]].
 --> [[relevance realization\|relevance realization]] | [[models & frameworks/design/OODA loop\|OODA loop]] | [[models & frameworks/design/DIKW pyramid\|DIKW pyramid]]...
 

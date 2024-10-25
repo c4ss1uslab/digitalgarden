@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-01-07T17:17:13-03:00","last tended to":"2024-09-24T16:01:27-03:00","relevancescore":91,"tags":["top3","person","knowledgemanagement","interfacedesign","research","userexperience","lab","knowledgedesign","illustration","🌱"],"dg-publish":true,"aliases":["maggie"],"notestage":["🌱"],"permalink":"/people/references/lab/maggie-appleton/","dgPassFrontmatter":true,"created":"2024-01-07T17:17:13.689-03:00","updated":"2024-09-24T16:01:27.623-03:00"}
+{"created in":"2024-01-07T17:17:13-03:00","last tended to":"2024-10-18T13:57:44-03:00","relevancescore":91,"tags":["top3","person","knowledgemanagement","interfacedesign","research","userexperience","lab","knowledgedesign","illustration","🌱"],"dg-publish":true,"aliases":["maggie"],"notestage":["🌱"],"permalink":"/people/references/lab/maggie-appleton/","dgPassFrontmatter":true,"created":"2024-01-07T17:17:13.689-03:00","updated":"2024-10-18T14:01:05.402-03:00"}
 ---
 
 https://maggieappleton.com/
@@ -16,3 +16,11 @@ i'm working on compiling my highlights/notes from all of her articles. it'll be 
 [[references/design/a picture worth a thousand programmes\|a picture worth a thousand programmes]]
 
 #### my notes/highlights:
+
+essays:
+[[Making Programming Visual, Spatial, and Learnable\|Making Programming Visual, Spatial, and Learnable]]
+[[How to Draw Invisible Programming Concepts\|How to Draw Invisible Programming Concepts]]
+
+patterns:
+[[Programming Portals\|Programming Portals]]
+[[Assumed Audiences\|Assumed Audiences]]

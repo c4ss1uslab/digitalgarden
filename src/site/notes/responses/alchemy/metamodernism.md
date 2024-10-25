@@ -1,12 +1,23 @@
 ---
-{"created in":"2024-03-28T19:44:29-03:00","last tended to":"2024-09-24T16:02:56-03:00","aliases":["metamodern"],"tags":["concept","alchemy","architect","socialchange","systemschange","🌱","humandevelopment","politics","psychology","sociology"],"relevancescore":96,"dg-publish":true,"notestage":["🌱"],"permalink":"/responses/alchemy/metamodernism/","dgPassFrontmatter":true,"created":"2024-03-28T19:44:29.935-03:00","updated":"2024-09-24T16:02:58.178-03:00"}
+{"created in":"2024-03-28T19:44:29-03:00","last tended to":"2024-09-24T16:02:56-03:00","aliases":["metamodern"],"tags":["concept","alchemy","architect","socialchange","systemschange","🌱","humandevelopment","politics","psychology","sociology"],"relevancescore":96,"dg-publish":true,"notestage":["🌱"],"permalink":"/responses/alchemy/metamodernism/","dgPassFrontmatter":true,"created":"2024-03-28T19:44:29.935-03:00","updated":"2024-10-25T11:51:00.376-03:00"}
 ---
 
 the metamodern meme sees most of the challenges in the world as a [[developmental psychology\|developmental]] challenge.
 
-people's [[psychological development\|psychological development]] should be taken way more seriously. we live in a laggard world, in which our institutions aren't prepared at all to deal with the large-scale [[complicated systems\|complicated systems]] we've built and the [[concepts/design/metacrisis\|metacrisis]] as a whole (which [[people/references/alchemy/hanzi freinacht\|hanzi]] refers to as the "multi-faceted" crisis).
+people's [[psychological development\|psychological development]] should be taken way more seriously. we live in a [laggard world](https://diome.xyz/2+%F0%9F%8C%BF+Leaves/Civilizational+Layers+%26+Cycles), in which our institutions aren't prepared at all to deal with the large-scale [[complicated systems\|complicated systems]] we've built and the [[concepts/design/metacrisis\|metacrisis]] as a whole (which [[people/references/alchemy/hanzi freinacht\|hanzi]] refers to as the "multi-faceted" crisis).
 
-on their [[the listening society - metamodernism part 1\|the listening society - metamodernism part 1]] book, hanzi proposes a fantastic definition of [[concepts/alchemy/human development\|human development]] consisting of: [[stage\|stage]], [[code\|code]], [[state\|state]] and [[depth\|depth]] and proposes a few [[responses/alchemy/metamodernism#^64055d\|enlightening perspectives]] and [[policy suggestions\|policy suggestions]] based on their [[sociological analysis\|sociological analysis]].
+on their [[listening society\|listening society]] book, hanzi proposes a fantastic definition of [[concepts/alchemy/human development\|human development]] consisting of: [[stage\|stage]], [[code\|code]], [[state\|state]] and [[depth\|depth]] and proposes a few [[responses/alchemy/metamodernism#^64055d\|enlightening perspectives]] and [[policy suggestions\|policy suggestions]] based on their [[sociological analysis\|sociological analysis]].
+
+i.e. in summary, it states:
+
+why "psychological development matters" and shows how it's the basis for the development of other areas of society ([[education\|education]], [[topics/architect;design/politics\|politics]], etc).
+
+as a society, we have major:
+
+- developmental blindness
+- inner dimensions blindness
+
+and we can conceptualize [[concepts/alchemy/human development\|human development]] as consisting of: stage (cognitive development) ([[smarts\|smarts]]), code (symbolic development) ([[topics/player/learning\|learning]]), state ([[well-being\|well-being]]), depth ([[concepts/alchemy/wisdom\|wisdom]]).
 
 ---
 ###### what do they say about the metacrisis?
@@ -19,6 +30,6 @@ i'm not sure if i agree with their super long-term perspective, i'm generally mo
 { #64055d}
 
 
-[[precariat\|precariat]]
+the [[precariat\|precariat]].
 
 ##### part 2: human development
