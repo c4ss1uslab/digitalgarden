@@ -1,29 +1,45 @@
 ---
-{"created in":"2023-09-25T13:34:41-03:00","last tended to":"2024-09-03T15:45:10-03:00","tags":["🌱","economics","design","essay"],"dg-publish":true,"notestage":["🌱"],"permalink":"/writings/on-the-limits-of-capitalism-and-emergent-forms-of-abundance-generation-and-distribution/","dgPassFrontmatter":true,"created":"2023-09-25T13:34:41.895-03:00","updated":"2024-09-24T16:06:02.237-03:00"}
+{"created in":"2023-09-25T13:34:41-03:00","last tended to":"2024-10-30T18:31:34-03:00","tags":["🌱","economics","design","essay"],"dg-publish":true,"notestage":["🌱"],"permalink":"/writings/on-the-limits-of-capitalism-and-emergent-forms-of-abundance-generation-and-distribution/","dgPassFrontmatter":true,"created":"2023-09-25T13:34:41.895-03:00","updated":"2024-10-30T18:32:08.928-03:00"}
 ---
 
 for a breakdown of how capitalism is self-terminating, see: [[people/references/architect;design/daniel schmachtenberger\|daniel schmachtenberger]]'s - [New Economic Series: Part 3 - When the System Is the Source of the Problems – Case Studies](https://civilizationemerging.com/new-economics-series-3/).
 
-we know it's possible to live a more magical, fulfilling, nourishing reality. yet many times what seems to be in the way is money.
+deep down, we know it's possible to live a more magical, fulfilling, nourishing reality. yet many times what seems to be in the way is money.
 
-"we don't need money, we need people interested in pursuing alternatives and resources to make it happen"
+"we don't need money, we need people interested in pursuing alternatives and resources to make it happen".
 
+here are a few approaches that aim to address that:
 
-- [How Money & Banking Work (and why they're broken today) - Lyn Alden](https://www.youtube.com/watch?v=jk_HWmmwiAs), also [SEEDS - Global Green New Deal! It's time to do what our governments have failed to do. Heal our planet](https://www.youtube.com/watch?v=3MounsvZFPk&list=PLj8H7uBaUwDsuLtfdVu27aylRnjLMJvtA&index=2).
+##### basic sensemaking & historical references:
+
+- [How Money & Banking Work (and why they're broken today) - Lyn Alden](https://www.youtube.com/watch?v=jk_HWmmwiAs)
+- [[jacques fresco\|jacques fresco]]'s resource-based economy
+- [[buckminster fuller\|buckminster fuller]]'s (...)
+##### initiatives with a paradigm shift potential:
+
+- [[topics/architect;design/crypto\|crypto]]/[[smart contracts\|smart contracts]]/[[alternative financial ecosystems\|alternative financial ecosystems]] possibilities: [SEEDS - Global Green New Deal! It's time to do what our governments have failed to do. Heal our planet](https://www.youtube.com/watch?v=3MounsvZFPk&list=PLj8H7uBaUwDsuLtfdVu27aylRnjLMJvtA&index=2).
+- public commons funding ([[quadratic funding\|quadratic funding]], [[retroactive funding\|retroactive funding]], etc - see: [[gitcoin\|gitcoin]], [[tea.xyz\|tea.xyz]], [...])
+- [[initiatives, orgs & communities/architect;design/nooNAO\|NAOs]]/[[responses/design/metamodern guild\|metamodern guilds]]
+##### orienting frameworks:
+
 - [[concepts/design/circular design\|circular design]] / [[doughnut economics\|doughnut economics]]
-- [[regenerative systems design\|regenerative systems design]] (see: [[concepts/design/sacred economics\|sacred economics]]/[[initiatives, orgs & communities/architect;design/SEEDS (ecosystem)\|SEEDS]])
-- open knowledge / public commons funding ([[rufus pollock\|rufus pollock]]/[[gitcoin\|gitcoin]])
-- [[8/12 forms of capital\|8/12 forms of capital]] ([[greenpill\|greenpill]])
+- [[regenerative systems design\|regenerative systems design]] (see: [[concepts/design/sacred economics\|sacred economics]]/[[initiatives, orgs & communities/architect;design/SEEDS (ecosystem)\|SEEDS]] for now)
+- [[models & frameworks/design/forms of capital\|8 forms of capital]]
+- [[models & frameworks/design/deep wealth\|deep wealth]]
 - [[models & frameworks/design/fluxonomy 4d\|fluxonomy 4d]]
-- resources allocation (offers/needs, time/energy)
-- [[algorithms we live by\|algorithms we live by]]
-- [[jacques fresco\|jacques fresco]], [[buckminster fuller\|buckminster fuller]]
-- [[tamera\|tamera]], [[auroville\|auroville]], etc
+##### current practical applications/examples:
 
-an even more challenging topic though is "funding the transition".
+- [[cooperatives\|cooperatives]], [[social enterprises\|social enterprises]], [[non-profits\|non-profits]] -> [[terms/DAOs\|DAOs]], [[DAC\|DAC]]s, [[DHOs\|DHOs]], [[DDOs\|DDOs]], [[DisCOs\|DisCOs]]
+- [[alternative currencies\|alternative currencies]]: [[community currency\|community currency]], [[social currency\|social currency]], (...)
+- resources allocation ([[prototypes/made by others/potluck\|offers/needs]], time/energy)
+- alternative mechanisms proposed by [[ecosocial consultancies\|ecosocial consultancies]] ([[gift economy\|gift economy]], [[sliding scales\|sliding scales]], etc) and tested in communities like [[tamera\|tamera]], [[findhorn\|findhorn]], [[auroville\|auroville]], [[piracanga\|piracanga]], etc...
+
+#### funding the transition
+
+perhaps an even more challenging topic though is "funding the transition" (h2), especially without pricing out [[externalities\|externalities]].
 
 a subject for a lot of study.
 
 see: [[people/references/architect;design/daniel schmachtenberger\|daniel schmachtenberger]] on [design constraints for a viable economic system (New Economics Series: Part 1)](https://civilizationemerging.com/new-economics-series-1/)  and [essential criteria for this economic system (New Economics Series: Part 2)](https://civilizationemerging.com/new-economics-series-2/).
 
-also: [[people/references/architect;design/caio vassão\|caio vassão]], [[topics/architect;design/refi\|ReFi]], [[metacurrency\|metacurrency]], [[valueflo.ws\|valueflo.ws]], [[regenerative value flows\|regenerative value flows]], [[low-hanging fruits\|low-hanging fruits]], etc...
+see also: [[people/references/architect;design/caio vassão\|caio vassão]], [[topics/architect;design/refi\|ReFi]], [[tbprocessed/base notes/ventures - general/metacurrency project\|metacurrency project]], [[valueflo.ws\|valueflo.ws]], [[regenerative value flows\|regenerative value flows]], [[low-hanging fruits\|low-hanging fruits]], etc...

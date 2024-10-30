@@ -15,7 +15,7 @@ full version (in portuguese):
 
 https://laladeheinzelin.com.br/fluxonomia4d/
 
-other similar frameworks: [[doughnut economics\|doughnut economics]], [[models & frameworks/design/four quadrants\|four quadrants]], [[models & frameworks/design/4d whole systems design framework\|4d whole systems design framework]], [[deep wealth\|deep wealth]]/[[concepts/design/currencies\|currencies]].
+other similar frameworks: [[doughnut economics\|doughnut economics]], [[models & frameworks/design/four quadrants\|four quadrants]], [[models & frameworks/design/4d whole systems design framework\|4d whole systems design framework]], [[models & frameworks/design/deep wealth\|deep wealth]]/[[concepts/design/currencies\|currencies]].
 
 ---
 related topics: [[resources management\|resources management]], [[facilitation tools\|facilitation tools]], [[foresight\|foresight]], [[futures studies\|futures studies]], [[topics/architect;design/regeneration\|regeneration]], [[topics/art/creative economy\|creative economy]], [[concepts/design/shared economy\|shared economy]], [[collaborative economy\|collaborative economy]], [[concepts/multicurrencies economy\|concepts/multicurrencies economy]].
