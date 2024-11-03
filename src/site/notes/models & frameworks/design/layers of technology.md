@@ -26,4 +26,4 @@ Multiple different ecologies of technology embedded together to form a basic par
 
 A duration of historical time characterized by a specific suite of infrastructures that are interrelated as the foundation of a social system. Examples include the pre-industrial, industrial, and post-industrial eras. Each epoch is defined by the dominant technologies and infrastructures that shape social, economic, and cultural patterns.
 
-adapted by [[andrea faria\|andrea faria]], proposed by the [[initiatives, orgs & communities/architect;design/the consilience project\|consilience project]] on [Technology is Not Values Neutral: Ending the Reign of Nihilistic Design](https://consilienceproject.org/technology-is-not-values-neutral-ending-the-reign-of-nihilistic-design-2/).
+adapted by [[people/references/architect;design/andrea faria\|andrea faria]], proposed by the [[initiatives, orgs & communities/architect;design/the consilience project\|consilience project]] on [Technology is Not Values Neutral: Ending the Reign of Nihilistic Design](https://consilienceproject.org/technology-is-not-values-neutral-ending-the-reign-of-nihilistic-design-2/).

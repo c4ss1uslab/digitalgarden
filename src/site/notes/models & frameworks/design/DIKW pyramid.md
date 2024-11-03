@@ -6,7 +6,7 @@
 
 more on: https://en.wikipedia.org/wiki/DIKW_Pyramid
 
-good reflection by [[andrea faria\|andrea faria]]:
+good reflection by [[people/references/architect;design/andrea faria\|andrea faria]]:
 
 > Wisdom here is defined as the ability to apply knowledge effectively, with insight and good judgment. Is this really [Wisdom](https://diome.xyz/Wisdom) or something more akin to [action intelligence](https://static1.squarespace.com/static/6358fcee9747a0469c1398a6/t/65856807306a57677fea8579/1703241737324/8+Principles+of+Sensemaking.pdf)?
 
