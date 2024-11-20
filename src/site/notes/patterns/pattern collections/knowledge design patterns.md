@@ -1,8 +1,8 @@
 ---
-{"created in":"2024-04-06T19:36:48-03:00","last tended to":"2024-09-24T15:58:33-03:00","tags":["knowledgedesign","patterns","design","🌱"],"relevancescore":96,"dg-publish":true,"notestage":["🌱"],"permalink":"/patterns/pattern-collections/knowledge-design-patterns/","dgPassFrontmatter":true,"created":"2024-04-06T19:36:48.498-03:00","updated":"2024-09-24T16:27:41.987-03:00"}
+{"created in":"2024-04-06T19:36:48-03:00","last tended to":"2024-09-24T16:27:41-03:00","tags":["knowledgedesign","patterns","design","🌱"],"relevancescore":96,"dg-publish":true,"notestage":["🌱"],"created":"2024-04-06T19:36:48.498-03:00","updated":"2024-11-19T17:36:22.527-03:00","permalink":"/patterns/pattern-collections/knowledge-design-patterns/","dgPassFrontmatter":true}
 ---
 
-knowledge design includes: [[knowledge development\|knowledge development]], [[topics/lab/knowledge management\|knowledge management]] and [[knowledge presentation\|knowledge presentation]]:
+knowledge design includes: [[knowledge development\|knowledge development]], [[topics/lab/personal knowledge management\|personal knowledge management]] and [[knowledge presentation\|knowledge presentation]]:
 
 i spent a great deal of time over the past ~9 years trying to figure out best practices for managing my own knowledge, as well as sharing it with people and building knowledge collaboratively.
 

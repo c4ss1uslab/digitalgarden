@@ -18,7 +18,7 @@ i'm working on compiling my highlights/notes from all of his articles. it'll be 
 
 1) [Thinking Together - steps to an ecology of mind](https://subconscious.substack.com/p/thinking-together)
 
-introduces brilliantly the need for and reasoning behind [[responses/design/protocols for thought\|protocols for thought]]. a key element for large-scale [[topics/architect;design/coordination systems\|coordination systems]], [[topics/alchemy/sensemaking\|sensemaking]] and [[terms/collaboration\|collaboration]].
+introduces brilliantly the need for and reasoning behind [[responses/design/protocols for thought\|protocols for thought]]. a key element for large-scale [[topics/architect;design/coordination systems\|coordination systems]], [[concepts/alchemy/sensemaking\|sensemaking]] and [[terms/collaboration\|collaboration]].
 
 
 ###### other important elements he brings:

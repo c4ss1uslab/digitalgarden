@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-06-17T21:22:30-03:00","last tended to":"2024-09-26T15:22:45-03:00","tags":["concept","top3","metacrisis","systemschange","futures","🌿"],"aliases":["great simplification"],"relevancescore":94,"dg-publish":true,"notestage":["🌿"],"permalink":"/concepts/design/the-great-simplification/","dgPassFrontmatter":true,"created":"2024-06-17T21:22:30.277-03:00","updated":"2024-09-26T15:22:46.483-03:00"}
+{"created in":"2024-06-17T21:22:30-03:00","last tended to":"2024-09-26T15:22:45-03:00","tags":["concept","top3","metacrisis","systemschange","futures","🌿"],"aliases":["great simplification"],"relevancescore":94,"dg-publish":true,"notestage":["🌿"],"permalink":"/concepts/design/the-great-simplification/","dgPassFrontmatter":true,"created":"2024-06-17T21:22:30.277-03:00","updated":"2024-11-06T18:52:19.048-03:00"}
 ---
 
 a [[theory\|theory]] proposed by [[nate hagens\|nate hagens]] and the [[institute for energy and our future\|institute for energy and our future]]. it states that we're heading towards a great simplification of our lifestyles and societies in the near (50-100-year) future, driven primarily by our unconscious use of the [[energy\|energy]] and [[materials\|materials]] of our planet and construction of extremely fragile and complicated supply chains/civilizational systems (and therefore we're quickly heading towards shortage/depletion and exponentially-increasing risks of collapse).
@@ -14,7 +14,7 @@ the video above is one the #top3 videos i've watched in 2024. it really opened m
 
 it goes beyond the common [[climate change\|climate change]] narrative that's often about [[CO2 emission\|CO2 emission]], [[biodiversity loss\|biodiversity loss]], [[coral preservation\|coral preservation]], etc, and present an outlook looking at the many different interconnected variables. in a sense, it's similar to the [[degrowth\|degrowth]] narrative, yet way less climate-centric, and more considering of the whole set of systemic effects ([[mass migration\|mass migration]], [[AI risk\|AI risk]], [[cultural breakdown\|cultural breakdown]], etc).
 
-(eye-opening content that's making me reconsider the [[ethics\|ethics]] of all of our [[topics/lab/technology development\|technology development]] and [[_004_L1F3/core concepts/lifestyles\|lifestyles]]. for related terms, see: [[topics/architect;design/civilizational collapse\|civilizational collapse]], [[responses/regen/permacomputing\|permacomputing]], [[regenerative lifestyles\|regenerative lifestyles]]... proceed at your own peril)
+(eye-opening content that's making me reconsider the [[ethics\|ethics]] of all of our [[topics/lab/technology development\|technology development]] and [[_004_L1F3/core concepts/lifestyles\|lifestyles]]. for related terms, see: [[topics/architect;design/systemic collapse\|systemic collapse]], [[responses/regen/permacomputing\|permacomputing]], [[concepts/regen/regenerative lifestyles\|regenerative lifestyles]]... proceed at your own peril)
 
 ---
 

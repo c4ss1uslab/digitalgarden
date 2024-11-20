@@ -1,5 +1,5 @@
 ---
-{"aliases":[".dgarden","🌲 digital garden","idea garden","🌱 idea garden","c4ss1us.dgarden","🌲 c4ss1us.dgarden","digital garden","home","knowledge garden"],"created in":"2023-07-27T15:44:39-03:00","last tended to":"2024-10-25T14:52:50-03:00","dg-publish":true,"dg-home":true,"permalink":"/000-digital-garden/c4ss1us-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2021-12-11T16:51:50.661-03:00","updated":"2024-10-30T17:21:03.804-03:00"}
+{"aliases":[".dgarden","🌲 digital garden","idea garden","🌱 idea garden","c4ss1us.dgarden","🌲 c4ss1us.dgarden","digital garden","home","knowledge garden"],"created in":"2023-07-27T15:44:39-03:00","last tended to":"2024-11-06T18:52:18-03:00","dg-publish":true,"dg-home":true,"created":"2021-12-11T16:51:50.661-03:00","updated":"2024-11-19T22:23:26.775-03:00","permalink":"/000-digital-garden/c4ss1us-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 ## hello! welcome to my digital garden! 🌷
@@ -8,14 +8,16 @@ this is a space in which i'm:
 
 a) publishing my structured [[topics/architect;design/research\|research]]/[[tbprocessed/base notes/concepts - general/curation\|curation]] and [[_001_MOCs/050 🟩 mid game/070 🔩 prototypes MOC\|proto]]-[[designs\|designs]] on [[concepts/alchemy/consciousness development\|consciousness development]], [[topics/architect;design/technology\|technology]], [[_005_c4ss1us/c4ss.art\|art]], [[topics/regen/earth regeneration\|regeneration]] and [[concepts/player/game\|games]] as responses to the [[concepts/design/metacrisis\|metacrisis]] - i.e. the uniquely challenging moment we're living in the history of our civilization, and
 
-b) planting loose notes - exploring different [[ideas\|ideas]], [[resources\|resources]], [[pathways\|pathways]] to create [[concepts/alchemy/thriving\|thriving]] societies, oriented towards supporting the [[concepts/alchemy/integral development\|integral development]] of individuals and our systems, instead of the ones we have, based on [[concepts/design/moloch\|win-lose dynamics]] and [extractivist paradigms](https://civilizationemerging.com/new-economics-series-4/) that are [[destroying the planetary systems we depend upon\|destroying the planetary systems we depend upon]], promoting profound [[diagnosis/intimacy crisis\|psycho-spiritual alienation]] and leading us towards impeding [[topics/architect;design/civilizational collapse\|systemic collapse]].
+b) planting loose notes - exploring different [[ideas\|ideas]], [[resources\|resources]], [[pathways\|pathways]] to create [[concepts/alchemy/thriving\|thriving]] societies, oriented towards supporting the [[concepts/alchemy/integral development\|integral development]] of individuals and our systems, instead of the ones we have, based on [win-lose dynamics](https://civilizationemerging.com/new-economics-series-3/) and [extractivist paradigms](https://civilizationemerging.com/new-economics-series-4/) that are destroying the planetary systems we depend upon, promoting profound [[diagnosis/intimacy crisis\|psycho-spiritual alienation]] and leading us towards impeding [[topics/architect;design/systemic collapse\|systemic collapse]].
+
+⚠ note that *this garden is under intense development!* most notes are works-in-progress and will have a few disconnected phrases, references and links scattered throughout. explore at your own risk or come back in a few weeks/months when they're more mature! :)
 
 > [!info]- more on the design/philosophy of this space
 > > "a digital garden is something inbetween a personal blog and a wiki. it's a collection of evolving notes, essays, and ideas that aren't strictly organised by their publication date. they're inherently exploratory – posts are linked through contextual associations (bi-directional links). they aren't refined or complete - posts can be published as half-finished thoughts that will grow and evolve over time. they're less rigid, less performative, and less perfect than the personal "blogs" we're used to encountering on the web." - [[people/references/lab/maggie appleton\|maggie appleton]] on [digital gardening tools and resources](https://github.com/MaggieAppleton/digital-gardeners).
 > 
 > the digital garden [metaphor](https://maggieappleton.com/metaphors-web) can go a really long way. understanding your knowledge as a web of relationships can make us question, manage and design our [[information ecologies\|information ecologies]] in more conscious ways. you can read more about my perspectives on knowledge management/sharing on [[_000_digital garden/about - my approach to knowledge development\|about - my approach to knowledge development]] post.
 > 
-> keep in mind, the notes i tend to and share here are part of a *slow process of [[topics/alchemy/sensemaking\|sensemaking]] and [[knowledge-building\|knowledge-building]] about myself and the world.* many of them will be messy, unfinished, poorly formatted, but i still try to apply different [[patterns/pattern collections/knowledge design patterns\|knowledge design patterns]] to make them more easily [[terms/navigation\|navigatable]], as they're relevant/interesting enough that i want to share. :)
+> keep in mind, the notes i tend to and share here are part of a *slow process of [[concepts/alchemy/sensemaking\|sensemaking]] and [[knowledge-building\|knowledge-building]] about myself and the world.* many of them will be messy, unfinished, poorly formatted, but i still try to apply different [[patterns/pattern collections/knowledge design patterns\|knowledge design patterns]] to make them more easily [[terms/navigation\|navigatable]], as they're relevant/interesting enough that i want to share. :)
 > 
 > this is a behind-the-curtain view, deep-dive into my world and second brain. if you want to see my more polished content, you can check my [newsletter](https://c4ss1us.substack.com/), [instagram](https://www.instagram.com/c4ss1us.l1f3/), [twitter](https://twitter.com/c4ss1usl1f3) (now X), and [youtube channel](https://www.youtube.com/@c4ss1usl1f3). 😉
 > 
@@ -37,7 +39,7 @@ there are two ways you can navigate this space:
 
 choose your path below!
 
-#### 1) 🗺 my research - structured way
+#### 1) 🗺 my r&d - structured way
 
 <!--![research overview.excalidraw.png](/img/user/_008_illustrations%20&%20designs/research%20overview.excalidraw.png)-->
 ![](https://i.imgur.com/aFTlkeJ.png)
@@ -51,22 +53,32 @@ read more about the research themes/inquiries or jump straight to the core essay
 > 
 > > **how can we address the profound spiritual/psychological, ecological, economic, sociopolitical, technological and educational challenges we're going through and create the more beautiful world our hearts know is possible?**
 >
-> i.e. the [[inner\|inner]] and [[outer\|outer]] dimensions of the [[concepts/design/metacrisis\|metacrisis]].
+> i.e. how can we address the interconnected [[inner\|inner]] and [[outer\|outer]] dimensions of the [[concepts/design/metacrisis\|metacrisis]]?
 >
 > by sharing my findings, i aim to establish some foundational [[topics/architect;design/knowledge commons\|knowledge commons]] to support us in navigating this complexity and enabling new, more [[resilient\|resilient]], [[regenerative\|regenerative]] [[topics/architect;design/systems\|systems]], [[_004_L1F3/core concepts/lifestyles\|lifestyles]] and [[concepts/alchemy/ways of being\|ways of being]].
+>
+> **1) what is the situation we find ourselves in, across many perspectives and dimensions, and what's needed to address that?**
+>
+> first you'll find a curation of resources presenting both wide and deep overviews of the [[human predicament\|human predicament]] and the underlying [[dynamics\|dynamics]] at play.
+>
+> **2) what existing approaches exist? what's their theory of change? what are their level of development and applicability?**
+>
+> finally, as an outcome of this research, we'll dive deep into a couple [[_001_MOCs/000 🟣 deep game/015 ✨ heuristics & inquiries MOC\|inquiries]]:
 > 
-> a couple [[investigation trails\|investigation trails]] we'll dive into here are:
-> 
-> > **1) how can we support individuals and groups to create [[tbprocessed/base notes/concepts - general/art\|art]], [[topics/architect;design/technology\|technology]] and [[concepts/player/game\|games]] in service of [[concepts/alchemy/consciousness development\|consciousness development]] and ecosystems [[topics/architect;design/regeneration\|regeneration]]?**
+> > **a) how can we support the development of [[tbprocessed/base notes/concepts - general/art\|art]], [[topics/architect;design/technology\|technology]] and [[concepts/player/game\|games]] in service of [[concepts/alchemy/consciousness development\|consciousness development]] and ecosystems [[topics/architect;design/regeneration\|regeneration]]?**
 > 
 > *a.k.a. how can we develop systems and structures to support life thriving on earth?*
 > 
-> > **2) how can we make life more like a sacred [[concepts/player/game\|game]]?**
+> this comprises most of the "research" part of this work. most pages will be tagged with #alchemy or #design tags.
+> 
+> > **b) how can we make life more like a sacred [[concepts/player/game\|game]]?**
 > 
 > *a sacred game is not any kind of game.* it's one that's deeply *fun, collaborative, challenging, meaningful* and *fulfilling*.
 > a game that honors the beauty and mystery of life, that challenges and supports us to flourish - to discover ourselves, unfold our potentials and share our gifts with others.
->
->some people have a resistance with the [[concepts/player/game\|game]] frame because of its often seen competitive, game-theoretical win-lose dynamics. i share that hesitation, in the normal sense of the term. that's why the concept of game i'm using here is closer to the [[concepts/design/infinite games\|infinite game]] and [[omni-win dynamics\|omni-win dynamics]] observed by thinkers such as [[projects & tools/projects/player/world game\|buckminster fuller in the world game]] and communities such as [[models & frameworks/player/fourgames\|fourgames]], [[initiatives, orgs & communities/architect;design/metagame.wtf\|metagame.wtf]] and [[projects & tools/projects/player/startover.xyz\|startover.xyz]].
+> 
+> this comprises most of the "development" part of this work. most pages will be tagged with #lab, #regen  or #player tags.
+> 
+> some people have a resistance with the [[concepts/player/game\|game]] frame because of its often seen competitive, game-theoretical win-lose dynamics. i share that hesitation, in the normal sense of the term. that's why the concept of game i'm using here is closer to the [[concepts/design/infinite games\|infinite game]] and [[omni-win dynamics\|omni-win dynamics]] observed by thinkers such as [[projects & tools/projects/player/world game\|buckminster fuller in the world game]] and communities such as [[models & frameworks/player/fourgames\|fourgames]], [[initiatives, orgs & communities/architect;design/metagame.wtf\|metagame.wtf]] and [[projects & tools/projects/player/startover.xyz\|startover.xyz]].
 >
 > **why not just "play" then?**
 > 
@@ -93,14 +105,16 @@ read more about the research themes/inquiries or jump straight to the core essay
 2) 🌱 [[core essays/🧘🏻‍♂️ a meta-system for modular self-development & interoperability across philosophies, methodologies and perspectives\|🧘🏻‍♂️ a meta-system for modular self-development & interoperability across philosophies, methodologies and perspectives]]
 3) 🌱 [[core essays/🌀 on the present & future of authentic and transformative learning - tools, resources & pathways\|🌀 on the present & future of authentic and transformative learning - tools, resources & pathways]]
 4) 🌿 [[core essays/💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons\|💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons]]
-5) 🌿 [[core essays/🎎 the role and potential of curation, community & lo-fi;ambient content amidst accelerating attention & experience economies\|🎎 the role and potential of curation, community & lo-fi;ambient content amidst accelerating attention & experience economies]]
-6) 🌿 [[core essays/🕹 life as play, energy management, collaborative life wisdom & ontological design as systemic responses\|🕹 life as play, energy management, collaborative life wisdom & ontological design as systemic responses]]
-7) 🌱 [[core essays/🦸🏻‍♀️ design specs & constraints for enabling minimum viable vocational economies\|🦸🏻‍♀️ design specs & constraints for enabling minimum viable vocational economies]]
-8) 🌱 [[core essays/🌐 an introduction to the L1F3 support systems\|🌐 an introduction to the L1F3 support systems]]
+5) 🌱 [[core essays/🦸🏻‍♀️ design specs & constraints for enabling minimum viable vocational economies\|🦸🏻‍♀️ design specs & constraints for enabling minimum viable vocational economies]]
+6) 🌿 [[core essays/🎎 the role of and practical tools for curation, communities & distributed sensemaking amidst accelerating attention & experience economies\|🎎 the role of and practical tools for curation, communities & distributed sensemaking amidst accelerating attention & experience economies]]
+7) 🌱 [[core essays/🌐 an introduction to the L1F3 support systems\|🌐 an introduction to the L1F3 support systems]]
+8) 🌱 [[🌌 reality 101 - a curated hyperlinked multimedia collection\|🌌 reality 101 - a curated hyperlinked multimedia collection]]
+9) 🌱 [[🕸 life design & decision-making 202 - fundamentals beyond the common sense\|🕸 life design & decision-making 202 - fundamentals beyond the common sense]]
+10) 🌿 [[core essays/🕹 experiments - life as play, energy management, collaborative life wisdom & ontological design as systemic responses\|🕹 experiments - life as play, energy management, collaborative life wisdom & ontological design as systemic responses]]
 
-*note: these articles are still under development/revision. the emojis represent their growth stage.
+\**note: these articles are still under development/revision. the emojis represent their growth stage. please proceed at your own risk. or don't! you can also explore most of these ideas/resources through the networked notes below.*
 
-my aim here isn't to provide definitive answers, but starting points. my hope if for this curation to serve as an overview, to give us some clarity of the territory and empower us as [[sensemakers\|sensemakers]] and infinite [[players\|players]]. so we can start playing these [[metagames\|metagames]] more consciously, easily and collaboratively.
+\*\**disclaimer:* my aim here isn't to provide definitive answers, but starting points. my hope if for this curation to serve as an overview, to give us some clarity of the territory and empower us as [[sensemakers\|sensemakers]] and infinite [[players\|players]]. so we can start playing these [[metagames\|metagames]] more consciously, effortlessly and collaboratively.
 
 #### 2) 🕸 loose navigation - notes breakdown
 
@@ -111,9 +125,9 @@ my aim here isn't to provide definitive answers, but starting points. my hope if
 
 #### relevance score visualizations
 
-i still have to figure out why the [digital garden plugin](https://dg-docs.ole.dev/) i'm using isn't allowing me to show the relevance score property on my notes. i currently have 109 notes with assigned relevance scores over 80, and i'm slowly adding it to more and more of them (mostly [[terms/design\|design]]/[[_005_c4ss1us/c4ss1us.design\|architect]] & [[_005_c4ss1us/c4ss1us.lab\|lab]] notes were tagged so far, so the index below is missing a ton of stuff from [[_005_c4ss1us/c4ss1us.alchemy\|alchemy]], [[_005_c4ss1us/c4ss.art\|art]], [[_005_c4ss1us/c4ss1us.player\|player]] and [[_005_c4ss1us/c4ss1us.regen\|regen]], that are less processed/more embryonary).
+i still have to figure out why the [digital garden plugin](https://dg-docs.ole.dev/) i'm using isn't allowing me to show the relevance score property on my notes. i currently have 116 notes with assigned relevance scores over 80 (max 100), and i'm slowly adding it to more and more of them (mostly [[terms/design\|design]]/[[_005_c4ss1us/c4ss1us.design\|architect]] & [[_005_c4ss1us/c4ss1us.lab\|lab]] notes were tagged so far, so the index below is missing a ton of stuff from [[_005_c4ss1us/c4ss1us.alchemy\|alchemy]], [[_005_c4ss1us/c4ss.art\|art]], [[_005_c4ss1us/c4ss1us.player\|player]] and [[_005_c4ss1us/c4ss1us.regen\|regen]], that are less processed/more embryonary).
 
-i intend to fix this soon, but in the meantime, while i'm also building the [[_001_MOCs/025 🔷 long game/025 🗺 topics & references MOC\|025 🗺 topics & references MOC]] and [[_003_research/00 - viable pathways book-zine\|viable pathways]]' [[_003_research/05 - core references & resources\|05 - core references & resources]] pages, this is a useful visualization for navigating this research garden by identifying what i deem as most relevant from the areas above:
+i intend to fix this soon, but in the meantime, while i'm also building other views to gelp navigate this information - the [[_001_MOCs/025 🔷 long game/025 🗺 topics & references MOC\|025 🗺 topics & references MOC]] and [[_003_research/00 - viable pathways book-zine\|viable pathways]]' [[_003_research/05 - core references & resources\|05 - core references & resources]] pages - this is a useful visualization for navigating this research garden by identifying what i deem as most relevant from the areas above:
 
 \**i've hid anything below 80 relevance score since - well, they're not as relevant at the moment, and therefore shouldn't clutter this visualization.*
 
@@ -122,24 +136,30 @@ i intend to fix this soon, but in the meantime, while i'm also building the [[_0
 | file                                                                                                                     | relevancescore | type                                             | notestage            |
 | ------------------------------------------------------------------------------------------------------------------------ | -------------- | ------------------------------------------------ | -------------------- |
 | [[concepts/alchemy/dharma\|dharma]]                                                                                   | 98             | concepts/alchemy                                 | <ul><li>🌱</li></ul> |
-| [[concepts/alchemy/thriving\|thriving]]                                                                               | 98             | concepts/alchemy                                 | <ul><li>🌱</li></ul> |
+| [[concepts/alchemy/sensemaking\|sensemaking]]                                                                         | 98             | concepts/alchemy                                 | <ul><li>🌱</li></ul> |
 | [[concepts/alchemy/values\|values]]                                                                                   | 98             | concepts/alchemy                                 | <ul><li>🌱</li></ul> |
 | [[concepts/alchemy/wisdom\|wisdom]]                                                                                   | 98             | concepts/alchemy                                 | <ul><li>🌱</li></ul> |
+| [[concepts/alchemy/thriving\|thriving]]                                                                               | 98             | concepts/alchemy                                 | <ul><li>🌱</li></ul> |
 | [[concepts/design/metacrisis\|metacrisis]]                                                                            | 98             | concepts/design                                  | <ul><li>🌿</li></ul> |
-| [[diagnosis/acummulation, extraction, abstraction\|acummulation, extraction, abstraction]]                            | 98             | diagnosis                                        | <ul><li>🌱</li></ul> |
+| [[diagnosis/accumulation, extraction, abstraction\|accumulation, extraction, abstraction]]                            | 98             | diagnosis                                        | <ul><li>🌱</li></ul> |
 | [[diagnosis/generator functions of existential risk\|generator functions of existential risk]]                        | 98             | diagnosis                                        | <ul><li>🌱</li></ul> |
+| [[inquiries & heuristics/what technology is actually worth building\|what technology is actually worth building]]     | 98             | inquiries & heuristics                           | <ul><li>🌿</li></ul> |
 | [[initiatives, orgs & communities/architect;design/civilization research institute\|civilization research institute]] | 98             | initiatives, orgs & communities/architect;design | <ul><li>🌱</li></ul> |
 | [[people/references/architect;design/daniel schmachtenberger\|daniel schmachtenberger]]                               | 98             | people/references/architect;design               | <ul><li>🌱</li></ul> |
 | [[_006_core notes/design philosophies\|design philosophies]]                                                          | 98             | _006_core notes                                  | <ul><li>🌱</li></ul> |
 | [[_006_core notes/theories of change\|theories of change]]                                                            | 98             | _006_core notes                                  | <ul><li>🌱</li></ul> |
 | [[concepts/alchemy/integral development\|integral development]]                                                       | 97             | concepts/alchemy                                 | <ul><li>🌱</li></ul> |
+| [[concepts/design/legitimacy crisis\|legitimacy crisis]]                                                              | 97             | concepts/design                                  | <ul><li>🌱</li></ul> |
+| [[concepts/design/sensemaking crisis\|sensemaking crisis]]                                                            | 97             | concepts/design                                  | <ul><li>🌱</li></ul> |
+| [[diagnosis/meaning crisis\|meaning crisis]]                                                                          | 97             | diagnosis                                        | <ul><li>🌱</li></ul> |
+| [[diagnosis/intimacy crisis\|intimacy crisis]]                                                                        | 97             | diagnosis                                        | <ul><li>🌱</li></ul> |
 | [[topics/architect;design/coordination systems\|coordination systems]]                                                | 97             | topics/architect;design                          | <ul><li>🌱</li></ul> |
 | [[_004_L1F3/core concepts/civilization design\|civilization design]]                                                  | 97             | _004_L1F3/core concepts                          | <ul><li>🌱</li></ul> |
 | [[_004_L1F3/L1F3 support systems\|L1F3 support systems]]                                                              | 97             | _004_L1F3                                        | <ul><li>🌿</li></ul> |
-| [[diagnosis/climate crisis\|climate crisis]]                                                                          | 96             | diagnosis                                        | <ul><li>🌱</li></ul> |
+| [[concepts/alchemy/human development\|human development]]                                                             | 96             | concepts/alchemy                                 | <ul><li>🌱</li></ul> |
 | [[diagnosis/energy crisis\|energy crisis]]                                                                            | 96             | diagnosis                                        | <ul><li>🌱</li></ul> |
+| [[diagnosis/climate crisis\|climate crisis]]                                                                          | 96             | diagnosis                                        | <ul><li>🌱</li></ul> |
 | [[diagnosis/financial collapse\|financial collapse]]                                                                  | 96             | diagnosis                                        | <ul><li>🌱</li></ul> |
-| [[diagnosis/intimacy crisis\|intimacy crisis]]                                                                        | 96             | diagnosis                                        | <ul><li>🌱</li></ul> |
 | [[initiatives, orgs & communities/alchemy/church of the intimate web\|church of the intimate web]]                    | 96             | initiatives, orgs & communities/alchemy          | <ul><li>🌱</li></ul> |
 | [[initiatives, orgs & communities/architect;design/metagame.wtf\|metagame.wtf]]                                       | 96             | initiatives, orgs & communities/architect;design | <ul><li>🌿</li></ul> |
 | [[initiatives, orgs & communities/architect;design/SEEDS (ecosystem)\|SEEDS (ecosystem)]]                             | 96             | initiatives, orgs & communities/architect;design | <ul><li>🌿</li></ul> |
@@ -150,19 +170,21 @@ i intend to fix this soon, but in the meantime, while i'm also building the [[_0
 | [[projects & tools/projects/design/diome.xyz\|diome.xyz]]                                                             | 96             | projects & tools/projects/design                 | <ul><li>🌱</li></ul> |
 | [[projects & tools/projects/player/world game\|world game]]                                                           | 96             | projects & tools/projects/player                 | <ul><li>🌿</li></ul> |
 | [[references/alchemy/first principles and first values\|first principles and first values]]                           | 96             | references/alchemy                               | <ul><li>🌱</li></ul> |
-| [[responses/alchemy/cosmoerotic humanism\|cosmoerotic humanism]]                                                      | 96             | responses/alchemy                                | <ul><li>🌱</li></ul> |
 | [[responses/alchemy/metamodernism\|metamodernism]]                                                                    | 96             | responses/alchemy                                | <ul><li>🌱</li></ul> |
+| [[responses/alchemy/cosmoerotic humanism\|cosmoerotic humanism]]                                                      | 96             | responses/alchemy                                | <ul><li>🌱</li></ul> |
 | [[responses/design/second renaissance\|second renaissance]]                                                           | 96             | responses/design                                 | <ul><li>🌿</li></ul> |
-| [[responses/regen/regenerative design\|regenerative design]]                                                          | 96             | responses/regen                                  | <ul><li>🌱</li></ul> |
 | [[responses/regen/permacomputing\|permacomputing]]                                                                    | 96             | responses/regen                                  | <ul><li>🌱</li></ul> |
 | [[responses/regen/solarpunk\|solarpunk]]                                                                              | 96             | responses/regen                                  | <ul><li>🌱</li></ul> |
-| [[topics/alchemy/sensemaking\|sensemaking]]                                                                           | 96             | topics/alchemy                                   | <ul><li>🌱</li></ul> |
-| [[topics/architect;design/collaboration systems\|collaboration systems]]                                              | 96             | topics/architect;design                          | <ul><li>🌱</li></ul> |
+| [[responses/regen/regenerative design\|regenerative design]]                                                          | 96             | responses/regen                                  | <ul><li>🌱</li></ul> |
 | [[topics/architect;design/commons management\|commons management]]                                                    | 96             | topics/architect;design                          | <ul><li>🌱</li></ul> |
+| [[topics/architect;design/collaboration systems\|collaboration systems]]                                              | 96             | topics/architect;design                          | <ul><li>🌱</li></ul> |
+| [[topics/architect;design/systemic collapse\|systemic collapse]]                                                      | 96             | topics/architect;design                          | <ul><li>🌱</li></ul> |
+| [[topics/alchemy/adult development\|adult development]]                                                               | 96             | topics/alchemy                                   | <ul><li>🌱</li></ul> |
 | [[_004_L1F3/core concepts/life design\|life design]]                                                                  | 96             | _004_L1F3/core concepts                          | <ul><li>🌱</li></ul> |
 | [[_004_L1F3/core concepts/life management\|life management]]                                                          | 96             | _004_L1F3/core concepts                          | <ul><li>🌱</li></ul> |
 | [[_004_L1F3/core concepts/self design\|self design]]                                                                  | 96             | _004_L1F3/core concepts                          | <ul><li>🌱</li></ul> |
 | [[_004_L1F3/core concepts/self-management\|self-management]]                                                          | 96             | _004_L1F3/core concepts                          | <ul><li>🌿</li></ul> |
+| [[_004_L1F3/l1f3 management ontology\|l1f3 management ontology]]                                                      | 96             | _004_L1F3                                        | <ul><li>🌿</li></ul> |
 | [[initiatives, orgs & communities/architect;design/life itself research\|life itself research]]                       | 95             | initiatives, orgs & communities/architect;design | <ul><li>🌱</li></ul> |
 | [[initiatives, orgs & communities/lab/holochain\|holochain]]                                                          | 95             | initiatives, orgs & communities/lab              | <ul><li>🌱</li></ul> |
 | [[projects & tools/tools/lab/duskOS\|duskOS]]                                                                         | 95             | projects & tools/tools/lab                       | <ul><li>🌱</li></ul> |
@@ -171,10 +193,8 @@ i intend to fix this soon, but in the meantime, while i'm also building the [[_0
 | [[concepts/alchemy/initiation\|initiation]]                                                                           | 94             | concepts/alchemy                                 | <ul><li>🌱</li></ul> |
 | [[concepts/alchemy/ritual\|ritual]]                                                                                   | 94             | concepts/alchemy                                 | <ul><li>🌱</li></ul> |
 | [[concepts/alchemy/ways of knowing\|ways of knowing]]                                                                 | 94             | concepts/alchemy                                 | <ul><li>🌱</li></ul> |
-| [[concepts/design/legitimacy crisis\|legitimacy crisis]]                                                              | 94             | concepts/design                                  | <ul><li>🌱</li></ul> |
 | [[concepts/design/moloch\|moloch]]                                                                                    | 94             | concepts/design                                  | <ul><li>🌿</li></ul> |
 | [[concepts/design/the great simplification\|the great simplification]]                                                | 94             | concepts/design                                  | <ul><li>🌿</li></ul> |
-| [[diagnosis/meaning crisis\|meaning crisis]]                                                                          | 94             | diagnosis                                        | <ul><li>🌱</li></ul> |
 | [[initiatives, orgs & communities/architect;design/life itself\|life itself]]                                         | 94             | initiatives, orgs & communities/architect;design | <ul><li>🌱</li></ul> |
 | [[initiatives, orgs & communities/architect;design/nooNAO\|nooNAO]]                                                   | 94             | initiatives, orgs & communities/architect;design | <ul><li>🌿</li></ul> |
 | [[people/references/lab/devine lu linvega\|devine lu linvega]]                                                        | 94             | people/references/lab                            | <ul><li>🌿</li></ul> |
@@ -186,7 +206,7 @@ i intend to fix this soon, but in the meantime, while i'm also building the [[_0
 | [[topics/architect;design/tools for thought\|tools for thought]]                                                      | 94             | topics/architect;design                          | <ul><li>🌿</li></ul> |
 | [[topics/lab/information design\|information design]]                                                                 | 94             | topics/lab                                       | <ul><li>🌱</li></ul> |
 | [[topics/lab/interactive visualizations\|interactive visualizations]]                                                 | 94             | topics/lab                                       | <ul><li>🌱</li></ul> |
-| [[topics/lab/knowledge management\|knowledge management]]                                                             | 94             | topics/lab                                       | <ul><li>🌿</li></ul> |
+| [[topics/lab/personal knowledge management\|personal knowledge management]]                                           | 94             | topics/lab                                       | <ul><li>🌿</li></ul> |
 | [[topics/lab/knowledge visualization\|knowledge visualization]]                                                       | 94             | topics/lab                                       | <ul><li>🌱</li></ul> |
 | [[_004_L1F3/core concepts/life intelligence\|life intelligence]]                                                      | 94             | _004_L1F3/core concepts                          | <ul><li>🌱</li></ul> |
 | [[_004_L1F3/core concepts/lifestyles\|lifestyles]]                                                                    | 94             | _004_L1F3/core concepts                          | <ul><li>🌱</li></ul> |
@@ -219,9 +239,9 @@ i intend to fix this soon, but in the meantime, while i'm also building the [[_0
 | [[projects & tools/projects/lab/codexOS\|codexOS]]                                                                    | 87             | projects & tools/projects/lab                    | <ul><li>🌱</li></ul> |
 | [[initiatives, orgs & communities/lab/neighbourhoods\|neighbourhoods]]                                                | 86             | initiatives, orgs & communities/lab              | <ul><li>🌱</li></ul> |
 | [[models & frameworks/design/wardley mapping\|wardley mapping]]                                                       | 86             | models & frameworks/design                       | <ul><li>🌿</li></ul> |
+| [[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social (ex-tweetscape)]]                        | 86             | projects & tools/projects/lab                    | <ul><li>🌿</li></ul> |
 | [[projects & tools/projects/design/mercuryOS\|mercuryOS]]                                                             | 86             | projects & tools/projects/design                 | <ul><li>🌱</li></ul> |
 | [[projects & tools/projects/design/scaling synthesis\|scaling synthesis]]                                             | 86             | projects & tools/projects/design                 | <ul><li>🌱</li></ul> |
-| [[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social (ex-tweetscape)]]                        | 86             | projects & tools/projects/lab                    | <ul><li>🌿</li></ul> |
 | [[projects & tools/tools/design/weco\|weco]]                                                                          | 86             | projects & tools/tools/design                    | <ul><li>🌱</li></ul> |
 | [[projects & tools/tools/lab/hive.one\|hive.one]]                                                                     | 86             | projects & tools/tools/lab                       | <ul><li>🌱</li></ul> |
 | [[projects & tools/projects/design/xanadu\|xanadu]]                                                                   | 84             | projects & tools/projects/design                 | <ul><li>🌱</li></ul> |

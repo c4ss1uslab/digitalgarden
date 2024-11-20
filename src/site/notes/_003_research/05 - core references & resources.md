@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-07-30T21:38:54-03:00","last tended to":"2024-09-24T16:20:23-03:00","tags":["🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/003-research/05-core-references-and-resources/","dgPassFrontmatter":true,"created":"2022-07-30T21:38:54.771-03:00","updated":"2024-10-22T19:55:34.846-03:00"}
+{"created in":"2022-07-30T21:38:54-03:00","last tended to":"2024-10-22T19:55:34-03:00","tags":["🌱"],"dg-publish":true,"notestage":["🌱"],"created":"2022-07-30T21:38:54.771-03:00","updated":"2024-11-19T18:26:48.936-03:00","permalink":"/003-research/05-core-references-and-resources/","dgPassFrontmatter":true}
 ---
 
 ```ad-warning
@@ -7,7 +7,6 @@ title: note
 collapse: open
 the contents of the writing below are currently haphazard, disjointed and all over the place. please proceed at your own risk. (*or don't.* feel free to come back later when it'll be hopefully updated and improved.)
 ```
-
 #### compiled curated pages / tools / orgs toolkit
 
 pages (more contextual):
@@ -17,35 +16,35 @@ pages (more contextual):
 tools/orgs:
 -> [[concepts/design/personal tech stack\|personal tech stack]] -> [[_005_c4ss1us/c4ss1us' tech stack notion database\|c4ss1us' tech stack notion database]]
 
+a few different views:
+
+1) by topic (w/ their relevance scores)
+2) by resources (w/ their relevance scores)
+
 #### core references breakdown:
 
 > [!abstract]- areas covered in this zine
 > 
 > ##### information ecology navigation & sensemaking
 > 
+> #### core readings
+> 
+> 
+> 
 > civilization design - principles, challenges & constraints:
 > ['Humanity's Phase Shift', Daniel Schmachtenberger - YouTube](https://www.youtube.com/watch?v=nQRzxEobWco)
 > [The War on Sensemaking, Daniel Schmachtenberger - YouTube](https://www.youtube.com/watch?v=7LqaotiGWjQ)
-> [Daniel Schmachtenberger - New Economic Series: Part 1](https://civilizationemerging.com/new-economics-series-1/), [2](https://civilizationemerging.com/new-economics-series-2/), [3](https://civilizationemerging.com/new-economics-series-3/) and [4](https://civilizationemerging.com/new-economics-series-4/ "New Economic Series: Part 4")
+> [Daniel Schmachtenberger - New Economic Series: Part 3](https://civilizationemerging.com/new-economics-series-3/), [4](https://civilizationemerging.com/new-economics-series-4/ "New Economic Series: Part 4"),  [1](https://civilizationemerging.com/new-economics-series-1/) & [2](https://civilizationemerging.com/new-economics-series-2/) (yes, this is the best, more gentle order)
 > 
 > civilization design - prototypes:
 > [SEEDS introduction - Global Green New Deal! It's time to do what our governments have failed to do. Heal our planet. - YouTube](https://www.youtube.com/watch?v=3MounsvZFPk)
 > [Ep. 1 - Journey to Regenerative Civilizations Series - YouTube](https://www.youtube.com/watch?v=YrNw_PdJd68&list=PL3Xi8vZSmBTStS0BoFItW8389HJLypX0E)
 > [[cybersyn\|cybersyn]]
 > 
-> great orienting narratives:
+> great big picture view / orienting narratives:
 > [Wisdom Age — Roote](https://www.roote.co/wisdom-age) / [Wisdom Age Advice — Roote](https://www.roote.co/wisdom-age-advice)
-> [What can technologists do about climate change? - Bret Victor](https://worrydream.com/ClimateChange) *
-> 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/people/references/lab/bret-victor/#5ac75d" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-\*its application goes way beyond the topic of [[climate change\|climate change]]. i recommend reading it not only considering it, but the complex, entangled situation of our [[civilizational systems\|civilizational systems]] as whole - challenges, risks, shortcomings, biases, etc... it's a great starting point for exploring different large-scale action pathways. 
-
-</div></div>
-
-> 
+> [What can a technologist do about climate change? - Bret Victor](https://worrydream.com/ClimateChange)
+>
 > big picture framing articles on the future of education / coordination / collaboration as the life game:
 > [Level Up: Presenting the Future of Education as a Game, and How … — Voice Over Exit](https://voice.mirror.xyz/jb6ziF4xdVEzfAlyoeZhDI2Lo0Oy-l7I-ac9vVvAhMw)
 > [Education is the Metacrisis - Perspectiva](https://systems-souls-society.com/education-is-the-metacrisis/)
@@ -67,7 +66,7 @@ tools/orgs:
 > [LN 000: The Lab Notes](https://alexanderobenauer.com/labnotes/000/) / [EXPERIMENT 001: Cross-reference Navigation in Obsidian](https://alexanderobenauer.com/labnotes/exp001/) / OLLOS (members-only)
 > [Curl Projects](https://curlprojects.com/)
 > 
-> collective/collaborative databases:
+> collective/collaborative databases (curation resources):
 > [[initiatives, orgs & communities/architect;design/sublime (ex-startupy)\|sublime]]
 > 	[Manifesto - Startupy](https://beta.startupy.world/manifesto/) - now?
 > 	[Hey heey, welcome to Startupy — Startupy Index](https://startupyworld.notion.site/Hey-heey-welcome-to-Startupy-60f9443ac8a0486dba3ef8fd93becae6) - now https://sublimeapp.notion.site/A-SUBLIME-INTERNET-b5453f44067e4e8c81f02716fc162cdc
@@ -76,11 +75,11 @@ tools/orgs:
 > wikis:
 > [P2P Foundation Wiki](https://wiki.p2pfoundation.net/Main_Page)
 > [Second Renaissance Wiki](https://wiki.secondrenaissance.net/wiki/Second_Renaissance_wiki)
-> [SEEDS wiki](https://explore.joinseeds.earth/read-me-first)
 > [Library of Existential Hope](https://www.existentialhope.com/library)
 > [Library of Economic Possibility](https://www.economicpossibility.org/)
 > [Open Source Ecology wiki](https://wiki.opensourceecology.org/wiki/Main_Page)
 > [Appropedia](https://www.appropedia.org/Welcome_to_Appropedia) (high volume)
+> [SEEDS wiki](https://explore.joinseeds.earth/read-me-first)
 > 
 > ##### visual/spatial mediums/explorations
 >
@@ -198,6 +197,29 @@ tools/orgs:
 > https://www.futuretools.io/
 > 
 
+a great way to describe any project is by describing the ecology it's embedded in - other projects, people, precursors and initiatives in its ecosystem.
+
+however, this also introduces a degree of complexity - it both makes it easier to visualize the project's role in relationship with other existing initiatives, but also places the burden of (minimally) understanding the other initiatives too. so if we want depth, that's a good way to go...
+
+so let's do it!
+
+[core references]
+CRI
+diome.xyz
+[[projects & tools/projects/player/world game\|world game]]
+
+[wider context]
+
+[topics]
+
+[projects]
+
+https://stephenreid.net/knowledgegraph
+
+[people]
+
+etc
+
 core concepts:
 [[concepts/design/metacrisis\|metacrisis]] / [[planetary transition\|planetary transition]] / [[tbprocessed/base notes/concepts - general/human phase shift\|human phase shift]]
 [[tbprocessed/base notes/concepts - general/game b\|game b]] / [[_004_L1F3/core concepts/civilization design\|civilization design]] / [[topics/architect;design/systems design\|systems design]]
@@ -208,16 +230,11 @@ core concepts:
 [[meta-cognitive processes\|meta-cognitive processes]] / [[_004_L1F3/core concepts/life management\|life management]] / [[life support systems\|life support systems]]
 [[patterns/pattern collections/game design patterns\|game design patterns]] -> [[maps\|maps]] / [[boards\|boards]] -> [[models & frameworks/design/wardley mapping\|wardley mapping]] / [[game board\|game board]]
 
-PKM setups:
-[obsidian projects dashboard](https://bagerbach.com/blog/projects-and-goals-obsidian) / [Rainbell129/Obsidian-Homepage: A dashboard for your obsidian vault.](https://github.com/Rainbell129/Obsidian-Homepage)
-[[projects & tools/tools/lab/juggl\|juggl]] / [[breadcrumbs\|breadcrumbs]] / [[dataview\|dataview]]
-
-
 community-curated knowledge networks:
 [[initiatives, orgs & communities/architect;design/sublime (ex-startupy)\|sublime (ex-startupy)]]
 [[projects & tools/tools/design/melon\|melon]]
 [[are.na\|are.na]]
-[[hypothes.is\|hypothes.is]]
+[[hypothes.is\|hypothes.is]] / [[glasp\|glasp]]
 [Top Curators On The Internet - Google Docs](https://docs.google.com/document/d/1PNYQmjOdAmKbRzLGI83nvSQ5hRRlIJz7VZq13WwehtQ/edit)
 
 individual's wikis/knowledge gardens:
@@ -297,7 +314,7 @@ networks / data sources:
 [[pinterest\|pinterest]] / [[artstation\|artstation]] / [[dribbble\|dribbble]] / [[behance\|behance]]
 
 files management:
-[[patterns/active patterns/knowledge design/social reading bookmarks\|social reading bookmarks]] - [[projects & tools/tools/lab/raindrop\|raindrop]]
+[[patterns/active patterns/knowledge design/social reading highlights\|social reading highlights]] - [[projects & tools/tools/lab/raindrop\|raindrop]]
 [[notes\|notes]] - [[telegram\|telegram]] <> [[tbprocessed/base notes/ventures - general/obsidian\|obsidian]]
 [[images\|images]] - [[projects & tools/tools/lab/eagle (app)\|eagle (app)]]
 [[videos\|videos]] - [[youtube\|youtube]]
@@ -375,7 +392,7 @@ main "theorists":
 [[people/references/lab/nick milo\|nick milo]] / [[linking your thinking\|linking your thinking]]
 
 more obscure/deeper thinkers/developers:
-[[tbprocessed/base notes/people/zsolt viczián\|zsolt viczián]] / [[zsolt's visual personal knowledge management system\|zsolt's visual personal knowledge management system]] - https://www.youtube.com/c/VisualPKM
+[[tbprocessed/base notes/people/zsolt viczián\|zsolt viczián]] / [[visual knowledge management system\|visual knowledge management system]] - https://www.youtube.com/c/VisualPKM
 [[people/references/lab/alexander obenauer\|alexander obenauer]] - [[future of personal computing\|future of personal computing]] - https://alexanderobenauer.com/labnotes/000
 [[infranodus\|infranodus]] - [[AI-augmented cognition\|AI-augmented cognition]] - https://twitter.com/noduslabs
 
@@ -401,7 +418,7 @@ future of:
 [[topics/player/learning\|learning]]
 [[terms/work\|work]] ([[terms/action\|action]])
 [[communities\|communities]] ([[terms/decision-making\|decision-making]])
-[[areas/environments\|environments]] ([[topics/alchemy/sensemaking\|sensemaking]])
+[[areas/environments\|environments]] ([[concepts/alchemy/sensemaking\|sensemaking]])
 
 [[initiatives, orgs & communities/architect;design/sublime (ex-startupy)\|sublime (ex-startupy)]] most interesting topics:
 
@@ -427,7 +444,7 @@ by topic:
 
 - [[communities\|communities]] (22)
 
-- [[topics/lab/knowledge management\|knowledge management]] (18)
+- [[topics/lab/personal knowledge management\|personal knowledge management]] (18)
 
 - [[concepts/alchemy/self\|self]] (56)
 
@@ -439,7 +456,7 @@ by topic:
 
 - [[education\|education]] (9)
 
-- [[topics/alchemy/sensemaking\|sensemaking]] (7)
+- [[concepts/alchemy/sensemaking\|sensemaking]] (7)
 
 [[singularity university\|singularity university]] community topics:
 
@@ -516,7 +533,7 @@ N - [[Built Environments\|Built Environments]]
 N.A - [[Urban Development\|Urban Development]]
 N.B - [[Architecture\|Architecture]]
 N.C - [[Disaster Resilience\|Disaster Resilience]]
-N.D - [[Sustainable Development\|Sustainable Development]]
+N.D - [[sustainable development\|Sustainable Development]]
 N.E - [[Transportation\|Transportation]]
 O - [[Digital Environments\|Digital Environments]]
 O.A - [[Social Media\|Social Media]]

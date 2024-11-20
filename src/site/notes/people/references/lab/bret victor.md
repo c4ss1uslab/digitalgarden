@@ -1,18 +1,18 @@
 ---
-{"created in":"2024-05-29T14:27:52-03:00","last tended to":"2024-09-26T15:53:13-03:00","tags":["interfacedesign","experiencedesign","lab","person","tier1","visuallearning","spatialsoftware","interactiondesign","🌿"],"dg-publish":true,"relevancescore":92,"notestage":["🌿"],"permalink":"/people/references/lab/bret-victor/","dgPassFrontmatter":true,"created":"2024-05-29T14:27:52.255-03:00","updated":"2024-09-26T15:53:14.445-03:00"}
+{"created in":"2024-05-29T14:27:52-03:00","last tended to":"2024-09-26T15:53:13-03:00","tags":["interfacedesign","experiencedesign","lab","person","tier1","visuallearning","spatialsoftware","interactiondesign","🌿"],"dg-publish":true,"relevancescore":92,"notestage":["🌿"],"created":"2024-05-29T14:27:52.255-03:00","updated":"2024-11-08T20:15:50.533-03:00","permalink":"/people/references/lab/bret-victor/","dgPassFrontmatter":true}
 ---
 
 https://worrydream.com/
 { #ae2304}
 
 
-researcher on the [[topics/lab/the future of computing\|the future of computing]], [[topics/lab/spatial computing\|spatial computing]], [[concepts/design/extended cognition\|extended cognition]] and more. founder of [[projects & tools/tools/lab/dynamicland\|dynamicland]].
+bret is a visionary and researcher on the [[topics/lab/the future of computing\|the future of computing]], [[topics/lab/spatial computing\|spatial computing]], [[concepts/design/extended cognition\|extended cognition]] and more. he's the founder of [[projects & tools/tools/lab/dynamicland\|dynamicland]].
 
-his main thesis reflects a frustration i held for a long time, but wasn't able to articulate: we invented the [[dynamic medium\|dynamic medium]] (you could interpret it as "[[topics/lab/computing\|computing]]", but see the references below for way more detail) and we still don't use it to 10% of its potential.
+his main thesis reflects a frustration i held for a long time, but wasn't able to articulate well: we invented the [[dynamic medium\|dynamic medium]] (you could interpret it as "[[computers\|computers]]" or "[[topics/lab/computing\|computing]] as a whole", but see the references below for way more detail) and we still don't use it to 10% of its potential. we don't explore the dimensions of dynamic systems it opens up. we use it ever so often to translate busywork from previously a desk into a "desktop".
 
 #### references:
 
-##### core videos:
+##### must-watches:
 
 1) [the humane representation of thought](https://vimeo.com/115154289) + [notes (very good diagram)](https://worrydream.com/TheHumaneRepresentationOfThought/note.html)
 
@@ -27,7 +27,7 @@ in it, he presents very simply and clearly his [[theory of change\|theory of cha
 > Intention:
 > Use the dynamic medium to reinvent the representations of thought. Invent a way of thinking — imagining, understanding, creating, explaining — via dynamic representations that engage all modes of thought and respect the whole human being.
 
-\+ more details, illustrations and his plan for application on [[projects & tools/tools/lab/dynamicland\|dynamicland]]. it's very similar to the vision i was prototyping with the [[projects & tools/projects/design/24h system\|24h system]] at [[high stakes academy\|high stakes academy]] back in 2019, minus the [[_004_L1F3/core concepts/life management\|life management]] aspect of it.
+\+ more details, illustrations and his plan for application on [[projects & tools/tools/lab/dynamicland\|dynamicland]]. it's very similar to the vision i was prototyping with the [[projects & tools/projects/design/24h system\|24h system]] at [[high stakes academy\|high stakes academy]] back in 2019, minus my utter lack of technical skills and my bigger focus on the [[_004_L1F3/core concepts/life management\|life management]] aspect of it.
 
  2) [stop drawing dead fish](https://vimeo.com/64895205) - exploring/introducing a few "[[unique affordances of the computational medium\|unique affordances of the computational medium]]"
 
@@ -41,13 +41,18 @@ in it, he presents very simply and clearly his [[theory of change\|theory of cha
 
 introduces: [[reactive documents\|reactive documents]] (as seen in [[references/lab/ten brighter ideas\|ten brighter ideas]]), [[explorable examples\|explorable examples]], [[contextual information\|contextual information]].
 
-###### 2) [what can a technologist do about climate change?](https://worrydream.com/ClimateChange/)
-
-\*its application goes way beyond the topic of [[climate change\|climate change]]. i recommend reading it not only considering it, but the complex, entangled situation of our [[civilizational systems\|civilizational systems]] as whole - challenges, risks, shortcomings, biases, etc... it's a great starting point for exploring different large-scale action pathways.
-{ #5ac75d}
+###### 2) [[what can a technologist do about climate change\|what can a technologist do about climate change]]?
 
 
-it presents a few of the kinds of technical transformations/innovations/initiatives that are deeply needed and are not being talked about enough.
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+https://worrydream.com/ClimateChange/
+
+\*the application of this article goes way beyond the topic of [[climate change\|climate change]]. i recommend reading it not only considering our climate predicament, but the complex, entangled situation of our [[civilizational systems\|civilizational systems]] as whole - [[challenges\|challenges]], [[risks\|risks]], [[shortcomings\|shortcomings]], [[biases\|biases]], etc... it's a great starting point for exploring different large-scale action pathways. 
+the article presents a few of the kinds of technological transformations/innovations/initiatives that are deeply needed and are not being talked about enough.
 
 > [!info]- my highlights:
 > 
@@ -56,12 +61,15 @@ it presents a few of the kinds of technical transformations/innovations/initiati
 > they're both short, i recommend you read the full article, but you can skip to these to get why they're so important.
 > 
 > on 1:
-> he introduces important concepts i'll return to often when discussing [[topics/architect;design/coordination systems\|coordination systems]], [[terms/collaboration\|collaboration]], [[topics/alchemy/sensemaking\|sensemaking]]: [[model-driven debate\|model-driven debate]], [[model-driven reading\|model-driven reading]], [[model-driven authoring\|model-driven authoring]].
+> he introduces important concepts i'll return to often when discussing [[topics/architect;design/coordination systems\|coordination systems]], [[terms/collaboration\|collaboration]], [[concepts/alchemy/sensemaking\|sensemaking]]: [[model-driven debate\|model-driven debate]], [[model-driven reading\|model-driven reading]], [[model-driven authoring\|model-driven authoring]].
 > 
 > these can be seen/experienced in his own [[references/lab/ten brighter ideas\|ten brighter ideas]], [[initiatives, orgs & communities/architect;design/the society library\|the society library]]'s debate maps, and more.
 > 
 > on 2:
 > he shares a simple yet powerful framing of how we cannot afford as a society to continue with our businesses/governments/economies "as usual". there is and there can be no such thing as not being "mission-driven" (despite how coachy or wishy-washy that might sound). we're always optimizing for some things at the expanse of others, often unconsciously. we need to take this seriously and [end the reign of nihilistic design](https://consilienceproject.org/technology-is-not-values-neutral-ending-the-reign-of-nihilistic-design-2/). i urge you to read this and the article i just linked, deepening the analysis.
+
+</div></div>
+
 
 ###### 3) [[seeing spaces\|seeing spaces]]
 
@@ -75,8 +83,8 @@ a new perspective on what programming should actually be/feel/look like. simply 
 
 ##### other stuff
 
+a list of papers he read/finds relevant:
+https://worrydream.com/refs/
+
 bret's bookshelf (2015):
 https://joodaloop.com/bret-bookshelf/
-
-to check out:
-[YouTube - Bootstrapping Research & Dynamicland, Dec 2019](https://www.youtube.com/watch?v=eJm44LJDU44)

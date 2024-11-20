@@ -14,4 +14,4 @@ see a 5-min article introduction + link to 38-page paper: https://meaningalignme
 1h30 video explaining the overarching vision/research basis: https://www.youtube.com/watch?v=hZpKdfbrd6osee
 
 ---
-people involved: [[people/references/architect;design/joe edelman\|joe edelman]], [[ellie hain\|ellie hain]], [[people/references/architect;design/oliver klingefjord\|oliver klingefjord]]
+people involved: [[people/references/architect;design/joe edelman\|joe edelman]], [[people/references/architect;design/ellie hain\|ellie hain]], [[people/references/architect;design/oliver klingefjord\|oliver klingefjord]]

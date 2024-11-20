@@ -1,9 +1,51 @@
 ---
-{"created in":"2024-03-19T17:32:30-03:00","last tended to":"2024-09-24T15:53:40-03:00","aliases":["frameworks","framework"],"tags":["design","concept","🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/concepts/design/coordination-frameworks/","dgPassFrontmatter":true,"created":"2024-03-19T17:32:30.978-03:00","updated":"2024-09-24T16:22:52.469-03:00"}
+{"created in":"2024-03-19T17:32:30-03:00","last tended to":"2024-09-24T16:22:52-03:00","aliases":["frameworks","framework"],"tags":["design","concept","🌱"],"dg-publish":true,"notestage":["🌱"],"created":"2024-03-19T17:32:30.978-03:00","updated":"2024-11-19T17:07:58.319-03:00","permalink":"/concepts/design/coordination-frameworks/","dgPassFrontmatter":true}
 ---
 
-[[initiatives, orgs & communities/architect;design/civilization research institute\|civilization research institute]]: [[models & frameworks/design/cultural materialism\|cultural materialism]], [[projects & tools/tools/lab/catalist network\|catalist network]]: [[models & frameworks/design/sustainable development goals\|SDGs]]...
+#### coordination
 
-other frameworks: [[models & frameworks/alchemy/inner development goals\|IDGs]], [[models & frameworks/alchemy/integral theory\|integral theory]], [[models & frameworks/player/fourgames\|fourgames]], [[people/references/alchemy/hanzi freinacht\|hanzi freinacht]]'s [[stage, code, state and depth\|stage, code, state and depth]]...
+[[projects & tools/projects/design/gitcoin coordination mechanisms list\|gitcoin coordination mechanisms list]]
+
+#### common sensemaking frameworks:
+
+[[models & frameworks/design/cultural materialism\|cultural materialism]] / [holistic cultural materialism]([Cultural Materialism](https://diome.xyz/2+%F0%9F%8C%BF+Leaves/Cultural+Materialism))
+[[models & frameworks/design/MEI model\|MEI model]]
+[[diagnosis/generator functions of existential risk\|generator functions of existential risk]]
+[[diagnosis/accumulation, extraction, abstraction\|accumulation, extraction, abstraction]]
+[[state, code, stage, depth\|state, code, stage, depth]]
+[[models & frameworks/alchemy/AQAL\|AQAL]]
+[[models & frameworks/alchemy/four facets of integral development\|four facets of integral development]]
+[[models & frameworks/alchemy/inner development goals\|inner development goals]]
+[[noble eightfold path\|noble eightfold path]]
+types of tech tools
+[[models & frameworks/design/DIKW pyramid\|DIKW pyramid]]
+[[models & frameworks/design/OODA loop\|OODA loop]]
+types of propaganda/sensemaking?
+the stoa?
+
+#### orientation / collaboration frameworks:
+
+[[models & frameworks/design/three horizons\|three horizons]]
+[[models & frameworks/design/sustainable development goals\|sustainable development goals]]
+[[projects & tools/tools/lab/catalist network\|catalist network]]'s [sets](https://www.catalist.network/explore-sets)
+
+#### life management frameworks:
+
+[[models & frameworks/alchemy/wheel of life\|wheel of life]]
+[[6 horizons of focus\|6 horizons of focus]]
+[[models & frameworks/player/fourgames\|fourgames]]₉₃
+[[_004_L1F3/l1f3 management ontology\|L1F3 ontology]]₉₆
+
+#### knowledge management frameworks:
+
+[[patterns/active patterns/knowledge management/building a second brain\|building a second brain]] / [[models & frameworks/lab/C.O.D.E\|CODE]]
+[[linking your thinking\|linking your thinking]]
+[[models & frameworks/lab/pillars, pipelines & vaults\|pillars, pipelines & vaults]]
+[[people/references/lab/francis miller\|francis miller]]'s [[knowledge structures\|knowledge structures]]
+more on [[andrew altshuler\|andrew altshuler]]'s [PKM frameworks](https://www.altshuler.io/frameworks/)
+
+#### regenerative frameworks:
+
+
 
 related references: [[initiatives, orgs & communities/architect;design/the society library\|the society library]]'s [decision-making toolkit](https://www.societylibrary.org/improve-decisionmaking), [untools](https://untools.co/), etc.

@@ -1,5 +1,5 @@
 ---
-{"aliases":["map","maps"],"created in":"2022-04-19T15:34:21-03:00","last tended to":"2024-09-26T15:23:18-03:00","tags":["🌿","mapping","topic","response","knowledgedesign","knowledgevisualization","lab","design"],"relevancescore":94,"dg-publish":true,"notestage":["🌿"],"permalink":"/responses/lab/mapping/","dgPassFrontmatter":true,"created":"2022-04-19T15:34:21.040-03:00","updated":"2024-09-26T15:23:19.017-03:00"}
+{"aliases":["map","maps"],"created in":"2022-04-19T15:34:21-03:00","last tended to":"2024-09-26T15:23:18-03:00","tags":["🌿","mapping","topic","response","knowledgedesign","knowledgevisualization","lab","design"],"relevancescore":94,"dg-publish":true,"notestage":["🌿"],"created":"2022-04-19T15:34:21.040-03:00","updated":"2024-11-15T14:30:45.168-03:00","permalink":"/responses/lab/mapping/","dgPassFrontmatter":true}
 ---
 
 ## 1) definitions & types of maps
@@ -115,7 +115,14 @@ c) [[general knowledge maps\|general knowledge maps]] / [[relationship maps\|rel
 ---
 ## 3) great examples of maps of specific subjects
 
-#### a) "maps of the internet" projects:
+##### a)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/topics/architect-design/internet-mapping/#maps-of-the-internet-projects" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+##### "maps of the internet" projects:
+
 
 **internet map:**
 https://www.halcyonmaps.com/#/map-of-the-internet-2021/
@@ -154,6 +161,11 @@ my twitter lists on:
 - [research-oriented AI (8 members)](https://twitter.com/i/lists/1661523121029931019)
 
 ---
+
+</div></div>
+
+
+---
 #### b) topic maps
 
 **economics maps**:
@@ -172,7 +184,7 @@ https://calculatingempires.net/ - a genealogy of technology and power since 1500
 https://www.visualcapitalist.com/histomap/ - visualizing the 4,000-year history of global power
 
 ---
-#### c) "maps" of the [[concepts/design/metacrisis\|metacrisis]] / [[topics/alchemy/sensemaking\|sensemaking]] / [[tbprocessed/base notes/concepts - general/game b\|game b]] space:
+#### c) "maps" of the [[concepts/design/metacrisis\|metacrisis]] / [[concepts/alchemy/sensemaking\|sensemaking]] / [[tbprocessed/base notes/concepts - general/game b\|game b]] space:
 
 an introduction to the subject/space: https://secondrenaissance.net/intro
 
@@ -255,7 +267,7 @@ refs: [[initiatives, orgs & communities/architect;design/golden\|golden]], [[pro
 
 other relevant approaches:
 - [[models & frameworks/host/CEP+N\|CEP+N]]
-- [[references/lab/github resource lists\|github resource lists]]
+- [[references/lab/github awesome lists\|github awesome lists]]
 - etc...
 
 ---

@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-10-03T16:43:48-03:00","last tended to":"2024-10-12T18:13:42-03:00","tags":["fellowship","review","self-knowledge","systemschange","🌿"],"dg-publish":true,"notestage":["🌿"],"aliases":["roote fellowship"],"permalink":"/010-notes-from-courses-events-and-chats/2023-10-roote-fellowship-notes/","dgPassFrontmatter":true,"created":"2023-10-03T16:43:48.690-03:00","updated":"2024-10-12T18:13:44.855-03:00"}
+{"created in":"2023-10-03T16:43:48-03:00","last tended to":"2024-10-12T18:13:42-03:00","tags":["fellowship","review","self-knowledge","systemschange","🌿"],"dg-publish":true,"notestage":["🌿"],"aliases":["roote fellowship"],"created":"2023-10-03T16:43:48.690-03:00","updated":"2024-11-14T17:11:39.654-03:00","permalink":"/010-notes-from-courses-events-and-chats/2023-10-roote-fellowship-notes/","dgPassFrontmatter":true}
 ---
 
 "roote helps you clarify root-level systems to help humanity find our route. the fellowship is designed to bring ambitious frontier people together to connect and accelerate them on their path to impact on the wisdom age."
@@ -8,11 +8,11 @@ about: https://www.roote.co/fellowship
 
 i participated in it during oct-nov 2023. i give it a 6/10 rating.
 
-[the wisdom age](https://www.roote.co/wisdom-age) is a fantastic [[topics/architect;design/research\|research]]-synthesizing essay by them that made me want to engage deeper with [[roote\|roote]]. in 2022-23, they also were prototyping [[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social (ex-tweetscape)]], a very interesting tool for intentionally using [[projects & tools/tools/lab/twitter\|twitter]] for [[topics/architect;design/research\|research]] and [[topics/alchemy/sensemaking\|sensemaking]].
+[the wisdom age](https://www.roote.co/wisdom-age) is a fantastic [[topics/architect;design/research\|research]]-synthesizing essay by them that made me want to engage deeper with [[roote\|roote]]. in 2022-23, they also were prototyping [[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social (ex-tweetscape)]], a very interesting tool for intentionally using [[projects & tools/tools/lab/twitter\|twitter]] for [[topics/architect;design/research\|research]] and [[concepts/alchemy/sensemaking\|sensemaking]].
 
 i hoped the fellowship would go deeper into subjects such as the [[concepts/design/metacrisis\|metacrisis]], [[concepts/design/complex systems\|complex systems]], [[responses/alchemy/metamodernism\|metamodernism]] and discuss [[approaches\|approaches]]/propose [[experiments\|experiments]] as a [[community of practice\|community of practice]].
 
-in practice, i found it to be more oriented towards helping young people interested in [[social impact\|social impact]] and [[self-development\|self-development]] find their way in life/work. something like [[moving up\|moving up]] and [[initiatives, orgs & communities/player/praxis\|praxis]] did for me back in 2016/17. the fellowship didn't go deep into these profound [[topics/alchemy/sensemaking\|sensemaking]] topics i hoped for and i found [[people/references/architect;design/rhys lindmark\|rhys]]' perspectives often aligned with the [[effective accelerationism\|effective accelerationist]] meme, which disappointed me.
+in practice, i found it to be more oriented towards helping young people interested in [[social impact\|social impact]] and [[self-development\|self-development]] find their way in life/work. something like [[moving up\|moving up]] and [[initiatives, orgs & communities/player/praxis\|praxis]] did for me back in 2016/17. the fellowship didn't go deep into these profound [[concepts/alchemy/sensemaking\|sensemaking]] topics i hoped for and i found [[people/references/architect;design/rhys lindmark\|rhys]]' perspectives often aligned with the [[effective accelerationism\|effective accelerationist]] meme, which disappointed me.
 
 regardless of that, rhys is super generous, supportive, high-energy and a great writer. i find his articles great reminders/clear orientation devices on [[_004_L1F3/core concepts/life design\|life design]] and [[topics/architect;design/intentional tech\|intentional tech]]. most of the gold is available for free on [speedrunner's canon](https://www.roote.co/canon), i recommend going over it if you're in need of some guidance/principles/heuristics/order in your life.
 
@@ -212,7 +212,7 @@ for the past 4 years, i've been designing and living my life through the framewo
 - findings & projects (OS → player system)
 - experiments/prototypes
 
-ps: this presentation format/structure comes from the [[_004_L1F3/l1f3 management methodology\|l1f3 management methodology]], an open-source, decentralized and modular approach to creating more conscious, effective, fun, fulfilling and collaborative realities & lifestyles.
+ps: this presentation format/structure comes from the [[_004_L1F3/l1f3 management ontology\|l1f3 management ontology]], an open-source, decentralized and modular approach to creating more conscious, effective, fun, fulfilling and collaborative realities & lifestyles.
 
 ###### narrative view:
 - [ ] 🌿 [[before you read: important context, disclaimers and clarity to keep in mind\|before you read: important context, disclaimers and clarity to keep in mind]]

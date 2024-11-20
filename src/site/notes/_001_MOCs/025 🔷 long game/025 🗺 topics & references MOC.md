@@ -1,5 +1,5 @@
 ---
-{"aliases":["topics","fields","fields of knowledge"],"created in":"2021-12-11T16:52:03-03:00","last tended to":"2024-09-29T14:26:10-03:00","dg-publish":true,"tags":["🌿","selfmanagement"],"notestage":["🌿"],"permalink":"/001-mo-cs/025-long-game/025-topics-and-references-moc/","dgPassFrontmatter":true,"created":"2021-12-11T16:52:03.339-03:00","updated":"2024-10-24T21:59:41.456-03:00"}
+{"aliases":["topics","fields","fields of knowledge"],"created in":"2021-12-11T16:52:03-03:00","last tended to":"2024-10-24T21:59:41-03:00","dg-publish":true,"tags":["🌿","selfmanagement"],"notestage":["🌿"],"created":"2021-12-11T16:52:03.339-03:00","updated":"2024-11-19T17:36:16.253-03:00","permalink":"/001-mo-cs/025-long-game/025-topics-and-references-moc/","dgPassFrontmatter":true}
 ---
 
 on the contents below, the emojis mean different things. here's their caption:
@@ -41,7 +41,7 @@ level of depth:
 🌲 [[_004_L1F3/core concepts/life design\|life design]] / [[tbprocessed/base notes/topics/life gamification\|life gamification]]
 	[[_002_toolkit/000 ⛓ l1f3 player toolkit\|🧰 l1f3 player toolkit]]
 🌲 [[_004_L1F3/core concepts/self-management\|self-management]]
-	🧰 [[_004_L1F3/l1f3 management methodology\|l1f3 management methodology]]
+	🧰 [[_004_L1F3/l1f3 management ontology\|l1f3 management ontology]]
 	🔥 [life manager (ísis' approach)](https://www.youtube.com/watch?v=Nxo8hX97ojk) (portuguese)
 🌿 [[topics/alchemy/spiritual lineages\|wisdom traditions]] & [[ecologies of practices\|ecologies of practices]]
 	🌿 [[integral yoga\|integral yoga]]
@@ -62,14 +62,14 @@ level of depth:
 	📂 [[meta-research consolidation resource\|meta-research consolidation resource]]
 🌲 [[tbprocessed/base notes/concepts - general/curation\|curation]]
 	🔥 [[initiatives, orgs & communities/architect;design/sublime (ex-startupy)\|sublime (ex-startupy)]]
-🌲 [[topics/alchemy/sensemaking\|sensemaking]]
+🌲 [[concepts/alchemy/sensemaking\|sensemaking]]
 	📂 [favorite sensemaking videos playlist](https://www.youtube.com/playlist?list=PLj8H7uBaUwDvd18QrEPugPMD5Z6Y0W-vB)
 🌿 [[_004_L1F3/core concepts/life streaming\|life streaming]]
 	🧰 [[_004_L1F3/l1f3 streaming system\|life streaming system]]
 🌿 [[_004_L1F3/core concepts/life intelligence\|life intelligence]]
 	🧪 [[3rd brain workflow\|3rd brain workflow]]
 ##### 🌐 [[topics/architect;design/systems\|systems]]
-🌲 [[meta-systems\|meta-systems]] for [[topics/alchemy/sensemaking\|sensemaking]], [[topics/player/play\|play]], [[topics/architect;design/coordination systems\|coordination systems]] & [[terms/collaboration\|collaboration]]
+🌲 [[meta-systems\|meta-systems]] for [[concepts/alchemy/sensemaking\|sensemaking]], [[topics/player/play\|play]], [[topics/architect;design/coordination systems\|coordination systems]] & [[terms/collaboration\|collaboration]]
 🌲 [[_004_L1F3/core concepts/civilization design\|civilization design]]
 	[[concepts/design/network state\|network states]]
 	[[smart cities\|smart cities]] / [[smart villages\|smart villages]]
@@ -88,8 +88,8 @@ level of depth:
 
 #### 👨🏻‍🔬 [[_005_c4ss1us/c4ss1us.lab\|.lab]]
 ##### 💻 [[topics/architect;design/technology\|technology]]
-🌲 [[topics/lab/knowledge management\|PKM]] / [[_004_L1F3/core concepts/life management\|life management]]
-	🔩 [[_004_L1F3/l1f3 management methodology\|life management methodology (LMM)]] ([[obsidian system\|obsidian system]])
+🌲 [[topics/lab/personal knowledge management\|PKM]] / [[_004_L1F3/core concepts/life management\|life management]]
+	🔩 [[_004_L1F3/l1f3 management ontology\|life management methodology (LMM)]] ([[obsidian system\|obsidian system]])
 	🔩 [[projects & tools/made by me/disruptive life management system\|DLMS - disruptive life management system]] ([[notion system\|notion system]])
 	🔩 [[tbprocessed/base notes/tools;products - proprietary/tools/life organization & visualization system\|LOVS - life organization & visualization system]] ([[notion system\|notion system]])
 	📂 [[knowledge management methodologies\|knowledge management methodologies]]
@@ -272,7 +272,7 @@ wisdom
 practice
 
 - clarity & preparation
-	- [[topics/alchemy/sensemaking\|sensemaking]]
+	- [[concepts/alchemy/sensemaking\|sensemaking]]
 	- [[concepts/design/meta-systemic design\|meta-systemic design]]
 		- [[design methodologies\|design methodologies]]
 			- [[responses/regen/regenerative design\|regenerative design]]
@@ -289,7 +289,7 @@ practice
 				- [[creator economy\|creator economy]]
 				- [[topics/architect;design/digital economy\|digital economy]]
 	- [[resources management\|resources management]]
-		- [[topics/lab/knowledge management\|knowledge management]]
+		- [[topics/lab/personal knowledge management\|personal knowledge management]]
 			- [[topics/lab/personal data management\|personal data management]]
 
 - collaboration
@@ -339,7 +339,7 @@ the future of:
 -   [[alternative living\|alternative living]] / [[regenerative living\|regenerative living]]
 -   [[topics/architect;design/systems\|systems]] / [[topics/architect;design/systems design\|systems design]] / [[topics/architect;design/systems development\|systems development]]
 -   [[topics/architect;design/economics\|economics]] / [[tbprocessed/base notes/topics/resources generation\|resources generation]] / [[resources management\|resources management]]
--   [[terms/information\|information]] / [[knowledge generation\|knowledge generation]] / [[topics/lab/knowledge management\|knowledge management]]
+-   [[terms/information\|information]] / [[knowledge generation\|knowledge generation]] / [[topics/lab/personal knowledge management\|personal knowledge management]]
 -   [[governance\|governance]] / [[terms/decision-making\|decision-making]] / [[decision management\|decision management]]
 -   [[intelligence\|intelligence]] / [[topics/architect;design/research\|topics/architect;design/research]] / [[responses/lab/mapping\|mapping]] / [[tbprocessed/base notes/concepts - general/curation\|curation]]
 -   [[physical environments\|physical environments]] / [[digital environments\|digital environments]]
@@ -360,5 +360,5 @@ the future of:
 - [[DAO-DHO evolution\|DAO-DHO evolution]] + [[topics/player/gamification\|gamification]]
 - [[information ecology\|information ecology]]
 	- [[responses/lab/mapping\|mapping]]
-	- [[topics/alchemy/sensemaking\|sensemaking]]
+	- [[concepts/alchemy/sensemaking\|sensemaking]]
 - [[terms/metaverse\|metaverse]] / [[NFTs\|NFTs]] / [[social token experiments\|social token experiments]]

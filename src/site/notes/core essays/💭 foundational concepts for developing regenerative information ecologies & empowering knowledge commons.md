@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-10-31T20:24:29-03:00","last tended to":"2024-09-07T20:47:35-03:00","dg-publish":true,"aliases":["💭 foundational concepts for knowledge commons"],"permalink":"/core-essays/foundational-concepts-for-developing-regenerative-information-ecologies-and-empowering-knowledge-commons/","dgPassFrontmatter":true,"created":"2023-10-31T20:24:29.951-03:00","updated":"2024-09-08T17:51:28.521-03:00"}
+{"created in":"2023-10-31T20:24:29-03:00","last tended to":"2024-09-08T17:51:28-03:00","dg-publish":true,"aliases":["💭 foundational concepts for knowledge commons"],"created":"2023-10-31T20:24:29.951-03:00","updated":"2024-11-19T17:36:21.388-03:00","permalink":"/core-essays/foundational-concepts-for-developing-regenerative-information-ecologies-and-empowering-knowledge-commons/","dgPassFrontmatter":true}
 ---
 
 draft link: https://medium.com/@cassiuscarvalho/foundational-concepts-for-developing-regenerative-information-ecologies-empowering-knowledge-d427b1dc2cb3
@@ -28,7 +28,7 @@ if you’re interested in further simplifying this and/or transforming into visu
 
 > context:
 
-> i’ve been very involved with two online movements/communities ([[concepts/design/metacrisis\|metacrisis]] & [[topics/lab/knowledge management\|knowledge management]]) for about 5 and 9 years, respectively. this article is a compilation of the best concepts/resources i’ve gathered from them — and from outside of them, but that are relevant to what they’re about.
+> i’ve been very involved with two online movements/communities ([[concepts/design/metacrisis\|metacrisis]] & [[topics/lab/personal knowledge management\|personal knowledge management]]) for about 5 and 9 years, respectively. this article is a compilation of the best concepts/resources i’ve gathered from them — and from outside of them, but that are relevant to what they’re about.
 
 > whether you’re familiar with these communities/terms or not, my goal is to bring new, powerful perspectives as to how we can address some of the major crises we’re living through: the crises of imagination, meaning, agency and connection  —  which i argue are all sustained by downward spiraling feedback loops between our degraded information ecology, adversarial economic system, [unloving] coordination mechanisms and siloed data structures/knowledge management tools.
 
@@ -36,7 +36,7 @@ if you’re interested in further simplifying this and/or transforming into visu
 
 before i jumping into the main subjects of this article  —  [[information ecology\|information ecology]] and [[topics/architect;design/knowledge commons\|knowledge commons]]  —  i want to share with you a bit about my background, worldview and where i'm oriented towards, so you know some of my biases and where this research is coming from.
 
-hopefully this can support you to do your own [[topics/alchemy/sensemaking\|sensemaking]] on the subjects i'm sharing here.
+hopefully this can support you to do your own [[concepts/alchemy/sensemaking\|sensemaking]] on the subjects i'm sharing here.
 
 the missions i’m committed to working towards are:
 
@@ -316,7 +316,7 @@ as a concept/practice, i find that digital gardens are already very valuable and
 
 some of my suggestions are: [maggie appleton](https://maggieappleton.com/garden), [nikita voloboev](https://wiki.nikiv.dev/), [azlen elza](https://notes.azlen.me/g3tibyfv/), [alex komoroske](https://thecompendium.cards/c/half-baked/), [tom critchlow](https://tomcritchlow.com/wiki/), [gordon brander](https://gordonbrander.com/pattern/), [gwern](https://gwern.net/), [bianca aguilar](https://www.are.na/bianca-aguilar), [scaling synthesis](https://scalingsynthesis.com/).
 
-the [[topics/lab/knowledge management\|PKM]]/[[tools for thought 1\|TfT]] (tools for thought) communities have grown a lot with the evolution and adoption of [[tbprocessed/base notes/tools;products - general/notion\|notion]] into mainstream use (largely driven by productivity youtubers such as [[matt d’avela\|matt d’avela]], [[thomas frank\|thomas frank]], [[people/references/lab/ali abdaal\|ali abdaal]], through the launch of [[tbprocessed/base notes/ventures - general/roam research\|roam research]] in 2016 as the first modern hyperlinked/graph-based note-taking tool (giving rise to many other popular tools today such as [[tbprocessed/base notes/ventures - general/obsidian\|obsidian]], [[remnote\|remnote]], [[projects & tools/tools/lab/logseq\|logseq]] and [[tana\|tana]]) and the popularization of tiago forte’s [[patterns/active patterns/knowledge management/building a second brain\|BASB]] (building a second brain) methodology in the recent years.
+the [[topics/lab/personal knowledge management\|PKM]]/[[tools for thought 1\|TfT]] (tools for thought) communities have grown a lot with the evolution and adoption of [[tbprocessed/base notes/tools;products - general/notion\|notion]] into mainstream use (largely driven by productivity youtubers such as [[matt d’avela\|matt d’avela]], [[thomas frank\|thomas frank]], [[people/references/lab/ali abdaal\|ali abdaal]], through the launch of [[tbprocessed/base notes/ventures - general/roam research\|roam research]] in 2016 as the first modern hyperlinked/graph-based note-taking tool (giving rise to many other popular tools today such as [[tbprocessed/base notes/ventures - general/obsidian\|obsidian]], [[remnote\|remnote]], [[projects & tools/tools/lab/logseq\|logseq]] and [[tana\|tana]]) and the popularization of tiago forte’s [[patterns/active patterns/knowledge management/building a second brain\|BASB]] (building a second brain) methodology in the recent years.
 
 from my recent experience at an agroecological site, i noticed what’s missing on this digital movement, from an ecological/regenerative perspective is a deeper awareness of where all of this info-vegetation is planted, in relationship with what/whom.
 
@@ -336,7 +336,7 @@ but this is still an underdeveloped topic, with lots of potential for creation/i
 
 [[tools for self-transformation\|tools for self-transformation]]:
 
-[[tools for collective intelligence\|tools for collective intelligence]] / [[topics/alchemy/sensemaking\|sensemaking]]:
+[[tools for collective intelligence\|tools for collective intelligence]] / [[concepts/alchemy/sensemaking\|sensemaking]]:
 [[initiatives, orgs & communities/architect;design/goodly labs\|goodly labs]]' AI prototypes
 [[tbprocessed/base notes/ventures - general/SEEDS\|SEEDS]]' liquid democracy
 [[initiatives, orgs & communities/architect;design/meaning alignment institute\|meaning alignment institute]]

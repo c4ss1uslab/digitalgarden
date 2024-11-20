@@ -1,5 +1,5 @@
 ---
-{"aliases":["⚙ LMS","⚙ l1f3 management system","l1f3 manager","⚙ l1f3 manager","life management system","⚙ life management system","life manager","⚙ life manager","L1F3 management system","⚙ L1F3 management system"],"created in":"2021-12-11T16:52:05-03:00","last tended to":"2024-10-24T21:59:42-03:00","tags":["project","🌿","l1f3","alchemy","design","lab"],"dg-publish":true,"notestage":["🌿"],"permalink":"/004-l1-f3/l1f3-management-system/","dgPassFrontmatter":true,"created":"2021-12-11T16:52:05.970-03:00","updated":"2024-10-24T21:59:42.072-03:00"}
+{"aliases":["⚙ LMS","⚙ l1f3 management system","l1f3 manager","⚙ l1f3 manager","life management system","⚙ life management system","life manager","⚙ life manager","L1F3 management system","⚙ L1F3 management system"],"created in":"2021-12-11T16:52:05-03:00","last tended to":"2024-10-24T21:59:42-03:00","tags":["project","🌿","l1f3","alchemy","design","lab"],"dg-publish":true,"notestage":["🌿"],"created":"2021-12-11T16:52:05.970-03:00","updated":"2024-11-19T17:36:19.706-03:00","permalink":"/004-l1-f3/l1f3-management-system/","dgPassFrontmatter":true}
 ---
 
 main archetype: [[_002_toolkit/classes/architect\|🕶 architect]]
@@ -19,7 +19,7 @@ github - project categories:
 
 #### main components:
 
-[[perception\|perception]] ([[topics/lab/personal data management\|personal data management]]/[[topics/lab/information management\|information management]]) / [[topics/alchemy/sensemaking\|sensemaking]] ([[topics/lab/knowledge management\|knowledge management]] - [[_001_MOCs/050 🟩 mid game/040 🤹🏻‍♂️ areas MOC\|responsibilities]], [[_002_toolkit/x+ 🎭 roles LPS\|roles]], [[_001_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|challenges]], etc) / [[terms/decision-making\|decision-making]] ([[decision management\|decision management]]) / [[terms/action\|action]]/[[topics/player/learning\|learning]] ([[task management\|task management]] / [[time management\|time management]] / [[energy management\|energy management]] / [[tbprocessed/base notes/topics/learning management\|learning management]]) / [[feedback\|feedback]]/[[results\|results]] ([[wisdom management\|wisdom management]] / [[values management\|values management]] / [[_004_L1F3/core concepts/self-management\|self-management]])
+[[perception\|perception]] ([[topics/lab/personal data management\|personal data management]]/[[topics/lab/information management\|information management]]) / [[concepts/alchemy/sensemaking\|sensemaking]] ([[topics/lab/personal knowledge management\|personal knowledge management]] - [[_001_MOCs/050 🟩 mid game/040 🤹🏻‍♂️ areas MOC\|responsibilities]], [[_002_toolkit/x+ 🎭 roles LPS\|roles]], [[_001_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|challenges]], etc) / [[terms/decision-making\|decision-making]] ([[decision management\|decision management]]) / [[terms/action\|action]]/[[topics/player/learning\|learning]] ([[task management\|task management]] / [[time management\|time management]] / [[energy management\|energy management]] / [[tbprocessed/base notes/topics/learning management\|learning management]]) / [[feedback\|feedback]]/[[results\|results]] ([[wisdom management\|wisdom management]] / [[values management\|values management]] / [[_004_L1F3/core concepts/self-management\|self-management]])
 
 \+ different [[prototypes/made by me/l1f3 management system views\|views]]
 
@@ -49,7 +49,7 @@ categories of personal systems:
 #### [[systems management\|systems management]]
 - [[topics/lab/personal data management\|personal data management]]
 - [[topics/lab/information management\|information management]]
-- [[topics/lab/knowledge management\|knowledge management]]
+- [[topics/lab/personal knowledge management\|personal knowledge management]]
 - [[wisdom management\|wisdom management]]
 
 ++
@@ -122,7 +122,7 @@ can create certain file types:
 
 ##### mvp:
 
- - [ ] part 1: [[_004_L1F3/l1f3 management methodology\|l1f3 management methodology]] visualization
+ - [ ] part 1: [[_004_L1F3/l1f3 management ontology\|l1f3 management ontology]] visualization
 	-> MOCs
 		- [[_002_toolkit/meta-map\|🗺 meta-map]]
 		- 50.000 ft - essence

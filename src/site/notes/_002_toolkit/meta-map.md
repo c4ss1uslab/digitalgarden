@@ -1,5 +1,5 @@
 ---
-{"aliases":["🗺 meta-map","wordcloud","🗾 meta-map"],"created in":"2022-01-03T19:16:10-03:00","last tended to":"2024-09-29T14:42:57-03:00","tags":["design","🌿","research","knowledgedesign","informationdesign","experiment"],"dg-publish":true,"notestage":["🌿"],"permalink":"/002-toolkit/meta-map/","dgPassFrontmatter":true,"created":"2022-01-03T19:16:10.550-03:00","updated":"2024-09-29T14:42:58.804-03:00"}
+{"aliases":["🗺 meta-map","wordcloud","🗾 meta-map"],"created in":"2022-01-03T19:16:10-03:00","last tended to":"2024-09-29T14:42:57-03:00","tags":["design","🌿","research","knowledgedesign","informationdesign","experiment"],"dg-publish":true,"notestage":["🌿"],"created":"2022-01-03T19:16:10.550-03:00","updated":"2024-11-19T17:36:18.552-03:00","permalink":"/002-toolkit/meta-map/","dgPassFrontmatter":true}
 ---
 
 an extensive list / experimental form of intuitive clustering of all major themes/domains and references i'm working with.
@@ -78,7 +78,7 @@ multidimensional resources management
 
 [[responses/lab/mapping\|mapping]]
 
-[[topics/alchemy/sensemaking\|sensemaking]]
+[[concepts/alchemy/sensemaking\|sensemaking]]
 
 [[augmenting your OODA loop\|augmenting your OODA loop]]
 
@@ -246,7 +246,7 @@ multidimensional resources management
 
 [[business operations\|business operations]]
 
-[[topics/lab/knowledge management\|knowledge management]]
+[[topics/lab/personal knowledge management\|personal knowledge management]]
 
 [[people/references/lab/shu omi\|shu omi]]
 [[idea storage\|idea storage]]
@@ -289,7 +289,7 @@ multidimensional resources management
 
 [[concepts/lab/seedling\|seedling]]
 [[concepts/lab/budding\|budding]]
-[[concepts/lab/evergreen\|evergreen]]
+[[patterns/active patterns/knowledge management/evergreen notes\|evergreen notes]]
 
 [[knowledge workers\|knowledge workers]]
 [[information economy\|information economy]]
@@ -399,7 +399,7 @@ multidimensional resources management
 [[relevanters\|relevanters]]
 [[interesting people\|interesting people]]
 
-[[topics/alchemy/sensemaking\|sensemaking]]
+[[concepts/alchemy/sensemaking\|sensemaking]]
 [[mental sovereignty\|mental sovereignty]]
 [[intentional digital navigation\|intentional digital navigation]]
 
@@ -468,7 +468,7 @@ multidimensional resources management
 [[initiatives, orgs & communities/alchemy/possibility management\|possibility management]]
 [[BASB\|BASB]]
 [[LYT\|LYT]]
-[[models & frameworks/lab/PPV\|PPV]]
+[[models & frameworks/lab/pillars, pipelines & vaults\|pillars, pipelines & vaults]]
 
 [[life maps\|life maps]]
 [[reality maps\|reality maps]]
@@ -612,7 +612,7 @@ multidimensional resources management
 [[prototypes/made by me/resources management system\|resources management system]]
 
 [[sensing\|sensing]]
-[[topics/alchemy/sensemaking\|sensemaking]]
+[[concepts/alchemy/sensemaking\|sensemaking]]
 [[terms/decision-making\|decision-making]]
 [[terms/action\|action]]
 [[results\|results]]

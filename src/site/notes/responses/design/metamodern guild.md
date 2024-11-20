@@ -6,7 +6,7 @@ what i'd like to create with [[tbprocessed/base notes/ventures - proprietary/rea
 
 ![](https://i.imgur.com/j0kkgYN.png)
 
-a metamodern guild would be one of the initial [[NAOs\|NAOs]], empowering us to better [[topics/alchemy/sensemaking\|make sense of reality]] [[topics/architect;design/coordination systems\|coordinate]] and [[terms/collaboration\|collaborate]] towards desirable futures.
+a metamodern guild would be one of the initial [[NAOs\|NAOs]], empowering us to better [[concepts/alchemy/sensemaking\|make sense of reality]] [[topics/architect;design/coordination systems\|coordinate]] and [[terms/collaboration\|collaborate]] towards desirable futures.
 
 #### other relevant references:
 

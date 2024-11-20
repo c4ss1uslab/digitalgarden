@@ -14,7 +14,7 @@ AQAL is one of the core frameworks proposed by [[people/references/alchemy/ken w
 
 it is short for: all [[models & frameworks/design/four quadrants\|quadrants]], all [[levels\|levels]], all [[lines\|lines]], all [[states\|states]], all [[types\|types]].
 
-it's one of the frames that helped me the most and reoriented my whole perception on life, so i highly recommend getting to know it. lots of people in the [[tbprocessed/base notes/concepts - general/game b\|game b]] / [[concepts/design/metacrisis\|metacrisis]] space also use it as a way to support complex, multi-perspectival, holistic [[topics/alchemy/sensemaking\|sensemaking]]. 
+it's one of the frames that helped me the most and reoriented my whole perception on life, so i highly recommend getting to know it. lots of people in the [[tbprocessed/base notes/concepts - general/game b\|game b]] / [[concepts/design/metacrisis\|metacrisis]] space also use it as a way to support complex, multi-perspectival, holistic [[concepts/alchemy/sensemaking\|sensemaking]]. 
 the shortest introduction to the subject i know/like is [[initiatives, orgs & communities/alchemy/integral life\|integral life]]'s ["what is the integral approach?"](https://integrallife.com/what-is-integral-approach/). 
 the full [[models & frameworks/alchemy/AQAL map\|AQAL map]]:
 

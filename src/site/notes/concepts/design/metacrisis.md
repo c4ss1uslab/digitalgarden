@@ -1,12 +1,32 @@
 ---
-{"created in":"2023-10-31T15:56:54-03:00","last tended to":"2024-09-24T15:41:42-03:00","dg-publish":true,"aliases":["personal and civilizational crises","systemic crises"],"tags":["concept","metacrisis"],"relevancescore":98,"notestage":["🌿"],"permalink":"/concepts/design/metacrisis/","dgPassFrontmatter":true,"created":"2023-10-31T15:56:54.956-03:00","updated":"2024-10-11T18:02:38.006-03:00"}
+{"created in":"2023-10-31T15:56:54-03:00","last tended to":"2024-11-06T18:52:18-03:00","dg-publish":true,"aliases":["personal and civilizational crises","systemic crises"],"tags":["concept","metacrisis"],"relevancescore":98,"notestage":["🌿"],"created":"2023-10-31T15:56:54.956-03:00","updated":"2024-11-19T18:37:50.878-03:00","permalink":"/concepts/design/metacrisis/","dgPassFrontmatter":true}
 ---
 
-the metacrisis is a lens for analyzing/understanding the *human predicament* and the complexity of our current moment in the history of civilizations.
+the "metacrisis" view points towards the perception that the set of interconnected - social, climatic, mental health, political crises of our time share a same root cause - same underlying [[diagnosis/generator functions of existential risk\|generator functions]].
 
-*definition i use:* the metacrisis is the set of interconnected, interdependent crises of our time, that seem to be leading us towards any or a mixture of these: a) impending [[topics/architect;design/civilizational collapse\|systemic collapse]] as we approach planetary boundaries, b) authoritarian modes of damage control or c) transition into more [[topics/architect;design/regeneration\|regenerative]], mature, antifragile civilizations and [[_004_L1F3/core concepts/lifestyles\|lifestyles]].
+it's a particular description of the *human predicament* that can help us better analyze/navigate the complexity of the times we're living and understand the [uniquely challenging state of the world]()* (to add first principles stuff) in this particular moment in the history of human civilizations.
 
-###### main references
+many philosophers, cognitive scientists, spiritual teachers, have been convening around this term to make sense of the situation we've found ourselves in.
+
+one of the best introductions i found is this 11-minute video by [[ashley hodgson\|ashley hodgson]]: [What is the Metacrisis? Why is it Hopeful?](https://www.youtube.com/watch?v=kgCHqyq4LHA). i highly recommend you watch it.
+
+[[references/alchemy/first principles and first values\|first principles and first values - forty-two propositions on cosmoerotic humanism, the meta-crisis and the world to come]] - the authors propose that at the root of the metacrisis, there's an [[diagnosis/intimacy crisis\|intimacy crisis]]. a crisis of disconnection. of ourselves, of the other, of the planet - and primarily, of the [[field of value\|field of value]] (which is different but very close to what's often times referred to as "the [[sacred\|sacred]]" or "the [[true\|true]], the [[good\|good]] and the [[beautiful\|beautiful]]" by other [[topics/alchemy/spiritual lineages\|wisdom traditions]]).
+
+[[people/references/architect;design/andrea faria\|andrea faria]] evidences the systems dynamics
+
+[[liberatemankind\|liberatemankind]]'s series explores
+
+[[concepts/design/flow crisis\|flow crisis]], [[education crisis\|education crisis]], (...)
+
+*definition i use:* the metacrisis is, that seem to be leading us towards any or a mixture of these: a) impending [[topics/architect;design/systemic collapse\|systemic collapse]] as we approach planetary boundaries, b) authoritarian modes of damage control or c) transition into more [[topics/architect;design/regeneration\|regenerative]], mature, resilient [[topics/architect;design/systems\|systems]], [[_004_L1F3/core concepts/civilization design\|civilizations]] and [[_004_L1F3/core concepts/lifestyles\|lifestyles]].
+
+#### main references
+
+##### why learn about it
+
+the concept of the metacrisis and the analyses of several people in the space help elucidate the underlying dynamics of our current dominant [[diagnosis/generator functions of existential risk\|generator functions of existential risk]]
+
+if we say we care about . we might not do anything in particular to address that, but broadening our [[horizon of care\|horizon of care]] is a practice that many wisdom traditions
 
 i strongly recommend checking out [this playlist](https://www.youtube.com/playlist?list=PLj8H7uBaUwDvd18QrEPugPMD5Z6Y0W-vB) that i curated (30h of content).
 
