@@ -16,8 +16,8 @@ i'm attempting to implement these patterns to both my [[_000_digital garden/c4ss
 
 frontmatter:
 [[patterns/active patterns/knowledge design/relevance score\|relevance score]]
-[[familiarity degree\|familiarity degree]]
-[[familiarity context\|familiarity context]]
+[[patterns/active patterns/knowledge design/familiarity degree\|familiarity degree]]
+[[patterns/active patterns/knowledge design/familiarity context\|familiarity context]]
 [[recommendation level\|recommendation level]]
 [[recommendation context\|recommendation context]]
 [[tags\|tags]]

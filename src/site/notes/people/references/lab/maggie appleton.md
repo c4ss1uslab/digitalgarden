@@ -18,8 +18,8 @@ i'm working on compiling my highlights/notes from all of her articles. it'll be 
 #### my notes/highlights:
 
 essays:
-[[Making Programming Visual, Spatial, and Learnable\|Making Programming Visual, Spatial, and Learnable]]
-[[How to Draw Invisible Programming Concepts\|How to Draw Invisible Programming Concepts]]
+[[_009_notes & highlights from books, videos, articles/Making Programming Visual, Spatial, and Learnable\|Making Programming Visual, Spatial, and Learnable]]
+[[_009_notes & highlights from books, videos, articles/How to Draw Invisible Programming Concepts\|How to Draw Invisible Programming Concepts]]
 
 patterns:
 [[Programming Portals\|Programming Portals]]

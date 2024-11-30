@@ -1,12 +1,13 @@
 ---
-{"created in":"2024-04-01T18:55:58-03:00","last tended to":"2024-10-06T02:50:36-03:00","aliases":["personal tech stacks"],"tags":["concept","design","lab","alchemy","art","player","🌿","tier1"],"notestage":["🌿"],"dg-publish":true,"relevancescore":92,"created":"2024-04-01T18:55:58.519-03:00","updated":"2024-11-08T21:05:01.421-03:00","permalink":"/concepts/design/personal-tech-stack/","dgPassFrontmatter":true}
+{"created in":"2024-04-01T18:55:58-03:00","last tended to":"2024-10-06T02:50:36-03:00","aliases":["personal tech stacks"],"tags":["concept","design","lab","alchemy","art","player","🌿","tier1"],"notestage":["🌿"],"dg-publish":true,"relevancescore":92,"created":"2024-04-01T18:55:58.519-03:00","updated":"2024-11-22T19:15:19.853-03:00","permalink":"/concepts/design/personal-tech-stack/","dgPassFrontmatter":true}
 ---
 
-see also: [[_004_L1F3/core concepts/life design\|life design]], [[experiments/made by me/design/minimum viable intentional personal systems setup\|minimum viable intentional personal systems setup]]
+see also: [[_004_L1F3/core concepts/life design\|life design]], my attempt at a [[experiments/made by me/lab/minimum viable intentional personal tech stack;setup\|minimum viable intentional personal tech stack;setup]].
 
 ---
+#### about
 
-when i talk about personal tech stacks, i'm referring to the aggregate of all hardware and software you use. in an ideal world, we would always have [[local-first\|local-first]], [[agent-centric\|agent-centric]], [[humane\|humane]] [[topics/lab/free open-source software\|free open-source software]] and [[open hardware\|open hardware]], but that's not always feasible.
+when i talk about personal tech stacks, i'm referring to the aggregate of all hardware and software you use. in an ideal world, we would always have [[local-first\|local-first]], [[agent-centric\|agent-centric]], [[humane\|humane]] [[topics/lab/free open-source software\|free open-source software]] and [[open hardware\|open hardware]], but within our societal context, that's not always feasible.
 
 so a powerful outcome of taking a critical look at every piece of technology we use/create is having tremendous clarity on what trade-offs we're choosing to make as an effect our relationship with that tech.
 
@@ -14,7 +15,7 @@ so, before looking at exactly what a "personal tech stack" might look like, let'
 
 #### 2 approaches to tech stack design
 
-1) create on top of the new, emergent decentralized/distributed architecture ([[topics/architect;design/web3\|web3]]/[[projects & tools/tools/design/IPFS\|IPFS]]/[[initiatives, orgs & communities/lab/holochain\|holochain]]/[[prototypes/made by others/synapsis\|synapsis]] promise), knowing that it's going to take a lot more work and some features won't be available, and/or
+1) create on top of the new, emergent decentralized/distributed architecture ([[topics/architect;design/web3\|web3]]/[[projects & tools/tools/design/IPFS\|IPFS]]/[[initiatives, orgs & communities/lab/holochain\|holochain]]/[[prototypes & designs/made by others/synapsis\|synapsis]] promise), knowing that it's going to take a lot more work and some features won't be available, and/or
 2) find ways to minimize the negative effects and adapt the existing systems/tools to be more intentional/humane/regenerative.
 
 while we don't have the best of both worlds, we still have unmet functions - a goal of my curation is to bring clarity to that, to establish knowledge/resource commons and coordinate efforts.

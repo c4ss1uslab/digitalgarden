@@ -4,7 +4,7 @@
 
 #### about
 
-the idea for this experiment is for this "player card" to work like a "[[player profile\|player profile]]" in a game, or an interactive "business card" - it's an introduction to yourself. it also aims to be a hybrid (phygital) piece of content, that could be presented with a [[prototypes/made by me/on hold/minimum viable extended self device\|minimum viable extended self device]].
+the idea for this experiment is for this "player card" to work like a "[[player profile\|player profile]]" in a game, or an interactive "business card" - it's an introduction to yourself. it also aims to be a hybrid (phygital) piece of content, that could be presented with a [[prototypes & designs/made by me/on hold/minimum viable extended self device\|minimum viable extended self device]].
 
 current options are usually: a [[projects & tools/made by me/personal/personal website\|personal website]]/[[patterns/active patterns/knowledge design/digital gardening\|digital garden]] (which often requires a lot of thought/setup/maintenance), a "[[link in bio\|link in bio]]" tool/links aggregator ([[linktree\|linktree]]/[[biosites\|biosites]]) or tools that allow you to create and publish standalone pages, such as [[tbprocessed/base notes/tools;products - general/notion\|notion]], [[mmm.pages\|mmm.pages]]. (note i use all 3)
 
@@ -20,7 +20,7 @@ traditional [[knowledge-building\|knowledge-building]] tools such as [[wikis\|wi
 
 this is part of a series of [[_001_MOCs/050 🟩 mid game/090 🧪 experiments MOC\|experiments]] aiming to explore interfaces that blend [[usefulness\|usefulness]] and [[shareability\|shareability]] - as part of the [[_004_L1F3/core concepts/life streaming\|life streaming]] project.
 
-below is just a mockup (v0, unreleased). the v1 ([[proof of concept\|proof of concept]]) could be hosted on something like [[figma prototypes\|figma prototypes]], [[github pages\|github pages]] or [[vercel\|vercel]]. v2 ideally on something compatible with [[low-tech\|low-tech]] devices ([[prototypes/made by me/on hold/minimum viable extended self device\|minimum viable XS device]]) and [[local-first\|local-first]]/[[p2p\|p2p]] infrastructure.
+below is just a mockup (v0, unreleased). the v1 ([[proof of concept\|proof of concept]]) could be hosted on something like [[figma prototypes\|figma prototypes]], [[github pages\|github pages]] or [[vercel\|vercel]]. v2 ideally on something compatible with [[low-tech\|low-tech]] devices ([[prototypes & designs/made by me/on hold/minimum viable extended self device\|minimum viable XS device]]) and [[local-first\|local-first]]/[[p2p\|p2p]] infrastructure.
 
 ![c4ss1us' player card (example).png|1000](/img/user/assets/c4ss1us'%20player%20card%20(example).png)
 

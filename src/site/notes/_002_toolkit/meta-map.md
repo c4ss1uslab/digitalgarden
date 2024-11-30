@@ -6,7 +6,7 @@ an extensive list / experimental form of intuitive clustering of all major theme
 
 ideally, the overarching method for visualizing / navigating my brain and the domains i'm operating in.
 
-alternative/visual version: [[_008_illustrations & designs/meta-map.excalidraw\|meta-map.excalidraw]]
+alternative/visual version: [[_007_illustrations & sketches/meta-map.excalidraw\|meta-map.excalidraw]]
 
 ```ad-info
 title: change log
@@ -281,7 +281,7 @@ multidimensional resources management
 [[social graph\|social graph]]
 
 [[areas/content creation\|content creation]]
-[[prototypes/made by me/content creation system;workflow\|content creation system;workflow]]
+[[prototypes & designs/made by me/content creation system;workflow\|content creation system;workflow]]
 
 [[_004_L1F3/l1f3 streaming system\|l1f3 streaming system]]
 
@@ -424,7 +424,7 @@ multidimensional resources management
 [[terms/blockchain\|blockchain]]
 [[initiatives, orgs & communities/lab/holochain\|holochain]]
 
-[[prototypes/made by others/synapsis\|synapsis]]
+[[prototypes & designs/made by others/synapsis\|synapsis]]
 
 [[business intelligence]]
 [[research institutes]]
@@ -604,12 +604,12 @@ multidimensional resources management
 
 [[_004_L1F3/l1f3 management system\|l1f3 management system]]
 
-[[prototypes/made by me/knowledge management system\|knowledge management system]]
-[[prototypes/made by me/decision management system\|decision management system]]
-[[prototypes/made by me/action management system\|action management system]]
-[[prototypes/made by me/learning management system\|learning management system]]
+[[prototypes & designs/made by me/knowledge management system\|knowledge management system]]
+[[prototypes & designs/made by me/decision management system\|decision management system]]
+[[prototypes & designs/made by me/action management system\|action management system]]
+[[prototypes & designs/made by me/learning management system\|learning management system]]
 
-[[prototypes/made by me/resources management system\|resources management system]]
+[[prototypes & designs/made by me/resources management system\|resources management system]]
 
 [[sensing\|sensing]]
 [[concepts/alchemy/sensemaking\|sensemaking]]

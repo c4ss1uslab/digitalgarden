@@ -1,5 +1,5 @@
 ---
-{"aliases":["LMM - life management methodology","life management methodology (LMM)","life management methodology","L1F3 management framework","l1f3 management framework","L1F3 management methodology","L1F3 ontology","🕸 L1F3 management framework","🕸 L1F3 management methodology","🕸 l1f3 management framework","🕸 l1f3 management methodology","L1F3 management ontology"],"created in":"2022-04-11T16:33:28-03:00","last tended to":"2024-11-06T20:01:26-03:00","dg-publish":true,"tags":["project","🌿","l1f3","alchemy","design","lifemanagement","lifedesign","methodology","framework"],"notestage":["🌿"],"created":"2022-04-11T16:33:28.838-03:00","updated":"2024-11-19T17:36:19.067-03:00","relevancescore":96,"permalink":"/004-l1-f3/l1f3-management-ontology/","dgPassFrontmatter":true}
+{"aliases":["LMM - life management methodology","life management methodology (LMM)","life management methodology","L1F3 management framework","l1f3 management framework","L1F3 management methodology","L1F3 ontology","🕸 L1F3 management framework","🕸 L1F3 management methodology","🕸 l1f3 management framework","🕸 l1f3 management methodology","L1F3 management ontology"],"created in":"2022-04-11T16:33:28-03:00","last tended to":"2024-11-06T20:01:26-03:00","dg-publish":true,"tags":["project","🌿","l1f3","alchemy","design","lifemanagement","lifedesign","methodology","framework"],"notestage":["🌿"],"created":"2022-04-11T16:33:28.838-03:00","updated":"2024-11-22T17:27:44.471-03:00","relevancescore":97,"permalink":"/004-l1-f3/l1f3-management-ontology/","dgPassFrontmatter":true}
 ---
 
 #### about
@@ -89,8 +89,8 @@ a set of [[concepts/lab/maps of content\|maps of content]], structured under the
 
 🔴🟠🟡 [[concepts/alchemy/short game\|short game]]:
 - [[_001_MOCs/050 🟩 mid game/090 🧪 experiments MOC\|090 🧪 experiments MOC]]
-- [[_001_MOCs/075 🔴🟠🟡 short game/095 📕 learning MOC\|095 📕 learning MOC]]
-- [[_001_MOCs/075 🔴🟠🟡 short game/100 💪🏻 activities MOC\|100 💪🏻 activities MOC]]
+- [[_001_MOCs/075 🔴🟠🟡 short game/098 📕 learning MOC\|098 📕 learning MOC]]
+- [[_001_MOCs/075 🔴🟠🟡 short game/100 💪🏻 actions MOC\|100 💪🏻 actions MOC]]
 
 inspired by the [[models & frameworks/design/OODA loop\|OODA loop]], i also created a few spaces to visualize/understand/improve meta-cognitive processes:
 - [[sensing hub\|sensing hub]]

@@ -9,4 +9,4 @@ see: [[_010_notes from courses, events & chats/technological metamodernism\|tech
 3) [[david j. temple\|david j. temple]]'s [[references/alchemy/first principles and first values\|first principles and first values]]
 4) [[initiatives, orgs & communities/architect;design/the consilience project\|consilience project]]'s [[axiological design\|axiological design]]
 
-also very important to contrast with: [[needs\|needs]]
+also very important to contrast with: [[concepts/alchemy/needs\|needs]]

@@ -31,7 +31,7 @@ here are a few approaches that aim to address that:
 
 - [[cooperatives\|cooperatives]], [[social enterprises\|social enterprises]], [[non-profits\|non-profits]] -> [[terms/DAOs\|DAOs]], [[DAC\|DAC]]s, [[DHOs\|DHOs]], [[DDOs\|DDOs]], [[DisCOs\|DisCOs]]
 - [[alternative currencies\|alternative currencies]]: [[community currency\|community currency]], [[social currency\|social currency]], (...)
-- resources allocation ([[prototypes/made by others/potluck\|offers/needs]], time/energy)
+- resources allocation ([[prototypes & designs/made by others/potluck\|offers/needs]], time/energy)
 - alternative mechanisms proposed by [[ecosocial consultancies\|ecosocial consultancies]] ([[gift economy\|gift economy]], [[sliding scales\|sliding scales]], etc) and tested in communities like [[tamera\|tamera]], [[findhorn\|findhorn]], [[auroville\|auroville]], [[piracanga\|piracanga]], etc...
 
 #### funding the transition

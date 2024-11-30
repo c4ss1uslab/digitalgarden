@@ -15,7 +15,7 @@ legend:
 ##### 🗺 [[topics/lab/information design\|information design]]
 
 [Information Design: Storytelling with Data in Illustrator - Valentina D'Efilippo](https://www.domestika.org/en/courses/3601-information-design-storytelling-with-data-in-illustrator/course)
-[[Data Visualization and Information Design, Create a Visual Model - Federica Fragapane\|Data Visualization and Information Design, Create a Visual Model - Federica Fragapane]]
+[[_010_notes from courses, events & chats/Data Visualization and Information Design, Create a Visual Model - Federica Fragapane\|Data Visualization and Information Design, Create a Visual Model - Federica Fragapane]]
 [Fundamentals of Data Visualization - Gemma Busquets](https://www.domestika.org/en/courses/4572-fundamentals-of-data-visualization/course) 
 > 🎁 [Designing with Numbers: from Data Scraping to DataViz - Luiz Ludwig](https://www.domestika.org/en/courses/4193-designing-with-numbers-from-data-scraping-to-dataviz)
 > 💭 [Data Visualization with Alternative Mediums - Olivia Johnson](https://www.domestika.org/en/courses/2573-data-visualization-with-alternative-mediums)

@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-03-19T17:32:30-03:00","last tended to":"2024-09-24T16:22:52-03:00","aliases":["frameworks","framework"],"tags":["design","concept","🌱"],"dg-publish":true,"notestage":["🌱"],"created":"2024-03-19T17:32:30.978-03:00","updated":"2024-11-19T17:07:58.319-03:00","permalink":"/concepts/design/coordination-frameworks/","dgPassFrontmatter":true}
+{"created in":"2024-03-19T17:32:30-03:00","last tended to":"2024-09-24T16:22:52-03:00","aliases":["frameworks","framework"],"tags":["design","concept","🌱"],"dg-publish":true,"notestage":["🌱"],"created":"2024-03-19T17:32:30.978-03:00","updated":"2024-11-20T15:06:56.089-03:00","permalink":"/concepts/design/coordination-frameworks/","dgPassFrontmatter":true}
 ---
 
 #### coordination
@@ -8,7 +8,7 @@
 
 #### common sensemaking frameworks:
 
-[[models & frameworks/design/cultural materialism\|cultural materialism]] / [holistic cultural materialism]([Cultural Materialism](https://diome.xyz/2+%F0%9F%8C%BF+Leaves/Cultural+Materialism))
+[[models & frameworks/design/holistic cultural materialism\|holistic cultural materialism]] / [holistic cultural materialism]([Cultural Materialism](https://diome.xyz/2+%F0%9F%8C%BF+Leaves/Cultural+Materialism))
 [[models & frameworks/design/MEI model\|MEI model]]
 [[diagnosis/generator functions of existential risk\|generator functions of existential risk]]
 [[diagnosis/accumulation, extraction, abstraction\|accumulation, extraction, abstraction]]

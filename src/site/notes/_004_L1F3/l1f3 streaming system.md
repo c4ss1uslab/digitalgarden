@@ -21,10 +21,10 @@ source: [[people/friends/ísis schuarts\|ísis schuarts]]
 
 ##### projects:
 
-###### [[prototypes/made by me/omnichannel curation feed\|omnichannel curation feed]]
+###### [[prototypes & designs/made by me/omnichannel curation feed\|omnichannel curation feed]]
 
-###### [[prototypes/made by me/content creation system;workflow\|content creation system;workflow]]
+###### [[prototypes & designs/made by me/content creation system;workflow\|content creation system;workflow]]
 
-###### [[prototypes/made by me/resources management system\|resources management system]]
+###### [[prototypes & designs/made by me/resources management system\|resources management system]]
 
 mvp: [[experiments/made by me/player/c4ss1us.l1f3\|experiments/made by me/player/c4ss1us.l1f3]]

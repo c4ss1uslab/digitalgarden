@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-05-29T14:27:52-03:00","last tended to":"2024-09-26T15:53:13-03:00","tags":["interfacedesign","experiencedesign","lab","person","tier1","visuallearning","spatialsoftware","interactiondesign","🌿"],"dg-publish":true,"relevancescore":92,"notestage":["🌿"],"created":"2024-05-29T14:27:52.255-03:00","updated":"2024-11-08T20:15:50.533-03:00","permalink":"/people/references/lab/bret-victor/","dgPassFrontmatter":true}
+{"created in":"2024-05-29T14:27:52-03:00","last tended to":"2024-09-26T15:53:13-03:00","tags":["interfacedesign","experiencedesign","lab","person","tier1","visuallearning","spatialsoftware","interactiondesign","🌿"],"dg-publish":true,"relevancescore":94,"notestage":["🌿"],"created":"2024-05-29T14:27:52.255-03:00","updated":"2024-11-29T21:44:26.344-03:00","permalink":"/people/references/lab/bret-victor/","dgPassFrontmatter":true}
 ---
 
 https://worrydream.com/
@@ -8,13 +8,15 @@ https://worrydream.com/
 
 bret is a visionary and researcher on the [[topics/lab/the future of computing\|the future of computing]], [[topics/lab/spatial computing\|spatial computing]], [[concepts/design/extended cognition\|extended cognition]] and more. he's the founder of [[projects & tools/tools/lab/dynamicland\|dynamicland]].
 
-his main thesis reflects a frustration i held for a long time, but wasn't able to articulate well: we invented the [[dynamic medium\|dynamic medium]] (you could interpret it as "[[computers\|computers]]" or "[[topics/lab/computing\|computing]] as a whole", but see the references below for way more detail) and we still don't use it to 10% of its potential. we don't explore the dimensions of dynamic systems it opens up. we use it ever so often to translate busywork from previously a desk into a "desktop".
+his main thesis reflects a frustration i held for a long time, but wasn't able to articulate well: we invented the [[dynamic medium\|dynamic medium]] (you could interpret it as "[[computers\|computers]]" or "[[topics/lab/computing\|computing]]" as a whole, but see the references below for way more detail) and we still don't use it to 10% of its potential. we don't explore the dimensions of dynamic [[topics/lab/systems modeling\|systems modeling]] it opens up. we use it ever so often to keep going with "business as usual", but more "productive". or put another way, we're often translating busywork from previously a desk into a "desktop".
+
+a major part of the early vision of computer innovators, or more broadly - of [[topics/architect;design/tools for thought\|tools for thought]] researchers - was to [[people/references/lab/douglas engelbart\|augment human intellect]]. yet today, our relationship with this kind of technology has become often adversarial and exploitative. this has led bret to question and lead very interesting research on: *what is a "humane" dynamic medium? how might we build that?*
 
 #### references:
 
 ##### must-watches:
 
-1) [the humane representation of thought](https://vimeo.com/115154289) + [notes (very good diagram)](https://worrydream.com/TheHumaneRepresentationOfThought/note.html)
+1) [the humane representation of thought](https://dynamicland.org/2014/The_Humane_Representation_of_Thought/) + [notes (very good diagram)](https://worrydream.com/TheHumaneRepresentationOfThought/note.html)
 
 in it, he presents very simply and clearly his [[theory of change\|theory of change]]:
 
@@ -78,6 +80,9 @@ especially important considering his shift from focusing on our standard [[2d in
 ###### 4) [[concepts/lab/learnable programming\|learnable programming]]
 
 a new perspective on what programming should actually be/feel/look like. simply stated - humane, interpretable, intuitive. a practical vision (with examples/prototypes) that deeply resonates.
+
+
+and lots more...
 
 ---
 

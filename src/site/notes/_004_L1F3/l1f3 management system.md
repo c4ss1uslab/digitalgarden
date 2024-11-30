@@ -1,8 +1,6 @@
 ---
-{"aliases":["⚙ LMS","⚙ l1f3 management system","l1f3 manager","⚙ l1f3 manager","life management system","⚙ life management system","life manager","⚙ life manager","L1F3 management system","⚙ L1F3 management system"],"created in":"2021-12-11T16:52:05-03:00","last tended to":"2024-10-24T21:59:42-03:00","tags":["project","🌿","l1f3","alchemy","design","lab"],"dg-publish":true,"notestage":["🌿"],"created":"2021-12-11T16:52:05.970-03:00","updated":"2024-11-19T17:36:19.706-03:00","permalink":"/004-l1-f3/l1f3-management-system/","dgPassFrontmatter":true}
+{"aliases":["⚙ LMS","⚙ l1f3 management system","l1f3 manager","⚙ l1f3 manager","life management system","⚙ life management system","life manager","⚙ life manager","L1F3 management system","⚙ L1F3 management system"],"created in":"2021-12-11T16:52:05-03:00","last tended to":"2024-10-24T21:59:42-03:00","tags":["project","🌿","l1f3","alchemy","design","lab"],"dg-publish":true,"notestage":["🌿"],"created":"2021-12-11T16:52:05.970-03:00","updated":"2024-11-22T17:27:45.016-03:00","permalink":"/004-l1-f3/l1f3-management-system/","dgPassFrontmatter":true}
 ---
-
-main archetype: [[_002_toolkit/classes/architect\|🕶 architect]]
 
 #### description
 
@@ -17,11 +15,18 @@ github - project categories:
 [[relative importance\|relative importance]] / [[relevance\|relevance]] / [[weight\|weight]] (recurrence/feedback loops)
 [[feeling\|feeling]] (that drove me to it)
 
+---
+#### key references/tools:
+
+[[projects & tools/tools/lab/chronicle app\|chronicle app]]
+[[projects & tools/tools/lab/human programming interface\|human programming interface]]
+
+
 #### main components:
 
 [[perception\|perception]] ([[topics/lab/personal data management\|personal data management]]/[[topics/lab/information management\|information management]]) / [[concepts/alchemy/sensemaking\|sensemaking]] ([[topics/lab/personal knowledge management\|personal knowledge management]] - [[_001_MOCs/050 🟩 mid game/040 🤹🏻‍♂️ areas MOC\|responsibilities]], [[_002_toolkit/x+ 🎭 roles LPS\|roles]], [[_001_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|challenges]], etc) / [[terms/decision-making\|decision-making]] ([[decision management\|decision management]]) / [[terms/action\|action]]/[[topics/player/learning\|learning]] ([[task management\|task management]] / [[time management\|time management]] / [[energy management\|energy management]] / [[tbprocessed/base notes/topics/learning management\|learning management]]) / [[feedback\|feedback]]/[[results\|results]] ([[wisdom management\|wisdom management]] / [[values management\|values management]] / [[_004_L1F3/core concepts/self-management\|self-management]])
 
-\+ different [[prototypes/made by me/l1f3 management system views\|views]]
+\+ different [[prototypes & designs/made by me/l1f3 management system views\|views]]
 
 #### systems overview
 
@@ -40,11 +45,11 @@ categories of personal systems:
 - [tracking]
 
 #### [[_004_L1F3/core concepts/life management\|life management]] systems breakdown:
-- [[prototypes/made by me/resources management system\|🌫 resources management system]]
-- [[prototypes/made by me/knowledge management system\|🧠 knowledge management system]]
-- [[prototypes/made by me/decision management system\|♟ decision management system]]
-- [[prototypes/made by me/action management system\|⚔ action management system]]
-- [[prototypes/made by me/learning management system\|📚 learning management system]]
+- [[prototypes & designs/made by me/resources management system\|🌫 resources management system]]
+- [[prototypes & designs/made by me/knowledge management system\|🧠 knowledge management system]]
+- [[prototypes & designs/made by me/decision management system\|♟ decision management system]]
+- [[prototypes & designs/made by me/action management system\|⚔ action management system]]
+- [[prototypes & designs/made by me/learning management system\|📚 learning management system]]
 
 #### [[systems management\|systems management]]
 - [[topics/lab/personal data management\|personal data management]]
@@ -54,14 +59,14 @@ categories of personal systems:
 
 ++
 ###### sub-projects:
-- [[prototypes/made by me/knowledge management interfaces\|knowledge management interfaces]]
-- [[prototypes/made by me/learning management interfaces\|learning management interfaces]]
+- [[prototypes & designs/made by me/knowledge management interfaces\|knowledge management interfaces]]
+- [[prototypes & designs/made by me/learning management interfaces\|learning management interfaces]]
 - [[projects & tools/made by me/building an extended mind\|building an extended mind]]
 - [[tbprocessed/base notes/projects/building a digital garden\|building a digital garden]]
 - [[tbprocessed/base notes/projects/obsidian mastery\|obsidian mastery]]
 - [[notion pages creation;organization\|notion pages creation;organization]]
 - [[notion aesthetics\|notion aesthetics]]
-- [[prototypes/made by me/on hold/notion + obsidian integration\|notion + obsidian integration]]
+- [[prototypes & designs/made by me/on hold/notion + obsidian integration\|notion + obsidian integration]]
 
 \+ [[topics/lab/quantified self\|quantified self]] compilations
 [[concepts/design/personal tech stack\|personal tech stack]] / setups
@@ -149,8 +154,8 @@ can create certain file types:
 		- 0 ft - ground
 			- [[_003_research/00 - viable pathways book-zine\|00 - viable pathways book-zine]]
 			- [[_002_toolkit/008 🕹 decision hub\|008 🕹 decision hub]]
-			- [[_001_MOCs/075 🔴🟠🟡 short game/095 📕 learning MOC\|095 📕 learning MOC]]
-			- [[_001_MOCs/075 🔴🟠🟡 short game/100 💪🏻 activities MOC\|100 💪🏻 activities MOC]]
+			- [[_001_MOCs/075 🔴🟠🟡 short game/098 📕 learning MOC\|098 📕 learning MOC]]
+			- [[_001_MOCs/075 🔴🟠🟡 short game/100 💪🏻 actions MOC\|100 💪🏻 actions MOC]]
  - [ ] part 2: [[experiments/made by me/design/minimum viable intentional personal systems setup\|minimum viable intentional personal systems setup]]
 
 

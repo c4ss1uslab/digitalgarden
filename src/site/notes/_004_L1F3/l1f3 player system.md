@@ -21,7 +21,7 @@ player tools:
 (still under development + more coming soon...)
 
 player resources:
-[[prototypes/made by me/resources management system\|🌫 resources management system]]
+[[prototypes & designs/made by me/resources management system\|🌫 resources management system]]
 	- [[_002_toolkit/001 👨🏻‍🎤 avatar\|👨🏻‍🎤 avatar]]
 	- [[_002_toolkit/006 ♟ strategy\|🗡 action plan]]
 	- [[_002_toolkit/x+ 📿 rituals LPS\|📿 rituals]]

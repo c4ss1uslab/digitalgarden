@@ -32,14 +32,14 @@ in order of [[patterns/active patterns/knowledge design/relevance score\|relevan
 ##### design principles:
 [[Thinking together\|Thinking together]]
 [[Tools for thought should evolve building blocks\|Tools for thought should evolve building blocks]]
-[[Fragments - Attractors\|Fragments - Attractors]]
-[[Living systems grow from simple seeds\|Living systems grow from simple seeds]]
-[[Effort is evidence of broken feedback loops\|Effort is evidence of broken feedback loops]]
+[[_009_notes & highlights from books, videos, articles/Fragments - Attractors\|Fragments - Attractors]]
+[[_009_notes & highlights from books, videos, articles/Living systems grow from simple seeds\|Living systems grow from simple seeds]]
+[[_009_notes & highlights from books, videos, articles/Effort is evidence of broken feedback loops\|Effort is evidence of broken feedback loops]]
 
 ##### state of the world analysis/propositions:
-[[LLMs and information post-scarcity\|LLMs and information post-scarcity]]
-[[LLMs and hyper-orality\|LLMs and hyper-orality]]
-[[Everyone will have their own AI\|Everyone will have their own AI]]
+[[_009_notes & highlights from books, videos, articles/LLMs and information post-scarcity\|LLMs and information post-scarcity]]
+[[_009_notes & highlights from books, videos, articles/LLMs and hyper-orality\|LLMs and hyper-orality]]
+[[_009_notes & highlights from books, videos, articles/Everyone will have their own AI\|Everyone will have their own AI]]
 
 #### other interesting/fun ideas
 

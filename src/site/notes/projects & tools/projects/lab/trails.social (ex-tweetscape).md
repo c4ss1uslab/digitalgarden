@@ -22,7 +22,7 @@ after their initial design and their development halt due to twitter API changes
 
 from my understanding, their lead engineers/designers were [[people/references/lab/nick torba\|nick torba]] and [[people/references/lab/julian fleck\|julian fleck]]. there were a few other people supporting while they were incubated by [[roote\|roote]] and [[people/references/lab/andre vacha\|andre vacha]] joined after some time as well.
 
-for me, it's a core reference for the design of an [[prototypes/made by me/omnichannel curation feed\|omnichannel curation feed]].
+for me, it's a core reference for the design of an [[prototypes & designs/made by me/omnichannel curation feed\|omnichannel curation feed]].
 #### write-ups:
 
 1. Conceptual framing – high level design primitives: [https://trails-org.notion.site/Conceptual-framing-7a6a972b54d4450ead51fca3ab289de5?pvs=4…](https://t.co/F6JgeyWyNe)

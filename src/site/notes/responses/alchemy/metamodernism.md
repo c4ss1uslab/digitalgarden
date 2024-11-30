@@ -2,7 +2,7 @@
 {"created in":"2024-03-28T19:44:29-03:00","last tended to":"2024-09-24T16:02:56-03:00","aliases":["metamodern"],"tags":["concept","alchemy","architect","socialchange","systemschange","🌱","humandevelopment","politics","psychology","sociology"],"relevancescore":96,"dg-publish":true,"notestage":["🌱"],"permalink":"/responses/alchemy/metamodernism/","dgPassFrontmatter":true,"created":"2024-03-28T19:44:29.935-03:00","updated":"2024-10-25T11:51:00.376-03:00"}
 ---
 
-the metamodern meme sees most of the challenges in the world as a [[developmental psychology\|developmental]] challenge.
+the metamodern meme sees most of the challenges in the world as a [[topics/alchemy/developmental psychology\|developmental]] challenge.
 
 people's [[psychological development\|psychological development]] should be taken way more seriously. we live in a [laggard world](https://diome.xyz/2+%F0%9F%8C%BF+Leaves/Civilizational+Layers+%26+Cycles), in which our institutions aren't prepared at all to deal with the large-scale [[complicated systems\|complicated systems]] we've built and the [[concepts/design/metacrisis\|metacrisis]] as a whole (which [[people/references/alchemy/hanzi freinacht\|hanzi]] refers to as the "multi-faceted" crisis).
 

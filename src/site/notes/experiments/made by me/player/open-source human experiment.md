@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-12-27T13:44:24-03:00","last tended to":"2024-09-29T14:46:50-03:00","aliases":["open-source human"],"tags":["experiment","🌿","open-source","quantifiedself","openknowledge","lifestreaming"],"dg-publish":true,"notestage":["🌿"],"created":"2023-12-27T13:44:24.897-03:00","updated":"2024-11-14T17:11:40.430-03:00","permalink":"/experiments/made-by-me/player/open-source-human-experiment/","dgPassFrontmatter":true}
+{"created in":"2023-12-27T13:44:24-03:00","last tended to":"2024-09-29T14:46:50-03:00","aliases":["open-source human"],"tags":["experiment","🌿","open-source","quantifiedself","openknowledge","lifestreaming"],"dg-publish":true,"notestage":["🌿"],"created":"2023-12-27T13:44:24.897-03:00","updated":"2024-11-22T18:19:00.397-03:00","permalink":"/experiments/made-by-me/player/open-source-human-experiment/","dgPassFrontmatter":true}
 ---
 
 since 2019, i've been structuring my whole life to be open-source and streamed in real-time using the [[_004_L1F3/l1f3 streaming system\|l1f3 streaming system]].
@@ -8,7 +8,7 @@ since 2019, i've been structuring my whole life to be open-source and streamed i
 
 one obvious challenge this brings up is potential [[adversarial relationships\|adversarial relationships]] and [[exploitative dynamics\|exploitative dynamics]]. i won't address this fully here, but for now, i'm betting that pros outweigh the cons and that's why there are accessibility levels. they're not "bought", but built based on [[responses/design/trust networks\|trust networks]]. more on this later.
 
-in order to get this experiment going, i've been slowly building up an mvp by sharing a [[experiments/made by me/design/minimum viable intentional personal systems setup\|minimum viable intentional personal systems setup]] and [[experiments/made by me/lab/personal tech stack;setup\|tech stack;setup]], using the [[_004_L1F3/l1f3 management ontology\|L1F3 management framework]].
+in order to get this experiment going, i've been slowly building up an mvp by sharing a [[experiments/made by me/design/minimum viable intentional personal systems setup\|minimum viable intentional personal systems setup]] and [[experiments/made by me/lab/minimum viable intentional personal tech stack;setup\|tech stack;setup]], using the [[_004_L1F3/l1f3 management ontology\|L1F3 management framework]].
 
 most of what i've been tracking/implementing still isn't live, but the direction is to have a modular real-time page/dashboard, [[topics/lab/quantified self\|quantified self]]-like, similar to [how is felix today?](https://howisfelix.today/), but with less focus on [[personal metrics\|personal metrics]] and more on data/information relevant for [[terms/collaboration\|collaboration]] and [[terms/impact\|impact]].
 

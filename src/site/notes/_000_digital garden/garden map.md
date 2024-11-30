@@ -16,7 +16,7 @@ both a sense of excitement, fun, discovery, as well as calmness and a recognitio
 
 ### the map
 
-<!--![garden map v2.excalidraw.png](/img/user/_008_illustrations%20&%20designs/garden%20map%20v2.excalidraw.png)-->
+<!--![garden map v2.excalidraw.png](/img/user/_007_illustrations%20&%20sketches/garden%20map%20v2.excalidraw.png)-->
 ![](https://i.imgur.com/eCPfDgm.png)
 
 
@@ -30,14 +30,14 @@ https://diagram.website/
 
 i intend to make this eventually as a procedurally-generated (constantly updating) map, sourcing data from my [[obsidian vault\|obsidian vault]], but using something like [[projects & tools/tools/lab/juggl\|juggl]], [[infranodus\|infranodus]], or some kind of [[references/lab/map-making tools\|map-making tool]].
 
-this way you can have a glimpse at the [[knowledge ecology\|knowledge ecology]] being tended to here and have a big picture view to help you navigate this content.
+this way you can have a glimpse at the [[concepts/design/knowledge ecology\|knowledge ecology]] being tended to here and have a big picture view to help you navigate this content.
 
 another option would be to filter by more conventional [[topics\|topics]]/[[tags\|tags]] that can help you navigate (see below).
 
 #### topic-based map
 ##### phase 1:
 
-<!--![research overview.excalidraw.png](/img/user/_008_illustrations%20&%20designs/research%20overview.excalidraw.png)-->
+<!--![research overview.excalidraw.png](/img/user/_007_illustrations%20&%20sketches/research%20overview.excalidraw.png)-->
 ![](https://i.imgur.com/aFTlkeJ.png)
 
                                        ~ *under construction, clickable soon* ~
@@ -46,7 +46,7 @@ shows: topics, content, sources (relationships & weights for each: resonance, pr
 
 ##### phase 2:
 
-<!--![research preview.excalidraw.png](/img/user/_008_illustrations%20&%20designs/research%20preview.excalidraw.png)-->
+<!--![research preview.excalidraw.png](/img/user/_007_illustrations%20&%20sketches/research%20preview.excalidraw.png)-->
 ![](https://i.imgur.com/axizghy.png)
 
                                        ~ *under construction, clickable soon* ~

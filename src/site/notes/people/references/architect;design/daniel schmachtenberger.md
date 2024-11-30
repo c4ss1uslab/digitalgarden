@@ -1,12 +1,12 @@
 ---
-{"created in":"2022-03-11T14:11:43-03:00","last tended to":"2024-09-24T15:54:22-03:00","tags":["top3","person","metacrisis","alchemy","sensemaking","architect","research","🌱"],"relevancescore":98,"dg-publish":true,"notestage":["🌱"],"permalink":"/people/references/architect-design/daniel-schmachtenberger/","dgPassFrontmatter":true,"created":"2022-03-11T14:11:43.148-03:00","updated":"2024-09-24T16:23:28.936-03:00"}
+{"created in":"2022-03-11T14:11:43-03:00","last tended to":"2024-09-24T16:23:28-03:00","tags":["top3","person","metacrisis","alchemy","sensemaking","architect","research","🌱"],"relevancescore":98,"dg-publish":true,"notestage":["🌱"],"created":"2022-03-11T14:11:43.148-03:00","updated":"2024-11-29T00:02:16.647-03:00","permalink":"/people/references/architect-design/daniel-schmachtenberger/","dgPassFrontmatter":true}
 ---
 
 #### about
 
-personal website: https://civilizationemerging.com/
-
 daniel is one of the deepest, most thoughtful and relevant thinkers i know. he does an incredible job assessing the underlying dynamics of our [[human predicament\|human predicament]] - the [[concepts/design/metacrisis\|metacrisis]] - and pathways to avert [[concepts/design/existential risk\|existential]] & [[terms/catastrophic risk\|catastrophic risks]] of societal collapse and enable more beautiful ways forward.
+
+personal website: https://civilizationemerging.com/
 
 ---
 #### favorite resources
@@ -15,9 +15,9 @@ daniel is one of the deepest, most thoughtful and relevant thinkers i know. he d
 
 **articles:** all of the articles (8) available on [his website](https://civilizationemerging.com/articles/social/) are amazing, although dense. i recommend starting (counterintuitively) with the [New Economic Series: Part 4](https://civilizationemerging.com/new-economics-series-4/) for a big picture view of what he's about.
 
-**key terms:** [[systemic transition\|systemic transition]], [[concepts/alchemy/wisdom\|wisdom]], [[concepts/design/commons crisis\|commons]], [[terms/design\|design]], [[concepts/alchemy/sensemaking\|sensemaking]], [[strategy\|strategy]] (...)
+**key terms:** [[systemic transition\|systemic transition]], [[concepts/alchemy/wisdom\|wisdom]], [[concepts/design/commons crisis\|commons]], [[terms/design\|design]], [[concepts/alchemy/sensemaking\|sensemaking]], [[strategy\|strategy]], [[x-risk\|x-risk]], (...)
 
-**glossary:** [[models & frameworks/design/cultural materialism\|cultural materialism]], [[tragedy of the commons\|tragedy of the commons]], [[arms-race\|arms-race]] / [[race to the bottom\|race to the bottom]], [[topics/player/game theory\|game-theoretical]] [[incentives\|incentives]] & [[deterrents\|deterrents]], [[jevonn's paradox\|jevonn's paradox]], [[kleiber's law\|kleiber's law]], (...)
+**glossary:** [[models & frameworks/design/holistic cultural materialism\|holistic cultural materialism]], [[tragedy of the commons\|tragedy of the commons]], [[arms-race\|arms-race]] / [[race to the bottom\|race to the bottom]], [[topics/player/game theory\|game-theoretical]] [[incentives\|incentives]] & [[deterrents\|deterrents]], [[jevonn's paradox\|jevonn's paradox]], [[concepts/design/kleiber's law\|kleiber's law]], (...)
 
 **see also:** [[people/references/architect;design/stephen reid\|stephen reid]]'s [daniel schmachtenberger knowledgegraph](https://stephenreid.net/k/daniel)
 
@@ -75,10 +75,12 @@ there will be some people who are much more like, "Look, I can do shit. Tell me 
 
 **how to avoid externalities:**
 
-questions to start thinking about it: [Daniel's list of questions](https://static1.squarespace.com/static/61d5bc2bb737636144dc55d0/t/639fd053866aa67bbd2e6e2f/1671417948665/Daniel%27s+list+of+questions)
+questions to start thinking about it: [daniel's list of questions](https://static1.squarespace.com/static/61d5bc2bb737636144dc55d0/t/639fd053866aa67bbd2e6e2f/1671417948665/Daniel%27s+list+of+questions).
 
 e.g.: where in the system are there perverse incentives? (financial, status, cover your ass incentive that's not aligned with doing the maximally good thing for the whole. not in a partisan way, but in all directions.) 
  "Can we use law to bind this? Can we use collective value system and a cultural forcing function to bind this? Can we use a different profit motive and make a healthier profit motive where people are willing to pay for a more expensive thing because it's better?"
+
+related: [[yellow teaming\|yellow teaming]], (...)
 
 **physical and psycho-social externalities:**
 

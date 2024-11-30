@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-07-30T21:38:54-03:00","last tended to":"2024-10-22T19:55:34-03:00","tags":["🌱"],"dg-publish":true,"notestage":["🌱"],"created":"2022-07-30T21:38:54.771-03:00","updated":"2024-11-19T18:26:48.936-03:00","permalink":"/003-research/05-core-references-and-resources/","dgPassFrontmatter":true}
+{"created in":"2022-07-30T21:38:54-03:00","last tended to":"2024-10-22T19:55:34-03:00","tags":["🌱"],"dg-publish":true,"notestage":["🌱"],"created":"2022-07-30T21:38:54.771-03:00","updated":"2024-11-22T18:26:19.433-03:00","permalink":"/003-research/05-core-references-and-resources/","dgPassFrontmatter":true}
 ---
 
 ```ad-warning
@@ -14,7 +14,8 @@ pages (more contextual):
 \+ [[projects & tools/tools/lab/raindrop\|raindrop]] interneto-like bookmarks (coming soon)
 
 tools/orgs:
--> [[concepts/design/personal tech stack\|personal tech stack]] -> [[_005_c4ss1us/c4ss1us' tech stack notion database\|c4ss1us' tech stack notion database]]
+-> [[concepts/design/personal tech stack\|personal tech stack]] -> [[_001_MOCs/050 🟩 mid game/080 ⚒ tools MOC\|080 ⚒ tools MOC]] ([[_005_c4ss1us/c4ss1us' tech stack notion database\|c4ss1us' tech stack notion database]])
+
 
 a few different views:
 
@@ -304,32 +305,6 @@ https://codeberg.org/teaserbot-labs/delightful-humane-design
 [[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social (ex-tweetscape)]]
 [[nodus labs\|nodus labs]]
 [[AI knowledge graphs\|AI knowledge graphs]]
-
----
-#### data breakdown:
-
-networks / data sources:
-[[google\|google]] / [[youtube\|youtube]] / [[wikipedia\|wikipedia]] / [[projects & tools/tools/lab/twitter\|twitter]] / [[reddit\|reddit]] / [[facebook\|facebook]] / [[projects & tools/tools/lab/instagram\|instagram]] / [[substack\|substack]] ([[RSS feed\|RSS feed]]) / [[podcast\|podcast]] ([[snipd\|snipd]]) / [[tbprocessed/base notes/ventures - general/discord\|discord]]
-[[initiatives, orgs & communities/architect;design/golden\|golden]] / [[initiatives, orgs & communities/architect;design/sublime (ex-startupy)\|sublime (ex-startupy)]] / [[mastodon\|mastodon]] / [[bluesky\|bluesky]] / [[are.na\|are.na]] / [[glasp\|glasp]] / [[projects & tools/tools/design/melon\|melon]]
-[[pinterest\|pinterest]] / [[artstation\|artstation]] / [[dribbble\|dribbble]] / [[behance\|behance]]
-
-files management:
-[[patterns/active patterns/knowledge design/social reading highlights\|social reading highlights]] - [[projects & tools/tools/lab/raindrop\|raindrop]]
-[[notes\|notes]] - [[telegram\|telegram]] <> [[tbprocessed/base notes/ventures - general/obsidian\|obsidian]]
-[[images\|images]] - [[projects & tools/tools/lab/eagle (app)\|eagle (app)]]
-[[videos\|videos]] - [[youtube\|youtube]]
-[[personal data\|personal data]] - [[prototypes/made by others/synapsis\|synapsis]] ([[rescuetime\|rescuetime]], [[rize\|rize]], [[toggl\|toggl]])
-
-x pages (bookmarks)
-x notes/highlights
-x images
-x videos
-x metrics
-
-y saved posts (instagram)
-y saved posts (facebook)
-y saved tweets (twitter)
-y saved videos (youtube)
 
 ---
 #### 2nd layer - open explorations:

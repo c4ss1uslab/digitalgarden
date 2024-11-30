@@ -6,7 +6,7 @@
 
 i've always wondered how there aren't self-hosted recommender systems trained on your [[RSS\|RSS]] subscriptions, people you follow in social media, [[terms/articles\|articles]]/[[videos\|videos]] you consume, etc.
 
-i've been wanting to train models/host my own algorithms for many years, but still haven't made much progress on the development side, besides the designs i've been exploring with the [[prototypes/made by me/omnichannel curation feed\|omnichannel curation feed]] experiment.
+i've been wanting to train models/host my own algorithms for many years, but still haven't made much progress on the development side, besides the designs i've been exploring with the [[prototypes & designs/made by me/omnichannel curation feed\|omnichannel curation feed]] experiment.
 
 i'm following the developments of a few projects in adjacent spaces, to see how/when they can facilitate that:
 ###### [[social graph\|social graph]]/[[tbprocessed/base notes/concepts - general/curation\|curation]]-oriented:

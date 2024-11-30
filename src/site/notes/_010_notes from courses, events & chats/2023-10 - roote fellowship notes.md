@@ -79,7 +79,7 @@ b) "next steps" presentation:
 - regenerative economies (eisenstein)
 	- SEEDS
 - vocational (a.k.a. creative)/shared/collaborative/multicurrencies economy systems/tools/practices
-	- [[prototypes/made by others/potluck\|potluck]]
+	- [[prototypes & designs/made by others/potluck\|potluck]]
 - - metaverse via personal tech stacks/setups (M3/OMI group)
 	- FOSS
 	- PKM/anytype

@@ -1,5 +1,5 @@
 ---
-{"aliases":["topics","fields","fields of knowledge"],"created in":"2021-12-11T16:52:03-03:00","last tended to":"2024-10-24T21:59:41-03:00","dg-publish":true,"tags":["🌿","selfmanagement"],"notestage":["🌿"],"created":"2021-12-11T16:52:03.339-03:00","updated":"2024-11-19T17:36:16.253-03:00","permalink":"/001-mo-cs/025-long-game/025-topics-and-references-moc/","dgPassFrontmatter":true}
+{"aliases":["topics","fields","fields of knowledge"],"created in":"2021-12-11T16:52:03-03:00","last tended to":"2024-10-24T21:59:41-03:00","dg-publish":true,"tags":["🌿","selfmanagement"],"notestage":["🌿"],"created":"2021-12-11T16:52:03.339-03:00","updated":"2024-11-22T18:18:06.791-03:00","permalink":"/001-mo-cs/025-long-game/025-topics-and-references-moc/","dgPassFrontmatter":true}
 ---
 
 on the contents below, the emojis mean different things. here's their caption:
@@ -29,7 +29,7 @@ level of depth:
 ##### 🌌 [[concepts/alchemy/consciousness\|consciousness]]
 🌲 [[concepts/design/metacrisis\|metacrisis]]
 	([[diagnosis/meaning crisis\|meaning crisis]] / [[diagnosis/existential crisis\|existential crisis]] / [[topics/alchemy/wisdom crisis\|wisdom crisis]])
-	--> [[concepts/design/health crisis\|health crisis]] / [[education crisis\|education crisis]] / [[commons\|commons]] [[crisis\|crisis]]
+	--> [[concepts/design/health crisis\|health crisis]] / [[education crisis\|education crisis]] / [[diagnosis/climate crisis\|climate crisis]]
 🌲 [[meta-perspectival frameworks\|meta-perspectival frameworks]]
 	🔥 [[topics/architect;design/ontological design\|ontological design]]
 	🔥 [[models & frameworks/player/fourgames\|fourgames]]
@@ -46,19 +46,17 @@ level of depth:
 🌿 [[topics/alchemy/spiritual lineages\|wisdom traditions]] & [[ecologies of practices\|ecologies of practices]]
 	🌿 [[integral yoga\|integral yoga]]
 	🌿 [[vipassana meditation\|vipassana meditation]]
-	🌱 [[initiatives, orgs & communities/alchemy/possibility management\|possibility management]]
 🌿 [[entheogens\|entheogens]]
 	🌿 [[topics/alchemy/mushrooms\|mushrooms]]
 	🌿 [[ayahuasca\|ayahuasca]]
 	🌱 [[MDMA\|MDMA]]
 🌿 [[_004_L1F3/core concepts/self design\|self design]]
-	🧪 [[models & frameworks/alchemy/archetypal matrix\|archetypal matrix]]
-	🧪 [[concepts/design/extended cognition\|extended cognition]]
-	🌱 [[thoughtware design\|thoughtware design]]
+	🧪 [[experiments/made by me/alchemy/archetypal matrix\|archetypal matrix]]
+	🧪 [[experiments/made by me/design/minimum viable intentional personal systems setup\|minimum viable intentional personal systems setup]]
 
 #### ✒ [[_005_c4ss1us/c4ss1us.design\|.design]]
 ##### 🎞 [[knowledge\|knowledge]] / [[topics/architect;design/media\|media]]
-🌲 [[topics/architect;design/research\|topics/architect;design/research]]
+🌲 [[topics/architect;design/research\|research]]
 	📂 [[meta-research consolidation resource\|meta-research consolidation resource]]
 🌲 [[tbprocessed/base notes/concepts - general/curation\|curation]]
 	🔥 [[initiatives, orgs & communities/architect;design/sublime (ex-startupy)\|sublime (ex-startupy)]]
@@ -89,34 +87,35 @@ level of depth:
 #### 👨🏻‍🔬 [[_005_c4ss1us/c4ss1us.lab\|.lab]]
 ##### 💻 [[topics/architect;design/technology\|technology]]
 🌲 [[topics/lab/personal knowledge management\|PKM]] / [[_004_L1F3/core concepts/life management\|life management]]
-	🔩 [[_004_L1F3/l1f3 management ontology\|life management methodology (LMM)]] ([[obsidian system\|obsidian system]])
-	🔩 [[projects & tools/made by me/disruptive life management system\|DLMS - disruptive life management system]] ([[notion system\|notion system]])
-	🔩 [[tbprocessed/base notes/tools;products - proprietary/tools/life organization & visualization system\|LOVS - life organization & visualization system]] ([[notion system\|notion system]])
+	🔩 [[_004_L1F3/l1f3 management ontology\|life management methodology (LMM)]]
+	🔩 [[obsidian life management system\|obsidian life management system]]
+	🔩 [[projects & tools/made by me/notion life management system\|notion life management system]]
+	🔩 [[tbprocessed/base notes/tools;products - proprietary/tools/life organization & visualization system\|LOVS - life organization & visualization system]]
 	📂 [[knowledge management methodologies\|knowledge management methodologies]]
 🌲 [[topics/architect;design/crypto\|crypto]] / [[topics/architect;design/web3\|web3]]
 	🔥 [[initiatives, orgs & communities/architect;design/SEEDS (ecosystem)\|SEEDS (ecosystem)]]
-🌿 [[terms/metaverse\|metaverse]]
+🌿 [[open metaverse\|open metaverse]]
 	🔥 [[initiatives, orgs & communities/lab/m3 metaverse makers\|m3 metaverse makers]]
 🌿 [[interfaces\|interfaces]] & [[topics/lab/user experience\|UX]]
-	🧪 [[prototypes/made by me/l1f3 player dashboard\|l1f3 player dashboard]]
+	🧪 [[prototypes & designs/made by me/l1f3 player dashboard\|l1f3 player dashboard]]
 	🧰 [[_002_toolkit/000 ⛓ l1f3 player toolkit\|l1f3 player toolkit]] ([[pinterest curation\|pinterest curation]] / [[projects & tools/tools/player/game UI database\|game UI database]])
 🌿 [[responses/lab/mapping\|mapping]]
 	🔥 [[models & frameworks/design/wardley mapping\|wardley mapping]]
 	🔥 [[maps curation\|maps curation]] (twitter link)
 	🧪 [[tbprocessed/base notes/tools;products - proprietary/tools/life map\|life map]]
-	🧪 [[prototypes/made by me/l1f3 projects' references map\|l1f3 projects' references map]]
+	🧪 [[prototypes & designs/made by me/l1f3 projects' references map\|l1f3 projects' references map]]
 	🧪 [[tbprocessed/base notes/tools;products - proprietary/tools/IRDI\|IRDI - integral radar of developmental initiatives]]
-	🧪 [[prototypes/made by me/omnichannel curation feed\|omnichannel curation feed]]
+	🧪 [[prototypes & designs/made by me/omnichannel curation feed\|omnichannel curation feed]]
 	💡 [[tbprocessed/base notes/tools;products - proprietary/tools/research;visualization agent\|research;visualization agent]]
-	💡 [[twitter map\|twitter map]]
+	💡 [[twitter map\|twitter map]] ([[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social (ex-tweetscape)]] / [[community archive\|community archive]])
 	💫 [[mapping videos\|mapping videos]]
-	💫 [[map-making workflow (excalidraw)\|map-making workflow (excalidraw)]]
+	💫 [[map-making workflow\|map-making workflow]]
 	💫 [[ideaverse\|ideaverse]] / [[research visualization world\|research visualization world]] / [[_000_digital garden/c4ss1us' garden\|c4ss1us' garden]] evolution into a [[topics/art/3d\|3d]]/artistic [[3rd brain\|3rd brain]]
 🌿 [[digital systems design\|digital systems design]]
 	🔥 [[responses/design/values-based design\|values-and-meaning based design]]
 🌱 [[topics/lab/personal data management\|personal data management]]
 	🔥 [[initiatives, orgs & communities/lab/holochain\|holochain]]
-	🔥 [[prototypes/made by others/synapsis\|synapsis]]
+	🔥 [[prototypes & designs/made by others/synapsis\|synapsis]]
 	🔥 [[initiatives, orgs & communities/architect;design/protocol labs\|protocol labs]]
 	🔥 [[projects & tools/tools/lab/human programming interface\|human programming interface]]
 	💡 [[concepts/design/personal tech stack\|personal tech stack]]
@@ -171,7 +170,7 @@ level of depth:
 		--> [[projects & tools/tools/player/fourgames card deck\|fourgames card deck]]
 		--> [[a jogada\|a jogada]]
 	--> 💧 [[human connection games\|human connection games]]
-		--> [[prototypes/made by others/pure players card game\|pure players card game]]
+		--> [[prototypes & designs/made by others/pure players card game\|pure players card game]]
 		--> [[amuta cards\|amuta cards]]
 		--> [[projects & tools/tools/music/música do círculo's card deck\|música do círculo's card deck]]
 	--> 🌱 [[physical games\|physical games]]
