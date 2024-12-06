@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-04-01T18:55:58-03:00","last tended to":"2024-10-06T02:50:36-03:00","aliases":["personal tech stacks"],"tags":["concept","design","lab","alchemy","art","player","🌿","tier1"],"notestage":["🌿"],"dg-publish":true,"relevancescore":92,"created":"2024-04-01T18:55:58.519-03:00","updated":"2024-11-22T19:15:19.853-03:00","permalink":"/concepts/design/personal-tech-stack/","dgPassFrontmatter":true}
+{"created in":"2024-04-01T18:55:58-03:00","last tended to":"2024-10-06T02:50:36-03:00","aliases":["personal tech stacks"],"tags":["concept","design","lab","alchemy","art","player","🌿","tier1"],"notestage":["🌿"],"dg-publish":true,"relevancescore":92,"created":"2024-04-01T18:55:58.519-03:00","updated":"2024-12-06T16:14:30.130-03:00","permalink":"/concepts/design/personal-tech-stack/","dgPassFrontmatter":true}
 ---
 
 see also: [[_004_L1F3/core concepts/life design\|life design]], my attempt at a [[experiments/made by me/lab/minimum viable intentional personal tech stack;setup\|minimum viable intentional personal tech stack;setup]].
@@ -20,12 +20,12 @@ so, before looking at exactly what a "personal tech stack" might look like, let'
 
 while we don't have the best of both worlds, we still have unmet functions - a goal of my curation is to bring clarity to that, to establish knowledge/resource commons and coordinate efforts.
 
-for a long time, i've been trying to curate the "[[experiments/made by me/design/minimum viable intentional personal systems setup\|minimum viable intentional personal systems setup]]", which includes the tech stack. here's what i've been currently using: [[_005_c4ss1us/c4ss1us' tech stack notion database\|c4ss1us' tech stack notion database]]
+for a long time, i've been trying to curate the "[[experiments/made by me/design/minimum viable intentional personal systems design;setup\|minimum viable intentional personal systems design;setup]]", which includes the tech stack. here's what i've been currently using: [[_005_c4ss1us/c4ss1us' tech stack notion database\|c4ss1us' tech stack notion database]]
 
 for a deeper exploration into both of these, see:
 
 - **approach 1: [[_006_core notes/personal OS design\|personal OS design]]**
-- **approach 2: [[adapting existing systems\|adapting existing systems]]**
+- **approach 2: [[adapt existing systems\|adapt existing systems]]**
 
 #### breaking down a personal tech stack
 ##### hardware:

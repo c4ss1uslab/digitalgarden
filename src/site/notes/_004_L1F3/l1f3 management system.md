@@ -1,5 +1,5 @@
 ---
-{"aliases":["⚙ LMS","⚙ l1f3 management system","l1f3 manager","⚙ l1f3 manager","life management system","⚙ life management system","life manager","⚙ life manager","L1F3 management system","⚙ L1F3 management system"],"created in":"2021-12-11T16:52:05-03:00","last tended to":"2024-10-24T21:59:42-03:00","tags":["project","🌿","l1f3","alchemy","design","lab"],"dg-publish":true,"notestage":["🌿"],"created":"2021-12-11T16:52:05.970-03:00","updated":"2024-11-22T17:27:45.016-03:00","permalink":"/004-l1-f3/l1f3-management-system/","dgPassFrontmatter":true}
+{"aliases":["⚙ LMS","⚙ l1f3 management system","⚙ l1f3 manager","life management system","⚙ life management system","L1F3 management system","⚙ L1F3 management system"],"created in":"2021-12-11T16:52:05-03:00","last tended to":"2024-10-24T21:59:42-03:00","tags":["project","🌿","l1f3","alchemy","design","lab"],"dg-publish":true,"notestage":["🌿"],"created":"2021-12-11T16:52:05.970-03:00","updated":"2024-12-03T16:35:07.499-03:00","permalink":"/004-l1-f3/l1f3-management-system/","dgPassFrontmatter":true}
 ---
 
 #### description
@@ -156,7 +156,7 @@ can create certain file types:
 			- [[_002_toolkit/008 🕹 decision hub\|008 🕹 decision hub]]
 			- [[_001_MOCs/075 🔴🟠🟡 short game/098 📕 learning MOC\|098 📕 learning MOC]]
 			- [[_001_MOCs/075 🔴🟠🟡 short game/100 💪🏻 actions MOC\|100 💪🏻 actions MOC]]
- - [ ] part 2: [[experiments/made by me/design/minimum viable intentional personal systems setup\|minimum viable intentional personal systems setup]]
+ - [ ] part 2: [[experiments/made by me/design/minimum viable intentional personal systems design;setup\|minimum viable intentional personal systems design;setup]]
 
 
 ---

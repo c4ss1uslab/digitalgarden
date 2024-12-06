@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-10-20T23:41:02-03:00","last tended to":"2024-10-21T01:33:52-03:00","dg-publish":true,"notestage":["🌿"],"aliases":["domestika"],"tags":["learning","art","resource","🌿"],"permalink":"/references/art/domestika-moc/","dgPassFrontmatter":true,"created":"2024-10-20T23:41:02.961-03:00","updated":"2024-10-21T01:35:50.280-03:00"}
+{"created in":"2024-10-20T23:41:02-03:00","last tended to":"2024-10-21T01:35:50-03:00","dg-publish":true,"notestage":["🌿"],"aliases":["domestika"],"tags":["learning","art","resource","🌿"],"created":"2024-10-20T23:41:02.961-03:00","updated":"2024-12-03T15:47:15.411-03:00","permalink":"/references/art/domestika-moc/","dgPassFrontmatter":true}
 ---
 
 #### my courses:
@@ -15,7 +15,7 @@ legend:
 ##### 🗺 [[topics/lab/information design\|information design]]
 
 [Information Design: Storytelling with Data in Illustrator - Valentina D'Efilippo](https://www.domestika.org/en/courses/3601-information-design-storytelling-with-data-in-illustrator/course)
-[[_010_notes from courses, events & chats/Data Visualization and Information Design, Create a Visual Model - Federica Fragapane\|Data Visualization and Information Design, Create a Visual Model - Federica Fragapane]]
+[[_010_notes from courses, events & chats/data visualization and information design, create a visual model - federica fragapane\|data visualization and information design, create a visual model - federica fragapane]]
 [Fundamentals of Data Visualization - Gemma Busquets](https://www.domestika.org/en/courses/4572-fundamentals-of-data-visualization/course) 
 > 🎁 [Designing with Numbers: from Data Scraping to DataViz - Luiz Ludwig](https://www.domestika.org/en/courses/4193-designing-with-numbers-from-data-scraping-to-dataviz)
 > 💭 [Data Visualization with Alternative Mediums - Olivia Johnson](https://www.domestika.org/en/courses/2573-data-visualization-with-alternative-mediums)

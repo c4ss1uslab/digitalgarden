@@ -6,6 +6,6 @@ important distinctions: [[coordination\|coordination]] vs [[terms/collaboration\
 
 [[coordination layer\|coordination layer]]
 
-important concepts: [[superorganism\|superorganism]], [[concepts/design/moloch\|moloch]], [[concepts/design/coordination failure\|coordination failure]], [[concepts/design/coordination frameworks\|coordination frameworks]], [[concepts/design/coordination protocols\|coordination protocols]], [[concepts/design/coordination mechanisms\|coordination mechanisms]].
+important concepts: [[superorganism\|superorganism]], [[concepts/design/moloch\|moloch]], [[concepts/design/coordination failure\|coordination failure]], [[concepts/design/coordination frameworks\|coordination frameworks]], [[topics/architect;design/coordination protocols\|coordination protocols]], [[concepts/design/coordination mechanisms\|coordination mechanisms]].
 
 related initiatives/orgs: [[initiatives, orgs & communities/architect;design/civilization research institute\|civilization research institute]] / [[initiatives, orgs & communities/architect;design/the consilience project\|consilience project]], [[initiatives, orgs & communities/architect;design/SEEDS (ecosystem)\|SEEDS]], [[initiatives, orgs & communities/architect;design/goodly labs\|goodly labs]]

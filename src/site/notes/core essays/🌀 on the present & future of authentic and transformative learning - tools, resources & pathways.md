@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-04-13T13:36:49-03:00","last tended to":"2024-09-24T16:19:26-03:00","tags":["essay","learning","education","🌱"],"aliases":["🌀 on the present & future of authentic and transformative learning"],"dg-publish":true,"notestage":["🌱"],"created":"2024-04-13T13:36:49.487-03:00","updated":"2024-11-19T17:36:21.124-03:00","permalink":"/core-essays/on-the-present-and-future-of-authentic-and-transformative-learning-tools-resources-and-pathways/","dgPassFrontmatter":true}
+{"created in":"2024-04-13T13:36:49-03:00","last tended to":"2024-09-24T16:19:26-03:00","tags":["essay","learning","education","🌱"],"aliases":["🌀 on the present & future of authentic and transformative learning"],"dg-publish":true,"notestage":["🌱"],"created":"2024-04-13T13:36:49.487-03:00","updated":"2024-12-03T15:27:36.889-03:00","permalink":"/core-essays/on-the-present-and-future-of-authentic-and-transformative-learning-tools-resources-and-pathways/","dgPassFrontmatter":true}
 ---
 
 #### intro & context
@@ -56,7 +56,7 @@ researchers/practitioners such as [[people/references/lab/maggie appleton\|maggi
 
 [[people/references/lab/robert haisfield\|robert haisfield]] on [[topics/lab/collective knowledge management\|collective knowledge management]], with his research on [[projects & tools/projects/design/scaling synthesis\|scaling synthesis]].
 
-[[andy matuschak\|andy matuschak]] & [[people/references/lab/michael nielsen\|michael nielsen]]'s cornerstone work on [developing transformative tools for thought]([How can we develop transformative tools for thought?](https://numinous.productions/ttft/)), [augmenting long-term memory](https://augmentingcognition.com/ltm.html) and [intelligence as a whole](https://distill.pub/2017/aia/).
+[[andy matuschak\|andy matuschak]] & [[people/references/lab/michael nielsen\|michael nielsen]]'s cornerstone work on [developing transformative tools for thought](https://numinous.productions/ttft/) [augmenting long-term memory](https://augmentingcognition.com/ltm.html) and [intelligence as a whole](https://distill.pub/2017/aia/).
 
 [[people/references/lab/jacky zhao\|jacky zhao]]'s ideas and curation on [[research debt\|research debt]], [[knowledge distillation\|knowledge distillation]], [[interoperability\|interoperability]], [[composability\|composability]], [[topics/architect;design/distributed systems\|distributed systems]] and [[topics/lab/human-computer interaction\|human-computer interaction]].
 

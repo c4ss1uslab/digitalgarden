@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-07-30T21:38:54-03:00","last tended to":"2024-10-22T19:55:34-03:00","tags":["🌱"],"dg-publish":true,"notestage":["🌱"],"created":"2022-07-30T21:38:54.771-03:00","updated":"2024-11-22T18:26:19.433-03:00","permalink":"/003-research/05-core-references-and-resources/","dgPassFrontmatter":true}
+{"created in":"2022-07-30T21:38:54-03:00","last tended to":"2024-10-22T19:55:34-03:00","tags":["🌱"],"dg-publish":true,"notestage":["🌱"],"created":"2022-07-30T21:38:54.771-03:00","updated":"2024-11-30T17:02:21.345-03:00","permalink":"/003-research/05-core-references-and-resources/","dgPassFrontmatter":true}
 ---
 
 ```ad-warning

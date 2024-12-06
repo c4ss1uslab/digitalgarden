@@ -1,5 +1,5 @@
 ---
-{"aliases":["topics","fields","fields of knowledge"],"created in":"2021-12-11T16:52:03-03:00","last tended to":"2024-10-24T21:59:41-03:00","dg-publish":true,"tags":["🌿","selfmanagement"],"notestage":["🌿"],"created":"2021-12-11T16:52:03.339-03:00","updated":"2024-11-22T18:18:06.791-03:00","permalink":"/001-mo-cs/025-long-game/025-topics-and-references-moc/","dgPassFrontmatter":true}
+{"aliases":["topics","fields","fields of knowledge"],"created in":"2021-12-11T16:52:03-03:00","last tended to":"2024-10-24T21:59:41-03:00","dg-publish":true,"tags":["🌿","selfmanagement"],"notestage":["🌿"],"created":"2021-12-11T16:52:03.339-03:00","updated":"2024-11-30T16:55:51.912-03:00","permalink":"/001-mo-cs/025-long-game/025-topics-and-references-moc/","dgPassFrontmatter":true}
 ---
 
 on the contents below, the emojis mean different things. here's their caption:
@@ -52,7 +52,7 @@ level of depth:
 	🌱 [[MDMA\|MDMA]]
 🌿 [[_004_L1F3/core concepts/self design\|self design]]
 	🧪 [[experiments/made by me/alchemy/archetypal matrix\|archetypal matrix]]
-	🧪 [[experiments/made by me/design/minimum viable intentional personal systems setup\|minimum viable intentional personal systems setup]]
+	🧪 [[experiments/made by me/design/minimum viable intentional personal systems design;setup\|minimum viable intentional personal systems design;setup]]
 
 #### ✒ [[_005_c4ss1us/c4ss1us.design\|.design]]
 ##### 🎞 [[knowledge\|knowledge]] / [[topics/architect;design/media\|media]]

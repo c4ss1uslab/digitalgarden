@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-03-25T13:53:56-03:00","last tended to":"2024-09-30T13:09:56-03:00","tags":["🌿"],"aliases":["viable pathways","viable pathways zine","viable pathways book-zine","viable pathways book-zine mvp","book-zine"],"dg-publish":true,"notestage":["🌿"],"permalink":"/003-research/00-viable-pathways-book-zine/","dgPassFrontmatter":true,"created":"2022-03-25T13:53:56.444-03:00","updated":"2024-10-06T02:11:50.529-03:00"}
+{"created in":"2022-03-25T13:53:56-03:00","last tended to":"2024-10-06T02:11:50-03:00","tags":["🌿"],"aliases":["viable pathways","viable pathways zine","viable pathways book-zine","viable pathways book-zine mvp","book-zine"],"dg-publish":true,"notestage":["🌿"],"created":"2022-03-25T13:53:56.444-03:00","updated":"2024-12-04T15:58:57.171-03:00","permalink":"/003-research/00-viable-pathways-book-zine/","dgPassFrontmatter":true}
 ---
 
 #### ⚠ coming soon!
@@ -9,8 +9,56 @@ what you'll find below are some drafts of this publication. check back in a few 
 <!--![viable pathways book-zine cover.png|1000](/img/user/assets/viable%20pathways%20book-zine%20cover.png)-->
 ![](https://i.imgur.com/MzsDZ3I.jpeg)
 
+---
 
-hey, welcome! this is the skeleton of a living, under-construction book-zine - an experimental [[hyper-linked multimedia medium\|hyper-linked multimedia medium]] that acts as a theoretical research / practical toolkit in-between. it's still very messy, as you'll be able to see if you choose to keep reading now (or you can wait for it to be released and access the polished version later).
+#### my research in 1 page:
+
+an inquiry into post-capitalist systems:
+
+> how can we create systems that enable us to conceive thrivable societies, coordinating and collaborating towards more regenerative/resilient presents & futures?
+
+there is a myriad of different perspectives and research on the generator functions of the anthropocene, polycrisis or metacrisis. and even where there's some agreement, there is divergence on what to do/how to move beyond it.
+
+my research aimed to clarify: what are these different perspectives, how do they converge & diverge, and could they be complementary?
+
+what i found is:
+
+- systemic change requires changes in all: superstructure, social structure, infrastructure and physiologic structure. (https://diome.xyz/2+%F0%9F%8C%BF+Leaves/Cultural+Materialism)
+
+- communism & socialism are not the answers. (win-lose games, though we could bind externalities at local/global levels, exponential rivalry continues) ([daniel generator functions])
+
+- efforts at different levels of intervention are necessary: h1 (reducing immediate systemic harm), h2 (creating conditions for better short/mid-term futures), h3 (developing new viable systems altogether). ([[models & frameworks/design/three horizons\|three horizons]])
+
+(initiatives map categorized by horizons)
+attempts at h3: cybersyn (1960's), world game, SEEDS, holochain.
+
+there's of course more that i'll dive into soon, one question i've carried for a long time is: amongst all this, where should we (or i) be most engaged in?
+
+although there can be maps, there seems to be no recipe. cultivating our own wisdom, nurturing our dharma and endeavoring to unfold our unique selves do seem like worthy pursuits. perhaps with a lot of research or decentralized coordination we can clarify the nodes in the system where there's the most suffering and work to transform that, but ultimately, it goes beyond utilitarian optimization towards mitigating suffering. i think there's something beyond that, often unexplainable, about what you feel most called to be/do/become.
+
+one big challenge though is that often we don't even know what challenges and possibilities exist - both inside of ourselves and out there in the world! the predominant systems in our societies are not designed for us to have this kind of visibility. our local efforts can be very impactful and important, but as long our society has globalized risks and potentials, coordinating across the superorganism to find your place(s) in the whole has become not only a possibility, but a responsibility - at least for some of us.
+
+it can take several years of trial and error, research and experimentation to find communities, terms, perspectives that resonate and even more time to find a way to make focusing on your part of the puzzle a viable financial possibility.
+
+are there ways to make this journey less alienating, tiresome and confusing?
+
+i think so. and attempting to clarify what exists out there seems like a reasonable first step.
+
+so that's what i've been doing: mapping existing approaches/theories of change, consolidating my findings (based on cold & warm data) into a knowledge commons in more accessible and nuanced ways (which helps with clarifying possible developmental/learning pathways), and attempting to make sense of the complexity going on/understand important low-hanging fruits & points of intervention.
+
+below you will find a compilation - a.k.a. viable pathways book-zine, which i'm currently developing, but is already available and being constantly updated, in which share in a lot more detail everything i've found. but in case you've already resonated, below i describe the status/next steps of this work and how you can contribute if you'd like.
+
+[book-zine]
+
+a note where i'm going next:
+
+i've held and develop long-time intuitions about games/play, networks and regenerative technology design as powerful & under-developed responses to our metacrisis.
+
+---
+
+#### structure
+
+this is the skeleton of a living, under-construction book-zine - an experimental [[hyper-linked multimedia medium\|hyper-linked multimedia medium]] that acts as a theoretical research / practical toolkit in-between. it's still very messy, as you'll be able to see if you choose to keep reading now (or you can wait for it to be released and access the polished version later).
 
 this book-zine is comprised of: an [[introduction\|introduction]], 5 [core essays], [α] illustrations, [x] maps, [y] excerpts, [z] core references, [Φ] deepening/clarification notes, a summary/recap and a list of [Θ] further resources...
 

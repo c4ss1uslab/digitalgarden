@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-10-31T15:56:54-03:00","last tended to":"2024-11-06T18:52:18-03:00","dg-publish":true,"aliases":["personal and civilizational crises","systemic crises"],"tags":["concept","metacrisis"],"relevancescore":98,"notestage":["🌿"],"created":"2023-10-31T15:56:54.956-03:00","updated":"2024-11-20T15:05:59.527-03:00","permalink":"/concepts/design/metacrisis/","dgPassFrontmatter":true}
+{"created in":"2023-10-31T15:56:54-03:00","last tended to":"2024-11-06T18:52:18-03:00","dg-publish":true,"aliases":["personal and civilizational crises","systemic crises"],"tags":["concept","metacrisis"],"relevancescore":98,"notestage":["🌿"],"created":"2023-10-31T15:56:54.956-03:00","updated":"2024-12-03T15:43:20.309-03:00","permalink":"/concepts/design/metacrisis/","dgPassFrontmatter":true}
 ---
 
 the "metacrisis" view points towards the perception that the set of interconnected - social, climatic, mental health, political crises of our time share a same root cause - same underlying [[diagnosis/generator functions of existential risk\|generator functions]].
@@ -12,7 +12,7 @@ one of the best introductions i found is this 11-minute video by [[ashley hodgso
 
 [[references/alchemy/first principles and first values\|first principles and first values - forty-two propositions on cosmoerotic humanism, the meta-crisis and the world to come]] - the authors propose that at the root of the metacrisis, there's an [[diagnosis/intimacy crisis\|intimacy crisis]]. a crisis of disconnection. of ourselves, of the other, of the planet - and primarily, of the [[field of value\|field of value]] (which is different but very close to what's often times referred to as "the [[sacred\|sacred]]" or "the [[true\|true]], the [[good\|good]] and the [[beautiful\|beautiful]]" by other [[topics/alchemy/spiritual lineages\|wisdom traditions]]).
 
-[[people/references/architect;design/andrea faria\|andrea faria]] evidences the systems dynamics
+[[people/references/architect;design/andrea farias\|andrea farias]] evidences the systems dynamics
 
 [[liberatemankind\|liberatemankind]]'s series explores
 
