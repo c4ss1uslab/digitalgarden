@@ -1,5 +1,5 @@
 ---
-{"aliases":[".dgarden","🌲 digital garden","idea garden","🌱 idea garden","c4ss1us.dgarden","🌲 c4ss1us.dgarden","digital garden","home","knowledge garden"],"created in":"2023-07-27T15:44:39-03:00","last tended to":"2024-11-06T18:52:18-03:00","dg-publish":true,"dg-home":true,"created":"2021-12-11T16:51:50.661-03:00","updated":"2024-11-20T14:52:36.578-03:00","permalink":"/000-digital-garden/c4ss1us-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"aliases":[".dgarden","🌲 digital garden","idea garden","🌱 idea garden","c4ss1us.dgarden","🌲 c4ss1us.dgarden","digital garden","home","knowledge garden"],"created in":"2023-07-27T15:44:39-03:00","last tended to":"2024-11-06T18:52:18-03:00","dg-publish":true,"dg-home":true,"created":"2021-12-11T16:51:50.661-03:00","updated":"2024-12-06T16:29:29.385-03:00","permalink":"/000-digital-garden/c4ss1us-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 ## hello! welcome to my digital garden! 🌷
@@ -25,7 +25,7 @@ b) planting loose notes - exploring different [[ideas\|ideas]], [[resources\|res
 
 *ps: in case you arrived here but don't know who i am, you can find [👨🏻‍🎤 an introduction to my life, self and work here](https://c4ss1us.notion.site/c4ss1us/c4ss1us-hello-WIP-71130006ff1c42f69a32b7a46808a290).*
 
-*pps: this website is not currently optimized for mobile view, if you're on your phone, select "use desktop version" on your browser settings to see some elements better, such as images and tables.*
+*pps: this website is not currently optimized for mobile view, if you're on your phone, select "use desktop version" on your browser settings to better visualize some elements, such as images and tables.*
 
 ---
 ### ❔ how this space is structured
@@ -35,7 +35,7 @@ b) planting loose notes - exploring different [[ideas\|ideas]], [[resources\|res
 there are two ways you can navigate this space:
 
 1) 🗺 a structured, organized, narrative way, in which i share the foundational concepts, references, tools and discoveries of my research/learning/work.
-2) 🕸 a loose, experimental, self-directed navigation on a topic-based index of notes, which is how the notes are planted in this space. (coming soon, an alternative navigation based on [[patterns/active patterns/knowledge design/relevance score\|relevance scores]] is available in the meantime)
+2) 🕸 a loose, experimental, self-directed navigation on a topic-based index of notes, which is how the notes are planted in this space. (recommended! the essays are still in a very early-phase.)
 
 choose your path below!
 
@@ -125,9 +125,9 @@ read more about the research themes/inquiries or jump straight to the core essay
 
 #### relevance score visualizations
 
-i still have to figure out why the [digital garden plugin](https://dg-docs.ole.dev/) i'm using isn't allowing me to show the relevance score property on my notes. i currently have 121 notes with assigned relevance scores over 80 (max 100), and i'm slowly adding it to more and more of them (mostly [[terms/design\|design]]/[[_005_c4ss1us/c4ss1us.design\|architect]] & [[_005_c4ss1us/c4ss1us.lab\|lab]] notes were tagged so far, so the index below is missing a ton of stuff from [[_005_c4ss1us/c4ss1us.alchemy\|alchemy]], [[_005_c4ss1us/c4ss.art\|art]], [[_005_c4ss1us/c4ss1us.player\|player]] and [[_005_c4ss1us/c4ss1us.regen\|regen]], that are less processed/more embryonary).
+i still have to figure out why the [digital garden plugin](https://dg-docs.ole.dev/) i'm using isn't allowing me to show the relevance score property on my notes. i currently have 125 notes with assigned relevance scores over 80 (max 100), and i'm slowly adding it to more and more of them (mostly [[terms/design\|design]] & [[_005_c4ss1us/c4ss1us.lab\|lab]] notes were tagged so far, so the index below is missing a ton of stuff from [[_005_c4ss1us/c4ss1us.alchemy\|alchemy]], [[_005_c4ss1us/c4ss.art\|art]], [[_005_c4ss1us/c4ss1us.player\|player]] and [[_005_c4ss1us/c4ss1us.regen\|regen]], that are less processed/more embryonary).
 
-i intend to fix this soon, but in the meantime, while i'm also building other views to gelp navigate this information - the [[_001_MOCs/025 🔷 long game/025 🗺 topics & references MOC\|025 🗺 topics & references MOC]] and [[_003_research/00 - viable pathways book-zine\|viable pathways]]' [[_003_research/05 - core references & resources\|05 - core references & resources]] pages - this is a useful visualization for navigating this research garden by identifying what i deem as most relevant from the areas above:
+i intend to fix this soon, but in the meantime, while i'm also building other views to help navigate this information - the [[_001_MOCs/025 🔷 long game/025 🗺 topics & references MOC\|025 🗺 topics & references MOC]] and [[_003_research/00 - viable pathways book-zine\|viable pathways]]' [[_003_research/05 - core references & resources\|05 - core references & resources]] pages - this is a useful visualization for navigating this research garden by identifying what i deem as most relevant from the areas above:
 
 \**i've hid anything below 80 relevance score since - well, they're not as relevant at the moment, and therefore shouldn't clutter this visualization.*
 

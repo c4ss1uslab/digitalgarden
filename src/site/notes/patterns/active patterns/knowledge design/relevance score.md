@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-08-20T11:42:20-03:00","last tended to":"2024-11-03T15:53:40-03:00","tags":["patterns","🌿","knowledgedesign"],"dg-publish":true,"aliases":["relevance scores"],"notestage":["🌿"],"created":"2024-08-20T11:42:20.162-03:00","updated":"2024-11-21T13:14:26.032-03:00","permalink":"/patterns/active-patterns/knowledge-design/relevance-score/","dgPassFrontmatter":true}
+{"created in":"2024-08-20T11:42:20-03:00","last tended to":"2024-11-03T15:53:40-03:00","tags":["patterns","🌿","knowledgedesign"],"dg-publish":true,"aliases":["relevance scores"],"notestage":["🌿"],"created":"2024-08-20T11:42:20.162-03:00","updated":"2024-12-06T16:28:45.473-03:00","permalink":"/patterns/active-patterns/knowledge-design/relevance-score/","dgPassFrontmatter":true}
 ---
 
 #### about
@@ -25,9 +25,9 @@ well, that's my perspective and how i'm choosing to use the term. it's a startin
 ---
 #### relevance score visualizations
 
-i still have to figure out why the [digital garden plugin](https://dg-docs.ole.dev/) i'm using isn't allowing me to show the relevance score property on my notes. i currently have 121 notes with assigned relevance scores over 80 (max 100), and i'm slowly adding it to more and more of them (mostly [[terms/design\|design]]/[[_005_c4ss1us/c4ss1us.design\|architect]] & [[_005_c4ss1us/c4ss1us.lab\|lab]] notes were tagged so far, so the index below is missing a ton of stuff from [[_005_c4ss1us/c4ss1us.alchemy\|alchemy]], [[_005_c4ss1us/c4ss.art\|art]], [[_005_c4ss1us/c4ss1us.player\|player]] and [[_005_c4ss1us/c4ss1us.regen\|regen]], that are less processed/more embryonary).
+i still have to figure out why the [digital garden plugin](https://dg-docs.ole.dev/) i'm using isn't allowing me to show the relevance score property on my notes. i currently have 125 notes with assigned relevance scores over 80 (max 100), and i'm slowly adding it to more and more of them (mostly [[terms/design\|design]] & [[_005_c4ss1us/c4ss1us.lab\|lab]] notes were tagged so far, so the index below is missing a ton of stuff from [[_005_c4ss1us/c4ss1us.alchemy\|alchemy]], [[_005_c4ss1us/c4ss.art\|art]], [[_005_c4ss1us/c4ss1us.player\|player]] and [[_005_c4ss1us/c4ss1us.regen\|regen]], that are less processed/more embryonary).
 
-i intend to fix this soon, but in the meantime, while i'm also building other views to gelp navigate this information - the [[_001_MOCs/025 🔷 long game/025 🗺 topics & references MOC\|025 🗺 topics & references MOC]] and [[_003_research/00 - viable pathways book-zine\|viable pathways]]' [[_003_research/05 - core references & resources\|05 - core references & resources]] pages - this is a useful visualization for navigating this research garden by identifying what i deem as most relevant from the areas above:
+i intend to fix this soon, but in the meantime, while i'm also building other views to help navigate this information - the [[_001_MOCs/025 🔷 long game/025 🗺 topics & references MOC\|025 🗺 topics & references MOC]] and [[_003_research/00 - viable pathways book-zine\|viable pathways]]' [[_003_research/05 - core references & resources\|05 - core references & resources]] pages - this is a useful visualization for navigating this research garden by identifying what i deem as most relevant from the areas above:
 
 \**i've hid anything below 80 relevance score since - well, they're not as relevant at the moment, and therefore shouldn't clutter this visualization.*
 
