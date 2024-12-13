@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-01-07T17:17:13-03:00","last tended to":"2024-10-18T13:57:44-03:00","relevancescore":91,"tags":["top3","person","knowledgemanagement","interfacedesign","research","userexperience","lab","knowledgedesign","illustration","🌱"],"dg-publish":true,"aliases":["maggie"],"notestage":["🌱"],"permalink":"/people/references/lab/maggie-appleton/","dgPassFrontmatter":true,"created":"2024-01-07T17:17:13.689-03:00","updated":"2024-10-18T14:01:05.402-03:00"}
+{"created in":"2024-01-07T17:17:13-03:00","last tended to":"2024-10-18T14:01:05-03:00","relevancescore":91,"tags":["top3","person","knowledgemanagement","interfacedesign","research","userexperience","lab","knowledgedesign","illustration","🌱"],"dg-publish":true,"aliases":["maggie"],"notestage":["🌱"],"created":"2024-01-07T17:17:13.689-03:00","updated":"2024-12-13T16:26:14.295-03:00","permalink":"/people/references/lab/maggie-appleton/","dgPassFrontmatter":true}
 ---
 
 https://maggieappleton.com/
@@ -22,5 +22,5 @@ essays:
 [[_009_notes & highlights from books, videos, articles/How to Draw Invisible Programming Concepts\|How to Draw Invisible Programming Concepts]]
 
 patterns:
-[[Programming Portals\|Programming Portals]]
+[[_009_notes & highlights from books, videos, articles/Programming Portals\|Programming Portals]]
 [[Assumed Audiences\|Assumed Audiences]]

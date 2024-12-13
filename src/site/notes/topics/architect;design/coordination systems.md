@@ -4,7 +4,7 @@
 
 important distinctions: [[coordination\|coordination]] vs [[terms/collaboration\|collaboration]] / [[cooperation\|cooperation]]
 
-[[coordination layer\|coordination layer]]
+[[concepts/design/coordination layer\|coordination layer]]
 
 important concepts: [[superorganism\|superorganism]], [[concepts/design/moloch\|moloch]], [[concepts/design/coordination failure\|coordination failure]], [[concepts/design/coordination frameworks\|coordination frameworks]], [[topics/architect;design/coordination protocols\|coordination protocols]], [[concepts/design/coordination mechanisms\|coordination mechanisms]].
 

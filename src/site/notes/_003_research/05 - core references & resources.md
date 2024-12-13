@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-07-30T21:38:54-03:00","last tended to":"2024-10-22T19:55:34-03:00","tags":["🌱"],"dg-publish":true,"notestage":["🌱"],"created":"2022-07-30T21:38:54.771-03:00","updated":"2024-11-30T17:02:21.345-03:00","permalink":"/003-research/05-core-references-and-resources/","dgPassFrontmatter":true}
+{"created in":"2022-07-30T21:38:54-03:00","last tended to":"2024-10-22T19:55:34-03:00","tags":["🌱"],"dg-publish":true,"notestage":["🌱"],"created":"2022-07-30T21:38:54.771-03:00","updated":"2024-12-12T17:17:15.916-03:00","permalink":"/003-research/05-core-references-and-resources/","dgPassFrontmatter":true}
 ---
 
 ```ad-warning
@@ -205,8 +205,8 @@ however, this also introduces a degree of complexity - it both makes it easier t
 so let's do it!
 
 [core references]
-CRI
-diome.xyz
+[[CRI\|CRI]]
+[[projects & tools/projects/design/diome.xyz\|diome.xyz]]
 [[projects & tools/projects/player/world game\|world game]]
 
 [wider context]
@@ -215,7 +215,7 @@ diome.xyz
 
 [projects]
 
-https://stephenreid.net/knowledgegraph
+[[stephen reid's knowledgegraphs\|stephen reid's knowledgegraphs]]
 
 [people]
 
@@ -316,7 +316,7 @@ https://codeberg.org/teaserbot-labs/delightful-humane-design
 [[creative spaces\|creative spaces]]
 [[incubators\|incubators]] / [[accelerators\|accelerators]] / [[hubs\|hubs]]
 
-[[people/references/architect;design/stephen reid\|stephen reid]] / [[paul rony\|paul rony]]
+[[people/references/architect;design/stephen reid\|stephen reid]] / [[people/references/lab/paul rony\|paul rony]]
 
 "research agents" / "application agents" / "follow-up/relationship agents"
 

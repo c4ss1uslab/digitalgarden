@@ -19,7 +19,7 @@ a related graph proposed by [[david j. temple\|david j. temple]], in [[responses
 **intro** - https://secondrenaissance.net/intro
 
 **whitepaper** - https://drive.google.com/file/d/1m6gA7GKansoJdRZEr1zO6Ds7Hp5rMvo6/view
-it's like a summary of [[people/references/alchemy/hanzi freinacht\|hanzi]]'s [[listening society\|listening society]]. great intro.
+it's like a summary of [[people/references/alchemy/hanzi freinacht\|hanzi]]'s [[_009_notes & highlights from books, videos, articles/listening society\|listening society]]. great intro.
 
 **ecosystem** (people in the field with similar/complementary approaches) - https://secondrenaissance.net/ecosystem
 

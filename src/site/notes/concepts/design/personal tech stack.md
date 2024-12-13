@@ -25,7 +25,7 @@ for a long time, i've been trying to curate the "[[experiments/made by me/design
 for a deeper exploration into both of these, see:
 
 - **approach 1: [[_006_core notes/personal OS design\|personal OS design]]**
-- **approach 2: [[adapt existing systems\|adapt existing systems]]**
+- **approach 2: [[responses/lab/adapt existing systems\|adapt existing systems]]**
 
 #### breaking down a personal tech stack
 ##### hardware:

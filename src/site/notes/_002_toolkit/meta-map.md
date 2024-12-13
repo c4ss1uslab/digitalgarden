@@ -1,5 +1,5 @@
 ---
-{"aliases":["🗺 meta-map","wordcloud","🗾 meta-map"],"created in":"2022-01-03T19:16:10-03:00","last tended to":"2024-09-29T14:42:57-03:00","tags":["design","🌿","research","knowledgedesign","informationdesign","experiment"],"dg-publish":true,"notestage":["🌿"],"created":"2022-01-03T19:16:10.550-03:00","updated":"2024-11-19T17:36:18.552-03:00","permalink":"/002-toolkit/meta-map/","dgPassFrontmatter":true}
+{"aliases":["🗺 meta-map","wordcloud","🗾 meta-map"],"created in":"2022-01-03T19:16:10-03:00","last tended to":"2024-09-29T14:42:57-03:00","tags":["design","🌿","research","knowledgedesign","informationdesign","experiment"],"dg-publish":true,"notestage":["🌿"],"created":"2022-01-03T19:16:10.550-03:00","updated":"2024-12-13T16:26:12.822-03:00","permalink":"/002-toolkit/meta-map/","dgPassFrontmatter":true}
 ---
 
 an extensive list / experimental form of intuitive clustering of all major themes/domains and references i'm working with.
@@ -130,7 +130,7 @@ multidimensional resources management
 
 [[improvisation\|improvisation]]
 
-[[body music\|body music]]
+[[topics/art/body music\|body music]]
 
 [[topics/player/play\|play]]
 
@@ -206,7 +206,7 @@ multidimensional resources management
 [[topics/lab/UI design\|UI design]]
 [[topics/lab/UX design\|UX design]]
 
-[[topics/architect;design/research\|topics/architect;design/research]] [[tools\|tools]]/[[topics/lab/algorithms\|algorithms]]
+[[topics/architect;design/research\|research]] [[tools\|tools]]/[[topics/lab/algorithms\|algorithms]]
 [[tbprocessed/base notes/concepts - general/curation\|curation]] [[tools\|tools]]/[[topics/lab/algorithms\|algorithms]]
 
 [[RSS feeds\|RSS feeds]]

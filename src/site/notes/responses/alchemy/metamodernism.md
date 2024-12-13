@@ -6,7 +6,7 @@ the metamodern meme sees most of the challenges in the world as a [[topics/alche
 
 people's [[psychological development\|psychological development]] should be taken way more seriously. we live in a [laggard world](https://diome.xyz/2+%F0%9F%8C%BF+Leaves/Civilizational+Layers+%26+Cycles), in which our institutions aren't prepared at all to deal with the large-scale [[complicated systems\|complicated systems]] we've built and the [[concepts/design/metacrisis\|metacrisis]] as a whole (which [[people/references/alchemy/hanzi freinacht\|hanzi]] refers to as the "multi-faceted" crisis).
 
-on their [[listening society\|listening society]] book, hanzi proposes a fantastic definition of [[concepts/alchemy/human development\|human development]] consisting of: [[stage\|stage]], [[code\|code]], [[state\|state]] and [[depth\|depth]] and proposes a few [[responses/alchemy/metamodernism#^64055d\|enlightening perspectives]] and [[policy suggestions\|policy suggestions]] based on their [[sociological analysis\|sociological analysis]].
+on their [[_009_notes & highlights from books, videos, articles/listening society\|listening society]] book, hanzi proposes a fantastic definition of [[concepts/alchemy/human development\|human development]] consisting of: [[stage\|stage]], [[code\|code]], [[state\|state]] and [[depth\|depth]] and proposes a few [[responses/alchemy/metamodernism#^64055d\|enlightening perspectives]] and [[policy suggestions\|policy suggestions]] based on their [[sociological analysis\|sociological analysis]].
 
 i.e. in summary, it states:
 

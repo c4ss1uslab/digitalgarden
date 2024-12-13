@@ -1,10 +1,12 @@
 ---
-{"created in":"2024-01-07T17:22:13-03:00","last tended to":"2024-09-26T15:21:04-03:00","tags":["project","top3","DAOs","community","🌿"],"dg-publish":true,"relevancescore":96,"notestage":["🌿"],"permalink":"/initiatives-orgs-and-communities/architect-design/metagame-wtf/","dgPassFrontmatter":true,"created":"2024-01-07T17:22:13.265-03:00","updated":"2024-09-26T15:21:05.778-03:00"}
+{"created in":"2024-01-07T17:22:13-03:00","last tended to":"2024-09-26T15:21:04-03:00","tags":["project","top3","DAOs","community","🌿"],"dg-publish":true,"relevancescore":96,"notestage":["🌿"],"created":"2024-01-07T17:22:13.265-03:00","updated":"2024-12-11T17:37:10.253-03:00","permalink":"/initiatives-orgs-and-communities/architect-design/metagame-wtf/","dgPassFrontmatter":true}
 ---
 
-*metagame* is a [[topics/architect;design/web3\|web3]] community building a [massive online coordination game](https://metagame.wtf/) - oriented towards figuring out how to play life together, address the [[concepts/design/metacrisis\|metacrisis]] and [[concepts/design/moloch\|moloch]], and build new socio-economic systems more aligned with the better versions of ourselves.
+*metagame* was a [[topics/architect;design/web3\|web3]] community building a [massive online coordination game](https://metagame.wtf/) - oriented towards figuring out how to play life together, address the [[concepts/design/metacrisis\|metacrisis]] and [[concepts/design/moloch\|moloch]], and build new socio-economic systems more aligned with the better versions of ourselves.
 { #fc662c}
 
+
+it was discontinued in october 2024, due to several reasons explained in [this article](https://metagame.substack.com/p/metagame-is-dead-long-live-metagame).
 
 [metagame.wtf](https://metagame.wtf/)
 [wiki.metagame.wtf](https://wiki.metagame.wtf/)
@@ -15,7 +17,7 @@ founder: [[tbprocessed/base notes/people/peth\|peth]]
 
 ##### metagame blocks:
 
-one of the core elements of metagame is the ability to build blocks in a decentralized way. some existing, powerful blocks:
+one of the core elements of metagame was the ability to build blocks in a decentralized way. some existing, powerful blocks:
 
 [[other notes ; references/metagame/mymeta profile\|player profile]]
 [[other notes ; references/metagame/metagame dashboard\|personal dashboard]]

@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-08-22T15:27:37-03:00","last tended to":"2024-11-06T18:52:19-03:00","tags":["concept","regen","technology","design","cybernetics","research","🌱","lab","response"],"relevancescore":96,"dg-publish":true,"notestage":["🌱"],"created":"2024-08-22T15:27:37.000-03:00","updated":"2024-11-08T21:25:37.930-03:00","permalink":"/responses/regen/permacomputing/","dgPassFrontmatter":true}
+{"created in":"2024-08-22T15:27:37-03:00","last tended to":"2024-11-06T18:52:19-03:00","tags":["concept","regen","technology","design","cybernetics","research","🌱","lab","response"],"relevancescore":96,"dg-publish":true,"notestage":["🌱"],"created":"2024-08-22T15:27:37.000-03:00","updated":"2024-12-13T16:26:14.878-03:00","permalink":"/responses/regen/permacomputing/","dgPassFrontmatter":true}
 ---
 
 #### about

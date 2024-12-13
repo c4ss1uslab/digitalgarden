@@ -1,5 +1,5 @@
 ---
-{"aliases":["🕹 l1f3 game","life game","🕹 life game","massively-multiplayer online-and-offline collaborative self-transformation & civilization-building game","L1F3.GAME","l1f3.game","🕹 L1F3.game","🕹 L1F3 game","🕹 L1F3.GAME","L1F3 game","L1F3.game"],"created in":"2022-02-05T11:41:05-03:00","last tended to":"2024-09-29T14:37:10-03:00","tags":["l1f3","project","🌿","game","seriousgame","player"],"dg-publish":true,"notestage":["🌿"],"created":"2022-02-05T11:41:05.535-03:00","updated":"2024-11-14T17:11:38.753-03:00","permalink":"/004-l1-f3/l1f3-game/","dgPassFrontmatter":true}
+{"aliases":["🕹 l1f3 game","life game","🕹 life game","massively-multiplayer online-and-offline collaborative self-transformation & civilization-building game","L1F3.GAME","l1f3.game","🕹 L1F3.game","🕹 L1F3 game","🕹 L1F3.GAME","L1F3 game","L1F3.game"],"created in":"2022-02-05T11:41:05-03:00","last tended to":"2024-09-29T14:37:10-03:00","tags":["l1f3","project","🌿","game","seriousgame","player"],"dg-publish":true,"notestage":["🌿"],"created":"2022-02-05T11:41:05.535-03:00","updated":"2024-12-11T19:26:03.091-03:00","permalink":"/004-l1-f3/l1f3-game/","dgPassFrontmatter":true}
 ---
 
 the l1f3 game is an ongoing endeavor to:
@@ -39,11 +39,13 @@ how do we hold space for all these perspectives, and more to come?
 related people: [[tbprocessed/base notes/people/peth\|peth]]/[[changethegame\|changethegame]]/[[metadreamer\|metadreamer]], [[people/friends/davi lemos\|davi lemos]], [[people/friends/marcelo peterlini\|marcelo peterlini]], [[victor\|victor]] ([[vibecafe.xyz\|vibecafe.xyz]]), [[people/references/lab/gordon brander\|gordon brander]], [[gui david\|gui david]]/[[ketan agrawal\|ketan agrawal]], [[ana marques\|ana marques]]/[[people/acquaintances/ciano\|ciano]], [[ethan nelson\|ethan nelson]]/[[eric brown\|eric brown]], [[julyanna carmo\|julyanna carmo]]/[[daya\|daya]]/[[ronaldo crispim\|ronaldo crispim]], [[people/acquaintances/luis sérgio ferreira\|luis sérgio ferreira]]/[[people/acquaintances/alex bretas\|alex bretas]].
 
 ¹see: [[tbprocessed/base notes/concepts - general/disruption\|disruption]].
+
+---
 ### main references:
 
 ##### conceptual alignment:
 
-[[projects & tools/projects/player/world game\|world game]]
+[[_005_c4ss1us/c4ss1us.design\|design]]: [[projects & tools/projects/player/world game\|world game]]
 source: [[buckminster fuller institute\|buckminster fuller institute]], os.earth
 
 
@@ -56,20 +58,7 @@ source: [[buckminster fuller institute\|buckminster fuller institute]], os.earth
 </div></div>
 
 
-[[initiatives, orgs & communities/architect;design/metagame.wtf\|metagame.wtf]]
-source: [[tbprocessed/base notes/people/peth\|peth]], [[concepts/design/metacrisis\|metacrisis]] / [[tbprocessed/base notes/concepts - general/game b\|game b]] space
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/initiatives-orgs-and-communities/architect-design/metagame-wtf/#fc662c" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-*metagame* is a [[topics/architect;design/web3\|web3]] community building a [massive online coordination game](https://metagame.wtf/) - oriented towards figuring out how to play life together, address the [[concepts/design/metacrisis\|metacrisis]] and [[concepts/design/moloch\|moloch]], and build new socio-economic systems more aligned with the better versions of ourselves. 
-
-</div></div>
-
-
-[[projects & tools/projects/player/startover.xyz\|startover.xyz]]
+[[_005_c4ss1us/c4ss1us.alchemy\|alchemy]]: [[projects & tools/projects/player/startover.xyz\|startover.xyz]]
 source: [[initiatives, orgs & communities/alchemy/possibility management\|possibility management]]
 
 
@@ -78,6 +67,53 @@ source: [[initiatives, orgs & communities/alchemy/possibility management\|possib
 
 
 "a free-to-play massively-multiplayer online-and-offline matrix-building thoughtware-upgrade personal-transformation real-life adventure-game." 
+
+</div></div>
+
+
+[[_005_c4ss1us/c4ss.art\|art]]: [[responses/art/música do círculo\|música do círculo]]
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/responses/art/musica-do-circulo/#353605" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+música do círculo (MdC) is both a community and a practice of improvised music-making, human development and connection, without the use of any instruments (i.e. body music) and for people of all levels of musical experience. it works by integrating 8 major elements, being them: [[improvisation\|improvisation]], [[concepts/player/game\|games]], [[non-verbal communication\|non-verbal communication]], the [[circle\|circle]], [[topics/art/body music\|body music]], [[contact\|contact]], [[movement\|movement]] and [[concepts/alchemy/flow\|flow]]. 
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/responses/art/musica-do-circulo/#ff6390" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+as a practice, it's able to create an educational, therapeutic and artistic space at the same time. it inspires cooperation, deep listening and decolonial modes of relating, and through its radical embrace of co-existing levels of consciousness, it inspires us to think about how to create this quality of field in other spaces as well. 
+
+</div></div>
+
+
+[[_005_c4ss1us/c4ss1us.regen\|regen]]: [[initiatives, orgs & communities/architect;design/SEEDS (ecosystem)\|SEEDS]]
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/initiatives-orgs-and-communities/architect-design/seeds-ecosystem/#e27515" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+[SEEDS](https://joinseeds.earth/) stands for "Sowing Equitable Ecological Decentralized Societies". it is the boldest project i know of that aims to create a complete viable alternative for our capitalist system - a set of decentralized, voluntary, regenerative governance, economic, financial and organizational systems. 
+
+</div></div>
+
+
+[[_005_c4ss1us/c4ss1us.player\|player]]: [[initiatives, orgs & communities/architect;design/metagame.wtf\|metagame.wtf]]
+source: [[tbprocessed/base notes/people/peth\|peth]], [[concepts/design/metacrisis\|metacrisis]] / [[tbprocessed/base notes/concepts - general/game b\|game b]] space
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/initiatives-orgs-and-communities/architect-design/metagame-wtf/#fc662c" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+*metagame* was a [[topics/architect;design/web3\|web3]] community building a [massive online coordination game](https://metagame.wtf/) - oriented towards figuring out how to play life together, address the [[concepts/design/metacrisis\|metacrisis]] and [[concepts/design/moloch\|moloch]], and build new socio-economic systems more aligned with the better versions of ourselves. 
 
 </div></div>
 
@@ -98,15 +134,17 @@ examples: [[references/player/games/ashes of creation\|ashes of creation]] - htt
 
 ##### other real-life gaming tools/refs:
 
-[[initiatives, orgs & communities/architect;design/metagame.wtf\|metagame.wtf]] ([[other notes ; references/metagame/mymeta profile\|player profile]], [[other notes ; references/metagame/metagame dashboard\|personal dashboard]])
+[[initiatives, orgs & communities/architect;design/metagame.wtf\|metagame.wtf]] modules: [[other notes ; references/metagame/mymeta profile\|player profile]], [[other notes ; references/metagame/metagame dashboard\|personal dashboard]]...
 [[references/alchemy/integral OS\|integral OS]]
 [[cabinDAO\|cabinDAO]] profiles (+ other [[terms/DAOs\|DAO]] [[governance\|governance]] mechanisms, [[greenpill\|greenpill]], [[gnosis guild\|gnosis guild]]/[[zodiac\|zodiac]], [[tbprocessed/base notes/ventures - general/SEEDS\|SEEDS]])
 [[projects & tools/projects/player/startover.xyz\|startover.xyz]]'s experiments catalog
 [[united planet\|united planet]] 2030 (SEEDS) / [[school of humanity\|school of humanity]]
-[[people/references/architect;design/gnoman\|gnoman]] regenaissance festival / [[edgar gouvea jr\|edgar gouvea jr]]'s gincanas
+[[people/references/architect;design/gnoman\|gnoman]]'s [regenaissance festival](https://docs.google.com/document/d/1toqpJ8IcOnc-TeP_-AnGNEKz5jTIZk6OeWj2XD1REuE/edit) / [[edgar gouvea jr\|edgar gouvea jr]]'s gincanas
 playful software - [[hyperlink.academy\|hyperlink.academy]], [[sane.fyi\|sane.fyi]], [[fermat.ws\|fermat.ws]], [[mmm.pages\|mmm.pages]], [[huggingface\|huggingface]] spaces, others in the [[indieweb\|indieweb]] space
 (more to add...)
 [[X-prize\|X-prize]], [[bootcamps\|bootcamps]], [[hackathons\|hackathons]]...
+
+---
 
 ```ad-warning
 title: note

@@ -1,5 +1,5 @@
 ---
-{"created":"2024-12-03T16:35:39.304-03:00","updated":"2024-12-03T16:58:15.375-03:00","tags":["l1f3","prototype","lab","alchemy","🌿"],"dg-publish":true,"permalink":"/004-l1-f3/l1f3-manager/","dgPassFrontmatter":true}
+{"created":"2024-12-03T16:35:39.304-03:00","updated":"2024-12-11T16:52:17.387-03:00","tags":["l1f3","prototype","lab","alchemy","🌿"],"dg-publish":true,"relevancescore":86,"permalink":"/004-l1-f3/l1f3-manager/","dgPassFrontmatter":true}
 ---
 
 the l1f3 manager is a [[_001_MOCs/050 🟩 mid game/070 🔩 prototypes MOC\|prototype]] built by [[people/friends/ísis schuarts\|ísis schuarts]] which aimed to be the technological basis of [[_004_L1F3/core concepts/self-management\|self]] and [[topics/lab/personal data management\|personal data management]] within the [[_004_L1F3/l1f3 game\|L1F3 game]].
@@ -20,10 +20,14 @@ in her framework/prototype, there are 6 dimensions of [[_004_L1F3/core concepts/
 
 ![](https://i.imgur.com/MtY6f34.png)
 
-this is an example of a [[_004_L1F3/core concepts/life management\|life management]] view in practice, focused on from one's [[field of view\|field of view]], clarifying and matching [[_001_MOCs/075 🔴🟠🟡 short game/099 📆 activities MOC\|activities]] & [[_002_toolkit/daily/time blocks\|time blocks]]:
+she introduces these at the [adam kadmon instute playbook](https://adamkadmon-institute.my.canva.site/playbook) (beta website).
+
+below is an example of a [[_004_L1F3/core concepts/life management\|life management]] view in practice, focused on one's [[field of view\|field of view]], clarifying and matching [[_001_MOCs/075 🔴🟠🟡 short game/099 📆 activities MOC\|activities]] & [[_002_toolkit/daily/time blocks\|time blocks]]:
 
 ![](https://i.imgur.com/A3TXe1J.png)
 
+she introduces it in [a series of 13 videos](https://www.youtube.com/playlist?list=PLliJTfwEBewrsBny4TAusQGNBfgzWB8QN) that are over 1h long each, as part of a bigger presentation of her overarching vision. the videos ["corporate care: why my next step is to create a care structure for organizations?"](https://www.youtube.com/watch?v=kVoU_SJXS2c&list=PLliJTfwEBewrsBny4TAusQGNBfgzWB8QN&index=5), "[the art of collaboration: how to join the pieces of the puzzle to actualize the planetary transition](https://www.youtube.com/watch?v=UDS64SBwVkY&list=PLliJTfwEBewrsBny4TAusQGNBfgzWB8QN&index=6)", and [life management: how to metrify routine and direct your energy to transform your reality](https://www.youtube.com/watch?v=Nxo8hX97ojk&list=PLliJTfwEBewrsBny4TAusQGNBfgzWB8QN&index=7) go into the different parts of it in more depth.
+
 the prototype was developed using both a SQL-like language she created and a few [[excel\|excel]] spreadsheets for the time being. the goal is for it to be open-source, but as it needed initial funding and a lot more development, she opted for selling a hands-on implementation package as a kind of personal assistance service.
 
-i don't know if/how/when this project will see the light of day, since ísis is involved with a bunch of other things, but i find some of its design
+i don't know if/how/when this project will see the light of day, since ísis is involved with a bunch of other things, but i find a good deal of its design very comprehensive.

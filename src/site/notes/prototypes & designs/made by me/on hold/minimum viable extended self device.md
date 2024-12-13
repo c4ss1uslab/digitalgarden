@@ -62,9 +62,9 @@ major, major ref: https://dynamicland.org/
 https://www.inkandswitch.com/inkbase/
 https://andrewmurraydunn.com/soul-map
 [[initiatives, orgs & communities/alchemy/possibility management\|possibility management]]'s [[concepts/player/artifacts\|artifacts]]
-[[ana marques\|ana marques]]' [[references/player/games/sanctuaries of attention game\|sanctuaries of attention game]]
+[[ana marques\|ana marques]]' [[references/player/games/serious games/sanctuaries of attention game\|sanctuaries of attention game]]
 [[people/acquaintances/simone catalan\|simone catalan]]'s [[projects & tools/projects/player/jogo da colaboração\|jogo da colaboração]]
-[[references/player/games/findhorn's transformation game\|findhorn's transformation game]]
+[[references/player/games/serious games/findhorn's transformation game\|findhorn's transformation game]]
 https://www.instructables.com/ -> to look more into, see if i find any similar projects.
 
 ---

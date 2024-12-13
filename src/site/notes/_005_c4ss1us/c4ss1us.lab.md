@@ -20,7 +20,7 @@
 
 [[topics/architect;design/web3\|web3]], [[topics/architect;design/refi\|refi]], [[topics/architect;design/financial incentives for open-source software\|financial incentives for open-source software]], (...)
 
-2) how might we [[adapt existing systems\|adapt existing systems]] (reducing harm & expanding utility) vs developing [[topics/architect;design/systemic collapse\|post-collapse]], [[topics/architect;design/regeneration\|regenerative]] [[concepts/design/infrastructure\|infrastructure]]?
+2) how might we [[responses/lab/adapt existing systems\|adapt existing systems]] (reducing harm & expanding utility) vs developing [[topics/architect;design/systemic collapse\|post-collapse]], [[topics/architect;design/regeneration\|regenerative]] [[concepts/design/infrastructure\|infrastructure]]?
 
 [[responses/regen/permacomputing\|permacomputing]], [[low-tech\|low-tech]] approaches, [[_001_MOCs/050 🟩 mid game/070 🔩 prototypes MOC\|prototypes]], etc.
 
@@ -41,7 +41,7 @@ extremely intentional [[experiments/made by me/design/minimum viable intentional
 see: [[references/lab/github starred repositories\|github lists]]
 
 \+ weighted [[_001_MOCs/025 🔷 long game/025 🗺 topics & references MOC\|topics]] map:
-[[_006_core notes/personal OS design\|personal OS design]] -> [[adapt existing systems\|adapt existing systems]]
+[[_006_core notes/personal OS design\|personal OS design]] -> [[responses/lab/adapt existing systems\|adapt existing systems]]
 [[topics/lab/algorithms\|algorithms]] -> [[topics/architect;design/personal algorithms design\|personal algorithms design]] -> [[personal system\|personal system]]
 [[digital environments\|digital environments]] ([[2d\|2d]], [[topics/art/3d\|3d]], [[topics/lab/XR\|XR]], [[views\|views]], [[interfaces\|interfaces]], [[software\|software]], [[games\|games]])
 [[physical environments\|physical environments]] / [[devices\|devices]] / [[concepts/player/artifacts\|artifacts]]

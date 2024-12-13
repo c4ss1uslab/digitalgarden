@@ -286,7 +286,7 @@ other relevant approaches:
 - [[initiatives, orgs & communities/lab/neighbourhoods\|neighbourhoods]]
 
 ###### other orgs building tools:
-- [[initiatives, orgs & communities/the computational democracy project\|the computational democracy project]] ([[projects & tools/tools/lab/pol.is\|pol.is]])
+- [[initiatives, orgs & communities/architect;design/the computational democracy project\|the computational democracy project]] ([[projects & tools/tools/lab/pol.is\|pol.is]])
 - [[initiatives, orgs & communities/architect;design/goodly labs\|goodly labs]]
 
 ###### decentralized social media initiatives:

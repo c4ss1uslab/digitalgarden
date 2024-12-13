@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-09-15T13:06:27-03:00","last tended to":"2024-11-03T15:37:41-03:00","tags":["metacrisis","research","digitalgardening","regeneration","technology","resource","project","🌱"],"relevancescore":96,"dg-publish":true,"notestage":["🌱"],"created":"2024-09-15T13:06:27.283-03:00","updated":"2024-12-03T17:15:06.426-03:00","permalink":"/projects-and-tools/projects/design/diome-xyz/","dgPassFrontmatter":true}
+{"created in":"2024-09-15T13:06:27-03:00","last tended to":"2024-11-03T15:37:41-03:00","tags":["metacrisis","research","digitalgardening","regeneration","technology","resource","project","🌱"],"relevancescore":96,"dg-publish":true,"notestage":["🌱"],"created":"2024-09-15T13:06:27.283-03:00","updated":"2024-12-13T16:26:14.769-03:00","permalink":"/projects-and-tools/projects/design/diome-xyz/","dgPassFrontmatter":true}
 ---
 
 https://diome.xyz/

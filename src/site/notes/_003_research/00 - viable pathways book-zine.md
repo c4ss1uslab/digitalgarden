@@ -1,16 +1,15 @@
 ---
-{"created in":"2022-03-25T13:53:56-03:00","last tended to":"2024-10-06T02:11:50-03:00","tags":["🌿"],"aliases":["viable pathways","viable pathways zine","viable pathways book-zine","viable pathways book-zine mvp","book-zine"],"dg-publish":true,"notestage":["🌿"],"created":"2022-03-25T13:53:56.444-03:00","updated":"2024-12-04T15:58:57.171-03:00","permalink":"/003-research/00-viable-pathways-book-zine/","dgPassFrontmatter":true}
+{"created in":"2022-03-25T13:53:56-03:00","last tended to":"2024-10-06T02:11:50-03:00","tags":["🌿"],"aliases":["viable pathways","viable pathways zine","viable pathways book-zine","viable pathways book-zine mvp","book-zine"],"dg-publish":true,"notestage":["🌿"],"created":"2022-03-25T13:53:56.444-03:00","updated":"2024-12-09T19:15:35.918-03:00","permalink":"/003-research/00-viable-pathways-book-zine/","dgPassFrontmatter":true}
 ---
 
 #### ⚠ coming soon!
 
-what you'll find below are some drafts of this publication. check back in a few weeks for a polished version!
+what you'll find below are some drafts of this publication. check back in a few weeks for a (hopefully) more polished version!
 
 <!--![viable pathways book-zine cover.png|1000](/img/user/assets/viable%20pathways%20book-zine%20cover.png)-->
 ![](https://i.imgur.com/MzsDZ3I.jpeg)
 
 ---
-
 #### my research in 1 page:
 
 an inquiry into post-capitalist systems:
@@ -55,12 +54,13 @@ a note where i'm going next:
 i've held and develop long-time intuitions about games/play, networks and regenerative technology design as powerful & under-developed responses to our metacrisis.
 
 ---
-
 #### structure
 
 this is the skeleton of a living, under-construction book-zine - an experimental [[hyper-linked multimedia medium\|hyper-linked multimedia medium]] that acts as a theoretical research / practical toolkit in-between. it's still very messy, as you'll be able to see if you choose to keep reading now (or you can wait for it to be released and access the polished version later).
 
-this book-zine is comprised of: an [[introduction\|introduction]], 5 [core essays], [α] illustrations, [x] maps, [y] excerpts, [z] core references, [Φ] deepening/clarification notes, a summary/recap and a list of [Θ] further resources...
+this book-zine is comprised of: an [[introduction\|introduction]], 10 [core essays], [α] illustrations, [x] maps, [y] excerpts, [z] core references, [Φ] deepening/clarification notes, a summary/recap and a list of [Θ] further resources...
+
+**2 versions:** PDF (visual introduction) and e-reader/web version (in-depth publication).
 
 to receive ongoing updates and/or collaborate on following publications, please [fill up this form].
 
@@ -286,7 +286,7 @@ a few of the main related themes are:
 [[topics/architect;design/ontological design\|ontological design]], [[models & frameworks/design/metadesign\|metadesign]], [[social systems\|social systems]], [[civilization cycles\|civilization cycles]], [[societal collapse\|societal collapse]], [[topics/player/game theory\|game theory]], [[concepts/design/existential risk\|existential risk]], [[_004_L1F3/core concepts/civilization design\|civilization design]]
 [[_004_L1F3/core concepts/self design\|self design]], [[concepts/alchemy/self-transformation\|self-transformation]], [[consciousness expansion\|consciousness expansion]], [[concepts/alchemy/non-ordinary states of consciousness\|non-ordinary states of consciousness]], [[topics/alchemy/trauma healing\|trauma healing]], [[psychological development\|psychological development]], [[transpersonal psychology\|transpersonal psychology]], [[concepts/alchemy/psychospiritual tools & practices\|psychospiritual tools & practices]]
 [[concepts/alchemy/embodied cognition\|embodied cognition]], [[concepts/design/extended cognition\|extended cognition]], [[orientation\|orientation]], [[concepts/alchemy/sensemaking\|sensemaking]], [[terms/decision-making\|decision-making]], [[cognitive offloading\|cognitive offloading]], [[topics/player/self-directed learning\|self-directed learning]] processes
-[[topics/architect;design/futurism\|futurism]], [[futures studies\|futures studies]], [[future narratives\|future narratives]], [[information ecology\|information ecology]], [[reality models\|reality models]], [[worldviews\|worldviews]], [[cosmovisions\|cosmovisions]], [[concepts/alchemy/decolonization\|decolonization]], [[ancestral futures\|ancestral futures]]
+[[topics/architect;design/futurism\|futurism]], [[topics/architect;design/futures studies\|futures studies]], [[future narratives\|future narratives]], [[information ecology\|information ecology]], [[reality models\|reality models]], [[worldviews\|worldviews]], [[cosmovisions\|cosmovisions]], [[concepts/alchemy/decolonization\|decolonization]], [[ancestral futures\|ancestral futures]]
 [[21st-century\|21st-century]], [[topics/architect;design/anthropology\|anthropology]], [[_004_L1F3/core concepts/lifestyles\|lifestyles]], [[_004_L1F3/core concepts/life design\|life design]], [[_004_L1F3/core concepts/life intelligence\|life intelligence]], [[cultural artifacts\|cultural artifacts]], [[urban flourishing\|urban flourishing]], [[topics/architect;design/serious games\|serious games]], [[concepts/player/serious play\|serious play]]
 [[concepts/design/infinite games\|infinite games]], [[zero-sum games\|zero-sum games]], [[concepts/alchemy/evolutionary games\|evolutionary games]] (check a jogada + game theory wiki)
 [[digital anthropology\|digital anthropology]], [[transhumanism\|transhumanism]], [[non-human agents\|non-human agents]], [[exponential technologies\|exponential technologies]], [[decentralized systems\|decentralized systems]]

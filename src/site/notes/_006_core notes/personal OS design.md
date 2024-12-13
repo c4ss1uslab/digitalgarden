@@ -32,7 +32,7 @@ there are a few projects that offer interesting possibilities...
 [[initiatives, orgs & communities/lab/ink & switch\|ink & switch]] - lots of small [[_001_MOCs/050 🟩 mid game/070 🔩 prototypes MOC\|prototypes]] / [[proof of concept\|proof of concepts]].
 ###### overall design
 
-[[projects & tools/tools/lab/dynamicland\|dynamicland]] -> a physically-distributed communal computer. profound research on creating a [[models & frameworks/design/humane design\|humane]] [[dynamic medium\|dynamic medium]].
+[[initiatives, orgs & communities/lab/dynamicland\|dynamicland]] -> a physically-distributed communal computer. profound research on creating a [[models & frameworks/design/humane design\|humane]] [[dynamic medium\|dynamic medium]].
 [[projects & tools/tools/lab/collapseOS\|collapseOS]] -> low-tech OS based on the principles of [[responses/regen/permacomputing\|permacomputing]] and aware of our impending [[topics/architect;design/systemic collapse\|systemic collapse]].
 [[daylight computer\|daylight computer]] -> low-tech computer
 [[projects & tools/tools/lab/open interpreter 01\|open interpreter 01]] - an open-source language model computer. basically the practical version of this:

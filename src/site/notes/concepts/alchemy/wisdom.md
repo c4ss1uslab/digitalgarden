@@ -24,7 +24,7 @@ sourcing mostly from [[people/references/alchemy/iain mcgilchrist\|iain mcgilchr
 "wisdom is the best predictor of life satisfaction" - source
 
 [[curiosity\|curiosity]]: can you force yourself to be interested in something?
--> this question points to a deeper reality, often evidenced by [[references/alchemy/carl jung\|jung]] and [[joseph campbell\|campbell]], that there's something beyond your control that's always guiding you. this force connects you to what's intrinsically motivating and orients you towards your personal growth.
+-> this question points to a deeper reality, often evidenced by [[references/alchemy/carl jung\|jung]] and [[references/alchemy/joseph campbell\|campbell]], that there's something beyond your control that's always guiding you. this force connects you to what's intrinsically motivating and orients you towards your personal growth.
 
 source: https://www.youtube.com/watch?v=whHC50IbiPo
 

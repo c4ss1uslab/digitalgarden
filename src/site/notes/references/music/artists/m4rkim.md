@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-07-26T08:22:01-03:00","last tended to":"2024-10-13T01:27:07-03:00","tags":["artist","music","geek","🌿"],"dg-publish":true,"notestage":["🌿"],"permalink":"/references/music/artists/m4rkim/","dgPassFrontmatter":true,"created":"2024-07-26T08:22:01.867-03:00","updated":"2024-10-13T01:36:04.061-03:00"}
+{"created in":"2024-07-26T08:22:01-03:00","last tended to":"2024-10-13T01:36:04-03:00","tags":["artist","music","geek","🌿"],"dg-publish":true,"notestage":["🌿"],"created":"2024-07-26T08:22:01.867-03:00","updated":"2024-12-09T17:40:42.240-03:00","permalink":"/references/music/artists/m4rkim/","dgPassFrontmatter":true}
 ---
 
 #### listening stats
@@ -8,9 +8,12 @@ as of october 12th, 2024, m4rkim is my #1 most listened artist of all-time with 
 
 #### about
 
-[m4rkim](https://www.youtube.com/@M4rkim) is a young brazilian artist (born in 2002), that creates [[nerdcore\|nerdcore]] music, or as it's known in portuguese: [[música nerd\|música nerd]]/[[música geek\|música geek]]. i.e. music inspired by/that reflects themes from nerd culture: [[topics/player/anime\|anime]], [[manga\|manga]], [[concepts/player/game\|games]] and such. his style blends mostly [[rock\|rock]]/[[metal\|metal]], [[trap\|trap]] and [[rap\|rap]].
+[m4rkim](https://www.youtube.com/@M4rkim) is a young brazilian artist (born in 2002), that creates [[nerdcore\|nerdcore]] music, or as it's known in portuguese: [[música nerd\|música nerd]]/[[música geek\|música geek]].
+i.e. music inspired by/that reflects themes from nerd culture: [[topics/player/anime\|anime]], [[manga\|manga]], [[concepts/player/game\|games]] and such.
 
-**if you're new to nerdcore, see: [[topics/art/brazilian nerdcore\|brazilian nerdcore]]**
+his style blends mostly [[rock\|rock]]/[[metal\|metal]], [[trap\|trap]] and [[rap\|rap]], but varies a lot based on the character/story being interpreted.
+
+**if you're new to nerdcore, see: [[topics/art/brazilian nerdcore\|brazilian nerdcore]]** for why this is so interesting to me.
 
 #### playlists
 
@@ -18,6 +21,7 @@ a playlist with a few of my favorites: [[br nerdcore] m4rkim favorites](https://
 
 a list of my most listened songs (1-50): https://www.last.fm/user/cassiuscarvalho/library/music/M4rkim/+tracks
 
+---
 #### a personal review - why m4rkim is my #1 most listened artist:
 
 text written in july 26th, 2024:

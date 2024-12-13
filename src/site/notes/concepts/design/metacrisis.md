@@ -8,7 +8,7 @@ it's a particular description of the *human predicament* that can help us better
 
 many philosophers, cognitive scientists, spiritual teachers, have been convening around this term to make sense of the situation we've found ourselves in.
 
-one of the best introductions i found is this 11-minute video by [[ashley hodgson\|ashley hodgson]]: [What is the Metacrisis? Why is it Hopeful?](https://www.youtube.com/watch?v=kgCHqyq4LHA). i highly recommend you watch it.
+one of the best introductions i found is this 11-minute video by [[people/references/architect;design/ashley hodgson\|ashley hodgson]]: [What is the Metacrisis? Why is it Hopeful?](https://www.youtube.com/watch?v=kgCHqyq4LHA). i highly recommend you watch it.
 
 [[references/alchemy/first principles and first values\|first principles and first values - forty-two propositions on cosmoerotic humanism, the meta-crisis and the world to come]] - the authors propose that at the root of the metacrisis, there's an [[diagnosis/intimacy crisis\|intimacy crisis]]. a crisis of disconnection. of ourselves, of the other, of the planet - and primarily, of the [[field of value\|field of value]] (which is different but very close to what's often times referred to as "the [[sacred\|sacred]]" or "the [[true\|true]], the [[good\|good]] and the [[beautiful\|beautiful]]" by other [[topics/alchemy/spiritual lineages\|wisdom traditions]]).
 

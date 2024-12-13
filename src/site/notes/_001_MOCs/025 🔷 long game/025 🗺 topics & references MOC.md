@@ -1,5 +1,5 @@
 ---
-{"aliases":["topics","fields","fields of knowledge"],"created in":"2021-12-11T16:52:03-03:00","last tended to":"2024-10-24T21:59:41-03:00","dg-publish":true,"tags":["🌿","selfmanagement"],"notestage":["🌿"],"created":"2021-12-11T16:52:03.339-03:00","updated":"2024-11-30T16:55:51.912-03:00","permalink":"/001-mo-cs/025-long-game/025-topics-and-references-moc/","dgPassFrontmatter":true}
+{"aliases":["topics","fields","fields of knowledge"],"created in":"2021-12-11T16:52:03-03:00","last tended to":"2024-10-24T21:59:41-03:00","dg-publish":true,"tags":["🌿","selfmanagement"],"notestage":["🌿"],"created":"2021-12-11T16:52:03.339-03:00","updated":"2024-12-13T16:26:10.147-03:00","permalink":"/001-mo-cs/025-long-game/025-topics-and-references-moc/","dgPassFrontmatter":true}
 ---
 
 on the contents below, the emojis mean different things. here's their caption:
@@ -205,7 +205,7 @@ level of depth:
 	[[youtube playlists\|youtube playlists]]
 	[[spotify playlists\|spotify playlists]]
 🌱 [[music playing\|music playing]]
-	🌱 [[body music\|body music]]
+	🌱 [[topics/art/body music\|body music]]
 	🌱 [[circle music\|circle music]]
 	💩 [[singing\|singing]]
 	💩 [[drums\|drums]]
@@ -340,7 +340,7 @@ the future of:
 -   [[topics/architect;design/economics\|economics]] / [[tbprocessed/base notes/topics/resources generation\|resources generation]] / [[resources management\|resources management]]
 -   [[terms/information\|information]] / [[knowledge generation\|knowledge generation]] / [[topics/lab/personal knowledge management\|personal knowledge management]]
 -   [[governance\|governance]] / [[terms/decision-making\|decision-making]] / [[decision management\|decision management]]
--   [[intelligence\|intelligence]] / [[topics/architect;design/research\|topics/architect;design/research]] / [[responses/lab/mapping\|mapping]] / [[tbprocessed/base notes/concepts - general/curation\|curation]]
+-   [[intelligence\|intelligence]] / [[topics/architect;design/research\|research]] / [[responses/lab/mapping\|mapping]] / [[tbprocessed/base notes/concepts - general/curation\|curation]]
 -   [[physical environments\|physical environments]] / [[digital environments\|digital environments]]
 -   [[topics/architect;design/technology\|technology]]
 

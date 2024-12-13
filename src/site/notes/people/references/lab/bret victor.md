@@ -6,7 +6,7 @@ https://worrydream.com/
 { #ae2304}
 
 
-bret is a visionary and researcher on the [[topics/lab/the future of computing\|the future of computing]], [[topics/lab/spatial computing\|spatial computing]], [[concepts/design/extended cognition\|extended cognition]] and more. he's the founder of [[projects & tools/tools/lab/dynamicland\|dynamicland]].
+bret is a visionary and researcher on the [[topics/lab/the future of computing\|the future of computing]], [[topics/lab/spatial computing\|spatial computing]], [[concepts/design/extended cognition\|extended cognition]] and more. he's the founder of [[initiatives, orgs & communities/lab/dynamicland\|dynamicland]].
 
 his main thesis reflects a frustration i held for a long time, but wasn't able to articulate well: we invented the [[dynamic medium\|dynamic medium]] (you could interpret it as "[[computers\|computers]]" or "[[topics/lab/computing\|computing]]" as a whole, but see the references below for way more detail) and we still don't use it to 10% of its potential. we don't explore the dimensions of dynamic [[topics/lab/systems modeling\|systems modeling]] it opens up. we use it ever so often to keep going with "business as usual", but more "productive". or put another way, we're often translating busywork from previously a desk into a "desktop".
 
@@ -29,7 +29,7 @@ in it, he presents very simply and clearly his [[theory of change\|theory of cha
 > Intention:
 > Use the dynamic medium to reinvent the representations of thought. Invent a way of thinking — imagining, understanding, creating, explaining — via dynamic representations that engage all modes of thought and respect the whole human being.
 
-\+ more details, illustrations and his plan for application on [[projects & tools/tools/lab/dynamicland\|dynamicland]]. it's very similar to the vision i was prototyping with the [[projects & tools/projects/design/24h system\|24h system]] at [[high stakes academy\|high stakes academy]] back in 2019, minus my utter lack of technical skills and my bigger focus on the [[_004_L1F3/core concepts/life management\|life management]] aspect of it.
+\+ more details, illustrations and his plan for application on [[initiatives, orgs & communities/lab/dynamicland\|dynamicland]]. it's very similar to the vision i was prototyping with the [[projects & tools/projects/design/24h system\|24h system]] at [[high stakes academy\|high stakes academy]] back in 2019, minus my utter lack of technical skills and my bigger focus on the [[_004_L1F3/core concepts/life management\|life management]] aspect of it.
 
  2) [stop drawing dead fish](https://vimeo.com/64895205) - exploring/introducing a few "[[unique affordances of the computational medium\|unique affordances of the computational medium]]"
 
@@ -43,10 +43,10 @@ in it, he presents very simply and clearly his [[theory of change\|theory of cha
 
 introduces: [[reactive documents\|reactive documents]] (as seen in [[references/lab/ten brighter ideas\|ten brighter ideas]]), [[explorable examples\|explorable examples]], [[contextual information\|contextual information]].
 
-###### 2) [[what can a technologist do about climate change\|what can a technologist do about climate change]]?
+###### 2) [[_009_notes & highlights from books, videos, articles/what can a technologist do about climate change\|what can a technologist do about climate change]]?
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/009-notes-and-highlights-from-books-videos-articles/what-can-a-technologist-do-about-climate-change/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 

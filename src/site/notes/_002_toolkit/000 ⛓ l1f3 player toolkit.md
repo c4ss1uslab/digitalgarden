@@ -1,5 +1,5 @@
 ---
-{"aliases":["toolkit","🧰 toolkit","player toolkit","🧰 player toolkit","l1f3 player toolkit","🧰 l1f3 player toolkit","life player toolkit","🧰 life player toolkit","L1F3 player toolkit"],"created in":"2022-01-28T09:51:51-03:00","last tended to":"2024-09-26T15:20:07-03:00","tags":["prototype","🌿","selfmanagement","player"],"dg-publish":true,"notestage":["🌿"],"permalink":"/002-toolkit/000-l1f3-player-toolkit/","dgPassFrontmatter":true,"created":"2022-01-28T09:51:51.329-03:00","updated":"2024-09-29T14:25:40.298-03:00"}
+{"aliases":["toolkit","🧰 toolkit","player toolkit","🧰 player toolkit","l1f3 player toolkit","🧰 l1f3 player toolkit","life player toolkit","🧰 life player toolkit","L1F3 player toolkit"],"created in":"2022-01-28T09:51:51-03:00","last tended to":"2024-09-29T14:25:40-03:00","tags":["prototype","🌿","selfmanagement","player"],"dg-publish":true,"notestage":["🌿"],"created":"2022-01-28T09:51:51.329-03:00","updated":"2024-12-11T17:53:13.937-03:00","permalink":"/002-toolkit/000-l1f3-player-toolkit/","dgPassFrontmatter":true}
 ---
 
 #### about
@@ -39,5 +39,6 @@ player tools:
 
 ---
 ##### references:
-[[people/acquaintances/alex bretas\|alex bretas]] / [[reaprendiz\|reaprendiz]] stuff
+[[people/acquaintances/alex bretas\|alex bretas]] / [[reaprendiz\|reaprendiz]]'s resources
+[[projects & tools/tools/alchemy/possibilitator toolkit\|possibilitator toolkit]]
 [[projects & tools/tools/player/EEF teaching & learning toolkit\|EEF teaching & learning toolkit]]

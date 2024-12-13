@@ -6,7 +6,7 @@ this note is a placeholder for both an essay and a compilation of research/resou
 
 at the same time, there are plenty of potential problems that come with it, such as [[cults\|cults]], abusive behaviors/relationships, ethnocentrism, etc.
 
-[[people/references/alchemy/hanzi freinacht\|hanzi freinacht]] explores it well in his [[listening society\|listening society]] book - on the less-seen pervasive effects of "[[magic beliefs\|magic beliefs]]" and how the confusion bred by the mix of [[vulnerability\|vulnerability]] and [[concepts/alchemy/non-ordinary states of consciousness\|non-ordinary states of consciousness]] of spiritual communities can be a recipe for disaster.
+[[people/references/alchemy/hanzi freinacht\|hanzi freinacht]] explores it well in his [[_009_notes & highlights from books, videos, articles/listening society\|listening society]] book - on the less-seen pervasive effects of "[[magic beliefs\|magic beliefs]]" and how the confusion bred by the mix of [[vulnerability\|vulnerability]] and [[concepts/alchemy/non-ordinary states of consciousness\|non-ordinary states of consciousness]] of spiritual communities can be a recipe for disaster.
 
 so this exploration intends to address - what is the middle ground? to what degree does [[faith\|faith]], [[trust\|trust]], [[devotion\|devotion]], [[service\|service]] play a beneficial role in our development as individuals and societies?
 

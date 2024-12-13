@@ -1,5 +1,5 @@
 ---
-{"created in":"2021-12-11T16:52:02-03:00","last tended to":"2024-10-20T23:48:06-03:00","tags":["topic","art","music","🌱"],"dg-publish":true,"notestage":["🌱"],"aliases":["music"],"permalink":"/topics/art/music-moc/","dgPassFrontmatter":true,"created":"2021-12-11T16:52:02.160-03:00","updated":"2024-10-20T23:48:06.995-03:00"}
+{"created in":"2021-12-11T16:52:02-03:00","last tended to":"2024-10-20T23:48:06-03:00","tags":["topic","art","music","🌱"],"dg-publish":true,"notestage":["🌱"],"aliases":["music"],"created":"2021-12-11T16:52:02.160-03:00","updated":"2024-12-12T17:26:54.658-03:00","permalink":"/topics/art/music-moc/","dgPassFrontmatter":true}
 ---
 
 #### resources
@@ -51,3 +51,4 @@ more on [[ethnomusicology\|ethnomusicology]] - [ethno world](https://ethno.world
 [playlist manager](http://playlist-manager.com/)
 [organize your music](http://organizeyourmusic.playlistmachinery.com/)
 [smarter playlists](http://smarterplaylists.playlistmachinery.com/about.html)
+lots more references: https://www.reddit.com/r/lastfm/s/mB99AZRA71

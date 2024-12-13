@@ -30,8 +30,8 @@ simplifying/exploring foundational [[topics/lab/cybernetics\|cybernetics]]/[[top
 in order of [[patterns/active patterns/knowledge design/relevance score\|relevance score]] (coming soon):
 
 ##### design principles:
-[[Thinking together\|Thinking together]]
-[[Tools for thought should evolve building blocks\|Tools for thought should evolve building blocks]]
+[[_009_notes & highlights from books, videos, articles/Thinking together\|Thinking together]]
+[[_009_notes & highlights from books, videos, articles/Tools for thought should evolve building blocks\|Tools for thought should evolve building blocks]]
 [[_009_notes & highlights from books, videos, articles/Fragments - Attractors\|Fragments - Attractors]]
 [[_009_notes & highlights from books, videos, articles/Living systems grow from simple seeds\|Living systems grow from simple seeds]]
 [[_009_notes & highlights from books, videos, articles/Effort is evidence of broken feedback loops\|Effort is evidence of broken feedback loops]]
