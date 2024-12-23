@@ -1,5 +1,5 @@
 ---
-{"aliases":["🗺 meta-map","wordcloud","🗾 meta-map"],"created in":"2022-01-03T19:16:10-03:00","last tended to":"2024-09-29T14:42:57-03:00","tags":["design","🌿","research","knowledgedesign","informationdesign","experiment"],"dg-publish":true,"notestage":["🌿"],"created":"2022-01-03T19:16:10.550-03:00","updated":"2024-12-13T16:26:12.822-03:00","permalink":"/002-toolkit/meta-map/","dgPassFrontmatter":true}
+{"aliases":["🗺 meta-map","wordcloud","🗾 meta-map"],"created in":"2022-01-03T19:16:10-03:00","last tended to":"2024-09-29T14:42:57-03:00","tags":["design","🌿","research","knowledgedesign","informationdesign","experiment"],"dg-publish":true,"notestage":["🌿"],"created":"2022-01-03T19:16:10.550-03:00","updated":"2024-12-23T14:24:29.490-03:00","permalink":"/002-toolkit/meta-map/","dgPassFrontmatter":true}
 ---
 
 an extensive list / experimental form of intuitive clustering of all major themes/domains and references i'm working with.
@@ -31,7 +31,11 @@ added:
 
 **.lab**
 
+[[topics/architect;design/semantic web\|semantic web]]
+
 [[topics/architect;design/tools for thought\|tools for thought]]
+
+[[responses/regen/permacomputing\|permacomputing]]
 
 [[personal computing\|personal computing]] / [[_006_core notes/personal OS design\|personal OS design]]
 
@@ -63,46 +67,43 @@ added:
 
 [[responses/design/values-based design\|values-based design]] / [[topics/architect;design/humane tech design\|humane tech design]]
 
-multidimensional resources management
+[[multidimensional resources management\|multidimensional resources management]]
 (potluck)
-
-[[topics/art/sound design\|sound design]]
-
-[[video editing\|video editing]] & [[video generation\|video generation]]
 
 **.design**
 
 [[concepts/design/metacrisis\|metacrisis]]
 
-[[topics/architect;design/web3\|web3]]
+- [[_004_L1F3/core concepts/civilization design\|civilization design]]
 
-[[responses/lab/mapping\|mapping]]
+[[topics/architect;design/web3\|web3]] / [[decentralized coordination infrastructure\|decentralized coordination infrastructure]]
 
-[[concepts/alchemy/sensemaking\|sensemaking]]
+[[responses/lab/mapping\|mapping]] / [[concepts/alchemy/sensemaking\|sensemaking]]
 
-[[augmenting your OODA loop\|augmenting your OODA loop]]
+[[collaboration infrastructure\|collaboration infrastructure]]
 
-[[concepts/design/meta-systemic design\|meta-systemic design]]
+- [[_004_L1F3/core concepts/life design\|life design]] / [[_004_L1F3/core concepts/life management\|life management]]
 
-[[_004_L1F3/core concepts/civilization design\|civilization design]]
+[[self-actualization infrastructure\|self-actualization infrastructure]]
 
-[[_004_L1F3/core concepts/life management\|life management]]
+[[concepts/design/meta-systemic design\|meta-systemic design]] ([[models & frameworks/design/OODA loop\|OODA loop]] augmentation) / [[core essays/🌐 an introduction to the L1F3 support systems\|L1F3 support systems]]
 
-[[_004_L1F3/core concepts/self-management\|self-management]]
+[[tools for extended cognition\|tools for extended cognition]]
 
-[[core essays/🌐 an introduction to the L1F3 support systems\|L1F3 support systems]]
+- [[_004_L1F3/core concepts/self design\|self design]] / [[_004_L1F3/core concepts/self-management\|self-management]]
+
 
 **.alchemy**
 
-[[self-realization\|self-realization]]
+[[self-actualization\|self-actualization]] / [[integral unfoldment\|integral unfoldment]]
+
+[[concepts/alchemy/thriving\|thriving]] / [[flourishing\|flourishing]]
 
 [[topics/architect;design/ontological design\|ontological design]]
 
 [[references/alchemy/integral OS\|integral OS]]
 
 [[concepts/alchemy/dharma\|dharma]]
-
-[[_004_L1F3/core concepts/self design\|self design]]
 
 [[ecologies of practices\|ecologies of practices]]
 
@@ -116,7 +117,19 @@ multidimensional resources management
 
 [[topics/architect;design/regeneration\|regeneration]]
 
+[[topics/alchemy/metaphysics\|metaphysics]]
+
+[[concepts/alchemy/epistemology\|epistemology]]
+
+[[concepts/alchemy/ontology\|ontology]]
+
+[[ethics\|ethics]]
+
+[[aesthetics\|aesthetics]]
+
 **.art**
+
+[[worldbuilding\|worldbuilding]]
 
 [[concepts/player/gameworld building\|gameworld building]]
 
@@ -126,15 +139,19 @@ multidimensional resources management
 
 [[topics/player/game design\|game design]]
 
-[[topics/art/music MOC\|music MOC]]
+[[topics/player/play\|play]]
+
+[[topics/art/music MOC\|music]]
 
 [[improvisation\|improvisation]]
 
 [[topics/art/body music\|body music]]
 
-[[topics/player/play\|play]]
+[[topics/art/sound design\|sound design]]
 
-[[audiovisual\|audiovisual]]
+[[video editing\|video editing]] & [[video generation\|video generation]]
+
+[[audiovisual production\|audiovisual production]]
 
 ###### layer 2 - references map
 
@@ -192,6 +209,7 @@ multidimensional resources management
 [[enablement\|enablement]]
 
 [[topics/lab/information design\|information design]]
+[[tools for extended cognition\|tools for extended cognition]]
 [[topics/architect;design/tools for thought\|tools for thought]]
 [[tools for action\|tools for action]]
 [[tools for work\|tools for work]]

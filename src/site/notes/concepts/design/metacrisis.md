@@ -1,36 +1,46 @@
 ---
-{"created in":"2023-10-31T15:56:54-03:00","last tended to":"2024-11-06T18:52:18-03:00","dg-publish":true,"aliases":["personal and civilizational crises","systemic crises"],"tags":["concept","metacrisis"],"relevancescore":98,"notestage":["🌿"],"created":"2023-10-31T15:56:54.956-03:00","updated":"2024-12-03T15:43:20.309-03:00","permalink":"/concepts/design/metacrisis/","dgPassFrontmatter":true}
+{"created in":"2023-10-31T15:56:54-03:00","last tended to":"2024-11-06T18:52:18-03:00","dg-publish":true,"aliases":["personal and civilizational crises","systemic crises"],"tags":["concept","metacrisis"],"relevancescore":98,"notestage":["🌿"],"created":"2023-10-31T15:56:54.956-03:00","updated":"2024-12-23T18:05:00.073-03:00","permalink":"/concepts/design/metacrisis/","dgPassFrontmatter":true}
 ---
 
-the "metacrisis" view points towards the perception that the set of interconnected - social, climatic, mental health, political crises of our time share a same root cause - same underlying [[diagnosis/generator functions of existential risk\|generator functions]].
+##### about
 
-it's a particular description of the *human predicament* that can help us better analyze/navigate the complexity of the times we're living and understand the [uniquely challenging state of the world]()* (to add first principles stuff) in this particular moment in the history of human civilizations.
+the term "metacrisis" [was coined by philosophers](https://deeptransformation.io/nicholas-hedlund-sean-esbjorn-hargens-1-grappling-with-the-metacrisis/) [[nicholas hedlund\|nicholas hedlund]] and [[sean esbjörn-hargens\|sean esbjörn-hargens]], and has been further adopted by a loosely associated community of big picture thinkers, spiritual practitioners, cognitive scientists, climate activists and more, often also gathering around the terms [[responses/alchemy/metamodernism\|metamodernism]], [[models & frameworks/alchemy/integral theory\|integral theory]] and [[topics/architect;design/regeneration\|regeneration]], with [[people/references/architect;design/daniel schmachtenberger\|daniel schmachtenberger]] probably being the most well-known spokesperson. (see: [life itself's ecosystem map](https://secondrenaissance.net/publications/overview-ecosystem-names) for an overview of associated/adjacent communities)
 
-many philosophers, cognitive scientists, spiritual teachers, have been convening around this term to make sense of the situation we've found ourselves in.
+the term has several different definitions (which i explore more below), but the one i like the most sees it as pointing towards the perception that the set of interconnected crises of our time - social, ecological, economic, political, informational, existential - might share a same root cause, the same underlying set of [[diagnosis/generator functions of existential risk\|generator functions]].
+
+the metacrisis is a particular description of the [[human predicament\|human predicament]] that can help us better analyze/navigate the complexity of the times we're living and understand the [uniquely challenging state of the world] - growing [[concepts/design/existential risk\|existential]] and [[terms/catastrophic risk\|catastrophic risks]] propelled by recurring [[concepts/design/coordination failure\|coordination failures]] in trying to address [[systemic injustices\|systemic injustices]] and design/steward [[concepts/alchemy/wisdom\|wise]] [[civilizational systems\|civilizational systems]] in the first truly global society in the history of human civilizations.
+
+##### recommended resources
 
 one of the best introductions i found is this 11-minute video by [[people/references/architect;design/ashley hodgson\|ashley hodgson]]: [What is the Metacrisis? Why is it Hopeful?](https://www.youtube.com/watch?v=kgCHqyq4LHA). i highly recommend you watch it.
 
-[[references/alchemy/first principles and first values\|first principles and first values - forty-two propositions on cosmoerotic humanism, the meta-crisis and the world to come]] - the authors propose that at the root of the metacrisis, there's an [[diagnosis/intimacy crisis\|intimacy crisis]]. a crisis of disconnection. of ourselves, of the other, of the planet - and primarily, of the [[field of value\|field of value]] (which is different but very close to what's often times referred to as "the [[sacred\|sacred]]" or "the [[true\|true]], the [[good\|good]] and the [[beautiful\|beautiful]]" by other [[topics/alchemy/spiritual lineages\|wisdom traditions]]).
+if you want to get started diving into this content, i strongly recommend checking out [this playlist](https://www.youtube.com/playlist?list=PLj8H7uBaUwDvd18QrEPugPMD5Z6Y0W-vB) that i curated, interwoven with the other text-centric resources i list below.
 
-[[people/references/architect;design/andrea farias\|andrea farias]] evidences the systems dynamics
+this introductory infographic also sums it up in somewhat nicely (with some account for the bias/propositions of the creators):
 
-[[liberatemankind\|liberatemankind]]'s series explores
+![](https://i.imgur.com/2DRv3TN.png)
 
-[[concepts/design/flow crisis\|flow crisis]], [[education crisis\|education crisis]], (...)
+other references that are briefly introduced in the playlist and that deserve very considerate readings are:
 
-*definition i use:* the metacrisis is, that seem to be leading us towards any or a mixture of these: a) impending [[topics/architect;design/systemic collapse\|systemic collapse]] as we approach planetary boundaries, b) authoritarian modes of damage control or c) transition into more [[topics/architect;design/regeneration\|regenerative]], mature, resilient [[topics/architect;design/systems\|systems]], [[_004_L1F3/core concepts/civilization design\|civilizations]] and [[_004_L1F3/core concepts/lifestyles\|lifestyles]].
+[[references/alchemy/first principles and first values\|first principles and first values - forty-two propositions on cosmoerotic humanism, the meta-crisis and the world to come]] - the authors propose that at the root of the metacrisis, there's an [[diagnosis/intimacy crisis\|intimacy crisis]]. a crisis of disconnection. of ourselves, of the other, of the planet - and primarily, of the [[field of value\|field of value]] (which is different but very close to what's often times referred to as "the [[sacred\|sacred]]" or "the [[true\|true]], the [[good\|good]] and the [[beautiful\|beautiful]]" by other [[topics/alchemy/spiritual lineages\|wisdom traditions]]). this, in turn, has deep consequences in the design of pretty much every dominant system and institution in our society today, leading to the many crises we're witnessing.
 
-#### main references
+[[people/references/architect;design/andrea farias\|andrea farias]] ([[projects & tools/projects/design/diome.xyz\|diome.xyz]]), [[people/references/regen/vanessa andreotti\|vanessa andreotti]] ([[_009_notes & highlights from books, videos, articles/hospicing modernity\|hospicing modernity]]) and [[initiatives, orgs & communities/regen/culture hack labs\|culture hack labs]] ([issues](https://www.culturehack.io/issues/)) also evidence the underlying systems dynamics of the [[concepts/design/metacrisis\|metacrisis]] in different but similar ways.
 
-##### why learn about it
+###### other powerful perspectives include:
 
-the concept of the metacrisis and the analyses of several people in the space help elucidate the underlying dynamics of our current dominant [[diagnosis/generator functions of existential risk\|generator functions of existential risk]]
+[[zak stein\|zak stein]] - [education is the metacrisis - manifesto for the transformative education alliance](https://systems-souls-society.com/education-is-the-metacrisis/) - one of the best breakdowns of the metacrisis + very powerful, clear, inspiring writing
 
-if we say we care about . we might not do anything in particular to address that, but broadening our [[horizon of care\|horizon of care]] is a practice that many wisdom traditions
+[[jonathan rowson\|jonathan rowson]] - [tasting the pickle: ten flavours of meta-crisis and the appetite for a new civilisation](https://systems-souls-society.com/tasting-the-pickle-ten-flavours-of-meta-crisis-and-the-appetite-for-a-new-civilisation/)
 
-i strongly recommend checking out [this playlist](https://www.youtube.com/playlist?list=PLj8H7uBaUwDvd18QrEPugPMD5Z6Y0W-vB) that i curated (30h of content).
+[[josh field\|josh field]] - [[concepts/design/flow crisis\|flow crisis]] - a few less-known but very interesting/valuable perspectives on it.
 
-https://www.sloww.co/meta-crisis-101/ - the deepest / most multi-perspectival introduction to it, though quite dense, especially for first timers. i recommend checking out some of [[people/references/architect;design/daniel schmachtenberger\|daniel schmachtenberger]]'s videos on the playlist above before, as a more palatable introduction.
+[[people/references/alchemy/john vervaeke\|john vervaeke]] - [[diagnosis/meaning crisis\|meaning crisis]] - lots of good content from around it, more useful for understanding/navigating the (inner) psychological crises of our time.
+
+[life itself ecosystem map](https://ecosystem.lifeitself.us/) - a pretty good map of the organizations/communities in the space.
+
+###### a few extensive websites/compilations:
+
+https://www.sloww.co/meta-crisis-101/ - the deepest / most multi-perspectival introduction to it, though quite dense, especially for first timers. i recommend checking out some of [[people/references/architect;design/daniel schmachtenberger\|daniel schmachtenberger]]'s videos on the playlist i mentioned before, as a more palatable introduction.
 
 https://metacrisis.org/ - a meta-resource - links to lots of other great content and resources.
 
@@ -40,6 +50,19 @@ https://metacrisis.xyz/ - a few particularly influential folks trying to curate,
 
 https://www.gameb.wiki/ - a wiki with not a lot, but very relevant content, great for rabbit hole investigations/deep dives.
 
+##### why learn about it
+
+upon coming into contact with the term, i notice many people feel intimated/overwhelmed by it. "i don't want to be thinking about a crisis, it seems too negative." and while there are many other perspectives in the space that emphasize the brightest aspects of it ([[from crisis to crossing\|from crisis to crossing]], the [[great transition\|great transition]], the [[tbprocessed/base notes/concepts - general/regenerative renaissance\|regenerative renaissance]], a [[responses/design/second renaissance\|second renaissance]], etc) i found that there's a very good reason to use this term.
+
+> when you stay with the perception that for many people around the world - alive now and in the world to come - these crises are or will be very present in their immediate reality, and there might be an actual limited set of specific underlying dynamics that are determining vast majority of the outcomes of our prevalent systems, there's enormous hope and energy that we might actually be able to recognize it and design better ones. it can be very powerful and liberating to see that.
+> 
+> there's a lot of work in trying to understand what's really going on, balancing the different perspectives, interests, power struggles, etc. however, if we want to survive and thrive as a species, at this moment, we're both uniquely challenged and prepared to do so as well. the more perspectives, and the more ways to navigate them, the better.
+
+unfortunately, it's very common to maintain attitudes of indifference/complacency or resignation from the struggle of dealing with/working on transforming the dominant [[power structures\|power structures]]. if we say we care about life on earth - be it only our dear friends/family, humanity at large, animals, plants, and/or all beings - we have a responsibility to care for it. collectively, we are not doing nearly enough, letting outdated systems of command and control bring out the worst of us and limit both our actions and imaginations.
+
+we might feel powerless to address all of that, but broadening our [[horizon of care\|horizon of care]] and slowly developing capacity to hold the complexity of what's going on and maintain a healthy conduct is a practice that [[topics/alchemy/spiritual lineages\|wisdom traditions]] seem to be proposing since the beginning of our history.
+
+---
 ###### an incomplete yet useful way to break down the metacrisis
 
 i found it useful to highlight 5 "core", interdependent crises underpinning the metacrisis:
@@ -62,15 +85,3 @@ collapse:
 
 feel free to bug me on [twitter](https://twitter.com/c4ss1usl1f3) to finish making this.
 ```
-
-###### other great perspectives on the metacrisis
-
-[[zak stein\|zak stein]] - [education is the metacrisis - manifesto for the Transformative Education Alliance](https://systems-souls-society.com/education-is-the-metacrisis/) - one of the best breakdowns of the metacrisis + very powerful, clear, inspiring writing
-
-[[jonathan rowson\|jonathan rowson]] - [tasting the pickle: ten flavours of meta-crisis and the appetite for a new civilisation](https://systems-souls-society.com/tasting-the-pickle-ten-flavours-of-meta-crisis-and-the-appetite-for-a-new-civilisation/) - perspectiva
-
-[[josh field\|josh field]] - [[concepts/design/flow crisis\|flow crisis]] - a few less-known but very interesting/valuable perspectives on it
-
-[[people/references/alchemy/john vervaeke\|john vervaeke]] - [[diagnosis/meaning crisis\|meaning crisis]] - lots of good content from around it, more useful for understanding/navigating the (inner) psychological crises of our time
-
-[life itself ecosystem map](https://ecosystem.lifeitself.us/) - a pretty good map of the organizations/communities in the space

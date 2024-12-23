@@ -1,5 +1,5 @@
 ---
-{"aliases":["topics","fields","fields of knowledge"],"created in":"2021-12-11T16:52:03-03:00","last tended to":"2024-10-24T21:59:41-03:00","dg-publish":true,"tags":["🌿","selfmanagement"],"notestage":["🌿"],"created":"2021-12-11T16:52:03.339-03:00","updated":"2024-12-13T16:26:10.147-03:00","permalink":"/001-mo-cs/025-long-game/025-topics-and-references-moc/","dgPassFrontmatter":true}
+{"aliases":["topics","fields","fields of knowledge"],"created in":"2021-12-11T16:52:03-03:00","last tended to":"2024-10-24T21:59:41-03:00","dg-publish":true,"tags":["🌿","selfmanagement"],"notestage":["🌿"],"created":"2021-12-11T16:52:03.339-03:00","updated":"2024-12-23T15:18:27.935-03:00","permalink":"/001-mo-cs/025-long-game/025-topics-and-references-moc/","dgPassFrontmatter":true}
 ---
 
 on the contents below, the emojis mean different things. here's their caption:
@@ -27,47 +27,46 @@ level of depth:
 
 #### 🧙🏻‍♂️ [[_005_c4ss1us/c4ss1us.alchemy\|.alchemy]]
 ##### 🌌 [[concepts/alchemy/consciousness\|consciousness]]
-🌲 [[concepts/design/metacrisis\|metacrisis]]
-	([[diagnosis/meaning crisis\|meaning crisis]] / [[diagnosis/existential crisis\|existential crisis]] / [[topics/alchemy/wisdom crisis\|wisdom crisis]])
-	--> [[concepts/design/health crisis\|health crisis]] / [[education crisis\|education crisis]] / [[diagnosis/climate crisis\|climate crisis]]
-🌲 [[meta-perspectival frameworks\|meta-perspectival frameworks]]
-	🔥 [[topics/architect;design/ontological design\|ontological design]]
-	🔥 [[models & frameworks/player/fourgames\|fourgames]]
-	🔥 [[models & frameworks/alchemy/integral theory\|integral meta-theory]]
-	🔥 [[models & frameworks/design/metadesign\|metadesign]] (portuguese)
-🌲 [[topics/player/self-directed learning\|self-directed learning]]
-	🔥 [[initiatives, orgs & communities/player/MoL\|MoL]] / [[unilivre\|unilivre]] (portuguese)
-	🔥 [[reaprendiz\|reaprendiz]] (portuguese)
-🌲 [[_004_L1F3/core concepts/life design\|life design]] / [[tbprocessed/base notes/topics/life gamification\|life gamification]]
-	[[_002_toolkit/000 ⛓ l1f3 player toolkit\|🧰 l1f3 player toolkit]]
-🌲 [[_004_L1F3/core concepts/self-management\|self-management]]
-	🧰 [[_004_L1F3/l1f3 management ontology\|l1f3 management ontology]]
-	🔥 [life manager (ísis' approach)](https://www.youtube.com/watch?v=Nxo8hX97ojk) (portuguese)
-🌿 [[topics/alchemy/spiritual lineages\|wisdom traditions]] & [[ecologies of practices\|ecologies of practices]]
-	🌿 [[integral yoga\|integral yoga]]
-	🌿 [[vipassana meditation\|vipassana meditation]]
-🌿 [[entheogens\|entheogens]]
-	🌿 [[topics/alchemy/mushrooms\|mushrooms]]
-	🌿 [[ayahuasca\|ayahuasca]]
-	🌱 [[MDMA\|MDMA]]
-🌿 [[_004_L1F3/core concepts/self design\|self design]]
-	🧪 [[experiments/made by me/alchemy/archetypal matrix\|archetypal matrix]]
-	🧪 [[experiments/made by me/design/minimum viable intentional personal systems design;setup\|minimum viable intentional personal systems design;setup]]
+- 🌲 [[concepts/design/metacrisis\|metacrisis]]
+> [[diagnosis/meaning crisis\|meaning crisis]] / [[diagnosis/existential crisis\|existential crisis]] / [[topics/alchemy/wisdom crisis\|wisdom crisis]]
+> [[concepts/design/health crisis\|health crisis]] / [[education crisis\|education crisis]] / [[diagnosis/climate crisis\|climate crisis]]
+-  🌲 [[meta-perspectival frameworks\|meta-perspectival frameworks]]
+> 🔥 [[topics/architect;design/ontological design\|ontological design]]
+> 🔥 [[models & frameworks/player/fourgames\|fourgames]]
+> 🔥 [[models & frameworks/alchemy/integral theory\|integral meta-theory]]
+> 🔥 [[models & frameworks/design/metadesign\|metadesign]] (in portuguese)
+- 🌲 [[topics/player/self-directed learning\|self-directed learning]]
+> 🔥 [[initiatives, orgs & communities/player/MoL\|MoL]] / [[unilivre\|unilivre]] (in portuguese)
+> 🔥 [[reaprendiz\|reaprendiz]] (in portuguese)
+- 🌲 [[_004_L1F3/core concepts/life design\|life design]] / [[tbprocessed/base notes/topics/life gamification\|life gamification]]
+> [[_002_toolkit/000 ⛓ l1f3 player toolkit\|🧰 l1f3 player toolkit]]
+- 🌲 [[_004_L1F3/core concepts/self-management\|self-management]]
+> 🧰 [[_004_L1F3/l1f3 management ontology\|l1f3 management ontology]]
+> 🔥 [life manager (ísis' approach)](https://www.youtube.com/watch?v=Nxo8hX97ojk) (portuguese)
+- 🌿 [[topics/alchemy/spiritual lineages\|wisdom traditions]] & [[ecologies of practices\|ecologies of practices]]
+> 🌿 [[models & frameworks/alchemy/integral theory\|integral meta-theory]] / [[concepts/alchemy/integral development\|integral development]]
+> 🌱 [[references/alchemy/first principles and first values\|first principles and first values]]
+> 🌱 [[]]
+- [[concepts/alchemy/healing\|healing]]/[[concepts/alchemy/cleaning up\|cleaning up]] practices
+> 🌿 [[entheogens\|entheogens]]
+- 🌿 [[_004_L1F3/core concepts/self design\|self design]]
+> 🧪 [[experiments/made by me/alchemy/archetypal matrix\|archetypal matrix]]
+> 🧪 [[experiments/made by me/design/minimum viable intentional personal systems design;setup\|minimum viable intentional personal systems design;setup]]
 
 #### ✒ [[_005_c4ss1us/c4ss1us.design\|.design]]
 ##### 🎞 [[knowledge\|knowledge]] / [[topics/architect;design/media\|media]]
-🌲 [[topics/architect;design/research\|research]]
-	📂 [[meta-research consolidation resource\|meta-research consolidation resource]]
-🌲 [[tbprocessed/base notes/concepts - general/curation\|curation]]
-	🔥 [[initiatives, orgs & communities/architect;design/sublime (ex-startupy)\|sublime (ex-startupy)]]
-🌲 [[concepts/alchemy/sensemaking\|sensemaking]]
-	📂 [favorite sensemaking videos playlist](https://www.youtube.com/playlist?list=PLj8H7uBaUwDvd18QrEPugPMD5Z6Y0W-vB)
-🌿 [[_004_L1F3/core concepts/life streaming\|life streaming]]
-	🧰 [[_004_L1F3/l1f3 streaming system\|life streaming system]]
-🌿 [[_004_L1F3/core concepts/life intelligence\|life intelligence]]
-	🧪 [[3rd brain workflow\|3rd brain workflow]]
+- 🌲 [[topics/architect;design/research\|research]]
+> 📂 [[meta-research consolidation resource\|meta-research consolidation resource]]
+- 🌲 [[tbprocessed/base notes/concepts - general/curation\|curation]]
+> 🔥 [[initiatives, orgs & communities/architect;design/sublime (ex-startupy)\|sublime (ex-startupy)]]
+- 🌲 [[concepts/alchemy/sensemaking\|sensemaking]]
+> 📂 [favorite sensemaking videos playlist](https://www.youtube.com/playlist?list=PLj8H7uBaUwDvd18QrEPugPMD5Z6Y0W-vB)
+- 🌿 [[_004_L1F3/core concepts/life intelligence\|life intelligence]]
+> 🧪 [[3rd brain workflow\|3rd brain workflow]]
+- 🌿 [[_004_L1F3/core concepts/life streaming\|life streaming]]
+> 🧰 [[_004_L1F3/l1f3 streaming system\|life streaming system]]
 ##### 🌐 [[topics/architect;design/systems\|systems]]
-🌲 [[meta-systems\|meta-systems]] for [[concepts/alchemy/sensemaking\|sensemaking]], [[topics/player/play\|play]], [[topics/architect;design/coordination systems\|coordination systems]] & [[terms/collaboration\|collaboration]]
+🌲 [[meta-systems\|meta-systems]] for [[self-unfoldment\|self-unfoldment]], [[topics/player/play\|play]], [[concepts/alchemy/sensemaking\|sensemaking]], [[topics/architect;design/coordination systems\|coordination]] & [[terms/collaboration\|collaboration]]
 🌲 [[_004_L1F3/core concepts/civilization design\|civilization design]]
 	[[concepts/design/network state\|network states]]
 	[[smart cities\|smart cities]] / [[smart villages\|smart villages]]
@@ -102,9 +101,9 @@ level of depth:
 🌿 [[responses/lab/mapping\|mapping]]
 	🔥 [[models & frameworks/design/wardley mapping\|wardley mapping]]
 	🔥 [[maps curation\|maps curation]] (twitter link)
-	🧪 [[tbprocessed/base notes/tools;products - proprietary/tools/life map\|life map]]
+	🧪 [[prototypes & designs/made by me/collaborative life map\|collaborative life map]]
 	🧪 [[prototypes & designs/made by me/l1f3 projects' references map\|l1f3 projects' references map]]
-	🧪 [[tbprocessed/base notes/tools;products - proprietary/tools/IRDI\|IRDI - integral radar of developmental initiatives]]
+	🧪 [[prototypes & designs/made by me/on hold/IRDI\|IRDI - integral radar of developmental initiatives]]
 	🧪 [[prototypes & designs/made by me/omnichannel curation feed\|omnichannel curation feed]]
 	💡 [[tbprocessed/base notes/tools;products - proprietary/tools/research;visualization agent\|research;visualization agent]]
 	💡 [[twitter map\|twitter map]] ([[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social (ex-tweetscape)]] / [[community archive\|community archive]])

@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-03-11T14:11:43-03:00","last tended to":"2024-09-24T16:23:28-03:00","tags":["top3","person","metacrisis","alchemy","sensemaking","architect","research","🌱"],"relevancescore":98,"dg-publish":true,"notestage":["🌱"],"created":"2022-03-11T14:11:43.148-03:00","updated":"2024-11-29T00:02:16.647-03:00","permalink":"/people/references/architect-design/daniel-schmachtenberger/","dgPassFrontmatter":true}
+{"created in":"2022-03-11T14:11:43-03:00","last tended to":"2024-09-24T16:23:28-03:00","tags":["top3","person","metacrisis","alchemy","sensemaking","architect","research","🌱"],"relevancescore":98,"dg-publish":true,"notestage":["🌱"],"created":"2022-03-11T14:11:43.148-03:00","updated":"2024-12-23T17:00:59.971-03:00","permalink":"/people/references/architect-design/daniel-schmachtenberger/","dgPassFrontmatter":true}
 ---
 
 #### about
@@ -15,7 +15,7 @@ personal website: https://civilizationemerging.com/
 
 **articles:** all of the articles (8) available on [his website](https://civilizationemerging.com/articles/social/) are amazing, although dense. i recommend starting (counterintuitively) with the [New Economic Series: Part 4](https://civilizationemerging.com/new-economics-series-4/) for a big picture view of what he's about.
 
-**key terms:** [[systemic transition\|systemic transition]], [[concepts/alchemy/wisdom\|wisdom]], [[concepts/design/commons crisis\|commons]], [[terms/design\|design]], [[concepts/alchemy/sensemaking\|sensemaking]], [[strategy\|strategy]], [[x-risk\|x-risk]], (...)
+**key terms:** [[_004_L1F3/core concepts/civilization design\|civilization design]], [[systemic transition\|systemic transition]], [[concepts/alchemy/wisdom\|wisdom]], [[concepts/design/commons crisis\|commons]], [[terms/design\|design]], [[design constraints\|design constraints]], [[concepts/alchemy/sensemaking\|sensemaking]], [[strategy\|strategy]], [[x-risk\|x-risk]], (...)
 
 **glossary:** [[models & frameworks/design/holistic cultural materialism\|holistic cultural materialism]], [[tragedy of the commons\|tragedy of the commons]], [[arms-race\|arms-race]] / [[race to the bottom\|race to the bottom]], [[topics/player/game theory\|game-theoretical]] [[incentives\|incentives]] & [[deterrents\|deterrents]], [[jevonn's paradox\|jevonn's paradox]], [[concepts/design/kleiber's law\|kleiber's law]], (...)
 

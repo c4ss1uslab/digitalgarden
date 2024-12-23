@@ -11,6 +11,7 @@
 
 ###### according to wardley mapping, any map contains the following 6 elements:
 
+
 - visual representation
 - context specific
 - **position** of **components** relative to some form of **anchor**

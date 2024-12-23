@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-12-14T12:54:40-03:00","last tended to":"2024-09-24T15:43:56-03:00","dg-publish":true,"tags":["alchemy","essay","🌱"],"aliases":["🧘🏻‍♂️ a meta-system for modular self-development"],"notestage":["🌱"],"permalink":"/core-essays/a-meta-system-for-modular-self-development-and-interoperability-across-philosophies-methodologies-and-perspectives/","dgPassFrontmatter":true,"created":"2023-12-14T12:54:40.894-03:00","updated":"2024-09-24T16:19:46.081-03:00"}
+{"created in":"2023-12-14T12:54:40-03:00","last tended to":"2024-09-24T16:19:46-03:00","dg-publish":true,"tags":["alchemy","essay","🌱"],"aliases":["🧘🏻‍♂️ a meta-system for modular self-development"],"notestage":["🌱"],"created":"2023-12-14T12:54:40.894-03:00","updated":"2024-12-23T14:29:18.547-03:00","permalink":"/core-essays/a-meta-system-for-modular-self-development-and-interoperability-across-philosophies-methodologies-and-perspectives/","dgPassFrontmatter":true}
 ---
 
 sub-title: **approaches to self design, self as a system, encoded philosophy, integral spirituality and conscious life operating systems**.
@@ -12,7 +12,7 @@ the contents of the writing below are currently haphazard, disjointed and all ov
 
 ##### 1) mapping approaches to self-transformation
 
-integral theory already did that with [[religions\|religions]], [[topics/alchemy/spiritual lineages\|wisdom traditions]], [[scientific discoveries\|scientific discoveries]] and [[psychological studies\|psychological studies]].
+integral theory already did this with [[religions\|religions]], [[topics/alchemy/spiritual lineages\|wisdom traditions]], [[scientific discoveries\|scientific discoveries]] and [[psychological studies\|psychological studies]].
 
 i could quote the works of [[eric brown\|eric brown]] on [hedonic engineering: building a psycho-spiritual growth stack](https://seriousplay.substack.com/p/hedonic-engineering), [[euvie ivanova\|euvie ivanova]] on [psycho-technologies for the age of collapse](https://euvieivanova.substack.com/p/psycho-technologies-for-the-age-of), [[people/references/alchemy/john vervaeke\|john vervaeke]] on [religion that is not a religion](https://www.youtube.com/@johnvervaeke), [psychotechnologies and distributed cognition](https://www.youtube.com/watch?v=237-jbJfleY) and the [[diagnosis/meaning crisis\|meaning crisis]] as a whole. (i love their works and recommend all of them)
 
@@ -23,12 +23,11 @@ plus some [[initiatives, orgs & communities/alchemy/possibility management\|poss
 most of these aim to be multiperspectival, open-ended, integrative approaches to self-development and spirituality, but that's still what makes the most sense and resonates for me.
 
 ---
-
 ##### is coordinating different perspectives even possible?
 
 yes.
 
-[[initiatives, orgs & communities/architect;design/goodly labs\|goodly labs]] are doing a great job around coordinating perspectives. i'll dive into it more on my next article ([[core essays/💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons\|💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons]]), but [[initiatives, orgs & communities/architect;design/the society library\|the society library]] also.
+[[initiatives, orgs & communities/architect;design/meaning alignment institute\|meaning alignment institute]] and [[initiatives, orgs & communities/architect;design/goodly labs\|goodly labs]] are doing a great job around coordinating perspectives. i'll dive into it more on my next article ([[core essays/💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons\|💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons]]), but [[initiatives, orgs & communities/architect;design/the society library\|the society library]] also.
 
 beyond [[models & frameworks/alchemy/integral theory\|integral]], there's a lot of work being done with [[teal organizations\|teal organizations]], (...)
 
@@ -59,7 +58,7 @@ gamers are usually familiar with this idea since they're often tweaking their ga
 
 ##### your [[_004_L1F3/l1f3 operating system\|life operating system]]
 
-in nerd terms: [[concepts/alchemy/epistemology\|epistemology]], [[topics/alchemy/metaphysics\|metaphysics]], [[concepts/alchemy/ontology\|ontology]].
+in nerd terms: [[concepts/alchemy/epistemology\|epistemology]], [[topics/alchemy/metaphysics\|metaphysics]], [[concepts/alchemy/ontology\|ontology]], [[ethics\|ethics]]/[[concepts/alchemy/axiology\|axiology]] & [[aesthetics\|aesthetics]].
 
 the set of [[beliefs\|beliefs]], [[concepts/alchemy/values\|values]], [[conditionings\|conditionings]] with which you operate in life.
 

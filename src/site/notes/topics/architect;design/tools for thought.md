@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-12-06T12:07:03-03:00","last tended to":"2024-09-26T15:25:22-03:00","aliases":["TfT","tft"],"tags":["knowledgemanagement","topic","toolsforthought","lab","🌿","tier1","learning","research"],"dg-publish":true,"relevancescore":94,"notestage":["🌿"],"created":"2022-12-06T12:07:03.218-03:00","updated":"2024-12-10T17:53:14.856-03:00","permalink":"/topics/architect-design/tools-for-thought/","dgPassFrontmatter":true}
+{"created in":"2022-12-06T12:07:03-03:00","last tended to":"2024-09-26T15:25:22-03:00","aliases":["TfT","tft"],"tags":["knowledgemanagement","topic","toolsforthought","lab","🌿","tier1","learning","research"],"dg-publish":true,"relevancescore":94,"notestage":["🌿"],"created":"2022-12-06T12:07:03.218-03:00","updated":"2024-12-13T20:09:34.487-03:00","permalink":"/topics/architect-design/tools-for-thought/","dgPassFrontmatter":true}
 ---
 
  related topics: [[topics/lab/personal knowledge management\|personal knowledge management]], [[note-making\|note-making]], [[responses/lab/networked thought\|networked thought]], [[computer-supported collaborative work\|computer-supported collaborative work]] (CSCW), [[topics/lab/knowledge graphs\|knowledge graphs]], [[topics/lab/human-computer interaction\|human-computer interaction]] (HCI), [[concepts/design/extended cognition\|extended cognition]].
@@ -50,13 +50,13 @@ the list of 79 "tools for thought" i'm tracking: https://twitter.com/i/lists/140
 the ones i'm following more closely are: [[tbprocessed/base notes/ventures - general/obsidian\|obsidian]], [[projects & tools/projects/lab/subconscious (tool)\|subconscious (tool)]], [[projects & tools/tools/lab/softspace\|softspace]], [[tana\|tana]], [[fermat.ws\|fermat.ws]], [[capacities\|capacities]], [[kosmik\|kosmik]], [[omniscience\|omniscience]], [[heptabase\|heptabase]], [[napkin\|napkin]], [[scrintal\|scrintal]] and [[dendron\|dendron]].
 
 non-traditional PKM tools:
-[[patera\|patera]], [[research rabbit\|research rabbit]], 
+[[patera\|patera]], [[research rabbit\|research rabbit]], (...)
 
-projects in the wider spectrum of tools for thought, driving the field forward:
-[[initiatives, orgs & communities/lab/new computer\|new computer]], [[initiatives, orgs & communities/lab/dynamicland\|dynamicland]], (tbd)...
+projects in the wider spectrum of TfT, driving the field forward:
+[[initiatives, orgs & communities/lab/dynamicland\|dynamicland]], [[initiatives, orgs & communities/lab/new computer\|new computer]], (...)
 
-early/major thinkers in the space (with a [[topics/lab/computer science\|computer science]] background):
+early/major thinkers in the space:
 [[people/references/lab/douglas engelbart\|douglas engelbart]], [[kenneth iverson\|kenneth iverson]], [[j.c.r. licklider\|j.c.r. licklider]], [[vannevar bush\|vannevar bush]], [[people/references/lab/alan kay\|alan kay]], [[bob taylor\|bob taylor]], [[seymour papert\|seymour papert]], [[howard rheingold\|howard rheingold]].
 
 contemporary thinkers/researchers:
-[[people/references/lab/gordon brander\|gordon brander]], [[people/references/lab/bret victor\|bret victor]], [[people/references/lab/paul rony\|paul rony]], [[people/references/lab/paul bricman\|paul bricman]]
+[[tim berners-lee\|tim berners-lee]], [[people/references/lab/bret victor\|bret victor]], [[people/references/lab/gordon brander\|gordon brander]], [[people/references/lab/paul rony\|paul rony]], [[andy matuschak\|andy matuschak]], [[people/references/lab/paul bricman\|paul bricman]], [[people/references/lab/maggie appleton\|maggie appleton]]

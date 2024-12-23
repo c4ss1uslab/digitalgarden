@@ -1,8 +1,10 @@
 ---
-{"aliases":["wardley maps"],"created in":"2023-06-04T20:16:22-03:00","last tended to":"2024-09-26T15:56:11-03:00","tags":["knowledgemanagement","🌿","mapping","strategy","framework"],"relevancescore":88,"dg-publish":true,"notestage":["🌿"],"created":"2023-06-04T20:16:22.963-03:00","updated":"2024-12-12T17:23:44.196-03:00","permalink":"/models-and-frameworks/design/wardley-mapping/","dgPassFrontmatter":true}
+{"aliases":["wardley maps"],"created in":"2023-06-04T20:16:22-03:00","last tended to":"2024-09-26T15:56:11-03:00","tags":["knowledgemanagement","🌿","mapping","strategy","framework"],"relevancescore":88,"dg-publish":true,"notestage":["🌿"],"created":"2023-06-04T20:16:22.963-03:00","updated":"2024-12-23T15:03:43.859-03:00","permalink":"/models-and-frameworks/design/wardley-mapping/","dgPassFrontmatter":true}
 ---
 
 ###### according to wardley mapping, any map contains the following 6 elements:
+{ #835234}
+
 
 - visual representation
 - context specific

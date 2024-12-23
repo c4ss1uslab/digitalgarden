@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-08-20T20:44:56-03:00","last tended to":"2024-10-25T14:59:48-03:00","tags":["person","regeneration","metacrisis","brazilian","tier1","indigenous","🌱","alchemy","research"],"dg-publish":true,"relevancescore":96,"notestage":["🌱"],"created":"2024-08-20T20:44:56.880-03:00","updated":"2024-12-03T15:26:29.336-03:00","permalink":"/people/references/regen/vanessa-andreotti/","dgPassFrontmatter":true}
+{"created in":"2024-08-20T20:44:56-03:00","last tended to":"2024-10-25T14:59:48-03:00","tags":["person","regeneration","metacrisis","brazilian","tier1","indigenous","🌱","alchemy","research"],"dg-publish":true,"relevancescore":96,"notestage":["🌱"],"created":"2024-08-20T20:44:56.880-03:00","updated":"2024-12-23T16:58:07.782-03:00","permalink":"/people/references/regen/vanessa-andreotti/","dgPassFrontmatter":true}
 ---
 
 author of [[_009_notes & highlights from books, videos, articles/hospicing modernity\|hospicing modernity]], co-creator of the [[initiatives, orgs & communities/regen/gesturing towards decolonial futures\|gesturing towards decolonial futures]] collective, dean of the faculty of education at the [[university of toronto\|university of toronto]].
@@ -30,7 +30,7 @@ four keys for [[topics/architect;design/regeneration\|regeneration]]:
 > **my comments:** who are these people (2nd and 3rd comments)??? they're selective enough to be on [[concepts/design/the great simplification\|the great simplification]] podcast, but not resonating with vanessa. how are they interpreting this? do they lump this in with other postmodern, wishy-washy, relativistic stuff?
 
 ---
-##### [[_009_notes & highlights from books, videos, articles/hospicing modernity\|hospicing modernity]] (coming soon)
+##### [[_009_notes & highlights from books, videos, articles/hospicing modernity\|hospicing modernity]] highlights (coming soon)
 
 
 
