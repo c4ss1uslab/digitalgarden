@@ -1,5 +1,5 @@
 ---
-{"aliases":[".dgarden","🌲 digital garden","idea garden","🌱 idea garden","c4ss1us.dgarden","🌲 c4ss1us.dgarden","digital garden","home","knowledge garden"],"created in":"2023-07-27T15:44:39-03:00","last tended to":"2024-11-06T18:52:18-03:00","dg-publish":true,"dg-home":true,"created":"2021-12-11T16:51:50.661-03:00","updated":"2024-12-23T18:57:10.646-03:00","permalink":"/000-digital-garden/c4ss1us-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"aliases":[".dgarden","🌲 digital garden","idea garden","🌱 idea garden","c4ss1us.dgarden","🌲 c4ss1us.dgarden","digital garden","home","knowledge garden"],"created in":"2023-07-27T15:44:39-03:00","last tended to":"2024-11-06T18:52:18-03:00","dg-publish":true,"dg-home":true,"created":"2021-12-11T16:51:50.661-03:00","updated":"2024-12-23T18:58:41.559-03:00","permalink":"/000-digital-garden/c4ss1us-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 ## hello! welcome to my digital garden! 🌷
@@ -33,7 +33,7 @@ you'll also find loose notes - exploring different [[ideas\|ideas]], [[resources
 there are two ways you can navigate this space:
 
 1) 🗺 a structured, organized, narrative way, in which i share the foundational concepts, references, tools and discoveries of my research/learning/work.
-2) 🕸 a loose, experimental, self-directed navigation on a topic-based index of notes, which is how the notes are planted in this space. (recommended! the essays are still in a very early-phase.)
+2) 🕸 a loose, experimental, self-directed navigation on a topic-based index of notes, which is how the notes are planted in this space. (*recommended! the essays are still in a very early stage.*)
 
 choose your path below!
 
