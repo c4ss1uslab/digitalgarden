@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-06-17T21:59:49-03:00","last tended to":"2024-09-24T16:00:45-03:00","tags":["organization","community","alchemy","design","metamodernism","metacrisis","🌱"],"dg-publish":true,"relevancescore":94,"notestage":["🌱"],"permalink":"/initiatives-orgs-and-communities/architect-design/life-itself/","dgPassFrontmatter":true,"created":"2024-06-17T21:59:49.025-03:00","updated":"2024-09-24T16:29:41.575-03:00"}
+{"created in":"2024-06-17T21:59:49-03:00","last tended to":"2024-09-24T16:29:41-03:00","tags":["organization","community","alchemy","design","metamodernism","metacrisis","🌱"],"dg-publish":true,"relevancescore":94,"notestage":["🌱"],"permalink":"/initiatives-orgs-and-communities/architect-design/life-itself/","dgPassFrontmatter":true,"created":"2024-06-17T21:59:49.025-03:00","updated":"2024-09-24T16:29:41.575-03:00"}
 ---
 
 "We are pragmatic utopians, committed to practical action for a radically wiser, weller world. We create coliving hubs, start businesses, do research and engage in activism to pioneer a wiser culture. We are ordinary people who choose an extra-ordinary path, treading the middle way between [Plum Village](https://www.plumvillage.uk/) and Silicon Valley."

@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-10-31T21:37:39-03:00","last tended to":"2024-09-24T15:42:13-03:00","dg-publish":true,"aliases":["🦸🏻‍♀️ design specs & constraints for economics"],"tags":["essay","economics","🌱"],"notestage":["🌱"],"permalink":"/core-essays/design-specs-and-constraints-for-enabling-minimum-viable-vocational-economies/","dgPassFrontmatter":true,"created":"2023-10-31T21:37:39.647-03:00","updated":"2024-09-24T16:19:41.643-03:00"}
+{"created in":"2023-10-31T21:37:39-03:00","last tended to":"2024-09-24T16:19:41-03:00","dg-publish":true,"aliases":["🦸🏻‍♀️ design specs & constraints for economics"],"tags":["essay","economics","🌱"],"notestage":["🌱"],"permalink":"/core-essays/design-specs-and-constraints-for-enabling-minimum-viable-vocational-economies/","dgPassFrontmatter":true,"created":"2023-10-31T21:37:39.647-03:00","updated":"2024-09-24T16:19:41.643-03:00"}
 ---
 
 draft link: https://medium.com/@cassiuscarvalho/design-specs-constraints-for-enabling-minimum-viable-vocational-economies-d4dda4867e23

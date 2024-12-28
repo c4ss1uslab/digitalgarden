@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-03-26T15:48:21-03:00","last tended to":"2024-09-24T15:45:25-03:00","dg-publish":true,"tags":["framework","cognitivescience","🌱"],"notestage":["🌱"],"permalink":"/models-and-frameworks/alchemy/4-ps-3-r-theory-of-cognition/","dgPassFrontmatter":true,"created":"2024-03-26T15:48:21.900-03:00","updated":"2024-09-24T16:20:19.780-03:00"}
+{"created in":"2024-03-26T15:48:21-03:00","last tended to":"2024-09-24T16:20:19-03:00","dg-publish":true,"tags":["framework","cognitivescience","🌱"],"notestage":["🌱"],"permalink":"/models-and-frameworks/alchemy/4-ps-3-r-theory-of-cognition/","dgPassFrontmatter":true,"created":"2024-03-26T15:48:21.900-03:00","updated":"2024-09-24T16:20:19.780-03:00"}
 ---
 
 proposed by: [[people/references/alchemy/john vervaeke\|john vervaeke]]

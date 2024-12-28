@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-09-03T13:24:16-03:00","last tended to":"2024-09-03T13:49:33-03:00","tags":["alchemy","essay","placeholder","🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/writings/minimum-viable-woo/","dgPassFrontmatter":true,"created":"2024-09-03T13:24:16.832-03:00","updated":"2024-09-24T16:05:01.149-03:00"}
+{"created in":"2024-09-03T13:24:16-03:00","last tended to":"2024-09-24T16:05:01-03:00","tags":["alchemy","essay","placeholder","🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/writings/minimum-viable-woo/","dgPassFrontmatter":true,"created":"2024-09-03T13:24:16.832-03:00","updated":"2024-09-24T16:05:01.149-03:00"}
 ---
 
 this note is a placeholder for both an essay and a compilation of research/resources on why "woo", or [[topics/alchemy/spirituality\|spirituality]] in general, even if not often times factually correct, can be powerful and transformative - and what it means for our [[topics/alchemy/metaphysics\|metaphysics]], [[concepts/alchemy/epistemology\|epistemology]], [[concepts/alchemy/axiology\|axiology]] and [[cosmology\|cosmology]].

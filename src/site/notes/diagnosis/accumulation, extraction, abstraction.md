@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-09-24T12:24:24-03:00","last tended to":"2024-10-25T11:56:32-03:00","tags":["concept","metacrisis","design","metasystemsdesign"],"relevancescore":98,"notestage":["🌱"],"dg-publish":true,"aliases":["ring of power"],"permalink":"/diagnosis/accumulation-extraction-abstraction/","dgPassFrontmatter":true,"created":"2024-09-24T12:24:24.327-03:00","updated":"2024-10-25T11:58:12.052-03:00"}
+{"created in":"2024-09-24T12:24:24-03:00","last tended to":"2024-10-25T11:58:12-03:00","tags":["concept","metacrisis","design","metasystemsdesign"],"relevancescore":98,"notestage":["🌱"],"dg-publish":true,"aliases":["ring of power"],"permalink":"/diagnosis/accumulation-extraction-abstraction/","dgPassFrontmatter":true,"created":"2024-09-24T12:24:24.327-03:00","updated":"2024-10-25T11:58:12.052-03:00"}
 ---
 
 it's one the major feedback loops feeding into the [[concepts/design/metacrisis\|metacrisis]].

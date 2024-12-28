@@ -1,16 +1,20 @@
 ---
-{"created in":"2024-10-06T02:05:40-03:00","last tended to":"2024-10-30T18:50:34-03:00","tags":["concept","alchemy","design","metacrisis","🌱"],"notestage":["🌱"],"relevancescore":98,"dg-publish":true,"aliases":["theory of change"],"permalink":"/006-core-notes/theories-of-change/","dgPassFrontmatter":true,"created":"2024-10-06T02:05:40.929-03:00","updated":"2024-11-06T19:11:50.814-03:00"}
+{"tags":["concept","alchemy","design","metacrisis","🌱"],"notestage":["🌱"],"relevancescore":98,"dg-publish":true,"aliases":["theory of change"],"created":"2024-10-06T02:05:40.929-03:00","updated":"2024-12-27T16:23:56.360-03:00","permalink":"/006-core-notes/theories-of-change/","dgPassFrontmatter":true}
 ---
 
 relevant introduction: [2R wiki - Theories of Change](https://wiki.secondrenaissance.net/wiki/Theories_of_Change)
 
 a simple framework by [[people/friends/marcelo peterlini\|marcelo peterlini]]: [[mission\|mission]], [[vision\|vision]], [[problem\|problem]], [[worldview\|worldview]].
 
+the [[initiatives, orgs & communities/regen/gesturing towards decolonial futures\|GTDF collective]] offers a comparison of [six different theories of change](https://decolonialfutures.net/wp-content/uploads/2019/05/theories-of-change-table.pdf) in terms of their understanding of the causes and solutions of global problems.
+
 see: [[responses/design/second renaissance\|second renaissance]] papers/mapping projects for good examples.
 
-##### what should be one's (or a society's) orientation toward change?
+##### what should be one's (or a society's) orientation toward change? how can we harmonize different orientations?
 
 different perspectives include: personal and collective [[concepts/alchemy/thriving\|thriving]], the [[flourishing\|flourishing]] of all beings, [[concepts/alchemy/wisdom\|wisdom]], [[concepts/alchemy/enlightenment (spirituality)\|enlightenment]], [[liberation\|liberation]], wholistic/[[concepts/alchemy/integral development\|integral development]] and more.
+
+while seemingly negligible, these differences in framing can make a world of difference when it comes to prioritization.
 
 ##### relevant examples:
 
@@ -21,6 +25,5 @@ different perspectives include: personal and collective [[concepts/alchemy/thriv
 [[responses/alchemy/metamodernism\|metamodernism]] as proposed by [[people/references/alchemy/hanzi freinacht\|hanzi freinacht]] proposes an orientation towards [[concepts/alchemy/human development\|human development]]. i.e. an increase in overall [[stage\|stage]], [[code\|code]], [[state\|state]] and [[depth\|depth]].
 
 the [[initiatives, orgs & communities/regen/gesturing towards decolonial futures\|GTDF collective]] also aligns with the [[ecosystems health\|ecosystems health]] perspective through practices of [[co-sensing with tenderness\|co-sensing with tenderness]] and developing [[sensefullness\|sensefullness]], with a focus on [[reparation\|reparation]], [[topics/architect;design/regeneration\|regeneration]], and [[concepts/alchemy/decolonization\|decolonization]].
-
 
 some other initiatives/communities, such as the [[models & frameworks/alchemy/inner development goals\|inner development goals]] or [[initiatives, orgs & communities/architect;design/SEEDS (ecosystem)\|SEEDS]] make more agreeable/less challenging metaphysical claims and present a few easier-to-implement intermediary steps that seem to be net-positive.

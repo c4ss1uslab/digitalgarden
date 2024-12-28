@@ -1,5 +1,5 @@
 ---
-{"aliases":["biopsychosocial"],"created in":"2024-07-20T18:05:00-03:00","last tended to":"2024-09-24T15:49:00-03:00","tags":["framework","healing","alchemy","selfmanagement","quantifiedself","science","🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/models-and-frameworks/alchemy/biopsychosocial-model/","dgPassFrontmatter":true,"created":"2024-07-20T18:05:00.002-03:00","updated":"2024-09-24T16:21:51.607-03:00"}
+{"aliases":["biopsychosocial"],"created in":"2024-07-20T18:05:00-03:00","last tended to":"2024-09-24T16:21:51-03:00","tags":["framework","healing","alchemy","selfmanagement","quantifiedself","science","🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/models-and-frameworks/alchemy/biopsychosocial-model/","dgPassFrontmatter":true,"created":"2024-07-20T18:05:00.002-03:00","updated":"2024-09-24T16:21:51.607-03:00"}
 ---
 
 #### my usage of the term

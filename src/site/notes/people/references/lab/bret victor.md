@@ -60,15 +60,15 @@ the article presents a few of the kinds of technological transformations/innovat
 > 
 > the whole 1) [Media for Understanding Situations](https://worrydream.com/ClimateChange/#media) and 2) [The world is not what you see](https://worrydream.com/ClimateChange/#coda-see) parts.
 > 
-> they're both short, i recommend you read the full article, but you can skip to these to get why they're so important.
+> i recommend you read the full article, but if you don't, these two parts are short, you can skip to them to get why they're so important.
 > 
 > on 1:
 > he introduces important concepts i'll return to often when discussing [[topics/architect;design/coordination systems\|coordination systems]], [[terms/collaboration\|collaboration]], [[concepts/alchemy/sensemaking\|sensemaking]]: [[model-driven debate\|model-driven debate]], [[model-driven reading\|model-driven reading]], [[model-driven authoring\|model-driven authoring]].
 > 
-> these can be seen/experienced in his own [[references/lab/ten brighter ideas\|ten brighter ideas]], [[initiatives, orgs & communities/architect;design/the society library\|the society library]]'s debate maps, and more.
+> these can be seen/experienced in his own [ten brighter ideas](https://worrydream.com/#!/TenBrighterIdeas), [[initiatives, orgs & communities/architect;design/the society library\|the society library]]'s [debate maps](https://www.societylibrary.org/debate-mapping-program), and more.
 > 
 > on 2:
-> he shares a simple yet powerful framing of how we cannot afford as a society to continue with our businesses/governments/economies "as usual". there is and there can be no such thing as not being "mission-driven" (despite how coachy or wishy-washy that might sound). we're always optimizing for some things at the expanse of others, often unconsciously. we need to take this seriously and [end the reign of nihilistic design](https://consilienceproject.org/technology-is-not-values-neutral-ending-the-reign-of-nihilistic-design-2/). i urge you to read this and the article i just linked, deepening the analysis.
+> he shares a simple yet powerful framing of how we cannot afford as a society to continue with our businesses/governments/economies "as usual". there is and there can be no such thing as not being "mission-driven" (& i'd add: [[concepts/design/impact metrics\|wide-boundary]] oriented). we're always optimizing for some things at the expense of others, often unconsciously. we need to take this seriously and [end the reign of nihilistic design](https://consilienceproject.org/technology-is-not-values-neutral-ending-the-reign-of-nihilistic-design-2/). i urge you to read this and the article i just linked, deepening the analysis.
 
 </div></div>
 

@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-11-29T12:38:46-03:00","last tended to":"2024-09-24T16:01:20-03:00","tags":["l1f3","alchemy","design","topic","🌱"],"dg-publish":true,"relevancescore":94,"aliases":["lifestyle"],"notestage":["🌱"],"permalink":"/004-l1-f3/core-concepts/lifestyles/","dgPassFrontmatter":true,"created":"2022-11-29T12:38:46.892-03:00","updated":"2024-09-24T16:29:53.702-03:00"}
+{"created in":"2022-11-29T12:38:46-03:00","last tended to":"2024-09-24T16:29:53-03:00","tags":["l1f3","alchemy","design","topic","🌱"],"dg-publish":true,"relevancescore":94,"aliases":["lifestyle"],"notestage":["🌱"],"permalink":"/004-l1-f3/core-concepts/lifestyles/","dgPassFrontmatter":true,"created":"2022-11-29T12:38:46.892-03:00","updated":"2024-09-24T16:29:53.702-03:00"}
 ---
 
 i believe the subject of our lifestyles has a dramatic impact on our lives and it is not nearly discussed enough when talking about [[concepts/alchemy/self-transformation\|self-transformation]], [[social change\|social change]] or [[_004_L1F3/core concepts/civilization design\|civilization design]] in general.

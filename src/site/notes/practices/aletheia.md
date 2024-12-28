@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-07-23T02:30:55-03:00","last tended to":"2024-09-24T15:48:08-03:00","tags":["alchemy","practice","🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/practices/aletheia/","dgPassFrontmatter":true,"created":"2024-07-23T02:30:55.328-03:00","updated":"2024-09-24T16:21:21.414-03:00"}
+{"created in":"2024-07-23T02:30:55-03:00","last tended to":"2024-09-24T16:21:21-03:00","tags":["alchemy","practice","🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/practices/aletheia/","dgPassFrontmatter":true,"created":"2024-07-23T02:30:55.328-03:00","updated":"2024-09-24T16:21:21.414-03:00"}
 ---
 
 https://integralunfoldment.com/next-generation

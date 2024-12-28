@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-10-11T17:37:04-03:00","last tended to":"2024-10-11T17:42:22-03:00","tags":["concept","response","art","regen","design","🌱"],"notestage":["🌱"],"relevancescore":96,"dg-publish":true,"permalink":"/responses/regen/solarpunk/","dgPassFrontmatter":true,"created":"2024-10-11T17:37:04.440-03:00","updated":"2024-10-11T18:01:28.929-03:00"}
+{"created in":"2024-10-11T17:37:04-03:00","last tended to":"2024-10-11T18:01:28-03:00","tags":["concept","response","art","regen","design","🌱"],"notestage":["🌱"],"relevancescore":96,"dg-publish":true,"permalink":"/responses/regen/solarpunk/","dgPassFrontmatter":true,"created":"2024-10-11T17:37:04.440-03:00","updated":"2024-10-11T18:01:28.929-03:00"}
 ---
 
 ##### great introductory resources:

@@ -1,5 +1,5 @@
 ---
-{"created in":"2021-12-11T16:51:56-03:00","last tended to":"2024-09-16T18:35:20-03:00","tags":["tool","socialsensemaking","holochain","open-source","regen","communitycreation","coordination","metacrisis","🌱"],"relevancescore":80,"dg-publish":true,"notestage":["🌱"],"permalink":"/projects-and-tools/tools/design/hylo/","dgPassFrontmatter":true,"created":"2021-12-11T16:51:56.442-03:00","updated":"2024-09-24T16:26:00.082-03:00"}
+{"created in":"2021-12-11T16:51:56-03:00","last tended to":"2024-09-24T16:26:00-03:00","tags":["tool","socialsensemaking","holochain","open-source","regen","communitycreation","coordination","metacrisis","🌱"],"relevancescore":80,"dg-publish":true,"notestage":["🌱"],"permalink":"/projects-and-tools/tools/design/hylo/","dgPassFrontmatter":true,"created":"2021-12-11T16:51:56.442-03:00","updated":"2024-09-24T16:26:00.082-03:00"}
 ---
 
 https://hylo.com/

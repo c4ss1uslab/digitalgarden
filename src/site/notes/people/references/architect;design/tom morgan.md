@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-07-24T00:45:06-03:00","last tended to":"2024-11-03T15:30:03-03:00","tags":["person","metacrisis","research","communication","memetics","🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/people/references/architect-design/tom-morgan/","dgPassFrontmatter":true,"created":"2024-07-24T00:45:06.544-03:00","updated":"2024-11-03T15:35:06.017-03:00"}
+{"created in":"2024-07-24T00:45:06-03:00","last tended to":"2024-11-03T15:35:06-03:00","tags":["person","metacrisis","research","communication","memetics","🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/people/references/architect-design/tom-morgan/","dgPassFrontmatter":true,"created":"2024-07-24T00:45:06.544-03:00","updated":"2024-11-03T15:35:06.017-03:00"}
 ---
 
 https://twitter.com/tomowenmorgan/

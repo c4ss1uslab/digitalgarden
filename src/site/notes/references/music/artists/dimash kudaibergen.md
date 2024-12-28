@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-04-08T20:40:59-03:00","last tended to":"2024-10-12T23:26:23-03:00","tags":["music","artist","🌿","classical","folk","popart"],"dg-publish":true,"permalink":"/references/music/artists/dimash-kudaibergen/","dgPassFrontmatter":true,"created":"2022-04-08T20:40:59.210-03:00","updated":"2024-10-13T00:32:39.003-03:00"}
+{"created in":"2022-04-08T20:40:59-03:00","last tended to":"2024-10-13T00:32:39-03:00","tags":["music","artist","🌿","classical","folk","popart"],"dg-publish":true,"permalink":"/references/music/artists/dimash-kudaibergen/","dgPassFrontmatter":true,"created":"2022-04-08T20:40:59.210-03:00","updated":"2024-10-13T00:32:39.003-03:00"}
 ---
 
 as of october 12th, 2024, dimash is my #8* most listened artist of all-time with ~1000* plays, as tracked on [[projects & tools/tools/music/last.fm\|last.fm]].

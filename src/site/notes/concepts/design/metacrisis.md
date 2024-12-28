@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-10-31T15:56:54-03:00","last tended to":"2024-11-06T18:52:18-03:00","dg-publish":true,"aliases":["personal and civilizational crises","systemic crises"],"tags":["concept","metacrisis"],"relevancescore":98,"notestage":["🌿"],"created":"2023-10-31T15:56:54.956-03:00","updated":"2024-12-23T18:05:00.073-03:00","permalink":"/concepts/design/metacrisis/","dgPassFrontmatter":true}
+{"created in":"2023-10-31T15:56:54-03:00","last tended to":"2024-11-06T18:52:18-03:00","dg-publish":true,"aliases":["personal and civilizational crises","systemic crises"],"tags":["concept","metacrisis"],"relevancescore":98,"notestage":["🌿"],"created":"2023-10-31T15:56:54.956-03:00","updated":"2024-12-23T18:58:03.348-03:00","permalink":"/concepts/design/metacrisis/","dgPassFrontmatter":true}
 ---
 
 ##### about
@@ -50,6 +50,7 @@ https://metacrisis.xyz/ - a few particularly influential folks trying to curate,
 
 https://www.gameb.wiki/ - a wiki with not a lot, but very relevant content, great for rabbit hole investigations/deep dives.
 
+---
 ##### why learn about it
 
 upon coming into contact with the term, i notice many people feel intimated/overwhelmed by it. "i don't want to be thinking about a crisis, it seems too negative." and while there are many other perspectives in the space that emphasize the brightest aspects of it ([[from crisis to crossing\|from crisis to crossing]], the [[great transition\|great transition]], the [[tbprocessed/base notes/concepts - general/regenerative renaissance\|regenerative renaissance]], a [[responses/design/second renaissance\|second renaissance]], etc) i found that there's a very good reason to use this term.

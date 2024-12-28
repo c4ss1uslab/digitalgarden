@@ -1,5 +1,5 @@
 ---
-{"aliases":["🌌 LOS","🌌 l1f3 operating system","l1f3 OS","🌌 l1f3 OS","🌌 life operating system","life OS","🌌 life OS","life operating system","L1F3 operating system"],"created in":"2021-12-11T16:51:55-03:00","last tended to":"2024-09-24T15:59:06-03:00","tags":["project","l1f3","alchemy","design","🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/004-l1-f3/l1f3-operating-system/","dgPassFrontmatter":true,"created":"2021-12-11T16:51:55.565-03:00","updated":"2024-09-24T16:28:16.339-03:00"}
+{"aliases":["🌌 LOS","🌌 l1f3 operating system","l1f3 OS","🌌 l1f3 OS","🌌 life operating system","life OS","🌌 life OS","life operating system","L1F3 operating system"],"created in":"2021-12-11T16:51:55-03:00","last tended to":"2024-09-24T16:28:16-03:00","tags":["project","l1f3","alchemy","design","🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/004-l1-f3/l1f3-operating-system/","dgPassFrontmatter":true,"created":"2021-12-11T16:51:55.565-03:00","updated":"2024-09-24T16:28:16.339-03:00"}
 ---
 
 in the context of the [[models & frameworks/design/OODA loop\|OODA loop]], this system is mostly about [[observation\|observation]].

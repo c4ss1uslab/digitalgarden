@@ -1,5 +1,5 @@
 ---
-{"aliases":["games"],"created in":"2022-02-27T14:27:13-03:00","last tended to":"2024-09-24T16:25:20-03:00","tags":["player","concept","🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/concepts/player/game/","dgPassFrontmatter":true,"created":"2022-02-27T14:27:13.500-03:00","updated":"2024-09-24T16:25:21.413-03:00"}
+{"aliases":["games"],"created in":"2022-02-27T14:27:13-03:00","last tended to":"2024-09-24T16:25:20-03:00","tags":["player","concept","🌱"],"dg-publish":true,"notestage":["🌱"],"created":"2022-02-27T14:27:13.500-03:00","updated":"2024-12-27T16:34:59.012-03:00","permalink":"/concepts/player/game/","dgPassFrontmatter":true}
 ---
 
 ##### a few of my favorite definitions of "game"
@@ -27,7 +27,7 @@
 
 instead of (or in addition to) war/combat games, can we have coordination/peace games?
 
-the "[[projects & tools/projects/player/world game\|great logistics game]]" or "[[projects & tools/projects/player/world game\|world (peace) game]]" was proposed by [[buckminster fuller\|buckminster fuller]] as a tool to facilitate a comprehensive, anticipatory, design science approach to the problems of the world.
+the "[[projects & tools/projects/player/world game\|great logistics game]]" or "[[projects & tools/projects/player/world game\|world (peace) game]]" was proposed by [[buckminster fuller institute\|buckminster fuller institute]] as a tool to facilitate a comprehensive, anticipatory, design science approach to the problems of the world.
 
 its goal is to figure out how to: 
 

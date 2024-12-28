@@ -1,5 +1,5 @@
 ---
-{"created in":"2021-12-11T16:52:02-03:00","last tended to":"2024-10-20T23:48:06-03:00","tags":["topic","art","music","🌱"],"dg-publish":true,"notestage":["🌱"],"aliases":["music"],"created":"2021-12-11T16:52:02.160-03:00","updated":"2024-12-12T17:26:54.658-03:00","permalink":"/topics/art/music-moc/","dgPassFrontmatter":true}
+{"created in":"2021-12-11T16:52:02-03:00","last tended to":"2024-10-20T23:48:06-03:00","tags":["topic","art","music","🌱"],"dg-publish":true,"notestage":["🌱"],"aliases":["music"],"created":"2021-12-11T16:52:02.160-03:00","updated":"2024-12-27T16:34:15.037-03:00","permalink":"/topics/art/music-moc/","dgPassFrontmatter":true}
 ---
 
 #### resources
@@ -43,7 +43,7 @@ https://discoverquickly.com/ (linked to your spotify)
 [[references/design/4e cognition and music - integrative literature review\|4e cognition and music - integrative literature review]]
 [[alexandre tannous\|alexandre tannous]]' research
 more on [[ethnomusicology\|ethnomusicology]] - [ethno world](https://ethno.world/)?
-[[mawaca\|mawaca]] and [[references/music/artists/a magnífica orchestra\|a magnífica orchestra]]'s references
+[[mawaca\|mawaca]] and [[references/music/artists/a magnífica orchestra de músicas do mundo\|a magnífica orchestra de músicas do mundo]]'s references
 
 ##### nerd stuff:
 

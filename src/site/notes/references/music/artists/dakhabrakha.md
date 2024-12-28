@@ -1,5 +1,5 @@
 ---
-{"created in":"2021-12-11T16:52:04-03:00","last tended to":"2024-10-13T00:32:17-03:00","tags":["music","artist","ukrainian","worldmusic","folk","🌲"],"dg-publish":true,"notestage":["🌲"],"permalink":"/references/music/artists/dakhabrakha/","dgPassFrontmatter":true,"created":"2021-12-11T16:52:04.131-03:00","updated":"2024-10-13T00:34:59.900-03:00"}
+{"created in":"2021-12-11T16:52:04-03:00","last tended to":"2024-10-13T00:34:59-03:00","tags":["music","artist","ukrainian","worldmusic","folk","🌲"],"dg-publish":true,"notestage":["🌲"],"permalink":"/references/music/artists/dakhabrakha/","dgPassFrontmatter":true,"created":"2021-12-11T16:52:04.131-03:00","updated":"2024-10-13T00:34:59.900-03:00"}
 ---
 
 #### listening stats

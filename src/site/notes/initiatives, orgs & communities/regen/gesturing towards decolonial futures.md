@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-08-20T20:47:02-03:00","last tended to":"2024-10-25T14:59:01-03:00","aliases":["GTDF","gtdf","gtdf collective","GTDF collective","gestuiing towards decolonial futures collective"],"tags":["collective","indigenous","alchemy","host","metacrisis","brazilian","regen","decolonization","🌱"],"relevancescore":96,"notestage":["🌱"],"dg-publish":true,"created":"2024-08-20T20:47:02.331-03:00","updated":"2024-12-03T15:26:29.283-03:00","permalink":"/initiatives-orgs-and-communities/regen/gesturing-towards-decolonial-futures/","dgPassFrontmatter":true}
+{"created in":"2024-08-20T20:47:02-03:00","last tended to":"2024-10-25T14:59:01-03:00","aliases":["GTDF","gtdf","gtdf collective","GTDF collective","gestuiing towards decolonial futures collective"],"tags":["collective","indigenous","alchemy","host","metacrisis","brazilian","regen","decolonization","🌱"],"relevancescore":96,"notestage":["🌱"],"dg-publish":true,"created":"2024-08-20T20:47:02.331-03:00","updated":"2024-12-26T17:30:33.754-03:00","permalink":"/initiatives-orgs-and-communities/regen/gesturing-towards-decolonial-futures/","dgPassFrontmatter":true}
 ---
 
 #### about
@@ -15,6 +15,8 @@ a great overview of their work/resources: [CIARS (Annual Decolonizing Conference
 a great introduction to their perspective on [[concepts/alchemy/decolonization\|decolonization]]: [GTDF's decolonizing higher education workbook - 03/2021](https://decolonialfutures.net/stamina-for-decolonizing-higher-education/)
 
 very relevant for [[topics/player/global citizenship education\|global citizenship education]]: [GTDF's GCE otherwise resources](https://decolonialfutures.net/gce/)
+
+their sources/recommended readings: [GCE references](https://decolonialfutures.net/gce-references/)
 
 ---
 #### a few personal thoughts on their work

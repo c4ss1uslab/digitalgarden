@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-10-12T18:22:21-03:00","last tended to":"2024-10-12T18:30:22-03:00","tags":["alchemy","experiment","review","book","🌲"],"dg-publish":true,"notestage":["🌲"],"permalink":"/experiments/made-by-me/alchemy/the-surrender-experiment/","dgPassFrontmatter":true,"created":"2024-10-12T18:22:21.329-03:00","updated":"2024-10-12T18:38:00.034-03:00"}
+{"created in":"2024-10-12T18:22:21-03:00","last tended to":"2024-10-12T18:38:00-03:00","tags":["alchemy","experiment","review","book","🌲"],"dg-publish":true,"notestage":["🌲"],"permalink":"/experiments/made-by-me/alchemy/the-surrender-experiment/","dgPassFrontmatter":true,"created":"2024-10-12T18:22:21.329-03:00","updated":"2024-10-12T18:38:00.034-03:00"}
 ---
 
 the surrender experiment is the name of a [[topics/alchemy/spirituality\|spiritual]] book by [[michael singer\|michael singer]]. it was recommended to me by a friend/acquaintance.

@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-12-19T12:15:27-03:00","last tended to":"2024-03-26T15:54:25-03:00","dg-publish":true,"aliases":["CODE"],"tags":["framework"],"permalink":"/models-and-frameworks/lab/c-o-d-e/","dgPassFrontmatter":true,"created":"2023-12-19T12:15:27.352-03:00","updated":"2024-09-02T15:04:42.689-03:00"}
+{"created in":"2023-12-19T12:15:27-03:00","last tended to":"2024-09-02T15:04:42-03:00","dg-publish":true,"aliases":["CODE"],"tags":["framework"],"permalink":"/models-and-frameworks/lab/c-o-d-e/","dgPassFrontmatter":true,"created":"2023-12-19T12:15:27.352-03:00","updated":"2024-09-02T15:04:42.689-03:00"}
 ---
 
 acronym for [[capture\|capture]], [[organize\|organize]], [[distill\|distill]], [[express\|express]].

@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-09-03T14:13:57-03:00","last tended to":"2024-10-12T23:55:11-03:00","tags":["personal","storytelling","essay","music","self-knowledge","🌿"],"dg-publish":true,"notestage":["🌿"],"permalink":"/writings/the-evolution-of-my-weird-relationship-with-music-and-the-origins-of-my-occult-references/","dgPassFrontmatter":true,"created":"2024-09-03T14:13:57.922-03:00","updated":"2024-10-13T01:35:30.101-03:00"}
+{"created in":"2024-09-03T14:13:57-03:00","last tended to":"2024-10-13T01:35:30-03:00","tags":["personal","storytelling","essay","music","self-knowledge","🌿"],"dg-publish":true,"notestage":["🌿"],"permalink":"/writings/the-evolution-of-my-weird-relationship-with-music-and-the-origins-of-my-occult-references/","dgPassFrontmatter":true,"created":"2024-09-03T14:13:57.922-03:00","updated":"2024-10-13T01:35:30.101-03:00"}
 ---
 
 written in: july 10th, 2024

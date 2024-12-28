@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-04-04T14:49:22-03:00","last tended to":"2024-10-25T11:41:35-03:00","tags":["alchemy","concept","🌱"],"dg-publish":true,"notestage":["🌱"],"relevancescore":98,"permalink":"/concepts/alchemy/wisdom/","dgPassFrontmatter":true,"created":"2022-04-04T14:49:22.557-03:00","updated":"2024-10-25T11:43:10.709-03:00"}
+{"created in":"2022-04-04T14:49:22-03:00","last tended to":"2024-10-25T11:43:10-03:00","tags":["alchemy","concept","🌱"],"dg-publish":true,"notestage":["🌱"],"relevancescore":98,"permalink":"/concepts/alchemy/wisdom/","dgPassFrontmatter":true,"created":"2022-04-04T14:49:22.557-03:00","updated":"2024-10-25T11:43:10.709-03:00"}
 ---
 
 what is wisdom? (a distillation across multiple [[topics/alchemy/spiritual lineages\|wisdom traditions]])
