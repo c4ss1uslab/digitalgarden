@@ -46,14 +46,14 @@ related people: [[tbprocessed/base notes/people/peth\|peth]]/[[changethegame\|ch
 ##### conceptual alignment:
 
 [[_005_c4ss1us/c4ss1us.design\|design]]: [[projects & tools/projects/player/world game\|world game]]
-source: [[buckminster fuller institute\|buckminster fuller institute]], os.earth
+source: [[initiatives, orgs & communities/architect;design/buckminster fuller institute\|buckminster fuller institute]], os.earth
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/projects-and-tools/projects/player/world-game/#52ca2c" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-"make the world work, for 100% of humanity, in the shortest possible time, through spontaneous cooperation, without ecological offense or the disadvantage of anyone." 
+> "make the world work, for 100% of humanity, in the shortest possible time, through spontaneous cooperation, without ecological offense or the disadvantage of anyone." 
 
 </div></div>
 

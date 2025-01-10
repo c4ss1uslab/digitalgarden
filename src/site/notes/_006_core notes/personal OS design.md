@@ -57,7 +57,7 @@ my own embryonic [[_004_L1F3/l1f3 protocol\|l1f3 protocol]] -> a protocol for co
 
 ######  research on distributed systems / collaborative workspaces
 
-[[solid\|solid]]
+[[initiatives, orgs & communities/lab/solid\|solid]]
 
 [[projects & tools/projects/design/DXOS\|DXOS]]
 

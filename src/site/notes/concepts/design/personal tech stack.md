@@ -15,7 +15,7 @@ so, before looking at exactly what a "personal tech stack" might look like, let'
 
 #### 2 approaches to tech stack design
 
-1) create on top of the new, emergent decentralized/distributed architecture ([[topics/architect;design/web3\|web3]]/[[projects & tools/tools/design/IPFS\|IPFS]]/[[initiatives, orgs & communities/lab/holochain\|holochain]]/[[solid\|solid]] promise), knowing that it's going to take a lot more work and some features won't be available, and/or
+1) create on top of the new, emergent decentralized/distributed architecture ([[topics/architect;design/web3\|web3]]/[[projects & tools/tools/design/IPFS\|IPFS]]/[[initiatives, orgs & communities/lab/holochain\|holochain]]/[[initiatives, orgs & communities/lab/solid\|solid]] promise), knowing that it's going to take a lot more work and some features won't be available, and/or
 2) find ways to minimize the negative effects and adapt the existing systems/tools to be more intentional/humane/regenerative.
 
 while we don't have the best of both worlds, we still have unmet functions - a goal of my curation is to bring clarity to that, to establish knowledge/resource commons and coordinate efforts.

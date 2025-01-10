@@ -27,7 +27,7 @@
 
 instead of (or in addition to) war/combat games, can we have coordination/peace games?
 
-the "[[projects & tools/projects/player/world game\|great logistics game]]" or "[[projects & tools/projects/player/world game\|world (peace) game]]" was proposed by [[buckminster fuller institute\|buckminster fuller institute]] as a tool to facilitate a comprehensive, anticipatory, design science approach to the problems of the world.
+the "[[projects & tools/projects/player/world game\|great logistics game]]" or "[[projects & tools/projects/player/world game\|world (peace) game]]" was proposed by [[initiatives, orgs & communities/architect;design/buckminster fuller institute\|buckminster fuller institute]] as a tool to facilitate a comprehensive, anticipatory, design science approach to the problems of the world.
 
 its goal is to figure out how to: 
 
@@ -36,7 +36,7 @@ its goal is to figure out how to:
 
 
 
-"make the world work, for 100% of humanity, in the shortest possible time, through spontaneous cooperation, without ecological offense or the disadvantage of anyone." 
+> "make the world work, for 100% of humanity, in the shortest possible time, through spontaneous cooperation, without ecological offense or the disadvantage of anyone." 
 
 </div></div>
 

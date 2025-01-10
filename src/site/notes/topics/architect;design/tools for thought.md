@@ -59,4 +59,4 @@ early/major thinkers in the space:
 [[people/references/lab/douglas engelbart\|douglas engelbart]], [[kenneth iverson\|kenneth iverson]], [[j.c.r. licklider\|j.c.r. licklider]], [[vannevar bush\|vannevar bush]], [[people/references/lab/alan kay\|alan kay]], [[bob taylor\|bob taylor]], [[seymour papert\|seymour papert]], [[howard rheingold\|howard rheingold]].
 
 contemporary thinkers/researchers:
-[[tim berners-lee\|tim berners-lee]], [[people/references/lab/bret victor\|bret victor]], [[people/references/lab/gordon brander\|gordon brander]], [[people/references/lab/paul rony\|paul rony]], [[andy matuschak\|andy matuschak]], [[people/references/lab/paul bricman\|paul bricman]], [[people/references/lab/maggie appleton\|maggie appleton]]
+[[people/references/lab/tim berners-lee\|tim berners-lee]], [[people/references/lab/bret victor\|bret victor]], [[people/references/lab/gordon brander\|gordon brander]], [[people/references/lab/paul rony\|paul rony]], [[andy matuschak\|andy matuschak]], [[people/references/lab/paul bricman\|paul bricman]], [[people/references/lab/maggie appleton\|maggie appleton]]

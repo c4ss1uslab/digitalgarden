@@ -14,7 +14,7 @@ here are a few approaches that aim to address that:
 
 - [How Money & Banking Work (and why they're broken today) - Lyn Alden](https://www.youtube.com/watch?v=jk_HWmmwiAs)
 - [[jacques fresco\|jacques fresco]]'s [[resource-based economy\|resource-based economy]]
-- [[buckminster fuller institute\|buckminster fuller institute]]'s [[comprehensive anticipatory design science\|comprehensive anticipatory design science]]
+- [[initiatives, orgs & communities/architect;design/buckminster fuller institute\|buckminster fuller institute]]'s [[comprehensive anticipatory design science\|comprehensive anticipatory design science]]
 ##### initiatives with a paradigm shift potential:
 
 - [[topics/architect;design/crypto\|crypto]]/[[smart contracts\|smart contracts]]/[[alternative financial ecosystems\|alternative financial ecosystems]] possibilities: [SEEDS - Global Green New Deal! It's time to do what our governments have failed to do. Heal our planet](https://www.youtube.com/watch?v=3MounsvZFPk&list=PLj8H7uBaUwDsuLtfdVu27aylRnjLMJvtA&index=2).

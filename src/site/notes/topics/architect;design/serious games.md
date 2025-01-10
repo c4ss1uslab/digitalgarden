@@ -6,7 +6,7 @@
 
 more specifically on [[serious life games\|serious life games]]:
 
-- [[buckminster fuller institute\|buckminster fuller institute]]'s [[projects & tools/projects/player/world game\|world game]]
+- [[initiatives, orgs & communities/architect;design/buckminster fuller institute\|buckminster fuller institute]]'s [[projects & tools/projects/player/world game\|world game]]
 - [[initiatives, orgs & communities/architect;design/metagame.wtf\|metagame.wtf]]
 - [[initiatives, orgs & communities/alchemy/possibility management\|possibility management]]'s [[projects & tools/projects/player/startover.xyz\|startover.xyz]]
 - [[references/player/games/serious games/findhorn's transformation game\|findhorn's transformation game]]

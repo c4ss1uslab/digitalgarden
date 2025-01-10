@@ -1,5 +1,5 @@
 ---
-{"aliases":["make sense of","make sense","make sense of reality"],"created in":"2021-12-11T16:51:50-03:00","last tended to":"2024-11-06T19:43:58-03:00","tags":["topic","sensemaking","🌱"],"notestage":["🌱"],"relevancescore":98,"dg-publish":true,"created":"2021-12-11T16:51:50.666-03:00","updated":"2024-11-29T00:01:39.043-03:00","permalink":"/concepts/alchemy/sensemaking/","dgPassFrontmatter":true}
+{"aliases":["make sense of","make sense","make sense of reality"],"created in":"2021-12-11T16:51:50-03:00","last tended to":"2024-11-06T19:43:58-03:00","tags":["topic","sensemaking","🌱"],"notestage":["🌱"],"relevancescore":98,"dg-publish":true,"created":"2021-12-11T16:51:50.666-03:00","updated":"2025-01-10T18:45:04.960-03:00","permalink":"/concepts/alchemy/sensemaking/","dgPassFrontmatter":true}
 ---
 
 #### definition
@@ -56,7 +56,7 @@ another way of breaking it down is by tiers:
 
 \+ see also: [[topics/architect;design/online research\|online research]], [[topics/architect;design/public discourse\|public discourse]], [[topics/architect;design/market intelligence\|market intelligence]]/[[business intelligence\|business intelligence]], [[concepts/design/metacrisis\|metacrisis]]...
 
-main refs: [[envisioning radar\|envisioning radar]], [[projects & tools/tools/lab/atlas of economic complexity\|atlas of economic complexity]], [[calculating empires\|calculating empires]], other sociological analyses...
+main refs: [[projects & tools/projects/lab/envisioning tech radar\|envisioning radar]], [[projects & tools/tools/lab/atlas of economic complexity\|atlas of economic complexity]], [[references/design/calculating empires\|calculating empires]], other sociological analyses...
 
 ---
 #### resources
