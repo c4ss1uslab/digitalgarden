@@ -1,5 +1,5 @@
 ---
-{"aliases":["👨🏻‍🔬 c4ss1us.lab",".lab","lab","builder"],"created in":"2022-02-11T10:49:50-03:00","last tended to":"2024-08-26T14:27:11-03:00","created":"2024-05-22T17:07:42.901-03:00","updated":"2024-12-06T16:16:12.772-03:00","tags":["c4ss1us","lab","🌿"],"notestage":["🌿"],"dg-publish":true,"permalink":"/005-c4ss1us/c4ss1us-lab/","dgPassFrontmatter":true}
+{"aliases":["👨🏻‍🔬 c4ss1us.lab",".lab","lab","builder"],"created in":"2022-02-11T10:49:50-03:00","last tended to":"2024-08-26T14:27:11-03:00","created":"2024-05-22T17:07:42.901-03:00","updated":"2024-12-28T18:23:49.504-03:00","tags":["c4ss1us","lab","🌿"],"notestage":["🌿"],"dg-publish":true,"permalink":"/005-c4ss1us/c4ss1us-lab/","dgPassFrontmatter":true}
 ---
 
 **see also:** [c4ss1us.lab mmm.page (visual overview)](https://c4ss1us.mmm.page/lab)
@@ -7,13 +7,23 @@
 ---
 #### major challenges to be addressed / fields to work on:
 
-[[topics/architect;design/systems design\|systems design]] -> [[diagnosis/self-terminating economic system\|economic systems]], [[governance systems\|governance systems]], [[informational systems\|informational systems]], [[knowledge systems\|knowledge systems]]
-[[computing stack\|computing stack]] -> [[responses/regen/permacomputing\|permacomputing]]
-[[software stack\|software stack]] -> [[topics/architect;design/distributed systems\|distributed systems]]
-[[concepts/alchemy/sensemaking\|sensemaking]]/[[topics/lab/information management\|information management]]/[[knowledge development\|knowledge development]]/[[wisdom development\|wisdom development]] -> 
-[[topics/lab/personal knowledge management\|personal knowledge management]] -> 
-[[_004_L1F3/core concepts/life management\|life management]] -> [[memex\|memex]], [[_004_L1F3/l1f3 management ontology\|life management methodology]]
+how can technology support [[_004_L1F3/core concepts/civilization design\|civilization design]], [[_004_L1F3/core concepts/life design\|life design]] and [[concepts/alchemy/self-transformation\|self-transformation]]?
 
+1) [[topics/architect;design/coordination systems\|coordination systems]] 
+
+[[topics/architect;design/distributed systems\|distributed]]/[[decentralized systems\|decentralized systems design]] -> [[diagnosis/self-terminating economic system\|economic systems]], [[governance systems\|governance systems]], [[knowledge systems\|knowledge systems]], [[information systems\|information systems]]
+
+2) [[topics/architect;design/collaboration tools\|collaboration tools]]
+
+[[concepts/design/personal tech stack\|tech stacks]] -> [[personal computing\|personal computing]] -> [[responses/regen/permacomputing\|permacomputing]] / [[topics/architect;design/distributed systems\|distributed systems]]
+
+3) [[_004_L1F3/core concepts/self-management\|self-management tools]]
+
+[[tools for extended cognition\|tools for extended cognition]] -> [[models & frameworks/design/OODA loop\|OODA loop]] augmentation / [[models & frameworks/design/DIKW pyramid\|DIKW]] management ([[concepts/alchemy/sensemaking\|sensemaking]], [[topics/lab/information management\|information management]], [[knowledge development\|knowledge development]], [[wisdom development\|wisdom development]])
+
+[[_004_L1F3/core concepts/life management\|life management]] -> [[_004_L1F3/l1f3 management ontology\|l1f3 management ontology]], [[_002_toolkit/000 ⛓ l1f3 player toolkit\|toolkit]], [[memex\|memex]], [[co-pilot\|co-pilot]] & more
+
+---
 #### key guiding directions/ideas:
 
 1) how might we design & build new [[economic systems\|economic systems]] that address the foundational [[economic incentives\|economic incentives]] for [[diagnosis/accumulation, extraction, abstraction\|accumulation, extraction, abstraction]] that are driving the [[concepts/design/metacrisis\|metacrisis]]?

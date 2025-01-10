@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-04-01T18:55:58-03:00","last tended to":"2024-10-06T02:50:36-03:00","aliases":["personal tech stacks"],"tags":["concept","design","lab","alchemy","art","player","🌿","tier1"],"notestage":["🌿"],"dg-publish":true,"relevancescore":92,"created":"2024-04-01T18:55:58.519-03:00","updated":"2024-12-06T16:14:30.130-03:00","permalink":"/concepts/design/personal-tech-stack/","dgPassFrontmatter":true}
+{"created in":"2024-04-01T18:55:58-03:00","last tended to":"2024-10-06T02:50:36-03:00","aliases":["personal tech stacks"],"tags":["concept","design","lab","alchemy","art","player","🌿","tier1"],"notestage":["🌿"],"dg-publish":true,"relevancescore":92,"created":"2024-04-01T18:55:58.519-03:00","updated":"2024-12-28T18:21:25.407-03:00","permalink":"/concepts/design/personal-tech-stack/","dgPassFrontmatter":true}
 ---
 
 see also: [[_004_L1F3/core concepts/life design\|life design]], my attempt at a [[experiments/made by me/lab/minimum viable intentional personal tech stack;setup\|minimum viable intentional personal tech stack;setup]].
@@ -15,7 +15,7 @@ so, before looking at exactly what a "personal tech stack" might look like, let'
 
 #### 2 approaches to tech stack design
 
-1) create on top of the new, emergent decentralized/distributed architecture ([[topics/architect;design/web3\|web3]]/[[projects & tools/tools/design/IPFS\|IPFS]]/[[initiatives, orgs & communities/lab/holochain\|holochain]]/[[prototypes & designs/made by others/synapsis\|synapsis]] promise), knowing that it's going to take a lot more work and some features won't be available, and/or
+1) create on top of the new, emergent decentralized/distributed architecture ([[topics/architect;design/web3\|web3]]/[[projects & tools/tools/design/IPFS\|IPFS]]/[[initiatives, orgs & communities/lab/holochain\|holochain]]/[[solid\|solid]] promise), knowing that it's going to take a lot more work and some features won't be available, and/or
 2) find ways to minimize the negative effects and adapt the existing systems/tools to be more intentional/humane/regenerative.
 
 while we don't have the best of both worlds, we still have unmet functions - a goal of my curation is to bring clarity to that, to establish knowledge/resource commons and coordinate efforts.

@@ -1,5 +1,5 @@
 ---
-{"created":"2024-12-03T16:35:39.304-03:00","updated":"2024-12-11T16:52:17.387-03:00","tags":["l1f3","prototype","lab","alchemy","🌿"],"dg-publish":true,"relevancescore":86,"permalink":"/004-l1-f3/l1f3-manager/","dgPassFrontmatter":true}
+{"created":"2024-12-03T16:35:39.304-03:00","updated":"2025-01-10T16:01:37.729-03:00","tags":["l1f3","prototype","lab","alchemy","🌿"],"dg-publish":true,"relevancescore":86,"notestage":["🌿"],"permalink":"/004-l1-f3/l1f3-manager/","dgPassFrontmatter":true}
 ---
 
 the l1f3 manager is a [[_001_MOCs/050 🟩 mid game/070 🔩 prototypes MOC\|prototype]] built by [[people/friends/ísis schuarts\|ísis schuarts]] which aimed to be the technological basis of [[_004_L1F3/core concepts/self-management\|self]] and [[topics/lab/personal data management\|personal data management]] within the [[_004_L1F3/l1f3 game\|L1F3 game]].
