@@ -34,10 +34,10 @@ funding the commons -> gitcoin, [[tea.xyz\|tea.xyz]].
 [[models & frameworks/design/fluxonomy 4d\|fluxonomy 4d]]
 [[tbprocessed/base notes/ventures - general/metacurrency project\|metacurrency project]]
 [[references/design/library of economic possibility\|library of economic possibility]]
-[[initiatives, orgs & communities/architect;design/valueflows\|valueflows]]
+[[initiatives, orgs & communities/design/valueflows\|valueflows]]
 [[projects & tools/projects/design/gitcoin coordination mechanisms list\|gitcoin coordination mechanisms list]]
 https://tokenengineeringcommunity.github.io/website/docs/library-welcome
-the field of [[topics/architect;design/refi\|refi]] as a whole + [[facilitation methodologies\|facilitation methodologies]] such as [[models & frameworks/host/pedagogia da cooperação\|pedagogia da cooperação]]
+the field of [[topics/design/refi\|refi]] as a whole + [[facilitation methodologies\|facilitation methodologies]] such as [[models & frameworks/host/pedagogia da cooperação\|pedagogia da cooperação]]
 
 experiments:
 - SEEDS (as a whole) + gratitude token (crypto/local currencies)

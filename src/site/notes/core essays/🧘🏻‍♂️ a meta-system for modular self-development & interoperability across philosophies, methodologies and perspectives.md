@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-12-14T12:54:40-03:00","last tended to":"2024-09-24T16:19:46-03:00","dg-publish":true,"tags":["alchemy","essay","🌱"],"aliases":["🧘🏻‍♂️ a meta-system for modular self-development"],"notestage":["🌱"],"created":"2023-12-14T12:54:40.894-03:00","updated":"2024-12-23T14:29:18.547-03:00","permalink":"/core-essays/a-meta-system-for-modular-self-development-and-interoperability-across-philosophies-methodologies-and-perspectives/","dgPassFrontmatter":true}
+{"created in":"2023-12-14T12:54:40-03:00","last tended to":"2024-09-24T16:19:46-03:00","dg-publish":true,"tags":["alchemy","essay","🌱"],"aliases":["🧘🏻‍♂️ a meta-system for modular self-development"],"notestage":["🌱"],"created":"2023-12-14T12:54:40.894-03:00","updated":"2025-01-22T15:26:44.146-03:00","permalink":"/core-essays/a-meta-system-for-modular-self-development-and-interoperability-across-philosophies-methodologies-and-perspectives/","dgPassFrontmatter":true}
 ---
 
 sub-title: **approaches to self design, self as a system, encoded philosophy, integral spirituality and conscious life operating systems**.
@@ -27,9 +27,9 @@ most of these aim to be multiperspectival, open-ended, integrative approaches to
 
 yes.
 
-[[initiatives, orgs & communities/architect;design/meaning alignment institute\|meaning alignment institute]] and [[initiatives, orgs & communities/architect;design/goodly labs\|goodly labs]] are doing a great job around coordinating perspectives. i'll dive into it more on my next article ([[core essays/💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons\|💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons]]), but [[initiatives, orgs & communities/architect;design/the society library\|the society library]] also.
+[[initiatives, orgs & communities/design/meaning alignment institute\|meaning alignment institute]] and [[initiatives, orgs & communities/design/goodly labs\|goodly labs]] are doing a great job around coordinating perspectives. i'll dive into it more on my next article ([[core essays/💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons\|💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons]]), but [[initiatives, orgs & communities/design/the society library\|the society library]] also.
 
-beyond [[models & frameworks/alchemy/integral theory\|integral]], there's a lot of work being done with [[teal organizations\|teal organizations]], (...)
+beyond [[responses/alchemy/integral theory\|integral]], there's a lot of work being done with [[teal organizations\|teal organizations]], (...)
 
 ---
 
@@ -39,7 +39,7 @@ we can be forever seeking "who has/what is the more comprehensive/coherent/whole
 
 we all came here with different missions, needs, backgrounds and challenges. "all paths lead to the tao, but not all are equally valuable".
 
-the age-old challenge of [[_004_L1F3/core concepts/self design\|self design]] is as much a work of [[designing\|design]] as of [[discovery\|discovery]] and [[deconstruction\|deconstruction]].
+the age-old challenge of [[_004_L1F3/core concepts/self-transformation\|_004_L1F3/core concepts/self-transformation]] is as much a work of [[designing\|design]] as of [[discovery\|discovery]] and [[deconstruction\|deconstruction]].
 
 ![integral dashboard.jpeg](/img/user/images/interfaces%20&%20designs/integral%20dashboard.jpeg)
 

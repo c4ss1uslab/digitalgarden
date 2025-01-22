@@ -13,7 +13,7 @@ compass: 👯‍♂️ to learn, ❤ to heal, 🙏 to serve, 🎉 to enjoy.
 ([[concepts/alchemy/growing up\|grow up]], [[concepts/alchemy/cleaning up\|clean up]], [[concepts/alchemy/showing up\|show up]], [[concepts/alchemy/waking up\|wake up]])
 
 mvp integrates:
-[[references/alchemy/integral OS\|integral OS]] / [[models & frameworks/alchemy/integral theory\|integral theory]]
+[[references/alchemy/integral OS\|integral OS]] / [[responses/alchemy/integral theory\|integral theory]]
 [[initiatives, orgs & communities/alchemy/possibility management\|possibility management]] / [[concepts/alchemy/first position\|first position]]
 [[topics/alchemy/mental models\|mental models]] / [[first principles thinking\|first principles thinking]]
 
@@ -42,7 +42,7 @@ and building minimum viable prototypes as some answers are discovered.
 	- etc...
 - [[social operating systems\|social operating systems]]
 	- [[concepts/design/incentive structures\|incentive structures]]
-	- [[marketing\|marketing]] / [[topics/architect;design/media\|media]]
+	- [[marketing\|marketing]] / [[topics/design/media\|media]]
 	- [[economic systems\|economic systems]]
 	- [[financial systems\|financial systems]]
 	- [[governance systems\|governance systems]]

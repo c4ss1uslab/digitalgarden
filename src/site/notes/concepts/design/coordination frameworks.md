@@ -48,4 +48,4 @@ more on [[andrew altshuler\|andrew altshuler]]'s [PKM frameworks](https://www.al
 
 
 
-related references: [[initiatives, orgs & communities/architect;design/the society library\|the society library]]'s [decision-making toolkit](https://www.societylibrary.org/improve-decisionmaking), [untools](https://untools.co/), etc.
+related references: [[initiatives, orgs & communities/design/the society library\|the society library]]'s [decision-making toolkit](https://www.societylibrary.org/improve-decisionmaking), [untools](https://untools.co/), etc.

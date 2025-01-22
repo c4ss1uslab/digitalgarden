@@ -1,5 +1,5 @@
 ---
-{"aliases":["make sense of","make sense","make sense of reality"],"created in":"2021-12-11T16:51:50-03:00","last tended to":"2024-11-06T19:43:58-03:00","tags":["topic","sensemaking","🌱"],"notestage":["🌱"],"relevancescore":98,"dg-publish":true,"created":"2021-12-11T16:51:50.666-03:00","updated":"2025-01-10T18:45:04.960-03:00","permalink":"/concepts/alchemy/sensemaking/","dgPassFrontmatter":true}
+{"aliases":["make sense of","make sense","make sense of reality"],"created in":"2021-12-11T16:51:50-03:00","last tended to":"2024-11-06T19:43:58-03:00","tags":["topic","sensemaking","🌿"],"notestage":["🌿"],"relevancescore":98,"dg-publish":true,"created":"2021-12-11T16:51:50.666-03:00","updated":"2025-01-22T16:19:40.604-03:00","permalink":"/concepts/alchemy/sensemaking/","dgPassFrontmatter":true}
 ---
 
 #### definition
@@ -54,7 +54,7 @@ another way of breaking it down is by tiers:
 
 [[inquiries & heuristics/inquiry into research & sensemaking methods\|inquiry into research & sensemaking methods]]
 
-\+ see also: [[topics/architect;design/online research\|online research]], [[topics/architect;design/public discourse\|public discourse]], [[topics/architect;design/market intelligence\|market intelligence]]/[[business intelligence\|business intelligence]], [[concepts/design/metacrisis\|metacrisis]]...
+\+ see also: [[topics/design/online research\|online research]], [[topics/design/public discourse\|public discourse]], [[topics/design/market intelligence\|market intelligence]]/[[business intelligence\|business intelligence]], [[concepts/design/metacrisis\|metacrisis]]...
 
 main refs: [[projects & tools/projects/lab/envisioning tech radar\|envisioning radar]], [[projects & tools/tools/lab/atlas of economic complexity\|atlas of economic complexity]], [[references/design/calculating empires\|calculating empires]], other sociological analyses...
 
@@ -67,7 +67,7 @@ main refs: [[projects & tools/projects/lab/envisioning tech radar\|envisioning r
 
 ##### main references:
 [[people/references/alchemy/ken wilber\|ken wilber]] / [[initiatives, orgs & communities/alchemy/integral life\|integral life]]
-[[people/references/architect;design/daniel schmachtenberger\|daniel schmachtenberger]] / [[initiatives, orgs & communities/architect;design/the consilience project\|consilience project]]
+[[people/references/architect;design/daniel schmachtenberger\|daniel schmachtenberger]] / [[initiatives, orgs & communities/design/the consilience project\|consilience project]]
 [[tbprocessed/base notes/ventures - general/rebel wisdom\|rebel wisdom]] / [[tbprocessed/base notes/ventures - general/future thinkers\|future thinkers]] / [[tbprocessed/base notes/ventures - general/the stoa\|the stoa]]
 
 ##### main topics:
@@ -87,7 +87,7 @@ main refs: [[projects & tools/projects/lab/envisioning tech radar\|envisioning r
 			- [[diagnosis/climate crisis\|climate crisis]]
 			- [[technological innovations\|technological innovations]]
 	- [[state of the web\|state of the web]] ([[information ecologies\|information ecologies]])
-	- [[state of one's life\|state of one's life]] ([[concepts/design/knowledge ecology\|knowledge ecologies]])
+	- [[state of one's life\|state of one's life]] ([[concepts/design/knowledge ecologies\|knowledge ecologies]])
 	- [[_006_core notes/theories of change\|theories of change]] ([[concepts/alchemy/axiology\|axiology]])
 
 ---
@@ -97,7 +97,7 @@ practical [[philosophy\|philosophy]]/basic orienting principles:
 [[principles\|principles]] (by ray dalio)
 [[dan koe\|dan koe]]'s career philosophical videos
 
-[[geopolitics\|geopolitics]], [[topics/architect;design/economics\|economics]] & [[finance\|finance]]:
+[[geopolitics\|geopolitics]], [[topics/design/economics\|economics]] & [[finance\|finance]]:
 slightly less biased, lighter/more informative analyses: [coldfusion](https://www.youtube.com/c/ColdFusion)
 [How Money & Banking Work (& why they're broken today) - Lyn Alden](https://www.youtube.com/watch?v=jk_HWmmwiAs)
 [how money works channel](https://www.youtube.com/c/HowMoneyWorks)

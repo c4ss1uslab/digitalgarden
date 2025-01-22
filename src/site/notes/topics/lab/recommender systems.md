@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-06-06T15:34:54-03:00","last tended to":"2024-10-12T17:21:04-03:00","tags":["topic","lab","AI","🌱"],"relevancescore":88,"notestage":["🌱"],"dg-publish":true,"permalink":"/topics/lab/recommender-systems/","dgPassFrontmatter":true,"created":"2024-06-06T15:34:54.808-03:00","updated":"2024-10-12T17:21:58.287-03:00"}
+{"created in":"2024-06-06T15:34:54-03:00","last tended to":"2024-10-12T17:21:04-03:00","tags":["topic","lab","AI","🌱"],"relevancescore":94,"notestage":["🌱"],"dg-publish":true,"created":"2024-06-06T15:34:54.808-03:00","updated":"2025-01-22T17:05:06.361-03:00","permalink":"/topics/lab/recommender-systems/","dgPassFrontmatter":true}
 ---
 
 ##### related projects:
@@ -11,7 +11,7 @@ i've been wanting to train models/host my own algorithms for many years, but sti
 i'm following the developments of a few projects in adjacent spaces, to see how/when they can facilitate that:
 ###### [[social graph\|social graph]]/[[tbprocessed/base notes/concepts - general/curation\|curation]]-oriented:
 [[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social (ex-tweetscape)]]
-[[initiatives, orgs & communities/architect;design/sublime (ex-startupy)\|sublime (ex-startupy)]]
+[[initiatives, orgs & communities/design/sublime (ex-startupy)\|sublime (ex-startupy)]]
 [[projects & tools/tools/lab/hive.one\|hive.one]]
 ###### [[topics/lab/artificial intelligence\|AI]]-oriented:
 [[projects & tools/tools/design/index network\|index network]] - 1-min demo: https://x.com/indexnetwork_/status/1786110169396429093
@@ -25,8 +25,8 @@ i'm following the developments of a few projects in adjacent spaces, to see how/
 (...)
 ##### other efforts:
 
-[[bluesky\|bluesky]] user-chosen algorithms
+[[initiatives, orgs & communities/lab/bluesky\|bluesky]] user-chosen algorithms
 
 ---
 
-related: [[topics/architect;design/personal algorithms design\|personal algorithms design]]
+related: [[responses/design/personal algorithms design\|personal algorithms design]]

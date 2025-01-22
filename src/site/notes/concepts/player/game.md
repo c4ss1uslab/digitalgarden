@@ -1,5 +1,5 @@
 ---
-{"aliases":["games"],"created in":"2022-02-27T14:27:13-03:00","last tended to":"2024-09-24T16:25:20-03:00","tags":["player","concept","🌱"],"dg-publish":true,"notestage":["🌱"],"created":"2022-02-27T14:27:13.500-03:00","updated":"2024-12-27T16:34:59.012-03:00","permalink":"/concepts/player/game/","dgPassFrontmatter":true}
+{"aliases":["games"],"created in":"2022-02-27T14:27:13-03:00","last tended to":"2024-09-24T16:25:20-03:00","tags":["player","concept","🌱"],"dg-publish":true,"notestage":["🌱"],"created":"2022-02-27T14:27:13.500-03:00","updated":"2025-01-22T15:26:44.032-03:00","permalink":"/concepts/player/game/","dgPassFrontmatter":true}
 ---
 
 ##### a few of my favorite definitions of "game"
@@ -27,7 +27,7 @@
 
 instead of (or in addition to) war/combat games, can we have coordination/peace games?
 
-the "[[projects & tools/projects/player/world game\|great logistics game]]" or "[[projects & tools/projects/player/world game\|world (peace) game]]" was proposed by [[initiatives, orgs & communities/architect;design/buckminster fuller institute\|buckminster fuller institute]] as a tool to facilitate a comprehensive, anticipatory, design science approach to the problems of the world.
+the "[[projects & tools/projects/player/world game\|great logistics game]]" or "[[projects & tools/projects/player/world game\|world (peace) game]]" was proposed by [[initiatives, orgs & communities/design/buckminster fuller institute\|buckminster fuller institute]] as a tool to facilitate a comprehensive, anticipatory, design science approach to the problems of the world.
 
 its goal is to figure out how to: 
 
@@ -46,14 +46,14 @@ other approaches:
 
 #### use cases
 
-[[self-discovery\|self-discovery]]/[[concepts/alchemy/self-transformation\|self-transformation]], [[topics/player/learning\|learning]]/[[capacity development\|capacity development]]/[[tbprocessed/base notes/principles;frameworks - general/skill development\|skill development]], [[self-healing\|self-healing]]/[[topics/host/community building\|community]]/[[relationship development\|relationship building]], [[strategy development\|strategy development]]/[[co-creation\|co-creation]], [[terms/fun\|fun]].
+[[self-discovery\|self-discovery]]/[[concepts/alchemy/self-transformation\|concepts/alchemy/self-transformation]], [[topics/player/learning\|learning]]/[[capacity development\|capacity development]]/[[tbprocessed/base notes/principles;frameworks - general/skill development\|skill development]], [[self-healing\|self-healing]]/[[topics/host/community building\|community]]/[[relationship development\|relationship building]], [[strategy development\|strategy development]]/[[co-creation\|co-creation]], [[terms/fun\|fun]].
 
 
 main references:
-- [[initiatives, orgs & communities/architect;design/metagame.wtf\|metagame.wtf]]
+- [[initiatives, orgs & communities/design/metagame.wtf\|metagame.wtf]]
 - [[projects & tools/projects/player/world game\|world game]] - bucky fuller institute (workshop / os.earth)
 - [[projects & tools/projects/player/startover.xyz\|startover.xyz]]
-- [[initiatives, orgs & communities/architect;design/SEEDS (ecosystem)\|SEEDS (ecosystem)]]
+- [[initiatives, orgs & communities/design/SEEDS (ecosystem)\|SEEDS (ecosystem)]]
 - [[models & frameworks/player/fourgames\|fourgames]]
 - [[people/friends/ísis schuarts\|ísis schuarts]] (adam kadmon institute / l1f3 stream)
 
@@ -61,8 +61,8 @@ write/clarify my differences in approach from (above & below):
 - [[initiatives, orgs & communities/alchemy/integral life\|integral life]] / [[references/alchemy/integral OS\|integral OS]]
 - [[flow genome project\|flow genome project]]
 - [[foresight institute\|foresight institute]]
-- [[initiatives, orgs & communities/architect;design/the consilience project\|the consilience project]]
-- [[initiatives, orgs & communities/architect;design/civilization research institute\|civilization research institute]]
+- [[initiatives, orgs & communities/design/the consilience project\|the consilience project]]
+- [[initiatives, orgs & communities/design/civilization research institute\|civilization research institute]]
 - [[GAOA\|GAOA]]
 - [[synarkia\|synarkia]]
 - [[tbprocessed/KOSMOS/KOSMOS\|KOSMOS]]

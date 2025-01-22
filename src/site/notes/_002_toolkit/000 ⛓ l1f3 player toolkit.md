@@ -1,10 +1,10 @@
 ---
-{"aliases":["toolkit","🧰 toolkit","player toolkit","🧰 player toolkit","l1f3 player toolkit","🧰 l1f3 player toolkit","life player toolkit","🧰 life player toolkit","L1F3 player toolkit"],"created in":"2022-01-28T09:51:51-03:00","last tended to":"2024-09-29T14:25:40-03:00","tags":["prototype","🌿","selfmanagement","player","l1f3"],"dg-publish":true,"notestage":["🌿"],"created":"2022-01-28T09:51:51.329-03:00","updated":"2024-12-23T14:46:08.126-03:00","permalink":"/002-toolkit/000-l1f3-player-toolkit/","dgPassFrontmatter":true}
+{"aliases":["toolkit","🧰 toolkit","player toolkit","🧰 player toolkit","l1f3 player toolkit","🧰 l1f3 player toolkit","life player toolkit","🧰 life player toolkit","L1F3 player toolkit"],"created in":"2022-01-28T09:51:51-03:00","last tended to":"2024-09-29T14:25:40-03:00","tags":["prototype","🌿","selfmanagement","player","l1f3"],"dg-publish":true,"notestage":["🌿"],"created":"2022-01-28T09:51:51.329-03:00","updated":"2025-01-22T16:59:04.855-03:00","relevancescore":97,"permalink":"/002-toolkit/000-l1f3-player-toolkit/","dgPassFrontmatter":true}
 ---
 
 #### about
 
-the l1f3 player toolkit is a first version prototype for: a minimal yet complete/integral framework for playing life in more [[conscious\|conscious]], [[terms/fun\|fun]], [[collaborative\|collaborative]], [[impactful\|impactful]] and [[topics/architect;design/regeneration\|regenerative]] ways.
+the l1f3 player toolkit is a first version prototype for: a minimal yet complete/integral framework for playing life in more [[conscious\|conscious]], [[terms/fun\|fun]], [[collaborative\|collaborative]], [[impactful\|impactful]] and [[topics/design/regeneration\|regenerative]] ways.
 
 #### index
 
@@ -25,7 +25,6 @@ the l1f3 player toolkit is a first version prototype for: a minimal yet complete
 [[_002_toolkit/x+ 📿 rituals LPS\|📿 rituals]] / [[_002_toolkit/x+ 📿 rituals LPS\|x+ 📿 rituals LPS]]
 
 ---
-
 ##### meta-systems:
 
 [[_004_L1F3/l1f3 game\|🎮 life game]]
@@ -38,6 +37,13 @@ the l1f3 player toolkit is a first version prototype for: a minimal yet complete
 
 [[prototypes & designs/made by me/collaborative life map\|🗺 collaborative life map]]
 [[prototypes & designs/made by me/on hold/IRDI\|📡 initiatives radar]]
+
+##### basic tools:
+
+[[_006_core notes/12 favorite questions\|12 favorite questions]]
+[[models & frameworks/alchemy/wheel of life\|wheel of life]]
+[[models & frameworks/player/fourgames\|fourgames]]
+etc.
 
 ---
 ##### references:

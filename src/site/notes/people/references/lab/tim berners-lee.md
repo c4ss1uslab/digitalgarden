@@ -4,4 +4,4 @@
 
 the inventor of the [[world wide web\|world wide web]], [[HTML\|HTML]], [[URL\|URL]] and [[HTTP\|HTTP]].
 
-currently working on actualizing the early vision of the web by building [[topics/architect;design/distributed systems\|distributed systems]] with [[initiatives, orgs & communities/lab/solid\|solid]].
+currently working on actualizing the early vision of the web by building [[topics/design/distributed systems\|distributed systems]] with [[projects & tools/tools/lab/solid\|solid]].

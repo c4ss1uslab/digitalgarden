@@ -1,5 +1,5 @@
 ---
-{"aliases":["🗺 meta-map","wordcloud","🗾 meta-map"],"created in":"2022-01-03T19:16:10-03:00","last tended to":"2024-09-29T14:42:57-03:00","tags":["design","🌿","research","knowledgedesign","informationdesign","experiment"],"dg-publish":true,"notestage":["🌿"],"created":"2022-01-03T19:16:10.550-03:00","updated":"2024-12-23T14:24:29.490-03:00","permalink":"/002-toolkit/meta-map/","dgPassFrontmatter":true}
+{"aliases":["🗺 meta-map","wordcloud","🗾 meta-map"],"created in":"2022-01-03T19:16:10-03:00","last tended to":"2024-09-29T14:42:57-03:00","tags":["design","🌿","research","knowledgedesign","informationdesign","experiment"],"dg-publish":true,"notestage":["🌿"],"created":"2022-01-03T19:16:10.550-03:00","updated":"2025-01-22T15:26:38.769-03:00","permalink":"/002-toolkit/meta-map/","dgPassFrontmatter":true}
 ---
 
 an extensive list / experimental form of intuitive clustering of all major themes/domains and references i'm working with.
@@ -31,13 +31,13 @@ added:
 
 **.lab**
 
-[[topics/architect;design/semantic web\|semantic web]]
+[[topics/lab/semantic web\|semantic web]]
 
-[[topics/architect;design/tools for thought\|tools for thought]]
+[[responses/lab/tools for thought\|tools for thought]]
 
-[[responses/regen/permacomputing\|permacomputing]]
+[[responses/lab/permacomputing\|permacomputing]]
 
-[[personal computing\|personal computing]] / [[_006_core notes/personal OS design\|personal OS design]]
+[[personal computing\|personal computing]] / [[responses/lab/personal OS design\|personal OS design]]
 
 [[topics/lab/spatial computing\|spatial computing]] & [[open hardware\|open hardware]]
 
@@ -45,7 +45,7 @@ added:
 
 [[local-first\|local-first]], [[modular\|modular]], [[p2p\|p2p]] software
 
-[[concepts/design/personal tech stack\|personal tech stack]] / [[personal data infrastructure\|personal data infrastructure]]
+[[responses/lab/personal tech stack\|personal tech stack]] / [[personal data infrastructure\|personal data infrastructure]]
 
 [[personal systems\|personal systems]] / [[personal workflows\|personal workflows]]
 
@@ -59,13 +59,13 @@ added:
 
 [[concepts/design/self-augmentation\|self-augmentation]]
 
-[[tbprocessed/base notes/concepts - general/curation\|online curation]] / [[topics/architect;design/knowledge commons\|knowledge commons]]
+[[tbprocessed/base notes/concepts - general/curation\|online curation]] / [[responses/lab/knowledge commons\|knowledge commons]]
 
 [[topics/player/cooperative games\|cooperative]] / [[coopetitive games\|coopetitive games]]
 
 [[topics/player/game interfaces\|game interfaces]] / [[topics/player/game HUDs\|HUDs]] + [[topics/lab/UX design\|UX design]]
 
-[[responses/design/values-based design\|values-based design]] / [[topics/architect;design/humane tech design\|humane tech design]]
+[[responses/design/values-based design\|values-based design]] / [[topics/design/humane tech design\|humane tech design]]
 
 [[multidimensional resources management\|multidimensional resources management]]
 (potluck)
@@ -76,7 +76,7 @@ added:
 
 - [[_004_L1F3/core concepts/civilization design\|civilization design]]
 
-[[topics/architect;design/web3\|web3]] / [[decentralized coordination infrastructure\|decentralized coordination infrastructure]]
+[[topics/design/web3\|web3]] / [[decentralized coordination infrastructure\|decentralized coordination infrastructure]]
 
 [[responses/lab/mapping\|mapping]] / [[concepts/alchemy/sensemaking\|sensemaking]]
 
@@ -90,7 +90,7 @@ added:
 
 [[tools for extended cognition\|tools for extended cognition]]
 
-- [[_004_L1F3/core concepts/self design\|self design]] / [[_004_L1F3/core concepts/self-management\|self-management]]
+- [[_004_L1F3/core concepts/self-transformation\|_004_L1F3/core concepts/self-transformation]] / [[_004_L1F3/core concepts/self-management\|self-management]]
 
 
 **.alchemy**
@@ -99,7 +99,7 @@ added:
 
 [[concepts/alchemy/thriving\|thriving]] / [[flourishing\|flourishing]]
 
-[[topics/architect;design/ontological design\|ontological design]]
+[[topics/design/ontological design\|ontological design]]
 
 [[references/alchemy/integral OS\|integral OS]]
 
@@ -115,7 +115,7 @@ added:
 
 [[concepts/design/third spaces\|third spaces]]
 
-[[topics/architect;design/regeneration\|regeneration]]
+[[topics/design/regeneration\|regeneration]]
 
 [[topics/alchemy/metaphysics\|metaphysics]]
 
@@ -210,7 +210,7 @@ added:
 
 [[topics/lab/information design\|information design]]
 [[tools for extended cognition\|tools for extended cognition]]
-[[topics/architect;design/tools for thought\|tools for thought]]
+[[responses/lab/tools for thought\|tools for thought]]
 [[tools for action\|tools for action]]
 [[tools for work\|tools for work]]
 [[tools for life\|tools for life]]
@@ -224,7 +224,7 @@ added:
 [[topics/lab/UI design\|UI design]]
 [[topics/lab/UX design\|UX design]]
 
-[[topics/architect;design/research\|research]] [[tools\|tools]]/[[topics/lab/algorithms\|algorithms]]
+[[topics/design/research\|research]] [[tools\|tools]]/[[topics/lab/algorithms\|algorithms]]
 [[tbprocessed/base notes/concepts - general/curation\|curation]] [[tools\|tools]]/[[topics/lab/algorithms\|algorithms]]
 
 [[RSS feeds\|RSS feeds]]
@@ -237,7 +237,7 @@ added:
 
 [[data ownership\|data ownership]]
 [[open information flows\|open information flows]]
-[[topics/architect;design/web3\|web3]]
+[[topics/design/web3\|web3]]
 
 [[no-code\|no-code]]
 [[automation\|automation]]
@@ -311,11 +311,11 @@ added:
 
 [[knowledge workers\|knowledge workers]]
 [[information economy\|information economy]]
-[[topics/architect;design/digital economy\|digital economy]]
+[[topics/design/digital economy\|digital economy]]
 [[bullshit jobs\|bullshit jobs]]
 
 [[information ecology\|information ecology]]
-[[topics/architect;design/digital cartography\|digital cartography]]
+[[topics/design/digital cartography\|digital cartography]]
 
 [[tbprocessed/base notes/concepts - general/art\|art]]
 
@@ -330,7 +330,7 @@ added:
 [[clarity\|clarity]]
 [[outsourcing\|outsourcing]]
 
-[[topics/architect;design/systems\|systems]] [[concepts/design/leverage\|leverage]]
+[[topics/design/systems\|systems]] [[concepts/design/leverage\|leverage]]
 [[concepts/alchemy/abundance\|abundance]]
 [[abundance-generating mechanisms\|abundance-generating mechanisms]]
 
@@ -342,7 +342,7 @@ added:
 [[concepts/alchemy/time\|time]]
 [[attention\|attention]]
 
-[[topics/architect;design/coordination systems\|coordination systems]]
+[[topics/design/coordination systems\|coordination systems]]
 
 [[topics/lab/visual programming\|visual programming]]
 [[topics/lab/artificial intelligence\|artificial intelligence]] [[topics/lab/programming\|programming]]
@@ -381,7 +381,7 @@ added:
 [[decentralized work\|decentralized work]]
 [[decentralized organizing\|decentralized organizing]]
 
-[[topics/architect;design/web3\|web3]]
+[[topics/design/web3\|web3]]
 [[social\|social]]
 [[terms/environment\|environment]]
 [[youth\|youth]]
@@ -392,7 +392,7 @@ added:
 [[other notes ; references/metagame/metagame quests\|metagame quests]]
 [[topics/player/gamification\|gamification]]
 
-[[topics/architect;design/media\|media]]
+[[topics/design/media\|media]]
 [[topics/art/music MOC\|music MOC]]
 [[videos\|videos]]
 [[terms/articles\|articles]]
@@ -433,7 +433,7 @@ added:
 [[warm data\|warm data]]
 
 [[life-enhancing systems\|life-enhancing systems]]
-[[topics/architect;design/intentional tech\|intentional tech]]
+[[topics/design/intentional tech\|intentional tech]]
 
 [[trustless systems\|trustless systems]]
 [[public commons\|public commons]]
@@ -452,12 +452,12 @@ added:
 [[topics/lab/information management\|information management]]
 [[knowledge base\|knowledge base]]
 
-[[topics/architect;design/collaboration tools\|collaboration tools]]
+[[topics/design/collaboration tools\|collaboration tools]]
 [[incentives\|incentives]]
 [[effective collaboration\|effective collaboration]]
 
 [[intelligence]]
-[[topics/architect;design/coordination systems\|coordination systems]]
+[[topics/design/coordination systems\|coordination systems]]
 [[terms/collaboration\|collaboration]]
 [[cooperation]]
 
@@ -468,7 +468,7 @@ added:
 [[social technologies\|social technologies]]
 [[terms/culture\|culture]]
 
-[[topics/architect;design/coordination systems\|coordination systems]]
+[[topics/design/coordination systems\|coordination systems]]
 [[scaling coordination\|scaling coordination]]
 [[resources management\|resources management]]
 
@@ -479,7 +479,7 @@ added:
 [[create an optimal context\|create an optimal context]]
 [[contexts for human flourishing\|contexts for human flourishing]]
 
-[[models & frameworks/alchemy/integral theory\|integral theory]]
+[[responses/alchemy/integral theory\|integral theory]]
 [[references/alchemy/integral OS\|integral OS]]
 [[all-quadrants optimization\|all-quadrants optimization]]
 
@@ -510,7 +510,7 @@ added:
 
 [[exploration\|exploration]]
 [[experimentation\|experimentation]]
-[[topics/architect;design/regeneration\|regeneration]]
+[[topics/design/regeneration\|regeneration]]
 [[terms/creation\|creation]]
 [[tbprocessed/base notes/concepts - general/disruption\|disruption]]
 
@@ -580,16 +580,16 @@ added:
 [[game paths\|game paths]]
 [[game journeys\|game journeys]]
 
-[[topics/architect;design/regeneration\|regeneration]]
+[[topics/design/regeneration\|regeneration]]
 [[tbprocessed/base notes/concepts - general/disruption\|disruption]]
 [[integral spirituality\|integral spirituality]]
 [[initiatives, orgs & communities/alchemy/possibility management\|possibility management]]
 
 [[transition movements\|transition movements]]
-[[topics/architect;design/web3\|web3]]
+[[topics/design/web3\|web3]]
 [[tbprocessed/base notes/concepts - general/game b\|game b]]
 [[PKM\|PKM]]
-[[topics/architect;design/tools for thought\|tools for thought]]
+[[responses/lab/tools for thought\|tools for thought]]
 [[topics/alchemy/spirituality\|spirituality]]
 
 [[contexts\|contexts]]
@@ -604,9 +604,9 @@ added:
 
 [[reality models\|reality models]]
 [[_004_L1F3/core concepts/lifestyles\|lifestyles]]
-[[topics/architect;design/lifestyle design\|lifestyle design]]
+[[topics/design/lifestyle design\|lifestyle design]]
 
-[[_004_L1F3/core concepts/self design\|self design]]
+[[_004_L1F3/core concepts/self-transformation\|_004_L1F3/core concepts/self-transformation]]
 [[_004_L1F3/core concepts/life design\|life design]]
 [[_004_L1F3/core concepts/civilization design\|civilization design]]
 
@@ -654,7 +654,7 @@ added:
 [[distill\|distill]]
 [[express\|express]]
 
-[[topics/architect;design/systems\|systems]]
+[[topics/design/systems\|systems]]
 [[concepts/alchemy/abundance\|abundance]]
 [[relevance realization\|relevance realization]]
 [[prioritization\|prioritization]]

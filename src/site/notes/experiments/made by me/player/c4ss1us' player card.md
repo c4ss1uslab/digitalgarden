@@ -14,7 +14,7 @@ yet most of these experiences aren't very interested in building upon resilient 
 
 traditional [[knowledge-building\|knowledge-building]] tools such as [[wikis\|wikis]] or [[digital collaboration tools\|digital collaboration tools]] such as [[miro\|miro]] or [[tbprocessed/base notes/tools;products - general/notion\|notion]] often are just commercial tools, lacking the [[terms/fun\|fun]]/[[playfulness\|playful]] aspect of it.
 
-[[initiatives, orgs & communities/architect;design/trust (collective)\|trust (collective)]]'s experiment on [[modular portable multiplayer miniverses\|modular portable multiplayer miniverses]] is a noteworthy reference, but they unfortunately haven't managed to move into building something accessible for the public.
+[[initiatives, orgs & communities/design/trust (collective)\|trust (collective)]]'s experiment on [[modular portable multiplayer miniverses\|modular portable multiplayer miniverses]] is a noteworthy reference, but they unfortunately haven't managed to move into building something accessible for the public.
 
 ##### my experiment/prototype
 

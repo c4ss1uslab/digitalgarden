@@ -1,11 +1,11 @@
 ---
-{"created in":"2024-05-06T17:36:51-03:00","last tended to":"2024-06-20T17:20:44-03:00","tags":["inquiry","🌿"],"created":"2024-05-06T17:36:51.035-03:00","updated":"2024-12-09T17:31:45.183-03:00","notestage":["🌿"],"relevancescore":98,"dg-publish":true,"permalink":"/inquiries-and-heuristics/what-technology-is-actually-worth-building/","dgPassFrontmatter":true}
+{"created in":"2024-05-06T17:36:51-03:00","last tended to":"2024-06-20T17:20:44-03:00","tags":["inquiry","🌿"],"created":"2024-05-06T17:36:51.035-03:00","updated":"2025-01-22T15:28:58.417-03:00","notestage":["🌿"],"relevancescore":98,"dg-publish":true,"permalink":"/inquiries-and-heuristics/what-technology-is-actually-worth-building/","dgPassFrontmatter":true}
 ---
 
 ```ad-warning
 title: trigger warning
 collapse: open
-this subject can be highly emotionally challenging, especially if you're someone very idealistic or for folks who have worked on/cultivated a specific vision of desirable technology for a long time. i link to several resources that can make navigating the multitude of perspectives on the topic a little easier and more nuanced.
+this subject can be highly emotionally challenging, especially if you're someone very idealistic or if you have worked on/cultivated a specific vision of desirable technology for a long time. i link to several resources that can make navigating the multitude of perspectives on the topic a little easier and more nuanced, but i suggest you take it slow and with an open heart.
 ```
 
 ##### the technologist ethos
@@ -28,7 +28,7 @@ also, a relevant and more accessible introduction for people completely new to t
 
 ##### so, after exploring all that, what's worth building?
 
-for me, in short, it's: [[regenerative systems\|regenerative systems]] & tools for [[_004_L1F3/core concepts/self-management\|self-management]], [[topics/architect;design/coordination systems\|coordination]] and [[topics/architect;design/collaboration tools\|collaboration]] (so we can create [[concepts/alchemy/thriving\|thriving]] societies).
+for me, in short, it's: [[regenerative systems\|regenerative systems]] & tools for [[_004_L1F3/core concepts/self-management\|self-management]], [[topics/design/coordination systems\|coordination]] and [[topics/design/collaboration tools\|collaboration]] (so we can create [[concepts/alchemy/thriving\|thriving]] societies).
 
 now, the answer of what's worth building "**now***" is a lot more challenging after we've gone through the philosophical bump. for me, what's worth building "now" depends on a blend of your [[unique self\|unique self]] expression (what's *yours* to do) and [[strategy\|strategy]]/[[situational intelligence\|situational intelligence]] (what's *feasible* now).
 
@@ -46,9 +46,9 @@ the contents of the writing below are currently haphazard, disjointed and all ov
 
 there are some people like [[fifty years\|fifty years]],[[ OS fund\| OS fund]] and futures-oriented funds focused on long-term civilization-altering tech like [[topics/lab/artificial intelligence\|AI]], [[GNR\|GNR]] (genetics, nanotech, robotics) and [[deeptech\|deeptech]] in general.
 
-there are others like [[betaworks\|betaworks]], [[gitcoin\|gitcoin]]/[[giveth\|giveth]], [[huggingface\|huggingface]] and [[initiatives, orgs & communities/architect;design/protocol labs\|protocol labs]], who are supporting many initiatives taking the open-source, modular approach, which have more transformative effects in the present. i have my doubts about how far they can go in their purpose of "fixing the internet", without a deeper architectural intervention such as holochain/synapsis, but nonetheless i see them as valid attempts at improving our current state of things and creating alternatives to our centralized dominant systems. (somewhat like web 2.5 applications)
+there are others like [[betaworks\|betaworks]], [[initiatives, orgs & communities/design/gitcoin\|gitcoin]]/[[giveth\|giveth]], [[huggingface\|huggingface]] and [[initiatives, orgs & communities/design/protocol labs\|protocol labs]], who are supporting many initiatives taking the open-source, modular approach, which have more transformative effects in the present. i have my doubts about how far they can go in their purpose of "fixing the internet", without a deeper architectural intervention such as holochain/synapsis, but nonetheless i see them as valid attempts at improving our current state of things and creating alternatives to our centralized dominant systems. (somewhat like web 2.5 applications)
 
-if these initiatives can work in a similar way to [[initiatives, orgs & communities/architect;design/SEEDS (ecosystem)\|SEEDS]], which don't pose to be the final solution (create the next 'regenerative worldcoin'), but are very aware of the self-terminating crises we're in and aim therefore to provide viable transition paths (tools for enabling regenerative economies), i think that's a fair and important attempt, to have truly functional alternatives to our exponentially growing degenerative systems.
+if these initiatives can work in a similar way to [[initiatives, orgs & communities/design/SEEDS (ecosystem)\|SEEDS]], which don't pose to be the final solution (create the next 'regenerative worldcoin'), but are very aware of the self-terminating crises we're in and aim therefore to provide viable transition paths (tools for enabling regenerative economies), i think that's a fair and important attempt, to have truly functional alternatives to our exponentially growing degenerative systems.
 
 though i must say i never really took the time to understand the depth and limitations of [[projects & tools/tools/design/IPFS\|IPFS]]/[[filecoin\|filecoin]], so that's a big knowledge gap on my end (that i intend to solve soon).
 

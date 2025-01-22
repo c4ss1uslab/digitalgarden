@@ -4,7 +4,7 @@
 
 really powerful philosophy proposed by [[david j. temple\|david j. temple]] as an evolution of [[perennial philosophy\|perennial philosophy]], [[topics/alchemy/spiritual lineages\|wisdom traditions]] and [[concepts/alchemy/interior sciences\|interior]]/[[terms/sciences\|exterior sciences]] to address the [[systemic challenges\|systemic challenges]] and [[callings\|callings]] of our time & species.
 
-associated with: [[people/references/alchemy/ken wilber\|ken wilber]]/[[models & frameworks/alchemy/integral theory\|integral theory]], [[concepts/design/metacrisis\|metacrisis]], [[initiatives, orgs & communities/architect;design/civilization research institute\|civilization research institute]].
+associated with: [[people/references/alchemy/ken wilber\|ken wilber]]/[[responses/alchemy/integral theory\|integral theory]], [[concepts/design/metacrisis\|metacrisis]], [[initiatives, orgs & communities/design/civilization research institute\|civilization research institute]].
 
 ---
 ##### recommended resources

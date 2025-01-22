@@ -17,9 +17,9 @@ the article presents a few of the kinds of technological transformations/innovat
 > i recommend you read the full article, but if you don't, these two parts are short, you can skip to them to get why they're so important.
 > 
 > on 1:
-> he introduces important concepts i'll return to often when discussing [[topics/architect;design/coordination systems\|coordination systems]], [[terms/collaboration\|collaboration]], [[concepts/alchemy/sensemaking\|sensemaking]]: [[model-driven debate\|model-driven debate]], [[model-driven reading\|model-driven reading]], [[model-driven authoring\|model-driven authoring]].
+> he introduces important concepts i'll return to often when discussing [[topics/design/coordination systems\|coordination systems]], [[terms/collaboration\|collaboration]], [[concepts/alchemy/sensemaking\|sensemaking]]: [[model-driven debate\|model-driven debate]], [[model-driven reading\|model-driven reading]], [[model-driven authoring\|model-driven authoring]].
 > 
-> these can be seen/experienced in his own [ten brighter ideas](https://worrydream.com/#!/TenBrighterIdeas), [[initiatives, orgs & communities/architect;design/the society library\|the society library]]'s [debate maps](https://www.societylibrary.org/debate-mapping-program), and more.
+> these can be seen/experienced in his own [ten brighter ideas](https://worrydream.com/#!/TenBrighterIdeas), [[initiatives, orgs & communities/design/the society library\|the society library]]'s [debate maps](https://www.societylibrary.org/debate-mapping-program), and more.
 > 
 > on 2:
 > he shares a simple yet powerful framing of how we cannot afford as a society to continue with our businesses/governments/economies "as usual". there is and there can be no such thing as not being "mission-driven" (& i'd add: [[concepts/design/impact metrics\|wide-boundary]] oriented). we're always optimizing for some things at the expense of others, often unconsciously. we need to take this seriously and [end the reign of nihilistic design](https://consilienceproject.org/technology-is-not-values-neutral-ending-the-reign-of-nihilistic-design-2/). i urge you to read this and the article i just linked, deepening the analysis.

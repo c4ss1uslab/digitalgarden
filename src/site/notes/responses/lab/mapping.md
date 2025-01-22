@@ -111,14 +111,14 @@ c) [[general knowledge maps\|general knowledge maps]] / [[relationship maps\|rel
 
 - [[tom critchlow\|tom critchlow]]'s curation of resources: https://tomcritchlow.com/wiki/maps/
 
-⚠ i'm still missing: good curation on [[topics/architect;design/network science\|network science]] + good examples/applications.
+⚠ i'm still missing: good curation on [[topics/design/network science\|network science]] + good examples/applications.
 
 ---
 ## 3) great examples of maps of specific subjects
 
 ##### a)
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/topics/architect-design/internet-mapping/#maps-of-the-internet-projects" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/projects-and-tools/made-by-me/lab/internet-mapping/#maps-of-the-internet-projects" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -203,13 +203,13 @@ introduction to the concept/space and illustration made by [[people/references/l
 
 a collection of very interesting references in the space: https://diagram.website/
 
-another categorization proposed by [[initiatives, orgs & communities/architect;design/trust (collective)\|trust (collective)]]:
+another categorization proposed by [[initiatives, orgs & communities/design/trust (collective)\|trust (collective)]]:
 
 [![trust's internet communities categorization.png](/img/user/assets/trust's%20internet%20communities%20categorization.png)](https://trust.support/feed/moving-castles)
 *(click to read more)*
 
 ---
-#### e) "maps" of the [[topics/architect;design/regeneration\|regenerative]] space/communities:
+#### e) "maps" of the [[topics/design/regeneration\|regenerative]] space/communities:
 
 #memetic:
 "climate tribes" chart + research:
@@ -264,7 +264,7 @@ the contents of the writing below are currently haphazard, disjointed and all ov
 ```
 
 ##### themes/topics, perspectives/arguments, memes mapping
-refs: [[initiatives, orgs & communities/architect;design/golden\|golden]], [[projects & tools/tools/design/metaculus\|metaculus]], [[initiatives, orgs & communities/architect;design/ideamarket\|ideamarket]], [[references/lab/mapsmap hackathon\|mapsmap hackathon]], [[initiatives, orgs & communities/architect;design/civilization research institute\|civilization research institute]], [[kialo\|kialo]], [[people/references/lab/nikita voloboev\|nikita voloboev]]...
+refs: [[initiatives, orgs & communities/design/golden\|golden]], [[projects & tools/tools/design/metaculus\|metaculus]], [[initiatives, orgs & communities/design/ideamarket\|ideamarket]], [[references/lab/mapsmap hackathon\|mapsmap hackathon]], [[initiatives, orgs & communities/design/civilization research institute\|civilization research institute]], [[kialo\|kialo]], [[people/references/lab/nikita voloboev\|nikita voloboev]]...
 
 other relevant approaches:
 - [[models & frameworks/host/CEP+N\|CEP+N]]
@@ -279,20 +279,20 @@ other relevant approaches:
 
 
 ###### main references:
-- [[initiatives, orgs & communities/architect;design/sublime (ex-startupy)\|sublime (ex-startupy)]]
+- [[initiatives, orgs & communities/design/sublime (ex-startupy)\|sublime (ex-startupy)]]
 - [[projects & tools/tools/design/melon\|melon]]
-- [[initiatives, orgs & communities/architect;design/golden\|golden]]
+- [[initiatives, orgs & communities/design/golden\|golden]]
 - [[projects & tools/tools/design/weco\|weco]]
 - [[projects & tools/tools/design/hylo\|hylo]]
 - [[initiatives, orgs & communities/lab/neighbourhoods\|neighbourhoods]]
 
 ###### other orgs building tools:
-- [[initiatives, orgs & communities/architect;design/the computational democracy project\|the computational democracy project]] ([[projects & tools/tools/lab/pol.is\|pol.is]])
-- [[initiatives, orgs & communities/architect;design/goodly labs\|goodly labs]]
+- [[initiatives, orgs & communities/design/the computational democracy project\|the computational democracy project]] ([[projects & tools/tools/lab/pol.is\|pol.is]])
+- [[initiatives, orgs & communities/design/goodly labs\|goodly labs]]
 
 ###### decentralized social media initiatives:
 - [[mastodon\|mastodon]]
-- [[bluesky\|bluesky]]
+- [[initiatives, orgs & communities/lab/bluesky\|bluesky]]
 - [[discourse\|discourse]]
 - [[matrix\|matrix]]
 

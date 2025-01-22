@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-07-30T21:38:54-03:00","last tended to":"2024-10-22T19:55:34-03:00","tags":["🌱"],"dg-publish":true,"notestage":["🌱"],"created":"2022-07-30T21:38:54.771-03:00","updated":"2024-12-12T17:17:15.916-03:00","permalink":"/003-research/05-core-references-and-resources/","dgPassFrontmatter":true}
+{"created in":"2022-07-30T21:38:54-03:00","last tended to":"2024-10-22T19:55:34-03:00","tags":["🌱"],"dg-publish":true,"notestage":["🌱"],"created":"2022-07-30T21:38:54.771-03:00","updated":"2025-01-22T17:10:52.216-03:00","permalink":"/003-research/05-core-references-and-resources/","dgPassFrontmatter":true}
 ---
 
 ```ad-warning
@@ -14,7 +14,7 @@ pages (more contextual):
 \+ [[projects & tools/tools/lab/raindrop\|raindrop]] interneto-like bookmarks (coming soon)
 
 tools/orgs:
--> [[concepts/design/personal tech stack\|personal tech stack]] -> [[_001_MOCs/050 🟩 mid game/080 ⚒ tools MOC\|080 ⚒ tools MOC]] ([[_005_c4ss1us/c4ss1us' tech stack notion database\|c4ss1us' tech stack notion database]])
+-> [[responses/lab/personal tech stack\|personal tech stack]] -> [[_001_MOCs/050 🟩 mid game/080 ⚒ tools MOC\|080 ⚒ tools MOC]] ([[_005_c4ss1us/c4ss1us' tech stack notion database\|c4ss1us' tech stack notion database]])
 
 
 a few different views:
@@ -68,7 +68,7 @@ a few different views:
 > [Curl Projects](https://curlprojects.com/)
 > 
 > collective/collaborative databases (curation resources):
-> [[initiatives, orgs & communities/architect;design/sublime (ex-startupy)\|sublime]]
+> [[initiatives, orgs & communities/design/sublime (ex-startupy)\|sublime]]
 > 	[Manifesto - Startupy](https://beta.startupy.world/manifesto/) - now?
 > 	[Hey heey, welcome to Startupy — Startupy Index](https://startupyworld.notion.site/Hey-heey-welcome-to-Startupy-60f9443ac8a0486dba3ef8fd93becae6) - now https://sublimeapp.notion.site/A-SUBLIME-INTERNET-b5453f44067e4e8c81f02716fc162cdc
 > [[projects & tools/tools/lab/catalist network\|catalist network]]
@@ -205,7 +205,7 @@ however, this also introduces a degree of complexity - it both makes it easier t
 so let's do it!
 
 [core references]
-[[CRI\|CRI]]
+[[initiatives, orgs & communities/design/civilization research institute\|civilization research institute]]
 [[projects & tools/projects/design/diome.xyz\|diome.xyz]]
 [[projects & tools/projects/player/world game\|world game]]
 
@@ -223,16 +223,16 @@ etc
 
 core concepts:
 [[concepts/design/metacrisis\|metacrisis]] / [[planetary transition\|planetary transition]] / [[tbprocessed/base notes/concepts - general/human phase shift\|human phase shift]]
-[[tbprocessed/base notes/concepts - general/game b\|game b]] / [[_004_L1F3/core concepts/civilization design\|civilization design]] / [[topics/architect;design/systems design\|systems design]]
-[[omni-win systems\|omni-win systems]] / [[topics/architect;design/distributed systems\|distributed systems]] / [[decentralized systems\|decentralized systems]] / [[regenerative systems\|regenerative systems]] / [[disruptive systems\|disruptive systems]]
-[[topics/architect;design/regeneration\|regeneration]] / [[tbprocessed/base notes/concepts - general/disruption\|disruption]] / [[integration\|integration]]
-[[models & frameworks/design/metadesign\|metadesign]] / [[topics/architect;design/ontological design\|ontological design]]
-[[models & frameworks/alchemy/integral theory\|integral theory]] / [[models & frameworks/design/four quadrants\|four quadrants]] / [[models & frameworks/player/fourgames\|fourgames]]
-[[meta-cognitive processes\|meta-cognitive processes]] / [[_004_L1F3/core concepts/life management\|life management]] / [[life support systems\|life support systems]]
+[[tbprocessed/base notes/concepts - general/game b\|game b]] / [[_004_L1F3/core concepts/civilization design\|civilization design]] / [[concepts/design/systems design\|systems design]]
+[[omni-win systems\|omni-win systems]] / [[topics/design/distributed systems\|distributed systems]] / [[decentralized systems\|decentralized systems]] / [[regenerative systems\|regenerative systems]] / [[disruptive systems\|disruptive systems]]
+[[topics/design/regeneration\|regeneration]] / [[tbprocessed/base notes/concepts - general/disruption\|disruption]] / [[integration\|integration]]
+[[models & frameworks/design/metadesign\|metadesign]] / [[topics/design/ontological design\|ontological design]]
+[[responses/alchemy/integral theory\|integral theory]] / [[models & frameworks/design/four quadrants\|four quadrants]] / [[models & frameworks/player/fourgames\|fourgames]]
+[[meta-cognitive processes\|meta-cognitive processes]] / [[_004_L1F3/core concepts/life management\|life management]] / [[_004_L1F3/L1F3 support systems\|L1F3 support systems]]
 [[patterns/pattern collections/game design patterns\|game design patterns]] -> [[maps\|maps]] / [[boards\|boards]] -> [[models & frameworks/design/wardley mapping\|wardley mapping]] / [[game board\|game board]]
 
 community-curated knowledge networks:
-[[initiatives, orgs & communities/architect;design/sublime (ex-startupy)\|sublime (ex-startupy)]]
+[[initiatives, orgs & communities/design/sublime (ex-startupy)\|sublime (ex-startupy)]]
 [[projects & tools/tools/design/melon\|melon]]
 [[are.na\|are.na]]
 [[hypothes.is\|hypothes.is]] / [[glasp\|glasp]]
@@ -242,11 +242,11 @@ individual's wikis/knowledge gardens:
 [[projects & tools/projects/design/diome.xyz\|diome.xyz]]
 [[people/references/lab/jacky zhao\|jacky zhao]]
 
-[[topics/architect;design/market intelligence\|market intelligence]] organizations/tools:
-[[initiatives, orgs & communities/architect;design/golden\|golden]]
+[[topics/design/market intelligence\|market intelligence]] organizations/tools:
+[[initiatives, orgs & communities/design/golden\|golden]]
 [[models & frameworks/design/wardley mapping\|wardley mapping]]
 [[bismarck analysis\|bismarck analysis]] (high curation)
-[[initiatives, orgs & communities/architect;design/the cynefin co\|the cynefin co]] / [[projects & tools/tools/design/sensemaker (tool)\|sensemaker (tool)]]
+[[initiatives, orgs & communities/design/the cynefin co\|the cynefin co]] / [[projects & tools/tools/design/sensemaker (tool)\|sensemaker (tool)]]
 [[projects & tools/tools/design/metaculus\|metaculus]] (platform)
 
 best personal websites:
@@ -386,16 +386,16 @@ color:                  # Override the color.
 future of:
 
 [[concepts/alchemy/consciousness\|consciousness]]
-[[topics/architect;design/technology\|technology]]
+[[topics/design/technology\|technology]]
 [[tbprocessed/base notes/concepts - general/art\|art]]/[[terms/culture\|culture]]
-[[topics/architect;design/systems\|systems]]
+[[topics/design/systems\|systems]]
 
 [[topics/player/learning\|learning]]
 [[terms/work\|work]] ([[terms/action\|action]])
 [[communities\|communities]] ([[terms/decision-making\|decision-making]])
 [[areas/environments\|environments]] ([[concepts/alchemy/sensemaking\|sensemaking]])
 
-[[initiatives, orgs & communities/architect;design/sublime (ex-startupy)\|sublime (ex-startupy)]] most interesting topics:
+[[initiatives, orgs & communities/design/sublime (ex-startupy)\|sublime (ex-startupy)]] most interesting topics:
 
 by tier:
 
@@ -411,11 +411,11 @@ by topic:
 
 - [[terms/work\|work]]/[[economy\|economy]] (42)
 
-- [[web3 1\|web3 1]]/[[topics/architect;design/crypto\|crypto]] (20)
+- [[web3 1\|web3 1]]/[[topics/design/crypto\|crypto]] (20)
 
 - [[future of\|future of]] (35)
 
-- [[topics/architect;design/technology\|technology]] (72)
+- [[topics/design/technology\|technology]] (72)
 
 - [[communities\|communities]] (22)
 
@@ -499,8 +499,8 @@ L.A - [[Cultural Beliefs\|Cultural Beliefs]] and [[Identity\|Identity]]
 L.B - [[Social Cooperation\|Social Cooperation]]
 L.C - [[terms/communication\|communication]] and [[Language\|Language]]
 L.D - [[Equity\|Equity]] and [[Access\|Access]]
-L.E - [[topics/architect;design/media\|media]]
-M - [[topics/architect;design/economics\|economics]]
+L.E - [[topics/design/media\|media]]
+M - [[topics/design/economics\|economics]]
 M.A - [[Globalization\|Globalization]]
 M.B - [[Technological Unemployment\|Technological Unemployment]]
 M.C - [[Economic Systems\|Economic Systems]]

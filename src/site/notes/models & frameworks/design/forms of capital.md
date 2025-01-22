@@ -22,7 +22,7 @@ some folks from a life coaching consultancy called "kailo mentoring group" added
 
 (intellectual)
 - [[knowledge\|knowledge]] / [[intellectual capital\|intellectual capital]] / [[intellectual value\|intellectual value]] / [[informational value\|informational value]]
-- [[concepts/design/assets\|assets]] / [[topics/architect;design/systems\|systems]] / [[technologies\|technologies]] / [[digital capital\|digital capital]] / [[infrastructural value\|infrastructural value]]
+- [[concepts/design/assets\|assets]] / [[topics/design/systems\|systems]] / [[technologies\|technologies]] / [[digital capital\|digital capital]] / [[infrastructural value\|infrastructural value]]
 - [[know-how\|know-how]] / [[experiential capital\|experiential capital]] / [[operational capital\|operational capital]] / [[operational value\|operational value]]
 (physical)
 - [[money\|money]] / [[concepts/design/currencies\|currencies]] / [[financial capital\|financial capital]] / [[financial value\|financial value]]

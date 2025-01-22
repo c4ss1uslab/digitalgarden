@@ -6,18 +6,18 @@ a coordination layer for the web:
 
 initiatives on the [[terms/information\|information]]/[[knowledge\|knowledge]]/[[concepts/alchemy/sensemaking\|sensemaking]] side:
 [[projects & tools/projects/design/sensenets\|sensenets]]
-[[initiatives, orgs & communities/architect;design/nooNAO\|NAOs]]
+[[initiatives, orgs & communities/design/nooNAO\|NAOs]]
 [[projects & tools/projects/lab/subconscious (tool)\|subconscious (tool)]] / [[noosphere\|noosphere]]
-[[community archive\|community archive]]
-[[initiatives, orgs & communities/architect;design/the society library\|society library]]
+[[projects & tools/tools/lab/community archive\|community archive]]
+[[initiatives, orgs & communities/design/the society library\|society library]]
 [[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social (ex-tweetscape)]]
-[[initiatives, orgs & communities/architect;design/sublime (ex-startupy)\|sublime (ex-startupy)]]
+[[initiatives, orgs & communities/design/sublime (ex-startupy)\|sublime (ex-startupy)]]
 (...)
 
 initiatives on the [[data\|data]]/[[sensing\|sensing]] side:
 [[initiatives, orgs & communities/lab/holochain\|holochain]]
-[[initiatives, orgs & communities/lab/solid\|solid]]
+[[projects & tools/tools/lab/solid\|solid]]
 [[projects & tools/tools/design/IPFS\|IPFS]]
 (...)
 
-key related concepts: [[topics/architect;design/research\|research]], [[tbprocessed/base notes/concepts - general/curation\|curation]], [[concepts/alchemy/sensemaking\|sensemaking]]
+key related concepts: [[topics/design/research\|research]], [[tbprocessed/base notes/concepts - general/curation\|curation]], [[concepts/alchemy/sensemaking\|sensemaking]]

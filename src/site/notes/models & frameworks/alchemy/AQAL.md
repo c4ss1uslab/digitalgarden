@@ -1,8 +1,8 @@
 ---
-{"created in":"2024-03-10T15:35:51-03:00","last tended to":"2024-09-29T14:27:38-03:00","aliases":["AQAL framework"],"tags":["framework","integraltheory","🌿"],"dg-publish":true,"notestage":["🌿"],"permalink":"/models-and-frameworks/alchemy/aqal/","dgPassFrontmatter":true,"created":"2024-03-10T15:35:51.504-03:00","updated":"2024-09-29T14:27:41.798-03:00"}
+{"created in":"2024-03-10T15:35:51-03:00","last tended to":"2024-09-29T14:27:38-03:00","aliases":["AQAL framework"],"tags":["framework","integraltheory","🌿","humandevelopment","integral"],"dg-publish":true,"notestage":["🌿"],"relevancescore":95,"created":"2024-03-10T15:35:51.504-03:00","updated":"2025-01-22T15:50:01.512-03:00","permalink":"/models-and-frameworks/alchemy/aqal/","dgPassFrontmatter":true}
 ---
 
-AQAL is one of the core frameworks proposed by [[people/references/alchemy/ken wilber\|ken wilber]], it integrates multiple other frameworks into a single one that encapsulates most of [[models & frameworks/alchemy/integral theory\|integral theory]].
+AQAL is one of the core frameworks proposed by [[people/references/alchemy/ken wilber\|ken wilber]], it integrates multiple other frameworks into a single one that encapsulates most of [[responses/alchemy/integral theory\|integral theory]].
 
 it is short for: all [[models & frameworks/design/four quadrants\|quadrants]], all [[levels\|levels]], all [[lines\|lines]], all [[states\|states]], all [[types\|types]].
 

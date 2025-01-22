@@ -4,4 +4,4 @@
 
 https://twitter.com/andrea_is_a
 
-related to: [[projects & tools/projects/design/diome.xyz\|diome.xyz]], [[initiatives, orgs & communities/architect;design/common sensemakers\|common sensemakers]]
+related to: [[projects & tools/projects/design/diome.xyz\|diome.xyz]], [[initiatives, orgs & communities/design/common sensemakers\|common sensemakers]]

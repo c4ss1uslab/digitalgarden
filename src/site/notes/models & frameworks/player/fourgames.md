@@ -1,12 +1,12 @@
 ---
-{"created in":"2023-11-13T16:13:43-03:00","last tended to":"2024-09-26T15:26:13-03:00","dg-publish":true,"tags":["framework","player","🌿","design","alchemy","coordination","seriousgame","reallifegame","response","lifedesign","selfdesign"],"aliases":["fourgame dynamics","4game dynamics","4games"],"relevancescore":93,"notestage":["🌿"],"permalink":"/models-and-frameworks/player/fourgames/","dgPassFrontmatter":true,"created":"2023-11-13T16:13:43.432-03:00","updated":"2024-09-26T15:26:14.483-03:00"}
+{"created in":"2023-11-13T16:13:43-03:00","last tended to":"2024-09-26T15:26:13-03:00","dg-publish":true,"tags":["framework","player","🌿","design","alchemy","coordination","seriousgame","reallifegame","response","lifedesign","selfdesign"],"aliases":["fourgame dynamics","4game dynamics","4games"],"relevancescore":94,"notestage":["🌿"],"created":"2023-11-13T16:13:43.432-03:00","updated":"2025-01-22T16:07:26.766-03:00","permalink":"/models-and-frameworks/player/fourgames/","dgPassFrontmatter":true}
 ---
 
 ##### intro
 
 good intro video: https://www.youtube.com/watch?v=Tv7mUMDfW6c
 
-the [[models & frameworks/player/fourgames\|fourgames]] is a practical framework for untangling/simplifying complexity created by [[jamie combs\|jamie combs]], who also calls himself "captain simple", inspired, among other references, by [[models & frameworks/alchemy/integral theory\|integral theory]].
+the [[models & frameworks/player/fourgames\|fourgames]] is a practical framework for untangling/simplifying complexity created by [[jamie combs\|jamie combs]], who also calls himself "captain simple", inspired, among other references, by [[responses/alchemy/integral theory\|integral theory]].
 
 it presents the core elements of self/someone's life as 4 overlapping, inter-unfolding games.
 

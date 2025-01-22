@@ -4,6 +4,6 @@
 
 https://soft.space
 
-an [[augmented reality\|augmented reality]] [[topics/architect;design/knowledge management\|knowledge management]] software, founded by [yiliu shen-burke](https://twitter.com/softspaceninja).
+an [[augmented reality\|augmented reality]] [[responses/lab/knowledge management\|knowledge management]] software, founded by [yiliu shen-burke](https://twitter.com/softspaceninja).
 
 great MVP design paper: https://substack.soft.space/p/softspacear-mvp-design-paper

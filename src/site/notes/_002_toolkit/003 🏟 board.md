@@ -1,5 +1,5 @@
 ---
-{"aliases":["🏟 board","board","arena","🏟 arena","c4ss1us' l1f3 game board","L1F3 game board v.0.1"],"created in":"2022-03-31T14:27:01-03:00","last tended to":"2024-07-20T18:24:43-03:00","tags":["prototype","🌱"],"created":"2022-03-31T14:27:01.832-03:00","updated":"2024-12-23T15:07:31.397-03:00","notestage":["🌱"],"dg-publish":true,"permalink":"/002-toolkit/003-board/","dgPassFrontmatter":true}
+{"aliases":["🏟 board","board","arena","🏟 arena","c4ss1us' l1f3 game board","L1F3 game board v.0.1"],"created in":"2022-03-31T14:27:01-03:00","last tended to":"2024-07-20T18:24:43-03:00","tags":["prototype","🌱"],"created":"2022-03-31T14:27:01.832-03:00","updated":"2025-01-22T15:26:38.412-03:00","notestage":["🌱"],"dg-publish":true,"permalink":"/002-toolkit/003-board/","dgPassFrontmatter":true}
 ---
 
 **what would a game board for your life look like?**
@@ -23,7 +23,7 @@ plus, this frame of a [[game board\|game board]] introduces an interesting view 
 
 this game / board has 3 layers:
 
-1) [[_004_L1F3/core concepts/self-management\|self-management]]/[[_004_L1F3/core concepts/self design\|self design]]
+1) [[_004_L1F3/core concepts/self-management\|self-management]]/[[_004_L1F3/core concepts/self-transformation\|_004_L1F3/core concepts/self-transformation]]
 
 (...)
 

@@ -48,7 +48,7 @@ for me, i found that slowly progressing through them has felt like an adequate s
 
 ###### my favorite heuristic device
 
-besides these, **the simplest and most powerful framework** that continues to give me a lot of insights is [[models & frameworks/alchemy/integral theory\|integral theory]]'s **[[models & frameworks/alchemy/AQAL\|AQAL]]** - quadrants / levels / lines / states / types.
+besides these, **the simplest and most powerful framework** that continues to give me a lot of insights is [[responses/alchemy/integral theory\|integral theory]]'s **[[models & frameworks/alchemy/AQAL\|AQAL]]** - quadrants / levels / lines / states / types.
 
 if you're unfamiliar with it, i **highly**, **highly** suggest checking it out via a ["map of human knowledge" video] + [integral approach link]. perhaps you won't fully "get it" or resonate with it at first, but the more you interact with it, the more i believe you'll start to see its usefulness and wisdom. 🙃 and as a very practical example of its use, let's consider this framework by applying it to our matter at hand:
 
@@ -75,7 +75,7 @@ thankfully with the popularization of therapies and access to other forms of per
 
 a few communities that practice this in some way:
 - quantified self / biohacking [health / energy]
-- productivity/organization ([[tbprocessed/base notes/tools;products - general/notion\|notion]] / [[rize\|rize]]) -> [[topics/lab/personal knowledge management\|PKM]]/[[topics/architect;design/tools for thought\|TfT]] ([[tbprocessed/base notes/ventures - general/obsidian\|obsidian]] / [[infranodus\|infranodus]]) [[time management\|time management]] / [[topics/lab/personal knowledge management\|personal knowledge management]]
+- productivity/organization ([[tbprocessed/base notes/tools;products - general/notion\|notion]] / [[rize\|rize]]) -> [[topics/lab/personal knowledge management\|PKM]]/[[responses/lab/tools for thought\|TfT]] ([[tbprocessed/base notes/ventures - general/obsidian\|obsidian]] / [[infranodus\|infranodus]]) [[time management\|time management]] / [[topics/lab/personal knowledge management\|personal knowledge management]]
 - chatGPT code interpreter [personal data analysis, sensemaking] / discovery algorithms/newsletters/follows [curadoria]
 - emotional / spiritual ([[heartmath\|heartmath]], PM practices, integral dashboard, coaching)
 

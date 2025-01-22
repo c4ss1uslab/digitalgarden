@@ -2,7 +2,7 @@
 {"created in":"2024-05-22T17:08:20-03:00","last tended to":"2024-10-12T18:31:12-03:00","tags":["regeneration","review","ReFi","course","🌲"],"dg-publish":true,"aliases":["tools for the regenerative renaissance"],"notestage":["🌲"],"permalink":"/010-notes-from-courses-events-and-chats/2021-02-tools-for-the-regenerative-renaissance-course-review/","dgPassFrontmatter":true,"created":"2024-05-22T17:08:20.294-03:00","updated":"2024-10-12T18:31:12.537-03:00"}
 ---
 
-"tools for the regenerative renaissance" was a six-week, "better-than-free online course", sponsored by [[initiatives, orgs & communities/architect;design/SEEDS (ecosystem)\|SEEDS (ecosystem)]], that ran from feb-mar 2021.
+"tools for the regenerative renaissance" was a six-week, "better-than-free online course", sponsored by [[initiatives, orgs & communities/design/SEEDS (ecosystem)\|SEEDS (ecosystem)]], that ran from feb-mar 2021.
 
 about: https://dandelion.events/e/hy5s3
 
@@ -15,7 +15,7 @@ my learning log: https://www.notion.so/cassiuscarvalho/tools-for-the-regenerativ
 
 i'd give the course a 4.5/5. i really liked it, there are just a few points i think could've been better.
 
-i'd have really appreciated a little more big picture contextualization (how big is [[topics/architect;design/refi\|refi]], [[tbprocessed/base notes/topics/permaculture\|permaculture]], [[dOrgs\|dOrgs]], [[dGov\|dGov]], who are the big players in these spaces, stuff like that).
+i'd have really appreciated a little more big picture contextualization (how big is [[topics/design/refi\|refi]], [[tbprocessed/base notes/topics/permaculture\|permaculture]], [[dOrgs\|dOrgs]], [[dGov\|dGov]], who are the big players in these spaces, stuff like that).
 
 would have loved to learn more about your background ([[people/references/regen/phoebe tickell\|phoebe tickell]] and [[people/references/architect;design/stephen reid\|stephen reid]]) and what you're currently most interested in/excited about.
 
@@ -23,7 +23,7 @@ the main takeaway for me was transforming my relationship with decentralized org
 
 i'd have appreciated a few more examples of decentralized organizations in different industries. i appreciated getting to know purpose and their work though.
 
-i also felt really connected with the energy of a renaissance and a meta-narrative crossing and connecting different paradigms ([[topics/architect;design/regeneration\|regeneration]], [[tbprocessed/base notes/concepts - general/game b\|game b]], [[responses/alchemy/metamodernism\|metamodernism]], [[models & frameworks/alchemy/integral theory\|integral theory]], etc).
+i also felt really connected with the energy of a renaissance and a meta-narrative crossing and connecting different paradigms ([[topics/design/regeneration\|regeneration]], [[tbprocessed/base notes/concepts - general/game b\|game b]], [[responses/alchemy/metamodernism\|metamodernism]], [[responses/alchemy/integral theory\|integral theory]], etc).
 
 would also have loved to have gotten a better sense of what people are interested in to know who to connect further with. maybe adding a space for people's social media, favorite session(s) of the course and main topics of interest on that end-of-the-course spreadsheet.
 

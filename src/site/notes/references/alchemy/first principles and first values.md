@@ -18,4 +18,4 @@ open draft version (covers the essentials pretty well): https://drive.google.com
 ---
 ##### more
 
-notes by [[initiatives, orgs & communities/architect;design/life itself\|life itself]] research community: https://notes.lifeitself.org/books/temple-2024-first-principles-first
+notes by [[initiatives, orgs & communities/design/life itself\|life itself]] research community: https://notes.lifeitself.org/books/temple-2024-first-principles-first

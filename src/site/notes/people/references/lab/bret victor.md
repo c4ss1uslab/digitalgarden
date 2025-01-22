@@ -10,7 +10,7 @@ bret is a visionary and researcher on the [[topics/lab/the future of computing\|
 
 his main thesis reflects a frustration i held for a long time, but wasn't able to articulate well: we invented the [[dynamic medium\|dynamic medium]] (you could interpret it as "[[computers\|computers]]" or "[[topics/lab/computing\|computing]]" as a whole, but see the references below for way more detail) and we still don't use it to 10% of its potential. we don't explore the dimensions of dynamic [[topics/lab/systems modeling\|systems modeling]] it opens up. we use it ever so often to keep going with "business as usual", but more "productive". or put another way, we're often translating busywork from previously a desk into a "desktop".
 
-a major part of the early vision of computer innovators, or more broadly - of [[topics/architect;design/tools for thought\|tools for thought]] researchers - was to [[people/references/lab/douglas engelbart\|augment human intellect]]. yet today, our relationship with this kind of technology has become often adversarial and exploitative. this has led bret to question and lead very interesting research on: *what is a "humane" dynamic medium? how might we build that?*
+a major part of the early vision of computer innovators, or more broadly - of [[responses/lab/tools for thought\|tools for thought]] researchers - was to [[people/references/lab/douglas engelbart\|augment human intellect]]. yet today, our relationship with this kind of technology has become often adversarial and exploitative. this has led bret to question and lead very interesting research on: *what is a "humane" dynamic medium? how might we build that?*
 
 #### references:
 
@@ -63,9 +63,9 @@ the article presents a few of the kinds of technological transformations/innovat
 > i recommend you read the full article, but if you don't, these two parts are short, you can skip to them to get why they're so important.
 > 
 > on 1:
-> he introduces important concepts i'll return to often when discussing [[topics/architect;design/coordination systems\|coordination systems]], [[terms/collaboration\|collaboration]], [[concepts/alchemy/sensemaking\|sensemaking]]: [[model-driven debate\|model-driven debate]], [[model-driven reading\|model-driven reading]], [[model-driven authoring\|model-driven authoring]].
+> he introduces important concepts i'll return to often when discussing [[topics/design/coordination systems\|coordination systems]], [[terms/collaboration\|collaboration]], [[concepts/alchemy/sensemaking\|sensemaking]]: [[model-driven debate\|model-driven debate]], [[model-driven reading\|model-driven reading]], [[model-driven authoring\|model-driven authoring]].
 > 
-> these can be seen/experienced in his own [ten brighter ideas](https://worrydream.com/#!/TenBrighterIdeas), [[initiatives, orgs & communities/architect;design/the society library\|the society library]]'s [debate maps](https://www.societylibrary.org/debate-mapping-program), and more.
+> these can be seen/experienced in his own [ten brighter ideas](https://worrydream.com/#!/TenBrighterIdeas), [[initiatives, orgs & communities/design/the society library\|the society library]]'s [debate maps](https://www.societylibrary.org/debate-mapping-program), and more.
 > 
 > on 2:
 > he shares a simple yet powerful framing of how we cannot afford as a society to continue with our businesses/governments/economies "as usual". there is and there can be no such thing as not being "mission-driven" (& i'd add: [[concepts/design/impact metrics\|wide-boundary]] oriented). we're always optimizing for some things at the expense of others, often unconsciously. we need to take this seriously and [end the reign of nihilistic design](https://consilienceproject.org/technology-is-not-values-neutral-ending-the-reign-of-nihilistic-design-2/). i urge you to read this and the article i just linked, deepening the analysis.

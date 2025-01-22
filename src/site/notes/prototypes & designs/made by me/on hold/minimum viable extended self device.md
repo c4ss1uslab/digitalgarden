@@ -8,7 +8,7 @@ related prototypes: [[experiments/made by me/host/c4ss1us' conversation menu\|c4
 ---
 #### the guiding question:
 
-considering both the impeding [[topics/architect;design/systemic collapse\|systemic collapse]]/[[diagnosis/energy crisis\|energy crisis]] we're facing AND an attempt to design/use technology in more conscious ways, what would a minimal device for computation/self-extension look like?
+considering both the impeding [[topics/design/systemic collapse\|systemic collapse]]/[[diagnosis/energy crisis\|energy crisis]] we're facing AND an attempt to design/use technology in more conscious ways, what would a minimal device for computation/self-extension look like?
 
 \*note that there are many functions this device could perform. the initial mvp/idea is aimed at [[enabling relationships\|enabling relationships]], see more on this below. many other functions could be introduced afterwards, probably with different designs/priorities/trade-offs.
 
@@ -18,17 +18,17 @@ the original idea for this prototype came at the [[responses/art/música do cír
 
 i wondered - instead of making a lot of effort trying to gear the conversation towards more generative places (the art of [[_005_c4ss1us/c4ss.host\|facilitation]] still requires a lot of energy from me) - *how could i make connecting with people, learning and sharing about our lives more playful, fun, seamless?*
 
-there are many [[human connection games\|human connection games]], [[facilitation tools\|facilitation tools]] and other [[topics/architect;design/serious games\|serious games]] that intend to do that, but i never felt fond of most of them. they felt too deterministic in guiding the conversations (though i definitely need to research more. if you know good ones, please lmk!). i was looking for something more open-ended (see [[people/references/lab/gordon brander\|gordon brander]]'s framing of [subconscious as a creative oracle](https://newsletter.squishy.computer/p/scamper) for an example).
+there are many [[human connection games\|human connection games]], [[facilitation tools\|facilitation tools]] and other [[responses/player/serious games\|serious games]] that intend to do that, but i never felt fond of most of them. they felt too deterministic in guiding the conversations (though i definitely need to research more. if you know good ones, please lmk!). i was looking for something more open-ended (see [[people/references/lab/gordon brander\|gordon brander]]'s framing of [subconscious as a creative oracle](https://newsletter.squishy.computer/p/scamper) for an example).
 
 the idea i arrived at after some time was to build a minimalistic [[extended self\|extended self]] device.
 
-we augment ourselves all the time through the [[topics/architect;design/technology\|technology]] and [[clothes\|clothes]] we use. one feature i find fascinating about clothes (and their tech mix - [[wearables\|wearables]]) is how they can tell something about our selves/personality, pretty much instantly.
+we augment ourselves all the time through the [[topics/design/technology\|technology]] and [[clothes\|clothes]] we use. one feature i find fascinating about clothes (and their tech mix - [[wearables\|wearables]]) is how they can tell something about our selves/personality, pretty much instantly.
 
 the idea is creating a medium that's a hybrid of physical (sensorially meaningful) and digital (dynamic, updateable) - the simplest version possible of a device for displaying/interacting with digital information/functions in-person in a simple fashion.
 
 this device introduces different creative dynamics ([[curiosity\|curiosity]], [[experimentation\|experimentation]], [[higher dimensionality\|higher dimensionality]]) caused by its technological design/constraints, while also reducing our reliability on smartphones/tablets (two-dimensional ways of sharing information) on social interactions.
 
-picture something like an interactive [[topics/architect;design/zines\|zine]] w/ embedded LCD screen(s).
+picture something like an interactive [[topics/design/zines\|zine]] w/ embedded LCD screen(s).
 
 i'm still very open when it comes to the [[user interface 1\|interface]] / [[user experience 1\|UX]], but i'm looking for something that leverages the spatial/tactile features of physicality.
 

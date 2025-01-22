@@ -50,7 +50,7 @@ here's how much i progressed in each of them:
 
 #### experiment stage
 
-[[minimum viable intentional OS\|minimum viable intentional OS]] -> [[_006_core notes/personal OS design\|OS of the future]]
+[[minimum viable intentional OS\|minimum viable intentional OS]] -> [[responses/lab/personal OS design\|OS of the future]]
 
 #### design stage
 

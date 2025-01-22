@@ -6,4 +6,4 @@ https://radar.envisioning.io/
 
 the best reference i know of a "radar" - an interactive [[topics/lab/knowledge visualization\|knowledge visualization]] of emergent topics/possible futures, enabling deeper sensemaking across multiple domains.
 
-by: [[initiatives, orgs & communities/architect;design/envisioning\|envisioning]]
+by: [[initiatives, orgs & communities/design/envisioning\|envisioning]]

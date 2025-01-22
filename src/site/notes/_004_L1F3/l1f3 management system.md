@@ -4,7 +4,7 @@
 
 #### description
 
-this project is my wildly ambitious attempt to design/prototype the [[_006_core notes/personal OS design\|OS of the future]] - with its most important [[_001_MOCs/050 🟩 mid game/080 ⚒ tools MOC\|tools]], [[workflows\|workflows]], [[_002_toolkit/019 🤖 agents\|agents]] and [[user interface 1\|interfaces]] - in a way that attempts to embed into its design [[models & frameworks/alchemy/integral theory\|integral]]/[[responses/alchemy/metamodernism\|metamodern]] [[_001_MOCs/000 🟣 deep game/010 💠 values & principles MOC\|principles]] and [[_001_MOCs/000 🟣 deep game/010 💠 values & principles MOC\|values]] of [[enabling human potential\|enabling human potential]] and [[topics/regen/earth regeneration\|regenerating earth]], in an [[open-source\|open-source]], [[modular\|modular]], non-deterministic way, open for customization and augmentation by anyone with other biocentric/protopic/prosocial values.
+this project is my wildly ambitious attempt to design/prototype the [[responses/lab/personal OS design\|OS of the future]] - with its most important [[_001_MOCs/050 🟩 mid game/080 ⚒ tools MOC\|tools]], [[workflows\|workflows]], [[_002_toolkit/019 🤖 agents\|agents]] and [[user interface 1\|interfaces]] - in a way that attempts to embed into its design [[responses/alchemy/integral theory\|integral]]/[[responses/alchemy/metamodernism\|metamodern]] [[_001_MOCs/000 🟣 deep game/010 💠 values & principles MOC\|principles]] and [[_001_MOCs/000 🟣 deep game/010 💠 values & principles MOC\|values]] of [[enabling human potential\|enabling human potential]] and [[topics/regen/earth regeneration\|regenerating earth]], in an [[open-source\|open-source]], [[modular\|modular]], non-deterministic way, open for customization and augmentation by anyone with other biocentric/protopic/prosocial values.
 
 which is part of an even wilder, more ambitious project - uncovering and redesigning our fundamental personal and civilizational [[core essays/🌐 an introduction to the L1F3 support systems\|L1F3 support systems]].
 
@@ -69,7 +69,7 @@ categories of personal systems:
 - [[prototypes & designs/made by me/on hold/notion + obsidian integration\|notion + obsidian integration]]
 
 \+ [[topics/lab/quantified self\|quantified self]] compilations
-[[concepts/design/personal tech stack\|personal tech stack]] / setups
+[[responses/lab/personal tech stack\|personal tech stack]] / setups
 
 ##### system workflows/modules
 

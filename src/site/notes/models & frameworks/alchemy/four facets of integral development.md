@@ -8,4 +8,4 @@ it states that [[concepts/alchemy/human development\|human development]] happens
 
 a great introduction: https://tasshin.com/blog/the-four-facets-model-and-the-development-of-a-monastic-curriculum/
 
-related: [[models & frameworks/design/four quadrants\|four quadrants]], [[models & frameworks/alchemy/integral theory\|integral theory]].
+related: [[models & frameworks/design/four quadrants\|four quadrants]], [[responses/alchemy/integral theory\|integral theory]].

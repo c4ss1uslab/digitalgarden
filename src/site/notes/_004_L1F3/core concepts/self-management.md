@@ -1,5 +1,5 @@
 ---
-{"aliases":["self-management tools & distinctions","manage oneself","manage yourself","self","self-mngmt"],"created in":"2023-07-25T09:18:23-03:00","last tended to":"2024-10-06T02:57:01-03:00","tags":["concept","selfmanagement","tier1","alchemy","design","🌿"],"dg-publish":true,"notestage":["🌿"],"relevancescore":97,"created":"2023-07-25T09:18:23.349-03:00","updated":"2024-11-20T14:59:44.605-03:00","permalink":"/004-l1-f3/core-concepts/self-management/","dgPassFrontmatter":true}
+{"aliases":["self-management tools & distinctions","manage oneself","manage yourself","self","self-mngmt"],"created in":"2023-07-25T09:18:23-03:00","last tended to":"2024-10-06T02:57:01-03:00","tags":["concept","selfmanagement","tier1","alchemy","design","🌿"],"dg-publish":true,"notestage":["🌿"],"relevancescore":97,"created":"2023-07-25T09:18:23.349-03:00","updated":"2025-01-21T13:45:43.332-03:00","permalink":"/004-l1-f3/core-concepts/self-management/","dgPassFrontmatter":true}
 ---
 
 people that are engaged in "self-management" are usually approaching it from one of 2 perspectives:
@@ -16,11 +16,11 @@ while some of this latter kind of work can be quite problematic and diving into 
 
 when i refer to self-management, i aim to recognize the complementarity of them and do both. :)
 
-[[models & frameworks/alchemy/integral theory\|integral theory]] shows that distinction/complementarity through the framework of the [[models & frameworks/design/four quadrants\|four quadrants]] (applied/shown below), which says that each of these is focusing on a different dimension of reality. (individual exterior vs individual interior) - and so [[models & frameworks/alchemy/integral theory\|integral]] provides a great foundation to build upon and do both inner/outer tracking + presents fantastic distinctions on [[self-development\|self-development]], namely the [[models & frameworks/alchemy/AQAL\|AQAL]] framework - [[models & frameworks/design/four quadrants\|quadrants]], [[states\|states]], [[stages\|stages]], [[types\|types]], [[lines\|lines]].
+[[responses/alchemy/integral theory\|integral theory]] shows that distinction/complementarity through the framework of the [[models & frameworks/design/four quadrants\|four quadrants]] (applied/shown below), which says that each of these is focusing on a different dimension of reality. (individual exterior vs individual interior) - and so [[responses/alchemy/integral theory\|integral]] provides a great foundation to build upon and do both inner/outer tracking + presents fantastic distinctions on [[self-development\|self-development]], namely the [[models & frameworks/alchemy/AQAL\|AQAL]] framework - [[models & frameworks/design/four quadrants\|quadrants]], [[states\|states]], [[stages\|stages]], [[types\|types]], [[lines\|lines]].
 
 [[people/references/alchemy/hanzi freinacht\|hanzi freinacht]] also has great distinctions which can be powerfully applied, conceptualizing [[concepts/alchemy/human development\|human development]] as a sum of [[cognitive development\|cognitive development]], [[cultural code\|cultural code]], [[overall state\|overall state]] and [[existential depth\|existential depth]].
 
-a good introduction to this broader perspective of self-management:
+a good introduction to this broader perspective of self-management by [[neurohacker collective\|neurohacker collective]]:
 
 <!--![four quadrants of neurohacking - neurohacker collective.jpeg|800](/img/user/images/models%20&%20frameworks/four%20quadrants%20of%20neurohacking%20-%20neurohacker%20collective.jpeg)-->
 ![](https://i.imgur.com/TtylZgY.jpeg)

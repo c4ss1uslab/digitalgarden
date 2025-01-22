@@ -79,7 +79,7 @@ cherished and encouraged to be your most unique self.
 
 decentralization of resources -> 16x population, 100x resource consumption.
 
-[[topics/architect;design/market intelligence\|market intelligence]], [[trends\|trends]], [[foresight\|foresight]].
+[[topics/design/market intelligence\|market intelligence]], [[trends\|trends]], [[foresight\|foresight]].
 
 ##### creator, curator & experience economies
 
@@ -97,7 +97,7 @@ every technology has values embedded in it.
 
 ![](https://twitter.com/sariazout/status/1598307791894110209)
 
-and for deeper perspectives and practical examples of highly intentional and transformative technologies, check out [this podcast episode](https://www.youtube.com/watch?v=qcbkdO7mHdY) on building [[collective intelligence tools\|collective intelligence tools]] for [[human alignment\|human alignment]] with [[nicholas brigham\|nicholas brigham]] from [[initiatives, orgs & communities/architect;design/goodly labs\|goodly labs]].
+and for deeper perspectives and practical examples of highly intentional and transformative technologies, check out [this podcast episode](https://www.youtube.com/watch?v=qcbkdO7mHdY) on building [[collective intelligence tools\|collective intelligence tools]] for [[human alignment\|human alignment]] with [[nicholas brigham\|nicholas brigham]] from [[initiatives, orgs & communities/design/goodly labs\|goodly labs]].
 
 i will dive into the deep implications of this, but i'll start with the aspects of the creator/experience economy that most people are familiar with.
 
@@ -167,20 +167,20 @@ ultimately, [[sari\|sari]] captures it well here:
 
 
 ###### main references:
-- [[initiatives, orgs & communities/architect;design/sublime (ex-startupy)\|sublime (ex-startupy)]]
+- [[initiatives, orgs & communities/design/sublime (ex-startupy)\|sublime (ex-startupy)]]
 - [[projects & tools/tools/design/melon\|melon]]
-- [[initiatives, orgs & communities/architect;design/golden\|golden]]
+- [[initiatives, orgs & communities/design/golden\|golden]]
 - [[projects & tools/tools/design/weco\|weco]]
 - [[projects & tools/tools/design/hylo\|hylo]]
 - [[initiatives, orgs & communities/lab/neighbourhoods\|neighbourhoods]]
 
 ###### other orgs building tools:
-- [[initiatives, orgs & communities/architect;design/the computational democracy project\|the computational democracy project]] ([[projects & tools/tools/lab/pol.is\|pol.is]])
-- [[initiatives, orgs & communities/architect;design/goodly labs\|goodly labs]]
+- [[initiatives, orgs & communities/design/the computational democracy project\|the computational democracy project]] ([[projects & tools/tools/lab/pol.is\|pol.is]])
+- [[initiatives, orgs & communities/design/goodly labs\|goodly labs]]
 
 ###### decentralized social media initiatives:
 - [[mastodon\|mastodon]]
-- [[bluesky\|bluesky]]
+- [[initiatives, orgs & communities/lab/bluesky\|bluesky]]
 - [[discourse\|discourse]]
 - [[matrix\|matrix]]
 

@@ -4,4 +4,4 @@
 
 https://twitter.com/ellie__hain
 
-related to: [[initiatives, orgs & communities/architect;design/meaning alignment institute\|meaning alignment institute]]
+related to: [[initiatives, orgs & communities/design/meaning alignment institute\|meaning alignment institute]]

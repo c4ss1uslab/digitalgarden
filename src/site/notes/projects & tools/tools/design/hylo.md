@@ -8,6 +8,6 @@ https://hylo.com/
 
 in its current state, it's a [[tbprocessed/base notes/topics/digital community platforms\|digital community platform]], kind of a [[circle.so\|circle.so]]/[[tbprocessed/base notes/ventures - general/mighty networks\|mighty networks]] being built to integrate with [[initiatives, orgs & communities/lab/holochain\|holochain]] (for a truly [[p2p\|p2p]] and [[distributed\|distributed]] infrastructure). it's similar to [[initiatives, orgs & communities/lab/neighbourhoods\|neighbourhoods]] and [[projects & tools/tools/design/weco\|weco]] (a couple other tools in the [[tbprocessed/base notes/concepts - general/game b\|game b]]/[[concepts/design/metacrisis\|metacrisis]] ecosystem), but it's easier to understand/use as it's aimed at a less technical public for now.
 
-i hope they all integrate at some point, but often feel like they're ultimately trying to do the same thing (and still prey for the dominant paradigm of poor [[topics/architect;design/financial incentives for open-source software\|financial incentives for open-source software]]).
+i hope they all integrate at some point, but often feel like they're ultimately trying to do the same thing (and still prey for the dominant paradigm of poor [[topics/design/financial incentives for open-source software\|financial incentives for open-source software]]).
 
 built by the folks at [[tbprocessed/base notes/ventures - general/terran collective\|terran collective]].

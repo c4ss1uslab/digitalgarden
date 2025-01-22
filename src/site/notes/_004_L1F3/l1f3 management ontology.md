@@ -8,15 +8,15 @@ when i was 15 years old, i started constantly asking myself - what is an "optima
 
 this question led me to several different perspectives, based on different [[philosophical\|philosophical]] stances that lead to very practical consequences. lots of people have explored this in the field of [[topics/lab/personal knowledge management\|personal knowledge management]] (as i share my major influences below), but most of them come from conventional western-centric, [[Modernism\|modern]] worldviews.
 
-over time i learned that it must include several elements - from practical [[_001_MOCs/050 🟩 mid game/080 ⚒ tools MOC\|tools]] and [[ecologies of practices\|ecologies of practices]], to clarified [[_001_MOCs/000 🟣 deep game/010 💠 values & principles MOC\|principles]], [[_001_MOCs/000 🟣 deep game/015 ✨ heuristics & inquiries MOC\|heuristics]], [[topics/alchemy/mental models\|mental models]], [[topics/architect;design/systems\|systems]], [[topics/lab/algorithms\|algorithms]] and [[design patterns\|design patterns]].
+over time i learned that it must include several elements - from practical [[_001_MOCs/050 🟩 mid game/080 ⚒ tools MOC\|tools]] and [[ecologies of practices\|ecologies of practices]], to clarified [[_001_MOCs/000 🟣 deep game/010 💠 values & principles MOC\|principles]], [[_001_MOCs/000 🟣 deep game/015 ✨ heuristics & inquiries MOC\|heuristics]], [[topics/alchemy/mental models\|mental models]], [[topics/design/systems\|systems]], [[topics/lab/algorithms\|algorithms]] and [[design patterns\|design patterns]].
 
 i started this investigation in 2015 from a very conventional worldview, by attempting to implement [[_001_MOCs/000 🟣 deep game/010 💠 values & principles MOC\|principles]], [[_001_MOCs/000 🟣 deep game/015 ✨ heuristics & inquiries MOC\|heuristics]] and [[topics/alchemy/mental models\|mental models]] from references like [[farnam street\|farnam street]], [[wait but why\|wait but why]] and [[tim ferriss\|tim ferriss]], and the most structured of them - [[the last safe investment\|the last safe investment]]'s [[models & frameworks/player/S.A.F.E. plan\|S.A.F.E. plan]] into systems and frameworks such as [[david allen\|david allen]]'s [[models & frameworks/lab/getting things done\|getting things done]], [[zettelkasten\|zettelkasten]], [[leo babauta\|leo babauta]]'s [[zen to done\|zen to done]], [[taylor pearson\|taylor pearson]]'s [[purposeful productivity\|purposeful productivity]]. (this was before many contemporary "business gurus" such as [[naval ravikant\|naval ravikant]], [[andrew huberman\|andrew huberman]], [[lex fridman\|lex fridman]] and others have risen in popular culture.)
 
 this evolved through my own work in 2018 when i was learning/working with [[people/references/alchemy/gabriel goffi\|gabriel goffi]] on the [[projects & tools/projects/design/24h system\|24h system]] and then when i dove into [[people/references/lab/tiago forte\|tiago forte]]'s [[patterns/active patterns/knowledge management/building a second brain\|BASB]] ([[patterns/active patterns/knowledge management/building a second brain\|building a second brain]]), [[august bradley\|august bradley]]'s [[models & frameworks/lab/pillars, pipelines & vaults\|pillars, pipelines & vaults]], [[people/references/lab/nick milo\|nick milo]]'s [[LYT\|LYT]], [[tbprocessed/base notes/people/zsolt viczián\|zsolt viczián]]'s [[visual knowledge management system\|visual knowledge management system]].
 
-deeper than that, in the original research and current developments of [[topics/architect;design/tools for thought\|tools for thought]], there are several [[patterns/pattern collections/knowledge design patterns\|knowledge design frameworks and patterns]] that add rich perspectives to the pile.
+deeper than that, in the original research and current developments of [[responses/lab/tools for thought\|tools for thought]], there are several [[patterns/pattern collections/knowledge design patterns\|knowledge design frameworks and patterns]] that add rich perspectives to the pile.
 
-now, these are still very much in the tech-oriented/[[topics/architect;design/knowledge management\|knowledge management]] space. managing life isn't just managing knowledge (as seen in the [[models & frameworks/design/DIKW pyramid\|DIKW pyramid]]),  once again integrating insights from other disciplines, 
+now, these are still very much in the tech-oriented/[[responses/lab/knowledge management\|knowledge management]] space. managing life isn't just managing knowledge (as seen in the [[models & frameworks/design/DIKW pyramid\|DIKW pyramid]]),  once again integrating insights from other disciplines, 
 
 at the basis of it all lies [[people/references/alchemy/ken wilber\|ken wilber]]'s work on the [[references/alchemy/integral OS\|integral OS]]. in 2022 my vision collided with [[people/friends/ísis schuarts\|ísis schuarts]]' [[_004_L1F3/l1f3 manager\|l1f3 manager]], drinking inspiration from modern coaching practices and ancestral orientation devices such as the [[i-ching\|i-ching]], [[mahalila\|mahalila]], [[practices/tarot\|tarot]], several [[tbprocessed/base notes/ventures - general/mindvalley\|mindvalley]] elements such as the [[lifebook\|lifebook]], for different modules.
 
@@ -28,11 +28,11 @@ finally, integrating all of these references, around 2022 i started to have glim
 > - [[tbprocessed/base notes/people/moritz bierling\|moritz bierling]]'s experiments with building a "third" brain
 > - several [[topics/player/gamification\|gamification]] initiatives and tools - [[tbprocessed/base notes/ventures - general/co-x3\|co-x3]], [[tbprocessed/base notes/tools;products - general/superbetter\|superbetter]], [[octalysis\|octalysis]], etc
 > - [[people/references/lab/gordon brander\|gordon brander]]'s designs/constraints on [[projects & tools/projects/lab/subconscious (tool)\|subconscious (tool)]]
-> - several emerging initiatives and tools in the [[topics/architect;design/tools for thought\|tools for thought]] space - see: [[topics/architect;design/tools for thought#resources\|my list & thoughts on 75 TfTs]]
+> - several emerging initiatives and tools in the [[responses/lab/tools for thought\|tools for thought]] space - see: [[responses/lab/tools for thought#resources\|my list & thoughts on 75 TfTs]]
 > - [[andrew altshuler\|andrew altshuler]]'s core frameworks for [[topics/lab/personal knowledge management\|PKM]], [[concepts/alchemy/sensemaking\|sensemaking]] and [[expertise development\|expertise development]].
 > - [[GAOA\|GAOA]]'s experiments in [[topics/lab/collective knowledge management\|collective knowledge management]]
 > - several different [[tbprocessed/base notes/tools;products - general/notion\|notion]] workflows/templates
-> - [[people/references/lab/alexander obenauer\|alexander obenauer]]'s principles for [[_006_core notes/personal OS design\|personal OS design]]
+> - [[people/references/lab/alexander obenauer\|alexander obenauer]]'s principles for [[responses/lab/personal OS design\|personal OS design]]
 > - [[people/references/architect;design/andrea farias\|andrea farias]]'s evolution of the [[patterns/active patterns/knowledge management/evergreen notes\|evergreen notes]] pattern
 > - and many others...
 
@@ -52,7 +52,7 @@ yet, i didn't want to get esoteric. i wanted it to work for other people too. so
 
 very wordy and challenging, yes. but necessary nonetheless.
 
-i wanted it to be minimally opinionated, yet i found the [[topics/architect;design/regeneration\|regenerative]] frame to be a key difference between meaninglessness and unconsciously damaging behaviors to ways of living that are more conscious and life-affirming, so i opted to keep it.
+i wanted it to be minimally opinionated, yet i found the [[topics/design/regeneration\|regenerative]] frame to be a key difference between meaninglessness and unconsciously damaging behaviors to ways of living that are more conscious and life-affirming, so i opted to keep it.
 
 as it's intended to be modular, the ontology of the framework itself is under constant development, but the initial core principles/structures are set in place.
 
@@ -113,7 +113,7 @@ inspired by the [[models & frameworks/player/fourgames\|fourgames]] framework, t
 - [[_001_MOCs/025 🔷 long game/035 🔭 missions MOC\|missions]] ([[story\|story]]/[[path\|path]])
 
 🟩 [[concepts/alchemy/mid game\|mid game]]:
-- [[topics/architect;design/systems\|systems]]
+- [[topics/design/systems\|systems]]
 - [[terms/environment\|environment]]
 - [[_001_MOCs/050 🟩 mid game/080 ⚒ tools MOC\|tools]]
 

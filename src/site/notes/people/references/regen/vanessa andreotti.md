@@ -9,7 +9,7 @@ amazing podcast interview introducing hers and [[initiatives, orgs & communities
 ---
 ##### highlights/notes from the podcast
 
-four keys for [[topics/architect;design/regeneration\|regeneration]]:
+four keys for [[topics/design/regeneration\|regeneration]]:
 [[emotional sobriety\|emotional sobriety]] (heart)
 [[relational maturity\|relational maturity]] (we)
 [[intellectual discernment\|intellectual discernment]] (mind)

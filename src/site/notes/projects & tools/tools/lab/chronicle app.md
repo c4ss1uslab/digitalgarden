@@ -4,6 +4,6 @@
 
 https://chronicle.app/
 
-an [[open-source\|open-source]] [[memex\|memex]] prototype by [[people/references/lab/andrew louis\|andrew louis]].
+an [[open-source\|open-source]] [[concepts/lab/memex\|memex]] prototype by [[people/references/lab/andrew louis\|andrew louis]].
 
 see this fantastic article/presentation for context: https://hyfen.net/memex

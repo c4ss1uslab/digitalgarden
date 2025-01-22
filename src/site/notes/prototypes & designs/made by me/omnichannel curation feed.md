@@ -35,7 +35,7 @@ huggingface spaces
 
 ##### major references:
 [[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social (ex-tweetscape)]]
-[[initiatives, orgs & communities/architect;design/sublime (ex-startupy)\|sublime (ex-startupy)]]
+[[initiatives, orgs & communities/design/sublime (ex-startupy)\|sublime (ex-startupy)]]
 
 ##### other references:
 https://gather.directory/ - june/2024

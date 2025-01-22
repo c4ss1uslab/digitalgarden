@@ -4,15 +4,15 @@
 
 the L1F3 protocol is an open-source, distributed, modular, interoperable protocol for [[topics/player/play\|playing]] life - individually and together - under early/active design.
 
-the main difference between it and [[initiatives, orgs & communities/architect;design/metagame.wtf\|metagame.wtf]] is that metagame was built on top of [[ceramic network\|ceramic network]], so it's not interoperable with [[initiatives, orgs & communities/lab/holochain\|holochain]], [[urbit\|urbit]], [[oasis API\|oasis API]] and other emergent protocols.
+the main difference between it and [[initiatives, orgs & communities/design/metagame.wtf\|metagame.wtf]] is that metagame was built on top of [[ceramic network\|ceramic network]], so it's not interoperable with [[initiatives, orgs & communities/lab/holochain\|holochain]], [[urbit\|urbit]], [[oasis API\|oasis API]] and other emergent protocols.
 
 #### why build a protocol?
 
-because protocols are at the foundational layers of how our civilization/social coordination operates today. if we want different ([[topics/architect;design/regeneration\|regenerative]]) outcomes, we need civilizational systems that are regenerative by design. the protocol is a mechanism that allows for [[interoperability\|interoperability]] and [[terms/collaboration\|collaboration]] across the design of various [[topics/architect;design/systems\|systems]].
+because protocols are at the foundational layers of how our civilization/social coordination operates today. if we want different ([[topics/design/regeneration\|regenerative]]) outcomes, we need civilizational systems that are regenerative by design. the protocol is a mechanism that allows for [[interoperability\|interoperability]] and [[terms/collaboration\|collaboration]] across the design of various [[topics/design/systems\|systems]].
 
 see: [diome.xyz's page on protocols](https://diome.xyz/2+%F0%9F%8C%BF+Leaves/Protocols)
 
-for more references, see: [[topics/architect;design/coordination protocols\|coordination protocols]].
+for more references, see: [[topics/design/coordination protocols\|coordination protocols]].
 
 #### development status
 

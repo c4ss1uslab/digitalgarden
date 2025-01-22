@@ -6,15 +6,15 @@ https://wiki.xxiivv.com/
 
 creator of [[projects & tools/tools/lab/duskOS\|duskOS]], [[projects & tools/tools/lab/collapseOS\|collapseOS]]. co-founder of [[initiatives, orgs & communities/lab/hundredrabbits collective\|hundredrabbits collective]], author of an [amazing series of articles](http://tumbleforth.hardcoded.net/) introducing regular web developers to [[low-level programming\|low-level programming]] via walking through his design and learnings while building [[projects & tools/tools/lab/duskOS\|duskOS]].
 
-overall, a crazy deep unconventional thinker, with an extremely intentional [[lifestyle\|lifestyle]] - living on a sailboat, a [[memex\|memex]]/[[prototypes & designs/made by me/knowledge management system\|knowledge management system]], projects such as the [[responses/regen/permacomputing\|permacomputing]] operating systems themselves, and more [tools] and [games]...
+overall, a crazy deep unconventional thinker, with an extremely intentional [[lifestyle\|lifestyle]] - living on a sailboat, a [[concepts/lab/memex\|memex]]/[[prototypes & designs/made by me/knowledge management system\|knowledge management system]], projects such as the [[responses/lab/permacomputing\|permacomputing]] operating systems themselves, and more [tools] and [games]...
 
 #### must-reads:
 
 if you're coming from a [[topics/lab/computer science\|computer science]] background:
 1) [100R — computing and sustainability](https://100r.co/site/computing_and_sustainability.html)
 
-if you're coming from a [[topics/architect;design/regeneration\|regenerative]] experience/background:
-2) [[responses/regen/permacomputing\|permacomputing]] and then [100R — computing and sustainability](https://100r.co/site/computing_and_sustainability.html).
+if you're coming from a [[topics/design/regeneration\|regenerative]] experience/background:
+2) [[responses/lab/permacomputing\|permacomputing]] and then [100R — computing and sustainability](https://100r.co/site/computing_and_sustainability.html).
 
 (...)
 

@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-12-19T12:58:08-03:00","last tended to":"2024-09-16T18:36:35-03:00","tags":["🌿","knowledgedesign","illustration","experiment"],"dg-publish":true,"notestage":["🌿"],"created":"2023-12-19T12:58:08.957-03:00","updated":"2025-01-10T18:14:12.035-03:00","permalink":"/000-digital-garden/garden-map/","dgPassFrontmatter":true}
+{"created in":"2023-12-19T12:58:08-03:00","last tended to":"2024-09-16T18:36:35-03:00","tags":["🌿","knowledgedesign","illustration","experiment"],"dg-publish":true,"notestage":["🌿"],"created":"2023-12-19T12:58:08.957-03:00","updated":"2025-01-22T16:19:40.331-03:00","permalink":"/000-digital-garden/garden-map/","dgPassFrontmatter":true}
 ---
 
 ### why
@@ -31,7 +31,7 @@ https://x.com/poetengineer__/status/1870928855017705850
 
 i intend to make this eventually as a procedurally-generated (constantly updating) map, sourcing data from my [[obsidian vault\|obsidian vault]], but using something like [[projects & tools/tools/lab/juggl\|juggl]], [[infranodus\|infranodus]], or some kind of [[references/lab/map-making tools\|map-making tool]].
 
-this way you can have a glimpse at the [[concepts/design/knowledge ecology\|knowledge ecology]] being tended to here and have a big picture view to help you navigate this content.
+this way you can have a glimpse at the [[concepts/design/knowledge ecologies\|knowledge ecologies]] being tended to here and have a big picture view to help you navigate this content.
 
 another option would be to filter by more conventional [[topics\|topics]]/[[tags\|tags]] that can help you navigate (see below).
 

@@ -1,5 +1,5 @@
 ---
-{"aliases":["🕹 l1f3 game","life game","🕹 life game","massively-multiplayer online-and-offline collaborative self-transformation & civilization-building game","L1F3.GAME","l1f3.game","🕹 L1F3.game","🕹 L1F3 game","🕹 L1F3.GAME","L1F3 game","L1F3.game"],"created in":"2022-02-05T11:41:05-03:00","last tended to":"2024-09-29T14:37:10-03:00","tags":["l1f3","project","🌿","game","seriousgame","player"],"dg-publish":true,"notestage":["🌿"],"created":"2022-02-05T11:41:05.535-03:00","updated":"2024-12-11T19:26:03.091-03:00","permalink":"/004-l1-f3/l1f3-game/","dgPassFrontmatter":true}
+{"aliases":["🕹 l1f3 game","life game","🕹 life game","massively-multiplayer online-and-offline collaborative self-transformation & civilization-building game","L1F3.GAME","l1f3.game","🕹 L1F3.game","🕹 L1F3 game","🕹 L1F3.GAME","L1F3 game","L1F3.game"],"created in":"2022-02-05T11:41:05-03:00","last tended to":"2024-09-29T14:37:10-03:00","tags":["l1f3","project","🌿","game","seriousgame","player"],"dg-publish":true,"notestage":["🌿"],"created":"2022-02-05T11:41:05.535-03:00","updated":"2025-01-22T15:26:39.368-03:00","permalink":"/004-l1-f3/l1f3-game/","dgPassFrontmatter":true}
 ---
 
 the l1f3 game is an ongoing endeavor to:
@@ -8,13 +8,13 @@ the l1f3 game is an ongoing endeavor to:
 { #cff951}
 
 
-a game oriented towards supporting/challenging us on our path of [[tbprocessed/base notes/concepts - general/conscious evolution\|conscious evolution]] and development of more [[conscious\|conscious]], [[terms/fun\|fun]], [[terms/collaboration\|collaborative]], [[topics/architect;design/regeneration\|regenerative]] and [[tbprocessed/base notes/concepts - general/disruption\|disruptive]]¹ [[topics/architect;design/systems\|systems]] - for addressing our [[concepts/design/metacrisis\|personal and civilizational crises]].
+a game oriented towards supporting/challenging us on our path of [[tbprocessed/base notes/concepts - general/conscious evolution\|conscious evolution]] and development of more [[conscious\|conscious]], [[terms/fun\|fun]], [[terms/collaboration\|collaborative]], [[topics/design/regeneration\|regenerative]] and [[tbprocessed/base notes/concepts - general/disruption\|disruptive]]¹ [[topics/design/systems\|systems]] - for addressing our [[concepts/design/metacrisis\|personal and civilizational crises]].
 
 for the sake of resilience, values-alignment and accessibility, it has to be built on top of [[_004_L1F3/l1f3 protocol\|an open-source, distributed, modular, interoperable protocol for playing life - individually and together]].
 
 #### interoperability across play
 
-the L1F3 game exists so we can play life in more [[conscious\|conscious]], [[terms/fun\|fun]], [[collaborative\|collaborative]], [[impactful\|impactful]] and [[topics/architect;design/regeneration\|regenerative]] ways.
+the L1F3 game exists so we can play life in more [[conscious\|conscious]], [[terms/fun\|fun]], [[collaborative\|collaborative]], [[impactful\|impactful]] and [[topics/design/regeneration\|regenerative]] ways.
 
 play is both an attitude and an [[terms/action\|action]], it happens at all levels above [[data\|data]], [[terms/information\|information]] and [[knowledge\|knowledge]]. considering the [[models & frameworks/design/OODA loop\|OODA loop]], to play is an agreement, a decision that transforms your whole loop - it changes how you observe, orient, decide and act moving forward.
 
@@ -28,7 +28,7 @@ ancient [[topics/alchemy/spiritual lineages\|wisdom traditions]] also do so by s
 
 [[regenerative designers\|regenerative designers]], [[cognitive scientists\|cognitive scientists]] -> [[relevance realization\|relevance realization]] and [[reciprocal narrowing\|reciprocal narrowing]]...
 
-i ([[tbprocessed/working on/[3Q; IC] - planning;communication/c4ss1us\|c4ss1us]]) might say: let's build systems to enable deeper levels of [[terms/collaboration\|collaboration]], [[topics/architect;design/coordination systems\|coordination systems]], [[terms/design\|design]] and [[concepts/alchemy/self-transformation\|self-transformation]] in life!
+i ([[tbprocessed/working on/[3Q; IC] - planning;communication/c4ss1us\|c4ss1us]]) might say: let's build systems to enable deeper levels of [[terms/collaboration\|collaboration]], [[topics/design/coordination systems\|coordination systems]], [[terms/design\|design]] and [[concepts/alchemy/self-transformation\|concepts/alchemy/self-transformation]] in life!
 
 many other philosophers, anthropologists, researchers, historians, educators, biologists, and people from all fields, backgrounds and journeys also have their valuable perspectives to add...
 
@@ -46,7 +46,7 @@ related people: [[tbprocessed/base notes/people/peth\|peth]]/[[changethegame\|ch
 ##### conceptual alignment:
 
 [[_005_c4ss1us/c4ss1us.design\|design]]: [[projects & tools/projects/player/world game\|world game]]
-source: [[initiatives, orgs & communities/architect;design/buckminster fuller institute\|buckminster fuller institute]], os.earth
+source: [[initiatives, orgs & communities/design/buckminster fuller institute\|buckminster fuller institute]], os.earth
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/projects-and-tools/projects/player/world-game/#52ca2c" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -93,10 +93,10 @@ as a practice, it's able to create an educational, therapeutic and artistic spac
 </div></div>
 
 
-[[_005_c4ss1us/c4ss1us.regen\|regen]]: [[initiatives, orgs & communities/architect;design/SEEDS (ecosystem)\|SEEDS]]
+[[_005_c4ss1us/c4ss1us.regen\|regen]]: [[initiatives, orgs & communities/design/SEEDS (ecosystem)\|SEEDS]]
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/initiatives-orgs-and-communities/architect-design/seeds-ecosystem/#e27515" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/initiatives-orgs-and-communities/design/seeds-ecosystem/#e27515" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -105,15 +105,15 @@ as a practice, it's able to create an educational, therapeutic and artistic spac
 </div></div>
 
 
-[[_005_c4ss1us/c4ss1us.player\|player]]: [[initiatives, orgs & communities/architect;design/metagame.wtf\|metagame.wtf]]
+[[_005_c4ss1us/c4ss1us.player\|player]]: [[initiatives, orgs & communities/design/metagame.wtf\|metagame.wtf]]
 source: [[tbprocessed/base notes/people/peth\|peth]], [[concepts/design/metacrisis\|metacrisis]] / [[tbprocessed/base notes/concepts - general/game b\|game b]] space
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/initiatives-orgs-and-communities/architect-design/metagame-wtf/#fc662c" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/initiatives-orgs-and-communities/design/metagame-wtf/#fc662c" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-*metagame* was a [[topics/architect;design/web3\|web3]] community building a [massive online coordination game](https://metagame.wtf/) - oriented towards figuring out how to play life together, address the [[concepts/design/metacrisis\|metacrisis]] and [[concepts/design/moloch\|moloch]], and build new socio-economic systems more aligned with the better versions of ourselves. 
+*metagame* was a [[topics/design/web3\|web3]] community building a [massive online coordination game](https://metagame.wtf/) - oriented towards figuring out how to play life together, address the [[concepts/design/metacrisis\|metacrisis]] and [[concepts/design/moloch\|moloch]], and build new socio-economic systems more aligned with the better versions of ourselves. 
 
 </div></div>
 
@@ -134,7 +134,7 @@ examples: [[references/player/games/ashes of creation\|ashes of creation]] - htt
 
 ##### other real-life gaming tools/refs:
 
-[[initiatives, orgs & communities/architect;design/metagame.wtf\|metagame.wtf]] modules: [[other notes ; references/metagame/mymeta profile\|player profile]], [[other notes ; references/metagame/metagame dashboard\|personal dashboard]]...
+[[initiatives, orgs & communities/design/metagame.wtf\|metagame.wtf]] modules: [[other notes ; references/metagame/mymeta profile\|player profile]], [[other notes ; references/metagame/metagame dashboard\|personal dashboard]]...
 [[references/alchemy/integral OS\|integral OS]]
 [[cabinDAO\|cabinDAO]] profiles (+ other [[terms/DAOs\|DAO]] [[governance\|governance]] mechanisms, [[greenpill\|greenpill]], [[gnosis guild\|gnosis guild]]/[[zodiac\|zodiac]], [[tbprocessed/base notes/ventures - general/SEEDS\|SEEDS]])
 [[projects & tools/projects/player/startover.xyz\|startover.xyz]]'s experiments catalog
@@ -216,7 +216,7 @@ flow lives in between challenge and comfort.
 -> [[economy\|economy]], [[tbprocessed/base notes/topics/resources generation\|generating resources]] (usually [[building a business\|building a business]]) - [[concepts/alchemy/root chakra\|root chakra]]
 -> [[relationship development\|relationship development]] / [[network\|network]] building (usually [[topics/host/community building\|building a community]]) - [[concepts/alchemy/sacral chakra\|sacral chakra]] / [[concepts/alchemy/heart chakra\|heart chakra]]
 -> [[influence\|influence]], [[terms/communication\|communication]] (usually [[building a media\|building a media]]) - [[concepts/alchemy/throat chakra\|throat chakra]]
--> [[topics/lab/technology development\|developing technology]], [[topics/architect;design/systems development\|developing systems]] (usually by [[building a product\|building a product]]) - [[concepts/alchemy/third eye chakra\|third eye chakra]]
+-> [[topics/lab/technology development\|developing technology]], [[topics/design/systems development\|developing systems]] (usually by [[building a product\|building a product]]) - [[concepts/alchemy/third eye chakra\|third eye chakra]]
 -> [[creating art\|creating art]]
 
 ###### [[areas/spiritual\|spiritual]]/personal
@@ -278,19 +278,19 @@ there's a huge difference in the mindset, and therefore, in how we act, play, an
 
 that's the proposal of the [[_004_L1F3/l1f3 game\|L1[[l1f3 game]]ther [[serious life games\|serious life games]].
 
-###### Q: what's the difference between this and [[initiatives, orgs & communities/architect;design/metagame.wtf\|metagame.wtf]]?
+###### Q: what's the difference between this and [[initiatives, orgs & communities/design/metagame.wtf\|metagame.wtf]]?
 
 honestly, not much. i intend to collaborate/integrate as much as possible with them.
 
-a few key differences are: they're more focused on building the [[topics/architect;design/web3\|web3]] infrastructure first and a more technically-oriented kind of play, instead of playing life in all its dimensions.
+a few key differences are: they're more focused on building the [[topics/design/web3\|web3]] infrastructure first and a more technically-oriented kind of play, instead of playing life in all its dimensions.
 
-we're more focused on building community and narrative content first, so it can attract more than the tech-savvy/[[topics/architect;design/web3\|web3]] types and become a self-sustainable ecosystem able to support its players on their developmental journeys, so they can, among other things, build the necessary technological tools as well.
+we're more focused on building community and narrative content first, so it can attract more than the tech-savvy/[[topics/design/web3\|web3]] types and become a self-sustainable ecosystem able to support its players on their developmental journeys, so they can, among other things, build the necessary technological tools as well.
 
-there's also a big challenge in [[topics/architect;design/web3\|web3]]/crypto space which is the design of conscious/sustainable/regenerative incentive structures. though there are great projects attempting to address this such as [[token engineering commons\|token engineering commons]], [[gitcoin\|gitcoin]] and [[better-than-free economies\|better-than-free economies]] such as [[initiatives, orgs & communities/architect;design/SEEDS (ecosystem)\|SEEDS]], i still believe it's a largely unsolved problem, with room for wild speculation and bad actors. so i'm a bit wary of investing a lot of energy into the project and it collapsing due to their tokenomics model.
+there's also a big challenge in [[topics/design/web3\|web3]]/crypto space which is the design of conscious/sustainable/regenerative incentive structures. though there are great projects attempting to address this such as [[token engineering commons\|token engineering commons]], [[initiatives, orgs & communities/design/gitcoin\|gitcoin]] and [[better-than-free economies\|better-than-free economies]] such as [[initiatives, orgs & communities/design/SEEDS (ecosystem)\|SEEDS]], i still believe it's a largely unsolved problem, with room for wild speculation and bad actors. so i'm a bit wary of investing a lot of energy into the project and it collapsing due to their tokenomics model.
 
 **Q: what's the difference between this and [[projects & tools/projects/player/startover.xyz\|startover.xyz]]?**
 
-they're much more focused on internal transformation than the balance between internal and external contribution/expression, while we're more oriented by [[models & frameworks/alchemy/integral theory\|integral theory]]'s distinctions of the [[models & frameworks/alchemy/four facets of integral development\|four facets of integral development]].
+they're much more focused on internal transformation than the balance between internal and external contribution/expression, while we're more oriented by [[responses/alchemy/integral theory\|integral theory]]'s distinctions of the [[models & frameworks/alchemy/four facets of integral development\|four facets of integral development]].
 
 they're also more interested in furthering their own empirical research rather than integrating different [[topics/alchemy/spiritual lineages\|wisdom traditions]] and [[_001_MOCs/025 🔷 long game/025 🗺 topics & references MOC\|fields of knowledge]].
 
@@ -338,7 +338,7 @@ managing oneself (energy, time, parts, thoughts, emotions, actions)
 -> [[economy\|economy]], [[tbprocessed/base notes/topics/resources generation\|generating resources]] (usually [[entrepreneurship\|entrepreneurship]], [[sales\|sales]], [[marketing\|marketing]], [[management\|management]]) - [[concepts/alchemy/root chakra\|root chakra]]
 -> [[relationship development\|relationship development]] / [[network\|network]] building (usually [[topics/host/community building\|community building]]) - [[concepts/alchemy/sacral chakra\|sacral chakra]] / [[concepts/alchemy/heart chakra\|heart chakra]]
 -> [[influence\|influence]], [[terms/communication\|communication]] (usually [[areas/content creation\|content creation]]) - [[concepts/alchemy/throat chakra\|throat chakra]]
--> tech design, [[topics/lab/technology development\|technology development]], [[topics/architect;design/systems development\|systems development]] (usually by [[building a product\|building a product]]) - [[concepts/alchemy/third eye chakra\|third eye chakra]]
+-> tech design, [[topics/lab/technology development\|technology development]], [[topics/design/systems development\|systems development]] (usually by [[building a product\|building a product]]) - [[concepts/alchemy/third eye chakra\|third eye chakra]]
 -> [[creating art\|creating art]]
 
 ###### [[areas/spiritual\|spiritual]]/personal
@@ -433,7 +433,7 @@ https://subconscious.substack.com/p/effort-is-evidence-of-broken-feedback
 
 ##### 4) digital environments/objects
 
-[[_002_toolkit/000 ⛓ l1f3 player toolkit\|player toolkit]] enters here. [[concepts/design/personal tech stack\|personal tech stack]]. [[concepts/design/third spaces\|third spaces]].
+[[_002_toolkit/000 ⛓ l1f3 player toolkit\|player toolkit]] enters here. [[responses/lab/personal tech stack\|personal tech stack]]. [[concepts/design/third spaces\|third spaces]].
 
 ###### 4.1) personal tech stacks
 
@@ -480,7 +480,7 @@ other components of personal systems (life OS, management, streaming, player sys
 
 fields:
 [[topics/player/game theory\|game theory]]
-[[topics/architect;design/serious games\|serious games]]
+[[responses/player/serious games\|serious games]]
 [[educational games\|educational games]]
 [[topics/player/cooperative games\|cooperative games]]
 [[topics/player/gamification\|gamification]]

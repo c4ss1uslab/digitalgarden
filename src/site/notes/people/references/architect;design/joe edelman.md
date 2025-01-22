@@ -4,4 +4,4 @@
 
 https://twitter.com/edelwax
 
-founder of: [[initiatives, orgs & communities/architect;design/meaning alignment institute\|meaning alignment institute]]
+founder of: [[initiatives, orgs & communities/design/meaning alignment institute\|meaning alignment institute]]

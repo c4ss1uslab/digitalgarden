@@ -34,7 +34,7 @@ if you’re interested in further simplifying this and/or transforming into visu
 
 > assumed audience: you’re familiar with domains/terms such as regeneration, self-development and the online media landscape, or at least you can infer how/why they’re relevant to our lives. you care about transforming yourself and making society a better place.
 
-before i jumping into the main subjects of this article  —  [[information ecology\|information ecology]] and [[topics/architect;design/knowledge commons\|knowledge commons]]  —  i want to share with you a bit about my background, worldview and where i'm oriented towards, so you know some of my biases and where this research is coming from.
+before i jumping into the main subjects of this article  —  [[information ecology\|information ecology]] and [[responses/lab/knowledge commons\|knowledge commons]]  —  i want to share with you a bit about my background, worldview and where i'm oriented towards, so you know some of my biases and where this research is coming from.
 
 hopefully this can support you to do your own [[concepts/alchemy/sensemaking\|sensemaking]] on the subjects i'm sharing here.
 
@@ -48,7 +48,7 @@ i share this as a way to clarify the “agenda” behind this article (the biase
 
 these 3 themes of work came both from my research on systemic [[_001_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|challenges]], [[topics/player/game theory\|game theory]] and [[concepts/design/existential risk\|existential risk]], as well as personal intuitions, insights and awakenings i had on my self-knowledge path.
 
-throughout this path, i’ve found many organizations, communities and people doing amazing work. a few of the ones that impacted me the most being: [[people/references/architect;design/daniel schmachtenberger\|daniel schmachtenberger]], [[people/references/alchemy/ken wilber\|ken wilber]], [[people/references/lab/maggie appleton\|maggie appleton]], [[initiatives, orgs & communities/architect;design/metagame.wtf\|metagame.wtf]], [[initiatives, orgs & communities/architect;design/SEEDS (ecosystem)\|SEEDS]], [possibility management](http://possibilitymanagement.com/), [protocol labs], [holochain](http://holochain.org), [[projects & tools/projects/lab/subconscious (tool)\|subconscious (tool)]], [L1F3.STREAM](https://www.youtube.com/playlist?list=PLliJTfwEBewrsBny4TAusQGNBfgzWB8QN), [high stakes academy] and [mundos possíveis](https://www.instagram.com/mundos_possiveis/) (the last three only have content in brazilian portuguese for now).
+throughout this path, i’ve found many organizations, communities and people doing amazing work. a few of the ones that impacted me the most being: [[people/references/architect;design/daniel schmachtenberger\|daniel schmachtenberger]], [[people/references/alchemy/ken wilber\|ken wilber]], [[people/references/lab/maggie appleton\|maggie appleton]], [[initiatives, orgs & communities/design/metagame.wtf\|metagame.wtf]], [[initiatives, orgs & communities/design/SEEDS (ecosystem)\|SEEDS]], [possibility management](http://possibilitymanagement.com/), [protocol labs], [holochain](http://holochain.org), [[projects & tools/projects/lab/subconscious (tool)\|subconscious (tool)]], [L1F3.STREAM](https://www.youtube.com/playlist?list=PLliJTfwEBewrsBny4TAusQGNBfgzWB8QN), [high stakes academy] and [mundos possíveis](https://www.instagram.com/mundos_possiveis/) (the last three only have content in brazilian portuguese for now).
 
 so much so that to varying degrees, i contribute or contributed to each of these projects for some time. i’ll still write about why i believe each of them is relevant, what they bring of uniquely valuable to the world, along with lots of other references of people/organizations doing similar/complimentary work.
 
@@ -67,7 +67,7 @@ therefore, the “unsolved” challenges i’m talking about are:
 - **healing and transforming our information ecology**
 - **enabling a vocational economy**
 
-i’ll focus on the information ecology part on this article. the next one will be on the vocational economy, breaking down the 4 best approaches i’ve found so far  —  [[initiatives, orgs & communities/architect;design/SEEDS (ecosystem)\|SEEDS]], L1F3.STREAM, [metacurrency](http://metacurrency.org/) and [[initiatives, orgs & communities/architect;design/metagame.wtf\|metagame.wtf]].
+i’ll focus on the information ecology part on this article. the next one will be on the vocational economy, breaking down the 4 best approaches i’ve found so far  —  [[initiatives, orgs & communities/design/SEEDS (ecosystem)\|SEEDS]], L1F3.STREAM, [metacurrency](http://metacurrency.org/) and [[initiatives, orgs & communities/design/metagame.wtf\|metagame.wtf]].
 
 as you might have guessed so far, i’ll strive for understandability in this article, so my definitions will be mostly loose and free from academic jargon.
 
@@ -87,7 +87,7 @@ since then, [the stoa](https://www.youtube.com/c/TheStoa) has been an online com
 
 as some of these ideas have been informative to many researchers, web3 builders, social activists, spiritual practitioners and regenerative systems designers (myself included), i believe there are many concepts that deserve to get outside this bubble and more into the mainstream conversation of how to build a better internet.
 
-(see [[initiatives, orgs & communities/architect;design/life itself\|life itself]]’s [metamodern ecosystem map](https://lifeitself.org/ecosystem) for an overview on communities inspired/informed by this knowledge, or [[joe lightfoot\|joe lightfoot]]’s 2021 “[the liminal web](https://www.joelightfoot.org/post/the-liminal-web-mapping-an-emergent-subculture-of-sensemakers-meta-theorists-systems-poets)” article, referenced by the map right below)
+(see [[initiatives, orgs & communities/design/life itself\|life itself]]’s [metamodern ecosystem map](https://lifeitself.org/ecosystem) for an overview on communities inspired/informed by this knowledge, or [[joe lightfoot\|joe lightfoot]]’s 2021 “[the liminal web](https://www.joelightfoot.org/post/the-liminal-web-mapping-an-emergent-subculture-of-sensemakers-meta-theorists-systems-poets)” article, referenced by the map right below)
 
 ![](https://cdn-images-1.medium.com/max/800/1*b31hiO4ynbDLRrXWEFF4aQ.png)
 
@@ -131,7 +131,7 @@ which leads us to the first foundational concept:
 
 [[people/references/architect;design/caio vassão\|caio vassão]] - [metadesign, jogos e transformação cultural](https://caiovassao.medium.com/metadesign-jogos-e-transforma%C3%A7%C3%A3o-cultural-4ffce499cd8a)
 
-#### 2) [[topics/architect;design/digital cartography\|digital cartography]] & approaches to information [[responses/lab/mapping\|mapping]], navigation and curation
+#### 2) [[topics/design/digital cartography\|digital cartography]] & approaches to information [[responses/lab/mapping\|mapping]], navigation and curation
 
 the layers & territories of the web:
 
@@ -147,7 +147,7 @@ there’s even a great deeper analysis + futures-oriented design/prototypes prop
 
 map from trust’s [moving castles](https://trust.support/feed/moving-castles) article. inspired by the eghbal model of open-source communities, “working in public: the making and maintenance of open source software”, nadia eghbal (2020).
 
-x) [[initiatives, orgs & communities/architect;design/sublime (ex-startupy)\|sublime]]
+x) [[initiatives, orgs & communities/design/sublime (ex-startupy)\|sublime]]
 
 sari is the founder of one of the initiatives i mentioned (sublime), and a master of finding/crafting powerful insights on information curation and the web.
 
@@ -326,7 +326,7 @@ but this is still an underdeveloped topic, with lots of potential for creation/i
 
 #### 4) personal systems design
 
-[[projects & tools/projects/lab/subconscious (tool)\|subconscious (tool)]] & tools for [[topics/architect;design/coordination systems\|coordination systems]], [[terms/collaboration\|collaboration]], etc...
+[[projects & tools/projects/lab/subconscious (tool)\|subconscious (tool)]] & tools for [[topics/design/coordination systems\|coordination systems]], [[terms/collaboration\|collaboration]], etc...
 
 
 <!--![[KM capture, organize, synthesize loop.jpg\|KM capture, organize, synthesize loop.jpg]]-->
@@ -337,12 +337,12 @@ but this is still an underdeveloped topic, with lots of potential for creation/i
 [[tools for self-transformation\|tools for self-transformation]]:
 
 [[tools for collective intelligence\|tools for collective intelligence]] / [[concepts/alchemy/sensemaking\|sensemaking]]:
-[[initiatives, orgs & communities/architect;design/goodly labs\|goodly labs]]' AI prototypes
+[[initiatives, orgs & communities/design/goodly labs\|goodly labs]]' AI prototypes
 [[tbprocessed/base notes/ventures - general/SEEDS\|SEEDS]]' liquid democracy
-[[initiatives, orgs & communities/architect;design/meaning alignment institute\|meaning alignment institute]]
+[[initiatives, orgs & communities/design/meaning alignment institute\|meaning alignment institute]]
 [[roote\|roote]]'s [[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social (ex-tweetscape)]]
 [[common sensemaker\|common sensemaker]]'s [sensenets](https://paragraph.xyz/@sense-nets/sense-nets-intro)
-[[initiatives, orgs & communities/architect;design/the society library\|society library]]
+[[initiatives, orgs & communities/design/the society library\|society library]]
 [[projects & tools/tools/design/metaculus\|metaculus]]
 (...)
 AI research tools
@@ -350,7 +350,7 @@ digital gardening / second brain tools...
 
 [[tools for coordination\|tools for coordination]]:
 
-[[topics/architect;design/collaboration tools\|tools for collaboration]]:
+[[topics/design/collaboration tools\|tools for collaboration]]:
 
 [[tools for play\|tools for play]]:
 

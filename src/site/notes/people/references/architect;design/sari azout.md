@@ -4,7 +4,7 @@
 
 https://twitter.com/sariazout
 
-she has a serendipitous [newsletter](https://sublimeinternet.substack.com/) i enjoy and great perspectives on knowledge [[tbprocessed/base notes/concepts - general/curation\|curation]], which she's applying into the product design of [[initiatives, orgs & communities/architect;design/sublime (ex-startupy)\|sublime (ex-startupy)]].
+she has a serendipitous [newsletter](https://sublimeinternet.substack.com/) i enjoy and great perspectives on knowledge [[tbprocessed/base notes/concepts - general/curation\|curation]], which she's applying into the product design of [[initiatives, orgs & communities/design/sublime (ex-startupy)\|sublime (ex-startupy)]].
 
 a few of my favorite posts/texts by her:
 

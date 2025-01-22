@@ -2,7 +2,7 @@
 {"created in":"2024-05-04T18:20:10-03:00","last tended to":"2024-09-26T15:21:33-03:00","tags":["🌿","metacrisis","community","concept"],"aliases":["2R"],"dg-publish":true,"relevancescore":96,"notestage":["🌿"],"permalink":"/responses/design/second-renaissance/","dgPassFrontmatter":true,"created":"2024-05-04T18:20:10.067-03:00","updated":"2024-09-26T15:21:34.427-03:00"}
 ---
 
-very interesting framing proposed by [[initiatives, orgs & communities/architect;design/life itself\|life itself]] for understanding/navigating the civilization era we're living.
+very interesting framing proposed by [[initiatives, orgs & communities/design/life itself\|life itself]] for understanding/navigating the civilization era we're living.
 
 https://secondrenaissance.net/
 
@@ -25,7 +25,7 @@ it's like a summary of [[people/references/alchemy/hanzi freinacht\|hanzi]]'s [[
 
 everything on the wiki - https://wiki.secondrenaissance.net/wiki/The_Second_Renaissance_wiki
 
-\+ there's [a research group](https://lifeitself.org/research) doing continued work on this project of the 2R and some of its sub-fields (such as [[deliberately developmental spaces\|deliberately developmental spaces]], [[topics/architect;design/ecosystem mapping\|ecosystem mapping]], and more).
+\+ there's [a research group](https://lifeitself.org/research) doing continued work on this project of the 2R and some of its sub-fields (such as [[deliberately developmental spaces\|deliberately developmental spaces]], [[topics/design/ecosystem mapping\|ecosystem mapping]], and more).
 
 ##### my reflections
 
@@ -35,13 +35,13 @@ how can we facilitate a graceful descent? and could that descent still really be
 
 maybe yes. a material descent/complete makeover and a spiritual/regenerative renaissance?
 
-it deeply resonates. a renaissance full of meaning, flourishing, revival, regeneration. widespread more conscious, challenging, yet nourishing lifestyles and ways of being. [[metamodern arts\|metamodern arts]], [[topics/alchemy/indigenous wisdom\|indigenous wisdom]], [[topics/architect;design/systems science\|systems]] and [[concepts/alchemy/interior sciences\|interior sciences]] show viable ways forward. [[initiatives, orgs & communities/architect;design/life itself\|life itself]] and my own efforts in mapping emergent initiatives/ecosystems also do.
+it deeply resonates. a renaissance full of meaning, flourishing, revival, regeneration. widespread more conscious, challenging, yet nourishing lifestyles and ways of being. [[metamodern arts\|metamodern arts]], [[topics/alchemy/indigenous wisdom\|indigenous wisdom]], [[topics/design/systems science\|systems]] and [[concepts/alchemy/interior sciences\|interior sciences]] show viable ways forward. [[initiatives, orgs & communities/design/life itself\|life itself]] and my own efforts in mapping emergent initiatives/ecosystems also do.
 
 hopefully we're able to mature quickly and powerfully enough to facilitate this transition gracefully.
 
 *why i'm a somewhat worried:*
 
-if we look at the actual hard data and the systems at the base of our modern civilizations, the major drivers of the [[concepts/design/metacrisis\|metacrisis]] are there  underlying dynamics of [[exponentialization of existential and catastrophic risks\|exponentialization of existential and catastrophic risks]] and [[topics/architect;design/systems\|systems]]/[[behaviors\|behaviors]] that are increasingly exploitative, wealth-concentrating and [[debasing our ecological substrate\|debasing our ecological substrate]].
+if we look at the actual hard data and the systems at the base of our modern civilizations, the major drivers of the [[concepts/design/metacrisis\|metacrisis]] are there  underlying dynamics of [[exponentialization of existential and catastrophic risks\|exponentialization of existential and catastrophic risks]] and [[topics/design/systems\|systems]]/[[behaviors\|behaviors]] that are increasingly exploitative, wealth-concentrating and [[debasing our ecological substrate\|debasing our ecological substrate]].
 
 without any major civilizational-level changes, the trajectory we're headed towards is a collapse (and of the ugly kind), or more hopefully, as [[nate hagens\|nate hagens]] states, a [[concepts/design/the great simplification\|great simplification]].
 
