@@ -136,7 +136,7 @@ examples: [[references/player/games/ashes of creation\|ashes of creation]] - htt
 
 [[initiatives, orgs & communities/design/metagame.wtf\|metagame.wtf]] modules: [[other notes ; references/metagame/mymeta profile\|player profile]], [[other notes ; references/metagame/metagame dashboard\|personal dashboard]]...
 [[references/alchemy/integral OS\|integral OS]]
-[[cabinDAO\|cabinDAO]] profiles (+ other [[terms/DAOs\|DAO]] [[governance\|governance]] mechanisms, [[greenpill\|greenpill]], [[gnosis guild\|gnosis guild]]/[[zodiac\|zodiac]], [[tbprocessed/base notes/ventures - general/SEEDS\|SEEDS]])
+[[cabinDAO\|cabinDAO]] profiles (+ other [[terms/DAOs\|DAO]] [[governance\|governance]] mechanisms, [[greenpill\|greenpill]], [[initiatives, orgs & communities/design/gnosis guild\|gnosis guild]]/[[zodiac\|zodiac]], [[tbprocessed/base notes/ventures - general/SEEDS\|SEEDS]])
 [[projects & tools/projects/player/startover.xyz\|startover.xyz]]'s experiments catalog
 [[united planet\|united planet]] 2030 (SEEDS) / [[school of humanity\|school of humanity]]
 [[people/references/architect;design/gnoman\|gnoman]]'s [regenaissance festival](https://docs.google.com/document/d/1toqpJ8IcOnc-TeP_-AnGNEKz5jTIZk6OeWj2XD1REuE/edit) / [[edgar gouvea jr\|edgar gouvea jr]]'s gincanas
@@ -433,7 +433,7 @@ https://subconscious.substack.com/p/effort-is-evidence-of-broken-feedback
 
 ##### 4) digital environments/objects
 
-[[_002_toolkit/000 ⛓ l1f3 player toolkit\|player toolkit]] enters here. [[responses/lab/personal tech stack\|personal tech stack]]. [[concepts/design/third spaces\|third spaces]].
+[[_002_toolkit/000 ⛓ l1f3 player toolkit\|player toolkit]] enters here. [[concepts/lab/personal tech stack\|personal tech stack]]. [[concepts/design/third spaces\|third spaces]].
 
 ###### 4.1) personal tech stacks
 

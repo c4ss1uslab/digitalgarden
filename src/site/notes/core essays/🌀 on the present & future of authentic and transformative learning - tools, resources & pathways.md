@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-04-13T13:36:49-03:00","last tended to":"2024-09-24T16:19:26-03:00","tags":["essay","learning","education","🌱"],"aliases":["🌀 on the present & future of authentic and transformative learning"],"dg-publish":true,"notestage":["🌱"],"created":"2024-04-13T13:36:49.487-03:00","updated":"2024-12-03T15:27:36.889-03:00","permalink":"/core-essays/on-the-present-and-future-of-authentic-and-transformative-learning-tools-resources-and-pathways/","dgPassFrontmatter":true}
+{"created in":"2024-04-13T13:36:49-03:00","last tended to":"2024-09-24T16:19:26-03:00","tags":["essay","learning","education","🌱"],"aliases":["🌀 on the present & future of authentic and transformative learning"],"dg-publish":true,"notestage":["🌱"],"created":"2024-04-13T13:36:49.487-03:00","updated":"2025-01-24T16:42:30.981-03:00","permalink":"/core-essays/on-the-present-and-future-of-authentic-and-transformative-learning-tools-resources-and-pathways/","dgPassFrontmatter":true}
 ---
 
 #### intro & context
@@ -12,7 +12,7 @@ institutionalized [[education\|education]] is a very impactful area of our world
 
 but the discussion about systemic impacts of our existing educational design and emergent approaches will come later. after all, we create institutions, pedagogies, tools, resources and support networks, precisely to support individuals in their learning processes.
 
-for now, there are many resources out there on [[unschooling\|unschooling]], [[homeschooling\|homeschooling]] and [[topics/player/self-directed learning\|self-directed learning]]. in brazil, there are many folks doing amazing work on this direction such as [[people/acquaintances/alex bretas\|alex bretas]] and [[people/acquaintances/luis sérgio ferreira\|luis sérgio ferreira]], as well as transformative [[topics/player/pedagogical approaches\|pedagogical approaches]] such as [[models & frameworks/host/pedagogia do oprimido\|pedagogy of the oppressed]] and [[models & frameworks/host/pedagogia da cooperação\|cooperation pedagogy]] that add to the more disseminated [[montessori\|montessori]], [[models & frameworks/host/waldorf\|waldorf]], [[constructivism\|constructivist]] approaches. beyond their bright contributions to the field, from my own experience of growing up being obsessed with [[topics/player/gaming\|gaming]] and seeing how much it both developed and hindered my [[cognitive processes\|cognitive processes]], i'm particularly interested in the role of [[concepts/player/game\|games]] and [[topics/design/technology\|technology]] in learning.
+for now, there are many resources out there on [[unschooling\|unschooling]], [[homeschooling\|homeschooling]] and [[topics/player/self-directed learning\|self-directed learning]]. in brazil, there are many folks doing amazing work on this direction such as [[people/acquaintances/alex bretas\|alex bretas]] and [[people/acquaintances/luis sérgio ferreira\|luis sérgio ferreira]], as well as transformative [[topics/player/pedagogical approaches\|pedagogical approaches]] such as [[models & frameworks/host/pedagogia do oprimido\|pedagogy of the oppressed]] and [[models & frameworks/host/cooperation pedagogy\|cooperation pedagogy]] that add to the more disseminated [[montessori\|montessori]], [[models & frameworks/host/waldorf\|waldorf]], [[constructivism\|constructivist]] approaches. beyond their bright contributions to the field, from my own experience of growing up being obsessed with [[topics/player/gaming\|gaming]] and seeing how much it both developed and hindered my [[cognitive processes\|cognitive processes]], i'm particularly interested in the role of [[concepts/player/game\|games]] and [[topics/design/technology\|technology]] in learning.
 
 there are many fields that deepen this understanding, such as [[responses/player/serious games\|serious games]], (...), [[topics/player/computer supported collaborative learning\|computer supported collaborative learning]], but where i found the most enlightening perspectives/literature was in the studies of [[cognitive science\|cognitive science]], [[concepts/design/extended cognition\|extended cognition]], [[topics/lab/personal knowledge management\|personal knowledge management]] and [[responses/lab/tools for thought\|tools for thought]].
 
@@ -60,7 +60,7 @@ researchers/practitioners such as [[people/references/lab/maggie appleton\|maggi
 
 [[people/references/lab/jacky zhao\|jacky zhao]]'s ideas and curation on [[research debt\|research debt]], [[knowledge distillation\|knowledge distillation]], [[interoperability\|interoperability]], [[composability\|composability]], [[topics/design/distributed systems\|distributed systems]] and [[topics/lab/human-computer interaction\|human-computer interaction]].
 
-\+ speculative designs/prototypes such as [[projects & tools/projects/design/xanadu\|project xanadu]], [[projects & tools/projects/design/wonderOS\|wonderOS]], [[projects & tools/projects/design/mercuryOS\|mercuryOS]], [[projects & tools/projects/lab/codexOS\|codexOS]], and my own [[_004_L1F3/l1f3 operating system\|l1f3 OS]].
+\+ speculative designs/prototypes such as [[projects & tools/projects/design/xanadu\|project xanadu]], [[projects & tools/projects/lab/wonderOS\|wonderOS]], [[projects & tools/projects/design/mercuryOS\|mercuryOS]], [[projects & tools/projects/lab/codexOS\|codexOS]], and my own [[_004_L1F3/l1f3 operating system\|l1f3 OS]].
 
 \+ other researchers such as: [[people/references/architect;design/raghav agrawal\|raghav agrawal]], [[people/references/lab/omar rizwan\|omar rizwan]], [[serj hunt\|serj hunt]] and pretty much anyone associated with the [[initiatives, orgs & communities/lab/ink & switch\|ink & switch]] lab.
 
@@ -87,7 +87,7 @@ discovery-driven, insight-driven, learner-driven, proposition-driven, provocatio
 
 who is doing it, and how?
 
--> [[globe engineer\|globe engineer]]
+-> [[projects & tools/tools/lab/globe engineer\|globe engineer]]
 -> [[initiatives, orgs & communities/design/sublime (ex-startupy)\|sublime]]
 -> [[projects & tools/tools/player/learn anything\|learn anything]]
 

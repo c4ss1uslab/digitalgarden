@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-07-30T21:38:54-03:00","last tended to":"2024-10-22T19:55:34-03:00","tags":["🌱"],"dg-publish":true,"notestage":["🌱"],"created":"2022-07-30T21:38:54.771-03:00","updated":"2025-01-22T17:10:52.216-03:00","permalink":"/003-research/05-core-references-and-resources/","dgPassFrontmatter":true}
+{"created in":"2022-07-30T21:38:54-03:00","last tended to":"2024-10-22T19:55:34-03:00","tags":["🌱"],"dg-publish":true,"notestage":["🌱"],"created":"2022-07-30T21:38:54.771-03:00","updated":"2025-01-24T17:32:26.882-03:00","permalink":"/003-research/05-core-references-and-resources/","dgPassFrontmatter":true}
 ---
 
 ```ad-warning
@@ -11,10 +11,10 @@ the contents of the writing below are currently haphazard, disjointed and all ov
 
 pages (more contextual):
 -> see refs below
-\+ [[projects & tools/tools/lab/raindrop\|raindrop]] interneto-like bookmarks (coming soon)
+\+ [[projects & tools/tools/lab/raindrop\|raindrop]] [[projects & tools/projects/lab/interneto\|interneto]]-like bookmarks (coming soon)
 
 tools/orgs:
--> [[responses/lab/personal tech stack\|personal tech stack]] -> [[_001_MOCs/050 🟩 mid game/080 ⚒ tools MOC\|080 ⚒ tools MOC]] ([[_005_c4ss1us/c4ss1us' tech stack notion database\|c4ss1us' tech stack notion database]])
+-> [[concepts/lab/personal tech stack\|personal tech stack]] -> [[_001_MOCs/050 🟩 mid game/080 ⚒ tools MOC\|080 ⚒ tools MOC]] ([[_005_c4ss1us/c4ss1us' tech stack notion database\|c4ss1us' tech stack notion database]])
 
 
 a few different views:
@@ -308,7 +308,7 @@ https://codeberg.org/teaserbot-labs/delightful-humane-design
 
 ---
 #### 2nd layer - open explorations:
-[OSE Apprenticeship | Open Source Ecology](https://www.opensourceecology.org/ose-apprenticeship/) / [[cohere network\|cohere network]]
+[OSE Apprenticeship | Open Source Ecology](https://www.opensourceecology.org/ose-apprenticeship/) / [[projects & tools/projects/regen/appropedia\|appropedia]] / [[cohere network\|cohere network]]
 
 [[initiatives, orgs & communities/regen/global ecovillage network (GEN)\|global ecovillage network (GEN)]] / [[IC\|IC]] / [[worldpackers\|worldpackers]] / [[workaway\|workaway]]
 
@@ -411,7 +411,7 @@ by topic:
 
 - [[terms/work\|work]]/[[economy\|economy]] (42)
 
-- [[web3 1\|web3 1]]/[[topics/design/crypto\|crypto]] (20)
+- [[topics/design/web3\|web3]]/[[topics/design/crypto\|crypto]] (20)
 
 - [[future of\|future of]] (35)
 
@@ -439,7 +439,7 @@ A - [[Computation\|Computation]]
 A.A - [[Quantum Technology\|Quantum Technology]]
 A.B - [[GPU Chips\|GPU Chips]]
 A.C - [[IOT & Sensors\|IOT & Sensors]]
-A.D - [[XR 1\|XR 1]] ([[AR\|AR]]/[[VR\|VR]])
+A.D - [[topics/lab/XR\|XR]] ([[AR\|AR]]/[[VR\|VR]])
 A.E - [[5G Communications\|5G Communications]]
 A.F - [[Blockchain & Distributed Ledger Tech\|Blockchain & Distributed Ledger Tech]]
 B - [[topics/lab/robotics\|robotics]]

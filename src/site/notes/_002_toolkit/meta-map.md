@@ -1,5 +1,5 @@
 ---
-{"aliases":["🗺 meta-map","wordcloud","🗾 meta-map"],"created in":"2022-01-03T19:16:10-03:00","last tended to":"2024-09-29T14:42:57-03:00","tags":["design","🌿","research","knowledgedesign","informationdesign","experiment"],"dg-publish":true,"notestage":["🌿"],"created":"2022-01-03T19:16:10.550-03:00","updated":"2025-01-22T15:26:38.769-03:00","permalink":"/002-toolkit/meta-map/","dgPassFrontmatter":true}
+{"aliases":["🗺 meta-map","wordcloud","🗾 meta-map"],"created in":"2022-01-03T19:16:10-03:00","last tended to":"2024-09-29T14:42:57-03:00","tags":["design","🌿","research","knowledgedesign","informationdesign","experiment"],"dg-publish":true,"notestage":["🌿"],"created":"2022-01-03T19:16:10.550-03:00","updated":"2025-01-24T16:49:50.326-03:00","permalink":"/002-toolkit/meta-map/","dgPassFrontmatter":true}
 ---
 
 an extensive list / experimental form of intuitive clustering of all major themes/domains and references i'm working with.
@@ -45,7 +45,7 @@ added:
 
 [[local-first\|local-first]], [[modular\|modular]], [[p2p\|p2p]] software
 
-[[responses/lab/personal tech stack\|personal tech stack]] / [[personal data infrastructure\|personal data infrastructure]]
+[[concepts/lab/personal tech stack\|personal tech stack]] / [[personal data infrastructure\|personal data infrastructure]]
 
 [[personal systems\|personal systems]] / [[personal workflows\|personal workflows]]
 
@@ -196,7 +196,7 @@ added:
 [[ownership\|ownership]]
 [[customization\|customization]]
 [[modularity\|modularity]]
-[[agent-centric design\|agent-centric design]]
+[[concepts/design/agent-centric design\|agent-centric design]]
 
 [[distributed cognition\|distributed cognition]]
 [[concepts/design/extended cognition\|extended cognition]]
@@ -290,7 +290,7 @@ added:
 
 [[productive output\|productive output]]
 
-[[models & frameworks/design/forms of capital\|forms of capital]]
+[[models & frameworks/design/8 forms of capital\|8 forms of capital]]
 
 [[content\|content]]
 
@@ -597,7 +597,7 @@ added:
 [[arenas\|arenas]]
 [[labyrinths\|labyrinths]]
 [[tools\|tools]]
-[[resources\|resources]]
+[[concepts/design/resources\|resources]]
 
 [[concepts/alchemy/multidimensional artifacts\|multidimensional artifacts]]
 [[multidimensional objects\|multidimensional objects]]
@@ -641,7 +641,7 @@ added:
 [[decide\|decide]]
 [[act\|act]]
 
-[[resources\|resources]]
+[[concepts/design/resources\|resources]]
 [[concepts/design/assets\|assets]]
 
 [[input\|input]]

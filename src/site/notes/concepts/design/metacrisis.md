@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-10-31T15:56:54-03:00","last tended to":"2024-11-06T18:52:18-03:00","dg-publish":true,"aliases":["personal and civilizational crises","systemic crises"],"tags":["concept","metacrisis"],"relevancescore":98,"notestage":["🌿"],"created":"2023-10-31T15:56:54.956-03:00","updated":"2025-01-22T15:20:41.636-03:00","permalink":"/concepts/design/metacrisis/","dgPassFrontmatter":true}
+{"created in":"2023-10-31T15:56:54-03:00","last tended to":"2024-11-06T18:52:18-03:00","dg-publish":true,"aliases":["personal and civilizational crises","systemic crises"],"tags":["concept","metacrisis"],"relevancescore":98,"notestage":["🌿"],"created":"2023-10-31T15:56:54.956-03:00","updated":"2025-01-24T17:40:46.167-03:00","permalink":"/concepts/design/metacrisis/","dgPassFrontmatter":true}
 ---
 
 ##### about
@@ -39,6 +39,8 @@ other references that are briefly introduced in the playlist and that deserve ve
 [[people/references/alchemy/john vervaeke\|john vervaeke]] - [[diagnosis/meaning crisis\|meaning crisis]] - lots of good content from around it, more useful for understanding/navigating the (inner) psychological crises of our time.
 
 [[jonathan rowson\|jonathan rowson]] - [tasting the pickle: ten flavours of meta-crisis and the appetite for a new civilisation](https://systems-souls-society.com/tasting-the-pickle-ten-flavours-of-meta-crisis-and-the-appetite-for-a-new-civilisation/)
+
+[[josh williams\|josh williams]]'s [an introduction to the metacrisis](https://sites.google.com/view/intro-to-the-metacrisis) introduces it pretty well especially from the perspective of [[terms/catastrophic risk\|catastrophic]] and [[concepts/design/existential risk\|existential risks]].
 
 [[josh field\|josh field]] - [[concepts/design/flow crisis\|flow crisis]] - a few less-known but very interesting/valuable perspectives on it.
 

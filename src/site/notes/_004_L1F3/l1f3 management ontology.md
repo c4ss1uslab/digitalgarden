@@ -124,4 +124,4 @@ inspired by the [[models & frameworks/player/fourgames\|fourgames]] framework, t
 - [[feelings\|feelings]]/[[emotions\|emotions]]
 - [[activity\|activity]]
 
-and finally, inspired by [[references/player/anime ; manga ; webtoon/solo leveling\|solo leveling]]/[[nanomachine\|nanomachine]]'s player system and [[references/player/anime ; manga ; webtoon/sword art online\|sword art online]]'s yui/iron man's [[jarvis\|jarvis]], i created the [[_002_toolkit/000 ⛓ l1f3 player toolkit\|L1F3 player toolkit]] - i.e. a toolbox for playing life in more conscious, effective, collaborative, fun and purposeful ways.
+and finally, inspired by [[references/player/anime;manga;webtoon/solo leveling\|solo leveling]]/[[nanomachine\|nanomachine]]'s player system and [[references/player/anime;manga;webtoon/sword art online\|sword art online]]'s yui/iron man's [[jarvis\|jarvis]], i created the [[_002_toolkit/000 ⛓ l1f3 player toolkit\|L1F3 player toolkit]] - i.e. a toolbox for playing life in more conscious, effective, collaborative, fun and purposeful ways.

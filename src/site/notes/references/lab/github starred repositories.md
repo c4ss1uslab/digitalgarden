@@ -18,7 +18,7 @@ organized into 18 lists:
 [[topics/design/research\|research]] & [[discovery\|discovery]] - 16 repositories
 [[topics/design/web3\|web3]] / [[topics/design/distributed systems\|distributed systems]] / [[p2p\|p2p]] - 14 repositories
 [[responses/lab/dashboards\|dashboards]] / [[topics/lab/UI design\|UI design]] - 12 repositories
-[[topics/lab/recommender systems\|recommender systems]] / [[topics/lab/algorithms\|algorithms]] - 11 repositories
+[[responses/lab/recommender systems\|recommender systems]] / [[topics/lab/algorithms\|algorithms]] - 11 repositories
 [[utility tools\|utility]] / [[topics/design/collaboration tools\|collaboration tools]] - 10 repositories
 [[patterns/active patterns/knowledge design/digital gardening\|dgardens]] / [[patterns/active patterns/knowledge management/building a second brain\|2nd brains]] / [[personal websites\|personal websites]] - 9 repositories
 [[OS\|OS]] / [[projects & tools/tools/lab/linux\|linux]] - 5 repositories

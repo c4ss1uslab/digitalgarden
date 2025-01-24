@@ -1,5 +1,5 @@
 ---
-{"aliases":["🗺 life map","life map","🗺 collaborative life map"],"created in":"2021-12-11T16:51:55-03:00","last tended to":"2023-12-24T16:56:26-03:00","created":"2021-12-11T16:51:55.469-03:00","updated":"2025-01-22T12:43:03.585-03:00","tags":["prototype","🌱","design","mapping"],"notestage":["🌱"],"dg-publish":true,"permalink":"/prototypes-and-designs/made-by-me/collaborative-life-map/","dgPassFrontmatter":true}
+{"aliases":["🗺 life map","life map","🗺 collaborative life map"],"created in":"2021-12-11T16:51:55-03:00","last tended to":"2023-12-24T16:56:26-03:00","created":"2021-12-11T16:51:55.469-03:00","updated":"2025-01-24T15:57:55.302-03:00","tags":["prototype","🌱","design","mapping","research","curation","sensemaking","socialsensemaking"],"notestage":["🌱"],"dg-publish":true,"relevancescore":95,"permalink":"/prototypes-and-designs/made-by-me/collaborative-life-map/","dgPassFrontmatter":true}
 ---
 
 related: [[projects & tools/made by me/lab/reality mapping\|reality mapping]] / [[_004_L1F3/l1f3 management ontology\|l1f3 management ontology]]
@@ -29,3 +29,18 @@ life itself's [[responses/design/second renaissance\|2R]] ecosystem map + adjace
 
 perspective 4: [[_006_core notes/theories of change\|theories of change]]
 [[initiatives, orgs & communities/regen/culture hack labs\|culture hack labs]] / [[initiatives, orgs & communities/regen/gesturing towards decolonial futures\|gtdf collective]]
+
+----
+##### references
+
+[[connected papers\|connected papers]]
+[[projects & tools/tools/lab/litmaps\|litmaps]]
+[[projects & tools/tools/lab/open knowledge maps\|open knowledge maps]]
+[[initiatives, orgs & communities/design/the society library\|the society library]]
+[[projects & tools/tools/lab/catalist network\|catalist network]]
+[[projects & tools/tools/lab/atlas (nomic)\|atlas (nomic)]]
+[[initiatives, orgs & communities/design/golden\|golden]]
+[[initiatives, orgs & communities/design/sublime (ex-startupy)\|sublime (ex-startupy)]]
+[[projects & tools/projects/design/sensenets\|sensenets]]
+[[projects & tools/tools/lab/community archive\|community archive]]
+[[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social (ex-tweetscape)]]

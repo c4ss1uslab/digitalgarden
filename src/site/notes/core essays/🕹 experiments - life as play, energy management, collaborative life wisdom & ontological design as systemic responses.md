@@ -79,7 +79,7 @@ a few communities that practice this in some way:
 - chatGPT code interpreter [personal data analysis, sensemaking] / discovery algorithms/newsletters/follows [curadoria]
 - emotional / spiritual ([[heartmath\|heartmath]], PM practices, integral dashboard, coaching)
 
-[[jarvis\|jarvis]] vs [[references/player/anime ; manga ; webtoon/solo leveling\|solo leveling]] player system / [[nanomachine\|nanomachine]] / [[blue lock\|blue lock]] 
+[[jarvis\|jarvis]] vs [[references/player/anime;manga;webtoon/solo leveling\|solo leveling]] player system / [[nanomachine\|nanomachine]] / [[blue lock\|blue lock]] 
 
 [[topics/lab/AI agents\|AI agents]]
 

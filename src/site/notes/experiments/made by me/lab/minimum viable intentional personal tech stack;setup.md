@@ -1,12 +1,12 @@
 ---
-{"created in":"2024-05-22T17:08:04-03:00","last tended to":"2024-10-24T21:59:42-03:00","tags":["experiment","research","design","technology","lab"],"aliases":["tech stack","tech stack;setup","intentional tech stack;setup","minimum viable intentional tech stack;setup"],"created":"2024-05-22T17:08:04.058-03:00","updated":"2024-11-22T19:42:28.582-03:00","dg-publish":true,"permalink":"/experiments/made-by-me/lab/minimum-viable-intentional-personal-tech-stack-setup/","dgPassFrontmatter":true}
+{"created in":"2024-05-22T17:08:04-03:00","last tended to":"2024-10-24T21:59:42-03:00","tags":["experiment","research","design","technology","lab","🌱"],"aliases":["tech stack","tech stack;setup","intentional tech stack;setup","minimum viable intentional tech stack;setup","💻 minimum viable intentional personal tech stack;setup"],"created":"2024-05-22T17:08:04.058-03:00","updated":"2025-01-24T16:39:30.273-03:00","dg-publish":true,"relevancescore":94,"notestage":["🌱"],"permalink":"/experiments/made-by-me/lab/minimum-viable-intentional-personal-tech-stack-setup/","dgPassFrontmatter":true}
 ---
 
 see: [[digital environment design\|digital environment design]]
 
 #### about
 
-this has been a long-standing research/experiment of mine as to what is the minimum set of viable digital technologies ([[responses/lab/personal tech stack\|personal tech stack]]) for an [[intentional\|intentional]] [[personal computing\|personal computing]] setup.
+this has been a long-standing research/experiment of mine as to what is the minimum set of viable digital technologies ([[concepts/lab/personal tech stack\|personal tech stack]]) for an [[intentional\|intentional]] [[personal computing\|personal computing]] setup.
 
 we're talking [[desktop\|desktop]], [[mobile\|mobile]] and everything in-between.
 
@@ -42,7 +42,7 @@ y saved videos (youtube)
 ---
 ### setup under consideration
 
-in 2020, i created a (now outdated) [[prototypes & designs/made by me/notion personal tech stack database\|notion personal tech stack database]] as part of the [[projects & tools/made by me/notion life management system\|notion life management system]]. i will eventually update it with my most recent curation and setup, especially as i move it to [[anytype\|anytype]] or some other form of user-owned local software that does [[relational database\|relational database]] management (possibly [[tbprocessed/base notes/ventures - general/obsidian\|obsidian]]/[[projects & tools/tools/lab/logseq\|logseq]]/[[dendron\|dendron]] with plugins, or a custom solution in the future).
+in 2020, i created a (now outdated) [[prototypes & designs/made by me/notion personal tech stack database\|notion personal tech stack database]] as part of the [[projects & tools/made by me/notion life management system\|notion life management system]]. i will eventually update it with my most recent curation and setup, especially as i move it to [[projects & tools/tools/lab/anytype\|anytype]] or some other form of user-owned local software that does [[relational database\|relational database]] management (possibly [[tbprocessed/base notes/ventures - general/obsidian\|obsidian]]/[[projects & tools/tools/lab/logseq\|logseq]]/[[dendron\|dendron]] with plugins, or a custom solution in the future).
 
 for now, i'm compiling the tools i've seen/wanted to test here and will slowly adding metadata to them.
 

@@ -1,8 +1,8 @@
 ---
-{"created":"2021-12-11T16:51:53.081-03:00","updated":"2025-01-22T13:44:41.233-03:00","tags":["🌱","mapping","metaphysics","epistemology","alchemy","design","project","curation","research","sensemaking"],"notestage":["🌱"],"relevancescore":96,"dg-publish":true,"permalink":"/projects-and-tools/made-by-me/lab/reality-mapping/","dgPassFrontmatter":true}
+{"created":"2021-12-11T16:51:53.081-03:00","updated":"2025-01-24T15:58:41.696-03:00","tags":["🌱","mapping","metaphysics","epistemology","alchemy","design","project","curation","research","sensemaking"],"notestage":["🌱"],"relevancescore":96,"dg-publish":true,"permalink":"/projects-and-tools/made-by-me/lab/reality-mapping/","dgPassFrontmatter":true}
 ---
 
-see also: [[responses/lab/mapping\|mapping]]
+see also: [[responses/lab/mapping\|mapping]], [[projects & tools/made by me/lab/internet mapping\|internet mapping]], [[prototypes & designs/made by me/collaborative life map\|collaborative life map]]
 
 ---
 **what are foundational ways we can map reality itself?**

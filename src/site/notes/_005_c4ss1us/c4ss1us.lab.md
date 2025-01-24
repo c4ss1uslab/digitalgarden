@@ -17,13 +17,13 @@ how can technology support [[topics/design/regeneration\|regenerative]] [[_004_L
 
 [[topics/design/distributed systems\|distributed]]/[[decentralized systems\|decentralized systems design]] -> [[diagnosis/self-terminating economic system\|economic systems]], [[governance systems\|governance systems]], [[knowledge systems\|knowledge systems]], [[information systems\|information systems]]
 
-[[responses/lab/personal tech stack\|personal & collective tech stacks]] -> [[personal computing\|personal computing]] -> [[responses/lab/permacomputing\|permacomputing]] / [[topics/design/distributed systems\|distributed systems]]
+[[concepts/lab/personal tech stack\|personal & collective tech stacks]] -> [[personal computing\|personal computing]] -> [[responses/lab/permacomputing\|permacomputing]] / [[topics/design/distributed systems\|distributed systems]]
 
 3) [[_004_L1F3/core concepts/self-management\|self-management]] & [[topics/design/collaboration tools\|collaboration tools]]
 
 [[tools for extended cognition\|tools for extended cognition]] -> [[models & frameworks/design/OODA loop\|OODA loop]] augmentation / [[models & frameworks/design/DIKW pyramid\|DIKW]] management ([[concepts/alchemy/sensemaking\|sensemaking]], [[topics/lab/information management\|information management]], [[knowledge development\|knowledge development]], [[wisdom development\|wisdom development]])
 
-[[_004_L1F3/core concepts/life management\|life management]] -> [[_004_L1F3/l1f3 management ontology\|l1f3 management ontology]] & [[_002_toolkit/000 ⛓ l1f3 player toolkit\|toolkit]], [[concepts/lab/memex\|memex]], [[co-pilot\|co-pilot]], [[topics/lab/recommender systems\|recommender systems]], [[responses/lab/dashboards\|dashboards]] & more
+[[_004_L1F3/core concepts/life management\|life management]] -> [[_004_L1F3/l1f3 management ontology\|l1f3 management ontology]] & [[_002_toolkit/000 ⛓ l1f3 player toolkit\|toolkit]], [[concepts/lab/memex\|memex]], [[co-pilot\|co-pilot]], [[responses/lab/recommender systems\|recommender systems]], [[responses/lab/dashboards\|dashboards]] & more
 
 ---
 #### key guiding directions/ideas:
@@ -38,7 +38,7 @@ how can technology support [[topics/design/regeneration\|regenerative]] [[_004_L
 
 3) what is the role of computers and computation in a [[regenerative society\|regenerative society]]?
 
-a humane [[dynamic medium\|dynamic medium]]: one that integrates [[responses/lab/dynamic visualizations\|dynamic visualizations]], [[world models\|world models]], [[knowledge representations\|knowledge representations]], [[topics/lab/spatial computing\|spatial computing]], [[concepts/design/extended cognition\|extended cognition]] and more to effectively... (see below)
+a humane [[concepts/lab/dynamic medium\|dynamic medium]]: one that integrates [[responses/lab/dynamic visualizations\|dynamic visualizations]], [[world models\|world models]], [[knowledge representations\|knowledge representations]], [[topics/lab/spatial computing\|spatial computing]], [[concepts/design/extended cognition\|extended cognition]] and more to effectively... (see below)
 
 4) how might we empower ourselves and our communities to navigate the [[concepts/design/metacrisis\|metacrisis]] and create [[omni-win systems\|omni-win systems]]?
  

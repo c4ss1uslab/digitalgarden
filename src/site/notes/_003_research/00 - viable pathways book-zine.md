@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-03-25T13:53:56-03:00","last tended to":"2024-10-06T02:11:50-03:00","tags":["🌿"],"aliases":["viable pathways","viable pathways zine","viable pathways book-zine","viable pathways book-zine mvp","book-zine"],"dg-publish":true,"notestage":["🌿"],"created":"2022-03-25T13:53:56.444-03:00","updated":"2025-01-22T15:26:38.895-03:00","permalink":"/003-research/00-viable-pathways-book-zine/","dgPassFrontmatter":true}
+{"created in":"2022-03-25T13:53:56-03:00","last tended to":"2024-10-06T02:11:50-03:00","tags":["🌿"],"aliases":["viable pathways","viable pathways zine","viable pathways book-zine","viable pathways book-zine mvp","book-zine"],"dg-publish":true,"notestage":["🌿"],"created":"2022-03-25T13:53:56.444-03:00","updated":"2025-01-24T16:45:50.636-03:00","permalink":"/003-research/00-viable-pathways-book-zine/","dgPassFrontmatter":true}
 ---
 
 #### ⚠ coming soon!
@@ -70,7 +70,7 @@ for the past 5 years i've been devoting my life to researching what is [[human f
 
 despite the boldness of the task and my humbleness to state that i don't have definitive answers, i’m happy to share what i discovered from it. since then, i've gained hints of profound clarity on some *partial, yet useful answers*, as well as on the [[_001_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|challenges]] and [[_001_MOCs/025 🔷 long game/035 🔭 missions MOC\|missions]] i decided to work towards. (might we collaborate on some of them? 🙃)
 
-this is my compilation of the findings, resources and references i found most valuable on this journey. it's also part of my effort of designing and living my life as an [[experiments/made by me/player/open-source human experiment\|open-source human]] - this content intends to establish the foundational knowledge commons for the [[tbprocessed/base notes/ventures - proprietary/reality disruption labs\|reality disruption labs]] - a public [[_004_L1F3/core concepts/life intelligence\|life intelligence]] collaboratory and [[responses/design/metamodern guild\|metamodern guild]] for [L1F3 players](https://c4ss1us.notion.site/l1f3-players-unite-67b9592280554dc98a7e71918c1204c0) i've been co-creating.
+this is my compilation of the findings, resources and references i found most valuable on this journey. it's also part of my effort of designing and living my life as an [[experiments/made by me/player/open-source human experiment\|open-source human]] - this content intends to establish the foundational knowledge commons for the [[tbprocessed/base notes/ventures - proprietary/reality disruption labs\|reality disruption labs]] - a public [[_004_L1F3/core concepts/life intelligence\|life intelligence]] collaboratory and [[responses/design/metamodern guilds\|metamodern guilds]] for [L1F3 players](https://c4ss1us.notion.site/l1f3-players-unite-67b9592280554dc98a7e71918c1204c0) i've been co-creating.
 
 you can explore this research on [different levels], based on your [background] experience as well.
 
@@ -201,7 +201,7 @@ in integral, they talk about the [[fourth turning of buddhism\|fourth turning of
 
 [[human potential\|human potential]] / [[self-realization\|self-realization]]
 
-a spectrum of rigorous scientific research on [[concepts/alchemy/non-ordinary states of consciousness\|non-ordinary states of consciousness]] such as [[MAPS\|MAPS]], the [[flow genome project\|flow genome project]] and [[initiatives, orgs & communities/design/qualia research institute\|qualia research institute]].
+a spectrum of rigorous scientific research on [[concepts/alchemy/non-ordinary states of consciousness\|non-ordinary states of consciousness]] such as [[MAPS\|MAPS]], the [[flow genome project\|flow genome project]] and [[initiatives, orgs & communities/alchemy/qualia research institute\|qualia research institute]].
 
 to some spiritual teachers like [[eckhart tolle\|eckhart tolle]], [[mooji\|mooji]], [[sadhguru\|sadhguru]], [[osho\|osho]], [[krishnamurti\|krishnamurti]], [[michael singer\|michael singer]], etc...
 
@@ -282,7 +282,7 @@ other qualitative words descriptive of this research:
 
 a few of the main related themes are:
 [[regenerative systems design\|regenerative systems design]], [[personal sovereignty\|personal sovereignty]], [[food sovereignty\|food sovereignty]], [[energetic sovereignty\|energetic sovereignty]], [[attentional sovereignty\|attentional sovereignty]], [[personal agency\|personal agency]]
-[[open-source\|open-source]], [[disruptive technologies\|disruptive technologies]], [[regenerative technologies\|regenerative technologies]], [[humane tech\|humane tech]], [[topics/design/distributed systems\|distributed systems]], [[operating systems\|operating systems]], [[agent-centric design\|agent-centric design]]
+[[open-source\|open-source]], [[disruptive technologies\|disruptive technologies]], [[regenerative technologies\|regenerative technologies]], [[humane tech\|humane tech]], [[topics/design/distributed systems\|distributed systems]], [[operating systems\|operating systems]], [[concepts/design/agent-centric design\|agent-centric design]]
 [[topics/design/ontological design\|ontological design]], [[models & frameworks/design/metadesign\|metadesign]], [[social systems\|social systems]], [[civilization cycles\|civilization cycles]], [[societal collapse\|societal collapse]], [[topics/player/game theory\|game theory]], [[concepts/design/existential risk\|existential risk]], [[_004_L1F3/core concepts/civilization design\|civilization design]]
 [[_004_L1F3/core concepts/self-transformation\|_004_L1F3/core concepts/self-transformation]], [[concepts/alchemy/self-transformation\|concepts/alchemy/self-transformation]], [[consciousness expansion\|consciousness expansion]], [[concepts/alchemy/non-ordinary states of consciousness\|non-ordinary states of consciousness]], [[topics/alchemy/trauma healing\|trauma healing]], [[psychological development\|psychological development]], [[transpersonal psychology\|transpersonal psychology]], [[concepts/alchemy/psychospiritual tools & practices\|psychospiritual tools & practices]]
 [[concepts/alchemy/embodied cognition\|embodied cognition]], [[concepts/design/extended cognition\|extended cognition]], [[orientation\|orientation]], [[concepts/alchemy/sensemaking\|sensemaking]], [[terms/decision-making\|decision-making]], [[cognitive offloading\|cognitive offloading]], [[topics/player/self-directed learning\|self-directed learning]] processes

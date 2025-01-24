@@ -33,5 +33,5 @@ player resources:
 
 references:
 
-[[references/player/anime ; manga ; webtoon/solo leveling\|solo leveling]]'s player system
-\+ personal assistants: [[iron man\|iron man]]'s [[jarvis\|jarvis]], [[references/player/anime ; manga ; webtoon/sword art online\|sword art online]]'s yui, [[genshin impact\|genshin impact]]'s paimon, [[nanomachine\|nanomachine]] AI system.
+[[references/player/anime;manga;webtoon/solo leveling\|solo leveling]]'s player system
+\+ personal assistants: [[iron man\|iron man]]'s [[jarvis\|jarvis]], [[references/player/anime;manga;webtoon/sword art online\|sword art online]]'s yui, [[genshin impact\|genshin impact]]'s paimon, [[nanomachine\|nanomachine]] AI system.

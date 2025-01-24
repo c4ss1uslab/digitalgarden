@@ -69,7 +69,7 @@ categories of personal systems:
 - [[prototypes & designs/made by me/on hold/notion + obsidian integration\|notion + obsidian integration]]
 
 \+ [[topics/lab/quantified self\|quantified self]] compilations
-[[responses/lab/personal tech stack\|personal tech stack]] / setups
+[[concepts/lab/personal tech stack\|personal tech stack]] / setups
 
 ##### system workflows/modules
 

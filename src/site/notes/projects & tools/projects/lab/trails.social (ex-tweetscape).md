@@ -12,7 +12,7 @@
 
 #### context
 
-a discontinued yet very, very interesting prototype for an alternative [[projects & tools/tools/lab/twitter\|twitter]] feed made by a few folks at [[roote\|roote]]. a major reference for [[responses/design/personal algorithms design\|personal algorithms design]] and [[topics/lab/recommender systems\|recommender systems]].
+a discontinued yet very, very interesting prototype for an alternative [[projects & tools/tools/lab/twitter\|twitter]] feed made by a few folks at [[roote\|roote]]. a major reference for [[responses/design/personal algorithms design\|personal algorithms design]] and [[responses/lab/recommender systems\|recommender systems]].
 
 **good intro:** https://www.roote.co/tweetscape/vision
 

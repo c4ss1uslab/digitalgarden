@@ -16,5 +16,5 @@ how can it be applied consciously?
 
 ##### a few initial resources:
 
-[[initiatives, orgs & communities/design/qualia research institute\|qualia research institute]]
+[[initiatives, orgs & communities/alchemy/qualia research institute\|qualia research institute]]
 [An Integrated theory of false insights and beliefs under psychedelics](https://www.nature.com/articles/s44271-024-00120-6)

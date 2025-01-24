@@ -1,5 +1,5 @@
 ---
-{"aliases":["topics","fields","fields of knowledge"],"created in":"2021-12-11T16:52:03-03:00","last tended to":"2024-10-24T21:59:41-03:00","dg-publish":true,"tags":["🌿","selfmanagement"],"notestage":["🌿"],"created":"2021-12-11T16:52:03.339-03:00","updated":"2025-01-22T15:26:38.094-03:00","permalink":"/001-mo-cs/025-long-game/025-topics-and-references-moc/","dgPassFrontmatter":true}
+{"aliases":["topics","fields","fields of knowledge"],"created in":"2021-12-11T16:52:03-03:00","last tended to":"2024-10-24T21:59:41-03:00","dg-publish":true,"tags":["🌿","selfmanagement"],"notestage":["🌿"],"created":"2021-12-11T16:52:03.339-03:00","updated":"2025-01-24T17:55:48.375-03:00","permalink":"/001-mo-cs/025-long-game/025-topics-and-references-moc/","dgPassFrontmatter":true}
 ---
 
 on the contents below, the emojis mean different things. here's their caption:
@@ -46,10 +46,10 @@ level of depth:
 - 🌿 [[topics/alchemy/spiritual lineages\|wisdom traditions]] & [[ecologies of practices\|ecologies of practices]]
 > 🌿 [[responses/alchemy/integral theory\|integral meta-theory]] / [[concepts/alchemy/integral development\|integral development]]
 > 🌱 [[references/alchemy/first principles and first values\|first principles and first values]]
-> 🌱 [[]]
+> 🌱 [[responses/alchemy/hedonic engineering\|hedonic engineering]]
 - [[concepts/alchemy/healing\|healing]]/[[concepts/alchemy/cleaning up\|cleaning up]] practices
 > 🌿 [[entheogens\|entheogens]]
-- 🌿 [[_004_L1F3/core concepts/self-transformation\|_004_L1F3/core concepts/self-transformation]]
+- 🌿 [[_004_L1F3/core concepts/self-transformation\|self-transformation]]
 > 🧪 [[experiments/made by me/alchemy/archetypal matrix\|archetypal matrix]]
 > 🧪 [[experiments/made by me/design/minimum viable intentional personal systems design;setup\|minimum viable intentional personal systems design;setup]]
 
@@ -103,7 +103,7 @@ level of depth:
 	🔥 [[maps curation\|maps curation]] (twitter link)
 	🧪 [[prototypes & designs/made by me/collaborative life map\|collaborative life map]]
 	🧪 [[prototypes & designs/made by me/l1f3 projects' references map\|l1f3 projects' references map]]
-	🧪 [[prototypes & designs/made by me/on hold/IRDI\|IRDI - integral radar of developmental initiatives]]
+	🧪 [[prototypes & designs/made by me/on hold/integral radar of developmental initiatives\|IRDI - integral radar of developmental initiatives]]
 	🧪 [[prototypes & designs/made by me/omnichannel curation feed\|omnichannel curation feed]]
 	💡 [[tbprocessed/base notes/tools;products - proprietary/tools/research;visualization agent\|research;visualization agent]]
 	💡 [[twitter map\|twitter map]] ([[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social (ex-tweetscape)]] / [[projects & tools/tools/lab/community archive\|community archive]])
@@ -117,7 +117,7 @@ level of depth:
 	🔥 [[prototypes & designs/made by others/synapsis\|synapsis]]
 	🔥 [[initiatives, orgs & communities/design/protocol labs\|protocol labs]]
 	🔥 [[projects & tools/tools/lab/human programming interface\|human programming interface]]
-	💡 [[responses/lab/personal tech stack\|personal tech stack]]
+	💡 [[concepts/lab/personal tech stack\|personal tech stack]]
 🌱 [[topics/lab/programming\|programming]]
 
 #### 👨🏻‍🎨 [[_005_c4ss1us/c4ss.art\|.art]]
@@ -129,7 +129,7 @@ level of depth:
 🌱 [[videoscapes\|videoscapes]]
 	📂 [[_005_c4ss1us/c4ss1us.log ambience playlists\|_005_c4ss1us/c4ss1us.log ambience playlists]]
 🌱 [[topics/player/anime\|anime]] / [[topics/player/webtoons\|webtoons]]
-	🔥 [[the beginning after the end\|the beginning after the end]] / [[references/player/anime ; manga ; webtoon/overgeared\|overgeared]]
+	🔥 [[the beginning after the end\|the beginning after the end]] / [[references/player/anime;manga;webtoon/overgeared\|overgeared]]
 	🧪 [[_005_c4ss1us/c4ss1us - the webtoon\|.c4ss//webtoon]]
 🌱 [[topics/art/sound design\|sound design]]
 🌱 [[environment design\|environment design]]
@@ -196,7 +196,7 @@ level of depth:
 	💩 [[initiatives, orgs & communities/athlete/playfight\|playfight]]
 🌱 [[resource allocation\|resource allocation]] tools
 	🔥 [[models & frameworks/design/fluxonomy 4d\|fluxonomy 4d]]
-	🔥 [[metacurrency\|metacurrency]] / [[models & frameworks/design/forms of capital\|12 forms of capital]]
+	🔥 [[metacurrency\|metacurrency]] / [[models & frameworks/design/8 forms of capital\|12 forms of capital]]
 
 #### 🎶 [[_005_c4ss1us/c4ss.music\|.music]]
 
@@ -306,7 +306,7 @@ practice
 
 #### general topics:
 - [[social systems\|social systems]], [[concepts/design/infrastructure\|infrastructure]], [[concepts/design/superstructure\|superstructure]]
-[[structures\|structures]], [[topics/design/systems\|systems]], [[processes\|processes]], [[areas/relationships\|relationships]] & [[resources\|resources]]
+[[structures\|structures]], [[topics/design/systems\|systems]], [[processes\|processes]], [[areas/relationships\|relationships]] & [[concepts/design/resources\|resources]]
 	- [[terms/information\|information]]
 		- [[governance\|governance]]
 		- [[finance\|finance]]

@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-10-31T21:37:39-03:00","last tended to":"2024-09-24T16:19:41-03:00","dg-publish":true,"aliases":["🦸🏻‍♀️ design specs & constraints for economics"],"tags":["essay","economics","🌱"],"notestage":["🌱"],"permalink":"/core-essays/design-specs-and-constraints-for-enabling-minimum-viable-vocational-economies/","dgPassFrontmatter":true,"created":"2023-10-31T21:37:39.647-03:00","updated":"2024-09-24T16:19:41.643-03:00"}
+{"created in":"2023-10-31T21:37:39-03:00","last tended to":"2024-09-24T16:19:41-03:00","dg-publish":true,"aliases":["🦸🏻‍♀️ design specs & constraints for economics"],"tags":["essay","economics","🌱"],"notestage":["🌱"],"created":"2023-10-31T21:37:39.647-03:00","updated":"2025-01-24T16:49:51.789-03:00","permalink":"/core-essays/design-specs-and-constraints-for-enabling-minimum-viable-vocational-economies/","dgPassFrontmatter":true}
 ---
 
 draft link: https://medium.com/@cassiuscarvalho/design-specs-constraints-for-enabling-minimum-viable-vocational-economies-d4dda4867e23
@@ -30,14 +30,14 @@ this is a real challenge that i've struggled with a lot, not sure i found a comp
 
 funding the commons -> gitcoin, [[tea.xyz\|tea.xyz]].
 
-[[models & frameworks/design/forms of capital\|8 forms of capital]]
+[[models & frameworks/design/8 forms of capital\|8 forms of capital]]
 [[models & frameworks/design/fluxonomy 4d\|fluxonomy 4d]]
 [[tbprocessed/base notes/ventures - general/metacurrency project\|metacurrency project]]
 [[references/design/library of economic possibility\|library of economic possibility]]
 [[initiatives, orgs & communities/design/valueflows\|valueflows]]
 [[projects & tools/projects/design/gitcoin coordination mechanisms list\|gitcoin coordination mechanisms list]]
 https://tokenengineeringcommunity.github.io/website/docs/library-welcome
-the field of [[topics/design/refi\|refi]] as a whole + [[facilitation methodologies\|facilitation methodologies]] such as [[models & frameworks/host/pedagogia da cooperação\|pedagogia da cooperação]]
+the field of [[topics/design/refi\|refi]] as a whole + [[facilitation methodologies\|facilitation methodologies]] such as [[models & frameworks/host/cooperation pedagogy\|cooperation pedagogy]]
 
 experiments:
 - SEEDS (as a whole) + gratitude token (crypto/local currencies)

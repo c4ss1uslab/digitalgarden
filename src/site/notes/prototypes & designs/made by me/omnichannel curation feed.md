@@ -1,5 +1,5 @@
 ---
-{"aliases":["📲 omnichannel curation feed"],"created in":"2022-03-11T13:33:32-03:00","last tended to":"2024-09-24T16:05:37-03:00","tags":["prototype","🌱","design","sensemaking","datamanagement","visualization"],"dg-publish":true,"notestage":["🌱"],"permalink":"/prototypes-and-designs/made-by-me/omnichannel-curation-feed/","dgPassFrontmatter":true,"created":"2022-03-11T13:33:32.936-03:00","updated":"2024-09-24T16:05:37.783-03:00"}
+{"aliases":["📲 omnichannel curation feed"],"tags":["prototype","🌱","design","sensemaking","datamanagement","visualization"],"dg-publish":true,"notestage":["🌱"],"relevancescore":94,"created":"2022-03-11T13:33:32.936-03:00","updated":"2025-01-24T16:30:56.176-03:00","permalink":"/prototypes-and-designs/made-by-me/omnichannel-curation-feed/","dgPassFrontmatter":true}
 ---
 
 one of the main prototypes of the [[_004_L1F3/l1f3 streaming system\|l1f3 streaming system]].
@@ -7,7 +7,6 @@ one of the main prototypes of the [[_004_L1F3/l1f3 streaming system\|l1f3 stream
 related: [[prototypes & designs/made by me/content creation system;workflow\|content creation system;workflow]]
 
 ---
-
 ##### proto-sketches:
 
 on [[_007_illustrations & sketches/omnichannel curation feed sketch.excalidraw\|excalidraw]].
@@ -32,9 +31,9 @@ i took the agent vs the API route.
 huggingface spaces
 
 ---
-
 ##### major references:
 [[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social (ex-tweetscape)]]
+[[projects & tools/tools/lab/community archive\|community archive]]
 [[initiatives, orgs & communities/design/sublime (ex-startupy)\|sublime (ex-startupy)]]
 
 ##### other references:

@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-09-25T13:34:41-03:00","last tended to":"2024-10-30T18:31:34-03:00","tags":["🌱","economics","design","essay"],"dg-publish":true,"notestage":["🌱"],"created":"2023-09-25T13:34:41.895-03:00","updated":"2025-01-22T15:58:18.811-03:00","permalink":"/writings/on-the-limits-of-capitalism-and-emergent-forms-of-abundance-generation-and-distribution/","dgPassFrontmatter":true}
+{"created in":"2023-09-25T13:34:41-03:00","last tended to":"2024-10-30T18:31:34-03:00","tags":["🌱","economics","design","essay"],"dg-publish":true,"notestage":["🌱"],"created":"2023-09-25T13:34:41.895-03:00","updated":"2025-01-24T16:49:52.349-03:00","permalink":"/writings/on-the-limits-of-capitalism-and-emergent-forms-of-abundance-generation-and-distribution/","dgPassFrontmatter":true}
 ---
 
 for a breakdown of how capitalism is self-terminating, see: [[people/references/architect;design/daniel schmachtenberger\|daniel schmachtenberger]]'s - [New Economic Series: Part 3 - When the System Is the Source of the Problems – Case Studies](https://civilizationemerging.com/new-economics-series-3/).
@@ -19,12 +19,12 @@ here are a few approaches that aim to address that:
 
 - [[topics/design/crypto\|crypto]]/[[smart contracts\|smart contracts]]/[[alternative financial ecosystems\|alternative financial ecosystems]] possibilities: [SEEDS - Global Green New Deal! It's time to do what our governments have failed to do. Heal our planet](https://www.youtube.com/watch?v=3MounsvZFPk&list=PLj8H7uBaUwDsuLtfdVu27aylRnjLMJvtA&index=2).
 - public commons funding ([[quadratic funding\|quadratic funding]], [[retroactive funding\|retroactive funding]], etc - see: [[initiatives, orgs & communities/design/gitcoin\|gitcoin]], [[tea.xyz\|tea.xyz]], [...])
-- [[initiatives, orgs & communities/design/nooNAO\|NAOs]]/[[responses/design/metamodern guild\|metamodern guilds]]
+- [[initiatives, orgs & communities/design/nooNAO\|NAOs]]/[[responses/design/metamodern guilds\|metamodern guilds]]
 ##### orienting frameworks:
 
 - [[concepts/design/circular design\|circular design]] / [[doughnut economics\|doughnut economics]]
 - [[regenerative systems design\|regenerative systems design]] (see: [[concepts/design/sacred economics\|sacred economics]]/[[initiatives, orgs & communities/design/SEEDS (ecosystem)\|SEEDS]] for now)
-- [[models & frameworks/design/forms of capital\|8 forms of capital]]
+- [[models & frameworks/design/8 forms of capital\|8 forms of capital]]
 - [[models & frameworks/design/deep wealth\|deep wealth]]
 - [[models & frameworks/design/fluxonomy 4d\|fluxonomy 4d]]
 ##### current practical applications/examples:

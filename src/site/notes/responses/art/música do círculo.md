@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-05-31T16:42:16-03:00","last tended to":"2024-11-03T16:05:03-03:00","aliases":["MdC","mdc"],"tags":["music","play","🌿","host","practice"],"relevancescore":93,"dg-publish":true,"notestage":["🌿"],"created":"2023-05-31T16:42:16.760-03:00","updated":"2024-12-11T19:23:14.223-03:00","permalink":"/responses/art/musica-do-circulo/","dgPassFrontmatter":true}
+{"created in":"2023-05-31T16:42:16-03:00","last tended to":"2024-11-03T16:05:03-03:00","aliases":["MdC","mdc"],"tags":["music","play","🌿","host","practice"],"relevancescore":93,"dg-publish":true,"notestage":["🌿"],"created":"2023-05-31T16:42:16.760-03:00","updated":"2025-01-24T16:42:31.452-03:00","permalink":"/responses/art/musica-do-circulo/","dgPassFrontmatter":true}
 ---
 
 https://musicadocirculo.com/
@@ -10,7 +10,7 @@ música do círculo (MdC) is both a community and a practice of improvised music
 
 the facilitators (also called conductors) propose several games throughout the practice exploring these different elements in different ways each time, while also encouraging and creating a safe space for the creative expression, experimentation and proposition by the group itself.
 
-it's created by 3 brazilian artists-educators-facilitators who later on founded an institute by the same name, inspired by 3 major references: [[barbatuques\|barbatuques]] ([[fernando barba\|fernando barba]]/[[stênio mendes\|stênio mendes]]' [[body percussion\|body percussion]]/[[improvisation\|improvisation]] [[games\|games]]), [[bobby mcferrin\|bobby mcferrin]] ([[circlesongs\|circlesongs]], [[vocal improvisation\|vocal improvisation]]) and the [[models & frameworks/host/pedagogia da cooperação\|cooperation pedagogy]].
+it's created by 3 brazilian artists-educators-facilitators who later on founded an institute by the same name, inspired by 3 major references: [[barbatuques\|barbatuques]] ([[fernando barba\|fernando barba]]/[[stênio mendes\|stênio mendes]]' [[body percussion\|body percussion]]/[[improvisation\|improvisation]] [[games\|games]]), [[bobby mcferrin\|bobby mcferrin]] ([[circlesongs\|circlesongs]], [[vocal improvisation\|vocal improvisation]]) and the [[models & frameworks/host/cooperation pedagogy\|cooperation pedagogy]].
 
 as a practice, it's able to create an educational, therapeutic and artistic space at the same time. it inspires cooperation, deep listening and decolonial modes of relating, and through its radical embrace of co-existing levels of consciousness, it inspires us to think about how to create this quality of field in other spaces as well.
 { #ff6390}
@@ -20,7 +20,7 @@ it's a crazy psycho-spiritual, physical, musical and relational practice that i 
 
 the field of deep listening it creates help us very quickly tap into the [[collective intelligence\|collective intelligence]] of the group, facilitating the [[emergence\|emergence]] of whatever is alive in each of us and connecting us with deeper layers of our [[musical intelligence\|musical intelligence]] and [[self-expression\|self-expression]]. the barrier for entry is super low, you really don't have to "be an artist", "know how to sing", or any of that. you just need to be willing to play.
 
-the founders are also deep thinkers - informed by references such as [[people/references/architect;design/charles eisenstein\|charles eisenstein]]'s work, [[concepts/alchemy/decolonization\|decolonial theory and practices]], and [[models & frameworks/host/pedagogia da cooperação\|cooperation pedagogy]] - and very inclusive [[artists\|artists]], always exploring fun and unconventional ways of learning/creating together.
+the founders are also deep thinkers - informed by references such as [[people/references/architect;design/charles eisenstein\|charles eisenstein]]'s work, [[concepts/alchemy/decolonization\|decolonial theory and practices]], and [[models & frameworks/host/cooperation pedagogy\|cooperation pedagogy]] - and very inclusive [[artists\|artists]], always exploring fun and unconventional ways of learning/creating together.
 
 the sessions are usually 1h30-long, and although there's some content posted online the experience of watching them (or even understanding what the practice is, as i just described) vs participating is completely different. i highly recommend you join one session to experience its magic before watching it/researching too much about it. they happen once a month in são paulo (brazil), or in some workshops they host/participate in, in europe, and north/latin america.
 
