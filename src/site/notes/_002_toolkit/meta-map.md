@@ -133,7 +133,7 @@ added:
 
 [[concepts/player/gameworld building\|gameworld building]]
 
-[[_006_core notes/design philosophies\|design philosophies]]
+[[core notes/design philosophies\|design philosophies]]
 
 [[aesthetics\|aesthetics]]
 

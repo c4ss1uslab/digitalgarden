@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-05-06T17:36:51-03:00","last tended to":"2024-06-20T17:20:44-03:00","tags":["inquiry","🌿"],"created":"2024-05-06T17:36:51.035-03:00","updated":"2025-01-22T15:28:58.417-03:00","notestage":["🌿"],"relevancescore":98,"dg-publish":true,"permalink":"/inquiries-and-heuristics/what-technology-is-actually-worth-building/","dgPassFrontmatter":true}
+{"created in":"2024-05-06T17:36:51-03:00","last tended to":"2024-06-20T17:20:44-03:00","tags":["inquiry","🌿"],"created":"2024-05-06T17:36:51.035-03:00","updated":"2025-01-27T13:03:59.497-03:00","notestage":["🌿"],"relevancescore":98,"dg-publish":true,"permalink":"/inquiries-and-heuristics/what-technology-is-actually-worth-building/","dgPassFrontmatter":true}
 ---
 
 ```ad-warning
@@ -24,7 +24,7 @@ the [[_010_notes from courses, events & chats/technological metamodernism\|techn
 
 i recommend spending a good amount of time digesting these references, as they've been very transformative for me (it's been 5 years brewing and changing things on the inside)...
 
-also, a relevant and more accessible introduction for people completely new to these perspectives is: [[people/references/lab/bret victor\|bret victor]]'s [[_009_notes & highlights from books, videos, articles/what can a technologist do about climate change\|what can a technologist do about climate change]]? (which focuses on climate, but the reflections he brings are much more applicable than that)
+also, a relevant and more accessible introduction for people completely new to these perspectives is: [[people/references/lab/bret victor\|bret victor]]'s [[_009_notes & highlights from books, videos, articles/What can a technologist do about climate change\|What can a technologist do about climate change]]? (which focuses on climate, but the reflections he brings are much more applicable than that)
 
 ##### so, after exploring all that, what's worth building?
 

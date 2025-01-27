@@ -263,7 +263,7 @@ a few other great references:
 ---
 this is a non-exhaustive list, as i know there are many other paths i haven't delved into, with different degrees of scientific/philosophical foundation, but it's not my intention to provide a full map/picture here and now. that'd ideally be something many people are engaged in building, as part of a [[modular\|modular]], [[open-source\|open-source]] [[_004_L1F3/l1f3 operating system\|l1f3 operating system]], built precisely to test and coordinate propositions such as that [[inquiries & heuristics/heuristics/every perspective is partial\|every perspective is partial]] at scale.
 
-by creating a decentralized aggregator of [[worldviews\|worldviews]] and [[practices\|practices]], we can democratize access to and support even more the practice of [[science\|science]], [[_006_core notes/design philosophies\|design philosophies]], [[topics/alchemy/spirituality\|spirituality]] and ultimately, [[concepts/alchemy/wisdom\|wisdom]].
+by creating a decentralized aggregator of [[worldviews\|worldviews]] and [[practices\|practices]], we can democratize access to and support even more the practice of [[science\|science]], [[core notes/design philosophies\|design philosophies]], [[topics/alchemy/spirituality\|spirituality]] and ultimately, [[concepts/alchemy/wisdom\|wisdom]].
 
 
 popularity isn't necessarily a good filter.

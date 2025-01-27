@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-05-29T14:27:52-03:00","last tended to":"2024-09-26T15:53:13-03:00","tags":["interfacedesign","experiencedesign","lab","person","tier1","visuallearning","spatialsoftware","interactiondesign","🌿"],"dg-publish":true,"relevancescore":94,"notestage":["🌿"],"created":"2024-05-29T14:27:52.255-03:00","updated":"2024-11-29T21:44:26.344-03:00","permalink":"/people/references/lab/bret-victor/","dgPassFrontmatter":true}
+{"created in":"2024-05-29T14:27:52-03:00","last tended to":"2024-09-26T15:53:13-03:00","tags":["interfacedesign","experiencedesign","lab","person","tier1","visuallearning","spatialsoftware","interactiondesign","🌿"],"dg-publish":true,"relevancescore":94,"notestage":["🌿"],"created":"2024-05-29T14:27:52.255-03:00","updated":"2025-01-27T13:03:59.602-03:00","permalink":"/people/references/lab/bret-victor/","dgPassFrontmatter":true}
 ---
 
 https://worrydream.com/
@@ -43,7 +43,7 @@ in it, he presents very simply and clearly his [[theory of change\|theory of cha
 
 introduces: [[reactive documents\|reactive documents]] (as seen in [[references/lab/ten brighter ideas\|ten brighter ideas]]), [[explorable examples\|explorable examples]], [[contextual information\|contextual information]].
 
-###### 2) [[_009_notes & highlights from books, videos, articles/what can a technologist do about climate change\|what can a technologist do about climate change]]?
+###### 2) [[_009_notes & highlights from books, videos, articles/What can a technologist do about climate change\|What can a technologist do about climate change]]?
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/009-notes-and-highlights-from-books-videos-articles/what-can-a-technologist-do-about-climate-change/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">

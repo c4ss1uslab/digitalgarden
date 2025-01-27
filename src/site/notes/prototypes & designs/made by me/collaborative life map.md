@@ -27,7 +27,7 @@ perspective 3: [[critical constraints\|critical constraints]]
 bucky fuller's world (peace/logistics) game / [[projects & tools/projects/design/OMNI-mapping project\|OMNI-mapping project]]
 life itself's [[responses/design/second renaissance\|2R]] ecosystem map + adjacent projects
 
-perspective 4: [[_006_core notes/theories of change\|theories of change]]
+perspective 4: [[core notes/theories of change\|theories of change]]
 [[initiatives, orgs & communities/regen/culture hack labs\|culture hack labs]] / [[initiatives, orgs & communities/regen/gesturing towards decolonial futures\|gtdf collective]]
 
 ----
