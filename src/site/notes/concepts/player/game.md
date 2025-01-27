@@ -42,7 +42,7 @@ its goal is to figure out how to:
 
 
 other approaches:
-1) 70s - [[cybersyn\|cybersyn]] - distributed decision support system to aid in the management of the national economy - birth of cybernetics.
+1) 70s - [[projects & tools/projects/design/cybersyn\|cybersyn]] - distributed decision support system to aid in the management of the national economy - birth of cybernetics.
 
 #### use cases
 

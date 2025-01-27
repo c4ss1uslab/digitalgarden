@@ -40,7 +40,7 @@ a few different views:
 > civilization design - prototypes:
 > [SEEDS introduction - Global Green New Deal! It's time to do what our governments have failed to do. Heal our planet. - YouTube](https://www.youtube.com/watch?v=3MounsvZFPk)
 > [Ep. 1 - Journey to Regenerative Civilizations Series - YouTube](https://www.youtube.com/watch?v=YrNw_PdJd68&list=PL3Xi8vZSmBTStS0BoFItW8389HJLypX0E)
-> [[cybersyn\|cybersyn]]
+> [[projects & tools/projects/design/cybersyn\|cybersyn]]
 > 
 > great big picture view / orienting narratives:
 > [Wisdom Age — Roote](https://www.roote.co/wisdom-age) / [Wisdom Age Advice — Roote](https://www.roote.co/wisdom-age-advice)
