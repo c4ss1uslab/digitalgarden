@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-07-30T21:38:54-03:00","last tended to":"2024-10-22T19:55:34-03:00","tags":["🌱"],"dg-publish":true,"notestage":["🌱"],"created":"2022-07-30T21:38:54.771-03:00","updated":"2025-01-24T17:32:26.882-03:00","permalink":"/003-research/05-core-references-and-resources/","dgPassFrontmatter":true}
+{"created in":"2022-07-30T21:38:54-03:00","last tended to":"2024-10-22T19:55:34-03:00","tags":["🌱"],"dg-publish":true,"notestage":["🌱"],"created":"2022-07-30T21:38:54.771-03:00","updated":"2025-01-27T14:00:09.005-03:00","permalink":"/003-research/05-core-references-and-resources/","dgPassFrontmatter":true}
 ---
 
 ```ad-warning
@@ -249,15 +249,7 @@ individual's wikis/knowledge gardens:
 [[initiatives, orgs & communities/design/the cynefin co\|the cynefin co]] / [[projects & tools/tools/design/sensemaker (tool)\|sensemaker (tool)]]
 [[projects & tools/tools/design/metaculus\|metaculus]] (platform)
 
-best personal websites:
-technical -> [Maggie Appleton](https://maggieappleton.com/) / [Andy Matuschak](https://andymatuschak.org/)
-artistic -> [Bruno Simon](https://bruno-simon.com/) / [Jesse's Ramen](https://jesse-zhou.com/)
-strategic, aligned -> [Patricia Parkinson](https://patriciaparkinson.com/) / [Benjamin Life](https://benjaminlife.my.canva.site/) / [Andrew Murray Dunn](https://www.andrewmurraydunn.com/)
-[AARON Z. LEWIS](https://aaronzlewis.com/)
 
-alternative personal websites:
-[The Satyrs’ Forest 🍇](https://marijn.uk/) / [R.V.Klein 🐇 HOME](https://rvklein.me/index.html)
-[Drew's Conversation Menu - Google Docs](https://docs.google.com/document/d/1VA6ihOr3JNRG0xehB56kJF9N9VVrRakPv2VPzgW3Ln8/edit#)
 
 ```ad-warning
 title: areas still lacking good references
@@ -459,7 +451,7 @@ D - [[Additive Manufacturing\|Additive Manufacturing]]
 D.A - [[Laser Sintering and Fusion\|Laser Sintering and Fusion]]
 D.B - [[Fused Filament Fabrication\|Fused Filament Fabrication]]
 D.C - [[Stereolithography\|Stereolithography]]
-E - [[core notes/design philosophies\|design philosophies]] & [[Ethics\|Ethics]]
+E - [[_006_core notes/design philosophies\|design philosophies]] & [[Ethics\|Ethics]]
 E.A - [[Bioethics\|Bioethics]]
 E.B - [[Moral Philosophy\|Moral Philosophy]]
 E.C - [[Ethics and AI\|Ethics and AI]]

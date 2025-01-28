@@ -2,7 +2,7 @@
 {"created in":"2024-02-01T04:29:29-03:00","last tended to":"2024-10-25T13:15:25-03:00","aliases":["future of operating systems","OS of the future","future OS","personal OS"],"tags":["design","lab","systemsdesign","OS","OSdesign","🌿","response","topic"],"notestage":["🌿"],"created":"2024-02-01T04:29:29.476-03:00","updated":"2025-01-24T15:39:35.899-03:00","dg-publish":true,"relevancescore":96,"permalink":"/responses/lab/personal-os-design/","dgPassFrontmatter":true}
 ---
 
-see also: [[core notes/design philosophies\|design philosophies]], [[core notes/design principles\|design principles]], [[design patterns\|design patterns]], [[concepts/lab/personal tech stack\|personal tech stack]], [[experiments/made by me/lab/minimum viable intentional personal tech stack;setup\|minimum viable intentional tech stack;setup]], [[responses/design/personal algorithms design\|personal algorithms design]], [[personal systems design\|personal systems design]].
+see also: [[_006_core notes/design philosophies\|design philosophies]], [[_006_core notes/design principles\|design principles]], [[design patterns\|design patterns]], [[concepts/lab/personal tech stack\|personal tech stack]], [[experiments/made by me/lab/minimum viable intentional personal tech stack;setup\|minimum viable intentional tech stack;setup]], [[responses/design/personal algorithms design\|personal algorithms design]], [[personal systems design\|personal systems design]].
 
 ---
 #### foundational inquiries

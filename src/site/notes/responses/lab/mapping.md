@@ -191,7 +191,7 @@ an introduction to the subject/space: https://secondrenaissance.net/intro
 
 great compilation of nearly all ecosystem mapping efforts: https://secondrenaissance.net/wiki/overview-mapping-efforts
 
-to understand the usefulness of these initiatives, look at how they're mapping: [[value systems\|value systems]], [[belief systems\|belief systems]], [[worldviews\|worldviews]], [[core notes/theories of change\|theories of change]] and [[systemic challenges\|systemic challenges]] in coordinating these perspectives for navigating the [*extremely complex historical moment*](https://drive.google.com/file/d/1gmASP2v696diI9XVrWRkHOxUtCoxDkbN/view?pli=1) we're living.
+to understand the usefulness of these initiatives, look at how they're mapping: [[value systems\|value systems]], [[belief systems\|belief systems]], [[worldviews\|worldviews]], [[_006_core notes/theories of change\|theories of change]] and [[systemic challenges\|systemic challenges]] in coordinating these perspectives for navigating the [*extremely complex historical moment*](https://drive.google.com/file/d/1gmASP2v696diI9XVrWRkHOxUtCoxDkbN/view?pli=1) we're living.
 
 ---
 #### d) "maps" of the [[cozy web\|cozy web]]/[[indie web\|indie web]]/[[slow web\|slow web]]:
