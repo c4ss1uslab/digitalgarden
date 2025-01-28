@@ -1,15 +1,19 @@
 ---
-{"aliases":["👨🏻‍🔬 c4ss1us.lab",".lab","lab","builder"],"created":"2024-05-22T17:07:42.901-03:00","updated":"2025-01-28T19:46:50.141-03:00","tags":["c4ss1us","lab","🌿"],"notestage":["🌿"],"dg-publish":true,"permalink":"/005-c4ss1us/c4ss1us-lab/","dgPassFrontmatter":true}
+{"aliases":["👨🏻‍🔬 c4ss1us.lab",".lab","lab","builder"],"created":"2024-05-22T17:07:42.901-03:00","updated":"2025-01-28T20:05:14.211-03:00","tags":["c4ss1us","lab","🌿"],"notestage":["🌿"],"dg-publish":true,"permalink":"/005-c4ss1us/c4ss1us-lab/","dgPassFrontmatter":true}
 ---
 
 **see also:** [c4ss1us.lab mmm.page (visual overview)](https://c4ss1us.mmm.page/lab)
+
+#### about
+
+this page introduces my perspectives, main projects and references on the field of [[topics/design/technology\|technology]].
 
 ---
 #### a brief personal context
 
 back when i was 15 years old (2014), i had a quasi-spiritual experience while deciding what the hell i should do with my life. i tell the full story [somewhere else], but in short, i decided that even though i was a typical nerd, loved [[topics/player/gaming\|gaming]], and had an affinity for the logic and mathematics involved in [[topics/lab/programming\|programming]], i wouldn't learn it, at least for the foreseeable future.
 
-when i started diving into it, for 2 weeks or so, i had a realization that i wasn't interested in programming per se, but in what could be built with it. sure, games are cool, but it dawned on me that [[_004_L1F3/l1f3 game\|life is the biggest game there is]].
+i realized that i wasn't interested in programming per se, but in what could be built with it. sure, games are cool, but it dawned on me that [[_004_L1F3/l1f3 game\|life is the biggest game there is]].
 
 i would have absolutely loved to have [[references/player/anime;manga;webtoon/sword art online\|sword art online]] (or more recent versions of "[[alternate reality gaming\|alternate reality gaming]]" such as [[references/player/anime;manga;webtoon/solo leveling\|solo leveling]] or [[references/player/anime;manga;webtoon/overgeared\|overgeared]]) in real life, but i also really wanted to figure out [[life as play - metagame design, mechanics and the l1f3 player toolkit\|how to play life as well as i can]]. in the most beautiful, cool, exciting, surprising, fulfilling ways possible.
 
@@ -19,11 +23,11 @@ and soon later - if life is the biggest game/project we have, **why the hell are
 
 and oh dear, that question has been sending me down into rabbit holes ever since.
 
-with the advances of technology, i didn't know what the world could look like in 5-10 years, much less who i'd become after that time. instead trying to figure out exactly where i wanted to be and plan for an unknowable (though [[topics/design/futures studies\|foreseeable]]) future, i could simply become good at [[topics/player/learning\|learning]] anything - whatever made itself necessary.
+with the advances of technology, i didn't know what the world could look like in 5-10 years, much less who i'd become after that time. instead of trying to figure out exactly where i wanted to be and plan for an unknowable (though [[topics/design/futures studies\|foreseeable]]) future, i could simply choose become good at [[topics/player/learning\|learning]] itself - so i could learn anything whenever it made itself necessary.
 
-i.e. [[meta-learning\|meta-learning]] - *learning how to learn. questioning what to learn. figuring out [[inquiries & heuristics/what technology is actually worth building\|what is actually worth building]]*, instead.
+that's very ambitious, of course, but there's tons to learn on the subject of [[meta-learning\|meta-learning]] - *[[learning how to learn\|learning how to learn]]. questioning [[what to learn\|what to learn]]. figuring out [[inquiries & heuristics/what technology is actually worth building\|what is actually worth building]]*.
 
-plus, during my two weeks moving beyond simple CSS/HTML and learning the basics of programming, i saw that even though there's some creativity to it, there's a lot of engineering, or put another way - rule-following in programming. well, that's not much to base any conclusions on, but it seemed really obvious that we'd soon figure out a way to automate much of this process (turns out we did - hello [[topics/lab/large language models\|LLMs]] 🙃).
+plus, during my brief period learning the basics of programming, i saw that even though there's some creativity to it, there's a lot of rule-following in programming. a 15-year-old opinion is not much to base any conclusions on, but it seemed really obvious that we'd soon figure out a way to automate much of this process (turns out we did - hello [[topics/lab/large language models\|LLMs]] 🙃).
 
 basically, i didn't want to be a [[_005_c4ss1us/c4ss1us.lab\|builder]] for the sake of building things. i wanted to be an [[_005_c4ss1us/c4ss1us.design\|architect]] first.
 
