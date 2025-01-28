@@ -1,8 +1,8 @@
 ---
-{"created in":"2021-12-11T16:51:56-03:00","last tended to":"2024-09-26T15:21:43-03:00","tags":["technology","web3","distributedsystems","regeneration","socialoperatingsystems","design","lab","datamanagement","open-source","tool","initiative","🌱"],"relevancescore":95,"dg-publish":true,"notestage":["🌱"],"familiaritydegree":4,"created":"2021-12-11T16:51:56.443-03:00","updated":"2024-11-22T16:56:01.927-03:00","permalink":"/initiatives-orgs-and-communities/lab/holochain/","dgPassFrontmatter":true}
+{"created in":"2021-12-11T16:51:56-03:00","last tended to":"2024-09-26T15:21:43-03:00","tags":["technology","web3","distributedsystems","regeneration","socialoperatingsystems","design","lab","datamanagement","open-source","tool","initiative","🌱"],"relevancescore":95,"dg-publish":true,"notestage":["🌱"],"familiaritydegree":4,"created":"2021-12-11T16:51:56.443-03:00","updated":"2025-01-28T19:22:38.138-03:00","permalink":"/initiatives-orgs-and-communities/lab/holochain/","dgPassFrontmatter":true}
 ---
 
-i see the project as a herculean attempt at rewriting the foundations of our [[personal computing\|personal computing]] stack as [[distributed\|distributed]], [[terms/privacy\|privacy]] and [[open-source\|open-source]] - enable our [[social coordination systems\|social coordination systems]] to be radically more conscious, resilient and regenerative.
+i see the project as a herculean attempt at rewriting the foundations of our [[personal computing\|personal computing]] stack as [[distributed\|distributed]], [[terms/privacy\|privacy]] and [[open-source\|open-source]] - enable our social [[topics/design/coordination systems\|coordination systems]] to be radically more conscious, resilient and regenerative.
 
 there's an extremely high barrier for entry though for non-developers at the moment (and developers alike, considering the amount of [[inner work\|inner work]] necessary to recognize its value).
 
@@ -22,3 +22,5 @@ https://unblock.net/introduction-holochain/ (more crypto/web3 language)
 etc...
 
 my twitter list of initiatives/people involved (not so up-to-date): https://twitter.com/i/lists/1337109446581948419
+
+related: [[projects & tools/tools/design/hylo\|hylo]], [[initiatives, orgs & communities/design/collaborative technology alliance\|collaborative technology alliance]]
