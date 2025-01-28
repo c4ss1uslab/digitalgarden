@@ -6,7 +6,7 @@ original article by [[people/references/lab/maggie appleton\|maggie appleton]]: 
 
 #### notes
 
-an introduction to/analysis of a specific type of hackable/malleable software/interface (programming portals), introduced by old-school [[hypercard\|hypercard]] with modern takes by the early versions of [[tbprocessed/base notes/tools;products - general/notion\|notion]], [[fermat.ws\|fermat.ws]] and [[projects & tools/projects/lab/inkbase\|inkbase]].
+an introduction to/analysis of a specific type of hackable/malleable software/interface (programming portals), introduced by old-school [[hypercard\|hypercard]] with modern takes by the early versions of [[tbprocessed/base notes/tools;products - general/notion\|notion]], [[projects & tools/tools/lab/fermat.ws\|fermat.ws]] and [[projects & tools/projects/lab/inkbase\|inkbase]].
 
 #### my highlights
 

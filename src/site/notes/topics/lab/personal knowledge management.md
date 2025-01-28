@@ -41,7 +41,7 @@ more advanced / state of the art setups:
 \+ most people on my twitter "[tier 1 knowledge management](https://twitter.com/i/lists/1452293502935748620)" list.
 
 main tools:
-[[tbprocessed/base notes/tools;products - general/notion\|notion]], [[tbprocessed/base notes/ventures - general/obsidian\|obsidian]], [[projects & tools/tools/lab/logseq\|logseq]]
+[[tbprocessed/base notes/tools;products - general/notion\|notion]], [[projects & tools/tools/lab/obsidian\|obsidian]], [[projects & tools/tools/lab/logseq\|logseq]]
 \+ 75 tools from my twitter list: https://twitter.com/i/lists/1401589596635402250
 
 related terms/concepts: [[information ecology\|information ecology]], [[responses/lab/tools for thought\|tools for thought]], [[topics/lab/artificial intelligence\|AI]], [[file management\|file management]], [[patterns/active patterns/knowledge design/social reading highlights\|social reading highlights]]
@@ -105,7 +105,7 @@ i tried some obscure software such as [[emacs\|emacs]], [[thebrain\|thebrain]], 
 
 to this day, it's extremely dumbfounding to me how we live in an [[information age\|information age]], yet this subject is mostly unknown, relegated as something just for librarians, some IT professionals, a few managers/nerds at a large company, or a handful of questionable consultants and obscure academics.
 
-that is, until ~2018, when tools such as [[tbprocessed/base notes/tools;products - general/notion\|notion]], [[tbprocessed/base notes/ventures - general/roam research\|roam research]] and [[tbprocessed/base notes/ventures - general/obsidian\|obsidian]] were launched, bringing a new surge of popularity to this idea of "[[no-code\|no-code]]", [[responses/lab/tools for thought\|tools for thought]] and "[[online productivity tools\|online productivity tools]]" in general - and now it also became a subject for internet nerds. yay! 🙃
+that is, until ~2018, when tools such as [[tbprocessed/base notes/tools;products - general/notion\|notion]], [[tbprocessed/base notes/ventures - general/roam research\|roam research]] and [[projects & tools/tools/lab/obsidian\|obsidian]] were launched, bringing a new surge of popularity to this idea of "[[no-code\|no-code]]", [[responses/lab/tools for thought\|tools for thought]] and "[[online productivity tools\|online productivity tools]]" in general - and now it also became a subject for internet nerds. yay! 🙃
 
 since that time i've been dedicating a large amount of my time and energy thinking about "[[personal systems design\|personal systems design]]" in the form of this "[[patterns/active patterns/knowledge management/building a second brain\|building a second brain]]" / "[[digital systems design\|digital systems design]]", but i still feel most of the content in these fields is far from the essence of it. it's still captured by [[mechanistic worldviews\|mechanistic worldviews]] and [[win-lose dynamics\|win-lose dynamics]].
 

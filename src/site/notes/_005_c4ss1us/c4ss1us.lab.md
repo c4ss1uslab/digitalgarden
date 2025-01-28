@@ -1,29 +1,116 @@
 ---
-{"aliases":["👨🏻‍🔬 c4ss1us.lab",".lab","lab","builder"],"created":"2024-05-22T17:07:42.901-03:00","updated":"2025-01-22T15:26:39.453-03:00","tags":["c4ss1us","lab","🌿"],"notestage":["🌿"],"dg-publish":true,"permalink":"/005-c4ss1us/c4ss1us-lab/","dgPassFrontmatter":true}
+{"aliases":["👨🏻‍🔬 c4ss1us.lab",".lab","lab","builder"],"created":"2024-05-22T17:07:42.901-03:00","updated":"2025-01-28T19:11:39.404-03:00","tags":["c4ss1us","lab","🌿"],"notestage":["🌿"],"dg-publish":true,"permalink":"/005-c4ss1us/c4ss1us-lab/","dgPassFrontmatter":true}
 ---
 
 **see also:** [c4ss1us.lab mmm.page (visual overview)](https://c4ss1us.mmm.page/lab)
 
 ---
+#### a brief personal context
+
+back when i was 15 years old (2014), i had a quasi-spiritual experience while deciding what the hell i should do with my life. i tell the full story [somewhere else], but in short, i decided that even though i was a typical nerd, loved [[topics/player/gaming\|gaming]], and had an affinity for the logic and mathematics involved in [[topics/lab/programming\|programming]], i wouldn't learn it, at least for the foreseeable future.
+
+when i started diving into it, for 2 weeks or so, i had a realization that i wasn't interested in programming per se, but in what could be built with it. sure, games are cool, but it dawned on me that [[_004_L1F3/l1f3 game\|life is the biggest game there is]].
+
+i would have absolutely loved to have [[references/player/anime;manga;webtoon/sword art online\|sword art online]] (or more recent versions of "[[alternate reality gaming\|alternate reality gaming]]" such as [[references/player/anime;manga;webtoon/solo leveling\|solo leveling]] or [[references/player/anime;manga;webtoon/overgeared\|overgeared]]) in real life, but i also really wanted to figure out [[life as play - metagame design, mechanics and the l1f3 player toolkit\|how to play life as well as i can]]. in the most beautiful, cool, exciting, surprising, fulfilling ways possible.
+
+i started questioning: *how could real life be such an adventure?*
+
+and soon later - if life is the biggest game/project we have, **why the hell are the tools we have for playing/managing it so much worse than we have for managing fictional characters?** 
+
+and oh boy, that question has been sending me down into rabbit holes ever since.
+
+with the advances of technology, i didn't know what the world could look like in 5-10 years, much less who i'd become after that time. instead trying to figure out exactly where i wanted to be and plan for an unknowable (though [[topics/design/futures studies\|foreseeable]]) future, i could simply become good at [[topics/player/learning\|learning]] anything - whatever made itself necessary.
+
+i.e. [[meta-learning\|meta-learning]] - *learning how to learn. questioning what to learn. figuring out [[inquiries & heuristics/what technology is actually worth building\|what is actually worth building]]*, instead.
+
+plus, during my two weeks moving beyond simple CSS/HTML and learning the basics of programming, i saw that even though there's some creativity to it, there's a lot of engineering, or put another way - rule-following in programming. well, that's not much to base any conclusions on, but it seemed really obvious that we'd soon figure out a way to automate much of this process (turns out we did - hello [[topics/lab/large language models\|LLMs]] 🙃).
+
+basically, i didn't want to be a [[_005_c4ss1us/c4ss1us.lab\|builder]] for the sake of building things. i wanted to be an [[_005_c4ss1us/c4ss1us.design\|architect]] first.
+
+ i'm not saying this was the right approach, nor that it hasn't actually hindered me in many ways, but this path helped me to see much more clearly what i deem as the role of [[topics/design/technology\|technology]] and [[digital systems\|digital systems]] today - see: [[inquiries & heuristics/what technology is actually worth building\|what technology is actually worth building]]. it was my path.
+
+---
 #### major challenges to be addressed / fields to work on:
 
-how can technology support [[topics/design/regeneration\|regenerative]] [[_004_L1F3/core concepts/civilization design\|civilization design]], [[_004_L1F3/core concepts/life design\|life design]] and [[concepts/alchemy/self-transformation\|concepts/alchemy/self-transformation]]?
+once familiarized with the basics of [[_006_core notes/design philosophies\|design philosophies]] such as [[models & frameworks/design/humane design\|humane]]/[[human-centered design\|human-centered design]] to then move into [[more-than-human-centered design\|more-than-human-centered]], [[concepts/design/circular design\|circular]], [[responses/regen/regenerative design\|regenerative]] and [[responses/design/values-based design\|values-based design]], the orienting question i hold in this field is:
 
-1) [[diagnosis/sensemaking crisis\|sensemaking]] layer
+- how can technology support [[topics/design/regeneration\|regenerative]] [[_004_L1F3/core concepts/civilization design\|civilization design]], [[_004_L1F3/core concepts/life design\|life design]] and [[_004_L1F3/core concepts/self-transformation\|self-transformation]]?
 
-[[projects & tools/made by me/lab/reality mapping\|reality mapping]] -> [[prototypes & designs/made by me/collaborative life map\|life map]]
+my prevailing frame/[[_006_core notes/theories of change\|theory of change]] has been that we need to develop: 
 
-2) [[topics/design/coordination systems\|coordination systems]]
+##### 1) a coherent [[concepts/design/sensemaking layer\|sensemaking layer]]
 
-[[topics/design/distributed systems\|distributed]]/[[decentralized systems\|decentralized systems design]] -> [[diagnosis/self-terminating economic system\|economic systems]], [[governance systems\|governance systems]], [[knowledge systems\|knowledge systems]], [[information systems\|information systems]]
+[[information systems\|information systems]] -> [[projects & tools/made by me/lab/reality mapping\|reality maps]], [[concepts/design/knowledge ecologies\|knowledge ecologies]], [[topics/design/research\|research]], [[tbprocessed/base notes/concepts - general/curation\|curation]] & [[concepts/alchemy/sensemaking\|sensemaking]] systems.
 
-[[concepts/lab/personal tech stack\|personal & collective tech stacks]] -> [[personal computing\|personal computing]] -> [[responses/lab/permacomputing\|permacomputing]] / [[topics/design/distributed systems\|distributed systems]]
+##### 2) better [[topics/design/coordination systems\|coordination systems]]
 
-3) [[_004_L1F3/core concepts/self-management\|self-management]] & [[topics/design/collaboration tools\|collaboration tools]]
+[[topics/design/distributed systems\|distributed]]/[[decentralized systems\|decentralized systems design]] -> [[diagnosis/self-terminating economic system\|economic systems]], [[governance systems\|governance systems]], [[organizational systems\|organizational systems]], [[responses/lab/knowledge management\|knowledge management]], [[data management\|data management]] & [[self-management systems\|self-management systems]].
+
+##### 3) [[_004_L1F3/core concepts/self-management\|self-management]] & [[topics/design/collaboration tools\|collaboration tools]]
 
 [[tools for extended cognition\|tools for extended cognition]] -> [[models & frameworks/design/OODA loop\|OODA loop]] augmentation / [[models & frameworks/design/DIKW pyramid\|DIKW]] management ([[concepts/alchemy/sensemaking\|sensemaking]], [[topics/lab/information management\|information management]], [[knowledge development\|knowledge development]], [[wisdom development\|wisdom development]])
 
-[[_004_L1F3/core concepts/life management\|life management]] -> [[_004_L1F3/l1f3 management ontology\|l1f3 management ontology]] & [[_002_toolkit/000 ⛓ l1f3 player toolkit\|toolkit]], [[concepts/lab/memex\|memex]], [[co-pilot\|co-pilot]], [[responses/lab/recommender systems\|recommender systems]], [[responses/lab/dashboards\|dashboards]] & more
+[[_004_L1F3/core concepts/life management\|life management]] -> [[_004_L1F3/l1f3 management ontology\|l1f3 management ontology]] & [[_002_toolkit/000 ⛓ l1f3 player toolkit\|toolkit]] -> [[concepts/lab/memex\|memex]], [[co-pilot\|co-pilot]], [[responses/lab/recommender systems\|recommender systems]], [[topics/lab/algorithms\|algorithms]], [[responses/lab/mapping\|maps]], [[responses/lab/dashboards\|dashboards]] & more
+
+[[concepts/lab/personal tech stack\|personal & collective tech stacks]] -> [[personal computing\|personal computing]] -> [[responses/lab/permacomputing\|permacomputing]] / [[responses/design/trust networks\|trust networks]] / [[local-first\|local-first]] tech
+
+---
+#### core references:
+
+below are mostly working digital [[_001_MOCs/050 🟩 mid game/080 ⚒ tools MOC\|tools]] with similar scopes/objectives to what i consider important/necessary tech for the challenges/fields below - [[diagnosis/sensemaking crisis\|sensemaking]], [[topics/design/coordination systems\|coordination]], [[_004_L1F3/core concepts/self-management\|self-management]] and [[terms/collaboration\|collaboration]].
+
+these references can serve both as [[_005_c4ss1us/c4ss1us.design\|design]] references/case studies, as well as practical tools for personal/collective use. they are presented along with their associated [[patterns/active patterns/knowledge design/relevance score\|relevance scores]] - *and soon my [[patterns/active patterns/knowledge design/familiarity degree\|familiarity degree]], [[readiness score\|readiness score]], [[information density\|information density]] in/of each one*.
+
+for [[initiatives, orgs & communities/organizations MOC\|organizations]] conducting [[topics/design/research\|research]] and [[topics/lab/technology development\|development]], key [[_001_MOCs/025 🔷 long game/020 ❔ concepts, questions & ideas MOC\|ideas]], [[papers\|papers]], and other relevant resources, i'll dedicate a whole [[zine\|zine]] to exploring them in the future, but down in this page you can already see some parts of it. the list below are to give you a glimpse of the most relevant/informative references for the designs/prototypes i've been attempting to build.
+
+```ad-warning
+title: note
+collapse: open
+i have engaged with the tools/projects below to varying degrees. these scores are estimates based on *what i currently know about* and *how much i've engaged with them*. they could change completely depending if i learn more, my perspectives change, or as they advance in their own development.
+```
+##### [[meta-games\|meta-games]]:
+
+[[initiatives, orgs & communities/design/metagame.wtf\|metagame.wtf]]⁹⁶, [[projects & tools/projects/player/world game\|world game]]⁹⁶, [[initiatives, orgs & communities/design/SEEDS (ecosystem)\|SEEDS]]⁹⁶, [[models & frameworks/player/fourgames\|fourgames]]⁹⁴, [[projects & tools/projects/player/startover.xyz\|startover.xyz]]⁹³, [[responses/art/música do círculo\|música do círculo]]⁹³/[[projects & tools/tools/player/COLLAPSE\|COLLAPSE]]⁹³
+
+##### [[hardware\|hardware]] design:
+
+[[initiatives, orgs & communities/lab/dynamicland\|dynamicland]]⁹⁴, [[initiatives, orgs & communities/lab/ink & switch\|ink & switch]]⁹⁰, [[initiatives, orgs & communities/lab/new computer\|new computer]]⁸⁸, [[initiatives, orgs & communities/lab/folk computer\|folk computer]]⁸⁸
+
+##### [[responses/lab/personal OS design\|OS design]]:
+
+[[projects & tools/tools/lab/duskOS\|duskOS]]⁹⁵/[[projects & tools/tools/lab/collapseOS\|collapseOS]]⁹⁵, [[projects & tools/projects/lab/wonderOS\|wonderOS]]⁹², [[projects & tools/projects/design/mercuryOS\|mercuryOS]]⁸⁷, [[projects & tools/projects/lab/codexOS\|codexOS]]⁸⁷
+
+##### [[topics/design/distributed systems\|distributed systems]]:
+
+[[initiatives, orgs & communities/lab/holochain\|holochain]]⁹⁵, [[projects & tools/tools/design/IPFS\|IPFS]]⁹², [[projects & tools/tools/lab/solid\|solid]]⁹¹, [[projects & tools/tools/lab/pears\|pears]]⁹¹, [[projects & tools/tools/lab/DXOS\|DXOS]]⁹¹
+
+##### [[topics/lab/personal data management\|personal data management]]:
+
+[[projects & tools/projects/lab/subconscious (tool)\|subconscious]]⁹³, [[projects & tools/tools/lab/human programming interface\|human programming interface]]⁹², [[projects & tools/tools/lab/chronicle app\|chronicle app]]⁹¹
+
+##### [[topics/lab/information management\|information]] / [[topics/lab/personal knowledge management\|knowledge management]]:
+
+[[initiatives, orgs & communities/lab/tagstudio\|tagstudio]]⁹¹, [[projects & tools/tools/lab/anytype\|anytype]]⁹⁰, [[projects & tools/tools/lab/fabric\|fabric]]⁹⁰, [[projects & tools/tools/lab/catalist network\|catalist network]]⁹⁰, [[projects & tools/tools/lab/logseq\|logseq]]⁹⁰, [[projects & tools/tools/lab/obsidian\|obsidian]]⁹⁰, [[projects & tools/tools/lab/tana\|tana]]⁸⁹, (...)
+
+##### [[tbprocessed/base notes/concepts - general/curation\|knowledge curation]] / [[topics/lab/algorithms\|algorithms]]:
+
+[[projects & tools/tools/lab/community archive\|community archive]]⁹⁴, [[projects & tools/projects/design/sensenets\|sensenets]]⁹³, [[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social]]⁹², [[initiatives, orgs & communities/design/sublime (ex-startupy)\|sublime]]⁸⁸, [[projects & tools/tools/design/weco\|weco]]⁸⁶
+
+##### collaborative/web-based [[responses/lab/tools for thought\|tools for thought]]:
+
+[[projects & tools/projects/lab/commonplace (app)\|commonplace (app)]]⁸⁸, [[projects & tools/tools/lab/kosmik\|kosmik]]⁸⁶, [[projects & tools/tools/lab/fermat.ws\|fermat.ws]]⁸⁶, [[projects & tools/tools/lab/tldraw\|tldraw]]⁸⁶, [[projects & tools/tools/lab/stack browser\|stack browser]]⁸⁶, [[projects & tools/tools/lab/arc browser\|arc browser]]⁸⁶, [[projects & tools/tools/lab/scrintal\|scrintal]]⁸³, [[projects & tools/tools/lab/napkin\|napkin]]⁸³
+
+##### web-based tools for [[responses/lab/mapping\|mapping]]/[[topics/design/research\|research]]:
+
+[[initiatives, orgs & communities/design/the society library\|the society library]]⁹⁴, [[projects & tools/tools/lab/atlas (nomic)\|atlas (nomic)]]⁸⁶, [[projects & tools/tools/lab/open knowledge maps\|open knowledge maps]]⁸², [[connected papers\|connected papers]]⁸², [[projects & tools/tools/lab/litmaps\|litmaps]]⁸², [[projects & tools/tools/design/sensemaker\|sensemaker]] (?)
+
+##### [[topics/lab/semantic web\|semantic web]]:
+
+[[topics/lab/large language models\|LLMs]]⁸⁹, [[projects & tools/tools/lab/exa AI\|exa AI]]⁸⁸, [[initiatives, orgs & communities/design/golden\|golden]]⁸⁷, [[projects & tools/tools/lab/find AI\|find AI]]⁸⁴, (...)
+
+##### my own [[_001_MOCs/050 🟩 mid game/060 🗡 projects MOC\|projects]]/[[_001_MOCs/050 🟩 mid game/080 🖌 designs MOC\|designs]]/[[_001_MOCs/050 🟩 mid game/070 🔩 prototypes MOC\|prototypes]]:
+
+[[_004_L1F3/l1f3 game\|l1f3 game]]⁹⁷, [[_004_L1F3/L1F3 support systems\|l1f3 support systems]]⁹⁷, [[_004_L1F3/l1f3 protocol\|l1f3 protocol]]⁹⁶, [[_004_L1F3/l1f3 management ontology\|l1f3 management ontology]]⁹⁷, [[_002_toolkit/000 ⛓ l1f3 player toolkit\|l1f3 player toolkit]]⁹⁷, [[prototypes & designs/made by me/collaborative life map\|collaborative life map]]⁹⁶, [[prototypes & designs/made by me/omnichannel curation feed\|omnichannel curation feed]]⁹⁶, [[experiments/made by me/design/minimum viable intentional personal systems design;setup\|minimum viable intentional personal systems design;setup]]⁹⁶ and [[experiments/made by me/lab/minimum viable intentional personal tech stack;setup\|minimum viable intentional tech stack;setup]]⁹⁴.
 
 ---
 #### key guiding directions/ideas:
@@ -48,6 +135,7 @@ augmenting our [[models & frameworks/design/OODA loop\|OODA loop]]: 1) [[tools f
 
 extremely intentional [[experiments/made by me/design/minimum viable intentional personal systems design;setup\|personal systems design]]: developing across 4 dimensions of a wholistic collaborative [[_004_L1F3/l1f3 management system\|life management system]]. leveraging [[topics/lab/algorithms\|algorithms]], [[responses/design/trust networks\|trust networks]], [[low-tech\|low-tech]] and other forms of existing [[collaborative infrastructure\|collaborative infrastructure]].
 
+---
 #### relevant existing topics/resources:
 
 see: [[references/lab/github starred repositories\|github lists]]

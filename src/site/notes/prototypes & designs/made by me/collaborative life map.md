@@ -1,10 +1,12 @@
 ---
-{"aliases":["🗺 life map","life map","🗺 collaborative life map"],"created in":"2021-12-11T16:51:55-03:00","last tended to":"2023-12-24T16:56:26-03:00","created":"2021-12-11T16:51:55.469-03:00","updated":"2025-01-24T15:57:55.302-03:00","tags":["prototype","🌱","design","mapping","research","curation","sensemaking","socialsensemaking"],"notestage":["🌱"],"dg-publish":true,"relevancescore":95,"permalink":"/prototypes-and-designs/made-by-me/collaborative-life-map/","dgPassFrontmatter":true}
+{"aliases":["🗺 life map","life map","🗺 collaborative life map"],"created in":"2021-12-11T16:51:55-03:00","last tended to":"2023-12-24T16:56:26-03:00","created":"2021-12-11T16:51:55.469-03:00","updated":"2025-01-28T19:09:49.307-03:00","tags":["prototype","🌱","design","mapping","research","curation","sensemaking","socialsensemaking"],"notestage":["🌱"],"dg-publish":true,"relevancescore":96,"permalink":"/prototypes-and-designs/made-by-me/collaborative-life-map/","dgPassFrontmatter":true}
 ---
 
-related: [[projects & tools/made by me/lab/reality mapping\|reality mapping]] / [[_004_L1F3/l1f3 management ontology\|l1f3 management ontology]]
+related: [[_004_L1F3/l1f3 management ontology\|l1f3 management ontology]]
 
 ---
+
+3 layers: [[projects & tools/made by me/lab/reality mapping\|reality mapping]], [[real-world mapping\|real-world mapping]] & [[projects & tools/made by me/lab/internet mapping\|internet mapping]].
 
 a modern application of [[initiatives, orgs & communities/design/buckminster fuller institute\|buckminster fuller]]'s [[projects & tools/projects/player/world game\|world game]] layers of analysis, crowdsourced and crowd-curated.
 

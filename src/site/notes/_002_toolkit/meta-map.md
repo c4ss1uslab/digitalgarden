@@ -272,7 +272,7 @@ added:
 [[projects & tools/tools/lab/amplenote\|amplenote]]
 
 [[tbprocessed/base notes/tools;products - general/notion\|notion]]
-[[tbprocessed/base notes/ventures - general/obsidian\|obsidian]]
+[[projects & tools/tools/lab/obsidian\|obsidian]]
 [[tbprocessed/base notes/ventures - general/roam research\|roam research]]
 [[projects & tools/tools/lab/logseq\|logseq]]
 

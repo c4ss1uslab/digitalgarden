@@ -31,7 +31,7 @@ at first i started using a simple UI on [figma](https://www.figma.com/file/5UpGl
 
 after that, i could keep developing it/connect it to some data source/tracking mechanism, but i started feeling that it wasn't enough for it to be a dashboard dedicated only to self-management. i also wanted it to be a prototype for intentional spatial navigation across [[_001_MOCs/050 🟩 mid game/060 🗡 projects MOC\|projects]], [[_001_MOCs/025 🔷 long game/025 🗺 topics & references MOC\|topics]], [[initiatives, orgs & communities/communities MOC\|communities]], etc. (information in general)
 
-an interface that'd pull information from different sources and help you navigate it - [[youtube\|youtube]], [[tbprocessed/base notes/tools;products - general/notion\|notion]], [[tbprocessed/base notes/ventures - general/obsidian\|obsidian]], [[telegram\|telegram]], [[social media\|social media]], etc - in a user-centric and not platform-centric way.
+an interface that'd pull information from different sources and help you navigate it - [[youtube\|youtube]], [[tbprocessed/base notes/tools;products - general/notion\|notion]], [[projects & tools/tools/lab/obsidian\|obsidian]], [[telegram\|telegram]], [[social media\|social media]], etc - in a user-centric and not platform-centric way.
 
 despite all its back-end / API / interoperability challenges, i started researching how to do it and decided to design/prototype it as a different project, which i called the [[prototypes & designs/made by me/omnichannel curation feed\|📲 omnichannel curation feed]].
 
@@ -45,7 +45,7 @@ i started visually sketching it on figma as well, as you can see below.
 
 today, it's more possible to make this "navigation dashboard" within obsidian itself (it has the canvas function and the excalidraw plugin), but they're still not intended for that (multiple cache/loading/GPU usage/UI/data management problems).
 
-in a few years when [soft.space](https://soft.space) is more advanced, it may be better to continue building this there. [[fermat.ws\|fermat.ws]], [[kosmik\|kosmik]] and a few other [[spatial tools for thought\|spatial tools for thought]] also seem like viable alternatives. maybe creating something custom in a [[game engine\|game engine]], or building on top of something like [[projects & tools/tools/lab/rvbbit\|rvbbit]] or [[people/references/lab/udara jay\|udara jay]]'s [stats](https://github.com/UdaraJay/Stats).
+in a few years when [soft.space](https://soft.space) is more advanced, it may be better to continue building this there. [[projects & tools/tools/lab/fermat.ws\|fermat.ws]], [[projects & tools/tools/lab/kosmik\|kosmik]] and a few other [[spatial tools for thought\|spatial tools for thought]] also seem like viable alternatives. maybe creating something custom in a [[game engine\|game engine]], or building on top of something like [[projects & tools/tools/lab/rvbbit\|rvbbit]] or [[people/references/lab/udara jay\|udara jay]]'s [stats](https://github.com/UdaraJay/Stats).
 
 ##### references
 

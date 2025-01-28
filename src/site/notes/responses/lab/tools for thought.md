@@ -47,7 +47,7 @@ despite that, i still follow closely and experiment with a bunch of the current 
 
 the list of 79 "tools for thought" i'm tracking: https://twitter.com/i/lists/1401589596635402250
 
-the ones i'm following more closely are: [[tbprocessed/base notes/ventures - general/obsidian\|obsidian]], [[projects & tools/projects/lab/subconscious (tool)\|subconscious (tool)]], [[projects & tools/tools/lab/softspace\|softspace]], [[tana\|tana]], [[fermat.ws\|fermat.ws]], [[capacities\|capacities]], [[kosmik\|kosmik]], [[omniscience\|omniscience]], [[heptabase\|heptabase]], [[napkin\|napkin]], [[scrintal\|scrintal]] and [[dendron\|dendron]].
+the ones i'm following more closely are: [[projects & tools/tools/lab/obsidian\|obsidian]], [[projects & tools/projects/lab/subconscious (tool)\|subconscious (tool)]], [[projects & tools/tools/lab/softspace\|softspace]], [[projects & tools/tools/lab/tana\|tana]], [[projects & tools/tools/lab/fermat.ws\|fermat.ws]], [[capacities\|capacities]], [[projects & tools/tools/lab/kosmik\|kosmik]], [[omniscience\|omniscience]], [[heptabase\|heptabase]], [[projects & tools/tools/lab/napkin\|napkin]], [[projects & tools/tools/lab/scrintal\|scrintal]] and [[dendron\|dendron]].
 
 non-traditional PKM tools:
 [[patera\|patera]], [[research rabbit\|research rabbit]], (...)

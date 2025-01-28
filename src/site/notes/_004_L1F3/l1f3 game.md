@@ -1,5 +1,5 @@
 ---
-{"aliases":["🕹 l1f3 game","life game","🕹 life game","massively-multiplayer online-and-offline collaborative self-transformation & civilization-building game","L1F3.GAME","l1f3.game","🕹 L1F3.game","🕹 L1F3 game","🕹 L1F3.GAME","L1F3 game","L1F3.game"],"created in":"2022-02-05T11:41:05-03:00","last tended to":"2024-09-29T14:37:10-03:00","tags":["l1f3","project","🌿","game","seriousgame","player"],"dg-publish":true,"notestage":["🌿"],"created":"2022-02-05T11:41:05.535-03:00","updated":"2025-01-22T15:26:39.368-03:00","permalink":"/004-l1-f3/l1f3-game/","dgPassFrontmatter":true}
+{"aliases":["🕹 l1f3 game","life game","🕹 life game","massively-multiplayer online-and-offline collaborative self-transformation & civilization-building game","L1F3.GAME","l1f3.game","🕹 L1F3.game","🕹 L1F3 game","🕹 L1F3.GAME","L1F3 game","L1F3.game"],"created in":"2022-02-05T11:41:05-03:00","last tended to":"2024-09-29T14:37:10-03:00","tags":["l1f3","project","🌿","game","seriousgame","player"],"dg-publish":true,"notestage":["🌿"],"created":"2022-02-05T11:41:05.535-03:00","updated":"2025-01-28T19:08:15.573-03:00","relevancescore":97,"permalink":"/004-l1-f3/l1f3-game/","dgPassFrontmatter":true}
 ---
 
 the l1f3 game is an ongoing endeavor to:
@@ -140,7 +140,7 @@ examples: [[references/player/games/ashes of creation\|ashes of creation]] - htt
 [[projects & tools/projects/player/startover.xyz\|startover.xyz]]'s experiments catalog
 [[united planet\|united planet]] 2030 (SEEDS) / [[school of humanity\|school of humanity]]
 [[people/references/architect;design/gnoman\|gnoman]]'s [regenaissance festival](https://docs.google.com/document/d/1toqpJ8IcOnc-TeP_-AnGNEKz5jTIZk6OeWj2XD1REuE/edit) / [[edgar gouvea jr\|edgar gouvea jr]]'s gincanas
-playful software - [[hyperlink.academy\|hyperlink.academy]], [[sane.fyi\|sane.fyi]], [[fermat.ws\|fermat.ws]], [[mmm.pages\|mmm.pages]], [[huggingface\|huggingface]] spaces, others in the [[indieweb\|indieweb]] space
+playful software - [[hyperlink.academy\|hyperlink.academy]], [[sane.fyi\|sane.fyi]], [[projects & tools/tools/lab/fermat.ws\|fermat.ws]], [[mmm.pages\|mmm.pages]], [[huggingface\|huggingface]] spaces, others in the [[indieweb\|indieweb]] space
 (more to add...)
 [[X-prize\|X-prize]], [[bootcamps\|bootcamps]], [[hackathons\|hackathons]]...
 

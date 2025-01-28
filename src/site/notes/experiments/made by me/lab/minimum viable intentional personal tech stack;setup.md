@@ -42,7 +42,7 @@ y saved videos (youtube)
 ---
 ### setup under consideration
 
-in 2020, i created a (now outdated) [[prototypes & designs/made by me/notion personal tech stack database\|notion personal tech stack database]] as part of the [[projects & tools/made by me/notion life management system\|notion life management system]]. i will eventually update it with my most recent curation and setup, especially as i move it to [[projects & tools/tools/lab/anytype\|anytype]] or some other form of user-owned local software that does [[relational database\|relational database]] management (possibly [[tbprocessed/base notes/ventures - general/obsidian\|obsidian]]/[[projects & tools/tools/lab/logseq\|logseq]]/[[dendron\|dendron]] with plugins, or a custom solution in the future).
+in 2020, i created a (now outdated) [[prototypes & designs/made by me/notion personal tech stack database\|notion personal tech stack database]] as part of the [[projects & tools/made by me/notion life management system\|notion life management system]]. i will eventually update it with my most recent curation and setup, especially as i move it to [[projects & tools/tools/lab/anytype\|anytype]] or some other form of user-owned local software that does [[relational database\|relational database]] management (possibly [[projects & tools/tools/lab/obsidian\|obsidian]]/[[projects & tools/tools/lab/logseq\|logseq]]/[[dendron\|dendron]] with plugins, or a custom solution in the future).
 
 for now, i'm compiling the tools i've seen/wanted to test here and will slowly adding metadata to them.
 
@@ -57,7 +57,7 @@ for now, i'm compiling the tools i've seen/wanted to test here and will slowly a
 [[patterns/active patterns/knowledge design/social reading highlights\|social reading highlights]] - [[glasp\|glasp]] / [[memex (tool)\|memex (tool)]] / [[hypothes.is\|hypothes.is]]
 [[topics/lab/personal data management\|personal data management]] / [[topics/lab/algorithms\|algorithms]] management - [[activitywatch\|activitywatch]] / [[rize\|rize]] / [[toggl\|toggl]], [[projects & tools/tools/lab/fabric\|fabric]], [[projects & tools/tools/lab/human programming interface\|HPI]]/[[projects & tools/tools/lab/chronicle app\|chronicle app]]?
 [[topics/lab/information management\|information management]] ([[social feeds\|social feeds]]) - [[projects & tools/tools/lab/community archive\|community archive]]/[[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social (ex-tweetscape)]]
-[[responses/lab/knowledge management\|knowledge management]] - [[tbprocessed/base notes/ventures - general/obsidian\|obsidian]]/[[tbprocessed/base notes/tools;products - general/notion\|notion]] + [[plugins\|plugins]]
+[[responses/lab/knowledge management\|knowledge management]] - [[projects & tools/tools/lab/obsidian\|obsidian]]/[[tbprocessed/base notes/tools;products - general/notion\|notion]] + [[plugins\|plugins]]
 (...)
 
 data sources: [[search engines\|search engines]], wikis ([[wikipedia\|wikipedia]] / [[initiatives, orgs & communities/design/golden\|golden]], etc), [[social networks\|social networks]]

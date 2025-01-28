@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-05-28T20:36:27-03:00","last tended to":"2024-10-25T13:57:53-03:00","tags":["design","philosophy","🌱"],"dg-publish":true,"relevancescore":98,"notestage":["🌱"],"created":"2024-05-28T20:36:27.877-03:00","updated":"2025-01-28T14:54:07.638-03:00","permalink":"/006-core-notes/design-philosophies/","dgPassFrontmatter":true}
+{"created in":"2024-05-28T20:36:27-03:00","last tended to":"2024-10-25T13:57:53-03:00","tags":["design","philosophy","🌱"],"dg-publish":true,"relevancescore":98,"notestage":["🌱"],"created":"2024-05-28T20:36:27.877-03:00","updated":"2025-01-28T16:18:47.275-03:00","permalink":"/006-core-notes/design-philosophies/","dgPassFrontmatter":true}
 ---
 
 ##### an introduction to prevailing and emergent design philosophies
@@ -12,6 +12,7 @@ see also: [[projects & tools/projects/design/diome.xyz\|diome.xyz]]'s note on [m
 
 [[concepts/design/circular design\|circular design]]
 [[models & frameworks/design/humane design\|humane design]]
+[[human-centered design\|human-centered design]]
 [[responses/design/values-based design\|values-and-meaning based design]]
 [[responses/regen/regenerative design\|regenerative design]]
 [[concepts/design/agent-centric design\|agent-centric design]] / [[topics/design/holonic design\|holonic]] / [[topics/design/biomimetic design\|biomimetic design]]

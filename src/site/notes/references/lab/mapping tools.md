@@ -3,7 +3,7 @@
 ---
 
 ###### tier 1:
-[[projects & tools/tools/lab/growth lab app\|growth lab app]] ([[projects & tools/tools/lab/atlas of economic complexity\|atlas of economic complexity]], [[tensorflow\|tensorflow]]'s [[projects & tools/tools/lab/embedding projector\|embedding projector]], [[projects & tools/tools/lab/atlas (nomic)\|atlas (nomic)]] ([[initiatives, orgs & communities/lab/nomic AI\|nomic AI]]), [[projects & tools/tools/lab/head start\|head start]] ([[projects & tools/tools/lab/open knowledge maps\|open knowledge maps]]), [[projects & tools/tools/lab/juggl\|juggl]] (in [[tbprocessed/base notes/ventures - general/obsidian\|obsidian]]), [[projects & tools/tools/design/kumu\|kumu]], [[projects & tools/tools/lab/softspace\|softspace]] (in [[topics/lab/XR\|XR]]).
+[[projects & tools/tools/lab/growth lab app\|growth lab app]] ([[projects & tools/tools/lab/atlas of economic complexity\|atlas of economic complexity]], [[tensorflow\|tensorflow]]'s [[projects & tools/tools/lab/embedding projector\|embedding projector]], [[projects & tools/tools/lab/atlas (nomic)\|atlas (nomic)]] ([[initiatives, orgs & communities/lab/nomic AI\|nomic AI]]), [[projects & tools/tools/lab/head start\|head start]] ([[projects & tools/tools/lab/open knowledge maps\|open knowledge maps]]), [[projects & tools/tools/lab/juggl\|juggl]] (in [[projects & tools/tools/lab/obsidian\|obsidian]]), [[projects & tools/tools/design/kumu\|kumu]], [[projects & tools/tools/lab/softspace\|softspace]] (in [[topics/lab/XR\|XR]]).
 
 not tested, but look promising: [sigma.js](https://www.sigmajs.org/), [[gephi\|gephi]] & [[projects & tools/tools/lab/gephi lite\|gephi lite]], [[projects & tools/tools/lab/graphext\|graphext]], [[projects & tools/tools/lab/yworks\|yworks]]...
 

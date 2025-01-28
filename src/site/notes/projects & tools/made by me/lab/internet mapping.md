@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-08-02T03:20:49-03:00","last tended to":"2024-09-02T15:03:03-03:00","tags":["mapping","inquiry","knowledgemanagement","sensemaking","socialsensemaking","project","design","lab","🌿","curation","research"],"created":"2022-08-02T03:20:49.017-03:00","updated":"2025-01-24T15:58:26.744-03:00","dg-publish":true,"relevancescore":95,"notestage":["🌿"],"permalink":"/projects-and-tools/made-by-me/lab/internet-mapping/","dgPassFrontmatter":true}
+{"created in":"2022-08-02T03:20:49-03:00","last tended to":"2024-09-02T15:03:03-03:00","tags":["mapping","inquiry","knowledgemanagement","sensemaking","socialsensemaking","project","design","lab","🌿","curation","research"],"created":"2022-08-02T03:20:49.017-03:00","updated":"2025-01-28T19:09:57.050-03:00","dg-publish":true,"relevancescore":96,"notestage":["🌿"],"permalink":"/projects-and-tools/made-by-me/lab/internet-mapping/","dgPassFrontmatter":true}
 ---
 
 ##### "maps of the internet" projects:

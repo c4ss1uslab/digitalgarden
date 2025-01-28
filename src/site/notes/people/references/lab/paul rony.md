@@ -4,4 +4,4 @@
 
 https://twitter.com/Paul_Rony
 
-founder of [[kosmik\|kosmik]], which also has a great [newsletter](https://kosmikapp.substack.com/) on the history of [[topics/lab/computer science\|computer science]], [[topics/lab/interfaces MOC\|user interfaces]] and more.
+founder of [[projects & tools/tools/lab/kosmik\|kosmik]], which also has a great [newsletter](https://kosmikapp.substack.com/) on the history of [[topics/lab/computer science\|computer science]], [[topics/lab/interfaces MOC\|user interfaces]] and more.

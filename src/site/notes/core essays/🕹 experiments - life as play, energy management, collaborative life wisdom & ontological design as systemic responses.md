@@ -75,7 +75,7 @@ thankfully with the popularization of therapies and access to other forms of per
 
 a few communities that practice this in some way:
 - quantified self / biohacking [health / energy]
-- productivity/organization ([[tbprocessed/base notes/tools;products - general/notion\|notion]] / [[rize\|rize]]) -> [[topics/lab/personal knowledge management\|PKM]]/[[responses/lab/tools for thought\|TfT]] ([[tbprocessed/base notes/ventures - general/obsidian\|obsidian]] / [[infranodus\|infranodus]]) [[time management\|time management]] / [[topics/lab/personal knowledge management\|personal knowledge management]]
+- productivity/organization ([[tbprocessed/base notes/tools;products - general/notion\|notion]] / [[rize\|rize]]) -> [[topics/lab/personal knowledge management\|PKM]]/[[responses/lab/tools for thought\|TfT]] ([[projects & tools/tools/lab/obsidian\|obsidian]] / [[infranodus\|infranodus]]) [[time management\|time management]] / [[topics/lab/personal knowledge management\|personal knowledge management]]
 - chatGPT code interpreter [personal data analysis, sensemaking] / discovery algorithms/newsletters/follows [curadoria]
 - emotional / spiritual ([[heartmath\|heartmath]], PM practices, integral dashboard, coaching)
 
