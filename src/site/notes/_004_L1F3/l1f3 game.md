@@ -1,5 +1,5 @@
 ---
-{"aliases":["🕹 l1f3 game","life game","🕹 life game","massively-multiplayer online-and-offline collaborative self-transformation & civilization-building game","L1F3.GAME","l1f3.game","🕹 L1F3.game","🕹 L1F3 game","🕹 L1F3.GAME","L1F3 game","L1F3.game"],"created in":"2022-02-05T11:41:05-03:00","last tended to":"2024-09-29T14:37:10-03:00","tags":["l1f3","project","🌿","game","seriousgame","player"],"dg-publish":true,"notestage":["🌿"],"created":"2022-02-05T11:41:05.535-03:00","updated":"2025-01-28T19:08:15.573-03:00","relevancescore":97,"permalink":"/004-l1-f3/l1f3-game/","dgPassFrontmatter":true}
+{"aliases":["🕹 l1f3 game","life game","🕹 life game","massively-multiplayer online-and-offline collaborative self-transformation & civilization-building game","L1F3.GAME","l1f3.game","🕹 L1F3.game","🕹 L1F3 game","🕹 L1F3.GAME","L1F3 game","L1F3.game"],"created in":"2022-02-05T11:41:05-03:00","last tended to":"2024-09-29T14:37:10-03:00","tags":["l1f3","project","🌿","game","seriousgame","player"],"dg-publish":true,"notestage":["🌿"],"created":"2022-02-05T11:41:05.535-03:00","updated":"2025-02-03T17:06:36.631-03:00","relevancescore":97,"permalink":"/004-l1-f3/l1f3-game/","dgPassFrontmatter":true}
 ---
 
 the l1f3 game is an ongoing endeavor to:
@@ -8,13 +8,11 @@ the l1f3 game is an ongoing endeavor to:
 { #cff951}
 
 
-a game oriented towards supporting/challenging us on our path of [[tbprocessed/base notes/concepts - general/conscious evolution\|conscious evolution]] and development of more [[conscious\|conscious]], [[terms/fun\|fun]], [[terms/collaboration\|collaborative]], [[topics/design/regeneration\|regenerative]] and [[tbprocessed/base notes/concepts - general/disruption\|disruptive]]¹ [[topics/design/systems\|systems]] - for addressing our [[concepts/design/metacrisis\|personal and civilizational crises]].
+the L1F3 game is a [[metagame\|metagame]] that aims to support us to [[topics/player/play\|play]] life - individually and collectively - in more [[tbprocessed/base notes/concepts - general/conscious evolution\|conscious]], [[terms/fun\|fun]], [[collaborative\|collaborative]], [[impactful\|impactful]] and [[topics/design/regeneration\|regenerative]] ways, as possible responses to our current [[concepts/design/metacrisis\|personal and civilizational crises]].
 
-for the sake of resilience, values-alignment and accessibility, it has to be built on top of [[_004_L1F3/l1f3 protocol\|an open-source, distributed, modular, interoperable protocol for playing life - individually and together]].
+for the sake of [[resilience\|resilience]], [[concepts/alchemy/values\|values-alignment]] and [[accessibility\|accessibility]], it has to be built on top of [[_004_L1F3/l1f3 protocol\|an open-source, distributed, modular, interoperable protocol for playing life - individually and together]].
 
 #### interoperability across play
-
-the L1F3 game exists so we can play life in more [[conscious\|conscious]], [[terms/fun\|fun]], [[collaborative\|collaborative]], [[impactful\|impactful]] and [[topics/design/regeneration\|regenerative]] ways.
 
 play is both an attitude and an [[terms/action\|action]], it happens at all levels above [[data\|data]], [[terms/information\|information]] and [[knowledge\|knowledge]]. considering the [[models & frameworks/design/OODA loop\|OODA loop]], to play is an agreement, a decision that transforms your whole loop - it changes how you observe, orient, decide and act moving forward.
 
@@ -34,9 +32,7 @@ many other philosophers, anthropologists, researchers, historians, educators, bi
 
 how do we hold space for all these perspectives, and more to come?
 
-[[_004_L1F3/l1f3 protocol\|L1F3 protocol]] is an experimental interoperability protocol for perspectives - testing, evaluating, taking, changing and creating.
-
-related people: [[tbprocessed/base notes/people/peth\|peth]]/[[changethegame\|changethegame]]/[[metadreamer\|metadreamer]], [[people/friends/davi lemos\|davi lemos]], [[people/friends/marcelo peterlini\|marcelo peterlini]], [[victor\|victor]] ([[vibecafe.xyz\|vibecafe.xyz]]), [[people/references/lab/gordon brander\|gordon brander]], [[gui david\|gui david]]/[[ketan agrawal\|ketan agrawal]], [[ana marques\|ana marques]]/[[people/acquaintances/ciano\|ciano]], [[ethan nelson\|ethan nelson]]/[[eric brown\|eric brown]], [[julyanna carmo\|julyanna carmo]]/[[daya\|daya]]/[[ronaldo crispim\|ronaldo crispim]], [[people/acquaintances/luis sérgio ferreira\|luis sérgio ferreira]]/[[people/acquaintances/alex bretas\|alex bretas]].
+[[_004_L1F3/l1f3 protocol\|L1F3 protocol]] is an experimental interoperability protocol for perspectives - taking, testing, evaluating, changing and creating.
 
 ¹see: [[tbprocessed/base notes/concepts - general/disruption\|disruption]].
 
@@ -88,7 +84,7 @@ música do círculo (MdC) is both a community and a practice of improvised music
 
 
 
-as a practice, it's able to create an educational, therapeutic and artistic space at the same time. it inspires cooperation, deep listening and decolonial modes of relating, and through its radical embrace of co-existing levels of consciousness, it inspires us to think about how to create this quality of field in other spaces as well. 
+as a practice, it's able to create an educational, therapeutic and artistic space at the same time. it inspires [[models & frameworks/host/cooperation pedagogy\|cooperation]], [[deep listening\|deep listening]] and [[concepts/alchemy/decolonization\|decolonial]] modes of relating, and through its radical embrace of co-existing levels of [[concepts/alchemy/consciousness\|consciousness]], it inspires us to think about how to create this quality of field in other spaces as well. 
 
 </div></div>
 
@@ -180,14 +176,14 @@ the contents of the writing below are currently haphazard, disjointed and all ov
 
 \+ more on https://www.gameuidatabase.com/
 
-###### game design refs
+###### [[topics/player/game design\|game design]] refs
 
 in the field of [[topics/player/game design\|game design]] there are no established "[[patterns/pattern collections/game design patterns\|game design patterns]]", however there are proposals and compilations made by [staffan bjork & jussi holopainen](http://virt10.itu.chalmers.se/index.php/Main_Page) (2004), [joris dormans](https://pure.hva.nl/ws/portalfiles/portal/141730/556198_Dissertatie_Dormans.pdf) (2012), [jose zagal](https://www.gameontology.com/index.php/Main_Page) (2020), [christopher barney](https://patternlanguageforgamedesign.com/PatternLibraryApp/PatternLibrary/) (2021), and others that are useful references.
 
-###### game theory refs
+###### [[topics/player/game theory\|game theory]] refs
 
 tbd
-###### serious games refs
+###### [[responses/player/serious games\|serious games]] refs
 
 tbd
 ##### 2) existing metagame blocks
