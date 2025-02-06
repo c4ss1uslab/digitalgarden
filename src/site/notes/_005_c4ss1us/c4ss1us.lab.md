@@ -1,5 +1,5 @@
 ---
-{"aliases":["👨🏻‍🔬 c4ss1us.lab",".lab","lab","builder"],"created":"2024-05-22T17:07:42.901-03:00","updated":"2025-02-03T17:08:42.569-03:00","tags":["c4ss1us","lab","🌿"],"notestage":["🌿"],"dg-publish":true,"permalink":"/005-c4ss1us/c4ss1us-lab/","dgPassFrontmatter":true}
+{"aliases":["👨🏻‍🔬 c4ss1us.lab",".lab","lab","builder"],"created":"2024-05-22T17:07:42.901-03:00","updated":"2025-02-06T14:58:17.674-03:00","tags":["c4ss1us","lab","🌿"],"notestage":["🌿"],"dg-publish":true,"permalink":"/005-c4ss1us/c4ss1us-lab/","dgPassFrontmatter":true}
 ---
 
 **see also:** [c4ss1us.lab mmm.page (visual overview)](https://c4ss1us.mmm.page/lab)
@@ -17,7 +17,7 @@ i realized that i wasn't interested in programming per se, but in what could be 
 
 i would have absolutely loved to have [[references/player/anime;manga;webtoon/sword art online\|sword art online]] (or more recent versions of "[[alternate reality gaming\|alternate reality gaming]]" such as [[references/player/anime;manga;webtoon/solo leveling\|solo leveling]] or [[references/player/anime;manga;webtoon/overgeared\|overgeared]]) in real life, but i also really wanted to figure out [[life as play - metagame design, mechanics and the l1f3 player toolkit\|how to play life as well as i can]]. in the most beautiful, cool, exciting, surprising, fulfilling ways possible.
 
-i started questioning: *how could real life be such an adventure?*
+so i started questioning: *how could real life be such an adventure?*
 
 and soon later - if life is the biggest game/project we have, **why the hell are the tools we have for playing/managing it so much worse than we have for managing fictional characters?** 
 
@@ -31,31 +31,55 @@ plus, during my brief period learning the basics of programming, i saw that even
 
 basically, i didn't want to be a [[_005_c4ss1us/c4ss1us.lab\|builder]] for the sake of building things. i wanted to be an [[_005_c4ss1us/c4ss1us.design\|architect]] first.
 
- i'm not saying this was the right approach, nor that it hasn't actually hindered me in many ways, but this path helped me to see much more clearly what i deem as the role of [[topics/design/technology\|technology]] and [[digital systems\|digital systems]] today - see: [[inquiries & heuristics/what technology is actually worth building\|what technology is actually worth building]].
+ i'm not saying this was the "right" approach, nor that it hasn't actually hindered me in many ways, but this path helped me to see much more clearly what i deem as the role of [[topics/design/technology\|technology]] and [[digital systems\|digital systems]] today - see: [[inquiries & heuristics/what technology is actually worth building\|what technology is actually worth building]]⁹⁸.
 
 ---
 #### major challenges to be addressed / fields to work on:
 
-once familiarized with the basics of [[_006_core notes/design philosophies\|design philosophies]] such as [[models & frameworks/design/humane design\|humane]]/[[human-centered design\|human-centered design]] to then move into [[more-than-human-centered design\|more-than-human-centered]], [[concepts/design/circular design\|circular]], [[responses/regen/regenerative design\|regenerative]] and [[responses/design/values-based design\|values-based design]], the orienting question i hold in this field is:
+once familiarized with the basics of [[_006_core notes/design philosophies\|design philosophies]]⁹⁸ such as [[models & frameworks/design/humane design\|humane]]/[[human-centered design\|human-centered design]] and then moving into [[more-than-human-centered design\|more-than-human-centered]], [[concepts/design/circular design\|circular]], [[responses/regen/regenerative design\|regenerative]] and [[responses/design/values-based design\|values-based design]], the orienting question i've been holding in this field is:
 
 - how can technology support [[topics/design/regeneration\|regenerative]] [[_004_L1F3/core concepts/civilization design\|civilization design]], [[_004_L1F3/core concepts/life design\|life design]] and [[_004_L1F3/core concepts/self-transformation\|self-transformation]]?
 
-my prevailing frame/[[_006_core notes/theories of change\|theory of change]] has been that we need to develop: 
-##### 1) a coherent [[concepts/design/sensemaking layer\|sensemaking layer]]
+my prevailing frame/[[_006_core notes/theories of change\|theory of change]]⁹⁸ has been that we need to develop: 
 
-[[information systems\|information systems]] -> [[projects & tools/made by me/lab/reality mapping\|reality maps]], [[concepts/design/knowledge ecologies\|knowledge ecologies]], [[topics/design/research\|research]], [[tbprocessed/base notes/concepts - general/curation\|curation]] & [[concepts/alchemy/sensemaking\|sensemaking]] systems.
+##### 1) a coherent [[concepts/design/sensemaking layer\|sensemaking layer]] on and off the web
 
-##### 2) better [[topics/design/coordination systems\|coordination systems]]
+[[information systems\|information systems]] -> [[projects & tools/made by me/lab/reality mapping\|reality maps]]⁹⁶, [[concepts/design/knowledge ecologies\|knowledge ecologies]]⁹⁶, [[topics/design/research\|research]]⁹⁷, [[tbprocessed/base notes/concepts - general/curation\|curation]]⁹⁶ & [[concepts/alchemy/sensemaking\|sensemaking]]⁹⁸ systems.
+
+##### 2) better [[topics/design/coordination systems\|coordination systems]]⁹⁸
 
 [[topics/design/distributed systems\|distributed]]/[[decentralized systems\|decentralized systems design]] -> [[diagnosis/self-terminating economic system\|economic systems]], [[governance systems\|governance systems]], [[organizational systems\|organizational systems]], [[responses/lab/knowledge management\|knowledge management]], [[data management\|data management]] & [[self-management systems\|self-management systems]].
 
-##### 3) [[_004_L1F3/core concepts/self-management\|self-management]] & [[topics/design/collaboration tools\|collaboration tools]]
+##### 3) [[_004_L1F3/core concepts/self-management\|self-management]]⁹⁷ & [[topics/design/collaboration tools\|collaboration tools]]⁹⁷
 
-[[tools for extended cognition\|tools for extended cognition]] -> [[models & frameworks/design/OODA loop\|OODA loop]] augmentation / [[models & frameworks/design/DIKW pyramid\|DIKW]] management ([[concepts/alchemy/sensemaking\|sensemaking]], [[topics/lab/information management\|information management]], [[knowledge development\|knowledge development]], [[wisdom development\|wisdom development]])
+[[concepts/design/tools for extended cognition\|tools for extended cognition]] -> [[models & frameworks/design/OODA loop\|OODA loop]]⁹⁷ augmentation / [[models & frameworks/design/DIKW pyramid\|DIKW]] management ([[concepts/alchemy/sensemaking\|sensemaking]], [[topics/lab/information management\|information management]], [[knowledge development\|knowledge development]], [[wisdom development\|wisdom development]])
 
 [[_004_L1F3/core concepts/life management\|life management]] -> [[_004_L1F3/l1f3 management ontology\|l1f3 management ontology]] & [[_002_toolkit/000 ⛓ l1f3 player toolkit\|toolkit]] -> [[concepts/lab/memex\|memex]], [[co-pilot\|co-pilot]], [[responses/lab/recommender systems\|recommender systems]], [[topics/lab/algorithms\|algorithms]], [[responses/lab/mapping\|maps]], [[responses/lab/dashboards\|dashboards]] & more
 
 [[concepts/lab/personal tech stack\|personal & collective tech stacks]] -> [[personal computing\|personal computing]] -> [[responses/lab/permacomputing\|permacomputing]] / [[responses/design/trust networks\|trust networks]] / [[local-first\|local-first]] tech
+
+---
+#### key guiding directions/ideas:
+
+1) how might we design & build new [[economic systems\|economic systems]] that address the foundational [[economic incentives\|economic incentives]] for [[diagnosis/accumulation, extraction, abstraction\|accumulation, extraction, abstraction]] that are driving the [[concepts/design/metacrisis\|metacrisis]]?
+
+[[topics/design/web3\|web3]], [[topics/design/refi\|refi]], [[topics/design/financial incentives for open-source software\|financial incentives for open-source software]], [[topics/player/game theory\|game theory]], (...)
+
+2) how might we [[responses/lab/adapt existing systems\|adapt existing systems]] (reducing harm & expanding utility), while also developing [[topics/design/systemic collapse\|post-collapse]], [[topics/design/regeneration\|regenerative]] [[concepts/design/infrastructure\|infrastructure]]?
+
+[[responses/lab/permacomputing\|permacomputing]], [[low-tech\|low-tech]] approaches, [[_001_MOCs/050 🟩 mid game/070 🔩 prototypes MOC\|prototypes]], etc.
+
+1) what is the role of computers and computation in a [[regenerative society\|regenerative society]]?
+
+a humane [[concepts/lab/dynamic medium\|dynamic medium]]: one that integrates [[responses/lab/dynamic visualizations\|dynamic visualizations]], [[world models\|world models]], [[knowledge representations\|knowledge representations]], [[topics/lab/spatial computing\|spatial computing]], [[concepts/design/extended cognition\|extended cognition]] and more to effectively... (see below)
+
+2) how might we empower ourselves and our communities to navigate the [[concepts/design/metacrisis\|metacrisis]] and create [[omni-win systems\|omni-win systems]]?
+ 
+augmenting our [[models & frameworks/design/OODA loop\|OODA loop]]: 1) [[tools for self-transformation\|tools for self-transformation]] -> 2) tools for [[concepts/alchemy/sensemaking\|sensemaking]] / [[concepts/design/tools for extended cognition\|tools for extended cognition]] -> 3) tools for [[_004_L1F3/core concepts/self-management\|self-management]] -> 4) [[topics/design/collaboration tools\|tools for collaboration]] -> 5) [[topics/design/coordination systems\|coordination systems]] / [[self-actualization\|self-actualization]] systems.
+
+3) how might we get started with designing, building and applying these systems/tools, despite the [[economic\|economic]] and [[concepts/design/infrastructure\|infrastructure]] challenges today?
+
+extremely intentional [[experiments/made by me/design/minimum viable intentional personal systems design;setup\|personal systems design]]: developing across 4 dimensions of a wholistic collaborative [[_004_L1F3/l1f3 management system\|life management system]]. leveraging [[topics/lab/algorithms\|algorithms]], [[responses/design/trust networks\|trust networks]], [[low-tech\|low-tech]] and other forms of existing [[collaborative infrastructure\|collaborative infrastructure]].
 
 ---
 #### core references:
@@ -107,36 +131,13 @@ i have engaged with the tools/projects below to varying degrees. these scores ar
 
 [[topics/lab/large language models\|LLMs]]⁸⁹, [[projects & tools/tools/lab/exa AI\|exa AI]]⁸⁸, [[initiatives, orgs & communities/design/golden\|golden]]⁸⁷, [[projects & tools/tools/lab/find AI\|find AI]]⁸⁴, (...)
 
-##### web-based tools for [[topics/design/research\|research]]⁹⁵/[[responses/lab/mapping\|mapping]]⁹⁴:
+##### web-based tools for [[topics/design/research\|research]]⁹⁷/[[responses/lab/mapping\|mapping]]⁹⁴:
 
 [[initiatives, orgs & communities/design/the society library\|the society library]]⁹⁴, [[projects & tools/tools/lab/atlas (nomic)\|atlas (nomic)]]⁸⁶, [[projects & tools/tools/lab/open knowledge maps\|open knowledge maps]]⁸², [[connected papers\|connected papers]]⁸², [[projects & tools/tools/lab/litmaps\|litmaps]]⁸², [[projects & tools/tools/design/sensemaker\|sensemaker]] (?)
 
 ##### my own [[_001_MOCs/050 🟩 mid game/060 🗡 projects MOC\|projects]]/[[_001_MOCs/050 🟩 mid game/080 🖌 designs MOC\|designs]]/[[_001_MOCs/050 🟩 mid game/070 🔩 prototypes MOC\|prototypes]]:
 
 [[_004_L1F3/l1f3 game\|l1f3 game]]⁹⁷, [[_004_L1F3/L1F3 support systems\|l1f3 support systems]]⁹⁷, [[_004_L1F3/l1f3 protocol\|l1f3 protocol]]⁹⁶, [[_004_L1F3/l1f3 management ontology\|l1f3 management ontology]]⁹⁷, [[_002_toolkit/000 ⛓ l1f3 player toolkit\|l1f3 player toolkit]]⁹⁷, [[prototypes & designs/made by me/collaborative life map\|collaborative life map]]⁹⁶, [[prototypes & designs/made by me/omnichannel curation feed\|omnichannel curation feed]]⁹⁶, [[experiments/made by me/design/minimum viable intentional personal systems design;setup\|minimum viable intentional personal systems design;setup]]⁹⁶ and [[experiments/made by me/lab/minimum viable intentional personal tech stack;setup\|minimum viable intentional tech stack;setup]]⁹⁴.
-
----
-#### key guiding directions/ideas:
-
-1) how might we design & build new [[economic systems\|economic systems]] that address the foundational [[economic incentives\|economic incentives]] for [[diagnosis/accumulation, extraction, abstraction\|accumulation, extraction, abstraction]] that are driving the [[concepts/design/metacrisis\|metacrisis]]?
-
-[[topics/design/web3\|web3]], [[topics/design/refi\|refi]], [[topics/design/financial incentives for open-source software\|financial incentives for open-source software]], [[topics/player/game theory\|game theory]], (...)
-
-2) how might we [[responses/lab/adapt existing systems\|adapt existing systems]] (reducing harm & expanding utility), while also developing [[topics/design/systemic collapse\|post-collapse]], [[topics/design/regeneration\|regenerative]] [[concepts/design/infrastructure\|infrastructure]]?
-
-[[responses/lab/permacomputing\|permacomputing]], [[low-tech\|low-tech]] approaches, [[_001_MOCs/050 🟩 mid game/070 🔩 prototypes MOC\|prototypes]], etc.
-
-3) what is the role of computers and computation in a [[regenerative society\|regenerative society]]?
-
-a humane [[concepts/lab/dynamic medium\|dynamic medium]]: one that integrates [[responses/lab/dynamic visualizations\|dynamic visualizations]], [[world models\|world models]], [[knowledge representations\|knowledge representations]], [[topics/lab/spatial computing\|spatial computing]], [[concepts/design/extended cognition\|extended cognition]] and more to effectively... (see below)
-
-4) how might we empower ourselves and our communities to navigate the [[concepts/design/metacrisis\|metacrisis]] and create [[omni-win systems\|omni-win systems]]?
- 
-augmenting our [[models & frameworks/design/OODA loop\|OODA loop]]: 1) [[tools for self-transformation\|tools for self-transformation]] -> 2) tools for [[concepts/alchemy/sensemaking\|sensemaking]] / [[tools for extended cognition\|tools for extended cognition]] -> 3) tools for [[_004_L1F3/core concepts/self-management\|self-management]] -> 4) [[topics/design/collaboration tools\|tools for collaboration]] -> 5) [[topics/design/coordination systems\|coordination systems]] / [[self-actualization\|self-actualization]] systems.
-
-5) how might we get started with designing, building and applying these systems/tools, despite the [[economic\|economic]] and [[concepts/design/infrastructure\|infrastructure]] challenges today?
-
-extremely intentional [[experiments/made by me/design/minimum viable intentional personal systems design;setup\|personal systems design]]: developing across 4 dimensions of a wholistic collaborative [[_004_L1F3/l1f3 management system\|life management system]]. leveraging [[topics/lab/algorithms\|algorithms]], [[responses/design/trust networks\|trust networks]], [[low-tech\|low-tech]] and other forms of existing [[collaborative infrastructure\|collaborative infrastructure]].
 
 ---
 #### relevant existing topics/resources:

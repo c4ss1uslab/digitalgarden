@@ -88,7 +88,7 @@ added:
 
 [[concepts/design/meta-systemic design\|meta-systemic design]] ([[models & frameworks/design/OODA loop\|OODA loop]] augmentation) / [[core essays/🌐 an introduction to the L1F3 support systems\|L1F3 support systems]]
 
-[[tools for extended cognition\|tools for extended cognition]]
+[[concepts/design/tools for extended cognition\|tools for extended cognition]]
 
 - [[_004_L1F3/core concepts/self-transformation\|_004_L1F3/core concepts/self-transformation]] / [[_004_L1F3/core concepts/self-management\|self-management]]
 
@@ -209,7 +209,7 @@ added:
 [[enablement\|enablement]]
 
 [[topics/lab/information design\|information design]]
-[[tools for extended cognition\|tools for extended cognition]]
+[[concepts/design/tools for extended cognition\|tools for extended cognition]]
 [[responses/lab/tools for thought\|tools for thought]]
 [[tools for action\|tools for action]]
 [[tools for work\|tools for work]]

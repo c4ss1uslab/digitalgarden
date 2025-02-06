@@ -1,5 +1,5 @@
 ---
-{"aliases":["toolkit","🧰 toolkit","player toolkit","🧰 player toolkit","l1f3 player toolkit","🧰 l1f3 player toolkit","life player toolkit","🧰 life player toolkit","L1F3 player toolkit"],"created in":"2022-01-28T09:51:51-03:00","last tended to":"2024-09-29T14:25:40-03:00","tags":["prototype","🌿","selfmanagement","player","l1f3"],"dg-publish":true,"notestage":["🌿"],"created":"2022-01-28T09:51:51.329-03:00","updated":"2025-01-24T16:34:52.532-03:00","relevancescore":97,"permalink":"/002-toolkit/000-l1f3-player-toolkit/","dgPassFrontmatter":true}
+{"aliases":["toolkit","🧰 toolkit","player toolkit","🧰 player toolkit","l1f3 player toolkit","🧰 l1f3 player toolkit","life player toolkit","🧰 life player toolkit","L1F3 player toolkit"],"created in":"2022-01-28T09:51:51-03:00","last tended to":"2024-09-29T14:25:40-03:00","tags":["prototype","🌿","selfmanagement","player","l1f3"],"dg-publish":true,"notestage":["🌿"],"created":"2022-01-28T09:51:51.329-03:00","updated":"2025-02-06T15:08:07.759-03:00","relevancescore":97,"permalink":"/002-toolkit/000-l1f3-player-toolkit/","dgPassFrontmatter":true}
 ---
 
 #### about
@@ -27,7 +27,7 @@ the l1f3 player toolkit is a first version prototype for: a minimal yet complete
 ---
 ##### meta-systems:
 
-[[_004_L1F3/l1f3 game\|🎮 life game]]
+[[_004_L1F3/l1f3 game\|🎮 life game]]⁹⁷
 [[_004_L1F3/l1f3 operating system\|🌌 life operating system]]
 [[_004_L1F3/l1f3 management system\|🧠 life management system]]
 [[_004_L1F3/l1f3 streaming system\|🎥 life streaming system]]
@@ -35,20 +35,20 @@ the l1f3 player toolkit is a first version prototype for: a minimal yet complete
 
 ##### ecosystem commons tools:
 
-[[experiments/made by me/design/minimum viable intentional personal systems design;setup\|🕸 minimum viable intentional personal systems design;setup]]
-[[prototypes & designs/made by me/collaborative life map\|🗺 collaborative life map]]
-[[prototypes & designs/made by me/omnichannel curation feed\|📲 omnichannel curation feed]]
+[[experiments/made by me/design/minimum viable intentional personal systems design;setup\|🕸 minimum viable intentional personal systems design;setup]]⁹⁶
+[[prototypes & designs/made by me/collaborative life map\|🗺 collaborative life map]]⁹⁶
+[[prototypes & designs/made by me/omnichannel curation feed\|📲 omnichannel curation feed]]⁹⁶
 [[prototypes & designs/made by me/on hold/integral radar of developmental initiatives\|📡 initiatives radar]]
-[[experiments/made by me/lab/minimum viable intentional personal tech stack;setup\|💻 minimum viable intentional personal tech stack;setup]]
+[[experiments/made by me/lab/minimum viable intentional personal tech stack;setup\|💻 minimum viable intentional personal tech stack;setup]]⁹⁴
 
 ##### self design tools:
 
 (...)
 ##### life design tools:
 
-[[_006_core notes/12 favorite questions\|12 favorite questions]]
-[[models & frameworks/alchemy/wheel of life\|wheel of life]]
-[[models & frameworks/player/fourgames\|fourgames]]
+[[_006_core notes/12 favorite questions\|12 favorite questions]]⁹⁶
+[[models & frameworks/player/fourgames\|fourgames]]⁹⁴
+[[models & frameworks/alchemy/wheel of life\|wheel of life]]⁹³
 etc.
 ##### systems design tools:
 

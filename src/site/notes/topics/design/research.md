@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-05-22T17:08:17-03:00","last tended to":"2024-07-19T03:13:47-03:00","tags":["topic","research","design","alchemy","🌱"],"created":"2024-05-22T17:08:17.985-03:00","updated":"2025-01-28T19:37:05.218-03:00","notestage":["🌱"],"dg-publish":true,"relevancescore":null,"permalink":"/topics/design/research/","dgPassFrontmatter":true}
+{"created in":"2024-05-22T17:08:17-03:00","last tended to":"2024-07-19T03:13:47-03:00","tags":["topic","research","design","alchemy","🌱"],"created":"2024-05-22T17:08:17.985-03:00","updated":"2025-02-06T14:49:56.992-03:00","notestage":["🌱"],"dg-publish":true,"relevancescore":97,"permalink":"/topics/design/research/","dgPassFrontmatter":true}
 ---
 
 #### open research

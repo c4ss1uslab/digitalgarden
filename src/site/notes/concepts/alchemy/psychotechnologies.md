@@ -1,8 +1,8 @@
 ---
-{"created in":"2024-04-25T15:09:17-03:00","last tended to":"2024-10-12T18:50:07-03:00","tags":["alchemy","concept","metacrisis","superstructure","🌿","response"],"dg-publish":true,"relevancescore":92,"notestage":["🌿"],"permalink":"/concepts/alchemy/psychotechnologies/","dgPassFrontmatter":true,"created":"2024-04-25T15:09:17.861-03:00","updated":"2024-10-12T18:50:07.757-03:00"}
+{"tags":["alchemy","concept","metacrisis","superstructure","🌿","response"],"dg-publish":true,"relevancescore":96,"notestage":["🌿"],"created":"2024-04-25T15:09:17.861-03:00","updated":"2025-02-06T15:02:17.080-03:00","permalink":"/concepts/alchemy/psychotechnologies/","dgPassFrontmatter":true}
 ---
 
-a term often used by folks in the [[concepts/design/metacrisis\|metacrisis]] space.
+a term often used by folks in the [[concepts/design/metacrisis\|metacrisis]] space. i believe contact with/access to psychotechnologies are necessary for any kind of deep [[_004_L1F3/core concepts/self-transformation\|self-transformation]].
 
 great intro by [[euvie ivanova\|euvie ivanova]] - [Psycho-Technologies for the Age of Collapse](https://euvieivanova.substack.com/p/psycho-technologies-for-the-age-of)
 
@@ -28,3 +28,5 @@ another simpler categorization might be:
 > 3.) **Pharmacological** psychotech are compounds that modify cognition, from nootropics like _L-theanine_ and _gingko biloba,_ to _caffeine_**_,_** _cannabis,_ psilocybin_, LSD, DMT_, and many others.
 
 source: [How Psychotechnology Changed Humanity Forever - Chris Perez](https://medium.com/@chrisperez1?source=post_page-----37a31a506022)
+
+---

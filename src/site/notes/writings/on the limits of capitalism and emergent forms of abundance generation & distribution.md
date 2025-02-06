@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-09-25T13:34:41-03:00","last tended to":"2024-10-30T18:31:34-03:00","tags":["🌱","economics","design","essay"],"dg-publish":true,"notestage":["🌱"],"created":"2023-09-25T13:34:41.895-03:00","updated":"2025-01-24T16:49:52.349-03:00","permalink":"/writings/on-the-limits-of-capitalism-and-emergent-forms-of-abundance-generation-and-distribution/","dgPassFrontmatter":true}
+{"created in":"2023-09-25T13:34:41-03:00","last tended to":"2024-10-30T18:31:34-03:00","tags":["🌱","economics","design","essay"],"dg-publish":true,"notestage":["🌱"],"created":"2023-09-25T13:34:41.895-03:00","updated":"2025-02-06T14:42:04.815-03:00","permalink":"/writings/on-the-limits-of-capitalism-and-emergent-forms-of-abundance-generation-and-distribution/","dgPassFrontmatter":true}
 ---
 
 for a breakdown of how capitalism is self-terminating, see: [[people/references/architect;design/daniel schmachtenberger\|daniel schmachtenberger]]'s - [New Economic Series: Part 3 - When the System Is the Source of the Problems – Case Studies](https://civilizationemerging.com/new-economics-series-3/).
@@ -31,7 +31,7 @@ here are a few approaches that aim to address that:
 
 - [[cooperatives\|cooperatives]], [[social enterprises\|social enterprises]], [[non-profits\|non-profits]] -> [[terms/DAOs\|DAOs]], [[DAC\|DAC]]s, [[DHOs\|DHOs]], [[DDOs\|DDOs]], [[DisCOs\|DisCOs]]
 - [[alternative currencies\|alternative currencies]]: [[community currency\|community currency]], [[social currency\|social currency]], (...)
-- resources allocation ([[prototypes & designs/made by others/potluck\|offers/needs]], time/energy)
+- resources allocation ([[prototypes & designs/made by others/potluck\|offers/needs]], [[concepts/alchemy/time\|time]]/[[energy management\|energy]])
 - alternative mechanisms proposed by [[ecosocial consultancies\|ecosocial consultancies]] ([[gift economy\|gift economy]], [[sliding scales\|sliding scales]], etc) and tested in communities like [[tamera\|tamera]], [[findhorn\|findhorn]], [[auroville\|auroville]], [[piracanga\|piracanga]], etc...
 
 #### funding the transition

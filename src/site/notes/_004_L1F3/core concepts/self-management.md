@@ -1,5 +1,9 @@
 ---
-{"aliases":["self-management tools & distinctions","manage oneself","manage yourself","self","self-mngmt"],"created in":"2023-07-25T09:18:23-03:00","last tended to":"2024-10-06T02:57:01-03:00","tags":["concept","selfmanagement","tier1","alchemy","design","🌿"],"dg-publish":true,"notestage":["🌿"],"relevancescore":97,"created":"2023-07-25T09:18:23.349-03:00","updated":"2025-01-21T13:45:43.332-03:00","permalink":"/004-l1-f3/core-concepts/self-management/","dgPassFrontmatter":true}
+{"aliases":["self-management tools & distinctions","manage oneself","manage yourself","self","self-mngmt"],"created in":"2023-07-25T09:18:23-03:00","last tended to":"2024-10-06T02:57:01-03:00","tags":["concept","selfmanagement","tier1","alchemy","design","🌿"],"dg-publish":true,"notestage":["🌿"],"relevancescore":97,"created":"2023-07-25T09:18:23.349-03:00","updated":"2025-02-06T14:48:57.269-03:00","permalink":"/004-l1-f3/core-concepts/self-management/","dgPassFrontmatter":true}
+---
+
+see also: [[_004_L1F3/l1f3 management ontology\|l1f3 management ontology]]⁹⁷, [[models & frameworks/alchemy/AQAL\|AQAL]]⁹⁵/[[references/alchemy/integral OS\|integral OS]]
+
 ---
 
 people that are engaged in "self-management" are usually approaching it from one of 2 perspectives:
@@ -7,6 +11,8 @@ people that are engaged in "self-management" are usually approaching it from one
 1) [[self-tracking\|self-tracking]] / [[topics/lab/quantified self\|quantified self]]
  
 a more data-driven approach, concerned with things such as [[biohacking\|biohacking]]/[[concepts/alchemy/neurohacking\|neurohacking]], [[health metrics\|health metrics]]/[[performance metrics\|performance metrics]], that usually applies [[behavioral psychology\|behavioral psychology]] practices/tools such as [[CBT\|CBT]], [[wim hof\|wim hof]]'s modality of [[breathwork\|breathwork]], and a few other [[mindfulness\|mindfulness]] practices. (+ there's a growing body of research on [[compassion\|compassion]], [[models & frameworks/alchemy/inner development goals\|inner development goals]] and initiatives such as [[projects & tools/tier 2/29k\|29k]], [[tbprocessed/base notes/tools;products - general/superbetter\|superbetter]], etc)...
+
+i refer to a few key references and analyze some [[topics/lab/quantified self\|quantified self]] setups on [[experiments/made by me/player/open-source human experiment\|open-source human experiment]] and [[responses/lab/adapt existing systems\|adapt existing systems]], plus i apply some of my own ideas/designs on the [[prototypes & designs/made by me/l1f3 player dashboard\|l1f3 player dashboard]]⁹⁴.
 
 2) more [[areas/spiritual\|spiritual]] / [[therapeutic\|therapeutic]]
 

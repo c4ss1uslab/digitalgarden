@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-08-18T22:47:46-03:00","last tended to":"2024-10-11T18:39:57-03:00","tags":["experiment","player","interfacedesign","quantifiedself","🌿"],"notestage":["🌿"],"dg-publish":true,"created":"2024-08-18T22:47:46.501-03:00","updated":"2024-11-14T17:31:00.238-03:00","permalink":"/experiments/made-by-me/player/c4ss1us-player-card/","dgPassFrontmatter":true}
+{"created in":"2024-08-18T22:47:46-03:00","last tended to":"2024-10-11T18:39:57-03:00","tags":["experiment","player","interfacedesign","quantifiedself","🌿","host"],"notestage":["🌿"],"dg-publish":true,"created":"2024-08-18T22:47:46.501-03:00","updated":"2025-02-06T14:33:48.298-03:00","relevancescore":91,"permalink":"/experiments/made-by-me/player/c4ss1us-player-card/","dgPassFrontmatter":true}
 ---
 
 #### about
