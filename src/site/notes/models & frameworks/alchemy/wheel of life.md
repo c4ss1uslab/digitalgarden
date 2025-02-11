@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-06-16T17:19:42-03:00","last tended to":"2024-06-20T17:20:38-03:00","tags":["framework","coaching","facilitation","alchemy","design","player"],"dg-publish":true,"created":"2024-06-16T17:19:42.320-03:00","updated":"2025-02-06T15:07:13.330-03:00","relevancescore":93,"permalink":"/models-and-frameworks/alchemy/wheel-of-life/","dgPassFrontmatter":true}
+{"created in":"2024-06-16T17:19:42-03:00","last tended to":"2024-06-20T17:20:38-03:00","tags":["framework","coaching","facilitation","alchemy","design","player","🌱"],"dg-publish":true,"created":"2024-06-16T17:19:42.320-03:00","updated":"2025-02-07T17:11:53.357-03:00","relevancescore":93,"notestage":["🌱"],"permalink":"/models-and-frameworks/alchemy/wheel-of-life/","dgPassFrontmatter":true}
 ---
 
 traditional 8 areas version:

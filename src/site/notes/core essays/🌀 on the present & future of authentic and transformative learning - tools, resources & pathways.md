@@ -1,6 +1,9 @@
 ---
-{"created in":"2024-04-13T13:36:49-03:00","last tended to":"2024-09-24T16:19:26-03:00","tags":["essay","learning","education","🌱"],"aliases":["🌀 on the present & future of authentic and transformative learning"],"dg-publish":true,"notestage":["🌱"],"created":"2024-04-13T13:36:49.487-03:00","updated":"2025-01-24T16:42:30.981-03:00","permalink":"/core-essays/on-the-present-and-future-of-authentic-and-transformative-learning-tools-resources-and-pathways/","dgPassFrontmatter":true}
+{"created in":"2024-04-13T13:36:49-03:00","last tended to":"2024-09-24T16:19:26-03:00","tags":["essay","learning","education","🌱"],"aliases":["🌀 on the present & future of authentic and transformative learning"],"dg-publish":true,"notestage":["🌱"],"created":"2024-04-13T13:36:49.487-03:00","updated":"2025-02-10T17:12:52.479-03:00","permalink":"/core-essays/on-the-present-and-future-of-authentic-and-transformative-learning-tools-resources-and-pathways/","dgPassFrontmatter":true}
 ---
+
+
+the major conceptually innovative frame i'd like to introduce in this article is: [[concepts/design/tools for extended cognition\|tools for extended cognition]]
 
 #### intro & context
 

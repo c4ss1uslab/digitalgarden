@@ -1,5 +1,5 @@
 ---
-{"aliases":["🗺 meta-map","wordcloud","🗾 meta-map"],"created in":"2022-01-03T19:16:10-03:00","last tended to":"2024-09-29T14:42:57-03:00","tags":["design","🌿","research","knowledgedesign","informationdesign","experiment"],"dg-publish":true,"notestage":["🌿"],"created":"2022-01-03T19:16:10.550-03:00","updated":"2025-01-24T16:49:50.326-03:00","permalink":"/002-toolkit/meta-map/","dgPassFrontmatter":true}
+{"aliases":["🗺 meta-map","wordcloud","🗾 meta-map"],"created in":"2022-01-03T19:16:10-03:00","last tended to":"2024-09-29T14:42:57-03:00","tags":["design","🌿","research","knowledgedesign","informationdesign","experiment"],"dg-publish":true,"notestage":["🌿"],"created":"2022-01-03T19:16:10.550-03:00","updated":"2025-02-07T17:33:23.436-03:00","permalink":"/002-toolkit/meta-map/","dgPassFrontmatter":true}
 ---
 
 an extensive list / experimental form of intuitive clustering of all major themes/domains and references i'm working with.
@@ -86,7 +86,7 @@ added:
 
 [[self-actualization infrastructure\|self-actualization infrastructure]]
 
-[[concepts/design/meta-systemic design\|meta-systemic design]] ([[models & frameworks/design/OODA loop\|OODA loop]] augmentation) / [[core essays/🌐 an introduction to the L1F3 support systems\|L1F3 support systems]]
+[[concepts/design/meta-systemic design\|meta-systemic design]] ([[models & frameworks/design/OODA loop\|OODA loop]] augmentation) / [[core essays/🌐 an introduction to the L1F3 game and the L1F3 support systems\|L1F3 support systems]]
 
 [[concepts/design/tools for extended cognition\|tools for extended cognition]]
 

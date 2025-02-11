@@ -1,5 +1,5 @@
 ---
-{"aliases":["👨🏻‍🔬 c4ss1us.lab",".lab","lab","builder"],"created":"2024-05-22T17:07:42.901-03:00","updated":"2025-02-06T14:58:17.674-03:00","tags":["c4ss1us","lab","🌿"],"notestage":["🌿"],"dg-publish":true,"permalink":"/005-c4ss1us/c4ss1us-lab/","dgPassFrontmatter":true}
+{"aliases":["👨🏻‍🔬 c4ss1us.lab",".lab","lab","builder"],"created":"2024-05-22T17:07:42.901-03:00","updated":"2025-02-10T16:28:38.503-03:00","tags":["c4ss1us","lab","🌿"],"notestage":["🌿"],"dg-publish":true,"permalink":"/005-c4ss1us/c4ss1us-lab/","dgPassFrontmatter":true}
 ---
 
 **see also:** [c4ss1us.lab mmm.page (visual overview)](https://c4ss1us.mmm.page/lab)
@@ -15,19 +15,19 @@ back when i was 15 years old (2014), i had a quasi-spiritual experience while de
 
 i realized that i wasn't interested in programming per se, but in what could be built with it. sure, games are cool, but it dawned on me that [[_004_L1F3/l1f3 game\|life is the biggest game there is]].
 
-i would have absolutely loved to have [[references/player/anime;manga;webtoon/sword art online\|sword art online]] (or more recent versions of "[[alternate reality gaming\|alternate reality gaming]]" such as [[references/player/anime;manga;webtoon/solo leveling\|solo leveling]] or [[references/player/anime;manga;webtoon/overgeared\|overgeared]]) in real life, but i also really wanted to figure out [[life as play - metagame design, mechanics and the l1f3 player toolkit\|how to play life as well as i can]]. in the most beautiful, cool, exciting, surprising, fulfilling ways possible.
+i would have absolutely loved to have [[references/player/anime;manga;webtoon/sword art online\|sword art online]] (or more recent versions of "[[alternate reality gaming\|alternate reality gaming]]" such as [[references/player/anime;manga;webtoon/solo leveling\|solo leveling]] or [[references/player/anime;manga;webtoon/overgeared\|overgeared]]) in real life, but i also really wanted to figure out [[core essays/🕹 prototypes, experiments & low-hanging fruits - collaborative life design, energy management, life as play\|how to play life as well as i can]]. in the most beautiful, cool, exciting, surprising, fulfilling ways possible.
 
 so i started questioning: *how could real life be such an adventure?*
 
 and soon later - if life is the biggest game/project we have, **why the hell are the tools we have for playing/managing it so much worse than we have for managing fictional characters?** 
 
-and oh dear, that question has been sending me down into rabbit holes ever since.
+and oh dear, that question has been sending me down into ever-deeper rabbit holes since then.
 
-with the advances of technology, i didn't know what the world could look like in 5-10 years, much less who i'd become after that time. instead of trying to figure out exactly where i wanted to be and plan for an unknowable (though [[topics/design/futures studies\|foreseeable]]) future, i could simply choose become good at [[topics/player/learning\|learning]] itself - so i could learn anything whenever it made itself necessary.
+with the rate of technological progress, i didn't know what the world could look like in 5-10 years, much less who i'd become after that time. instead of trying to figure out exactly where i wanted to be and plan for an unknowable (though [[topics/design/futures studies\|foreseeable]]) future, i simply chose to try to become good at [[topics/player/learning\|learning]] itself - so i could be adaptable and learn anything whenever it was necessary.
 
-that's very ambitious, of course, but there's tons to learn on the subject of [[meta-learning\|meta-learning]] - *[[learning how to learn\|learning how to learn]]. questioning [[what to learn\|what to learn]]. figuring out [[inquiries & heuristics/what technology is actually worth building\|what is actually worth building]]*.
+there's tons to learn on the subject of [[meta-learning\|meta-learning]], that go beyond just *[[learning how to learn\|learning how to learn]].* it involved questioning *[[what to learn\|what to learn]]*. figuring out *[[inquiries & heuristics/what technology is actually worth building\|what is actually worth doing]]*. it gets very philosophical very quickly.
 
-plus, during my brief period learning the basics of programming, i saw that even though there's some creativity to it, there's a lot of rule-following in programming. a 15-year-old opinion is not much to base any conclusions on, but it seemed really obvious that we'd soon figure out a way to automate much of this process (turns out we did - hello [[topics/lab/large language models\|LLMs]] 🙃).
+plus, during my brief period learning the basics of programming, i saw that even though there's some creativity to it, there's also a lot of rule-following in programming. a 15-year-old opinion is not much to base any conclusions on, but it seemed really obvious that we'd soon figure out a way to automate much of this process (turns out we did - hello [[topics/lab/large language models\|LLMs]] 🙃).
 
 basically, i didn't want to be a [[_005_c4ss1us/c4ss1us.lab\|builder]] for the sake of building things. i wanted to be an [[_005_c4ss1us/c4ss1us.design\|architect]] first.
 
@@ -38,17 +38,18 @@ basically, i didn't want to be a [[_005_c4ss1us/c4ss1us.lab\|builder]] for the s
 
 once familiarized with the basics of [[_006_core notes/design philosophies\|design philosophies]]⁹⁸ such as [[models & frameworks/design/humane design\|humane]]/[[human-centered design\|human-centered design]] and then moving into [[more-than-human-centered design\|more-than-human-centered]], [[concepts/design/circular design\|circular]], [[responses/regen/regenerative design\|regenerative]] and [[responses/design/values-based design\|values-based design]], the orienting question i've been holding in this field is:
 
-- how can technology support [[topics/design/regeneration\|regenerative]] [[_004_L1F3/core concepts/civilization design\|civilization design]], [[_004_L1F3/core concepts/life design\|life design]] and [[_004_L1F3/core concepts/self-transformation\|self-transformation]]?
+- how can technology support [[topics/design/regeneration\|regenerative]] forms of [[_004_L1F3/core concepts/civilization design\|civilization design]], [[_004_L1F3/core concepts/life design\|life design]] and [[_004_L1F3/core concepts/self-transformation\|self-transformation]]?
 
-my prevailing frame/[[_006_core notes/theories of change\|theory of change]]⁹⁸ has been that we need to develop: 
+my current findings/[[_006_core notes/theories of change\|theory of change]]⁹⁸ has been that we need to develop: 
 
 ##### 1) a coherent [[concepts/design/sensemaking layer\|sensemaking layer]] on and off the web
 
-[[information systems\|information systems]] -> [[projects & tools/made by me/lab/reality mapping\|reality maps]]⁹⁶, [[concepts/design/knowledge ecologies\|knowledge ecologies]]⁹⁶, [[topics/design/research\|research]]⁹⁷, [[tbprocessed/base notes/concepts - general/curation\|curation]]⁹⁶ & [[concepts/alchemy/sensemaking\|sensemaking]]⁹⁸ systems.
+[[information systems\|information systems]] -> [[projects & tools/made by me/lab/reality mapping\|reality maps]]⁹⁶, [[concepts/design/knowledge ecologies\|knowledge ecologies]]⁹⁶, [[material\|material]]/[[accounting systems\|accounting systems]]⁹⁸, [[topics/design/research\|research]]⁹⁷, [[tbprocessed/base notes/concepts - general/curation\|curation]]⁹⁶ & [[concepts/alchemy/sensemaking\|sensemaking]]⁹⁸ systems.
 
 ##### 2) better [[topics/design/coordination systems\|coordination systems]]⁹⁸
 
-[[topics/design/distributed systems\|distributed]]/[[decentralized systems\|decentralized systems design]] -> [[diagnosis/self-terminating economic system\|economic systems]], [[governance systems\|governance systems]], [[organizational systems\|organizational systems]], [[responses/lab/knowledge management\|knowledge management]], [[data management\|data management]] & [[self-management systems\|self-management systems]].
+[[topics/design/distributed systems\|distributed]]/[[decentralized systems\|decentralized systems design]] -> global scale: [[diagnosis/self-terminating economic system\|economic]], [[governance systems\|governance]], [[organizational systems\|organizational]], [[self-organizing systems\|self-organizing systems]]
+and local-personal scale: [[concepts/design/resources\|resources]], [[responses/lab/knowledge management\|knowledge]], [[data management\|data]] & [[self-management systems\|self-management systems]].
 
 ##### 3) [[_004_L1F3/core concepts/self-management\|self-management]]⁹⁷ & [[topics/design/collaboration tools\|collaboration tools]]⁹⁷
 
@@ -146,7 +147,7 @@ see: [[references/lab/github starred repositories\|github lists]]
 
 \+ weighted [[_001_MOCs/025 🔷 long game/025 🗺 topics & references MOC\|topics]] map:
 [[responses/lab/personal OS design\|personal OS design]] -> [[responses/lab/adapt existing systems\|adapt existing systems]]
-[[topics/lab/algorithms\|algorithms]] -> [[responses/design/personal algorithms design\|personal algorithms design]] -> [[personal system\|personal system]]
+[[topics/lab/algorithms\|algorithms]] -> [[responses/design/personal algorithms design\|personal algorithms design]] -> [[experiments/made by me/design/minimum viable intentional personal systems design;setup\|personal systems design]]
 [[digital environments\|digital environments]] ([[2d\|2d]], [[topics/art/3d\|3d]], [[topics/lab/XR\|XR]], [[views\|views]], [[interfaces\|interfaces]], [[software\|software]], [[games\|games]])
 [[physical environments\|physical environments]] / [[devices\|devices]] / [[concepts/player/artifacts\|artifacts]]
 
@@ -167,9 +168,6 @@ see: [[references/lab/github starred repositories\|github lists]]
 
 
 ---
-#### profiles
+#### social profiles
 
-[[references/lab/github starred repositories\|github]]
-[[projects & tools/tools/lab/twitter\|X]]
-[[projects & tools/tools/lab/instagram\|instagram]]
-[[youtube\|youtube]]
+[[references/lab/github starred repositories\|github]], [[projects & tools/tools/lab/twitter\|X]], [[projects & tools/tools/lab/instagram\|instagram]], [[youtube\|youtube]]

@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-03-28T19:44:29-03:00","last tended to":"2024-10-25T11:51:00-03:00","aliases":["metamodern"],"tags":["concept","alchemy","architect","socialchange","systemschange","🌱","humandevelopment","politics","psychology","sociology"],"relevancescore":96,"dg-publish":true,"notestage":["🌱"],"permalink":"/responses/alchemy/metamodernism/","dgPassFrontmatter":true,"created":"2024-03-28T19:44:29.935-03:00","updated":"2024-10-25T11:51:00.376-03:00"}
+{"created in":"2024-03-28T19:44:29-03:00","last tended to":"2024-10-25T11:51:00-03:00","aliases":["metamodern"],"tags":["concept","alchemy","architect","socialchange","systemschange","🌱","humandevelopment","politics","psychology","sociology"],"relevancescore":96,"dg-publish":true,"notestage":["🌱"],"created":"2024-03-28T19:44:29.935-03:00","updated":"2025-02-10T15:38:17.951-03:00","permalink":"/responses/alchemy/metamodernism/","dgPassFrontmatter":true}
 ---
 
 the metamodern meme sees most of the challenges in the world as a [[topics/alchemy/developmental psychology\|developmental]] challenge.
@@ -17,7 +17,7 @@ as a society, we have major:
 - developmental blindness
 - inner dimensions blindness
 
-and we can conceptualize [[concepts/alchemy/human development\|human development]] as consisting of: stage (cognitive development) ([[smarts\|smarts]]), code (symbolic development) ([[topics/player/learning\|learning]]), state ([[well-being\|well-being]]), depth ([[concepts/alchemy/wisdom\|wisdom]]).
+and we can conceptualize [[concepts/alchemy/human development\|human development]] as consisting of: [[stage\|stage]] (cognitive development) ([[smarts\|smarts]]), [[code\|code]] (symbolic development) ([[topics/player/learning\|learning]]), [[state\|state]] ([[well-being\|well-being]]), [[depth\|depth]] ([[concepts/alchemy/wisdom\|wisdom]]).
 
 ---
 ###### what do they say about the metacrisis?

@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-03-10T15:35:51-03:00","last tended to":"2024-09-29T14:27:38-03:00","aliases":["AQAL framework"],"tags":["framework","integraltheory","🌿","humandevelopment","integral"],"dg-publish":true,"notestage":["🌿"],"relevancescore":95,"created":"2024-03-10T15:35:51.504-03:00","updated":"2025-01-22T15:50:01.512-03:00","permalink":"/models-and-frameworks/alchemy/aqal/","dgPassFrontmatter":true}
+{"created in":"2024-03-10T15:35:51-03:00","last tended to":"2024-09-29T14:27:38-03:00","aliases":["AQAL framework","AQAL model"],"tags":["framework","integraltheory","🌿","humandevelopment","integral"],"dg-publish":true,"notestage":["🌿"],"relevancescore":95,"created":"2024-03-10T15:35:51.504-03:00","updated":"2025-02-10T14:26:07.383-03:00","permalink":"/models-and-frameworks/alchemy/aqal/","dgPassFrontmatter":true}
 ---
 
 AQAL is one of the core frameworks proposed by [[people/references/alchemy/ken wilber\|ken wilber]], it integrates multiple other frameworks into a single one that encapsulates most of [[responses/alchemy/integral theory\|integral theory]].

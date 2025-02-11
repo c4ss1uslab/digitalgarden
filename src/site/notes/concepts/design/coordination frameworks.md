@@ -12,7 +12,7 @@
 [[models & frameworks/design/MEI model\|MEI model]]
 [[diagnosis/generator functions of existential risk\|generator functions of existential risk]]
 [[diagnosis/accumulation, extraction, abstraction\|accumulation, extraction, abstraction]]
-[[state, code, stage, depth\|state, code, stage, depth]]
+[[models & frameworks/alchemy/state, code, stage, depth\|state, code, stage, depth]]
 [[models & frameworks/alchemy/AQAL\|AQAL]]
 [[models & frameworks/alchemy/four facets of integral development\|four facets of integral development]]
 [[models & frameworks/alchemy/inner development goals\|inner development goals]]

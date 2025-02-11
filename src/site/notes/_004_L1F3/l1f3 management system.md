@@ -1,18 +1,26 @@
 ---
-{"aliases":["⚙ LMS","⚙ l1f3 management system","⚙ l1f3 manager","life management system","⚙ life management system","L1F3 management system","⚙ L1F3 management system"],"created in":"2021-12-11T16:52:05-03:00","last tended to":"2024-10-24T21:59:42-03:00","tags":["project","🌿","l1f3","alchemy","design","lab"],"dg-publish":true,"notestage":["🌿"],"created":"2021-12-11T16:52:05.970-03:00","updated":"2025-02-06T15:15:04.992-03:00","permalink":"/004-l1-f3/l1f3-management-system/","dgPassFrontmatter":true}
+{"aliases":["⚙ LMS","⚙ l1f3 management system","⚙ l1f3 manager","life management system","⚙ life management system","L1F3 management system","⚙ L1F3 management system"],"created in":"2021-12-11T16:52:05-03:00","last tended to":"2024-10-24T21:59:42-03:00","tags":["project","🌿","l1f3","alchemy","design","lab"],"dg-publish":true,"notestage":["🌿"],"created":"2021-12-11T16:52:05.970-03:00","updated":"2025-02-10T16:13:25.448-03:00","permalink":"/004-l1-f3/l1f3-management-system/","dgPassFrontmatter":true}
 ---
 
 #### description
 
 this project is my wildly ambitious attempt to design/prototype key elements of the [[responses/lab/personal OS design\|OS of the future]] - its most important [[_001_MOCs/050 🟩 mid game/080 ⚒ tools MOC\|tools]], [[workflows\|workflows]], [[_002_toolkit/019 🤖 agents\|agents]] and [[user interface 1\|interfaces]] - in a way that embeds into its design [[responses/alchemy/integral theory\|integral]]/[[responses/alchemy/metamodernism\|metamodern]] [[_001_MOCs/000 🟣 deep game/010 💠 values & principles MOC\|principles]] and [[_001_MOCs/000 🟣 deep game/010 💠 values & principles MOC\|values]] of supporting human and more-than-human [[concepts/alchemy/thriving\|thriving]] and [[topics/regen/earth regeneration\|regenerating earth]], in an [[open-source\|open-source]], [[modular\|modular]], non-deterministic way, open for customization and augmentation by anyone with other [[biocentric\|biocentric]]/[[protopic\|protopic]]/[[prosocial\|prosocial]] values.
 
-this project is part of an even wilder, more ambitious project - aiming to uncover and redesign our fundamental personal and civilizational [[core essays/🌐 an introduction to the L1F3 support systems\|L1F3 support systems]].
+this project is part of an even wilder, more ambitious project - aiming to uncover and redesign our fundamental personal and civilizational [[core essays/🌐 an introduction to the L1F3 game and the L1F3 support systems\|L1F3 support systems]].
 
 it operates on the premise that if we are able to develop/apply [[_009_notes & highlights from books, videos, articles/transformative tools for thought\|transformative tools for thought]], or better yet - [[concepts/design/tools for extended cognition\|tools for extended cognition]], we can design [[_004_L1F3/core concepts/self-transformation\|ourselves]], our [[_004_L1F3/core concepts/life design\|lives]] and our [[concepts/design/systems design\|systems]] in ways that are more nourishing for the whole.
 
 ---
 #### key references/tools:
 
+##### spiritual
+[[models & frameworks/alchemy/state, code, stage, depth\|state, code, stage, depth]]⁹⁶
+[[models & frameworks/alchemy/AQAL\|AQAL model]]⁹⁵
+[[initiatives, orgs & communities/alchemy/possibility management\|possibility management]]⁹¹
+[[people/friends/ísis schuarts\|ísis schuarts]]' frameworks⁸⁶ (closed-source)
+[[projects & tools/tools/alchemy/human design\|human design]]⁸²
+
+##### technical
 [[projects & tools/tools/lab/chronicle app\|chronicle app]]⁹¹
 [[projects & tools/tools/lab/human programming interface\|human programming interface]]⁹¹
 
