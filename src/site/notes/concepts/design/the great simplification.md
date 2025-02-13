@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-06-17T21:22:30-03:00","last tended to":"2024-11-06T18:52:19-03:00","tags":["concept","top3","metacrisis","systemschange","futures","🌿"],"aliases":["great simplification"],"relevancescore":94,"dg-publish":true,"notestage":["🌿"],"created":"2024-06-17T21:22:30.277-03:00","updated":"2025-01-10T17:28:40.381-03:00","permalink":"/concepts/design/the-great-simplification/","dgPassFrontmatter":true}
+{"created in":"2024-06-17T21:22:30-03:00","last tended to":"2024-11-06T18:52:19-03:00","tags":["concept","top3","metacrisis","systemschange","futures","🌿"],"aliases":["great simplification"],"relevancescore":94,"dg-publish":true,"notestage":["🌿"],"created":"2024-06-17T21:22:30.277-03:00","updated":"2025-02-13T10:58:16.046-03:00","permalink":"/concepts/design/the-great-simplification/","dgPassFrontmatter":true}
 ---
 
 a [[theory\|theory]] proposed by [[nate hagens\|nate hagens]] and the [[institute for energy and our future\|institute for energy and our future]]. it states that we're heading towards a great simplification of our lifestyles and societies in the near (50-100-year) future, driven primarily by our unconscious use of the [[energy\|energy]] and [[materials\|materials]] of our planet and construction of extremely fragile and complicated supply chains/civilizational systems (and therefore we're quickly heading towards shortage/depletion and exponentially-increasing risks of collapse).
@@ -20,6 +20,10 @@ it goes beyond the common [[climate change\|climate change]] narrative that's of
 
 ##### a few relevant quotes/excerpts:
 
-> 77 percent of agricultural land (some 40 million square km [15.4 million square miles]) is used for grazing by cattle (https://www.britannica.com/animal/cattle-livestock), sheep (https://www.britannica.com/animal/domesticated-sheep), goats (https://www.britannica.com/animal/goat), and other livestock (https://www.britannica.com/animal/livestock). This massive conversion of forests, wetlands (https://www.britannica.com/science/wetland), graslands (https://www.britannica.com/science/grassland), and other terrestrial ecosystems has produced a 60 percent decline (on average) in the number of vertebrates (https://www.britannica.com/animal/vertebrate) worldwide since 1970.
+> There is a 99% correlation between GPD and energy use globally. Globally, there is a 0,99 correlation between energy and GDP, and there's a 100% correlation between materials and GDP. We're increasing the offer of renewable energy faster than GDP, that's why there's a slight dissociation between GDP and CO2. Still, CO2 reaches historical records as we try to decarbonize. We will need to reorganize our materials matrix, and this will have several impacts, especially for countries in the global South and for the environment.
+
+> 77 percent of agricultural land (some 40 million square km \[15.4 million square miles]\) is used for grazing by [cattle](https://www.britannica.com/animal/cattle-livestock), [sheep](https://www.britannica.com/animal/domesticated-sheep), [goats](https://www.britannica.com/animal/goat), and [other livestock](https://www.britannica.com/animal/livestock). This massive conversion of forests, [wetlands](https://www.britannica.com/science/wetland), [grasslands](https://www.britannica.com/science/grassland), and other terrestrial ecosystems has produced a 60 percent decline (on average) in the number of [vertebrates](https://www.britannica.com/animal/vertebrate) worldwide since 1970.
 
 key concepts: [[carbon pulse\|carbon pulse]], [[diagnosis/jevons paradox\|jevons paradox]], [[rebound effect\|rebound effect]], [[energy blindness\|energy blindness]], (...)
+
+see also: [[people/references/architect;design/simon michaux\|simon michaux]]

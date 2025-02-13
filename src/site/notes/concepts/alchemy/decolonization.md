@@ -4,6 +4,6 @@
 
 i find this a very good introduction to the field, though accessible mostly for those already onboard with most of its premises (and focusing more on [[higher education\|higher education]]): [GTDF's decolonizing higher education workbook](https://decolonialfutures.net/wp-content/uploads/2021/03/decolonizing-he-workbook-draft-march2021-2.pdf]).
 
-[[initiatives, orgs & communities/regen/culture hack labs\|culture hack labs]] also offers good perspectives in their [issues](https://www.culturehack.io/issues/)/[[post capitalist philanthropy\|post capitalist philanthropy]], but also in a language mostly for insiders. still trying to find the most accessible introductions!
+[[initiatives, orgs & communities/regen/culture hack labs\|culture hack labs]] also offers good perspectives in their [issues](https://www.culturehack.io/issues/)/[[_009_notes & highlights from books, videos, articles/post capitalist philanthropy\|post capitalist philanthropy]], but also in a language mostly for insiders. still trying to find the most accessible introductions!
 
 major references: [[people/references/regen/vanessa andreotti\|vanessa andreotti]], [[bayo akomolafe\|bayo akomolafe]], [[tyson yunkaporta\|tyson yunkaporta]], [[people/references/host/manish jain\|manish jain]], [[nego bispo\|nego bispo]], [[people/references/host/sam sateré mawé\|sam sateré mawé]], [[ailton krenak\|ailton krenak]], (...)

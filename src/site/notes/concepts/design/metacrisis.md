@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-10-31T15:56:54-03:00","last tended to":"2024-11-06T18:52:18-03:00","dg-publish":true,"aliases":["personal and civilizational crises","systemic crises"],"tags":["concept","metacrisis"],"relevancescore":98,"notestage":["🌿"],"created":"2023-10-31T15:56:54.956-03:00","updated":"2025-02-10T12:25:31.190-03:00","permalink":"/concepts/design/metacrisis/","dgPassFrontmatter":true}
+{"created in":"2023-10-31T15:56:54-03:00","last tended to":"2024-11-06T18:52:18-03:00","dg-publish":true,"aliases":["personal and civilizational crises","systemic crises"],"tags":["concept","metacrisis"],"relevancescore":98,"notestage":["🌿"],"created":"2023-10-31T15:56:54.956-03:00","updated":"2025-02-13T12:11:04.990-03:00","permalink":"/concepts/design/metacrisis/","dgPassFrontmatter":true}
 ---
 
 #### about
@@ -32,7 +32,7 @@ we might feel powerless to address all of that, but broadening our [[horizon of 
 ---
 #### recommended resources
 
-one of the simplest introductions i found is this 11-minute video by [[people/references/architect;design/ashley hodgson\|ashley hodgson]]: [What is the Metacrisis? Why is it Hopeful?](https://www.youtube.com/watch?v=kgCHqyq4LHA).
+one of the simplest introductions i found is this 11-minute video by [[people/references/architect;design/ashley hodgson\|ashley hodgson]]: [What is the Metacrisis? Why is it Hopeful?](https://www.youtube.com/watch?v=kgCHqyq4LHA). a bit more technical one is [[people/references/architect;design/najia shaukat lupson\|najia shaukat lupson]]'s [introduction to it](https://www.youtube.com/watch?v=whK3e9ar9dc&list=PLj8H7uBaUwDvd18QrEPugPMD5Z6Y0W-vB&index=1) (47 min).
 
 if you want to get started diving into this content, i strongly recommend checking out [this playlist](https://www.youtube.com/playlist?list=PLj8H7uBaUwDvd18QrEPugPMD5Z6Y0W-vB) that i curated, interwoven with the other text-centric resources i list below.
 
@@ -44,7 +44,7 @@ other references that are briefly introduced in the playlist and that deserve ve
 
 [[references/alchemy/first principles and first values\|first principles and first values - forty-two propositions on cosmoerotic humanism, the meta-crisis and the world to come]]⁹⁶ - a must read. the authors propose that at the root of the metacrisis, there's an [[diagnosis/intimacy crisis\|intimacy crisis]]⁹⁷. a crisis of disconnection. of ourselves, of the other, of the planet - and primarily, of the [[field of value\|field of value]] (which is different but very close to what's often times referred to as "the [[sacred\|sacred]]" or "the [[true\|true]], the [[good\|good]] and the [[beautiful\|beautiful]]" by other [[topics/alchemy/spiritual lineages\|wisdom traditions]]). this, in turn, has deep consequences in the design of pretty much every dominant system and institution in our society today, leading to the many crises we're witnessing.
 
-[[people/references/architect;design/andrea farias\|andrea farias]] ([[projects & tools/projects/design/diome.xyz\|diome.xyz]]⁹⁶), [[people/references/regen/vanessa andreotti\|vanessa andreotti]]⁹⁶ ([[_009_notes & highlights from books, videos, articles/hospicing modernity\|hospicing modernity]]) and [[initiatives, orgs & communities/regen/culture hack labs\|culture hack labs]]⁹⁵ ([[post capitalist philanthropy\|post capitalist philanthropy]] & their [issues](https://www.culturehack.io/issues/)) also evidence the underlying systems dynamics of the [[concepts/design/metacrisis\|metacrisis]] in different but similar ways.
+[[people/references/architect;design/andrea farias\|andrea farias]] ([[projects & tools/projects/design/diome.xyz\|diome.xyz]]⁹⁶), [[people/references/regen/vanessa andreotti\|vanessa andreotti]]⁹⁶ ([[_009_notes & highlights from books, videos, articles/hospicing modernity\|hospicing modernity]]) and [[initiatives, orgs & communities/regen/culture hack labs\|culture hack labs]]⁹⁵ ([[_009_notes & highlights from books, videos, articles/post capitalist philanthropy\|post capitalist philanthropy]] & their [issues](https://www.culturehack.io/issues/)) also evidence the underlying systems dynamics of the [[concepts/design/metacrisis\|metacrisis]] in different but similar ways.
 
 ###### other powerful perspectives include:
 

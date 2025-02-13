@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-08-20T20:44:56-03:00","last tended to":"2024-10-25T14:59:48-03:00","tags":["person","regeneration","metacrisis","brazilian","tier1","indigenous","🌱","alchemy","research"],"dg-publish":true,"relevancescore":96,"notestage":["🌱"],"created":"2024-08-20T20:44:56.880-03:00","updated":"2024-12-23T16:58:07.782-03:00","permalink":"/people/references/regen/vanessa-andreotti/","dgPassFrontmatter":true}
+{"created in":"2024-08-20T20:44:56-03:00","last tended to":"2024-10-25T14:59:48-03:00","tags":["person","regeneration","metacrisis","brazilian","tier1","indigenous","🌱","alchemy","research"],"dg-publish":true,"relevancescore":96,"notestage":["🌱"],"created":"2024-08-20T20:44:56.880-03:00","updated":"2025-02-13T12:11:42.588-03:00","permalink":"/people/references/regen/vanessa-andreotti/","dgPassFrontmatter":true}
 ---
 
 author of [[_009_notes & highlights from books, videos, articles/hospicing modernity\|hospicing modernity]], co-creator of the [[initiatives, orgs & communities/regen/gesturing towards decolonial futures\|gesturing towards decolonial futures]] collective, dean of the faculty of education at the [[university of toronto\|university of toronto]].
@@ -13,7 +13,7 @@ four keys for [[topics/design/regeneration\|regeneration]]:
 [[emotional sobriety\|emotional sobriety]] (heart)
 [[relational maturity\|relational maturity]] (we)
 [[intellectual discernment\|intellectual discernment]] (mind)
-[[intergenerational responsibility\|intergenerational responsibility]] (hands)
+[[intergenerational and inter-species responsibility\|intergenerational and inter-species responsibility]] (hands)
 
 > [!tldr]- curious/controversial/interesting comments on youtube:
 > 
