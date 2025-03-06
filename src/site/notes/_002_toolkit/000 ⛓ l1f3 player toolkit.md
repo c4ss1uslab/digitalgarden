@@ -1,5 +1,5 @@
 ---
-{"aliases":["toolkit","🧰 toolkit","player toolkit","🧰 player toolkit","l1f3 player toolkit","🧰 l1f3 player toolkit","life player toolkit","🧰 life player toolkit","L1F3 player toolkit"],"created in":"2022-01-28T09:51:51-03:00","last tended to":"2024-09-29T14:25:40-03:00","tags":["prototype","🌿","selfmanagement","player","l1f3"],"dg-publish":true,"notestage":["🌿"],"created":"2022-01-28T09:51:51.329-03:00","updated":"2025-02-06T15:08:07.759-03:00","relevancescore":97,"permalink":"/002-toolkit/000-l1f3-player-toolkit/","dgPassFrontmatter":true}
+{"aliases":["toolkit","🧰 toolkit","player toolkit","🧰 player toolkit","l1f3 player toolkit","🧰 l1f3 player toolkit","life player toolkit","🧰 life player toolkit","L1F3 player toolkit"],"created in":"2022-01-28T09:51:51-03:00","last tended to":"2024-09-29T14:25:40-03:00","tags":["prototype","🌿","selfmanagement","player","l1f3"],"dg-publish":true,"notestage":["🌿"],"created":"2022-01-28T09:51:51.329-03:00","updated":"2025-03-01T13:38:35.828-03:00","relevancescore":97,"permalink":"/002-toolkit/000-l1f3-player-toolkit/","dgPassFrontmatter":true}
 ---
 
 #### about
@@ -11,7 +11,7 @@ the l1f3 player toolkit is a first version prototype for: a minimal yet complete
 [[_002_toolkit/001 👨🏻‍🎤 avatar\|👨🏻‍🎤 avatar]] / [[_002_toolkit/001 👨🏻‍🎤 avatar\|001 👨🏻‍🎤 avatar]]
 [[_002_toolkit/002 🔯 codex\|🔯 codex]] / [[_002_toolkit/002 🔯 codex\|002 🔯 codex]]
 [[_002_toolkit/003 🏟 board\|🏟 board]] / [[_002_toolkit/003 🏟 board\|003 🏟 board]]
-[[_002_toolkit/004 🗺 map\|🗺 map]] / [[_002_toolkit/004 🗺 map\|004 🗺 map]]
+[[_002_toolkit/004 🗺 life map\|🗺 map]] / [[_002_toolkit/004 🗺 life map\|004 🗺 life map]]
 [[_002_toolkit/005 🧭 compass\|🧭 compass]] / [[_002_toolkit/005 🧭 compass\|005 🧭 compass]]
 [[_002_toolkit/006 ♟ strategy\|♟ strategy board]] / [[_002_toolkit/006 ♟ strategy\|006 ♟ strategy]]
 [[_002_toolkit/007 🖼 menu\|🖼 menu]] / [[_002_toolkit/007 🖼 menu\|007 🖼 menu]]

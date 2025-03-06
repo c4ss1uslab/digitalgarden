@@ -59,7 +59,7 @@ added:
 
 [[concepts/design/self-augmentation\|self-augmentation]]
 
-[[tbprocessed/base notes/concepts - general/curation\|online curation]] / [[responses/lab/knowledge commons\|knowledge commons]]
+[[topics/design/curation\|online curation]] / [[responses/lab/knowledge commons\|knowledge commons]]
 
 [[topics/player/cooperative games\|cooperative]] / [[coopetitive games\|coopetitive games]]
 
@@ -225,7 +225,7 @@ added:
 [[topics/lab/UX design\|UX design]]
 
 [[topics/design/research\|research]] [[tools\|tools]]/[[topics/lab/algorithms\|algorithms]]
-[[tbprocessed/base notes/concepts - general/curation\|curation]] [[tools\|tools]]/[[topics/lab/algorithms\|algorithms]]
+[[topics/design/curation\|curation]] [[tools\|tools]]/[[topics/lab/algorithms\|algorithms]]
 
 [[RSS feeds\|RSS feeds]]
 

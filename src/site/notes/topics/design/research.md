@@ -9,9 +9,9 @@
 - [[topics/design/online research\|online research]]/[[learning experience design\|learning experience design]] -> who are the influencers in this field (UI/UX design)? who are the curators? what are the tools for organization/collaboration with a good design?
 - [[online research workflow\|online research workflow]] -> having a good navigation flow for discovering/mapping the internet. using search engines is terrible. no pre-visualization, no curation/social aspect, bad user experience.
 - [[online discovery\|online discovery]] -> figuring out where the good stuff on the internet is.
-- [[tbprocessed/base notes/concepts - general/curation\|online curation]]
+- [[topics/design/curation\|online curation]]
 - [[collaborative sensemaking\|collaborative sensemaking]]
-- [[collective intelligence\|collective intelligence]]
+- [[concepts/design/collective intelligence\|collective intelligence]]
 - [[systems mapping\|systems mapping]]
 - [[responses/lab/systems modeling\|systems modeling]]
 - [[systems management\|systems management]]

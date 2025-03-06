@@ -31,4 +31,4 @@ initiatives on the [[data\|data]]/[[sensing\|sensing]] side:
 [[projects & tools/tools/lab/DXOS\|DXOS]]
 (...)
 
-key related concepts: [[topics/design/research\|research]], [[tbprocessed/base notes/concepts - general/curation\|curation]], [[concepts/alchemy/sensemaking\|sensemaking]]
+key related concepts: [[topics/design/research\|research]], [[topics/design/curation\|curation]], [[concepts/alchemy/sensemaking\|sensemaking]]

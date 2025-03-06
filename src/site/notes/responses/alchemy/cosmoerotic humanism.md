@@ -1,10 +1,10 @@
 ---
-{"created in":"2024-03-19T17:52:10-03:00","last tended to":"2024-09-24T16:23:06-03:00","tags":["alchemy","concept","metacrisis","philosophy","🌱"],"relevancescore":96,"dg-publish":true,"notestage":["🌱"],"created":"2024-05-04T18:13:54.780-03:00","updated":"2024-11-21T16:49:28.121-03:00","permalink":"/responses/alchemy/cosmoerotic-humanism/","dgPassFrontmatter":true}
+{"created in":"2024-03-19T17:52:10-03:00","last tended to":"2024-09-24T16:23:06-03:00","tags":["alchemy","concept","metacrisis","philosophy","🌱"],"relevancescore":96,"dg-publish":true,"notestage":["🌱"],"created":"2024-05-04T18:13:54.780-03:00","updated":"2025-03-01T13:35:46.491-03:00","permalink":"/responses/alchemy/cosmoerotic-humanism/","dgPassFrontmatter":true}
 ---
 
-really powerful philosophy proposed by [[david j. temple\|david j. temple]] as an evolution of [[perennial philosophy\|perennial philosophy]], [[topics/alchemy/spiritual lineages\|wisdom traditions]] and [[concepts/alchemy/interior sciences\|interior]]/[[terms/sciences\|exterior sciences]] to address the [[systemic challenges\|systemic challenges]] and [[callings\|callings]] of our time & species.
+really powerful philosophy proposed by [[david j. temple\|david j. temple]] as an integration of [[perennial philosophy\|perennial philosophy]], [[topics/alchemy/spiritual lineages\|wisdom traditions]] and [[concepts/alchemy/interior sciences\|interior]]/[[terms/sciences\|exterior sciences]] to address the [[systemic challenges\|systemic challenges]] and [[callings\|callings]] of our time & species.
 
-associated with: [[people/references/alchemy/ken wilber\|ken wilber]]/[[responses/alchemy/integral theory\|integral theory]], [[concepts/design/metacrisis\|metacrisis]], [[initiatives, orgs & communities/design/civilization research institute\|civilization research institute]].
+associated with: [[people/references/alchemy/ken wilber\|ken wilber]]/[[responses/alchemy/integral theory\|integral theory]], [[zak stein\|zak stein]], [[marc gafni\|marc gafni]], [[concepts/design/metacrisis\|metacrisis]], [[initiatives, orgs & communities/design/civilization research institute\|civilization research institute]].
 
 ---
 ##### recommended resources

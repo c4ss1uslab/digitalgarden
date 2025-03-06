@@ -10,7 +10,7 @@ organized into 18 lists:
 
 [[topics/lab/artificial intelligence\|AI]] - 45 repositories
 [[concepts/lab/memex\|memex]] / [[topics/lab/personal data management\|personal data management]] - 40 repositories
-[[tbprocessed/base notes/concepts - general/curation\|curation]] / [[references/lab/github awesome lists\|github awesome lists]] - 35 repositories
+[[topics/design/curation\|curation]] / [[references/lab/github awesome lists\|github awesome lists]] - 35 repositories
 [[responses/lab/mapping\|mapping]] / [[topics/lab/visualization\|visualization]] - 34 repositories
 [[topics/lab/knowledge graphs\|kgraphs]], [[semantics\|semantics]] & [[topics/lab/social network analysis\|SNA]] - 25 repositories
 [[responses/lab/tools for thought\|tools for thought]] - 21 repositories

@@ -57,7 +57,7 @@ level of depth:
 ##### 🎞 [[knowledge\|knowledge]] / [[topics/design/media\|media]]
 - 🌲 [[topics/design/research\|research]]
 > 📂 [[meta-research consolidation resource\|meta-research consolidation resource]]
-- 🌲 [[tbprocessed/base notes/concepts - general/curation\|curation]]
+- 🌲 [[topics/design/curation\|curation]]
 > 🔥 [[initiatives, orgs & communities/design/sublime (ex-startupy)\|sublime (ex-startupy)]]
 - 🌲 [[concepts/alchemy/sensemaking\|sensemaking]]
 > 📂 [favorite sensemaking videos playlist](https://www.youtube.com/playlist?list=PLj8H7uBaUwDvd18QrEPugPMD5Z6Y0W-vB)
@@ -186,7 +186,7 @@ level of depth:
 	🔥 [[responses/alchemy/integral theory\|integral theory]]
 	🔥 [[initiatives, orgs & communities/alchemy/possibility management\|possibility management]]
 	🔥 [[concepts/design/memetics\|memetics]]
-🌿 [[collective intelligence\|collective intelligence]] tools
+🌿 [[concepts/design/collective intelligence\|collective intelligence]] tools
 	🔥 [[iris AI\|iris AI]]
 	🔥 [[initiatives, orgs & communities/design/sublime (ex-startupy)\|sublime (ex-startupy)]]
 🌱 [[facilitation\|facilitation]] tools
@@ -339,7 +339,7 @@ the future of:
 -   [[topics/design/economics\|economics]] / [[tbprocessed/base notes/topics/resources generation\|resources generation]] / [[resources management\|resources management]]
 -   [[terms/information\|information]] / [[knowledge generation\|knowledge generation]] / [[topics/lab/personal knowledge management\|personal knowledge management]]
 -   [[governance\|governance]] / [[terms/decision-making\|decision-making]] / [[decision management\|decision management]]
--   [[intelligence\|intelligence]] / [[topics/design/research\|research]] / [[responses/lab/mapping\|mapping]] / [[tbprocessed/base notes/concepts - general/curation\|curation]]
+-   [[intelligence\|intelligence]] / [[topics/design/research\|research]] / [[responses/lab/mapping\|mapping]] / [[topics/design/curation\|curation]]
 -   [[physical environments\|physical environments]] / [[digital environments\|digital environments]]
 -   [[topics/design/technology\|technology]]
 

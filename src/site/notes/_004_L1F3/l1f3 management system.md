@@ -1,5 +1,5 @@
 ---
-{"aliases":["⚙ LMS","⚙ l1f3 management system","⚙ l1f3 manager","life management system","⚙ life management system","L1F3 management system","⚙ L1F3 management system"],"created in":"2021-12-11T16:52:05-03:00","last tended to":"2024-10-24T21:59:42-03:00","tags":["project","🌿","l1f3","alchemy","design","lab"],"dg-publish":true,"notestage":["🌿"],"created":"2021-12-11T16:52:05.970-03:00","updated":"2025-02-10T16:13:25.448-03:00","permalink":"/004-l1-f3/l1f3-management-system/","dgPassFrontmatter":true}
+{"aliases":["⚙ LMS","⚙ l1f3 management system","⚙ l1f3 manager","life management system","⚙ life management system","L1F3 management system","⚙ L1F3 management system","life management systems"],"created in":"2021-12-11T16:52:05-03:00","last tended to":"2024-10-24T21:59:42-03:00","tags":["project","🌿","l1f3","alchemy","design","lab"],"dg-publish":true,"notestage":["🌿"],"created":"2021-12-11T16:52:05.970-03:00","updated":"2025-03-01T21:00:51.208-03:00","permalink":"/004-l1-f3/l1f3-management-system/","dgPassFrontmatter":true}
 ---
 
 #### description

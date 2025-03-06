@@ -44,7 +44,7 @@ my current findings/[[_006_core notes/theories of change\|theory of change]]⁹�
 
 ##### 1) a coherent [[concepts/design/sensemaking layer\|sensemaking layer]] on and off the web
 
-[[information systems\|information systems]] -> [[projects & tools/made by me/lab/reality mapping\|reality maps]]⁹⁶, [[concepts/design/knowledge ecologies\|knowledge ecologies]]⁹⁶, [[material\|material]]/[[accounting systems\|accounting systems]]⁹⁸, [[topics/design/research\|research]]⁹⁷, [[tbprocessed/base notes/concepts - general/curation\|curation]]⁹⁶ & [[concepts/alchemy/sensemaking\|sensemaking]]⁹⁸ systems.
+[[information systems\|information systems]] -> [[projects & tools/made by me/lab/reality mapping\|reality maps]]⁹⁶, [[concepts/design/knowledge ecologies\|knowledge ecologies]]⁹⁶, [[material\|material]]/[[accounting systems\|accounting systems]]⁹⁸, [[topics/design/research\|research]]⁹⁷, [[topics/design/curation\|curation]]⁹⁶ & [[concepts/alchemy/sensemaking\|sensemaking]]⁹⁸ systems.
 
 ##### 2) better [[topics/design/coordination systems\|coordination systems]]⁹⁸
 
@@ -120,7 +120,7 @@ i have engaged with the tools/projects below to varying degrees. these scores ar
 
 [[initiatives, orgs & communities/lab/tagstudio\|tagstudio]]⁹¹, [[projects & tools/tools/lab/anytype\|anytype]]⁹⁰, [[projects & tools/tools/lab/fabric\|fabric]]⁹⁰, [[projects & tools/tools/lab/catalist network\|catalist network]]⁹⁰, [[projects & tools/tools/lab/logseq\|logseq]]⁹⁰, [[projects & tools/tools/lab/obsidian\|obsidian]]⁹⁰, [[projects & tools/tools/lab/tana\|tana]]⁸⁹, (...)
 
-##### [[tbprocessed/base notes/concepts - general/curation\|knowledge curation]]⁹⁵ / [[topics/lab/algorithms\|algorithms]]⁹⁵:
+##### [[topics/design/curation\|knowledge curation]]⁹⁵ / [[topics/lab/algorithms\|algorithms]]⁹⁵:
 
 [[projects & tools/tools/lab/community archive\|community archive]]⁹⁴, [[projects & tools/projects/design/sensenets\|sensenets]]⁹³, [[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social]]⁹², [[initiatives, orgs & communities/design/sublime (ex-startupy)\|sublime]]⁸⁸, [[projects & tools/projects/lab/interneto\|interneto]]⁸⁸, [[projects & tools/tools/design/weco\|weco]]⁸⁶
 
