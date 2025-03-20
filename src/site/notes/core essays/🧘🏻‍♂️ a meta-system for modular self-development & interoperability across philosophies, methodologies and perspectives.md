@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-12-14T12:54:40-03:00","last tended to":"2024-09-24T16:19:46-03:00","dg-publish":true,"tags":["alchemy","essay","🌱"],"aliases":["🧘🏻‍♂️ a meta-system for modular self-development"],"notestage":["🌱"],"created":"2023-12-14T12:54:40.894-03:00","updated":"2025-02-10T17:11:17.883-03:00","permalink":"/core-essays/a-meta-system-for-modular-self-development-and-interoperability-across-philosophies-methodologies-and-perspectives/","dgPassFrontmatter":true}
+{"created in":"2023-12-14T12:54:40-03:00","last tended to":"2024-09-24T16:19:46-03:00","dg-publish":true,"tags":["alchemy","essay","🌱"],"aliases":["🧘🏻‍♂️ a meta-system for modular self-development"],"notestage":["🌱"],"created":"2023-12-14T12:54:40.894-03:00","updated":"2025-03-12T12:00:41.327-03:00","permalink":"/core-essays/a-meta-system-for-modular-self-development-and-interoperability-across-philosophies-methodologies-and-perspectives/","dgPassFrontmatter":true}
 ---
 
 sub-title: **approaches to self design, self as a system, encoded philosophy, integral spirituality and conscious life operating systems**.
@@ -51,30 +51,31 @@ there are many people working on [[mediation\|mediation]], [[reconciliation\|rec
 
 we can be forever seeking "who has/what is the more comprehensive/coherent/whole approach". so i believe this is more of an individual unfoldment path. the point here isn't to propose a definitive answer, but an evolutionary one.
 
-how might we shift our way of evaluating a [[topics/alchemy/metaphysics\|metaphysical]] or [[concepts/alchemy/axiology\|axiological]] system, not only by their [[concepts/alchemy/epistemology\|epistemological]] rigour/approach but also by considering, for each individual: "what works now, in the service of what's in my reach, that can support me to continually grow my [[concepts/alchemy/wisdom\|wisdom]] and [[horizon of care\|horizon of care]]?"
+> how might we shift our way of evaluating a [[topics/alchemy/metaphysics\|metaphysical]] or [[concepts/alchemy/axiology\|axiological]] system, not only by their [[concepts/alchemy/epistemology\|epistemological]] rigour/approach but also by considering, for each individual: *"what works now, in service of what's in my reach, that can support me to continually grow my [[concepts/alchemy/wisdom\|wisdom]] and [[horizon of care\|horizon of care]]?"*
 
-we all came here with different [[_001_MOCs/025 🔷 long game/035 🔭 missions MOC\|missions]], [[concepts/alchemy/needs\|needs]], backgrounds and [[_001_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|challenges]]. and while "all paths lead to the tao", not all are equally valuable.
+we all came here with different [[_001_MOCs/025 🔷 long game/035 🔭 missions MOC\|missions]], [[concepts/alchemy/needs\|needs]], [[talents\|talents]] and [[_001_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|challenges]]. and while "all paths lead to the tao", not all are equally valuable.
 
-the age-old challenge of [[_004_L1F3/core concepts/self-transformation\|self-transformation]] is as much a work of [[designing\|design]] as of [[discovery\|discovery]] and [[deconstruction\|deconstruction]].
+the age-old challenge of [[_004_L1F3/core concepts/self-transformation\|self-transformation]] is as much a work of [[designing\|design]] as of [[discovery\|discovery]] and [[deconstruction\|deconstruction]] ([[people/references/alchemy/ken wilber\|ken wilber]]'s model of the [[models & frameworks/alchemy/four facets of integral development\|four facets of integral development]] do a great job of explaining it in terms of: [[concepts/alchemy/waking up\|waking up]], [[concepts/alchemy/growing up\|growing up]], [[concepts/alchemy/cleaning up\|cleaning up]] and [[concepts/alchemy/showing up\|showing up]]).
 
 ![integral dashboard.jpeg](/img/user/images/interfaces%20&%20designs/integral%20dashboard.jpeg)
 
-any new discovery becomes just another "tab" or "widget" there, that opens up a whole rabbit hole of [[discovery\|discovery]] and [[investigation\|investigation]].
+let's take the [[models & frameworks/alchemy/AQAL map\|AQAL map]] - an [[responses/alchemy/integral theory\|integral theory]] consolidation - as a starting point (the dashboard above). any new discovery becomes just another "tab" or "widget" there, that opens up a whole new rabbit hole of [[discovery\|discovery]] and [[investigation\|investigation]].
 
--> why integral is so powerful: it provides as close to an agnostic view as possible (or at least that i've seen). a way of indexing, interpreting and categorizing spiritual (and more) experiences.
+-> why integral is so powerful: it provides as close to an agnostic stance as possible (or at least that i've seen) to integrate perspectives and practices. it provides a way of indexing, interpreting and categorizing spiritual (and more - psychological, sociological, scientific) experiences.
 
-if we break down processes, there are: [[concepts/alchemy/consciousness development\|consciousness development]] itself ([[states\|states]] & [[stages\|stages]]), [[psychological development\|psychological development]], [[topics/player/learning\|learning]], [[lines of intelligence\|lines of intelligence]], [[trauma\|trauma]], [[intimacy development\|intimacy development]], [[shadow work\|shadow work]], [[parts work\|parts work]], [[flow states\|flow states]], [[concepts/alchemy/non-ordinary states of consciousness\|non-ordinary states of consciousness]], etc...
+if we break down some of the core [[_004_L1F3/core concepts/self-transformation\|self-transformation]] processes, there are: [[concepts/alchemy/consciousness development\|consciousness development]] itself ([[states\|states]] & [[stages\|stages]]), [[psychological development\|psychological development]], [[topics/player/learning\|learning]], [[lines of intelligence\|lines of intelligence]], [[trauma\|trauma]], [[intimacy development\|intimacy development]], [[shadow work\|shadow work]], [[parts work\|parts work]], [[flow states\|flow states]], [[concepts/alchemy/non-ordinary states of consciousness\|non-ordinary states of consciousness]], etc...
 
-i favor a modular approach. you don't need to agree with the complete worldview of a certain approach, practice or tradition, but practice/experiment with it and develop more depth over time. the point is to gradually explore, learn and incorporate what makes sense for you into your personal systems.
+i favor a modular approach. you don't need to agree with the complete worldview of a certain approach, practice or tradition, but you can practice/experiment with it and develop more depth over time. the point is to gradually explore, learn and incorporate what makes sense for you into your personal systems.
 
 gamers are usually familiar with this idea since they're often tweaking their games with [[DLCs\|DLCs]] or [[mods\|mods]].
 
 ##### a meta-systemic approach
 
-
+[...]
 ##### your [[_004_L1F3/l1f3 operating system\|life operating system]]
 
 in nerd terms: [[concepts/alchemy/epistemology\|epistemology]], [[topics/alchemy/metaphysics\|metaphysics]], [[concepts/alchemy/ontology\|ontology]], [[ethics\|ethics]]/[[concepts/alchemy/axiology\|axiology]] & [[aesthetics\|aesthetics]].
 
 the set of [[beliefs\|beliefs]], [[concepts/alchemy/values\|values]], [[conditionings\|conditionings]] with which you operate in life.
 
+[...]

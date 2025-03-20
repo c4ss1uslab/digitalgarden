@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-08-28T13:19:51-03:00","last tended to":"2024-11-06T18:50:55-03:00","aliases":["psycho-spiritual alienation","global intimacy disorder"],"tags":["concept","metacrisis","alchemy","🌱"],"relevancescore":97,"notestage":["🌱"],"dg-publish":true,"created":"2024-08-28T13:19:51.383-03:00","updated":"2025-02-17T14:40:36.442-03:00","permalink":"/diagnosis/intimacy-crisis/","dgPassFrontmatter":true}
+{"created in":"2024-08-28T13:19:51-03:00","last tended to":"2024-11-06T18:50:55-03:00","aliases":["psycho-spiritual alienation","global intimacy disorder"],"tags":["concept","metacrisis","alchemy","🌱"],"relevancescore":98,"notestage":["🌱"],"dg-publish":true,"created":"2024-08-28T13:19:51.383-03:00","updated":"2025-03-08T13:13:57.526-03:00","permalink":"/diagnosis/intimacy-crisis/","dgPassFrontmatter":true}
 ---
 
 term proposed by [[david j. temple\|david j. temple]] as part of the [[responses/alchemy/cosmoerotic humanism\|cosmoerotic humanism]] philosophy. i also refer to it as psycho-spiritual alienation. the [[initiatives, orgs & communities/alchemy/church of the intimate web\|church of the intimate web]] also is actively working on addressing it, calling it the [global intimacy disorder](https://publish.obsidian.md/intimateweb/Theology/Core+Theology/Global+Intimacy+Disorder).
