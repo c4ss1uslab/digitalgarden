@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-12-03T15:03:17-03:00","last tended to":"2024-09-24T17:18:15-03:00","dg-publish":true,"aliases":["🎎 the role of curation, community & ambient content"],"tags":["essay","🌿"],"notestage":["🌿"],"created":"2023-12-03T15:03:17.203-03:00","updated":"2025-03-19T21:22:39.631-03:00","permalink":"/core-essays/networked-living-practical-tools-and-perspectives-for-empowering-collectives-amidst-accelerating-attention-and-experience-economies/","dgPassFrontmatter":true}
+{"created in":"2023-12-03T15:03:17-03:00","last tended to":"2024-09-24T17:18:15-03:00","dg-publish":true,"aliases":["🎎 the role of curation, community & ambient content"],"tags":["essay","🌿"],"notestage":["🌿"],"created":"2023-12-03T15:03:17.203-03:00","updated":"2025-03-19T23:31:16.023-03:00","permalink":"/core-essays/networked-living-practical-tools-and-perspectives-for-empowering-collectives-amidst-accelerating-attention-and-experience-economies/","dgPassFrontmatter":true}
 ---
 
 ```ad-warning
@@ -21,21 +21,17 @@ we'll talk about: [[concepts/design/third spaces\|third spaces]], [[energy manag
 perspectives on this page come mostly from a few different places - folks in the [[cozy web\|cozy web]]/[[indie web\|indie web]]/[[slow web\|slow web]] communities, my experience with several [[_005_c4ss1us/c4ss.host\|facilitation]] tools and practices, and in [[topics/alchemy/spirituality\|spiritual]]/[[philosophy\|philosophical]]/[[topics/design/regeneration\|regenerative]] circles...
 
 ----
-##### context:
+##### context
 
 my experience of the COVID-19 pandemics was 1 year longer than everyone else. when it struck, i was already on my 11th month isolated from the world.
 
-i was going through some deep emotional healing processes, and found that my only way to cope was to read, meditate, research and ritualize. essentially, for the whole pandemics and this extra 11 months, i spent 95% of my time alone, in my room, learning about myself and the world, and rediscovering what moved me.
+i was going through some intense emotional healing processes, and found that my only way to cope was to read, meditate, research and ritualize. so during that time i had the privilege - and challenge - of spending 95% of 3 years alone, in my room, introspecting, learning about myself and the world (via books and the internet), while rediscovering what moved me.
 
-during that time, i couldn't find many communities that resonated with what i was experiencing and the themes that were alive to me. so this time in isolation made reflect and research a lot on the themes of [[belonging\|belonging]], the [[internet\|internet]], [[topics/host/community building\|community building]] and [[memetic tribes\|memetic tribes]], especially related to the state and the potential of our [[information ecology\|information ecology]] and [[online communities\|online communities]].
+during that time, i couldn't find many online communities that resonated with what i was experiencing and the themes that were alive to me. so this time in isolation made reflect and research a lot on the themes of [[belonging\|belonging]], the [[internet\|internet]], [[topics/host/community building\|community building]] and [[memetic tribes\|memetic tribes]], especially related to the state and the potential of our [[information ecology\|information ecology]] and [[online communities\|online communities]].
 
 in 2023, my life has been pretty much the opposite. going to ecovillages, farms, marginalized communities, courses, retreats and all sorts of cultural, local community events in são paulo, brazil.
 
-in this article, i aim to share my findings, curation and perspectives on the [[future of communities\|future of communities]] and the [[internet\|internet]] - and subjacent themes, such as the [[terms/metaverse\|metaverse]], [[responses/design/trust networks\|trust networks]] and a lot more.
-
-i bring special attention to **[[intentional online communities\|intentional online communities]]** and **[[concepts/design/third spaces\|third spaces]]** as cultural [[attractors\|attractors]]. they're places that can feel more like home than at home or at work.
-
-and how all of this is deeply related to the realizations i had about [[energy management\|energy management]] during this time in isolation.
+in this article, i aim to gather my findings, curation and perspectives on the [[future of communities\|future of communities]] and the [[internet\|internet]] - and subjacent themes, such as the [[terms/metaverse\|metaverse]], [[responses/design/trust networks\|trust networks]] and a lot more. i bring special attention to **[[intentional online communities\|intentional online communities]]** and **[[concepts/design/third spaces\|third spaces]]** as cultural [[attractors\|attractors]]. they're places that can feel more like home than at home or at work.
 
 ##### definitions
 
@@ -52,7 +48,7 @@ beyond formal [[institutions\|institutions]], communities have long organized as
 a deeper inquiry we'll dive into: what's the role of [[topics/design/curation\|curation]], [[communities\|communities]] & [[distributed sensemaking\|distributed sensemaking]] amidst accelerating [[attention economy\|attention]] & [[experience economy\|experience economies]]? and what tools are available/necessary for them?
 
 
-##### 3) [[_005_c4ss1us/c4ss.host\|facilitation]] - the limitations of the current paradigm
+##### x) [[_005_c4ss1us/c4ss.host\|facilitation]] - the limitations of the current paradigm
 
 we've seen a rise in "community managers" - whether in corporate contexts or in social organizing, and a wider recognition of several facilitation tools and methods.
 
@@ -73,7 +69,7 @@ i'm not the first to point this out, but i'm verbalizing it here since there are
 it's no surprise then that the [[_004_L1F3/L1F3 support systems\|L1F3 support systems]] i've been envisioning aim to integrate these tools/perspectives into people's daily lives and activities. and sustain them as part of a wider context - anchored on a more wholistic approach to [[concepts/design/value\|value]] and [[concepts/design/resources\|resources]] allocation (i.e. [[_004_L1F3/core concepts/life streaming\|life streaming]]). so these tools stop being siloed, cool things that you apply once at an immersion and then forget about it.
 
 ---
-##### 4) emergent responses
+##### x) emergent responses
 
 
 - [[topics/design/coordination systems\|coordination systems]] -> [[diagnosis/self-terminating economic system\|economic systems]], [[models & frameworks/design/8 forms of capital\|8 forms of capital]], [[social activism\|social activism]]
