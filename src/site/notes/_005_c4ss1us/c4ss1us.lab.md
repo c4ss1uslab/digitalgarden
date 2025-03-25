@@ -1,5 +1,5 @@
 ---
-{"aliases":["👨🏻‍🔬 c4ss1us.lab",".lab","lab","builder"],"created":"2024-05-22T17:07:42.901-03:00","updated":"2025-02-10T16:28:38.503-03:00","tags":["c4ss1us","lab","🌿"],"notestage":["🌿"],"dg-publish":true,"permalink":"/005-c4ss1us/c4ss1us-lab/","dgPassFrontmatter":true}
+{"aliases":["👨🏻‍🔬 c4ss1us.lab",".lab","lab","builder"],"created":"2024-05-22T17:07:42.901-03:00","updated":"2025-03-25T16:29:49.647-03:00","tags":["c4ss1us","lab","🌿"],"notestage":["🌿"],"dg-publish":true,"relevancescore":98,"permalink":"/005-c4ss1us/c4ss1us-lab/","dgPassFrontmatter":true}
 ---
 
 **see also:** [c4ss1us.lab mmm.page (visual overview)](https://c4ss1us.mmm.page/lab)
@@ -118,7 +118,7 @@ i have engaged with the tools/projects below to varying degrees. these scores ar
 
 ##### [[topics/lab/information management\|information]]⁹⁶ / [[topics/lab/personal knowledge management\|knowledge management]]⁹⁷:
 
-[[initiatives, orgs & communities/lab/tagstudio\|tagstudio]]⁹¹, [[projects & tools/tools/lab/anytype\|anytype]]⁹⁰, [[projects & tools/tools/lab/fabric\|fabric]]⁹⁰, [[projects & tools/tools/lab/catalist network\|catalist network]]⁹⁰, [[projects & tools/tools/lab/logseq\|logseq]]⁹⁰, [[projects & tools/tools/lab/obsidian\|obsidian]]⁹⁰, [[projects & tools/tools/lab/tana\|tana]]⁸⁹, (...)
+[[projects & tools/tools/lab/fabric\|fabric]]⁹⁴, [[initiatives, orgs & communities/lab/tagstudio\|tagstudio]]⁹¹, [[projects & tools/tools/lab/anytype\|anytype]]⁹⁰, [[projects & tools/tools/lab/catalist network\|catalist network]]⁹⁰, [[projects & tools/tools/lab/logseq\|logseq]]⁹⁰, [[projects & tools/tools/lab/obsidian\|obsidian]]⁹⁰, [[projects & tools/tools/lab/tana\|tana]]⁸⁹, (...)
 
 ##### [[topics/design/curation\|knowledge curation]]⁹⁵ / [[topics/lab/algorithms\|algorithms]]⁹⁵:
 
@@ -130,7 +130,7 @@ i have engaged with the tools/projects below to varying degrees. these scores ar
 
 ##### [[topics/lab/semantic web\|semantic web]]⁹⁶:
 
-[[topics/lab/large language models\|LLMs]]⁸⁹, [[projects & tools/tools/lab/exa AI\|exa AI]]⁸⁸, [[initiatives, orgs & communities/design/golden\|golden]]⁸⁷, [[projects & tools/tools/lab/find AI\|find AI]]⁸⁴, (...)
+[[topics/lab/large language models\|LLMs]]⁹², [[projects & tools/tools/lab/exa AI\|exa AI]]⁹¹, [[initiatives, orgs & communities/design/golden\|golden]]⁸⁷, [[projects & tools/tools/lab/find AI\|find AI]]⁸⁴, (...)
 
 ##### web-based tools for [[topics/design/research\|research]]⁹⁷/[[responses/lab/mapping\|mapping]]⁹⁴:
 

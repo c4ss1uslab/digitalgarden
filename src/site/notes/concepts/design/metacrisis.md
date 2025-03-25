@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-10-31T15:56:54-03:00","last tended to":"2024-11-06T18:52:18-03:00","dg-publish":true,"aliases":["personal and civilizational crises","systemic crises"],"tags":["concept","metacrisis"],"relevancescore":98,"notestage":["🌿"],"created":"2023-10-31T15:56:54.956-03:00","updated":"2025-02-13T12:11:04.990-03:00","permalink":"/concepts/design/metacrisis/","dgPassFrontmatter":true}
+{"created in":"2023-10-31T15:56:54-03:00","last tended to":"2024-11-06T18:52:18-03:00","dg-publish":true,"aliases":["personal and civilizational crises","systemic crises"],"tags":["concept","metacrisis"],"relevancescore":98,"notestage":["🌿"],"created":"2023-10-31T15:56:54.956-03:00","updated":"2025-03-24T16:25:36.877-03:00","permalink":"/concepts/design/metacrisis/","dgPassFrontmatter":true}
 ---
 
 #### about
@@ -32,7 +32,7 @@ we might feel powerless to address all of that, but broadening our [[horizon of 
 ---
 #### recommended resources
 
-one of the simplest introductions i found is this 11-minute video by [[people/references/architect;design/ashley hodgson\|ashley hodgson]]: [What is the Metacrisis? Why is it Hopeful?](https://www.youtube.com/watch?v=kgCHqyq4LHA). a bit more technical one is [[people/references/architect;design/najia shaukat lupson\|najia shaukat lupson]]'s [introduction to it](https://www.youtube.com/watch?v=whK3e9ar9dc&list=PLj8H7uBaUwDvd18QrEPugPMD5Z6Y0W-vB&index=1) (47 min).
+the simplest introductions i found were this [4-minute read](https://ernesto-87727.medium.com/the-metacrisis-how-to-navigate-our-epochs-greatest-challenge-b127a4f23a00) by [[ernesto van peborgh\|ernesto van peborgh]] and this 11-minute video by [[people/references/architect;design/ashley hodgson\|ashley hodgson]]: [What is the Metacrisis? Why is it Hopeful?](https://www.youtube.com/watch?v=kgCHqyq4LHA). a bit more technical one is [[people/references/architect;design/najia shaukat lupson\|najia shaukat lupson]]'s [introduction to the metacrisis podcast](https://www.youtube.com/watch?v=whK3e9ar9dc&list=PLj8H7uBaUwDvd18QrEPugPMD5Z6Y0W-vB&index=1) (47 min).
 
 if you want to get started diving into this content, i strongly recommend checking out [this playlist](https://www.youtube.com/playlist?list=PLj8H7uBaUwDvd18QrEPugPMD5Z6Y0W-vB) that i curated, interwoven with the other text-centric resources i list below.
 

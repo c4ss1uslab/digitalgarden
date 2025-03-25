@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-04-13T13:36:49-03:00","last tended to":"2024-09-24T16:19:26-03:00","tags":["essay","learning","education","🌱"],"aliases":["🌀 on the present & future of authentic and transformative learning"],"dg-publish":true,"notestage":["🌱"],"created":"2024-04-13T13:36:49.487-03:00","updated":"2025-02-10T17:12:52.479-03:00","permalink":"/core-essays/on-the-present-and-future-of-authentic-and-transformative-learning-tools-resources-and-pathways/","dgPassFrontmatter":true}
+{"created in":"2024-04-13T13:36:49-03:00","last tended to":"2024-09-24T16:19:26-03:00","tags":["essay","learning","education","🌱"],"aliases":["🌀 on the present & future of authentic and transformative learning"],"dg-publish":true,"notestage":["🌱"],"created":"2024-04-13T13:36:49.487-03:00","updated":"2025-03-25T12:25:07.856-03:00","permalink":"/core-essays/on-the-present-and-future-of-authentic-and-transformative-learning-tools-resources-and-pathways/","dgPassFrontmatter":true}
 ---
 
 
@@ -9,19 +9,21 @@ the major conceptually innovative frame i'd like to introduce in this article is
 
 learning is a huge topic, so i'll share a few of the perspectives and resources that have been the most alive for me over the past few years.
 
-in this essay i'm going to focus more on the perspective of the individual [[learner\|learner]], as she navigates the increasing complexity of our world.
+in this essay i'm going to focus more on the perspective of the individual [[learner\|learner]], as they navigate the increasing complexity of our world.
 
-institutionalized [[education\|education]] is a very impactful area of our world today, and there are wonderful works of people like [[zak stein\|zak stein]] with [[education in a time between worlds\|education in a time between worlds]] and initiatives that support holistic learning in the form of [[self-development\|self-development]], [[topics/regen/earth regeneration\|regeneration]], [[concepts/alchemy/decolonization\|decolonization]], [[social responsibility\|social responsibility]] and [[civic engagement\|civic engagement]] such as [[bildung\|bildung]], [[initiatives, orgs & communities/regen/ecoversities\|ecoversities]], [[gaia education\|gaia education]], [[civic square\|civic square]] and many others. i have even curated an [[experiments/made by me/player/innovative education projects & organizations database\|innovative education projects & organizations database]].
+institutionalized [[education\|education]] is a very impactful area of our world today, and there are wonderful works of people like [[zak stein\|zak stein]] with [[education in a time between worlds\|education in a time between worlds]] and initiatives that support holistic learning in the form of [[self-development\|self-development]], [[topics/regen/earth regeneration\|regeneration]], [[concepts/alchemy/decolonization\|decolonization]], [[social responsibility\|social responsibility]] and [[civic engagement\|civic engagement]] such as [[bildung\|bildung]], [[initiatives, orgs & communities/regen/ecoversities\|ecoversities]], [[gaia education\|gaia education]], [[civic square\|civic square]] and many others. i have even curated an [[experiments/made by me/player/innovative education projects & organizations database\|innovative education projects & organizations database]] (currently out-of-date, will update some time in the future).
 
-but the discussion about systemic impacts of our existing educational design and emergent approaches will come later. after all, we create institutions, pedagogies, tools, resources and support networks, precisely to support individuals in their learning processes.
+but the discussion about systemic impacts of our existing educational designs and emergent approaches will come later. after all, we create institutions, pedagogies, tools, resources and support networks, precisely to support individuals in their learning processes.
 
-for now, there are many resources out there on [[unschooling\|unschooling]], [[homeschooling\|homeschooling]] and [[topics/player/self-directed learning\|self-directed learning]]. in brazil, there are many folks doing amazing work on this direction such as [[people/acquaintances/alex bretas\|alex bretas]] and [[people/acquaintances/luis sérgio ferreira\|luis sérgio ferreira]], as well as transformative [[topics/player/pedagogical approaches\|pedagogical approaches]] such as [[models & frameworks/host/pedagogia do oprimido\|pedagogy of the oppressed]] and [[models & frameworks/host/cooperation pedagogy\|cooperation pedagogy]] that add to the more disseminated [[montessori\|montessori]], [[models & frameworks/host/waldorf\|waldorf]], [[constructivism\|constructivist]] approaches. beyond their bright contributions to the field, from my own experience of growing up being obsessed with [[topics/player/gaming\|gaming]] and seeing how much it both developed and hindered my [[cognitive processes\|cognitive processes]], i'm particularly interested in the role of [[concepts/player/game\|games]] and [[topics/design/technology\|technology]] in learning.
+for now, there are many resources out there on [[unschooling\|unschooling]], [[homeschooling\|homeschooling]] and [[topics/player/self-directed learning\|self-directed learning]]. in brazil, there are many folks doing amazing work on this direction such as [[people/acquaintances/alex bretas\|alex bretas]] and [[people/acquaintances/luis sérgio ferreira\|luis sérgio ferreira]], as well as transformative [[topics/player/pedagogical approaches\|pedagogical approaches]] such as [[models & frameworks/host/pedagogia do oprimido\|pedagogy of the oppressed]] and [[models & frameworks/host/cooperation pedagogy\|cooperation pedagogy]] that add to the more disseminated [[montessori\|montessori]], [[models & frameworks/host/waldorf\|waldorf]], [[constructivism\|constructivist]] approaches.
 
-there are many fields that deepen this understanding, such as [[responses/player/serious games\|serious games]], (...), [[topics/player/computer supported collaborative learning\|computer supported collaborative learning]], but where i found the most enlightening perspectives/literature was in the studies of [[cognitive science\|cognitive science]], [[concepts/design/extended cognition\|extended cognition]], [[topics/lab/personal knowledge management\|personal knowledge management]] and [[responses/lab/tools for thought\|tools for thought]].
+beyond their bright contributions to the field, from my own experience of growing up being obsessed with [[topics/player/gaming\|gaming]] and seeing how much it both developed and hindered my [[topics/alchemy/developmental psychology\|developmental processes]], i'm particularly interested in the role of [[concepts/player/game\|games]] and [[topics/design/technology\|technology]] in learning as well.
+
+there are many fields that provide avenues for deepening this understanding, such as [[responses/player/serious games\|serious games]], (...), [[topics/player/computer supported collaborative learning\|computer supported collaborative learning]], but where i found the most enlightening perspectives/literature was in the studies of [[cognitive science\|cognitive science]], [[concepts/design/extended cognition\|extended cognition]], [[topics/lab/personal knowledge management\|personal knowledge management]] and [[responses/lab/tools for thought\|tools for thought]].
 
 this, plus the tons of value i found in my own [[topics/design/anthropology\|anthropological]] explorations/research on [[topics/alchemy/spiritual lineages\|wisdom traditions]] such as [[terms/buddhism\|buddhism]], [[taoism\|taoism]] and [[shamanism\|shamanism]], as well as emergent fields such as [[adult development theory\|adult development theory]], [[responses/alchemy/integral theory\|integral theory]] and [[responses/alchemy/metamodernism\|metamodernism]] will compose the majority of this article.
 
-granted, i still haven't delved as deep into early [[topics/lab/cybernetics\|cybernetics]], [[information theory\|information theory]] and a few other [[topics/lab/computer science\|computer scienc-y]] topics, which hold [[responses/design/personal algorithms design\|very interesting insights too]].
+granted, i still haven't delved as deep into early [[topics/lab/cybernetics\|cybernetics]], [[information theory\|information theory]] and a few other [[topics/lab/computer science\|computer scienc-y]] topics, which (from what i've discovered already) hold [[responses/design/personal algorithms design\|very interesting insights too]].
 
 #### a few important distinctions
 
@@ -69,15 +71,17 @@ researchers/practitioners such as [[people/references/lab/maggie appleton\|maggi
 
 \++ communities that apply these principles in practice such as [[responses/art/música do círculo\|música do círculo]] - [[concepts/alchemy/4e cognition\|4e cognition]], [[references/design/4e cognition and music - integrative literature review\|4e cognition and music - integrative literature review]].
 
+they point at something that rings very true to my young, eager, child self: [[visual\|visual]], [[topics/player/spatial intelligence\|spatial]], [[interactive\|interactive]] learning.
 
+other examples are:
+- [explorable explanations](https://explorabl.es/)
+- [gallery of concept visualization](https://conceptviz.github.io/#/e30=)
 
-they point at something that rings very true to my young, eager, child self: ⬇
-
-[[visual\|visual]], [[topics/player/spatial intelligence\|spatial]], [[interactive\|interactive]] learning.
-
-[explorable explanations](https://explorabl.es/)
-[gallery of concept visualization](https://conceptviz.github.io/#/e30=)
-
+```ad-warning
+title: note
+collapse: open
+the contents of the writing below are currently haphazard, disjointed and all over the place. please proceed at your own risk. (*or don't.* feel free to come back later when it'll be hopefully updated and improved.)
+```
 ##### 3) discovery-based learning
 
 learning is much more effective if we have [[immersion\|immersion]] and [[meaning\|meaning]] in a [[terms/persistence\|persistent]] context. -> curiosity-driven, agent-driven vs imposed.

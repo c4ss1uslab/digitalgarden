@@ -2,7 +2,7 @@
 {"created in":"2024-07-12T17:29:32-03:00","last tended to":"2024-08-20T16:01:33-03:00","tags":["toolsforthought","essay","knowledgemanagement","highlights","video","tier1","resource"],"dg-publish":true,"permalink":"/references/design/tools-for-thought-as-cultural-practices-not-computational-objects/","dgPassFrontmatter":true,"created":"2024-07-12T17:29:32.294-03:00","updated":"2024-08-20T16:01:33.888-03:00"}
 ---
 
-amazing article/presentation on the history of the term and field of "[[responses/lab/tools for thought\|tools for thought]]", establishing a few important distinctions. essential to anyone thinking about [[topics/design/anthropology\|anthropology]], [[cognitive science\|cognitive science]], [[technology design\|technology design]] and [[topics/lab/technology development\|development]].
+amazing article/presentation on the history of the term and field of "[[responses/lab/tools for thought\|tools for thought]]", establishing a few important distinctions. essential to anyone thinking about [[topics/design/anthropology\|anthropology]], [[cognitive science\|cognitive science]], [[concepts/design/technology design\|technology design]] and [[topics/lab/technology development\|development]].
 
 i recommend the article version because it goes into more depth on a few of the references, including a part labeled as "draft", with more great loose thoughts and references.
 

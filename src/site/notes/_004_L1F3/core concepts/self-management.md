@@ -1,5 +1,5 @@
 ---
-{"aliases":["self-management tools & distinctions","manage oneself","manage yourself","self","self-mngmt"],"created in":"2023-07-25T09:18:23-03:00","last tended to":"2024-10-06T02:57:01-03:00","tags":["concept","selfmanagement","tier1","alchemy","design","🌿"],"dg-publish":true,"notestage":["🌿"],"relevancescore":97,"created":"2023-07-25T09:18:23.349-03:00","updated":"2025-02-06T14:48:57.269-03:00","permalink":"/004-l1-f3/core-concepts/self-management/","dgPassFrontmatter":true}
+{"aliases":["self-management tools & distinctions","manage oneself","manage yourself","self","self-mngmt"],"created in":"2023-07-25T09:18:23-03:00","last tended to":"2024-10-06T02:57:01-03:00","tags":["concept","selfmanagement","tier1","alchemy","design","🌿"],"dg-publish":true,"notestage":["🌿"],"relevancescore":97,"created":"2023-07-25T09:18:23.349-03:00","updated":"2025-03-25T15:50:02.688-03:00","permalink":"/004-l1-f3/core-concepts/self-management/","dgPassFrontmatter":true}
 ---
 
 see also: [[_004_L1F3/l1f3 management ontology\|l1f3 management ontology]]⁹⁷, [[models & frameworks/alchemy/AQAL\|AQAL]]⁹⁵/[[references/alchemy/integral OS\|integral OS]]
@@ -32,3 +32,5 @@ a good introduction to this broader perspective of self-management by [[neurohac
 ![](https://i.imgur.com/TtylZgY.jpeg)
 
 more on: https://neurohacker.com/the-four-foundational-quadrants-of-neurohacking
+
+a deeper dive into it: [A Field Guide for Homegrown Humans - The Recapture the Rapture Toolkit](https://drive.google.com/file/d/1NaBBiShHttJGDSuh3y_W94LhkeZf57Zu/view?usp=sharing)

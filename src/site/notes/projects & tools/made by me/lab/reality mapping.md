@@ -1,5 +1,5 @@
 ---
-{"created":"2021-12-11T16:51:53.081-03:00","updated":"2025-01-28T16:54:35.897-03:00","tags":["🌱","mapping","metaphysics","epistemology","alchemy","design","project","curation","research","sensemaking"],"notestage":["🌱"],"relevancescore":96,"dg-publish":true,"aliases":["reality maps"],"permalink":"/projects-and-tools/made-by-me/lab/reality-mapping/","dgPassFrontmatter":true}
+{"created":"2021-12-11T16:51:53.081-03:00","updated":"2025-03-25T15:53:08.627-03:00","tags":["🌱","mapping","metaphysics","epistemology","alchemy","design","project","curation","research","sensemaking"],"notestage":["🌱"],"relevancescore":96,"dg-publish":true,"aliases":["reality maps"],"permalink":"/projects-and-tools/made-by-me/lab/reality-mapping/","dgPassFrontmatter":true}
 ---
 
 see also: [[responses/lab/mapping\|mapping]], [[projects & tools/made by me/lab/internet mapping\|internet mapping]], [[prototypes & designs/made by me/collaborative life map\|collaborative life map]]
@@ -11,14 +11,25 @@ a good way i found is through [[people/references/architect;design/andrea farias
 
 ##### superstructure
 
-- [[cartographies of consciousness\|cartographies of consciousness]] / [[cartographies of mind\|cartographies of mind]]
+- [[cartographies of consciousness\|cartographies of consciousness]] / [[cartographies of mind\|cartographies of mind]] / integrated [[concepts/alchemy/consciousness\|consciousness]]/[[parts\|parts]] systems
 
-[[stanislav grof\|stanislav grof]]
-[[people/references/alchemy/ken wilber\|ken wilber]]
-[[tbprocessed/base notes/people/bill plotkin\|bill plotkin]]
-(...)
+[[integral philosophy\|integral philosophy]]
+- [[responses/alchemy/integral theory\|integral theory]]
+- [[responses/alchemy/cosmoerotic humanism\|cosmoerotic humanism]]
+- [[unique self\|unique self]]
+[[transpersonal psychology\|transpersonal psychology]]
+- [[stanislav grof\|stanislav grof]]
+- [[models & frameworks/alchemy/internal family systems\|internal family systems]]
+- [[tbprocessed/base notes/people/bill plotkin\|bill plotkin]]
+[[cognitive science\|cognitive science]]
 [[terms/buddhism\|buddhism]]
-[[sadhguru\|sadhguru]]
+[[vedic philosophy\|vedic philosophy]]
+[[topics/alchemy/yoga\|yoga]]
+
+- [[topics/alchemy/adult development\|adult development]]
+
+[[robert kegan\|robert kegan]]
+[[susanne cook-greuter\|susanne cook-greuter]]
 
 - [[value systems\|value systems]] / [[belief systems\|belief systems]]
 
@@ -26,13 +37,17 @@ a good way i found is through [[people/references/architect;design/andrea farias
 [[people/references/alchemy/hanzi freinacht\|hanzi freinacht]]
 [[david j. temple\|david j. temple]]
 
+- [[experiments/made by me/design/minimum viable intentional personal systems design;setup\|personal systems design]]
+
+(...)
+
 - [[information ecologies\|information ecologies]]
 
 see: [[projects & tools/made by me/lab/internet mapping\|internet mapping]]
 
 ##### physiologic structure
 
-see: [[_004_L1F3/core concepts/self-management\|self-management]]
+see: [[_004_L1F3/core concepts/self-management\|self-management]], [[design science\|design science]], [[models & frameworks/design/metadesign\|metadesign]]
 
 ##### social structure
 
@@ -44,15 +59,15 @@ see: [[_004_L1F3/core concepts/self-management\|self-management]]
 
 - [[technological systems\|technological systems]]
 
-[[dependencies map\|dependencies map]]
+[[dependencies map\|dependencies map]] ([[models & frameworks/design/wardley mapping\|wardley maps]])
 
-- [[services map\|services map]]
+- [[industry maps\|industry maps]]
 
 (...)
 
 ---
 
-another good way of mapping is through:
+another (tentative) good way of mapping is through:
 ##### 5 layers of mapping
 
 from most collective to most individual:
