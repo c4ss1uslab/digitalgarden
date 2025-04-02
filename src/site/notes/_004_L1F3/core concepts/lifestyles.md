@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-11-29T12:38:46-03:00","last tended to":"2024-09-24T16:29:53-03:00","tags":["l1f3","alchemy","design","topic","🌱"],"dg-publish":true,"relevancescore":94,"aliases":["lifestyle"],"notestage":["🌱"],"created":"2022-11-29T12:38:46.892-03:00","updated":"2025-04-02T14:17:41.045-03:00","permalink":"/004-l1-f3/core-concepts/lifestyles/","dgPassFrontmatter":true}
+{"created in":"2022-11-29T12:38:46-03:00","last tended to":"2024-09-24T16:29:53-03:00","tags":["l1f3","alchemy","design","topic","🌱"],"dg-publish":true,"relevancescore":94,"aliases":["lifestyle"],"notestage":["🌱"],"created":"2022-11-29T12:38:46.892-03:00","updated":"2025-04-02T16:52:28.221-03:00","permalink":"/004-l1-f3/core-concepts/lifestyles/","dgPassFrontmatter":true}
 ---
 
 **see also:** [[models & frameworks/player/fourgames\|fourgames]] for a minimal framework for life(style) management;
@@ -10,13 +10,13 @@
 
 ---
 
-i believe the design of our lifestyles has a dramatic impact on our lives, and this is something that pretty much isn't discussed, even in circles that talk about [[_004_L1F3/core concepts/self-transformation\|self-transformation]], [[social change\|social change]], [[topics/design/regeneration\|regeneration]] or [[_004_L1F3/core concepts/civilization design\|civilization design]] in general.
+i believe the design of our lifestyles has a dramatic impact on our lives, and this is something that isn't discussed or theorized nearly enough, not even in circles that talk about [[_004_L1F3/core concepts/self-transformation\|self-transformation]], [[social change\|social change]], [[topics/design/regeneration\|regeneration]] or [[_004_L1F3/core concepts/civilization design\|civilization design]] in general.
 
-the term "[[topics/design/lifestyle design\|lifestyle design]]" did rise in popularity with digital nomads and such, but the major resources that emerged with it, like [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/contacts master list/contacts master list/tim ferriss\|tim ferriss]]' [[4-hour workweek\|4-hour workweek]] and [[references/design/designing your life\|designing your life]] are tremendously superficial, besides carrying very eurocentric biases.
+the term "[[topics/design/lifestyle design\|lifestyle design]]" did rise in popularity with digital nomads and such, but the major resources that emerged with it, like [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/contacts master list/contacts master list/tim ferriss\|tim ferriss]]' [[4-hour workweek\|4-hour workweek]] and [[references/design/designing your life\|designing your life]] are tremendously superficial, besides carrying very euro-centric biases.
 
-this is both a [[sociological\|sociological]], [[topics/design/anthropology\|anthropological]] and a practical self-reflective analysis towards [[life improvement\|life improvement]].
+the task of "designing a lifestyle" has a [[sociological\|sociological]], [[topics/design/anthropology\|anthropological]], [[philosophical\|philosophical]] nature, and it's also a very practical tool for self-reflection on the life-long path of [[self-unfoldment\|self-unfoldment]].
 
-###### so here are a few of my inquiries:
+###### so here are a few of my key inquiries:
 
 - [[inquiries & heuristics/what are the common types;categories of lifestyles - and what do they tell us about how our society is organized\|what are the common types;categories of lifestyles - and what do they tell us about how our society is organized]]?
 
