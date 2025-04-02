@@ -9,7 +9,7 @@ see also: [[_006_core notes/design philosophies\|design philosophies]], [[_006_c
 
 what are the core elements of a [[topics/design/regeneration\|regenerative]], [[models & frameworks/design/humane design\|humane]], [[concepts/design/agent-centric design\|agent-centric]] [[operating system\|operating system]]? how is it different from the [[operating systems\|operating systems]] we have today? how may it change when we consider the design of an [[OS of the future\|OS of the future]]?
 
-\+ what can we do with our existing [[operating systems\|operating systems]] to make them more [[humane\|humane]], [[intentional\|intentional]], [[topics/design/regeneration\|regenerative]] for now?
+\+ what can we do with our existing [[operating systems\|operating systems]] to make them more [[humane\|humane]], [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/professional quadrants/intentional\|intentional]], [[topics/design/regeneration\|regenerative]] for now?
 
 there are a few projects that offer interesting possibilities...
 
@@ -113,10 +113,10 @@ the contents of the writing below are currently haphazard, disjointed and all ov
 ##### categories
 
 ##### elements
-[[inbox\|inbox]]
-[[databases\|databases]] / [[data capture mechanisms\|data capture mechanisms]]
+[[tbprocessed/notion/c4ss1us’ notion/ground/action management system/inbox/inbox\|inbox]]
+[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/databases\|databases]] / [[data capture mechanisms\|data capture mechanisms]]
 [[views\|views]] / [[user interface 1\|interfaces]]
-[[tools\|tools]] / [[capabilities\|capabilities]]
+[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/references/reference types/tools\|tools]] / [[capabilities\|capabilities]]
 [[processes\|processes]] / [[workflows\|workflows]]
 [[agents\|agents]]
 

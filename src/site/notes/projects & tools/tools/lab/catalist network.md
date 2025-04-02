@@ -4,6 +4,6 @@
 
 an early-stage platform for building a collaborative database of [[social impact\|social impact]] / [[systems change\|systems change]] / [[topics/design/regeneration\|regenerative]] projects - https://www.catalist.network/
 
-the project proposes an interesting [[concepts/alchemy/ontology\|ontology]]: [[spaces\|spaces]], [[objects\|objects]] (with [[types\|types]]), [[sets\|sets]] and [[concepts/player/attributes\|attributes]]. see: https://www.catalist.network/explore
+the project proposes an interesting [[concepts/alchemy/ontology\|ontology]]: [[spaces\|spaces]], [[objects\|objects]] (with [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/concepts & frameworks/types\|types]]), [[sets\|sets]] and [[concepts/player/attributes\|attributes]]. see: https://www.catalist.network/explore
 
 they have also launched a project in partnership with the [[initiatives, orgs & communities/design/buckminster fuller institute\|buckminster fuller institute]] building on top of that ontology, called [[projects & tools/projects/design/OMNI-mapping project\|OMNI-mapping project]], which is can be very relevant for [[topics/design/futures studies\|futures literacy]] and [[systems mapping\|systems mapping]] as a whole.

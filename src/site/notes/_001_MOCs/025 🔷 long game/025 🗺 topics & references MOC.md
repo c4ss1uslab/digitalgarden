@@ -1,5 +1,5 @@
 ---
-{"aliases":["topics","fields","fields of knowledge"],"created in":"2021-12-11T16:52:03-03:00","last tended to":"2024-10-24T21:59:41-03:00","dg-publish":true,"tags":["🌿","selfmanagement"],"notestage":["🌿"],"created":"2021-12-11T16:52:03.339-03:00","updated":"2025-01-24T17:55:48.375-03:00","permalink":"/001-mo-cs/025-long-game/025-topics-and-references-moc/","dgPassFrontmatter":true}
+{"aliases":["topics","fields","fields of knowledge"],"created in":"2021-12-11T16:52:03-03:00","last tended to":"2024-10-24T21:59:41-03:00","dg-publish":true,"tags":["🌿","selfmanagement","knowledgemanagement"],"notestage":["🌿"],"created":"2021-12-11T16:52:03.339-03:00","updated":"2025-03-31T13:16:15.421-03:00","permalink":"/001-mo-cs/025-long-game/025-topics-and-references-moc/","dgPassFrontmatter":true}
 ---
 
 on the contents below, the emojis mean different things. here's their caption:
@@ -9,7 +9,7 @@ contents:
 📂[[resource compilations\|resource compilations]]
 🔥 [[high-signal reference\|high-signal reference]]
 🧰 [[well-fundamented approach\|well-fundamented approach]]
-❔ [[questions\|questions]]
+❔ [[tbprocessed/notion/notion resources/Web dev resources (public)/Questions\|questions]]
 🔨 [[functional tool\|functional tool]]
 🔩 [[prototype (partly functional)\|prototype (partly functional)]]
 🧪 [[experiment\|experiment]]
@@ -37,7 +37,7 @@ level of depth:
 > 🔥 [[models & frameworks/design/metadesign\|metadesign]] (in portuguese)
 - 🌲 [[topics/player/self-directed learning\|self-directed learning]]
 > 🔥 [[initiatives, orgs & communities/player/MoL\|MoL]] / [[unilivre\|unilivre]] (in portuguese)
-> 🔥 [[reaprendiz\|reaprendiz]] (in portuguese)
+> 🔥 [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/bookmarks/ReAprendiz\|reaprendiz]] (in portuguese)
 - 🌲 [[_004_L1F3/core concepts/life design\|life design]] / [[tbprocessed/base notes/topics/life gamification\|life gamification]]
 > [[_002_toolkit/000 ⛓ l1f3 player toolkit\|🧰 l1f3 player toolkit]]
 - 🌲 [[_004_L1F3/core concepts/self-management\|self-management]]
@@ -54,7 +54,7 @@ level of depth:
 > 🧪 [[experiments/made by me/design/minimum viable intentional personal systems design;setup\|minimum viable intentional personal systems design;setup]]
 
 #### ✒ [[_005_c4ss1us/c4ss1us.design\|.design]]
-##### 🎞 [[knowledge\|knowledge]] / [[topics/design/media\|media]]
+##### 🎞 [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/project-mission category/knowledge\|knowledge]] / [[topics/design/media\|media]]
 - 🌲 [[topics/design/research\|research]]
 > 📂 [[meta-research consolidation resource\|meta-research consolidation resource]]
 - 🌲 [[topics/design/curation\|curation]]
@@ -93,7 +93,7 @@ level of depth:
 	📂 [[knowledge management methodologies\|knowledge management methodologies]]
 🌲 [[topics/design/crypto\|crypto]] / [[topics/design/web3\|web3]]
 	🔥 [[initiatives, orgs & communities/design/SEEDS (ecosystem)\|SEEDS (ecosystem)]]
-🌿 [[open metaverse\|open metaverse]]
+🌿 [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/proposed life games/open metaverse/open metaverse\|open metaverse]]
 	🔥 [[initiatives, orgs & communities/lab/m3 metaverse makers\|m3 metaverse makers]]
 🌿 [[interfaces\|interfaces]] & [[topics/lab/user experience\|UX]]
 	🧪 [[prototypes & designs/made by me/l1f3 player dashboard\|l1f3 player dashboard]]
@@ -132,7 +132,7 @@ level of depth:
 	🔥 [[the beginning after the end\|the beginning after the end]] / [[references/player/anime;manga;webtoon/overgeared\|overgeared]]
 	🧪 [[_005_c4ss1us/c4ss1us - the webtoon\|.c4ss//webtoon]]
 🌱 [[topics/art/sound design\|sound design]]
-🌱 [[environment design\|environment design]]
+🌱 [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/interests & topics master list/environment design\|environment design]]
 💩 [[motion design\|motion design]]
 💩 [[2d art\|2d art]] / [[illustration\|illustration]]
 💩 [[3d art\|3d art]]
@@ -174,10 +174,10 @@ level of depth:
 		--> [[projects & tools/tools/music/música do círculo's card deck\|música do círculo's card deck]]
 	--> 🌱 [[physical games\|physical games]]
 		--> [[initiatives, orgs & communities/athlete/playfight\|playfight]]
-		--> [[parkour\|parkour]]
-		--> [[hot yoga\|hot yoga]]
+		--> [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/sub-interests & practices master list/parkour\|parkour]]
+		--> [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/sub-interests & practices master list/hot yoga\|hot yoga]]
 		--> [[body percussion\|body percussion]]
-		--> [[sports\|sports]]
+		--> [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/skills & interests trees/sports\|sports]]
  --> etc...
 
 #### 👨🏻‍🎤 [[_005_c4ss1us/c4ss.host\|.host]]
@@ -206,8 +206,8 @@ level of depth:
 🌱 [[music playing\|music playing]]
 	🌱 [[topics/art/body music\|body music]]
 	🌱 [[circle music\|circle music]]
-	💩 [[singing\|singing]]
-	💩 [[drums\|drums]]
+	💩 [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/sub-skills master list/singing\|singing]]
+	💩 [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/sub-interests & practices master list/drums\|drums]]
 💩 [[topics/art/music production\|music production]]
 	💩 [[topics/art/sound design\|sound design]]
 	💩 [[soundscapes\|soundscapes]] / [[background music\|background music]]
@@ -219,7 +219,7 @@ level of depth:
 
 #### 👨🏻‍🌾 [[_005_c4ss1us/c4ss1us.regen\|.regen]]
 
-🌱 [[regenerative systems design\|regenerative systems design]]
+🌱 [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/interests & topics master list/regenerative systems design\|regenerative systems design]]
 🌱 [[regenerative urban lifestyles\|regenerative urban lifestyles]]
 💩 [[substances\|substances]]
 	💩 [[coffee\|coffee]]
@@ -279,14 +279,14 @@ practice
 				- [[DeFi\|DeFi]]
 				- [[topics/design/refi\|refi]]
 				- [[REcon\|REcon]]
-		- [[governance\|governance]]
+		- [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/sub-interests & practices master list/governance\|governance]]
 		- [[topics/design/media\|media]]
 	- [[tbprocessed/base notes/topics/resources generation\|resources generation]]
 		- [[topics/design/economics\|economics]]
 			- [[topics/design/new economies\|new economies]]
 				- [[creator economy\|creator economy]]
 				- [[topics/design/digital economy\|digital economy]]
-	- [[resources management\|resources management]]
+	- [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/superskills master list/resources management\|resources management]]
 		- [[topics/lab/personal knowledge management\|personal knowledge management]]
 			- [[topics/lab/personal data management\|personal data management]]
 
@@ -308,8 +308,8 @@ practice
 - [[social systems\|social systems]], [[concepts/design/infrastructure\|infrastructure]], [[concepts/design/superstructure\|superstructure]]
 [[structures\|structures]], [[topics/design/systems\|systems]], [[processes\|processes]], [[areas/relationships\|relationships]] & [[concepts/design/resources\|resources]]
 	- [[terms/information\|information]]
-		- [[governance\|governance]]
-		- [[finance\|finance]]
+		- [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/sub-interests & practices master list/governance\|governance]]
+		- [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/professional areas/finance\|finance]]
 		- [[topics/design/media\|media]]
 	- [[energy\|energy]]
 		- [[renewable energy\|renewable energy]]
@@ -329,17 +329,17 @@ practice
 	
 the future of:
 -   [[topics/alchemy/spirituality\|spirituality]] / [[concepts/alchemy/consciousness development\|consciousness development]]
--   [[topics/player/learning\|learning]] / [[education\|education]]
+-   [[topics/player/learning\|learning]] / [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/industries master list/education\|education]]
 -   [[terms/work\|work]] / [[terms/collaboration\|collaboration]]
 -   [[topics/player/gaming\|gaming]] / [[topics/player/play\|play]]
 -   [[communities\|communities]] / [[areas/relationships\|relationships]]
 -   [[tbprocessed/base notes/concepts - general/art\|art]] / [[topics/design/media\|media]] / [[terms/culture\|culture]]
--   [[alternative living\|alternative living]] / [[regenerative living\|regenerative living]]
+-   [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/industries master list/alternative living\|alternative living]] / [[regenerative living\|regenerative living]]
 -   [[topics/design/systems\|systems]] / [[concepts/design/systems design\|systems design]] / [[topics/design/systems development\|systems development]]
--   [[topics/design/economics\|economics]] / [[tbprocessed/base notes/topics/resources generation\|resources generation]] / [[resources management\|resources management]]
+-   [[topics/design/economics\|economics]] / [[tbprocessed/base notes/topics/resources generation\|resources generation]] / [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/superskills master list/resources management\|resources management]]
 -   [[terms/information\|information]] / [[knowledge generation\|knowledge generation]] / [[topics/lab/personal knowledge management\|personal knowledge management]]
--   [[governance\|governance]] / [[terms/decision-making\|decision-making]] / [[decision management\|decision management]]
--   [[intelligence\|intelligence]] / [[topics/design/research\|research]] / [[responses/lab/mapping\|mapping]] / [[topics/design/curation\|curation]]
+-   [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/sub-interests & practices master list/governance\|governance]] / [[terms/decision-making\|decision-making]] / [[decision management\|decision management]]
+-   [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/attributes/intelligence\|intelligence]] / [[topics/design/research\|research]] / [[responses/lab/mapping\|mapping]] / [[topics/design/curation\|curation]]
 -   [[physical environments\|physical environments]] / [[digital environments\|digital environments]]
 -   [[topics/design/technology\|technology]]
 

@@ -23,7 +23,7 @@ here are a few approaches that aim to address that:
 ##### orienting frameworks:
 
 - [[concepts/design/circular design\|circular design]] / [[doughnut economics\|doughnut economics]]
-- [[regenerative systems design\|regenerative systems design]] (see: [[concepts/design/sacred economics\|sacred economics]]/[[initiatives, orgs & communities/design/SEEDS (ecosystem)\|SEEDS]] for now)
+- [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/interests & topics master list/regenerative systems design\|regenerative systems design]] (see: [[concepts/design/sacred economics\|sacred economics]]/[[initiatives, orgs & communities/design/SEEDS (ecosystem)\|SEEDS]] for now)
 - [[models & frameworks/design/8 forms of capital\|8 forms of capital]]
 - [[models & frameworks/design/deep wealth\|deep wealth]]
 - [[models & frameworks/design/fluxonomy 4d\|fluxonomy 4d]]

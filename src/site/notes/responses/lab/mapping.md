@@ -21,7 +21,7 @@
 </div></div>
 
 
-which is a very specific frame, and makes us realize how, according to this perspective, most of the digital maps we use/interact with aren't maps at all. they're usually [[models\|models]], [[frameworks\|frameworks]], [[sketches\|sketches]] or [[illustrations\|illustrations]].
+which is a very specific frame, and makes us realize how, according to this perspective, most of the digital maps we use/interact with aren't maps at all. they're usually [[tbprocessed/notion/c4ss1us.NOW/models/models\|models]], [[frameworks\|frameworks]], [[sketches\|sketches]] or [[illustrations\|illustrations]].
 
 yet, many people refer to them as maps, so i'll propose a different, more loose classification of maps taking into account other people's curation of popular maps as well:
 ### types of maps:
@@ -39,7 +39,7 @@ i highly encourage you to check out the whole thread, as pasting everything here
 -> as a summary, he suggests:
 
 a) [[memespace maps\|memespace maps]]
-b) [[ribbonfarm\|ribbonfarm]]'s maps
+b) [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/organizations master list/ribbonfarm\|ribbonfarm]]'s maps
 c) [[defining characteristics of maps\|defining characteristics of maps]]
 d) [[maps of maps\|maps of maps]] (curating/organizing perspectives)
 e) [[models & frameworks/design/wardley mapping\|wardley maps]]
@@ -291,7 +291,7 @@ other relevant approaches:
 - [[initiatives, orgs & communities/design/goodly labs\|goodly labs]]
 
 ###### decentralized social media initiatives:
-- [[mastodon\|mastodon]]
+- [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/references/reference types/recommended references/c4ss1us’ technology tool stack/mastodon\|mastodon]]
 - [[initiatives, orgs & communities/lab/bluesky\|bluesky]]
 - [[discourse\|discourse]]
 - [[matrix\|matrix]]
@@ -314,7 +314,7 @@ not tested, but look promising: [sigma.js](https://www.sigmajs.org/), [[gephi\|g
 
 ###### tier 2:
 
-[[neo4J\|neo4J]], [[d3.js\|d3.js]], [[infranodus\|infranodus]], [[projects & tools/tools/lab/metamaps\|metamaps]] ([[projects & tools/tools/design/kumu\|kumu]]-like), [[projects & tools/tools/lab/datasette\|datasette]]
+[[neo4J\|neo4J]], [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/sub-skills master list/d3.js\|d3.js]], [[infranodus\|infranodus]], [[projects & tools/tools/lab/metamaps\|metamaps]] ([[projects & tools/tools/design/kumu\|kumu]]-like), [[projects & tools/tools/lab/datasette\|datasette]]
 
 [layer](https://beta.getlayer.xyz/) - [[geographic\|geographic]]/[[demographic\|demographic]] data only.
 

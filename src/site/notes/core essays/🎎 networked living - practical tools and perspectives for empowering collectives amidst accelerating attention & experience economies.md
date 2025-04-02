@@ -16,9 +16,9 @@ the contents of the writing below are currently haphazard, disjointed and all ov
 
 in this essay i argue that the next stage for intentional collectives is to consciously integrate the concept of [[networked living\|networked living]].
 
-we'll talk about: [[concepts/design/third spaces\|third spaces]], [[energy management\|energy management]], [[_005_c4ss1us/c4ss.host\|facilitation]]/[[community organizing tools\|community organizing tools]], [[topics/design/curation\|curation]]/[[shared brains\|shared brains]], [[communal infrastructure\|communal]]/[[digital infrastructure\|digital infrastructure]] and [[_004_L1F3/core concepts/life design\|life design]] as ways to move beyond divise patterns of interaction, towards integrating [[interdependence\|interdependence]] into people's actual [[_004_L1F3/core concepts/lifestyles\|ways of living]].
+we'll talk about: [[concepts/design/third spaces\|third spaces]], [[energy management\|energy management]], [[_005_c4ss1us/c4ss.host\|facilitation]]/[[community organizing tools\|community organizing tools]], [[topics/design/curation\|curation]]/[[shared brains\|shared brains]], [[communal infrastructure\|communal]]/[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/general skills master list/digital infrastructure\|digital infrastructure]] and [[_004_L1F3/core concepts/life design\|life design]] as ways to move beyond divise patterns of interaction, towards integrating [[interdependence\|interdependence]] into people's actual [[_004_L1F3/core concepts/lifestyles\|ways of living]].
 
-perspectives on this page come mostly from a few different places - folks in the [[cozy web\|cozy web]]/[[indie web\|indie web]]/[[slow web\|slow web]] communities, my experience with several [[_005_c4ss1us/c4ss.host\|facilitation]] tools and practices, and in [[topics/alchemy/spirituality\|spiritual]]/[[philosophy\|philosophical]]/[[topics/design/regeneration\|regenerative]] circles...
+perspectives on this page come mostly from a few different places - folks in the [[cozy web\|cozy web]]/[[indie web\|indie web]]/[[slow web\|slow web]] communities, my experience with several [[_005_c4ss1us/c4ss.host\|facilitation]] tools and practices, and in [[topics/alchemy/spirituality\|spiritual]]/[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/superskills master list/philosophy\|philosophical]]/[[topics/design/regeneration\|regenerative]] circles...
 
 ----
 ##### context
@@ -27,11 +27,11 @@ my experience of the COVID-19 pandemics was 1 year longer than everyone else. wh
 
 i was going through some intense emotional healing processes, and found that my only way to cope was to read, meditate, research and ritualize. so during that time i had the privilege - and challenge - of spending 95% of 3 years alone, in my room, introspecting, learning about myself and the world (via books and the internet), while rediscovering what moved me.
 
-during that time, i couldn't find many online communities that resonated with what i was experiencing and the themes that were alive to me. so this time in isolation made reflect and research a lot on the themes of [[belonging\|belonging]], the [[internet\|internet]], [[topics/host/community building\|community building]] and [[memetic tribes\|memetic tribes]], especially related to the state and the potential of our [[information ecology\|information ecology]] and [[online communities\|online communities]].
+during that time, i couldn't find many online communities that resonated with what i was experiencing and the themes that were alive to me. so this time in isolation made reflect and research a lot on the themes of [[belonging\|belonging]], the [[tbprocessed/notion/notion resources/Web dev resources (public)/Internet\|internet]], [[topics/host/community building\|community building]] and [[memetic tribes\|memetic tribes]], especially related to the state and the potential of our [[information ecology\|information ecology]] and [[online communities\|online communities]].
 
 in 2023, my life has been pretty much the opposite. going to ecovillages, farms, marginalized communities, courses, retreats and all sorts of cultural, local community events in são paulo, brazil.
 
-in this article, i aim to gather my findings, curation and perspectives on the [[future of communities\|future of communities]] and the [[internet\|internet]] - and subjacent themes, such as the [[terms/metaverse\|metaverse]], [[responses/design/trust networks\|trust networks]] and a lot more. i bring special attention to **[[intentional online communities\|intentional online communities]]** and **[[concepts/design/third spaces\|third spaces]]** as cultural [[attractors\|attractors]]. they're places that can feel more like home than at home or at work.
+in this article, i aim to gather my findings, curation and perspectives on the [[future of communities\|future of communities]] and the [[tbprocessed/notion/notion resources/Web dev resources (public)/Internet\|internet]] - and subjacent themes, such as the [[terms/metaverse\|metaverse]], [[responses/design/trust networks\|trust networks]] and a lot more. i bring special attention to **[[intentional online communities\|intentional online communities]]** and **[[concepts/design/third spaces\|third spaces]]** as cultural [[attractors\|attractors]]. they're places that can feel more like home than at home or at work.
 
 ##### definitions
 
@@ -41,7 +41,7 @@ how about [[community organizers\|community organizers]] - or [[community organi
 
 as a crude but interesting starting point, one could say, answering all of the above: to meet collective [[concepts/alchemy/needs\|needs]] and coordinate the use of [[concepts/design/resources\|resources]].
 
-beyond formal [[institutions\|institutions]], communities have long organized as [[terms/spiritual communities\|sanghas]], [[collectives\|collectives]], [[concepts/design/communities of practice\|communities of practice]], [[topics/design/local communities\|local]]/[[bioregion\|bioregional representations]] and more.
+beyond formal [[institutions\|institutions]], communities have long organized as [[terms/spiritual communities\|sanghas]], [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/communities master list/collectives\|collectives]], [[concepts/design/communities of practice\|communities of practice]], [[topics/design/local communities\|local]]/[[bioregion\|bioregional representations]] and more.
 
 
 
@@ -256,7 +256,7 @@ ultimately, [[sari\|sari]] captures it well here:
 - [[initiatives, orgs & communities/design/goodly labs\|goodly labs]]
 
 ###### decentralized social media initiatives:
-- [[mastodon\|mastodon]]
+- [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/references/reference types/recommended references/c4ss1us’ technology tool stack/mastodon\|mastodon]]
 - [[initiatives, orgs & communities/lab/bluesky\|bluesky]]
 - [[discourse\|discourse]]
 - [[matrix\|matrix]]

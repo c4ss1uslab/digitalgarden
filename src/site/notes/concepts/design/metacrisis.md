@@ -48,7 +48,7 @@ other references that are briefly introduced in the playlist and that deserve ve
 
 ###### other powerful perspectives include:
 
-[[zak stein\|zak stein]] - [education is the metacrisis - manifesto for the transformative education alliance](https://systems-souls-society.com/education-is-the-metacrisis/) - one of the best breakdowns of the metacrisis + very powerful, clear, inspiring writing
+[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/contacts master list/contacts master list/zak stein\|zak stein]] - [education is the metacrisis - manifesto for the transformative education alliance](https://systems-souls-society.com/education-is-the-metacrisis/) - one of the best breakdowns of the metacrisis + very powerful, clear, inspiring writing
 
 [[people/references/alchemy/john vervaeke\|john vervaeke]] - [[diagnosis/meaning crisis\|meaning crisis]]⁹⁷ - lots of good content from around it, more useful for understanding/navigating the (inner) psychological crises of our time.
 
@@ -56,7 +56,7 @@ other references that are briefly introduced in the playlist and that deserve ve
 
 [[josh williams\|josh williams]]'s [an introduction to the metacrisis](https://sites.google.com/view/intro-to-the-metacrisis) introduces it pretty well especially from the perspective of [[terms/catastrophic risk\|catastrophic]] and [[concepts/design/existential risk\|existential risks]].
 
-[[josh field\|josh field]] - [[concepts/design/flow crisis\|flow crisis]]⁹⁷ - a few less-known but very interesting/valuable perspectives on it.
+[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/contacts master list/contacts master list/josh field\|josh field]] - [[concepts/design/flow crisis\|flow crisis]]⁹⁷ - a few less-known but very interesting/valuable perspectives on it.
 
 [life itself ecosystem map](https://ecosystem.lifeitself.us/) - a pretty good map of the organizations/communities in the space.
 

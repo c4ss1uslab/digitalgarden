@@ -9,7 +9,7 @@ initiatives on the [[topics/design/economics\|economics]]/[[concepts/design/ince
 [[tea.xyz\|tea.xyz]]
 (...)
 
-initiatives on the [[terms/information\|information]]/[[knowledge\|knowledge]]/[[concepts/alchemy/sensemaking\|sensemaking]] side:
+initiatives on the [[terms/information\|information]]/[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/project-mission category/knowledge\|knowledge]]/[[concepts/alchemy/sensemaking\|sensemaking]] side:
 [[projects & tools/projects/design/sensenets\|sensenets]]
 [[initiatives, orgs & communities/design/nooNAO\|NAOs]]
 [[projects & tools/projects/lab/subconscious (tool)\|subconscious (tool)]] / [[noosphere\|noosphere]]

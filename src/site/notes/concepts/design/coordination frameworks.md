@@ -39,7 +39,7 @@ the stoa?
 #### knowledge management frameworks:
 
 [[patterns/active patterns/knowledge management/building a second brain\|building a second brain]] / [[models & frameworks/lab/C.O.D.E\|CODE]]
-[[linking your thinking\|linking your thinking]]
+[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/content creators master list/linking your thinking\|linking your thinking]]
 [[models & frameworks/lab/pillars, pipelines & vaults\|pillars, pipelines & vaults]]
 [[people/references/lab/francis miller\|francis miller]]'s [[knowledge structures\|knowledge structures]]
 more on [[andrew altshuler\|andrew altshuler]]'s [PKM frameworks](https://www.altshuler.io/frameworks/)

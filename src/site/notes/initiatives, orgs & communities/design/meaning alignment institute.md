@@ -5,7 +5,7 @@
 https://www.meaningalignment.org/
 https://twitter.com/meaningaligned
 
-folks in the [[concepts/design/metacrisis\|metacrisis]] space, received a grant from [[openAI\|openAI]], proposing [[AI\|AI]] dialectical/wisdom training with a methodology around harmonizing values ([[moral graphs\|moral graphs]]).
+folks in the [[concepts/design/metacrisis\|metacrisis]] space, received a grant from [[openAI\|openAI]], proposing [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/specializations/AI/AI\|AI]] dialectical/wisdom training with a methodology around harmonizing values ([[moral graphs\|moral graphs]]).
 
 **good introductions:**
 

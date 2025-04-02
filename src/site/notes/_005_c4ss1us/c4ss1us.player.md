@@ -48,7 +48,7 @@ fundamental board/card/digital games:
 — [[concepts/player/attributes\|attributes]]
 — [[talents\|talents]]
 — [[skills\|skills]]
-— [[knowledge\|knowledge]]
+— [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/project-mission category/knowledge\|knowledge]]
 — [[items\|items]]
 — [[shadows\|shadows]]
 — [[superpowers\|superpowers]]
@@ -57,13 +57,13 @@ fundamental board/card/digital games:
 — [[cards\|cards]]
 — [[board\|board]]
 — [[mandalas\|mandalas]]
-——> [[journeys\|journeys]], [[goals\|goals]], [[areas/environments\|environments]], [[tools\|tools]]... [mid, long]
+——> [[journeys\|journeys]], [[tbprocessed/notion/language learning hub/goals\|goals]], [[areas/environments\|environments]], [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/references/reference types/tools\|tools]]... [mid, long]
 - [[responses/alchemy/integral theory\|integral]] add-ons [player lvl 2]
 — [[references/alchemy/integral OS\|integral OS]] dashboard
 — [[compass\|compass]] ([[models & frameworks/design/four quadrants\|quadrants]])
 — [[elements\|elements]] ([[models & frameworks/alchemy/AQAL\|AQAL]] glyphs)
 — [[fourth turning dharma wheel\|fourth turning dharma wheel]] (nxt level)
-——> [[topics/design/systems\|systems]], [[metaphors\|metaphors]]/[[models\|models]]/[[lenses\|lenses]], [[_001_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|challenges]]... [deep]
+——> [[topics/design/systems\|systems]], [[metaphors\|metaphors]]/[[tbprocessed/notion/c4ss1us.NOW/models/models\|models]]/[[lenses\|lenses]], [[_001_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|challenges]]... [deep]
 - [[sanctuaries of attention\|sanctuaries of attention]] [alchemist]
 — [[practices\|practices]]
 — [[cards\|cards]] ([[concept maps\|concept maps]])
@@ -102,11 +102,11 @@ fundamental board/card/digital games:
 add-on games:
 - [[models & frameworks/host/A3 map\|A3 learning architectures]]) -> transform a3 map into cards
 - self-transformation ([[awareness\|awareness]])
-— [[self-inquiry\|self-inquiry]]/[[journaling\|journaling]]
+— [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/sub-interests & practices master list/self-inquiry\|self-inquiry]]/[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/sub-programs master list/mental clarity & focus practices/journaling\|journaling]]
 — meditative practices
-— gremlin/[[shadow work\|shadow work]]
-— [[breathwork\|breathwork]]
-— [[psychedelics\|psychedelics]]
+— gremlin/[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/sub-interests & practices master list/shadow work\|shadow work]]
+— [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/sub-interests & practices master list/breathwork\|breathwork]]
+— [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/industries master list/psychedelics\|psychedelics]]
 — [[tantra\|tantra]]
 - vision-logic ([[concepts/alchemy/sensemaking\|sensemaking]])
 — applying quadrants/systemic view to learning (personal, social, inner, outer dimensions)
@@ -132,7 +132,7 @@ add-on games:
 
 - athlete
 — [[initiatives, orgs & communities/athlete/playfight\|playfight]]
-— [[parkour\|parkour]]
+— [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/sub-interests & practices master list/parkour\|parkour]]
 — [[martial arts\|martial arts]]
 
 - other elements of the toolkit: maps, compasses, codexes, boards & more... see: [[_002_toolkit/000 ⛓ l1f3 player toolkit\|l1f3 player toolkit]]

@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-10-31T20:24:29-03:00","last tended to":"2024-09-08T17:51:28-03:00","dg-publish":true,"aliases":["💭 foundational concepts for knowledge commons"],"created":"2023-10-31T20:24:29.951-03:00","updated":"2024-11-19T17:36:21.388-03:00","permalink":"/core-essays/foundational-concepts-for-developing-regenerative-information-ecologies-and-empowering-knowledge-commons/","dgPassFrontmatter":true}
+{"created in":"2023-10-31T20:24:29-03:00","last tended to":"2024-09-08T17:51:28-03:00","dg-publish":true,"aliases":["💭 foundational concepts for knowledge commons"],"created":"2023-10-31T20:24:29.951-03:00","updated":"2025-03-30T15:05:39.266-03:00","permalink":"/core-essays/foundational-concepts-for-developing-regenerative-information-ecologies-and-empowering-knowledge-commons/","dgPassFrontmatter":true}
 ---
 
 draft link: https://medium.com/@cassiuscarvalho/foundational-concepts-for-developing-regenerative-information-ecologies-empowering-knowledge-d427b1dc2cb3
@@ -48,7 +48,7 @@ i share this as a way to clarify the “agenda” behind this article (the biase
 
 these 3 themes of work came both from my research on systemic [[_001_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|challenges]], [[topics/player/game theory\|game theory]] and [[concepts/design/existential risk\|existential risk]], as well as personal intuitions, insights and awakenings i had on my self-knowledge path.
 
-throughout this path, i’ve found many organizations, communities and people doing amazing work. a few of the ones that impacted me the most being: [[people/references/architect;design/daniel schmachtenberger\|daniel schmachtenberger]], [[people/references/alchemy/ken wilber\|ken wilber]], [[people/references/lab/maggie appleton\|maggie appleton]], [[initiatives, orgs & communities/design/metagame.wtf\|metagame.wtf]], [[initiatives, orgs & communities/design/SEEDS (ecosystem)\|SEEDS]], [possibility management](http://possibilitymanagement.com/), [protocol labs], [holochain](http://holochain.org), [[projects & tools/projects/lab/subconscious (tool)\|subconscious (tool)]], [L1F3.STREAM](https://www.youtube.com/playlist?list=PLliJTfwEBewrsBny4TAusQGNBfgzWB8QN), [high stakes academy] and [mundos possíveis](https://www.instagram.com/mundos_possiveis/) (the last three only have content in brazilian portuguese for now).
+throughout this path, i’ve found many organizations, communities and people doing amazing work. a few of the ones that impacted me the most being: [[people/references/architect;design/daniel schmachtenberger\|daniel schmachtenberger]], [[tbprocessed/evernote/0 - inbox/ken wilber\|tbprocessed/evernote/0 - inbox/ken wilber]], [[people/references/lab/maggie appleton\|maggie appleton]], [[initiatives, orgs & communities/design/metagame.wtf\|metagame.wtf]], [[initiatives, orgs & communities/design/SEEDS (ecosystem)\|SEEDS]], [possibility management](http://possibilitymanagement.com/), [protocol labs], [holochain](http://holochain.org), [[projects & tools/projects/lab/subconscious (tool)\|subconscious (tool)]], [L1F3.STREAM](https://www.youtube.com/playlist?list=PLliJTfwEBewrsBny4TAusQGNBfgzWB8QN), [high stakes academy] and [mundos possíveis](https://www.instagram.com/mundos_possiveis/) (the last three only have content in brazilian portuguese for now).
 
 so much so that to varying degrees, i contribute or contributed to each of these projects for some time. i’ll still write about why i believe each of them is relevant, what they bring of uniquely valuable to the world, along with lots of other references of people/organizations doing similar/complimentary work.
 
@@ -125,7 +125,7 @@ which leads us to the first foundational concept:
 
 #### 1) [[concepts/player/game\|games]], [[topics/player/game theory\|game theory]], [[topics/player/game design\|game design]] & [[game boards\|game boards]].
 
-[[antonio\|antonio]] - ERGO model: [[terms/environment\|environment]], [[roles\|roles]], [[guidelines\|guidelines]], [[objectives\|objectives]].
+[[antonio\|antonio]] - ERGO model: [[terms/environment\|environment]], [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/concepts & frameworks/roles/roles\|roles]], [[guidelines\|guidelines]], [[objectives\|objectives]].
 
 ...
 
@@ -340,7 +340,7 @@ but this is still an underdeveloped topic, with lots of potential for creation/i
 [[initiatives, orgs & communities/design/goodly labs\|goodly labs]]' AI prototypes
 [[tbprocessed/base notes/ventures - general/SEEDS\|SEEDS]]' liquid democracy
 [[initiatives, orgs & communities/design/meaning alignment institute\|meaning alignment institute]]
-[[roote\|roote]]'s [[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social (ex-tweetscape)]]
+[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/sub-missions list/disruptive life OS v. 1.0/disruptive os breakdown/personal ecosystems creation/intrapersonal management/learning-education resources/alternative education companies database/roote\|roote]]'s [[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social (ex-tweetscape)]]
 [[common sensemaker\|common sensemaker]]'s [sensenets](https://paragraph.xyz/@sense-nets/sense-nets-intro)
 [[initiatives, orgs & communities/design/the society library\|society library]]
 [[projects & tools/tools/design/metaculus\|metaculus]]

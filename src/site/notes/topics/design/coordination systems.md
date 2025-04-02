@@ -20,7 +20,7 @@ see: [[initiatives, orgs & communities/design/SEEDS (ecosystem)\|SEEDS]] for a b
 
 the fields of [[topics/lab/cybernetics\|cybernetics]], [[biology\|biology]] and [[topics/design/systems science\|systems]]/[[complexity science\|complexity science]] study it a lot. lots of resources i still need to curate.
 
-important distinctions: [[coordination\|coordination]] vs [[terms/collaboration\|collaboration]] / [[cooperation\|cooperation]]
+important distinctions: [[coordination\|coordination]] vs [[terms/collaboration\|collaboration]] / [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/1 - on hold-waiting for/Cog's Ladder - Understanding and Accelerating Group Formation/Untitled/Cooperation\|cooperation]]
 
 important concepts: [[superorganism\|superorganism]], [[concepts/design/moloch\|moloch]], [[concepts/design/coordination failure\|coordination failure]], [[concepts/design/coordination frameworks\|coordination frameworks]], [[topics/design/coordination protocols\|coordination protocols]], [[concepts/design/coordination mechanisms\|coordination mechanisms]].
 

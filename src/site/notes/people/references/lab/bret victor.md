@@ -29,7 +29,7 @@ in it, he presents very simply and clearly his [[theory of change\|theory of cha
 > Intention:
 > Use the dynamic medium to reinvent the representations of thought. Invent a way of thinking — imagining, understanding, creating, explaining — via dynamic representations that engage all modes of thought and respect the whole human being.
 
-\+ more details, illustrations and his plan for application on [[initiatives, orgs & communities/lab/dynamicland\|dynamicland]]. it's very similar to the vision i was prototyping with the [[projects & tools/projects/design/24h system\|24h system]] at [[high stakes academy\|high stakes academy]] back in 2019, minus my utter lack of technical skills and my bigger focus on the [[_004_L1F3/core concepts/life management\|life management]] aspect of it.
+\+ more details, illustrations and his plan for application on [[initiatives, orgs & communities/lab/dynamicland\|dynamicland]]. it's very similar to the vision i was prototyping with the [[projects & tools/projects/design/24h system\|24h system]] at [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/organizations master list/high stakes academy/high stakes academy\|high stakes academy]] back in 2019, minus my utter lack of technical skills and my bigger focus on the [[_004_L1F3/core concepts/life management\|life management]] aspect of it.
 
  2) [stop drawing dead fish](https://vimeo.com/64895205) - exploring/introducing a few "[[unique affordances of the computational medium\|unique affordances of the computational medium]]"
 
@@ -53,7 +53,7 @@ introduces: [[reactive documents\|reactive documents]] (as seen in [[references/
 
 https://worrydream.com/ClimateChange/
 
-\*the application of this article goes way beyond the topic of [[climate change\|climate change]]. i recommend reading it not only considering our climate predicament, but the complex, entangled situation of our [[civilizational systems\|civilizational systems]] as whole - [[challenges\|challenges]], [[risks\|risks]], [[shortcomings\|shortcomings]], [[biases\|biases]], etc... it's a great starting point for exploring different large-scale action pathways. 
+\*the application of this article goes way beyond the topic of [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/concepts & frameworks/concepts & frameworks/climate change\|climate change]]. i recommend reading it not only considering our climate predicament, but the complex, entangled situation of our [[civilizational systems\|civilizational systems]] as whole - [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/experiments master list/disruptive life OS presentation v. 0.1/challenges\|challenges]], [[risks\|risks]], [[shortcomings\|shortcomings]], [[biases\|biases]], etc... it's a great starting point for exploring different large-scale action pathways. 
 the article presents a few of the kinds of technological transformations/innovations/initiatives that are deeply needed and are not being talked about enough.
 
 > [!info]- my highlights:

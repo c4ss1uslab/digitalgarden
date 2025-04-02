@@ -17,8 +17,8 @@ a good way i found is through [[people/references/architect;design/andrea farias
 - [[responses/alchemy/integral theory\|integral theory]]
 - [[responses/alchemy/cosmoerotic humanism\|cosmoerotic humanism]]
 - [[unique self\|unique self]]
-[[transpersonal psychology\|transpersonal psychology]]
-- [[stanislav grof\|stanislav grof]]
+[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/sub-interests & practices master list/transpersonal psychology\|transpersonal psychology]]
+- [[tbprocessed/evernote/0 - inbox/stanislav grof\|stanislav grof]]
 - [[models & frameworks/alchemy/internal family systems\|internal family systems]]
 - [[tbprocessed/base notes/people/bill plotkin\|bill plotkin]]
 [[cognitive science\|cognitive science]]
@@ -33,7 +33,7 @@ a good way i found is through [[people/references/architect;design/andrea farias
 
 - [[value systems\|value systems]] / [[belief systems\|belief systems]]
 
-[[spiral dynamics\|spiral dynamics]]
+[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/concepts & frameworks/spiral dynamics/spiral dynamics\|spiral dynamics]]
 [[people/references/alchemy/hanzi freinacht\|hanzi freinacht]]
 [[david j. temple\|david j. temple]]
 

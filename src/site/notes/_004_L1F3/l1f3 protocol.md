@@ -4,7 +4,7 @@
 
 the L1F3 protocol is an open-source, distributed, modular, interoperable protocol for [[topics/player/play\|playing]] life - individually and together - under early/active design.
 
-the main difference between it and [[initiatives, orgs & communities/design/metagame.wtf\|metagame.wtf]] is that metagame was built on top of [[ceramic network\|ceramic network]], so it's not interoperable with [[initiatives, orgs & communities/lab/holochain\|holochain]], [[urbit\|urbit]], [[oasis API\|oasis API]] and other emergent protocols.
+the main difference between it and [[initiatives, orgs & communities/design/metagame.wtf\|metagame.wtf]] is that metagame was built on top of [[ceramic network\|ceramic network]], so it's not interoperable with [[initiatives, orgs & communities/lab/holochain\|holochain]], [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/sub-interests & practices master list/urbit/urbit\|urbit]], [[oasis API\|oasis API]] and other emergent protocols.
 
 #### why build a protocol?
 

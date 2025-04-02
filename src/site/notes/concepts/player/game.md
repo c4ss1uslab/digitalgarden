@@ -4,7 +4,7 @@
 
 ##### a few of my favorite definitions of "game"
 
-[[models & frameworks/player/ERGO\|ERGO]] model: [[terms/environment\|environment]], [[roles\|roles]], [[guidelines\|guidelines]], [[objectives\|objectives]]. (source: [[antonio (lala)\|antonio (lala)]])
+[[models & frameworks/player/ERGO\|ERGO]] model: [[terms/environment\|environment]], [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/concepts & frameworks/roles/roles\|roles]], [[guidelines\|guidelines]], [[objectives\|objectives]]. (source: [[antonio (lala)\|antonio (lala)]])
 
 "A game is a form of play with goals and structure." (Kevin J. Maroney)
 
@@ -84,7 +84,7 @@ other learning games:
 
 write/clarify my differences in approach from (above & below):
 - [[initiatives, orgs & communities/alchemy/integral life\|integral life]] / [[references/alchemy/integral OS\|integral OS]]
-- [[flow genome project\|flow genome project]]
+- [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/organizations master list/flow genome project\|flow genome project]]
 - [[foresight institute\|foresight institute]]
 - [[initiatives, orgs & communities/design/the consilience project\|the consilience project]]
 - [[initiatives, orgs & communities/design/civilization research institute\|civilization research institute]]

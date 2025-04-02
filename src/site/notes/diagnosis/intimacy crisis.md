@@ -18,7 +18,7 @@ it states that the fundamental driver of the [[concepts/design/metacrisis\|metac
 
 — [The Great Simplification Episode 71, Daniel Schmachtenberger: "Artificial Intelligence and The Superorganism"](https://www.thegreatsimplification.com/episode/71-daniel-schmachtenberger)
 
-[[alexander beiner\|alexander beiner]] also talks about it as the consequence of [[physicalism\|physicalism]] as the dominant philosophical view since the [[enlightenment\|enlightenment]]. in his article [Reality Eats Culture For Breakfast](https://substack.com/home/post/p-112485650), he presents a great perspective on the subject and possible alternative paradigms that could replace physicalism/cartesian dualism, namely [[philosophical idealism\|philosophical idealism]] and [[panpsychism\|panpsychism]] as well.
+[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/contacts master list/contacts master list/alexander beiner\|alexander beiner]] also talks about it as the consequence of [[physicalism\|physicalism]] as the dominant philosophical view since the [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/concepts & frameworks/enlightenment\|enlightenment]]. in his article [Reality Eats Culture For Breakfast](https://substack.com/home/post/p-112485650), he presents a great perspective on the subject and possible alternative paradigms that could replace physicalism/cartesian dualism, namely [[philosophical idealism\|philosophical idealism]] and [[panpsychism\|panpsychism]] as well.
 
 ---
 

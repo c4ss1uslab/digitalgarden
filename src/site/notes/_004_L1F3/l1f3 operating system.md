@@ -15,7 +15,7 @@ compass: 👯‍♂️ to learn, ❤ to heal, 🙏 to serve, 🎉 to enjoy.
 mvp integrates:
 [[references/alchemy/integral OS\|integral OS]] / [[responses/alchemy/integral theory\|integral theory]]
 [[initiatives, orgs & communities/alchemy/possibility management\|possibility management]] / [[concepts/alchemy/first position\|first position]]
-[[topics/alchemy/mental models\|mental models]] / [[first principles thinking\|first principles thinking]]
+[[topics/alchemy/mental models\|mental models]] / [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/content master list/theGamificationProject/YA- Success Plan/First Principles Thinking\|first principles thinking]]
 
 description:
 upgrading your metaphysical matrix, the operating system of your being, and therefore, society's.
@@ -42,7 +42,7 @@ and building minimum viable prototypes as some answers are discovered.
 	- etc...
 - [[social operating systems\|social operating systems]]
 	- [[concepts/design/incentive structures\|incentive structures]]
-	- [[marketing\|marketing]] / [[topics/design/media\|media]]
+	- [[tbprocessed/notion/notion resources/🎮 Level Up Your Twitter Game/BONUS 3- Collections by topics/Marketing\|marketing]] / [[topics/design/media\|media]]
 	- [[economic systems\|economic systems]]
 	- [[financial systems\|financial systems]]
 	- [[governance systems\|governance systems]]

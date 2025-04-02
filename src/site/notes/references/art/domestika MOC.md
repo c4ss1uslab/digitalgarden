@@ -67,7 +67,7 @@ legend:
 ##### 🎥 social media essentials
 
 > 🤔 [Photography for Beginners: Professional Techniques](https://www.domestika.org/en/courses/3555-photography-for-beginners-professional-techniques) - see: [[photography\|photography]]
-> 🤔 [Editing and Post-Production for Video - Juanmi Cristóbal](https://www.domestika.org/en/courses/3913-editing-and-post-production-for-video) - see: [[video-making\|video-making]]
+> 🤔 [Editing and Post-Production for Video - Juanmi Cristóbal](https://www.domestika.org/en/courses/3913-editing-and-post-production-for-video) - see: [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/interests & topics master list/video-making\|video-making]]
 > 🤔 [Podcast Production for Beginners: Captivate Your Listeners - Federico Ciccone](https://www.domestika.org/en/courses/3212-podcast-production-for-beginners-captivate-your-listeners) - see: [[podcast production\|podcast production]]
 
 #### my notes:

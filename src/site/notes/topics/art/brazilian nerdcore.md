@@ -68,7 +68,7 @@ if you search for nerdcore online, you'll find a description like [chosic](https
 
 
 
-[[masterclass\|masterclass]]' ["Nerdcore Music Guide"](https://www.masterclass.com/articles/nerdcore-music-guide) also shares a bit of the history and introduces some of the artists/precursors of the scene. 
+[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/sub-missions list/disruptive life OS v. 1.0/disruptive os breakdown/personal ecosystems creation/intrapersonal management/learning-education resources/alternative education companies database/masterclass\|masterclass]]' ["Nerdcore Music Guide"](https://www.masterclass.com/articles/nerdcore-music-guide) also shares a bit of the history and introduces some of the artists/precursors of the scene. 
 
 </div></div>
 
@@ -77,7 +77,7 @@ if you search for nerdcore online, you'll find a description like [chosic](https
 
 
 
-in brazil though, nerdcore really started its scene as "anime rap". mostly people rapping about a character or interpreting the story as that character (from [[topics/player/anime\|anime]]/[[manga\|manga]] like [[naruto\|naruto]]/[[dragon ball\|dragon ball]], games like [[GTA\|GTA]]/[[the last of us\|the last of us]], tv shows like [[the walking dead\|the walking dead]]/[[game of thrones\|game of thrones]] and such). i don't know much about the history of the scene in the world - from what i know, it's a reasonably small scene - people just created songs about these topics, not interpreting as the characters themselves. 
+in brazil though, nerdcore really started its scene as "anime rap". mostly people rapping about a character or interpreting the story as that character (from [[topics/player/anime\|anime]]/[[manga\|manga]] like [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/content master list/naruto\|naruto]]/[[dragon ball\|dragon ball]], games like [[GTA\|GTA]]/[[the last of us\|the last of us]], tv shows like [[the walking dead\|the walking dead]]/[[game of thrones\|game of thrones]] and such). i don't know much about the history of the scene in the world - from what i know, it's a reasonably small scene - people just created songs about these topics, not interpreting as the characters themselves. 
 
 </div></div>
 
@@ -95,14 +95,14 @@ in brazil, this scene grew A LOT and differently from the rest of the world. tod
 
 
 
-the result was a new generation of young independent artists making songs in their bedroom, that got inspired by this gradual development of the scene (old-school player tauz), catapulted by [[7 minutoz\|7 minutoz]]'s hits such as the cornerstone [[naruto\|naruto]]'s "[akatsuki rap](https://www.youtube.com/watch?v=-oYMo8k22Vw)" (220M views), the innovation of [[enygma\|enygma]] (who started making "anime metal"), and the [[URT\|URT]] (a group of artists that for a long time kept releasing songs every week) which gathered a very engaged fanbase and consistently raised the bar in the last few years in terms of musicality, production and video quality (it's absolute madness what the editors do nowadays. they're basically animating entire animes out of mangas [static illustrations]). 
+the result was a new generation of young independent artists making songs in their bedroom, that got inspired by this gradual development of the scene (old-school player tauz), catapulted by [[7 minutoz\|7 minutoz]]'s hits such as the cornerstone [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/content master list/naruto\|naruto]]'s "[akatsuki rap](https://www.youtube.com/watch?v=-oYMo8k22Vw)" (220M views), the innovation of [[enygma\|enygma]] (who started making "anime metal"), and the [[URT\|URT]] (a group of artists that for a long time kept releasing songs every week) which gathered a very engaged fanbase and consistently raised the bar in the last few years in terms of musicality, production and video quality (it's absolute madness what the editors do nowadays. they're basically animating entire animes out of mangas [static illustrations]). 
 
 </div></div>
 
 
 on the musical aspect of it:
 
-brazilian nerdcore as a genre has a much bigger focus on [[storytelling\|storytelling]] and [[interpretation\|interpretation]] than most other mainstream styles. 
+brazilian nerdcore as a genre has a much bigger focus on [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/industries master list/storytelling\|storytelling]] and [[interpretation\|interpretation]] than most other mainstream styles. 
 
 since artists create music about fictional universes, the way they choose to portray it - be it having a focus on the emotional/psychological aspects of the character/story or making metaphors/parallels between that world and our reality - says a lot about the artist's worldview/focus and also select/affect how the public receive it.
 

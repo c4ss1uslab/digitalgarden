@@ -49,11 +49,11 @@ my current findings/[[_006_core notes/theories of change\|theory of change]]⁹�
 ##### 2) better [[topics/design/coordination systems\|coordination systems]]⁹⁸
 
 [[topics/design/distributed systems\|distributed]]/[[decentralized systems\|decentralized systems design]] -> global scale: [[diagnosis/self-terminating economic system\|economic]], [[governance systems\|governance]], [[organizational systems\|organizational]], [[self-organizing systems\|self-organizing systems]]
-and local-personal scale: [[concepts/design/resources\|resources]], [[responses/lab/knowledge management\|knowledge]], [[data management\|data]] & [[self-management systems\|self-management systems]].
+and local-personal scale: [[concepts/design/resources\|resources]], [[responses/lab/knowledge management\|knowledge]], [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/general skills master list/data management\|data]] & [[self-management systems\|self-management systems]].
 
 ##### 3) [[_004_L1F3/core concepts/self-management\|self-management]]⁹⁷ & [[topics/design/collaboration tools\|collaboration tools]]⁹⁷
 
-[[concepts/design/tools for extended cognition\|tools for extended cognition]] -> [[models & frameworks/design/OODA loop\|OODA loop]]⁹⁷ augmentation / [[models & frameworks/design/DIKW pyramid\|DIKW]] management ([[concepts/alchemy/sensemaking\|sensemaking]], [[topics/lab/information management\|information management]], [[knowledge development\|knowledge development]], [[wisdom development\|wisdom development]])
+[[concepts/design/tools for extended cognition\|tools for extended cognition]] -> [[models & frameworks/design/OODA loop\|OODA loop]]⁹⁷ augmentation / [[models & frameworks/design/DIKW pyramid\|DIKW]] management ([[concepts/alchemy/sensemaking\|sensemaking]], [[topics/lab/information management\|information management]], [[knowledge development\|knowledge development]], [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/industries master list/wisdom development\|wisdom development]])
 
 [[_004_L1F3/core concepts/life management\|life management]] -> [[_004_L1F3/l1f3 management ontology\|l1f3 management ontology]] & [[_002_toolkit/000 ⛓ l1f3 player toolkit\|toolkit]] -> [[concepts/lab/memex\|memex]], [[co-pilot\|co-pilot]], [[responses/lab/recommender systems\|recommender systems]], [[topics/lab/algorithms\|algorithms]], [[responses/lab/mapping\|maps]], [[responses/lab/dashboards\|dashboards]] & more
 
@@ -96,7 +96,7 @@ title: note
 collapse: open
 i have engaged with the tools/projects below to varying degrees. these scores are estimates based on *what i currently know about* and *how much i've engaged with them*. the scores can change completely depending if i learn more, my perspectives change, or as they advance in their own development.
 ```
-##### [[meta-games\|meta-games]]⁹⁸:
+##### [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/categories of games/meta-games\|meta-games]]⁹⁸:
 
 [[initiatives, orgs & communities/design/metagame.wtf\|metagame.wtf]]⁹⁶, [[projects & tools/projects/player/world game\|world game]]⁹⁶, [[initiatives, orgs & communities/design/SEEDS (ecosystem)\|SEEDS]]⁹⁶, [[models & frameworks/player/fourgames\|fourgames]]⁹⁴, [[projects & tools/projects/player/startover.xyz\|startover.xyz]]⁹³, [[responses/art/música do círculo\|música do círculo]]⁹³/[[projects & tools/tools/player/COLLAPSE\|COLLAPSE]]⁹³
 

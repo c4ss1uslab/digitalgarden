@@ -55,7 +55,7 @@ although it's inspiring to me, to many, especially in the global south, the "sec
 
 *other thoughts:*
 
-the first renaissance was an age of retrieval of lost [[knowledge\|knowledge]] & [[concepts/alchemy/wisdom\|wisdom]], a profound questioning that permeated the zeitgeist and produced new expressions of the [[true\|true]], [[good\|good]] and [[beautiful\|beautiful]] (e.g. science, law and art) integrating some ancient wisdom with the tools, discoveries and context of modernity.
+the first renaissance was an age of retrieval of lost [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/project-mission category/knowledge\|knowledge]] & [[concepts/alchemy/wisdom\|wisdom]], a profound questioning that permeated the zeitgeist and produced new expressions of the [[true\|true]], [[good\|good]] and [[beautiful\|beautiful]] (e.g. science, law and art) integrating some ancient wisdom with the tools, discoveries and context of modernity.
 
 the second renaissance is both an integration of our discoveries across multiple social, exterior and interior sciences, and also a reintegration of [[indigenous knowledge\|indigenous knowledge]], [[topics/alchemy/indigenous wisdom\|wisdom]] and [[concepts/alchemy/ways of knowing\|ways of knowing]] that were systemically persecuted and erased by modernity.
 

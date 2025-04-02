@@ -39,7 +39,7 @@ While not exhaustive, here are some key types of informational constructs:
 
 1. [Protocols](https://diome.xyz/2+%F0%9F%8C%BF+Leaves/Protocols): Formal rules governing communication and interaction
     - Examples: TCP/IP, diplomatic protocols, social etiquette
-2. [[Roles\|Roles]]: Defined positions within a system with associated expectations
+2. [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/concepts & frameworks/roles/roles\|Roles]]: Defined positions within a system with associated expectations
     - Examples: Job titles, social roles (parent, teacher), user roles in software
 3. [[Software\|Software]]: Coded instructions for computer operations
     - Examples: Operating systems, applications, algorithms
@@ -47,7 +47,7 @@ While not exhaustive, here are some key types of informational constructs:
     - Examples: Cultural myths, corporate visions, personal life stories
 5. [[Techniques\|Techniques]]: Specific methods for accomplishing tasks
     - Examples: Scientific methods, manufacturing processes, problem-solving strategies
-6. [[Languages\|Languages]]: Systems of symbols for communication
+6. [[tbprocessed/evernote/2 - in progress/languages\|Languages]]: Systems of symbols for communication
     - Examples: Natural languages, programming languages, sign languages
 7. [[Frameworks\|Frameworks]]: Structured approaches for organizing information or activities
     - Examples: Legal frameworks, project management methodologies, theoretical models

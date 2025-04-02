@@ -9,7 +9,7 @@ not tested, but look promising: [sigma.js](https://www.sigmajs.org/), [[gephi\|g
 
 ###### tier 2:
 
-[[neo4J\|neo4J]], [[d3.js\|d3.js]], [[infranodus\|infranodus]], [[projects & tools/tools/lab/metamaps\|metamaps]] ([[projects & tools/tools/design/kumu\|kumu]]-like), [[projects & tools/tools/lab/datasette\|datasette]]
+[[neo4J\|neo4J]], [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/sub-skills master list/d3.js\|d3.js]], [[infranodus\|infranodus]], [[projects & tools/tools/lab/metamaps\|metamaps]] ([[projects & tools/tools/design/kumu\|kumu]]-like), [[projects & tools/tools/lab/datasette\|datasette]]
 
 [layer](https://beta.getlayer.xyz/) - [[geographic\|geographic]]/[[demographic\|demographic]] data only.
 

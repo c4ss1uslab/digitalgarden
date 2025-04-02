@@ -50,12 +50,12 @@ research any topic on:
 social media:
 - [[google\|google]]
 - [[youtube\|youtube]]
-- [[facebook\|facebook]]
+- [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/community locations/facebook\|facebook]]
 - [[projects & tools/tools/lab/instagram\|instagram]]
 - [[projects & tools/tools/lab/twitter\|twitter]]
-- [[reddit\|reddit]]
+- [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/references/reference types/recommended references/c4ss1us’ technology tool stack/reddit/reddit\|reddit]]
 - [[tiktok\|tiktok]]
-- [[mastodon\|mastodon]]
+- [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/references/reference types/recommended references/c4ss1us’ technology tool stack/mastodon\|mastodon]]
 - [[initiatives, orgs & communities/lab/bluesky\|bluesky]]
 - [[odysee\|odysee]]
 

@@ -71,11 +71,11 @@ existem profissionais dedicados analistas de esportes, de negócios, de jogos (c
 
 por que não temos esse nível de seriedade/comprometimento/importância com a nossa vida?
 
-thankfully with the popularization of therapies and access to other forms of personal care, i see that this reality is already changing, but still it's widely not seen as "applicable to everyone". it's especially clear through the lenses of [[class\|class]] - there's still a big divide in those who care for (lots of unrecognized forms of care, primarily provided by women and the elderly), and those who are cared for (those who can afford it).
+thankfully with the popularization of therapies and access to other forms of personal care, i see that this reality is already changing, but still it's widely not seen as "applicable to everyone". it's especially clear through the lenses of [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/tasks master list/create character design page on notion/class\|class]] - there's still a big divide in those who care for (lots of unrecognized forms of care, primarily provided by women and the elderly), and those who are cared for (those who can afford it).
 
 a few communities that practice this in some way:
 - quantified self / biohacking [health / energy]
-- productivity/organization ([[tbprocessed/base notes/tools;products - general/notion\|notion]] / [[rize\|rize]]) -> [[topics/lab/personal knowledge management\|PKM]]/[[responses/lab/tools for thought\|TfT]] ([[projects & tools/tools/lab/obsidian\|obsidian]] / [[infranodus\|infranodus]]) [[time management\|time management]] / [[topics/lab/personal knowledge management\|personal knowledge management]]
+- productivity/organization ([[tbprocessed/base notes/tools;products - general/notion\|notion]] / [[rize\|rize]]) -> [[topics/lab/personal knowledge management\|PKM]]/[[responses/lab/tools for thought\|TfT]] ([[projects & tools/tools/lab/obsidian\|obsidian]] / [[infranodus\|infranodus]]) [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/general skills master list/time management\|time management]] / [[topics/lab/personal knowledge management\|personal knowledge management]]
 - chatGPT code interpreter [personal data analysis, sensemaking] / discovery algorithms/newsletters/follows [curadoria]
 - emotional / spiritual ([[heartmath\|heartmath]], PM practices, integral dashboard, coaching)
 

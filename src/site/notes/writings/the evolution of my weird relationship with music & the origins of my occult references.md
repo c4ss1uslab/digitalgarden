@@ -44,7 +44,7 @@ i tell this story in more detail in [other places], so i won't go deep into it, 
 
 i was completely uninspired, sad, triggered and traumatized, and laying in my bed, i started watching some [[the voice\|the voice]] auditions from around the world.
 
-i found a few that i really liked and so followed the rabbit hole to discover the original artists. that way i found a few artists i really like up to today ([[maëlle\|maëlle]], [[references/music/artists/london grammar\|london grammar]], [[references/music/artists/daneliya tuleshova\|daneliya tuleshova]]). i also got recommended a channel called "[[in the woods\|in the woods]]", which curated "post-rock" music. i had no idea what it meant but it seemed like a cool concept, so i explored to find stuff that i really liked as well ([[references/music/artists/those who ride with giants\|those who ride with giants]], [[references/music/artists/black hill\|black hill]]).
+i found a few that i really liked and so followed the rabbit hole to discover the original artists. that way i found a few artists i really like up to today ([[maëlle\|maëlle]], [[references/music/artists/london grammar\|london grammar]], [[references/music/artists/daneliya tuleshova\|daneliya tuleshova]]). i also got recommended a channel called "[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/bookmarks/In The Woods\|in the woods]]", which curated "post-rock" music. i had no idea what it meant but it seemed like a cool concept, so i explored to find stuff that i really liked as well ([[references/music/artists/those who ride with giants\|those who ride with giants]], [[references/music/artists/black hill\|black hill]]).
 
 but the turning point was [[references/music/artists/dimash kudaibergen\|dimash kudaibergen]]. a nature/nurture freak, with a 6-octave range (pretty much both "male" and "female" voices), incredible interpretation, emotion, technique, versatility, both classical & pop background, he's the whole package. someone with a crazy talent who had the support and love to keep honing it since he was 5.
 { #98c610}
@@ -102,11 +102,11 @@ if you search for nerdcore online, you'll find a description like [chosic](https
 { #78f9e0}
 
 
-[[masterclass\|masterclass]]' ["Nerdcore Music Guide"](https://www.masterclass.com/articles/nerdcore-music-guide) also shares a bit of the history and introduces some of the artists/precursors of the scene.
+[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/sub-missions list/disruptive life OS v. 1.0/disruptive os breakdown/personal ecosystems creation/intrapersonal management/learning-education resources/alternative education companies database/masterclass\|masterclass]]' ["Nerdcore Music Guide"](https://www.masterclass.com/articles/nerdcore-music-guide) also shares a bit of the history and introduces some of the artists/precursors of the scene.
 { #4460a8}
 
 
-in brazil though, nerdcore really started its scene as "anime rap". mostly people rapping about a character or interpreting the story as that character (from [[topics/player/anime\|anime]]/[[manga\|manga]] like [[naruto\|naruto]]/[[dragon ball\|dragon ball]], games like [[GTA\|GTA]]/[[the last of us\|the last of us]], tv shows like [[the walking dead\|the walking dead]]/[[game of thrones\|game of thrones]] and such). i don't know much about the history of the scene in the world - from what i know, it's a reasonably small scene - people just created songs about these topics, not interpreting as the characters themselves.
+in brazil though, nerdcore really started its scene as "anime rap". mostly people rapping about a character or interpreting the story as that character (from [[topics/player/anime\|anime]]/[[manga\|manga]] like [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/content master list/naruto\|naruto]]/[[dragon ball\|dragon ball]], games like [[GTA\|GTA]]/[[the last of us\|the last of us]], tv shows like [[the walking dead\|the walking dead]]/[[game of thrones\|game of thrones]] and such). i don't know much about the history of the scene in the world - from what i know, it's a reasonably small scene - people just created songs about these topics, not interpreting as the characters themselves.
 { #757d9d}
 
 
@@ -114,7 +114,7 @@ in brazil, this scene grew A LOT and differently from the rest of the world. tod
 { #fb7fea}
 
 
-the result was a new generation of young independent artists making songs in their bedroom, that got inspired by this gradual development of the scene (old-school player tauz), catapulted by [[7 minutoz\|7 minutoz]]'s hits such as the cornerstone [[naruto\|naruto]]'s "[akatsuki rap](https://www.youtube.com/watch?v=-oYMo8k22Vw)" (220M views), the innovation of [[enygma\|enygma]] (who started making "anime metal"), and the [[URT\|URT]] (a group of artists that for a long time kept releasing songs every week) which gathered a very engaged fanbase and consistently raised the bar in the last few years in terms of musicality, production and video quality (it's absolute madness what the editors do nowadays. they're basically animating entire animes out of mangas [static illustrations]).
+the result was a new generation of young independent artists making songs in their bedroom, that got inspired by this gradual development of the scene (old-school player tauz), catapulted by [[7 minutoz\|7 minutoz]]'s hits such as the cornerstone [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/content master list/naruto\|naruto]]'s "[akatsuki rap](https://www.youtube.com/watch?v=-oYMo8k22Vw)" (220M views), the innovation of [[enygma\|enygma]] (who started making "anime metal"), and the [[URT\|URT]] (a group of artists that for a long time kept releasing songs every week) which gathered a very engaged fanbase and consistently raised the bar in the last few years in terms of musicality, production and video quality (it's absolute madness what the editors do nowadays. they're basically animating entire animes out of mangas [static illustrations]).
 { #0701bf}
 
 

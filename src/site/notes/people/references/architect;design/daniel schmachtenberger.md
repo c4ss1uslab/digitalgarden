@@ -35,7 +35,7 @@ personal website: https://civilizationemerging.com/
 —> ecological/externalities blindness (economic system detached from our ecological substrate (self-organizing around profits [increasing accumulation, extraction, externalization of losses], unbounded optionality)
 —> energy blindness & exponential technology accelerating resource depletion
 
-2) **[[nate hagens\|nate hagens]] attempting to consolidate [[challenges\|challenges]] & [[pathways\|pathways]] into a 3x3 grid**
+2) **[[nate hagens\|nate hagens]] attempting to consolidate [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/experiments master list/disruptive life OS presentation v. 0.1/challenges\|challenges]] & [[pathways\|pathways]] into a 3x3 grid**
 
 ![nate hagens' 3x3 grid](https://i.imgur.com/AkR1Opt.png)
 

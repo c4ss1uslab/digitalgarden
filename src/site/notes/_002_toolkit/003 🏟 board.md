@@ -11,10 +11,10 @@ i'd argue that pretty much regardless of who you are, if you're interested in ha
 plus, this frame of a [[game board\|game board]] introduces an interesting view of life as a game, and therefore, a set of useful definitions and frameworks from [[topics/player/game design\|game design]] become available:
 
 **your life as:**
-"a form of [[topics/player/play\|play]] with [[goals\|goals]] and [[structure\|structure]]."
+"a form of [[topics/player/play\|play]] with [[tbprocessed/notion/language learning hub/goals\|goals]] and [[structure\|structure]]."
 "a set of [[rules\|rules]], [[guidelines\|guidelines]] and [[objectives\|objectives]] within an [[terms/environment\|environment]]."
-"a set of [[goals\|goals]], [[rules\|rules]], [[challenges\|challenges]], and [[interactions\|interactions]]."
-"(...) [[goals\|goals]], [[rules\|rules]], a [[feedback system\|feedback system]], and voluntary participation."
+"a set of [[tbprocessed/notion/language learning hub/goals\|goals]], [[rules\|rules]], [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/experiments master list/disruptive life OS presentation v. 0.1/challenges\|challenges]], and [[interactions\|interactions]]."
+"(...) [[tbprocessed/notion/language learning hub/goals\|goals]], [[rules\|rules]], a [[feedback system\|feedback system]], and voluntary participation."
 "an [[activity\|activity]] among two or more in(ter)dependent [[decision-makers\|decision-makers]] seeking to achieve their [[objectives\|objectives]] in some [[limiting context\|limiting context]]."
 "a form of [[tbprocessed/base notes/concepts - general/art\|art]] in which participants, termed _players_, [[make decisions\|make decisions]] in order to [[manage resources\|manage resources]] through game tokens in the pursuit of a [[goal\|goal]]."
 

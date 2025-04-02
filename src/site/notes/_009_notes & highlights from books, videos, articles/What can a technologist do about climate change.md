@@ -4,7 +4,7 @@
 
 https://worrydream.com/ClimateChange/
 
-\*the application of this article goes way beyond the topic of [[climate change\|climate change]]. i recommend reading it not only considering our climate predicament, but the complex, entangled situation of our [[civilizational systems\|civilizational systems]] as whole - [[challenges\|challenges]], [[risks\|risks]], [[shortcomings\|shortcomings]], [[biases\|biases]], etc... it's a great starting point for exploring different large-scale action pathways.
+\*the application of this article goes way beyond the topic of [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/concepts & frameworks/concepts & frameworks/climate change\|climate change]]. i recommend reading it not only considering our climate predicament, but the complex, entangled situation of our [[civilizational systems\|civilizational systems]] as whole - [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/experiments master list/disruptive life OS presentation v. 0.1/challenges\|challenges]], [[risks\|risks]], [[shortcomings\|shortcomings]], [[biases\|biases]], etc... it's a great starting point for exploring different large-scale action pathways.
 { #5ac75d}
 
 

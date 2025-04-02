@@ -6,6 +6,6 @@ very interesting research (on scaling information/knowledge synthesis) - explore
 
 video presentation: https://www.youtube.com/watch?v=enRYIUDRwWg
 
-minimum "knowledge commons" structure they propose: [[questions\|questions]], [[claims\|claims]], [[evidence\|evidence]], [[sources\|sources]], [[people\|people]].
+minimum "knowledge commons" structure they propose: [[tbprocessed/notion/notion resources/Web dev resources (public)/Questions\|questions]], [[claims\|claims]], [[evidence\|evidence]], [[sources\|sources]], [[tbprocessed/notion/notion resources/Web dev resources (public)/People/People\|people]].
 
 inquiring into: [[discourse graphs\|discourse graphs]], (...)

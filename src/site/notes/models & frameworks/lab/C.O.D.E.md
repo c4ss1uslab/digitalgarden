@@ -2,7 +2,7 @@
 {"created in":"2023-12-19T12:15:27-03:00","last tended to":"2024-09-02T15:04:42-03:00","dg-publish":true,"aliases":["CODE"],"tags":["framework"],"permalink":"/models-and-frameworks/lab/c-o-d-e/","dgPassFrontmatter":true,"created":"2023-12-19T12:15:27.352-03:00","updated":"2024-09-02T15:04:42.689-03:00"}
 ---
 
-acronym for [[capture\|capture]], [[organize\|organize]], [[distill\|distill]], [[express\|express]].
+acronym for [[tbprocessed/notion/Second Brain/Capture/Capture\|capture]], [[organize\|organize]], [[distill\|distill]], [[express\|express]].
 
 a framework proposed by [[people/references/lab/tiago forte\|tiago forte]] / [[patterns/active patterns/knowledge management/building a second brain\|building a second brain]].
 

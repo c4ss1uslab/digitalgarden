@@ -22,7 +22,7 @@ i'm following the developments of a few projects in adjacent spaces, to see how/
 [[projects & tools/projects/design/coasys\|coasys]]
 
 [[federated networks\|federated networks]]:
-[[mastodon\|mastodon]]
+[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/references/reference types/recommended references/c4ss1us’ technology tool stack/mastodon\|mastodon]]
 [[initiatives, orgs & communities/lab/bluesky\|bluesky]] user-chosen algorithms
 (...)
 

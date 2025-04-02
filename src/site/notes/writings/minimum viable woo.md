@@ -10,7 +10,7 @@ at the same time, there are plenty of potential problems that come with it, such
 
 [[people/references/architect;design/tom morgan\|tom morgan]] also introduces some good frames such as [[anne-laure le cunff\|anne-laure le cunff]]'s "[Where are you on the Woo Spectrum?](https://newsletter.nesslabs.com/posts/ness-labs-where-are-you-on-the-woo-spectrum)" and the evolution of his own beliefs alongside a confidence percentage in his [what woo works](https://newsletter.theleading-edge.org/p/what-woo-works) article.
 
-so this exploration intends to address - what is the middle ground? to what degree does [[faith\|faith]], [[trust\|trust]], [[devotion\|devotion]], [[service\|service]] play a beneficial role in our development as individuals and societies?
+so this exploration intends to address - what is the middle ground? to what degree does [[faith\|faith]], [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/bookmarks/Trust\|trust]], [[devotion\|devotion]], [[service\|service]] play a beneficial role in our development as individuals and societies?
 
 how can it be applied consciously?
 

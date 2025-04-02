@@ -12,7 +12,7 @@
 
 #### context
 
-a discontinued yet very, very interesting prototype for an alternative [[projects & tools/tools/lab/twitter\|twitter]] feed made by a few folks at [[roote\|roote]]. a major reference for [[responses/design/personal algorithms design\|personal algorithms design]] and [[responses/lab/recommender systems\|recommender systems]].
+a discontinued yet very, very interesting prototype for an alternative [[projects & tools/tools/lab/twitter\|twitter]] feed made by a few folks at [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/sub-missions list/disruptive life OS v. 1.0/disruptive os breakdown/personal ecosystems creation/intrapersonal management/learning-education resources/alternative education companies database/roote\|roote]]. a major reference for [[responses/design/personal algorithms design\|personal algorithms design]] and [[responses/lab/recommender systems\|recommender systems]].
 
 **good intro:** https://www.roote.co/tweetscape/vision
 
@@ -20,7 +20,7 @@ their design was great, and they had fantastic write-ups on the whole design/dev
 
 after their initial design and their development halt due to twitter API changes, they expanded the scope of the project (applying the design specs to more than twitter) and renamed it to trails.social, which i love.
 
-from my understanding, their lead engineers/designers were [[people/references/lab/nick torba\|nick torba]] and [[people/references/lab/julian fleck\|julian fleck]]. there were a few other people supporting while they were incubated by [[roote\|roote]] and [[people/acquaintances/andre vacha\|andre vacha]] joined after some time as well.
+from my understanding, their lead engineers/designers were [[people/references/lab/nick torba\|nick torba]] and [[people/references/lab/julian fleck\|julian fleck]]. there were a few other people supporting while they were incubated by [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/sub-missions list/disruptive life OS v. 1.0/disruptive os breakdown/personal ecosystems creation/intrapersonal management/learning-education resources/alternative education companies database/roote\|roote]] and [[people/acquaintances/andre vacha\|andre vacha]] joined after some time as well.
 
 for me, it's a core reference for the design of an [[prototypes & designs/made by me/omnichannel curation feed\|omnichannel curation feed]].
 #### write-ups:

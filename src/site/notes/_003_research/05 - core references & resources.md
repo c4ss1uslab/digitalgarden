@@ -179,9 +179,9 @@ a few different views:
 > [Open Syllabus: Galaxy](https://galaxy.opensyllabus.org/)  / [Open Syllabus](https://opensyllabus.org/) / [Dataset Documentation — Open Syllabus 2.8 documentation](https://docs.opensyllabus.org/)
 >
 > 3D/metaverse-oriented AI:
-> [[masterpiece studio\|masterpiece studio]]
-> [[luma labs\|luma labs]]
-> [[blockade labs\|blockade labs]]
+> [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/organizations master list/masterpiece studio\|masterpiece studio]]
+> [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/organizations master list/luma labs\|luma labs]]
+> [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/organizations master list/blockade labs\|blockade labs]]
 > 
 > article-style ecosystem mapping:
 > [The Liminal Web: Mapping An Emergent Subculture Of Sensemakers, Meta-Theorists & Systems Poets](https://www.joelightfoot.org/post/the-liminal-web-mapping-an-emergent-subculture-of-sensemakers-meta-theorists-systems-poets)
@@ -229,12 +229,12 @@ core concepts:
 [[models & frameworks/design/metadesign\|metadesign]] / [[topics/design/ontological design\|ontological design]]
 [[responses/alchemy/integral theory\|integral theory]] / [[models & frameworks/design/four quadrants\|four quadrants]] / [[models & frameworks/player/fourgames\|fourgames]]
 [[meta-cognitive processes\|meta-cognitive processes]] / [[_004_L1F3/core concepts/life management\|life management]] / [[_004_L1F3/L1F3 support systems\|L1F3 support systems]]
-[[patterns/pattern collections/game design patterns\|game design patterns]] -> [[maps\|maps]] / [[boards\|boards]] -> [[models & frameworks/design/wardley mapping\|wardley mapping]] / [[game board\|game board]]
+[[patterns/pattern collections/game design patterns\|game design patterns]] -> [[tbprocessed/notion/c4ss1us.NOW/maps\|maps]] / [[boards\|boards]] -> [[models & frameworks/design/wardley mapping\|wardley mapping]] / [[game board\|game board]]
 
 community-curated knowledge networks:
 [[initiatives, orgs & communities/design/sublime (ex-startupy)\|sublime (ex-startupy)]]
 [[projects & tools/tools/design/melon\|melon]]
-[[are.na\|are.na]]
+[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/references/reference types/recommended references/c4ss1us’ technology tool stack/are.na\|are.na]]
 [[hypothes.is\|hypothes.is]] / [[glasp\|glasp]]
 [Top Curators On The Internet - Google Docs](https://docs.google.com/document/d/1PNYQmjOdAmKbRzLGI83nvSQ5hRRlIJz7VZq13WwehtQ/edit)
 
@@ -302,7 +302,7 @@ https://codeberg.org/teaserbot-labs/delightful-humane-design
 #### 2nd layer - open explorations:
 [OSE Apprenticeship | Open Source Ecology](https://www.opensourceecology.org/ose-apprenticeship/) / [[projects & tools/projects/regen/appropedia\|appropedia]] / [[cohere network\|cohere network]]
 
-[[initiatives, orgs & communities/regen/global ecovillage network (GEN)\|global ecovillage network (GEN)]] / [[IC\|IC]] / [[worldpackers\|worldpackers]] / [[workaway\|workaway]]
+[[initiatives, orgs & communities/regen/global ecovillage network (GEN)\|global ecovillage network (GEN)]] / [[IC\|IC]] / [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/references/reference types/recommended references/c4ss1us’ technology tool stack/worldpackers/worldpackers\|worldpackers]] / [[workaway\|workaway]]
 
 [[makerspaces\|makerspaces]] / [[maker culture\|maker culture]] / [[hackerspaces\|hackerspaces]]
 [[creative spaces\|creative spaces]]
@@ -321,7 +321,7 @@ talk about: /\
 ------
 #### other / passive references:
 
-###### [[books\|books]]
+###### [[tbprocessed/notion/notion resources/Web dev resources (public)/Books/Books\|books]]
 
 #open
 [[the open revolution\|the open revolution]] - [[rufus pollock\|rufus pollock]]
@@ -336,7 +336,7 @@ tbd - [[metacurrency\|metacurrency]]
 [[a jornada humana em busca da visão\|a jornada humana em busca da visão]] - [[tbprocessed/base notes/ventures - general/desenvolvimento regenerativo\|desenvolvimento regenerativo]]
 
 [[soulcraft\|soulcraft]] - [[tbprocessed/base notes/people/bill plotkin\|bill plotkin]]
-[[the completion process\|the completion process]] - [[tbprocessed/working on/[1Q; II] - reflections/teal swan\|teal swan]]
+[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/content master list/the completion process\|the completion process]] - [[tbprocessed/working on/[1Q; II] - reflections/teal swan\|teal swan]]
 [[how to do the work\|how to do the work]] - [[the holistic psychologist\|the holistic psychologist]]
 
 ---
@@ -354,9 +354,9 @@ deeper communicators:
 
 main "theorists":
 [[zettelkasten\|zettelkasten]]
-[[andy matuschak\|andy matuschak]]
+[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/bookmarks/Andy Matuschak\|andy matuschak]]
 [[people/references/lab/tiago forte\|tiago forte]] / [[tbprocessed/base notes/ventures - general/forte labs\|forte labs]] / [[patterns/active patterns/knowledge management/building a second brain\|BASB]]
-[[people/references/lab/nick milo\|nick milo]] / [[linking your thinking\|linking your thinking]]
+[[people/references/lab/nick milo\|nick milo]] / [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/content creators master list/linking your thinking\|linking your thinking]]
 
 more obscure/deeper thinkers/developers:
 [[tbprocessed/base notes/people/zsolt viczián\|zsolt viczián]] / [[visual knowledge management system\|visual knowledge management system]] - https://www.youtube.com/c/VisualPKM
@@ -421,11 +421,11 @@ by topic:
 
 - [[topics/art/music MOC\|music MOC]] (4)
 
-- [[education\|education]] (9)
+- [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/industries master list/education\|education]] (9)
 
 - [[concepts/alchemy/sensemaking\|sensemaking]] (7)
 
-[[singularity university\|singularity university]] community topics:
+[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/organizations master list/singularity university/singularity university\|singularity university]] community topics:
 
 A - [[Computation\|Computation]]
 A.A - [[Quantum Technology\|Quantum Technology]]
@@ -436,7 +436,7 @@ A.E - [[5G Communications\|5G Communications]]
 A.F - [[Blockchain & Distributed Ledger Tech\|Blockchain & Distributed Ledger Tech]]
 B - [[topics/lab/robotics\|robotics]]
 B.A - [[Nano Robotics\|Nano Robotics]]
-B.B - [[Automation\|Automation]] ([[RPA\|RPA]])
+B.B - [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/general skills master list/automation\|Automation]] ([[RPA\|RPA]])
 B.C - [[Drones\|Drones]]
 B.D - [[Swarm Robotics\|Swarm Robotics]]
 B.E - [[Robotic Surgery\|Robotic Surgery]] (n/i)
@@ -457,7 +457,7 @@ E.B - [[Moral Philosophy\|Moral Philosophy]]
 E.C - [[Ethics and AI\|Ethics and AI]]
 E.D - [[Philosophy of Technology\|Philosophy of Technology]]
 E.E - [[Philosophy of Information\|Philosophy of Information]]
-F -  [[Psychology\|Psychology]]
+F -  [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/industries master list/psychology\|Psychology]]
 F.A - [[Mental Health\|Mental Health]]
 F.B - [[Digital Presence\|Digital Presence]]
 G - [[Biology\|Biology]] & [[Physiology\|Physiology]]
@@ -467,22 +467,22 @@ G.C - [[Health and Wellness\|Health and Wellness]]
 G.D - [[Neurobiology\|Neurobiology]]/[[Neuroscience\|Neuroscience]]
 H -[[ Leadership\| Leadership]] & [[Transformation\|Transformation]]
 H.A - [[Workforce Up-Skilling\|Workforce Up-Skilling]]
-H.B - [[Systems Thinking\|Systems Thinking]]
-H.C - [[Business Models\|Business Models]] & [[Value Creation\|Value Creation]]
+H.B - [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/superskills master list/systems thinking\|Systems Thinking]]
+H.C - [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/interests & topics master list/business models\|Business Models]] & [[Value Creation\|Value Creation]]
 H.D - [[Future Planning\|Future Planning]]
 H.E - [[Technological Unemployment\|Technological Unemployment]]
 H.F - [[Adaptability and Resilience\|Adaptability and Resilience]]
 H.G - [[Universal Basic Income\|Universal Basic Income]] (UBI)
 I - [[Innovation\|Innovation]]
-I.A - [[Design Thinking\|Design Thinking]]
+I.A - [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/general skills master list/design thinking\|Design Thinking]]
 I.B - [[Prototyping\|Prototyping]]
 I.C - [[Technology Adoption\|Technology Adoption]]
 I.D - [[Corporate Intrapreneurship\|Corporate Intrapreneurship]]
-J - [[Entrepreneurship\|Entrepreneurship]]
+J - [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/industries master list/entrepreneurship\|Entrepreneurship]]
 J.A - [[Startups\|Startups]]
 J.B - [[Venture Capital Investing\|Venture Capital Investing]]
 J.C - [[Private Equity Investing\|Private Equity Investing]]
-K - [[Governance\|Governance]]
+K - [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/sub-interests & practices master list/governance\|Governance]]
 K.A - [[International Relations\|International Relations]]
 K.B - [[Policy and Legislation\|Policy and Legislation]] (n/i)
 K.C - [[Public Good\|Public Good]]
@@ -503,7 +503,7 @@ N.C - [[Disaster Resilience\|Disaster Resilience]]
 N.D - [[sustainable development\|Sustainable Development]]
 N.E - [[Transportation\|Transportation]]
 O - [[Digital Environments\|Digital Environments]]
-O.A - [[Social Media\|Social Media]]
+O.A - [[tbprocessed/notion/notion resources/Web dev resources (public)/Apps and tools/Social media\|Social Media]]
 O.B - [[Immersive Environments\|Immersive Environments]]
 O.C - [[Mixed Reality\|Mixed Reality]]
 P - [[Natural Environments\|Natural Environments]]

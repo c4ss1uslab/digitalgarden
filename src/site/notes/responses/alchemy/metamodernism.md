@@ -10,7 +10,7 @@ on their [[_009_notes & highlights from books, videos, articles/listening societ
 
 i.e. in summary, it states:
 
-why "psychological development matters" and shows how it's the basis for the development of other areas of society ([[education\|education]], [[topics/design/politics\|politics]], etc).
+why "psychological development matters" and shows how it's the basis for the development of other areas of society ([[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/industries master list/education\|education]], [[topics/design/politics\|politics]], etc).
 
 as a society, we have major:
 

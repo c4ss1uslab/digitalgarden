@@ -6,7 +6,7 @@ see: [[digital environment design\|digital environment design]]
 
 #### about
 
-this has been a long-standing research/experiment of mine as to what is the minimum set of viable digital technologies ([[concepts/lab/personal tech stack\|personal tech stack]]) for an [[intentional\|intentional]] [[personal computing\|personal computing]] setup.
+this has been a long-standing research/experiment of mine as to what is the minimum set of viable digital technologies ([[concepts/lab/personal tech stack\|personal tech stack]]) for an [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/professional quadrants/intentional\|intentional]] [[personal computing\|personal computing]] setup.
 
 we're talking [[desktop\|desktop]], [[mobile\|mobile]] and everything in-between.
 
@@ -14,7 +14,7 @@ most [[open-source\|open-source]]/[[local-first\|local-first]] apps and solution
 
 yet i believe we drastically need to give users more [[concepts/alchemy/agency\|agency]] and [[concepts/alchemy/sovereignty\|sovereignty]] over their own data and [[personal systems design\|personal systems design]].
 
-lots of [[topics/design/web3\|web3]] initiatives aim to tackle this in different ways, i've experimented with and follow the development of a bunch of them ([[projects & tools/tools/design/IPFS\|IPFS]], [[initiatives, orgs & communities/lab/holochain\|holochain]], [[urbit\|urbit]], even [[initiatives, orgs & communities/design/gitcoin\|gitcoin]] itself...) but there are still many bottlenecks, unsolved technical challenges and economic incentives for them to really start replacing standard web2 infrastructure existent today.
+lots of [[topics/design/web3\|web3]] initiatives aim to tackle this in different ways, i've experimented with and follow the development of a bunch of them ([[projects & tools/tools/design/IPFS\|IPFS]], [[initiatives, orgs & communities/lab/holochain\|holochain]], [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/sub-interests & practices master list/urbit/urbit\|urbit]], even [[initiatives, orgs & communities/design/gitcoin\|gitcoin]] itself...) but there are still many bottlenecks, unsolved technical challenges and economic incentives for them to really start replacing standard web2 infrastructure existent today.
 
 i also find the whole [[topics/lab/free open-source software\|free open-source software]] and [[humane tech\|humane tech]] movements (unfortunately) still very limited in their scopes.
 
@@ -50,8 +50,8 @@ for now, i'm compiling the tools i've seen/wanted to test here and will slowly a
 
 [[file management\|file management]] - [[projects & tools/tools/lab/eagle (app)\|eagle (app)]]
 [[image management\|image management]] - [[digikam\|digikam]], [[wiztree\|wiztree]], [[projects & tools/tools/lab/eagle (app)\|eagle (app)]]
-[[messaging tools\|messaging tools]] - [[telegram\|telegram]], [[tbprocessed/base notes/ventures - general/discord\|discord]], [[whatsapp business\|whatsapp business]]
-[[social networks\|social networks]] - [[youtube\|youtube]] / [[projects & tools/tools/lab/twitter\|twitter]] / [[reddit\|reddit]] / [[facebook\|facebook]] / [[projects & tools/tools/lab/instagram\|instagram]] / [[threads\|threads]] / [[substack\|substack]] / [[feedly\|feedly]] ([[RSS feed\|RSS feed]]) / [[podcast\|podcast]] ([[castbox\|castbox]] / [[snipd\|snipd]]) / [[mastodon\|mastodon]] / [[initiatives, orgs & communities/lab/bluesky\|bluesky]] / [[are.na\|are.na]] / [[initiatives, orgs & communities/design/sublime (ex-startupy)\|sublime (ex-startupy)]] / [[projects & tools/tools/design/melon\|melon]] / [[pinterest\|pinterest]] / [[projects & tools/tools/art/artstation\|artstation]] / [[projects & tools/tools/art/dribbble\|dribbble]] / [[projects & tools/tools/art/behance\|behance]] / [[projects & tools/tools/art/cosmos\|cosmos]]
+[[messaging tools\|messaging tools]] - [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/community locations/telegram\|telegram]], [[tbprocessed/base notes/ventures - general/discord\|discord]], [[whatsapp business\|whatsapp business]]
+[[social networks\|social networks]] - [[youtube\|youtube]] / [[projects & tools/tools/lab/twitter\|twitter]] / [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/references/reference types/recommended references/c4ss1us’ technology tool stack/reddit/reddit\|reddit]] / [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/community locations/facebook\|facebook]] / [[projects & tools/tools/lab/instagram\|instagram]] / [[threads\|threads]] / [[substack\|substack]] / [[feedly\|feedly]] ([[RSS feed\|RSS feed]]) / [[tbprocessed/evernote/2 - in progress/Podcast\|podcast]] ([[castbox\|castbox]] / [[snipd\|snipd]]) / [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/references/reference types/recommended references/c4ss1us’ technology tool stack/mastodon\|mastodon]] / [[initiatives, orgs & communities/lab/bluesky\|bluesky]] / [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/references/reference types/recommended references/c4ss1us’ technology tool stack/are.na\|are.na]] / [[initiatives, orgs & communities/design/sublime (ex-startupy)\|sublime (ex-startupy)]] / [[projects & tools/tools/design/melon\|melon]] / [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/references/reference types/recommended references/c4ss1us’ technology tool stack/pinterest/pinterest\|pinterest]] / [[projects & tools/tools/art/artstation\|artstation]] / [[projects & tools/tools/art/dribbble\|dribbble]] / [[projects & tools/tools/art/behance\|behance]] / [[projects & tools/tools/art/cosmos\|cosmos]]
 [[browser bookmarks\|browser bookmarks]] management - [[projects & tools/tools/lab/raindrop\|raindrop]]
 [[video management\|video management]] - [[pockettube\|pockettube]]
 [[patterns/active patterns/knowledge design/social reading highlights\|social reading highlights]] - [[glasp\|glasp]] / [[memex (tool)\|memex (tool)]] / [[hypothes.is\|hypothes.is]]
@@ -70,11 +70,11 @@ data sources: [[search engines\|search engines]], wikis ([[wikipedia\|wikipedia]
 [[projects & tools/tools/lab/linkace\|linkace]]
 [[projects & tools/tools/lab/otter manager\|otter manager]]
 [[projects & tools/tools/lab/raindrop\|raindrop]]
-[[toby\|toby]]
+[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/references/reference types/recommended references/c4ss1us’ technology tool stack/toby\|toby]]
 [[projects & tools/tier 2/diigo\|diigo]]
 
 ###### desktop customization / ricing:
-[[topics/lab/nix customization\|nix customization]] / [[rainmeter\|rainmeter]] / [[projects & tools/tools/lab/screenstyler\|screenstyler]]
+[[topics/lab/nix customization\|nix customization]] / [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/references/reference types/recommended references/c4ss1us’ technology tool stack/rainmeter\|rainmeter]] / [[projects & tools/tools/lab/screenstyler\|screenstyler]]
 
 
 

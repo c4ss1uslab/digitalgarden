@@ -4,7 +4,7 @@
 
 #### my usage of the term
 
-i find it incredibly simple and useful breaking down [[topics/lab/quantified self\|quantified self]] data into [[biological\|biological]], [[psychological\|psychological]] and [[social\|social]] - knowing that they influence each other - to help us in [[terms/tracking\|tracking]] and over time understanding/establishing relationships across our [[data\|data]], [[behaviors\|behaviors]] and [[topics/design/systems\|systems]].
+i find it incredibly simple and useful breaking down [[topics/lab/quantified self\|quantified self]] data into [[biological\|biological]], [[psychological\|psychological]] and [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/professional quadrants/social\|social]] - knowing that they influence each other - to help us in [[terms/tracking\|tracking]] and over time understanding/establishing relationships across our [[data\|data]], [[behaviors\|behaviors]] and [[topics/design/systems\|systems]].
 
 #### about
 

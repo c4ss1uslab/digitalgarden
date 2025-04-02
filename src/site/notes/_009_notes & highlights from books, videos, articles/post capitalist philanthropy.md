@@ -60,7 +60,7 @@ there are big challenges with all kinds of [[renewable energy\|renewable energy]
 > 
 > [[topics/alchemy/metaphysics\|metaphysics]] - humans are distinctly separate from the natural and special.
 > 
-> [[aesthetics\|aesthetics]] - the human, especially the white male, holds the "objective gaze" of reality and beauty.
+> [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/general skills master list/aesthetics\|aesthetics]] - the human, especially the white male, holds the "objective gaze" of reality and beauty.
 > 
 > [[political philosophy\|political philosophy]] - hierarchically organized capitalist nation-states that compete through economic growth are the most ideal and efficient models to organize society.
 

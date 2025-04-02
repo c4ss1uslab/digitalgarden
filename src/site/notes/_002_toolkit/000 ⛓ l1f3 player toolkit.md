@@ -56,6 +56,6 @@ etc.
 
 ---
 ##### references:
-[[people/acquaintances/alex bretas\|alex bretas]] / [[reaprendiz\|reaprendiz]]'s resources
+[[people/acquaintances/alex bretas\|alex bretas]] / [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/bookmarks/ReAprendiz\|reaprendiz]]'s resources
 [[projects & tools/tools/alchemy/possibilitator toolkit\|possibilitator toolkit]]
 [[projects & tools/tools/player/EEF teaching & learning toolkit\|EEF teaching & learning toolkit]]

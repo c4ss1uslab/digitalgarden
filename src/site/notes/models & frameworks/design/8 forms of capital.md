@@ -21,19 +21,19 @@ some folks from a life coaching consultancy called "kailo mentoring group" added
 ##### a few other experimental breakdowns of forms/types of capital/value
 
 (intellectual)
-- [[knowledge\|knowledge]] / [[intellectual capital\|intellectual capital]] / [[intellectual value\|intellectual value]] / [[informational value\|informational value]]
+- [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/project-mission category/knowledge\|knowledge]] / [[intellectual capital\|intellectual capital]] / [[intellectual value\|intellectual value]] / [[informational value\|informational value]]
 - [[concepts/design/assets\|assets]] / [[topics/design/systems\|systems]] / [[technologies\|technologies]] / [[digital capital\|digital capital]] / [[infrastructural value\|infrastructural value]]
 - [[know-how\|know-how]] / [[experiential capital\|experiential capital]] / [[operational capital\|operational capital]] / [[operational value\|operational value]]
 (physical)
-- [[money\|money]] / [[concepts/design/currencies\|currencies]] / [[financial capital\|financial capital]] / [[financial value\|financial value]]
+- [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/decision management system/self-investment methodology/resources management/money/money\|money]] / [[concepts/design/currencies\|currencies]] / [[financial capital\|financial capital]] / [[financial value\|financial value]]
 - [[physical resources\|physical resources]] / [[material capital\|material capital]] / [[material value\|material value]]
 - [[living resources\|living resources]] / [[living capital\|living capital]] / [[living value\|living value]]
 - [[concepts/alchemy/time\|time]] / [[attention\|attention]] / [[energy\|energy]] / [[temporal capital\|temporal capital]] / [[temporal value\|temporal value]]
 (emotional)
 - [[areas/relationships\|relationships]] / [[reputation\|reputation]] / [[social capital\|social capital]] / [[social value\|social value]]
 - [[terms/connection\|connection]] / [[terms/community\|community]] / [[cultural capital\|cultural capital]] / [[cultural value\|cultural value]]
-- [[fulfillment\|fulfillment]] / [[karma\|karma]] / [[meaning\|meaning]] / [[spiritual capital\|spiritual capital]] / [[spiritual value\|spiritual value]]
-- [[emotional well-being\|emotional well-being]] / [[emotional resilience capital\|emotional resilience capital]] / [[emotional value\|emotional value]]
+- [[fulfillment\|fulfillment]] / [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/concepts & frameworks/karma\|karma]] / [[meaning\|meaning]] / [[spiritual capital\|spiritual capital]] / [[spiritual value\|spiritual value]]
+- [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/life areas master list/emotional well-being\|emotional well-being]] / [[emotional resilience capital\|emotional resilience capital]] / [[emotional value\|emotional value]]
 - [[pleasure capital\|pleasure capital]]
 
 sources:

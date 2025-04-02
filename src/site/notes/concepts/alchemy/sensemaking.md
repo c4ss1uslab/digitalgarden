@@ -1,5 +1,5 @@
 ---
-{"aliases":["make sense of","make sense","make sense of reality"],"created in":"2021-12-11T16:51:50-03:00","last tended to":"2024-11-06T19:43:58-03:00","tags":["topic","sensemaking","🌿"],"notestage":["🌿"],"relevancescore":98,"dg-publish":true,"created":"2021-12-11T16:51:50.666-03:00","updated":"2025-01-22T16:19:40.604-03:00","permalink":"/concepts/alchemy/sensemaking/","dgPassFrontmatter":true}
+{"aliases":["make sense of","make sense","make sense of reality"],"created in":"2021-12-11T16:51:50-03:00","last tended to":"2024-11-06T19:43:58-03:00","tags":["topic","sensemaking","🌿"],"notestage":["🌿"],"relevancescore":98,"dg-publish":true,"created":"2021-12-11T16:51:50.666-03:00","updated":"2025-03-30T15:05:39.224-03:00","permalink":"/concepts/alchemy/sensemaking/","dgPassFrontmatter":true}
 ---
 
 #### definition
@@ -66,7 +66,7 @@ main refs: [[projects & tools/projects/lab/envisioning tech radar\|envisioning r
 [\[worth watching\] - sensemaking](https://www.youtube.com/playlist?list=PLj8H7uBaUwDvBooMmW5BbwPDrw6jnEvbP)
 
 ##### main references:
-[[people/references/alchemy/ken wilber\|ken wilber]] / [[initiatives, orgs & communities/alchemy/integral life\|integral life]]
+[[tbprocessed/evernote/0 - inbox/ken wilber\|tbprocessed/evernote/0 - inbox/ken wilber]] / [[initiatives, orgs & communities/alchemy/integral life\|integral life]]
 [[people/references/architect;design/daniel schmachtenberger\|daniel schmachtenberger]] / [[initiatives, orgs & communities/design/the consilience project\|consilience project]]
 [[tbprocessed/base notes/ventures - general/rebel wisdom\|rebel wisdom]] / [[tbprocessed/base notes/ventures - general/future thinkers\|future thinkers]] / [[tbprocessed/base notes/ventures - general/the stoa\|the stoa]]
 
@@ -78,12 +78,12 @@ main refs: [[projects & tools/projects/lab/envisioning tech radar\|envisioning r
 	- [[state of the world\|state of the world]] ([[concepts/alchemy/epistemology\|epistemology]])
 		- [[meta-systemic challenges\|meta-systemic challenges]]
 			- [[diagnosis/generator functions of existential risk\|generator functions of existential risk]]:
-				- [[zero-sum games\|zero-sum games]]
+				- [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/concepts & frameworks/sensemaking/zero-sum games\|zero-sum games]]
 				- [[complicated systems\|complicated systems]] & [[externalities\|externalities]]
 			- 
 			- [[concepts/design/multipolar traps\|multipolar traps]]
 		- [[systemic challenges\|systemic challenges]]
-			- [[information warfare\|information warfare]]
+			- [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/concepts & frameworks/concepts & frameworks/information warfare\|information warfare]]
 			- [[diagnosis/climate crisis\|climate crisis]]
 			- [[technological innovations\|technological innovations]]
 	- [[state of the web\|state of the web]] ([[information ecologies\|information ecologies]])
@@ -93,11 +93,11 @@ main refs: [[projects & tools/projects/lab/envisioning tech radar\|envisioning r
 ---
 #### other references:
 
-practical [[philosophy\|philosophy]]/basic orienting principles:
-[[principles\|principles]] (by ray dalio)
+practical [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/superskills master list/philosophy\|philosophy]]/basic orienting principles:
+[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/principles, purpose & values/principles\|principles]] (by ray dalio)
 [[dan koe\|dan koe]]'s career philosophical videos
 
-[[geopolitics\|geopolitics]], [[topics/design/economics\|economics]] & [[finance\|finance]]:
+[[geopolitics\|geopolitics]], [[topics/design/economics\|economics]] & [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/professional areas/finance\|finance]]:
 slightly less biased, lighter/more informative analyses: [coldfusion](https://www.youtube.com/c/ColdFusion)
 [How Money & Banking Work (& why they're broken today) - Lyn Alden](https://www.youtube.com/watch?v=jk_HWmmwiAs)
 [how money works channel](https://www.youtube.com/c/HowMoneyWorks)

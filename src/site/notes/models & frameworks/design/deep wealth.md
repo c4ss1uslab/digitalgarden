@@ -6,4 +6,4 @@
 
 see: [Art Brock and Eric Harris-Braun - Deep Wealth](https://www.youtube.com/watch?v=kN9ykoFT-1Q&list=PLj8H7uBaUwDvd18QrEPugPMD5Z6Y0W-vB&index=17)
 
-proposed by [[arthur brock\|arthur brock]] and [[eric harris-braun\|eric harris-braun]] as part of the [[tbprocessed/base notes/ventures - general/metacurrency project\|metacurrency project]] and [[initiatives, orgs & communities/lab/holochain\|holochain]].
+proposed by [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/contacts master list/contacts master list/arthur brock\|arthur brock]] and [[eric harris-braun\|eric harris-braun]] as part of the [[tbprocessed/base notes/ventures - general/metacurrency project\|metacurrency project]] and [[initiatives, orgs & communities/lab/holochain\|holochain]].

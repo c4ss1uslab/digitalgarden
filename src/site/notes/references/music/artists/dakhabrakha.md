@@ -121,7 +121,7 @@ a deeper analysis of the band and their music, from a slightly more technical st
 
 ---
 
-i also really like their [[terms/design\|design]]/[[branding\|branding]]. see their website for reference: https://www.dakhabrakha.com.ua/en/music/
+i also really like their [[terms/design\|design]]/[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/industries master list/branding\|branding]]. see their website for reference: https://www.dakhabrakha.com.ua/en/music/
 
 spotify's recommended related playlists ("more like dakhabrakha"): organica, dark & stormy, deep dark indie, classical x, terra incognita, steampunk, the others, track IDs, oceanvs orientalis
 
