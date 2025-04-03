@@ -33,7 +33,7 @@ there are a few projects that offer interesting possibilities...
 ###### overall design
 
 [[initiatives, orgs & communities/lab/dynamicland\|dynamicland]] -> a physically-distributed communal computer. profound research on creating a [[models & frameworks/design/humane design\|humane]] [[concepts/lab/dynamic medium\|dynamic medium]].
-[[projects & tools/tools/lab/duskOS\|duskOS]] / [[projects & tools/tools/lab/collapseOS\|collapseOS]] -> low-tech OS based on the principles of [[responses/lab/permacomputing\|permacomputing]] and aware of our impending [[topics/design/systemic collapse\|systemic collapse]].
+[[projects & tools/tools/lab/duskOS\|duskOS]] / [[projects & tools/tools/lab/collapseOS\|collapseOS]] -> low-tech OS based on the principles of [[responses/lab/permacomputing\|permacomputing]] and aware of our impending [[diagnosis/systemic collapse\|systemic collapse]].
 [[daylight computer\|daylight computer]] -> low-tech computer
 [[projects & tools/tools/lab/open interpreter 01\|open interpreter 01]] - an open-source language model computer. basically the practical version of this:
 

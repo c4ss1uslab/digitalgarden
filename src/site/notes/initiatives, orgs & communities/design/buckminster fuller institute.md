@@ -4,6 +4,6 @@
 
 https://www.bfi.org/
 
-supporting lots of important initiatives primarily through the [BFI design lab](https://www.bfi.org/programs/bfi-design-lab/), that i believe will become ever-more impactful as we progress into later stages of [[topics/design/systemic collapse\|systemic collapse]].
+supporting lots of important initiatives primarily through the [BFI design lab](https://www.bfi.org/programs/bfi-design-lab/), that i believe will become ever-more impactful as we progress into later stages of [[diagnosis/systemic collapse\|systemic collapse]].
 
 see also: [[projects & tools/projects/player/world game\|world game]]

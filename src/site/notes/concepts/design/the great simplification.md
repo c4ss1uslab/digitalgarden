@@ -14,7 +14,7 @@ the video above is one the #top3 videos i've watched in 2024. it really opened m
 
 it goes beyond the common [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/concepts & frameworks/concepts & frameworks/climate change\|climate change]] narrative that's often about [[CO2 emission\|CO2 emission]], [[biodiversity loss\|biodiversity loss]], [[coral preservation\|coral preservation]], etc, and present an outlook looking at the many different interconnected variables. in a sense, it's similar to the [[degrowth\|degrowth]] narrative, yet way less climate-centric, and more considering of the whole set of systemic effects ([[mass migration\|mass migration]], [[AI risk\|AI risk]], [[cultural breakdown\|cultural breakdown]], etc).
 
-(eye-opening content that's making me reconsider the [[ethics\|ethics]] of all of our [[topics/lab/technology development\|technology development]] and [[_004_L1F3/core concepts/lifestyles\|lifestyles]]. for related terms, see: [[topics/design/systemic collapse\|systemic collapse]], [[responses/lab/permacomputing\|permacomputing]], [[concepts/regen/regenerative lifestyles\|regenerative lifestyles]]... proceed at your own peril)
+(eye-opening content that's making me reconsider the [[ethics\|ethics]] of all of our [[topics/lab/technology development\|technology development]] and [[_004_L1F3/core concepts/lifestyles\|lifestyles]]. for related terms, see: [[diagnosis/systemic collapse\|systemic collapse]], [[responses/lab/permacomputing\|permacomputing]], [[concepts/regen/regenerative lifestyles\|regenerative lifestyles]]... proceed at your own peril)
 
 ---
 
@@ -24,6 +24,6 @@ it goes beyond the common [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core
 
 > 77 percent of agricultural land (some 40 million square km \[15.4 million square miles]\) is used for grazing by [cattle](https://www.britannica.com/animal/cattle-livestock), [sheep](https://www.britannica.com/animal/domesticated-sheep), [goats](https://www.britannica.com/animal/goat), and [other livestock](https://www.britannica.com/animal/livestock). This massive conversion of forests, [wetlands](https://www.britannica.com/science/wetland), [grasslands](https://www.britannica.com/science/grassland), and other terrestrial ecosystems has produced a 60 percent decline (on average) in the number of [vertebrates](https://www.britannica.com/animal/vertebrate) worldwide since 1970.
 
-key concepts: [[carbon pulse\|carbon pulse]], [[diagnosis/jevons paradox\|jevons paradox]], [[rebound effect\|rebound effect]], [[energy blindness\|energy blindness]], [[five horsemen of the anthropocalypse\|five horsemen of the anthropocalypse]], (...)
+key concepts: [[carbon pulse\|carbon pulse]], [[diagnosis/jevons paradox\|jevons paradox]], [[rebound effect\|rebound effect]], [[energy blindness\|energy blindness]], [[diagnosis/five horsemen of the anthropocalypse\|five horsemen of the anthropocalypse]], (...)
 
 see also: [[people/references/architect;design/simon michaux\|simon michaux]]

@@ -8,7 +8,7 @@ related prototypes: [[experiments/made by me/host/c4ss1us' conversation menu\|c4
 ---
 #### the guiding question:
 
-considering both the impeding [[topics/design/systemic collapse\|systemic collapse]]/[[diagnosis/energy crisis\|energy crisis]] we're facing AND an attempt to design/use technology in more conscious ways, what would a minimal device for computation/self-extension look like?
+considering both the impeding [[diagnosis/systemic collapse\|systemic collapse]]/[[diagnosis/energy crisis\|energy crisis]] we're facing AND an attempt to design/use technology in more conscious ways, what would a minimal device for computation/self-extension look like?
 
 \*note that there are many functions this device could perform. the initial mvp/idea is aimed at [[enabling relationships\|enabling relationships]], see more on this below. many other functions could be introduced afterwards, probably with different designs/priorities/trade-offs.
 

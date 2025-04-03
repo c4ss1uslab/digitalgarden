@@ -4,7 +4,7 @@
 
 #### about
 
-one of my major - despite still recent (2024) - [[topics/design/research\|research]] topics and a direction i want to head way more into in the future. understanding/designing [[topics/design/technology\|technology]] according to [[topics/design/regeneration\|regenerative]] principles - especially and more specifically, [[topics/lab/computing\|computing]] in a [[topics/design/systemic collapse\|post-collapse]] world.
+one of my major - despite still recent (2024) - [[topics/design/research\|research]] topics and a direction i want to head way more into in the future. understanding/designing [[topics/design/technology\|technology]] according to [[topics/design/regeneration\|regenerative]] principles - especially and more specifically, [[topics/lab/computing\|computing]] in a [[diagnosis/systemic collapse\|post-collapse]] world.
 
 a fantastic very short introduction to the subject: https://wiki.xxiivv.com/site/permacomputing.html
 

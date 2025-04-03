@@ -75,7 +75,7 @@ based on my experience of learning very quickly and enjoyably though games (very
 
 it seemed like (and now i know that it didn't only seem, it was the case) that we were being taught to learn skills to "*fit into the marketforce*", to "*serve the demands of other humans*", but not really looking into/figuring out *our own demands*. *our own desires*. *what we want to be learning, doing, making out of our lives*. (*and investigating where these desires even come from*)
 
-it took me a long time to find the words and references to refer to this, both sociologically (the [[concepts/design/metacrisis\|metacrisis]] - how most of our economy/behaviors are perpetuating a [[topics/design/systemic collapse\|self-terminating system]] of [[diagnosis/accumulation, extraction, abstraction\|extraction]]) but also technically on the subject of [[topics/player/learning\|learning]] itself (more on this below).
+it took me a long time to find the words and references to refer to this, both sociologically (the [[concepts/design/metacrisis\|metacrisis]] - how most of our economy/behaviors are perpetuating a [[diagnosis/systemic collapse\|self-terminating system]] of [[diagnosis/accumulation, extraction, abstraction\|extraction]]) but also technically on the subject of [[topics/player/learning\|learning]] itself (more on this below).
 
 the major turning point happened when i went through the whole 4-week "[[learning how to learn\|learning how to learn]]" curriculum in 2 days and was absolutely underwhelmed.
 

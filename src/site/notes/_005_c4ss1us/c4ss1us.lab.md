@@ -66,7 +66,7 @@ and local-personal scale: [[concepts/design/resources\|resources]], [[responses/
 
 [[topics/design/web3\|web3]], [[topics/design/refi\|refi]], [[topics/design/financial incentives for open-source software\|financial incentives for open-source software]], [[topics/player/game theory\|game theory]], (...)
 
-2) how might we [[responses/lab/adapt existing systems\|adapt existing systems]] (reducing harm & expanding utility), while also developing [[topics/design/systemic collapse\|post-collapse]], [[topics/design/regeneration\|regenerative]] [[concepts/design/infrastructure\|infrastructure]]?
+2) how might we [[responses/lab/adapt existing systems\|adapt existing systems]] (reducing harm & expanding utility), while also developing [[diagnosis/systemic collapse\|post-collapse]], [[topics/design/regeneration\|regenerative]] [[concepts/design/infrastructure\|infrastructure]]?
 
 [[responses/lab/permacomputing\|permacomputing]], [[low-tech\|low-tech]] approaches, [[_001_MOCs/050 🟩 mid game/070 🔩 prototypes MOC\|prototypes]], etc.
 

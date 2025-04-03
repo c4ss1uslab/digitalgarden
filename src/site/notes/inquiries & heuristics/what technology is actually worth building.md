@@ -26,7 +26,7 @@ i recommend spending a good amount of time digesting these references, as they'v
 
 also, a relevant and more accessible introduction for people completely new to these perspectives is: [[people/references/lab/bret victor\|bret victor]]'s [[_009_notes & highlights from books, videos, articles/What can a technologist do about climate change\|What can a technologist do about climate change]]? (which focuses on climate, but the reflections he brings are much more applicable than that)
 
-finally, a couple **huge** [[blindspots\|blindspots]] not just from the tech scene, but most humans alive today are the [[diagnosis/energy crisis\|energy crisis]] and [[diagnosis/self-terminating economic system\|self-terminating economic system]] we're living in, which logically lead to the necessity of [[degrowth\|degrowth]], as explained by [[topics/design/systemic collapse\|systemic collapse]] and [[responses/lab/permacomputing\|permacomputing]].
+finally, a couple **huge** [[blindspots\|blindspots]] not just from the tech scene, but most humans alive today are the [[diagnosis/energy crisis\|energy crisis]] and [[diagnosis/self-terminating economic system\|self-terminating economic system]] we're living in, which logically lead to the necessity of [[degrowth\|degrowth]], as explained by [[diagnosis/systemic collapse\|systemic collapse]] and [[responses/lab/permacomputing\|permacomputing]].
 
 ##### so, after some time exploring all that, what's worth building?
 
