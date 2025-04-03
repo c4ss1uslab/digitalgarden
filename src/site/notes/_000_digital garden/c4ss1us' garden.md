@@ -1,12 +1,12 @@
 ---
-{"aliases":[".dgarden","🌲 digital garden","idea garden","🌱 idea garden","c4ss1us.dgarden","🌲 c4ss1us.dgarden","digital garden","home","knowledge garden"],"created in":"2023-07-27T15:44:39-03:00","last tended to":"2024-11-06T18:52:18-03:00","dg-publish":true,"dg-home":true,"created":"2021-12-11T16:51:50.661-03:00","updated":"2025-03-26T20:27:50.368-03:00","permalink":"/000-digital-garden/c4ss1us-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"aliases":[".dgarden","🌲 digital garden","idea garden","🌱 idea garden","c4ss1us.dgarden","🌲 c4ss1us.dgarden","digital garden","home","knowledge garden"],"created in":"2023-07-27T15:44:39-03:00","last tended to":"2024-11-06T18:52:18-03:00","dg-publish":true,"dg-home":true,"created":"2021-12-11T16:51:50.661-03:00","updated":"2025-04-02T22:57:50.656-03:00","permalink":"/000-digital-garden/c4ss1us-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 ## hello! welcome to my digital garden! 🌷
 
 this is a space comprised of 2 main parts:
 
-1) publishing my structured [[topics/design/research\|research]]/[[topics/design/curation\|curation]] on the [[concepts/design/metacrisis\|metacrisis]] - i.e. the set of inter-unfolding crises that underline the current moment we're living in the history of human civilizations, and
+1) publishing my structured [[_003_research/00 - viable pathways book-zine\|research]]/[[topics/design/curation\|curation]] on the [[concepts/design/metacrisis\|metacrisis]] - i.e. the set of inter-unfolding crises that underline the current moment we're living in the history of human civilizations, and
 
 2) my own developments & propositions integrating these references - especially in the fields of [[concepts/alchemy/consciousness development\|consciousness development]], [[terms/design\|design]], [[_005_c4ss1us/c4ss1us.lab\|technology]], [[_005_c4ss1us/c4ss.art\|art]], [[topics/regen/earth regeneration\|regeneration]] and [[concepts/player/game\|games]] as systemic responses to the metacrisis.
 

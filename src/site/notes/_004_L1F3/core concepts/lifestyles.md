@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-11-29T12:38:46-03:00","last tended to":"2024-09-24T16:29:53-03:00","tags":["l1f3","alchemy","design","topic","🌱"],"dg-publish":true,"relevancescore":94,"aliases":["lifestyle"],"notestage":["🌱"],"created":"2022-11-29T12:38:46.892-03:00","updated":"2025-04-02T16:52:28.221-03:00","permalink":"/004-l1-f3/core-concepts/lifestyles/","dgPassFrontmatter":true}
+{"created in":"2022-11-29T12:38:46-03:00","last tended to":"2024-09-24T16:29:53-03:00","tags":["l1f3","alchemy","design","topic","🌱"],"dg-publish":true,"relevancescore":94,"aliases":["lifestyle"],"notestage":["🌱"],"readinesslevel":"10%","created":"2022-11-29T12:38:46.892-03:00","updated":"2025-04-02T22:43:11.552-03:00","permalink":"/004-l1-f3/core-concepts/lifestyles/","dgPassFrontmatter":true}
 ---
 
 **see also:** [[models & frameworks/player/fourgames\|fourgames]] for a minimal framework for life(style) management;
