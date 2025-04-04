@@ -19,7 +19,7 @@ collapse:
 
 added:
 1.a) meta-map can also be referred to as [[wordcloud]] - a simpler way to describe, visualize and navigate it.
-1.b) [[strategy\|strategy]] strongly related to [[business intelligence\|business intelligence]], [[research institutes\|research institutes]] and [[design agencies\|design agencies]].
+1.b) [[topics/design/strategy\|strategy]] strongly related to [[business intelligence\|business intelligence]], [[research institutes\|research institutes]] and [[design agencies\|design agencies]].
 1.c) [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/attributes/intelligence\|intelligence]], [[coordination]], [[terms/collaboration\|collaboration]], [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/1 - on hold-waiting for/Cog's Ladder - Understanding and Accelerating Group Formation/Untitled/Cooperation\|cooperation]] as a new "bubble".
 ```
 

@@ -1,5 +1,5 @@
 ---
-{"created":"2025-01-24T17:52:46.659-03:00","updated":"2025-02-13T14:53:38.954-03:00","tags":["highlights","book","design","systemsdesign","seriousgame","player","reallifegame","🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/009-notes-and-highlights-from-books-videos-articles/buckminster-fuller-s-world-game-and-its-legacy/","dgPassFrontmatter":true}
+{"created":"2025-01-24T17:52:46.659-03:00","updated":"2025-04-04T16:34:03.300-03:00","tags":["highlights","book","design","systemsdesign","seriousgame","player","reallifegame","🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/009-notes-and-highlights-from-books-videos-articles/buckminster-fuller-s-world-game-and-its-legacy/","dgPassFrontmatter":true}
 ---
 
 > Andrew Kirk, Counterculture Green: The Whole Earth Catalog and American Environmentalism (Lawrence: University Press of Kansas, 2007), 109
@@ -70,7 +70,7 @@ physical installations:
 
 ##### Design and Gameplay of the Seminar
 
-> The four steps to the World Game were: (1) [[Inventory\|Inventory]], (2) [[Trend\|Trend]], (3) [[Strategy\|Strategy]], and (4) [[Scenario-Building\|Scenario-Building]]. Players first identifed a resource to research, then projected that research into future trends, to provide the world’s ‘vital statistics’. To identify trends was to bring the inventory ‘out of a static state into a dynamic one’ and to help players to infer general principles. 10 Once players found principles, they then developed scenarios to provide a synoptic view of planetary developments
+> The four steps to the World Game were: (1) [[Inventory\|Inventory]], (2) [[Trend\|Trend]], (3) [[topics/design/strategy\|strategy]], and (4) [[Scenario-Building\|Scenario-Building]]. Players first identifed a resource to research, then projected that research into future trends, to provide the world’s ‘vital statistics’. To identify trends was to bring the inventory ‘out of a static state into a dynamic one’ and to help players to infer general principles. 10 Once players found principles, they then developed scenarios to provide a synoptic view of planetary developments
 
 > The principal game rule was cooperation toward more comprehensive and accurate scenarios. The only penalty was disqualifcation for any player who tried to dominate another or to introduce competition
 

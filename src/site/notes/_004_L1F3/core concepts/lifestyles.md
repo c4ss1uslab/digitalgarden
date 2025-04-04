@@ -1,14 +1,16 @@
 ---
-{"created in":"2022-11-29T12:38:46-03:00","last tended to":"2024-09-24T16:29:53-03:00","tags":["l1f3","alchemy","design","topic","🌱"],"dg-publish":true,"relevancescore":94,"aliases":["lifestyle"],"notestage":["🌱"],"readinesslevel":"10%","created":"2022-11-29T12:38:46.892-03:00","updated":"2025-04-02T22:43:11.552-03:00","permalink":"/004-l1-f3/core-concepts/lifestyles/","dgPassFrontmatter":true}
+{"tags":["l1f3","alchemy","design","topic","🌱"],"dg-publish":true,"relevancescore":94,"aliases":["lifestyle"],"notestage":["🌱"],"readinesslevel":"15%","created":"2022-11-29T12:38:46.892-03:00","updated":"2025-04-03T22:35:29.587-03:00","permalink":"/004-l1-f3/core-concepts/lifestyles/","dgPassFrontmatter":true}
 ---
 
-**see also:** [[models & frameworks/player/fourgames\|fourgames]] for a minimal framework for life(style) management;
-[[_004_L1F3/core concepts/self-management\|self-management]] for my initial takes on the first of the three [[design pillars\|design pillars]] i work with (self, life and systems design/management);
-[[topics/lab/personal knowledge management\|personal knowledge management]] for a discussion on different "life management" philosophies and approaches coming especially from the modern/techno-centric perspectives and classical/western philosophy, informing academic and organizational development over the past 50+ years;
-[[_004_L1F3/l1f3 management system\|l1f3 management system]] for my constantly under-development approach for it;
-[[_004_L1F3/l1f3 management ontology\|l1f3 management ontology]] for the ontological basis informing this approach.
+> [!info]- see also:
+> [[models & frameworks/player/fourgames\|fourgames]] for a minimal framework for life(style) management;
+> [[_004_L1F3/core concepts/self-management\|self-management]] for my initial takes on the first of the three [[design pillars\|design pillars]] i work with (self, life and systems design/management);
+> [[topics/lab/personal knowledge management\|personal knowledge management]] for a discussion on different "life management" philosophies and approaches coming especially from the modern/techno-centric perspectives and classical/western philosophy, informing academic and organizational development over the past 50+ years;
+> [[_004_L1F3/l1f3 management system\|l1f3 management system]] for my constantly under-development approach for it;
+> [[_004_L1F3/l1f3 management ontology\|l1f3 management ontology]] for the ontological basis informing this approach.
 
 ---
+#### about
 
 i believe the design of our lifestyles has a dramatic impact on our lives, and this is something that isn't discussed or theorized nearly enough, not even in circles that talk about [[_004_L1F3/core concepts/self-transformation\|self-transformation]], [[social change\|social change]], [[topics/design/regeneration\|regeneration]] or [[_004_L1F3/core concepts/civilization design\|civilization design]] in general.
 
@@ -52,7 +54,7 @@ how often do we tell ourselves that we want something, when in fact, what we tru
 
 instead of using a rigid "i'm going to plan every detail of myself and my life" approach, it's possible to experiment with the balance of the known and the unknown. 
 
-that's how i came to define management. it's the constant choosing between control and no control. order and chaos.
+that's how i came to use the term "management". it's the constant balancing between control and no control. order and chaos.
 
 that's one tricky area to navigate though, as many people talk about this process of design and materialization through the lenses of manifestation and law of attraction, which although packed with insights, often has a lot of magical thinking involved.
 

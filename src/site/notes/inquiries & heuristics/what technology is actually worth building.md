@@ -32,7 +32,7 @@ finally, a couple **huge** [[blindspots\|blindspots]] not just from the tech sce
 
 for me, in short, it's: [[regenerative systems\|regenerative systems]] & tools for [[_004_L1F3/core concepts/self-management\|self-management]], [[topics/design/coordination systems\|coordination]] and [[topics/design/collaboration tools\|collaboration]] (so we can create [[concepts/alchemy/thriving\|thriving]] societies).
 
-now, the answer of what's worth building "**now***" is a lot more challenging after we've gone through the philosophical bump. for me, what's worth building "now" depends on a blend of your [[unique self\|unique self]] expression (what's *yours* to do) and [[strategy\|strategy]]/[[situational intelligence\|situational intelligence]] (what's *feasible* now).
+now, the answer of what's worth building "**now***" is a lot more challenging after we've gone through the philosophical bump. for me, what's worth building "now" depends on a blend of your [[unique self\|unique self]] expression (what's *yours* to do) and [[topics/design/strategy\|strategy]]/[[situational intelligence\|situational intelligence]] (what's *feasible* now).
 
 a few frames that orient me in this space and might also help:
 
