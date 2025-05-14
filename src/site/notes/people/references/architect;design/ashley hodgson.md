@@ -1,5 +1,5 @@
 ---
-{"created":"2024-11-21T14:06:39.538-03:00","updated":"2024-12-09T18:19:30.310-03:00","tags":["person","design","metacrisis","🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/people/references/architect-design/ashley-hodgson/","dgPassFrontmatter":true}
+{"created":"2024-11-21T14:06:39.538-03:00","updated":"2025-05-14T19:55:46.148-03:00","tags":["person","design","metacrisis","🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/people/references/architect-design/ashley-hodgson/","dgPassFrontmatter":true}
 ---
 
 she's a behavioral economics professor and creator of the youtube channel "[The New Enlightenment with Ashley](https://www.youtube.com/@thenewenlightenmentwithash8465)".
@@ -30,4 +30,4 @@ in her video "[What is the Metacrisis? Why is it Hopeful?](https://www.youtube.c
 i find this an amazing introduction to the subject. if we want to further dive into the landscape of issues/challenges we have, [[joshua williams\|joshua williams]]' [an introduction to the metacrisis](https://sites.google.com/view/intro-to-the-metacrisis) also provides a great overview of global [[concepts/design/existential risk\|existential]] and [[terms/catastrophic risk\|catastrophic risks]].
 
 
-she advocates for a major shift in: [[diagnosis/self-terminating economic system\|economic systems]], [[governance systems\|governance systems]] and [[knowledge systems\|knowledge systems]] (akin to the enlightenment).
+she advocates for a major shift in: [[diagnosis/self-terminating economic system\|economic systems]], [[topics/design/governance systems\|topics/design/governance systems]] and [[knowledge systems\|knowledge systems]] (akin to the enlightenment).

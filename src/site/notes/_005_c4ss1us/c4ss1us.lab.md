@@ -1,5 +1,5 @@
 ---
-{"aliases":["👨🏻‍🔬 c4ss1us.lab",".lab","lab","builder"],"created":"2024-05-22T17:07:42.901-03:00","updated":"2025-04-06T12:00:29.381-03:00","tags":["c4ss1us","lab","🌿"],"notestage":["🌿"],"dg-publish":true,"relevancescore":98,"readinesslevel":"50%","permalink":"/005-c4ss1us/c4ss1us-lab/","dgPassFrontmatter":true}
+{"aliases":["👨🏻‍🔬 c4ss1us.lab",".lab","lab","builder"],"created":"2024-05-22T17:07:42.901-03:00","updated":"2025-05-14T19:55:44.235-03:00","tags":["c4ss1us","lab","🌿"],"notestage":["🌿"],"dg-publish":true,"relevancescore":98,"readinesslevel":"50%","permalink":"/005-c4ss1us/c4ss1us-lab/","dgPassFrontmatter":true}
 ---
 
 **see also:** [c4ss1us.lab mmm.page (visual overview)](https://c4ss1us.mmm.page/lab)
@@ -48,7 +48,7 @@ my current findings/[[_006_core notes/theories of change\|theory of change]]⁹�
 
 ##### 2) better [[topics/design/coordination systems\|coordination systems]]⁹⁸
 
-[[topics/design/distributed systems\|distributed]]/[[decentralized systems\|decentralized systems design]] -> global scale: [[diagnosis/self-terminating economic system\|economic]], [[governance systems\|governance]], [[organizational systems\|organizational]], [[self-organizing systems\|self-organizing systems]]
+[[topics/design/distributed systems\|distributed]]/[[decentralized systems\|decentralized systems design]] -> global scale: [[diagnosis/self-terminating economic system\|economic]], [[topics/design/governance systems\|governance]], [[organizational systems\|organizational]], [[self-organizing systems\|self-organizing systems]]
 and local-personal scale: [[concepts/design/resources\|resources]], [[responses/lab/knowledge management\|knowledge]], [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/general skills master list/data management\|data]] & [[self-management systems\|self-management systems]].
 
 ##### 3) [[_003_L1F3/core concepts/self-management\|self-management]]⁹⁷ & [[topics/design/collaboration tools\|collaboration tools]]⁹⁷

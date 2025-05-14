@@ -1,5 +1,5 @@
 ---
-{"aliases":["🌌 LOS","🌌 l1f3 operating system","l1f3 OS","🌌 l1f3 OS","🌌 life operating system","life OS","🌌 life OS","life operating system","L1F3 operating system"],"created in":"2021-12-11T16:51:55-03:00","last tended to":"2024-09-24T16:28:16-03:00","tags":["project","l1f3","alchemy","design","🌱"],"dg-publish":true,"notestage":["🌱"],"created":"2021-12-11T16:51:55.565-03:00","updated":"2025-04-06T11:44:43.143-03:00","readinesslevel":"10%","permalink":"/003-l1-f3/l1f3-operating-system/","dgPassFrontmatter":true}
+{"aliases":["🌌 LOS","🌌 l1f3 operating system","l1f3 OS","🌌 l1f3 OS","🌌 life operating system","life OS","🌌 life OS","life operating system","L1F3 operating system"],"created in":"2021-12-11T16:51:55-03:00","last tended to":"2024-09-24T16:28:16-03:00","tags":["project","l1f3","alchemy","design","🌱"],"dg-publish":true,"notestage":["🌱"],"created":"2021-12-11T16:51:55.565-03:00","updated":"2025-05-14T19:55:43.771-03:00","readinesslevel":"10%","permalink":"/003-l1-f3/l1f3-operating-system/","dgPassFrontmatter":true}
 ---
 
 in the context of the [[models & frameworks/design/OODA loop\|OODA loop]], this system is mostly about [[observation\|observation]].
@@ -46,7 +46,7 @@ and building minimum viable prototypes as some answers are discovered.
 	- [[tbprocessed/notion/notion resources/🎮 Level Up Your Twitter Game/BONUS 3- Collections by topics/Marketing\|marketing]] / [[topics/design/media\|media]]
 	- [[economic systems\|economic systems]]
 	- [[financial systems\|financial systems]]
-	- [[governance systems\|governance systems]]
+	- [[topics/design/governance systems\|topics/design/governance systems]]
 	- [[organizational systems\|organizational systems]]
 
 ##### development

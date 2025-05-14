@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-05-22T17:08:17-03:00","last tended to":"2024-07-19T03:13:47-03:00","tags":["topic","research","design","alchemy","🌱"],"created":"2024-05-22T17:08:17.985-03:00","updated":"2025-04-05T15:00:30.830-03:00","notestage":["🌱"],"dg-publish":true,"relevancescore":97,"permalink":"/002-research/research/","dgPassFrontmatter":true}
+{"created in":"2024-05-22T17:08:17-03:00","last tended to":"2024-07-19T03:13:47-03:00","tags":["topic","research","design","alchemy","🌱"],"created":"2024-05-22T17:08:17.985-03:00","updated":"2025-05-14T19:55:43.443-03:00","notestage":["🌱"],"dg-publish":true,"relevancescore":97,"permalink":"/002-research/research/","dgPassFrontmatter":true}
 ---
 
 #### research index
@@ -22,7 +22,7 @@
 - [[diagnosis/self-terminating economic system\|economic systems]]
 	- [[concepts/design/incentive structures\|incentive structures]]
 	- [[alternative economics\|alternative economics]]
-- [[governance systems\|governance systems]]
+- [[topics/design/governance systems\|topics/design/governance systems]]
 	- [[organizational systems\|organizational systems]]
 	- [[self-management systems\|self-management systems]]
 - [[topics/design/coordination systems\|coordination systems]]

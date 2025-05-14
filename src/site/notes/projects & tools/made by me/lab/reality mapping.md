@@ -1,5 +1,5 @@
 ---
-{"created":"2021-12-11T16:51:53.081-03:00","updated":"2025-03-25T15:53:08.627-03:00","tags":["🌱","mapping","metaphysics","epistemology","alchemy","design","project","curation","research","sensemaking"],"notestage":["🌱"],"relevancescore":96,"dg-publish":true,"aliases":["reality maps"],"permalink":"/projects-and-tools/made-by-me/lab/reality-mapping/","dgPassFrontmatter":true}
+{"created":"2021-12-11T16:51:53.081-03:00","updated":"2025-05-14T19:55:47.480-03:00","tags":["🌱","mapping","metaphysics","epistemology","alchemy","design","project","curation","research","sensemaking"],"notestage":["🌱"],"relevancescore":96,"dg-publish":true,"aliases":["reality maps"],"permalink":"/projects-and-tools/made-by-me/lab/reality-mapping/","dgPassFrontmatter":true}
 ---
 
 see also: [[responses/lab/mapping\|mapping]], [[projects & tools/made by me/lab/internet mapping\|internet mapping]], [[prototypes & designs/made by me/collaborative life map\|collaborative life map]]
@@ -53,7 +53,7 @@ see: [[_003_L1F3/core concepts/self-management\|self-management]], [[design scie
 
 - [[social systems\|social systems]]
 
-[[diagnosis/self-terminating economic system\|economic systems]], [[governance systems\|governance systems]], [[organizational systems\|organizational systems]], [[knowledge systems\|knowledge systems]]
+[[diagnosis/self-terminating economic system\|economic systems]], [[topics/design/governance systems\|topics/design/governance systems]], [[organizational systems\|organizational systems]], [[knowledge systems\|knowledge systems]]
 
 ##### infrastructure
 

@@ -1,5 +1,5 @@
 ---
-{"aliases":["👨🏻‍🎨 c4ss.art",".art","art","artist"],"created":"2023-05-31T16:51:42.380-03:00","updated":"2025-04-06T12:01:55.182-03:00","tags":["c4ss1us","art","🌱"],"notestage":["🌱"],"dg-publish":true,"relevancescore":98,"readinesslevel":"30%","permalink":"/005-c4ss1us/c4ss-art/","dgPassFrontmatter":true}
+{"aliases":["👨🏻‍🎨 c4ss.art",".art","art","artist"],"created":"2023-05-31T16:51:42.380-03:00","updated":"2025-05-14T20:50:22.810-03:00","tags":["c4ss1us","art","🌱"],"notestage":["🌱"],"dg-publish":true,"relevancescore":98,"readinesslevel":"30%","permalink":"/005-c4ss1us/c4ss-art/","dgPassFrontmatter":true}
 ---
 
 **see also:** [c4ss.art mmm.page (visual overview)](https://c4ss1us.mmm.page/art)
@@ -7,9 +7,19 @@
 ---
 #### art beyond the artsy
 
-[[tbprocessed/base notes/concepts - general/art\|art]], amongst many things, is a way to connect with our higher aspirations. it's a mirror that both reflects life and society, but also possibilities and ideals different from the present ones. it's a bridge between the possible and the actual, and it provides a way to [[terms/creation\|create]] from a deeper place of [[terms/connection\|connection]] and [[recognition\|recognition]] - of who we are, where we are, and how we might contribute to it.
+[[tbprocessed/base notes/concepts - general/art\|art]], amongst many things, is a way to connect with our higher aspirations.
 
-not all art comes from this place, nor could it be the case due to many [[concepts/design/incentive structures\|incentive structures]], [[psychological biases\|psychological biases]] and widespread [[diagnosis/meaning crisis\|psycho-spiritual alienation]] of our times. i'd argue that's not even the goal. art doesn't have to be perfect, immaculate. if it reflects our authentic experience, however messy, confused, weird, and ugly it is, i believe it's serving its purpose.
+it's a mirror that both reflects life and society, but also possibilities and ideals different from the present ones.
+
+it's a bridge between the possible and the actual, and it provides a way to [[terms/creation\|create]] from a deeper place of [[terms/connection\|connection]] and [[recognition\|recognition]] - of who we are, where we are, and how we might contribute to it.
+
+in many philosophical traditions, [[beauty\|beauty]], or [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/general skills master list/aesthetics\|aesthetics]], is on equal standing to [[truth\|truth]] and [[goodness\|goodness]].
+
+not all art comes from this place of - might i say - soulful expression, nor could it be the case due to many perverse [[concepts/design/incentive structures\|incentive structures]], [[psychological biases\|psychological biases]] and widespread [[diagnosis/meaning crisis\|psycho-spiritual alienation]] of our times (not being defeatist here).
+
+i'd argue that's not even the goal. art doesn't have to be perfect, immaculate, always reflecting "the best we can make". if it reflects our authentic experience, however messy, confused, weird, and ugly it is, i believe it's serving its purpose.
+
+it might not be understood at all - either by ourselves or others - yet, on a deeper level, it might be serving us in our learning process.
 
 still, a question remains:
 
@@ -21,7 +31,7 @@ i'm therefore especially interested in [[story\|stories]], [[visuals\|visuals]],
 
 [[tbprocessed/base notes/concepts - general/art\|art]] is revolutionary as in 1) it empowers us to see ourselves as [[creators\|creators]], and act from that place - and 2) it can provide direct responses to the many [[diagnosis/intimacy crisis\|intimacy]], [[diagnosis/meaning crisis\|meaning]], and [[diagnosis/existential crisis\|existential crises]] we're going through.
 
-what i share below are some of my key themes of [[_003_research/research\|research]], [[topics/player/learning\|learning]] and [[topics/design/curation\|curation]], that have both helped me in my journey so far and that i want to further dive into, so as to develop capacity to a) create such beauty and b) support others who might be struggling on this path.
+what i share below are some of my key themes of [[_003_research/research\|research]], [[topics/player/learning\|learning]] and [[topics/design/curation\|curation]], that have both helped me in my journey so far and that i want to further dive into, so as to develop capacity to a) create such beauty and b) support others who might be struggling on this path on [[self-discovery\|self-discovery]], [[self-expression\|expression]] and [[understanding\|understanding]].
 
 ---
 

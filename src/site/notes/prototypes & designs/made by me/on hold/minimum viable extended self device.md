@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-02-15T15:09:27-03:00","last tended to":"2024-10-11T18:43:20-03:00","tags":["prototype","onhold","🌿"],"dg-publish":true,"aliases":["XS device","minimum viable XS device"],"notestage":["🌿"],"created":"2024-02-15T15:09:27.156-03:00","updated":"2024-11-14T17:02:23.725-03:00","permalink":"/prototypes-and-designs/made-by-me/on-hold/minimum-viable-extended-self-device/","dgPassFrontmatter":true}
+{"created in":"2024-02-15T15:09:27-03:00","last tended to":"2024-10-11T18:43:20-03:00","tags":["prototype","onhold","🌿"],"dg-publish":true,"aliases":["XS device","minimum viable XS device","extended self device"],"notestage":["🌿"],"created":"2024-02-15T15:09:27.156-03:00","updated":"2025-05-14T16:28:55.048-03:00","permalink":"/prototypes-and-designs/made-by-me/on-hold/minimum-viable-extended-self-device/","dgPassFrontmatter":true}
 ---
 
 [[type\|type]]: [[life management/life areas (internal)/physical\|physical]] / [[digital\|digital]] [[objects\|objects]]
@@ -8,7 +8,9 @@ related prototypes: [[experiments/made by me/host/c4ss1us' conversation menu\|c4
 ---
 #### the guiding question:
 
-considering both the impeding [[diagnosis/systemic collapse\|systemic collapse]]/[[diagnosis/energy crisis\|energy crisis]] we're facing AND an attempt to design/use technology in more conscious ways, what would a minimal device for computation/self-extension look like?
+considering both the impeding [[diagnosis/systemic collapse\|systemic collapse]]/[[diagnosis/energy crisis\|energy crisis]] we're facing AND an attempt to design/use technology in fundamentally more conscious ways, what would a minimal device for computation/self-extension look like?
+
+i.e. how can we better honor the realization of a [[concepts/lab/dynamic medium\|dynamic medium]] and design our devices/systems in [[responses/regen/regenerative design\|regenerative]], [[responses/design/conscious design\|conscious]], [[responses/design/values-based design\|values-centered]] ways?
 
 \*note that there are many functions this device could perform. the initial mvp/idea is aimed at [[enabling relationships\|enabling relationships]], see more on this below. many other functions could be introduced afterwards, probably with different designs/priorities/trade-offs.
 
@@ -51,7 +53,7 @@ i signed up for an 8-week course at [[SESC santana\|SESC santana]] on [[circuitp
 
 *july/2024 update:*
 
-after i learned some basics of [[electronics\|electronics]] and [[circuitpy\|circuitpy]]/[[projects & tools/tools/lab/raspberry pi pico\|pi pico]] from the course, i decided to not focus on it n ow, as i realized publishing my [[_002_research/00 - viable pathways book-zine\|viable pathways book-zine]] my highest priority.
+after i learned some basics of [[electronics\|electronics]] and [[circuitpy\|circuitpy]]/[[projects & tools/tools/lab/raspberry pi pico\|pi pico]] from the course, i decided to not focus on it now, as i realized publishing my [[_002_research/00 - viable pathways book-zine\|viable pathways book-zine]] my highest priority.
 
 it's still something i really wanna do in the mid-term (2-3 years max).
 
@@ -59,7 +61,14 @@ it's still something i really wanna do in the mid-term (2-3 years max).
 #### references:
 
 major, major ref: https://dynamicland.org/
+
+[[_005_c4ss1us/c4ss1us.lab\|.lab]] references
 https://www.inkandswitch.com/inkbase/
+[[initiatives, orgs & communities/lab/new computer\|new computer]]
+[[initiatives, orgs & communities/lab/folk computer\|folk computer]]
+[[daylight computer\|daylight computer]]
+
+[[_005_c4ss1us/c4ss.host\|.host]]/[[_005_c4ss1us/c4ss1us.player\|.player]] references:
 https://andrewmurraydunn.com/soul-map
 [[initiatives, orgs & communities/alchemy/possibility management\|possibility management]]'s [[concepts/player/artifacts\|artifacts]]
 [[ana marques\|ana marques]]' [[references/player/games/serious games/sanctuaries of attention game\|sanctuaries of attention game]]

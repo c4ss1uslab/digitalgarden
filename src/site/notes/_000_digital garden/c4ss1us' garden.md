@@ -1,5 +1,5 @@
 ---
-{"aliases":[".dgarden","🌲 digital garden","idea garden","🌱 idea garden","c4ss1us.dgarden","🌲 c4ss1us.dgarden","digital garden","home","knowledge garden"],"created in":"2023-07-27T15:44:39-03:00","last tended to":"2024-11-06T18:52:18-03:00","dg-publish":true,"dg-home":true,"created":"2021-12-11T16:51:50.661-03:00","updated":"2025-04-06T11:21:34.682-03:00","readinesslevel":null,"permalink":"/000-digital-garden/c4ss1us-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"aliases":[".dgarden","🌲 digital garden","idea garden","🌱 idea garden","c4ss1us.dgarden","🌲 c4ss1us.dgarden","digital garden","home","knowledge garden"],"created in":"2023-07-27T15:44:39-03:00","last tended to":"2024-11-06T18:52:18-03:00","dg-publish":true,"dg-home":true,"created":"2021-12-11T16:51:50.661-03:00","updated":"2025-05-14T16:22:48.727-03:00","readinesslevel":null,"permalink":"/000-digital-garden/c4ss1us-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 ## hello! welcome to my digital garden! 🌷
@@ -97,7 +97,7 @@ the essays below present the **major inquiries** that i'm slowly investigating, 
 
 - 🌱 [[core essays/👋🏻 my thesis - thriving in the metacrisis & facilitating the regenerative transition with the help of life support systems, networks and games\|👋🏻 my thesis - thriving in the metacrisis & facilitating the regenerative transition with the help of life support systems, networks and games]]
 - 🌱 [[core essays/🧘🏻‍♂️ a meta-system for modular self-development & interoperability across philosophies, methodologies and perspectives\|🧘🏻‍♂️ a meta-system for modular self-development & interoperability across philosophies, methodologies and perspectives]]
-- 🌱 [[core essays/🌀 on the present & future of authentic and transformative learning - tools, resources & pathways\|🌀 on the present & future of authentic and transformative learning - tools, resources & pathways]]
+- 🌱 [[core essays/🌀 enabling authentic and transformative learning - frames, resources & pathways\|🌀 enabling authentic and transformative learning - frames, resources & pathways]]
 - 🌿 [[core essays/💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons\|💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons]]
 - 🌱 [[core essays/🦸🏻‍♀️ design specs & constraints for enabling minimum viable vocational economies\|🦸🏻‍♀️ design specs & constraints for enabling minimum viable vocational economies]]
 - 🌿 [[core essays/🎎 networked living - practical tools and perspectives for empowering collectives amidst accelerating attention & experience economies\|🎎 networked living - practical tools and perspectives for empowering collectives amidst accelerating attention & experience economies]]
@@ -214,6 +214,7 @@ i intend to fix this soon, but in the meantime, while i'm also building other vi
 | [[responses/design/protocols for thought\|protocols for thought]]                                                                                    | 96             | responses/design                                     | <ul><li>🌱</li></ul> |
 | [[responses/design/trust networks\|trust networks]]                                                                                                  | 96             | responses/design                                     | <ul><li>🕳</li></ul> |
 | [[responses/design/second renaissance\|second renaissance]]                                                                                          | 96             | responses/design                                     | <ul><li>🌿</li></ul> |
+| [[responses/design/conscious design\|conscious design]]                                                                                              | 96             | responses/design                                     | <ul><li>🌱</li></ul> |
 | [[responses/lab/permacomputing\|permacomputing]]                                                                                                     | 96             | responses/lab                                        | <ul><li>🌱</li></ul> |
 | [[responses/lab/personal OS design\|personal OS design]]                                                                                             | 96             | responses/lab                                        | <ul><li>🌿</li></ul> |
 | [[responses/lab/tools for thought\|tools for thought]]                                                                                               | 96             | responses/lab                                        | <ul><li>🌿</li></ul> |
