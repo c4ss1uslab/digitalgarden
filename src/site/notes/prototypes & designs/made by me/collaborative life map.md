@@ -2,7 +2,7 @@
 {"aliases":["🗺 life map","life map","🗺 collaborative life map","life mapping","mapping life"],"created in":"2021-12-11T16:51:55-03:00","last tended to":"2023-12-24T16:56:26-03:00","created":"2021-12-11T16:51:55.469-03:00","updated":"2025-03-01T21:08:23.458-03:00","tags":["prototype","🌱","design","mapping","research","curation","sensemaking","socialsensemaking"],"notestage":["🌱"],"dg-publish":true,"relevancescore":96,"permalink":"/prototypes-and-designs/made-by-me/collaborative-life-map/","dgPassFrontmatter":true}
 ---
 
-related: [[_004_L1F3/l1f3 management ontology\|l1f3 management ontology]]
+related: [[_003_L1F3/l1f3 management ontology\|l1f3 management ontology]]
 
 ---
 

@@ -6,7 +6,7 @@ related notes: [[concepts/lab/personal tech stack\|personal tech stack]], [[expe
 
 #### about
 
-when we're talking about [[_004_L1F3/core concepts/self-transformation\|self-transformation]], [[_004_L1F3/core concepts/life design\|life design]] and [[_004_L1F3/core concepts/civilization design\|civilization design]], the systems we're embedded in are like the water we swim in. the [[models & frameworks/player/fourgames\|fourgames]] framework provides a good introduction to it, from an individual's perspective.
+when we're talking about [[_003_L1F3/core concepts/self-transformation\|self-transformation]], [[_003_L1F3/core concepts/life design\|life design]] and [[_003_L1F3/core concepts/civilization design\|civilization design]], the systems we're embedded in are like the water we swim in. the [[models & frameworks/player/fourgames\|fourgames]] framework provides a good introduction to it, from an individual's perspective.
 
 [[models & frameworks/design/holistic cultural materialism\|holistic cultural materialism]] also does it from a civilizational perspective.
 
@@ -17,7 +17,7 @@ when we're talking about [[_004_L1F3/core concepts/self-transformation\|self-tra
 
 [[projects & tools/projects/lab/subconscious (tool)\|subconscious (tool)]]/[[noosphere\|noosphere]] (-> https://utopia.rosano.ca/interoperable-visions / https://beepb00p.xyz/sad-infra.html) - there are 2 approaches:
 
-these are basically more advanced [[_004_L1F3/core concepts/life management\|life management]] (and sometimes - [[topics/lab/quantified self\|quantified self]]) setups, going beyond what most advanced [[topics/lab/personal knowledge management\|PKM]] practitioners do, but still mostly concerned with [[topics/lab/personal data management\|personal data management]], and not necessarily [[_004_L1F3/core concepts/life design\|regenerative life]] / [[concepts/design/systems design\|systems design]].
+these are basically more advanced [[_003_L1F3/core concepts/life management\|life management]] (and sometimes - [[topics/lab/quantified self\|quantified self]]) setups, going beyond what most advanced [[topics/lab/personal knowledge management\|PKM]] practitioners do, but still mostly concerned with [[topics/lab/personal data management\|personal data management]], and not necessarily [[_003_L1F3/core concepts/life design\|regenerative life]] / [[concepts/design/systems design\|systems design]].
 
 ---
 

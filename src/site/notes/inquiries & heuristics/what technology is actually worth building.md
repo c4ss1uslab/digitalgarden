@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-05-06T17:36:51-03:00","last tended to":"2024-06-20T17:20:44-03:00","tags":["inquiry","🌿"],"created":"2024-05-06T17:36:51.035-03:00","updated":"2025-01-28T15:28:40.153-03:00","notestage":["🌿"],"relevancescore":98,"dg-publish":true,"permalink":"/inquiries-and-heuristics/what-technology-is-actually-worth-building/","dgPassFrontmatter":true}
+{"created in":"2024-05-06T17:36:51-03:00","last tended to":"2024-06-20T17:20:44-03:00","tags":["inquiry","🌿"],"created":"2024-05-06T17:36:51.035-03:00","updated":"2025-04-06T11:52:22.243-03:00","notestage":["🌿"],"relevancescore":98,"dg-publish":true,"readinesslevel":"30%","permalink":"/inquiries-and-heuristics/what-technology-is-actually-worth-building/","dgPassFrontmatter":true}
 ---
 
 ```ad-warning
@@ -10,9 +10,9 @@ this subject can be highly emotionally challenging, especially if you're someone
 
 ##### the technologist ethos
 
-there are fundamental issues with how most tech is designed today (alienation, polarization, centralization of profits/externalization of costs, distraction, etc - and many people are aware of it), but several of these issues are also pervasive in many "[[tech for good\|tech for good]]" initiatives.
+there are fundamental issues with how most tech is designed today: alienation, polarization, centralization of profits/externalization of costs, distraction, etc - and many people are aware of it, but several of these issues are also pervasive in many "[[tech for good\|tech for good]]" initiatives.
 
-"good for whom?" might one say. just like many of the "benefits" of [[concepts/design/modernity\|modernity]]/industrialization, how aware are we of the systemic impacts/consequences of such "good", especially on others who might not be benefiting as much from it? how much are we invested in really understanding it? in the dominant "move fast and break things", or even in the philanthropic shallow impact metrics culture, not much.[¹](https://consilienceproject.org/technology-is-not-values-neutral-ending-the-reign-of-nihilistic-design-2/)
+"good for whom?", one might say. just like many of the "benefits" of [[concepts/design/modernity\|modernity]]/industrialization, how aware are we of the systemic impacts/consequences of such "good", especially on others who might not be benefiting as much from it? how much are we invested in really understanding it? in the dominant "move fast and break things", or even in the philanthropic shallow impact metrics culture, not much.[¹](https://consilienceproject.org/technology-is-not-values-neutral-ending-the-reign-of-nihilistic-design-2/)
 
 if we understand the extent of the [[concepts/design/metacrisis\|metacrisis]] and how most technology today is accelerating the rate of [[concepts/design/existential risk\|existential]] and [[terms/catastrophic risk\|catastrophic risks]], it's sufficiently scary to make us question: what does [[mature\|mature]], [[concepts/alchemy/wisdom\|wise]] technology look like?
 
@@ -26,17 +26,17 @@ i recommend spending a good amount of time digesting these references, as they'v
 
 also, a relevant and more accessible introduction for people completely new to these perspectives is: [[people/references/lab/bret victor\|bret victor]]'s [[_009_notes & highlights from books, videos, articles/What can a technologist do about climate change\|What can a technologist do about climate change]]? (which focuses on climate, but the reflections he brings are much more applicable than that)
 
-finally, a couple **huge** [[blindspots\|blindspots]] not just from the tech scene, but most humans alive today are the [[diagnosis/energy crisis\|energy crisis]] and [[diagnosis/self-terminating economic system\|self-terminating economic system]] we're living in, which logically lead to the necessity of [[degrowth\|degrowth]], as explained by [[diagnosis/systemic collapse\|systemic collapse]] and [[responses/lab/permacomputing\|permacomputing]].
+finally, a couple **huge** [[blindspots\|blindspots]] not just from the tech scene, but most humans alive today are the [[diagnosis/energy crisis\|energy crisis]] and the [[diagnosis/self-terminating economic system\|self-terminating economic system]] we're living in, which logically lead to the necessity of [[degrowth\|degrowth]], as explained in: [[diagnosis/systemic collapse\|systemic collapse]] and [[responses/lab/permacomputing\|permacomputing]].
 
 ##### so, after some time exploring all that, what's worth building?
 
-for me, in short, it's: [[regenerative systems\|regenerative systems]] & tools for [[_004_L1F3/core concepts/self-management\|self-management]], [[topics/design/coordination systems\|coordination]] and [[topics/design/collaboration tools\|collaboration]] (so we can create [[concepts/alchemy/thriving\|thriving]] societies).
+for me, in short, it's: [[regenerative systems\|regenerative systems]] & tools for [[_003_L1F3/core concepts/self-management\|self-management]], [[topics/design/coordination systems\|coordination]] and [[topics/design/collaboration tools\|collaboration]] (so we can create [[concepts/alchemy/thriving\|thriving]] societies).
 
-now, the answer of what's worth building "**now***" is a lot more challenging after we've gone through the philosophical bump. for me, what's worth building "now" depends on a blend of your [[unique self\|unique self]] expression (what's *yours* to do) and [[topics/design/strategy\|strategy]]/[[situational intelligence\|situational intelligence]] (what's *feasible* now).
+now, the answer of what's worth building "**now***" is a lot more challenging after we've gone through the philosophical bump. for me, what's worth building "now" depends on a blend of the [[state of the world\|state of the world]] (*what's needed now*), your [[unique self\|unique self]] expression (what's *yours* to do) and [[topics/design/strategy\|strategy]]/[[situational intelligence\|situational intelligence]] (what's *feasible* now).
 
-a few frames that orient me in this space and might also help:
+a few simple frames that orient me in this space and might also help you:
 
-- systems for more conscious [[topics/player/learning\|learning]], [[_004_L1F3/core concepts/lifestyles\|living]] and [[terms/collaboration\|collaborating]].
+- systems for more conscious [[topics/player/learning\|learning]], [[_003_L1F3/core concepts/lifestyles\|living]] and [[terms/collaboration\|collaborating]].
 - systems that extend/improve our [[models & frameworks/design/OODA loop\|OODA loop]] - i.e. our meta-cognitive processes of [[models & frameworks/design/OODA loop\|sensing, sensemaking, decision-making, action, learning]].
 
 
@@ -58,7 +58,7 @@ though i must say i never really took the time to understand the depth and limit
 
 [[we are here to - learn, create, heal, share and play\|we are here to - learn, create, heal, share and play]]
 
-regenerative systems also imply this holistic (4d) view, but this isn't always the case. we can regenerate the earth at the expense of degenerating some relationships, for example. so i think a challenging yet good frame here is [[_004_L1F3/l1f3 protocol\|coordination across paradigms]].
+regenerative systems also imply this holistic (4d) view, but this isn't always the case. we can regenerate the earth at the expense of degenerating some relationships, for example. so i think a challenging yet good frame here is [[_003_L1F3/l1f3 protocol\|coordination across paradigms]].
 
 which aspects of life is this (supposedly) regenerative game really regenerating?
 

@@ -1,5 +1,5 @@
 ---
-{"created in":"2021-12-11T16:52:04-03:00","last tended to":"2024-10-13T00:34:59-03:00","tags":["music","artist","ukrainian","worldmusic","folk","🌲"],"dg-publish":true,"notestage":["🌲"],"permalink":"/references/music/artists/dakhabrakha/","dgPassFrontmatter":true,"created":"2021-12-11T16:52:04.131-03:00","updated":"2024-10-13T00:34:59.900-03:00"}
+{"created in":"2021-12-11T16:52:04-03:00","last tended to":"2024-10-13T00:34:59-03:00","tags":["music","artist","ukrainian","worldmusic","folk","🌲"],"dg-publish":true,"notestage":["🌲"],"created":"2021-12-11T16:52:04.131-03:00","updated":"2025-04-08T14:31:45.853-03:00","permalink":"/references/music/artists/dakhabrakha/","dgPassFrontmatter":true}
 ---
 
 #### listening stats
@@ -14,12 +14,14 @@ how they describe themselves:
 
 sometimes they also refer to themselves as exploring "avant-folk" styles. i see them as having very wide range of moods, but carrying an almost "folk-punk" essence in their sound. they make music that's intentionally imperfect, bringing a kind of chaotic movement that is still able to cohere and create tremendous harmony and beauty that can lead us to previously unimaginable - soft, powerful, loving, heart-wrenching, gut-punching and most of all - alive places.
 
+i discovered them in 2020:
+
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/writings/the-evolution-of-my-weird-relationship-with-music-and-the-origins-of-my-occult-references/#f14a3a" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-i had never heard of the term "[[topics/art/world music\|world music]]" (though i was listening to some of it), and much less heard of it interpreted through the lens of ukrainian "ethno-chaos". a few of their songs may sound/look at first look like some common neo-folk with some quirks/drops of unexpectedness here and there that make it "fun", but if you listen to it, really, openly and attentively, especially their more unconventional songs, i'm convinced there's some ancestral, mushroomy alchemy there. 
+at that point, i had never heard of the term "[[topics/art/world music\|world music]]" (though i was listening to some of it), it was all "folk". but when searching for it, it often got confused with country. it was a mess. now, if world music was new, what to expect of it interpreted through the lens of ukrainian "ethno-chaos"? a few of their songs may sound/look at first like some common neo-folk with some quirks/drops of unexpectedness here and there that make it "fun", but if you listen to it, really, openly and attentively, especially their more unconventional songs, i'm convinced there's some ancestral, mushroomy, psychedelic alchemy there. 
 
 </div></div>
 
@@ -80,7 +82,7 @@ as i've listened to them, i started creating playlists based on my own perceptio
 - [dakhabrakha - theatrical (4 songs)](https://open.spotify.com/playlist/63CeCf5nrWWGUI5r7uoQiv?si=78300c107e644fb9)
 
 i also created a few playlists specifically for rituals, so they have a sense of narrative/progression in them.
-- [the dakhabrakha experience (17 songs, 2hr 8min)](https://open.spotify.com/playlist/4FUledjEJcawRWSmstz6ig?si=d33aea23093849cd)
+- [the dakhabrakha experience (17 songs, 2h 8min)](https://open.spotify.com/playlist/4FUledjEJcawRWSmstz6ig?si=d33aea23093849cd)
 - [the dakhabrakha experience - after party (8 songs, 48 min)](https://open.spotify.com/playlist/1jTk7qz5eq1aR5Pd8Kh65H?si=352dc3b1cffe4e96)
 - [the dakhabrakha experience - lvl 2](https://open.spotify.com/playlist/4s19N5j0W3mdVjMQZqG09V?si=1e1988e50f944a04) (for exploring some of their even less-conventional music)
 - alternative - [dakhabrakha short experience (9 songs, 1h 7min)](https://open.spotify.com/playlist/31qQDF4SbbzYpNnSXcNdAW?si=6a375750d529498b)
@@ -98,17 +100,18 @@ a playlist i created collecting songs that highlight each member's "superpower":
 the playlist is in order:
 
 marko (male) - [[tjolky\|tjolky]], [[specially for you\|specially for you]] - street/hip-hop, looseness/raspiness, intensity/realness (wind/earth)
+-> bottom energy, sets the tone, let others build/rest upon it
 
 olena (drums) - [[dibrova\|dibrova]], [[oy ishov chumak\|oy ishov chumak]], [[ya siv ne v toy litak\|ya siv ne v toy litak]] - head voice, vulnerability/openness, elegance/delicacy (wind + water/fire)
 -> back energy, mastery through surrender/non-control
 
 iryna (piano, accordion) - [[oy za lisochkom\|oy za lisochkom]], [[plyve choven\|plyve choven]] - riffs, endurance, strength (earth/fire)
--> frontal energy, anchoring
+-> frontal energy, anchoring, pulling, challenging
 
 nina (cello) - [[oi upav snizhok\|oi upav snizhok]], at the end of "[[baby\|baby]]" - belting, expansion, depth (fire/water)
 -> diagonal energy, unique, pierces through
 
-(the order of the elements indicates what i feel as primary/secondary amongst them)
+(the order of the elements [earth, water, fire, wind] indicates what i feel as primary/secondary amongst them)
 
 ---
 ##### other loose notes
@@ -125,9 +128,5 @@ i also really like their [[terms/design\|design]]/[[tbprocessed/notion/c4ss1us�
 
 spotify's recommended related playlists ("more like dakhabrakha"): organica, dark & stormy, deep dark indie, classical x, terra incognita, steampunk, the others, track IDs, oceanvs orientalis
 
-idea: dakhabrakha ritual/mc experience? (guiding people through soundscapes. bridging the inner and outer through theatrical/role-play journeys)
--> e.g.: vesna = will you honor the winter, accept it and let the spring come?
-
 ---
-
 see also: even more specific notes on [[references/music/artists/dakhabrakha\|dakhabrakha]]'s music production: [[references/music/music production references\|music production references]]

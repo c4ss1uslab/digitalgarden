@@ -2,7 +2,7 @@
 {"created in":"2022-03-24T17:37:52-03:00","last tended to":"2024-10-30T18:06:34-03:00","aliases":["coordinating","coordinate"],"tags":["design","systemsdesign","systemsscience","socialchange","socialoperatingsystems","topic","🌱"],"relevancescore":98,"dg-publish":true,"notestage":["🌱"],"created":"2022-03-24T17:37:52.861-03:00","updated":"2025-02-06T14:40:00.912-03:00","permalink":"/topics/design/coordination-systems/","dgPassFrontmatter":true}
 ---
 
-one of my main objectives through the [[_004_L1F3/L1F3.stream\|L1F3]] projects is to support the development of a [[concepts/design/coordination layer\|coordination layer]] both for humans and the more-than-human world. many people in the [[concepts/design/metacrisis\|metacrisis]] and [[topics/design/web3\|web3]] communities are also attempting to do that in global/large scales, in different ways. many [[social change\|social]] and [[topics/regen/earth regeneration\|regenerative movements]] are also attempting to do it in mostly local/regional scales.
+one of my main objectives through the [[_003_L1F3/L1F3.stream\|L1F3]] projects is to support the development of a [[concepts/design/coordination layer\|coordination layer]] both for humans and the more-than-human world. many people in the [[concepts/design/metacrisis\|metacrisis]] and [[topics/design/web3\|web3]] communities are also attempting to do that in global/large scales, in different ways. many [[social change\|social]] and [[topics/regen/earth regeneration\|regenerative movements]] are also attempting to do it in mostly local/regional scales.
 
 this subject has taken me and still will take a lot of study/research/experimentation over decades to come, but there are important concepts, initiatives and possibilities to be further developed in the present.
 
@@ -11,7 +11,7 @@ this subject has taken me and still will take a lot of study/research/experiment
 - [[governance systems\|governance systems]]
 - [[diagnosis/self-terminating economic system\|economic systems]]
 - [[organizational systems\|organizational systems]]
-- [[_004_L1F3/core concepts/self-management\|self-management]] systems
+- [[_003_L1F3/core concepts/self-management\|self-management]] systems
 
 see: [[initiatives, orgs & communities/design/SEEDS (ecosystem)\|SEEDS]] for a breakdown and exploration of each one.
 

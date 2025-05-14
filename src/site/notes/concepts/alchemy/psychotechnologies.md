@@ -2,7 +2,7 @@
 {"tags":["alchemy","concept","metacrisis","superstructure","🌿","response"],"dg-publish":true,"relevancescore":96,"notestage":["🌿"],"created":"2024-04-25T15:09:17.861-03:00","updated":"2025-02-06T15:02:17.080-03:00","permalink":"/concepts/alchemy/psychotechnologies/","dgPassFrontmatter":true}
 ---
 
-a term often used by folks in the [[concepts/design/metacrisis\|metacrisis]] space. i believe contact with/access to psychotechnologies are necessary for any kind of deep [[_004_L1F3/core concepts/self-transformation\|self-transformation]].
+a term often used by folks in the [[concepts/design/metacrisis\|metacrisis]] space. i believe contact with/access to psychotechnologies are necessary for any kind of deep [[_003_L1F3/core concepts/self-transformation\|self-transformation]].
 
 great intro by [[euvie ivanova\|euvie ivanova]] - [Psycho-Technologies for the Age of Collapse](https://euvieivanova.substack.com/p/psycho-technologies-for-the-age-of)
 

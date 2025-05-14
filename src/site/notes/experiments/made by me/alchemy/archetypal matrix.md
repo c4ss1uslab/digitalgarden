@@ -4,6 +4,6 @@
 
 this is a simple, yet major idea i've been developing and experimenting a ton with over the last few years. orienting my life around it has been both deeply nourishing and immensely challenging.
 
-it's essentially applying [[people/references/alchemy/robert moore\|moore]] and [[people/references/alchemy/douglas gillette\|gillette]]'s [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/concepts & frameworks/roles/king, warrior, magician, lover\|king, warrior, magician, lover]] archetypes (and corresponding feminine archetypes) as a foundational system/framework for [[_004_L1F3/core concepts/self-management\|self]]/[[_004_L1F3/core concepts/life management\|life management]].
+it's essentially applying [[people/references/alchemy/robert moore\|moore]] and [[people/references/alchemy/douglas gillette\|gillette]]'s [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/concepts & frameworks/roles/king, warrior, magician, lover\|king, warrior, magician, lover]] archetypes (and corresponding feminine archetypes) as a foundational system/framework for [[_003_L1F3/core concepts/self-management\|self]]/[[_003_L1F3/core concepts/life management\|life management]].
 
 i wrote an essay introducing my application/experience with it some time ago, see: https://c4ss1us.substack.com/p/archetypal-living-as-a-system-and

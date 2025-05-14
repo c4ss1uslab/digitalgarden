@@ -45,7 +45,7 @@ there are a few projects that offer interesting possibilities...
 [[projects & tools/tools/lab/pears\|pears]]
 [[projects & tools/tools/design/IPFS\|IPFS]]
 [[noosphere\|noosphere]] -> a [[responses/design/protocols for thought\|protocol for thought]].
-my own embryonic [[_004_L1F3/l1f3 protocol\|l1f3 protocol]] -> a protocol for collaborative play.
+my own embryonic [[_003_L1F3/l1f3 protocol\|l1f3 protocol]] -> a protocol for collaborative play.
 
 ##### other references
 

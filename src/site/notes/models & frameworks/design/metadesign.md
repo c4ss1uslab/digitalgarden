@@ -18,7 +18,7 @@ the term has different applications and methodologies, the one i'm currently lea
 
 it drinks from several thinkers, philosophers and practitioners in order to build a [[post-colonial\|post-colonial]], [[responses/regen/regenerative design\|regenerative]] yet generic approach to design.
 
-other notable researchers/approaches are: [[john wood\|john wood]], [[gehrard fischer\|gehrard fischer]], [[carlo franzato\|carlo franzato]].
+other notable researchers/approaches are: [[john wood\|john wood]], [[gehrard fischer\|gehrard fischer]], [[people/references/architect;design/carlo franzato\|carlo franzato]].
 
 ##### introductory articles:
 
@@ -51,7 +51,7 @@ the energy cycles - limitations of production for each type of energy:
 a fundamentally different regenerative economy/production system:
 ![](https://i.imgur.com/OtO9GQk.jpeg)
 
-emergent [[areas/life areas (internal)/archetypal\|archetypal]] socio-political roles:
+emergent [[life management/life areas (internal)/archetypal\|archetypal]] socio-political roles:
 ![](https://i.imgur.com/67bqfGs.png)
 
 the cognitive island - human limitations on collaboration and the emergence of higher-order structures/institutions:

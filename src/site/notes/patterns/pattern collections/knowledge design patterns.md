@@ -8,7 +8,7 @@ i spent a great deal of time over the past ~9 years trying to figure out best pr
 
 this page contains both a philosophical and technical exploration (however brief and incomplete) of the design patterns i have been applying and finding the most useful/relevant.
 
-i'm attempting to implement these patterns to both my [[_000_digital garden/c4ss1us' garden\|digital garden]] and the [[_003_research/00 - viable pathways book-zine\|viable pathways book-zine]] i'm working on, so you can see them in action there.
+i'm attempting to implement these patterns to both my [[_000_digital garden/c4ss1us' garden\|digital garden]] and the [[_002_research/00 - viable pathways book-zine\|viable pathways book-zine]] i'm working on, so you can see them in action there.
 
 ##### design patterns & choices
 
@@ -54,7 +54,7 @@ https://gordonbrander.com/pattern
 [[projects & tools/projects/design/gitcoin coordination mechanisms list\|gitcoin coordination mechanisms list]]
 \ + [[patterns/pattern collections/game design patterns\|game design patterns]]
 
-sourcing from: [[_004_L1F3/l1f3 management system\|l1f3 management system]].
+sourcing from: [[_003_L1F3/l1f3 management system\|l1f3 management system]].
 
 ---
 

@@ -47,7 +47,7 @@ see: [[projects & tools/made by me/lab/internet mapping\|internet mapping]]
 
 ##### physiologic structure
 
-see: [[_004_L1F3/core concepts/self-management\|self-management]], [[design science\|design science]], [[models & frameworks/design/metadesign\|metadesign]]
+see: [[_003_L1F3/core concepts/self-management\|self-management]], [[design science\|design science]], [[models & frameworks/design/metadesign\|metadesign]]
 
 ##### social structure
 

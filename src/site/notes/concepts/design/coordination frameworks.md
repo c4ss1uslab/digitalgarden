@@ -34,7 +34,7 @@ the stoa?
 [[models & frameworks/alchemy/wheel of life\|wheel of life]]
 [[6 horizons of focus\|6 horizons of focus]]
 [[models & frameworks/player/fourgames\|fourgames]]₉₃
-[[_004_L1F3/l1f3 management ontology\|L1F3 ontology]]₉₆
+[[_003_L1F3/l1f3 management ontology\|L1F3 ontology]]₉₆
 
 #### knowledge management frameworks:
 

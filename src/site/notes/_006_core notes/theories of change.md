@@ -1,5 +1,5 @@
 ---
-{"created":"2024-10-06T02:05:40.929-03:00","updated":"2025-01-28T14:54:13.224-03:00","aliases":["theory of change"],"tags":["concept","alchemy","design","metacrisis","🌱"],"dg-publish":true,"notestage":["🌱"],"relevancescore":98,"permalink":"/006-core-notes/theories-of-change/","dgPassFrontmatter":true}
+{"created":"2024-10-06T02:05:40.929-03:00","updated":"2025-04-06T11:40:24.717-03:00","aliases":["theory of change"],"tags":["concept","alchemy","design","metacrisis","🌱"],"dg-publish":true,"notestage":["🌱"],"relevancescore":98,"readinesslevel":"30%","permalink":"/006-core-notes/theories-of-change/","dgPassFrontmatter":true}
 ---
 
 relevant introduction: [2R wiki - Theories of Change](https://wiki.secondrenaissance.net/wiki/Theories_of_Change)

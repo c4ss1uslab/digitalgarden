@@ -10,11 +10,11 @@ instead of having a long list of "best practices" and "common problems to be sol
 
 nonetheless, there are some commonly seen patterns and threads amongst the researchers i mentioned. the first wiki i mentioned - [bjork and holopainen's "patterns in game design"](http://virt10.itu.chalmers.se/index.php/Category:Patterns) and their initial pattern categorization is a great starting point. it also has a [great support tool for visual navigation](https://gdpv.is/).
 
-a few patterns i'd like to highlight are the [interface patterns](http://virt10.itu.chalmers.se/index.php/Category:Interface_Patterns) and the ones i implemented as part of the [[_002_toolkit/000 ⛓ l1f3 player toolkit\|l1f3 player toolkit]].
+a few patterns i'd like to highlight are the [interface patterns](http://virt10.itu.chalmers.se/index.php/Category:Interface_Patterns) and the ones i implemented as part of the [[_004_toolkit/000 ⛓ l1f3 player toolkit\|l1f3 player toolkit]].
 
 websites like [[projects & tools/tools/player/game UI database\|game UI database]] and [[projects & tools/tools/player/interface in game\|interface in game]] also help with visualizing the most up-to-date/state of the art applications of some of these patterns.
 
-##### analysis/application: [[_002_toolkit/000 ⛓ l1f3 player toolkit\|l1f3 player toolkit]]
+##### analysis/application: [[_004_toolkit/000 ⛓ l1f3 player toolkit\|l1f3 player toolkit]]
 
 
 

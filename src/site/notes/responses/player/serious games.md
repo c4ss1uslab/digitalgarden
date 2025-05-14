@@ -1,10 +1,10 @@
 ---
-{"created in":"2024-04-01T18:28:03-03:00","last tended to":"2024-07-19T23:00:02-03:00","tags":["topic","player","design","architect","gamedesign","seriousgame","🌱","response"],"created":"2024-04-01T18:28:03.824-03:00","updated":"2025-02-13T12:39:41.736-03:00","dg-publish":true,"notestage":["🌱"],"relevancescore":96,"permalink":"/responses/player/serious-games/","dgPassFrontmatter":true}
+{"created in":"2024-04-01T18:28:03-03:00","last tended to":"2024-07-19T23:00:02-03:00","tags":["topic","player","design","architect","gamedesign","seriousgame","🌱","response"],"created":"2024-04-01T18:28:03.824-03:00","updated":"2025-04-05T14:26:41.269-03:00","dg-publish":true,"notestage":["🌱"],"relevancescore":96,"permalink":"/responses/player/serious-games/","dgPassFrontmatter":true}
 ---
 
 #### my main references:
 
-more specifically on [[concepts/design/infinite games\|infinite (life) games]]:
+more specifically on [[concepts/design/infinite games\|(infinite) life games]]:
 
 - [[initiatives, orgs & communities/design/buckminster fuller institute\|buckminster fuller institute]]'s [[projects & tools/projects/player/world game\|world game]] - (workshop / os.earth)
 - [[initiatives, orgs & communities/design/metagame.wtf\|metagame.wtf]]

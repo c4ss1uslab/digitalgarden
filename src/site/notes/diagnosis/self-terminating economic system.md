@@ -1,5 +1,5 @@
 ---
-{"created":"2024-11-20T15:03:00.424-03:00","updated":"2025-02-06T14:41:37.489-03:00","aliases":["economic system","economic systems"],"tags":["🌱","metacrisis","economics","design"],"notestage":["🌱"],"relevancescore":97,"dg-publish":true,"permalink":"/diagnosis/self-terminating-economic-system/","dgPassFrontmatter":true}
+{"created":"2024-11-20T15:03:00.424-03:00","updated":"2025-04-05T14:52:21.051-03:00","aliases":["economic system","economic systems"],"tags":["🌱","metacrisis","economics","design"],"notestage":["🌱"],"relevancescore":98,"dg-publish":true,"permalink":"/diagnosis/self-terminating-economic-system/","dgPassFrontmatter":true}
 ---
 
 see: [[writings/on the limits of capitalism and emergent forms of abundance generation & distribution\|on the limits of capitalism and emergent forms of abundance generation & distribution]] and [[initiatives, orgs & communities/design/SEEDS (ecosystem)\|SEEDS]].

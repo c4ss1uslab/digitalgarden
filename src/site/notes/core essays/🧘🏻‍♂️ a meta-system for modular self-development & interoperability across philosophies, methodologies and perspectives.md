@@ -10,7 +10,7 @@ collapse: open
 the contents of the writing below are currently haphazard, disjointed and all over the place. please proceed at your own risk. (*or don't.* feel free to come back later when it'll be hopefully updated and improved.)
 ```
 
-##### 1) mapping approaches to [[topics/alchemy/spirituality\|spirituality]] and [[_004_L1F3/core concepts/self-transformation\|self-transformation]]
+##### 1) mapping approaches to [[topics/alchemy/spirituality\|spirituality]] and [[_003_L1F3/core concepts/self-transformation\|self-transformation]]
 
 ```ad-hint
 title: disclaimer
@@ -30,7 +30,7 @@ i have been slowly joining forces with my good friend [[people/friends/marcelo p
 
 plus, there are a lot more curators/practitioners such as [[eric brown\|eric brown]] [hedonic engineering: building a psycho-spiritual growth stack](https://seriousplay.substack.com/p/hedonic-engineering), [[euvie ivanova\|euvie ivanova]] on [psycho-technologies for the age of collapse](https://euvieivanova.substack.com/p/psycho-technologies-for-the-age-of), [[layman pascal\|layman pascal]], (...), adding to it.
 
-all of these share an aim to be multi-perspectival, integrative approaches to [[_004_L1F3/core concepts/self-transformation\|self-transformation]] and [[topics/alchemy/spirituality\|spirituality]], but i'm sure there are many more that hold valuable pieces of wisdom.
+all of these share an aim to be multi-perspectival, integrative approaches to [[_003_L1F3/core concepts/self-transformation\|self-transformation]] and [[topics/alchemy/spirituality\|spirituality]], but i'm sure there are many more that hold valuable pieces of wisdom.
 
 [[initiatives, orgs & communities/alchemy/possibility management\|possibility management]] with [[thoughtware upgrades\|thoughtware upgrades]], [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/content creators master list/sadhguru\|sadhguru]] with [[self-engineering\|self-engineering]], and many others to be discovered...
 
@@ -55,7 +55,7 @@ we can be forever seeking "who has/what is the more comprehensive/coherent/whole
 
 we all came here with different [[_001_MOCs/025 🔷 long game/035 🔭 missions MOC\|missions]], [[concepts/alchemy/needs\|needs]], [[talents\|talents]] and [[_001_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|challenges]]. and while "all paths lead to the tao", not all are equally valuable.
 
-the age-old challenge of [[_004_L1F3/core concepts/self-transformation\|self-transformation]] is as much a work of [[designing\|design]] as of [[discovery\|discovery]] and [[deconstruction\|deconstruction]] ([[tbprocessed/evernote/0 - inbox/ken wilber\|tbprocessed/evernote/0 - inbox/ken wilber]]'s model of the [[models & frameworks/alchemy/four facets of integral development\|four facets of integral development]] do a great job of explaining it in terms of: [[concepts/alchemy/waking up\|waking up]], [[concepts/alchemy/growing up\|growing up]], [[concepts/alchemy/cleaning up\|cleaning up]] and [[concepts/alchemy/showing up\|showing up]]).
+the age-old challenge of [[_003_L1F3/core concepts/self-transformation\|self-transformation]] is as much a work of [[designing\|design]] as of [[discovery\|discovery]] and [[deconstruction\|deconstruction]] ([[tbprocessed/evernote/0 - inbox/ken wilber\|tbprocessed/evernote/0 - inbox/ken wilber]]'s model of the [[models & frameworks/alchemy/four facets of integral development\|four facets of integral development]] do a great job of explaining it in terms of: [[concepts/alchemy/waking up\|waking up]], [[concepts/alchemy/growing up\|growing up]], [[concepts/alchemy/cleaning up\|cleaning up]] and [[concepts/alchemy/showing up\|showing up]]).
 
 ![integral dashboard.jpeg](/img/user/images/interfaces%20&%20designs/integral%20dashboard.jpeg)
 
@@ -63,7 +63,7 @@ let's take the [[models & frameworks/alchemy/AQAL map\|AQAL map]] - an [[respons
 
 -> why integral is so powerful: it provides as close to an agnostic stance as possible (or at least that i've seen) to integrate perspectives and practices. it provides a way of indexing, interpreting and categorizing spiritual (and more - psychological, sociological, scientific) experiences.
 
-if we break down some of the core [[_004_L1F3/core concepts/self-transformation\|self-transformation]] processes, there are: [[concepts/alchemy/consciousness development\|consciousness development]] itself ([[states\|states]] & [[stages\|stages]]), [[psychological development\|psychological development]], [[topics/player/learning\|learning]], [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/concepts & frameworks/lines of intelligence\|lines of intelligence]], [[trauma\|trauma]], [[intimacy development\|intimacy development]], [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/sub-interests & practices master list/shadow work\|shadow work]], [[parts work\|parts work]], [[flow states\|flow states]], [[concepts/alchemy/non-ordinary states of consciousness\|non-ordinary states of consciousness]], etc...
+if we break down some of the core [[_003_L1F3/core concepts/self-transformation\|self-transformation]] processes, there are: [[concepts/alchemy/consciousness development\|consciousness development]] itself ([[states\|states]] & [[stages\|stages]]), [[psychological development\|psychological development]], [[topics/player/learning\|learning]], [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/concepts & frameworks/lines of intelligence\|lines of intelligence]], [[trauma\|trauma]], [[intimacy development\|intimacy development]], [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/sub-interests & practices master list/shadow work\|shadow work]], [[parts work\|parts work]], [[flow states\|flow states]], [[concepts/alchemy/non-ordinary states of consciousness\|non-ordinary states of consciousness]], etc...
 
 i favor a modular approach. you don't need to agree with the complete worldview of a certain approach, practice or tradition, but you can practice/experiment with it and develop more depth over time. the point is to gradually explore, learn and incorporate what makes sense for you into your personal systems.
 

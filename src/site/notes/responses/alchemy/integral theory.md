@@ -32,4 +32,4 @@ the full [[models & frameworks/alchemy/AQAL map\|AQAL map]]:
 </div></div>
 
 
-for further recommendations, i suggest starting with the book [[areas/life areas (base)/alchemy/a brief history of everything\|a brief history of everything]]. if reading isn't your preferred medium at the moment, there's this [youtube playlist](https://www.youtube.com/playlist?list=PLgMC56yzL6LwzEAjsdlj9BGzFCm1_3URZ), which i haven't seen fully but that seems good.
+for further recommendations, i suggest starting with the book [[life management/life areas (base)/alchemy/a brief history of everything\|a brief history of everything]]. if reading isn't your preferred medium at the moment, there's this [youtube playlist](https://www.youtube.com/playlist?list=PLgMC56yzL6LwzEAjsdlj9BGzFCm1_3URZ), which i haven't seen fully but that seems good.

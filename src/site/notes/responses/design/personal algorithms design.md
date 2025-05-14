@@ -10,7 +10,7 @@ dominant social media algorithms are based on your patterns of behavior **now** 
 
 #### 2 main projects:
 
-1) clarifying *a) desirable algorithms* and *b) algorithms already embedded* in your [[_004_L1F3/core concepts/self-transformation\|self-transformation]], [[_004_L1F3/core concepts/life design\|life design]] and [[concepts/lab/personal tech stack\|personal tech stack]]
+1) clarifying *a) desirable algorithms* and *b) algorithms already embedded* in your [[_003_L1F3/core concepts/self-transformation\|self-transformation]], [[_003_L1F3/core concepts/life design\|life design]] and [[concepts/lab/personal tech stack\|personal tech stack]]
 2) designing/implementing a [[responses/lab/recommender systems\|recommender systems]] for oneself
 
 #### major references:
@@ -32,6 +32,6 @@ see:
 
 6) [[decision support systems\|decision support systems]]
 
-7) [[_004_L1F3/l1f3 management system\|l1f3 management system]]
+7) [[_003_L1F3/l1f3 management system\|l1f3 management system]]
 
-8) [[_004_L1F3/L1F3 support systems\|L1F3 support systems]]
+8) [[_003_L1F3/L1F3 support systems\|L1F3 support systems]]

@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-10-31T15:56:54-03:00","last tended to":"2024-11-06T18:52:18-03:00","dg-publish":true,"aliases":["personal and civilizational crises","systemic crises"],"tags":["concept","metacrisis"],"relevancescore":98,"notestage":["🌿"],"created":"2023-10-31T15:56:54.956-03:00","updated":"2025-03-24T16:25:36.877-03:00","permalink":"/concepts/design/metacrisis/","dgPassFrontmatter":true}
+{"created in":"2023-10-31T15:56:54-03:00","last tended to":"2024-11-06T18:52:18-03:00","dg-publish":true,"aliases":["personal and civilizational crises","systemic crises"],"tags":["concept","metacrisis"],"relevancescore":98,"notestage":["🌿"],"created":"2023-10-31T15:56:54.956-03:00","updated":"2025-04-06T11:34:28.925-03:00","readinesslevel":"70%","permalink":"/concepts/design/metacrisis/","dgPassFrontmatter":true}
 ---
 
 #### about
@@ -77,7 +77,7 @@ https://www.gameb.wiki/ - a wiki with not a lot, but very relevant content, grea
 
 i found it useful to highlight 5 "core", interdependent crises underpinning the metacrisis:
 
-the [[areas/spiritual\|spiritual]]/[[psychological\|psychological]], [[ecological\|ecological]], [[political\|political]], [[economic\|economic]] and [[educational\|educational]] crises.
+the [[life management/spiritual\|spiritual]]/[[psychological\|psychological]], [[ecological\|ecological]], [[political\|political]], [[economic\|economic]] and [[educational\|educational]] crises.
 
 which can then be broken down into several other crisis and dynamics:
 

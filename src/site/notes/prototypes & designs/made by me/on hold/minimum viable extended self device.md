@@ -2,7 +2,7 @@
 {"created in":"2024-02-15T15:09:27-03:00","last tended to":"2024-10-11T18:43:20-03:00","tags":["prototype","onhold","🌿"],"dg-publish":true,"aliases":["XS device","minimum viable XS device"],"notestage":["🌿"],"created":"2024-02-15T15:09:27.156-03:00","updated":"2024-11-14T17:02:23.725-03:00","permalink":"/prototypes-and-designs/made-by-me/on-hold/minimum-viable-extended-self-device/","dgPassFrontmatter":true}
 ---
 
-[[type\|type]]: [[areas/life areas (internal)/physical\|physical]] / [[digital\|digital]] [[objects\|objects]]
+[[type\|type]]: [[life management/life areas (internal)/physical\|physical]] / [[digital\|digital]] [[objects\|objects]]
 related prototypes: [[experiments/made by me/host/c4ss1us' conversation menu\|c4ss1us' conversation menu]], [[experiments/made by me/player/c4ss1us' player menu\|c4ss1us' player menu]], [[dakhabrakha music discovery gacha\|dakhabrakha music discovery gacha]].
 
 ---
@@ -51,7 +51,7 @@ i signed up for an 8-week course at [[SESC santana\|SESC santana]] on [[circuitp
 
 *july/2024 update:*
 
-after i learned some basics of [[electronics\|electronics]] and [[circuitpy\|circuitpy]]/[[projects & tools/tools/lab/raspberry pi pico\|pi pico]] from the course, i decided to not focus on it n ow, as i realized publishing my [[_003_research/00 - viable pathways book-zine\|viable pathways book-zine]] my highest priority.
+after i learned some basics of [[electronics\|electronics]] and [[circuitpy\|circuitpy]]/[[projects & tools/tools/lab/raspberry pi pico\|pi pico]] from the course, i decided to not focus on it n ow, as i realized publishing my [[_002_research/00 - viable pathways book-zine\|viable pathways book-zine]] my highest priority.
 
 it's still something i really wanna do in the mid-term (2-3 years max).
 

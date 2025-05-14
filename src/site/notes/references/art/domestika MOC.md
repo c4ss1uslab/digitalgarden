@@ -45,7 +45,7 @@ legend:
 > 🤔 [Introduction to Digital Sound Design - Jürgen Branz](https://www.domestika.org/en/courses/4560-introduction-to-digital-sound-design) - see: [[topics/art/sound design\|sound design]]
 ##### 🖌 artistic development
 
-[Motion Graphics: Create an Animated Poster - Plus Mûrs](https://www.domestika.org/en/courses/3097-motion-graphics-create-an-animated-poster/course) for: [[_003_research/00 - viable pathways book-zine\|viable pathways book-zine]]
+[Motion Graphics: Create an Animated Poster - Plus Mûrs](https://www.domestika.org/en/courses/3097-motion-graphics-create-an-animated-poster/course) for: [[_002_research/00 - viable pathways book-zine\|viable pathways book-zine]]
 [Creative Patterns for Graphic Design - Giorgia Smiraglia](https://www.domestika.org/en/courses/2263-creative-patterns-for-graphic-design/course)
 > 📺 [Minimalist Graphic Design for Big Ideas - Julian Montague](https://www.domestika.org/en/courses/2946-minimalist-graphic-design-for-big-ideas)
 > 📺 [Mood Board Creation: Communicate Concepts Effectively - Gudy Herder](https://www.domestika.org/en/courses/2798-mood-board-creation-communicate-concepts-effectively)

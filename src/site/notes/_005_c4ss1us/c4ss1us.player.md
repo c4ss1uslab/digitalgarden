@@ -1,5 +1,5 @@
 ---
-{"aliases":["player",".player","👨🏻‍🎤 c4ss1us.player"],"created in":"2023-05-31T18:40:03-03:00","last tended to":"2024-07-19T23:10:17-03:00","tags":["c4ss1us","player","🌱"],"created":"2024-05-22T17:07:46.703-03:00","updated":"2025-02-13T13:53:44.710-03:00","notestage":["🌱"],"dg-publish":true,"permalink":"/005-c4ss1us/c4ss1us-player/","dgPassFrontmatter":true}
+{"aliases":["player",".player","👨🏻‍🎤 c4ss1us.player"],"created in":"2023-05-31T18:40:03-03:00","last tended to":"2024-07-19T23:10:17-03:00","tags":["c4ss1us","player","🌱"],"created":"2024-05-22T17:07:46.703-03:00","updated":"2025-04-06T12:03:14.453-03:00","notestage":["🌱"],"dg-publish":true,"readinesslevel":"20%","permalink":"/005-c4ss1us/c4ss1us-player/","dgPassFrontmatter":true}
 ---
 
 **see also:** [c4ss1us.player mmm.page (visual overview)](https://c4ss1us.mmm.page/player)
@@ -11,12 +11,12 @@ the 4games - [[concepts/alchemy/short game\|short game]], [[concepts/alchemy/mid
 
 the games of [[tbprocessed/base notes/concepts - general/art\|art]], [[tbprocessed/base notes/concepts - general/disruption\|disruption]] and [[tbprocessed/base notes/concepts - general/conscious evolution\|conscious evolution]]. ([[beautiful\|beautiful]], [[good\|good]], [[true\|true]])
 
-the games of [[_004_L1F3/core concepts/self-transformation\|self-transformation]], [[_004_L1F3/core concepts/life design\|life design]] & [[_004_L1F3/core concepts/civilization design\|civilization design]].
+the games of [[_003_L1F3/core concepts/self-transformation\|self-transformation]], [[_003_L1F3/core concepts/life design\|life design]] & [[_003_L1F3/core concepts/civilization design\|civilization design]].
 
 as an [[_005_c4ss1us/c4ss1us.alchemy\|alchemist]], [[_005_c4ss1us/c4ss1us.design\|designer]], [[_005_c4ss1us/c4ss.art\|artist]], [[_005_c4ss1us/c4ss1us.lab\|builder]] and [[player\|player]].
 
 ---
-objective: i want to gather funds as a l1f3 player, so i can keep building/playing the game.
+objective: i want to create a viable financial ecosystem as a l1f3 player, so i can keep building/playing the game.
 
 my offerings:
 - [[projects & tools/made by me/lab/reality mapping\|reality]]/[[projects & tools/made by me/lab/internet mapping\|internet maps]], written content on my reflections & learnings, self-discovery experiments
@@ -25,16 +25,16 @@ my offerings:
 - practical/useful/inspiring digital tools (as part of the game)
 - livestreams, community, collaborative gameplay sessions, content + references to support l1f3 playing
 
--> my goal with this is to develop infrastructure and an ecosystem for l1f3 players, so more can do this in a sustainable way and we can create new, more regenerative & disruptive reality models and lifestyles.
+-> my goal with this is to develop infrastructure and an ecosystem for l1f3 players, so more ppl can do this in a sustainable way and we can create new, more regenerative & disruptive reality models and lifestyles.
 
 --> this is completely badass. i need to explain this more.
 
 in order to be funded, i need to share at least one of + conceptual basis for the others:
-- [[_004_L1F3/l1f3 game\|l1f3 game]] mvp
-- [[_004_L1F3/l1f3 operating system\|l1f3 OS]] mvp
-- [[_004_L1F3/l1f3 management system\|l1f3 management system]] mvp
-- [[_004_L1F3/l1f3 streaming system\|l1f3 streaming system]] mvp
-- [[_004_L1F3/l1f3 player system\|l1f3 player system]] mvp
+- [[_003_L1F3/l1f3 game\|l1f3 game]] mvp
+- [[_003_L1F3/l1f3 operating system\|l1f3 OS]] mvp
+- [[_003_L1F3/l1f3 management system\|l1f3 management system]] mvp
+- [[_003_L1F3/l1f3 streaming system\|l1f3 streaming system]] mvp
+- [[_003_L1F3/l1f3 player system\|l1f3 player system]] mvp
 
 ----
 #### main references:
@@ -44,7 +44,7 @@ in order to be funded, i need to share at least one of + conceptual basis for th
 fundamental board/card/digital games:
 
 ##### 1) SELF:
-- [[initiatives, orgs & communities/design/metagame.wtf\|metagame.wtf]]/[[_004_L1F3/l1f3 game\|L1F3.GAME]] player profile / RPG sheet ([[prototypes & designs/made by me/l1f3 player dashboard\|l1f3 player dashboard]])
+- [[initiatives, orgs & communities/design/metagame.wtf\|metagame.wtf]]/[[_003_L1F3/l1f3 game\|L1F3.GAME]] player profile / RPG sheet ([[prototypes & designs/made by me/l1f3 player dashboard\|l1f3 player dashboard]])
 — [[concepts/player/attributes\|attributes]]
 — [[talents\|talents]]
 — [[skills\|skills]]
@@ -57,7 +57,7 @@ fundamental board/card/digital games:
 — [[cards\|cards]]
 — [[board\|board]]
 — [[mandalas\|mandalas]]
-——> [[journeys\|journeys]], [[tbprocessed/notion/language learning hub/goals\|goals]], [[areas/environments\|environments]], [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/references/reference types/tools\|tools]]... [mid, long]
+——> [[journeys\|journeys]], [[tbprocessed/notion/language learning hub/goals\|goals]], [[life management/environments\|environments]], [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/references/reference types/tools\|tools]]... [mid, long]
 - [[responses/alchemy/integral theory\|integral]] add-ons [player lvl 2]
 — [[references/alchemy/integral OS\|integral OS]] dashboard
 — [[compass\|compass]] ([[models & frameworks/design/four quadrants\|quadrants]])
@@ -74,7 +74,7 @@ fundamental board/card/digital games:
 - ontological design [designer]
 — L1F3 frameworks
 —— [[topics/design/systems\|systems]]
-—— [[areas/environments\|environments]]
+—— [[life management/environments\|environments]]
 —— [[objects\|objects]]
 —— [[models & frameworks/design/8 forms of capital\|8 forms of capital]] (flow of resources / resources management)
 - connection/exp design artifacts [artist]
@@ -92,7 +92,7 @@ fundamental board/card/digital games:
 ~ how to enable collaboration/co-creation? ~
 
 ##### 3) CIVILIZATION:
-- [[moral imaginations\|moral imaginations]] / [[responses/regen/solarpunk\|solarpunk]] [[_004_L1F3/core concepts/civilization design\|civilization design]] [architect]
+- [[moral imaginations\|moral imaginations]] / [[responses/regen/solarpunk\|solarpunk]] [[_003_L1F3/core concepts/civilization design\|civilization design]] [architect]
 — [[dymaxion map\|dymaxion map]]
 — fields of study/[[_001_MOCs/025 🔷 long game/025 🗺 topics & references MOC\|topics]] (highlighted there: energy, tech, food...)
 — [[models & frameworks/design/8 forms of capital\|8 forms of capital]]
@@ -135,7 +135,7 @@ add-on games:
 — [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/sub-interests & practices master list/parkour\|parkour]]
 — [[martial arts\|martial arts]]
 
-- other elements of the toolkit: maps, compasses, codexes, boards & more... see: [[_002_toolkit/000 ⛓ l1f3 player toolkit\|l1f3 player toolkit]]
+- other elements of the toolkit: maps, compasses, codexes, boards & more... see: [[_004_toolkit/000 ⛓ l1f3 player toolkit\|l1f3 player toolkit]]
 
 ---
 communities/approaches refs:

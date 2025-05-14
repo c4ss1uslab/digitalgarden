@@ -33,7 +33,7 @@ inspiration / motivation / discipline - rats/elephants/butterflies
 passive vs active / open vs closed (yin vs yang)
 [[models & frameworks/alchemy/5 bodies\|models & frameworks/alchemy/5 bodies]] (& similar approaches)
 hierarchy of needs (& similar approaches)
-[[models & frameworks/alchemy/4 elements\|models & frameworks/alchemy/4 elements]] (& similar approaches - [[areas/life areas (base)/alchemy/4 energy states\|4 energy states]], [[4 feelings\|4 feelings]])
+[[models & frameworks/alchemy/4 elements\|models & frameworks/alchemy/4 elements]] (& similar approaches - [[models & frameworks/alchemy/4 energy states\|4 energy states]], [[4 feelings\|4 feelings]])
 
 ###### distinctions from a few more empirical fields (that i found useful) but can easily be pseudo-sciency, and thus require a much deeper/more careful investigation:
 

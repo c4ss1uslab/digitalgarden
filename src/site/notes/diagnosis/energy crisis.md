@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-07-24T05:06:21-03:00","last tended to":"2024-10-11T18:03:12-03:00","tags":["metacrisis","topic","infrastructure","🌱"],"notestage":["🌱"],"relevancescore":97,"created":"2024-07-24T05:06:21.249-03:00","updated":"2025-01-10T17:28:25.150-03:00","dg-publish":true,"permalink":"/diagnosis/energy-crisis/","dgPassFrontmatter":true}
+{"created in":"2024-07-24T05:06:21-03:00","last tended to":"2024-10-11T18:03:12-03:00","tags":["metacrisis","topic","infrastructure","🌱"],"notestage":["🌱"],"relevancescore":97,"created":"2024-07-24T05:06:21.249-03:00","updated":"2025-04-06T11:58:47.148-03:00","dg-publish":true,"readinesslevel":"10%","permalink":"/diagnosis/energy-crisis/","dgPassFrontmatter":true}
 ---
 
 best introduction to the topic: [A Systems Approach Towards a (More) Sustainable Future: An Invitation to Academia](https://www.youtube.com/watch?v=bE7Bbnvf4ko&list=PLj8H7uBaUwDvd18QrEPugPMD5Z6Y0W-vB&index=10) - by [[nate hagens\|nate hagens]]. see: [[concepts/design/the great simplification\|the great simplification]] for context.

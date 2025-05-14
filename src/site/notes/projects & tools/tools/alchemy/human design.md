@@ -8,7 +8,7 @@ a spiritual/self-knowledge tool that draws from the [[i-ching\|i-ching]], [[astr
 
 ##### why it might be relevant, before showing a few examples
 
-although i'm unsure about the value of the tool (since it goes into very wild territories), in terms of its design, human design provides a level of granularity of self-understanding/management that we don't often find in [[modern culture\|modern culture]]. this level of analysis can be very useful in the context of [[_004_L1F3/core concepts/life management\|life management]]/[[_004_L1F3/core concepts/self-management\|self-management]].
+although i'm unsure about the value of the tool (since it goes into very wild territories), in terms of its design, human design provides a level of granularity of self-understanding/management that we don't often find in [[modern culture\|modern culture]]. this level of analysis can be very useful in the context of [[_003_L1F3/core concepts/life management\|life management]]/[[_003_L1F3/core concepts/self-management\|self-management]].
 
 even deep [[topics/lab/quantified self\|quantified self]] setups don't have such broadness and depth of measuring/working with layers of [[inspiration\|inspiration]], [[ideas\|ideas]], [[terms/communication\|communication]], [[love\|love]], [[direction\|direction]], [[motivation\|motivation]], [[emotions\|emotions]], [[instinct\|instinct]], [[desires\|desires]] and [[pressure\|pressure]] - breaking down each of them into "understandable"/"measurable" units and practical directions that can orient one's [[_001_MOCs/075 🔴🟠🟡 short game/097 💭 thoughts MOC\|thoughts]]/[[_001_MOCs/075 🔴🟠🟡 short game/100 💪🏻 actions MOC\|actions]].
 

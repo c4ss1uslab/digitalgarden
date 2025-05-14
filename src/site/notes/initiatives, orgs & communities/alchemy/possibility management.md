@@ -17,7 +17,7 @@ i recommend at least checking it out, but *only if/when you're coming from a gro
 
 while i believe it's a valuable experience to sign up for a few of their trainings/sessions, i don't fully endorse it because (from my experience) it can be a money hole that leads you to plunge into infinite healing, without helping you address other aspects of your life that might be leading to you being in that situation in the first place.
 
-even though i resonate with a lot of their purpose and insights, i find them often (ironically, since they talk so much about [[radical responsibility\|radical responsibility]]) lacking in responsibility with handling people's [[areas/life areas (internal)/emotional\|emotional]]/[[topics/alchemy/trauma healing\|traumatic]] processes and in [[concepts/alchemy/epistemology\|epistemic]] humility.
+even though i resonate with a lot of their purpose and insights, i find them often (ironically, since they talk so much about [[radical responsibility\|radical responsibility]]) lacking in responsibility with handling people's [[life management/life areas (internal)/emotional\|emotional]]/[[topics/alchemy/trauma healing\|traumatic]] processes and in [[concepts/alchemy/epistemology\|epistemic]] humility.
 
 on the first point, they're often asking people to hold space for other's emotional healing processes (such as in the [[ETB\|ETB]]) with minimal instructions/training, in a high-pressure environment (even though they call it a "safe space") and not much support for integration afterwards, which can just perpetuate the trauma further.
 

@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-10-03T16:43:48-03:00","last tended to":"2024-10-12T18:13:42-03:00","tags":["fellowship","review","self-knowledge","systemschange","🌿"],"dg-publish":true,"notestage":["🌿"],"aliases":["roote fellowship"],"created":"2023-10-03T16:43:48.690-03:00","updated":"2025-01-22T15:26:43.909-03:00","permalink":"/010-notes-from-courses-events-and-chats/2023-10-roote-fellowship-notes/","dgPassFrontmatter":true}
+{"created in":"2023-10-03T16:43:48-03:00","last tended to":"2024-10-12T18:13:42-03:00","tags":["fellowship","review","self-knowledge","systemschange","🌿"],"dg-publish":true,"notestage":["🌿"],"aliases":["roote fellowship"],"created":"2023-10-03T16:43:48.690-03:00","updated":"2025-04-05T14:55:04.846-03:00","permalink":"/010-notes-from-courses-events-and-chats/2023-10-roote-fellowship-notes/","dgPassFrontmatter":true}
 ---
 
 "roote helps you clarify root-level systems to help humanity find our route. the fellowship is designed to bring ambitious frontier people together to connect and accelerate them on their path to impact on the wisdom age."
@@ -8,13 +8,13 @@ about: https://www.roote.co/fellowship
 
 i participated in it during oct-nov 2023. i give it a 6/10 rating.
 
-[the wisdom age](https://www.roote.co/wisdom-age) is a fantastic [[topics/design/research\|research]]-synthesizing essay by them that made me want to engage deeper with [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/sub-missions list/disruptive life OS v. 1.0/disruptive os breakdown/personal ecosystems creation/intrapersonal management/learning-education resources/alternative education companies database/roote\|roote]]. in 2022-23, they also were prototyping [[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social (ex-tweetscape)]], a very interesting tool for intentionally using [[projects & tools/tools/lab/twitter\|twitter]] for [[topics/design/research\|research]] and [[concepts/alchemy/sensemaking\|sensemaking]].
+[the wisdom age](https://www.roote.co/wisdom-age) is a fantastic [[_003_research/research\|_003_research/research]]-synthesizing essay by them that made me want to engage deeper with [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/sub-missions list/disruptive life OS v. 1.0/disruptive os breakdown/personal ecosystems creation/intrapersonal management/learning-education resources/alternative education companies database/roote\|roote]]. in 2022-23, they also were prototyping [[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social (ex-tweetscape)]], a very interesting tool for intentionally using [[projects & tools/tools/lab/twitter\|twitter]] for [[_003_research/research\|_003_research/research]] and [[concepts/alchemy/sensemaking\|sensemaking]].
 
-i hoped the fellowship would go deeper into subjects such as the [[concepts/design/metacrisis\|metacrisis]], [[concepts/design/complex systems\|complex systems]], [[responses/alchemy/metamodernism\|metamodernism]] and discuss [[approaches\|approaches]]/propose [[tbprocessed/notion/c4ss1us.NOW/experiments\|experiments]] as a [[community of practice\|community of practice]].
+i hoped the fellowship would go deeper into subjects such as the [[concepts/design/metacrisis\|metacrisis]], [[concepts/design/complex systems\|complex systems]], [[responses/alchemy/metamodernism\|metamodernism]] and discuss [[approaches\|approaches]]/propose [[tbprocessed/AI-generated/experiments\|experiments]] as a [[community of practice\|community of practice]].
 
 in practice, i found it to be more oriented towards helping young people interested in [[social impact\|social impact]] and [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/industries master list/self-development\|self-development]] find their way in life/work. something like [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/content master list/moving up\|moving up]] and [[initiatives, orgs & communities/player/praxis\|praxis]] did for me back in 2016/17. the fellowship didn't go deep into these profound [[concepts/alchemy/sensemaking\|sensemaking]] topics i hoped for and i found [[people/references/architect;design/rhys lindmark\|rhys]]' perspectives often aligned with the [[effective accelerationism\|effective accelerationist]] meme, which disappointed me.
 
-regardless of that, rhys is super generous, supportive, high-energy and a great writer. i find his articles great reminders/clear orientation devices on [[_004_L1F3/core concepts/life design\|life design]] and [[topics/design/intentional tech\|intentional tech]]. most of the gold is available for free on [speedrunner's canon](https://www.roote.co/canon), i recommend going over it if you're in need of some guidance/principles/heuristics/order in your life.
+regardless of that, rhys is super generous, supportive, high-energy and a great writer. i find his articles great reminders/clear orientation devices on [[_003_L1F3/core concepts/life design\|life design]] and [[topics/design/intentional tech\|intentional tech]]. most of the gold is available for free on [speedrunner's canon](https://www.roote.co/canon), i recommend going over it if you're in need of some guidance/principles/heuristics/order in your life.
 
 also, feel free to explore any topics of interest in his posts, i've read a bunch and they're often great - https://www.rhyslindmark.com/all-posts/.
 
@@ -130,7 +130,7 @@ heuristics:
 (simplify / how to operationalize based on the impact you wanna have)
 
 if i need to choose 1 thing, it's L1F3.
-launching l1f3 stream (as a community/ecosystem). mostly embodying the [[_002_toolkit/classes/architect\|architect]] archetype.
+launching l1f3 stream (as a community/ecosystem). mostly embodying the [[_004_toolkit/classes/architect\|architect]] archetype.
 
 why L1F3: orienting ourselves towards developing both micro and macro-scale coordination/gameplay systems.
 
@@ -212,7 +212,7 @@ for the past 4 years, i've been designing and living my life through the framewo
 - findings & projects (OS → player system)
 - experiments/prototypes
 
-ps: this presentation format/structure comes from the [[_004_L1F3/l1f3 management ontology\|l1f3 management ontology]], an open-source, decentralized and modular approach to creating more conscious, effective, fun, fulfilling and collaborative realities & lifestyles.
+ps: this presentation format/structure comes from the [[_003_L1F3/l1f3 management ontology\|l1f3 management ontology]], an open-source, decentralized and modular approach to creating more conscious, effective, fun, fulfilling and collaborative realities & lifestyles.
 
 ###### narrative view:
 - [ ] 🌿 [[before you read: important context, disclaimers and clarity to keep in mind\|before you read: important context, disclaimers and clarity to keep in mind]]

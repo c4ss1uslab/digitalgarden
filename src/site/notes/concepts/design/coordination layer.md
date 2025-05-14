@@ -1,5 +1,5 @@
 ---
-{"created":"2024-11-29T21:47:41.901-03:00","updated":"2025-01-24T16:14:05.202-03:00","tags":["concept","design","🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/concepts/design/coordination-layer/","dgPassFrontmatter":true}
+{"created":"2024-11-29T21:47:41.901-03:00","updated":"2025-04-05T14:55:05.051-03:00","tags":["concept","design","🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/concepts/design/coordination-layer/","dgPassFrontmatter":true}
 ---
 
 a coordination layer for the web:
@@ -31,4 +31,4 @@ initiatives on the [[data\|data]]/[[sensing\|sensing]] side:
 [[projects & tools/tools/lab/DXOS\|DXOS]]
 (...)
 
-key related concepts: [[topics/design/research\|research]], [[topics/design/curation\|curation]], [[concepts/alchemy/sensemaking\|sensemaking]]
+key related concepts: [[_003_research/research\|_003_research/research]], [[topics/design/curation\|curation]], [[concepts/alchemy/sensemaking\|sensemaking]]

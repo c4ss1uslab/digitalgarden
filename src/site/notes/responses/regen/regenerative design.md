@@ -1,5 +1,5 @@
 ---
-{"created in":"2021-12-11T16:52:07-03:00","last tended to":"2024-10-25T13:38:08-03:00","tags":["regen","design","response","framework","🌱"],"relevancescore":96,"notestage":["🌱"],"aliases":["regenerative"],"created":"2021-12-11T16:52:07.327-03:00","updated":"2025-04-02T23:03:18.953-03:00","dg-publish":true,"permalink":"/responses/regen/regenerative-design/","dgPassFrontmatter":true}
+{"created in":"2021-12-11T16:52:07-03:00","last tended to":"2024-10-25T13:38:08-03:00","tags":["regen","design","response","framework","🌱"],"relevancescore":97,"notestage":["🌱"],"aliases":["regenerative"],"created":"2021-12-11T16:52:07.327-03:00","updated":"2025-04-06T11:38:58.512-03:00","dg-publish":true,"readinesslevel":"15%","permalink":"/responses/regen/regenerative-design/","dgPassFrontmatter":true}
 ---
 
 a good intro: https://ernesto-87727.medium.com/regenerative-design-and-development-d066d2419b82

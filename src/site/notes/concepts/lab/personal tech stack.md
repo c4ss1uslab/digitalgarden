@@ -1,8 +1,8 @@
 ---
-{"created in":"2024-04-01T18:55:58-03:00","last tended to":"2024-10-06T02:50:36-03:00","aliases":["personal tech stacks"],"tags":["concept","design","lab","alchemy","art","player","🌿","tier1","response"],"notestage":["🌿"],"dg-publish":true,"relevancescore":94,"created":"2024-04-01T18:55:58.519-03:00","updated":"2025-01-22T16:07:43.486-03:00","permalink":"/concepts/lab/personal-tech-stack/","dgPassFrontmatter":true}
+{"created in":"2024-04-01T18:55:58-03:00","last tended to":"2024-10-06T02:50:36-03:00","aliases":["personal tech stacks"],"tags":["concept","design","lab","alchemy","art","player","🌿","tier1","response"],"notestage":["🌿"],"dg-publish":true,"relevancescore":94,"created":"2024-04-01T18:55:58.519-03:00","updated":"2025-05-04T19:34:44.712-03:00","permalink":"/concepts/lab/personal-tech-stack/","dgPassFrontmatter":true}
 ---
 
-see also: [[_004_L1F3/core concepts/life design\|life design]], my attempt at a [[experiments/made by me/lab/minimum viable intentional personal tech stack;setup\|minimum viable intentional personal tech stack;setup]].
+see also: [[_003_L1F3/core concepts/life design\|life design]], my attempt at a [[experiments/made by me/lab/minimum viable intentional personal tech stack;setup\|minimum viable intentional personal tech stack;setup]].
 
 ---
 #### about
@@ -60,6 +60,8 @@ for a deeper exploration into both of these, see:
 - [[note-taking apps\|note-taking apps]]
 	+ [[plugins\|plugins]]
 - [[drawing/diagramming\|drawing/diagramming]] apps
+- visualization software:
+	- [[manim\|manim]], [[motion canvas\|motion canvas]], [[remotion\|remotion]], [[animotion\|animotion]]
 - [[self-tracking\|self-tracking]] tools
 - other tools for:
 	- communication, learning, sensemaking, publishing, processing, scraping, etc...
@@ -72,11 +74,19 @@ for a deeper exploration into both of these, see:
 at some point, i'd like to tag these with metadata - their ecological footprint (both what was necessary for building it and for continuing to use it), and for software - their size and usage data (included in [[topics/lab/quantified self\|quantified self]] tracking).
 
 ---
-
 ##### other valuable reflections
 
 at which level does each tool operate?
 
 [[data\|data]] -> [[terms/information\|information]] -> [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/project-mission category/knowledge\|knowledge]] -> [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/industries master list/creativity\|creativity]] -> [[concepts/alchemy/wisdom\|wisdom]] (content layers)
 
-— other useful frames/breakdowns: [[terms/action\|action]], [[_002_toolkit/008 🕹 decision hub\|decision]], [[thoughts\|thoughts]], [[plans\|plans]], [[strategies\|strategies]]...
+— other useful frames/breakdowns: [[terms/action\|action]], [[_004_toolkit/008 🕹 decision hub\|decision]], [[thoughts\|thoughts]], [[plans\|plans]], [[strategies\|strategies]]...
+
+------
+##### references
+
+- **hardware:** [[fairphone\|fairphone]]    
+- **software:** feedly, thunderbird, rescuetime, activitywatch, tutanota, protonmail, rainmeter, [[projects & tools/tools/lab/desklet\|desklet]], keepass, revo uninstaller, sharex, [[projects & tools/tools/lab/everything\|everything]], [[chris titus' windows tool\|chris titus' windows tool]], bulk crap uninstaller, wintoys, autohotkey, zoomit, msi afterburner, keyviz, fxsound, ardour, digikam
+- **browsers:** brave, arc, zen browser, stack next, kosmik.
+- **browser extensions:** watch on odysee, twemex, tweetbase, waldo, omnivore, save to notion.
+- **mobile:** [[f-droid\|f-droid]], [[aurora store\|aurora store]].

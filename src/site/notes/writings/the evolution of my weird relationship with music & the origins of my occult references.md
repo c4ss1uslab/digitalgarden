@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-09-03T14:13:57-03:00","last tended to":"2024-10-13T01:35:30-03:00","tags":["personal","storytelling","essay","music","self-knowledge","🌿"],"dg-publish":true,"notestage":["🌿"],"permalink":"/writings/the-evolution-of-my-weird-relationship-with-music-and-the-origins-of-my-occult-references/","dgPassFrontmatter":true,"created":"2024-09-03T14:13:57.922-03:00","updated":"2024-10-13T01:35:30.101-03:00"}
+{"created in":"2024-09-03T14:13:57-03:00","last tended to":"2024-10-13T01:35:30-03:00","tags":["personal","storytelling","essay","music","self-knowledge","🌿"],"dg-publish":true,"notestage":["🌿"],"created":"2024-09-03T14:13:57.922-03:00","updated":"2025-04-08T14:27:49.960-03:00","permalink":"/writings/the-evolution-of-my-weird-relationship-with-music-and-the-origins-of-my-occult-references/","dgPassFrontmatter":true}
 ---
 
 written in: july 10th, 2024
@@ -64,7 +64,7 @@ and then two *major* things happened. 1) i discovered [[references/music/artists
 
 first, it was [[references/music/artists/dakhabrakha\|dakhabrakha]]. this was 2020. while listening to quite some indie/folk/traditional asian music, thanks to youtube again, i was recommended one of their live performances. it was instant love.
 
-i had never heard of the term "[[topics/art/world music\|world music]]" (though i was listening to some of it), and much less heard of it interpreted through the lens of ukrainian "ethno-chaos". a few of their songs may sound/look at first look like some common neo-folk with some quirks/drops of unexpectedness here and there that make it "fun", but if you listen to it, really, openly and attentively, especially their more unconventional songs, i'm convinced there's some ancestral, mushroomy alchemy there.
+at that point, i had never heard of the term "[[topics/art/world music\|world music]]" (though i was listening to some of it), it was all "folk". but when searching for it, it often got confused with country. it was a mess. now, if world music was new, what to expect of it interpreted through the lens of ukrainian "ethno-chaos"? a few of their songs may sound/look at first like some common neo-folk with some quirks/drops of unexpectedness here and there that make it "fun", but if you listen to it, really, openly and attentively, especially their more unconventional songs, i'm convinced there's some ancestral, mushroomy, psychedelic alchemy there.
 { #f14a3a}
 
 

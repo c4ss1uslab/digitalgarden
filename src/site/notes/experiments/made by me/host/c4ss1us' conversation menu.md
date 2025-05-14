@@ -4,4 +4,4 @@
 
 https://bit.ly/c4ss1us-conversation-menu
 
-inspired by: [an effective altruism practice](https://docs.google.com/document/d/1uZ_OaIM9ABvALtTfNSCSx6vP1bK39iOP7Vko1i3X4Ro/edit), [[references/player/games/serious games/connection card games\|connection card games]], and the [[_004_L1F3/l1f3 management ontology\|L1F3 management framework]].
+inspired by: [an effective altruism practice](https://docs.google.com/document/d/1uZ_OaIM9ABvALtTfNSCSx6vP1bK39iOP7Vko1i3X4Ro/edit), [[references/player/games/serious games/connection card games\|connection card games]], and the [[_003_L1F3/l1f3 management ontology\|L1F3 management framework]].

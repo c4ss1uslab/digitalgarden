@@ -1,5 +1,5 @@
 ---
-{"created":"2024-06-06T15:34:54.808-03:00","updated":"2025-01-24T16:45:01.628-03:00","aliases":["recommender system"],"tags":["topic","lab","AI","🌱","response"],"relevancescore":94,"notestage":["🌱"],"dg-publish":true,"permalink":"/responses/lab/recommender-systems/","dgPassFrontmatter":true}
+{"created":"2024-06-06T15:34:54.808-03:00","updated":"2025-05-04T19:40:00.015-03:00","aliases":["recommender system"],"tags":["topic","lab","AI","🌱","response"],"relevancescore":94,"notestage":["🌱"],"dg-publish":true,"permalink":"/responses/lab/recommender-systems/","dgPassFrontmatter":true}
 ---
 
 ##### related projects:
@@ -27,5 +27,11 @@ i'm following the developments of a few projects in adjacent spaces, to see how/
 (...)
 
 ---
+##### references
+
+https://github.com/grahamjenson/list_of_recommender_systems
+[[gorse\|gorse]]
+[[lightFM\|lightFM]]
 
 related: [[responses/design/personal algorithms design\|personal algorithms design]]
+

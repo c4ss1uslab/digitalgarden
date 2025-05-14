@@ -6,7 +6,7 @@ https://gordonbrander.com/, founder of [[projects & tools/projects/lab/subconsci
 
 an incredibly deep thinker, researcher, writer and builder - one of my favorite human beings working in [[topics/design/technology\|tech]], designing [[responses/design/protocols for thought\|protocols for thought]], i.e. open-source tools for [thinking together](https://subconscious.substack.com/p/thinking-together), [[topics/design/coordination systems\|coordination systems]]/[[terms/collaboration\|collaboration]], at the intersection of [[responses/lab/tools for thought\|tools for thought]], [[topics/lab/artificial intelligence\|AI]], [[concepts/design/extended cognition\|extended cognition]], [[topics/lab/cybernetics\|cybernetics]] and more.
 
-you'll definitely see me refer to a lot to him if you're exploring any of my [[_001_MOCs/050 🟩 mid game/070 🔩 prototypes MOC\|prototypes]] and [[designs\|designs]] of the [[_004_L1F3/L1F3 support systems\|L1F3 support systems]] and intentional [[responses/lab/personal OS design\|personal OS]].
+you'll definitely see me refer to a lot to him if you're exploring any of my [[_001_MOCs/050 🟩 mid game/070 🔩 prototypes MOC\|prototypes]] and [[tbprocessed/AI-generated/designs\|designs]] of the [[_003_L1F3/L1F3 support systems\|L1F3 support systems]] and intentional [[responses/lab/personal OS design\|personal OS]].
 
 i'm working on compiling my highlights/notes from all of his articles. it'll be up on this page sometime soon.
 

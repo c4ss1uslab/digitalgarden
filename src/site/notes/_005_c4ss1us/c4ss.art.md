@@ -1,11 +1,10 @@
 ---
-{"aliases":["👨🏻‍🎨 c4ss.art",".art","art","artist"],"created":"2023-05-31T16:51:42.380-03:00","updated":"2025-03-30T13:33:43.601-03:00","tags":["c4ss1us","art","🌱"],"notestage":["🌱"],"dg-publish":true,"relevancescore":98,"permalink":"/005-c4ss1us/c4ss-art/","dgPassFrontmatter":true}
+{"aliases":["👨🏻‍🎨 c4ss.art",".art","art","artist"],"created":"2023-05-31T16:51:42.380-03:00","updated":"2025-04-06T12:01:55.182-03:00","tags":["c4ss1us","art","🌱"],"notestage":["🌱"],"dg-publish":true,"relevancescore":98,"readinesslevel":"30%","permalink":"/005-c4ss1us/c4ss-art/","dgPassFrontmatter":true}
 ---
 
 **see also:** [c4ss.art mmm.page (visual overview)](https://c4ss1us.mmm.page/art)
 
-the artist is one of the key [[_002_toolkit/classes/archetypes MOC\|archetypes MOC]]
-
+---
 #### art beyond the artsy
 
 [[tbprocessed/base notes/concepts - general/art\|art]], amongst many things, is a way to connect with our higher aspirations. it's a mirror that both reflects life and society, but also possibilities and ideals different from the present ones. it's a bridge between the possible and the actual, and it provides a way to [[terms/creation\|create]] from a deeper place of [[terms/connection\|connection]] and [[recognition\|recognition]] - of who we are, where we are, and how we might contribute to it.
@@ -22,7 +21,7 @@ i'm therefore especially interested in [[story\|stories]], [[visuals\|visuals]],
 
 [[tbprocessed/base notes/concepts - general/art\|art]] is revolutionary as in 1) it empowers us to see ourselves as [[creators\|creators]], and act from that place - and 2) it can provide direct responses to the many [[diagnosis/intimacy crisis\|intimacy]], [[diagnosis/meaning crisis\|meaning]], and [[diagnosis/existential crisis\|existential crises]] we're going through.
 
-what i share below are some of my key themes of [[topics/design/research\|research]], [[topics/player/learning\|learning]] and [[topics/design/curation\|curation]], that have both helped me in my journey so far and that i want to further dive into, so as to develop capacity to a) create such beauty and b) support others who might be struggling on this path.
+what i share below are some of my key themes of [[_003_research/research\|research]], [[topics/player/learning\|learning]] and [[topics/design/curation\|curation]], that have both helped me in my journey so far and that i want to further dive into, so as to develop capacity to a) create such beauty and b) support others who might be struggling on this path.
 
 ---
 
