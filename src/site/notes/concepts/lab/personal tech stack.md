@@ -89,4 +89,4 @@ at which level does each tool operate?
 - **software:** feedly, thunderbird, rescuetime, activitywatch, tutanota, protonmail, rainmeter, [[projects & tools/tools/lab/desklet\|desklet]], keepass, revo uninstaller, sharex, [[projects & tools/tools/lab/everything\|everything]], [[chris titus' windows tool\|chris titus' windows tool]], bulk crap uninstaller, wintoys, autohotkey, zoomit, msi afterburner, keyviz, fxsound, ardour, digikam
 - **browsers:** brave, arc, zen browser, stack next, kosmik.
 - **browser extensions:** watch on odysee, twemex, tweetbase, waldo, omnivore, save to notion.
-- **mobile:** [[f-droid\|f-droid]], [[aurora store\|aurora store]].
+- **mobile:** [[projects & tools/tools/lab/f-droid\|f-droid]], [[aurora store\|aurora store]].

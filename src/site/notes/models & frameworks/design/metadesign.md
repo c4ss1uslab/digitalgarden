@@ -1,22 +1,37 @@
 ---
-{"created in":"2024-08-18T22:18:23-03:00","last tended to":"2024-08-28T14:46:40-03:00","tags":["framework","metadesign","design","🌱"],"created":"2024-08-18T22:18:23.840-03:00","updated":"2025-04-04T17:55:03.638-03:00","notestage":["🌱"],"dg-publish":true,"permalink":"/models-and-frameworks/design/metadesign/","dgPassFrontmatter":true}
+{"created in":"2024-08-18T22:18:23-03:00","last tended to":"2024-08-28T14:46:40-03:00","tags":["framework","metadesign","design","🌱"],"created":"2024-08-18T22:18:23.840-03:00","updated":"2025-05-19T14:03:49.201-03:00","notestage":["🌱"],"dg-publish":true,"permalink":"/models-and-frameworks/design/metadesign/","dgPassFrontmatter":true}
 ---
 
+```ad-tip
+title: note
+collapse: open
+the contents of the writing below are a bit complex, relying upon a previous understanding of a few information-dense words. don't be discouraged. if you aren't familiarized with a few of the terms i use, the links throughout the text expand on it more. i encourage you to read the page below, explore a few of the references i link to and come back to re-read it after some time. it should get much clearer for you.
+```
 ##### a few personal notes/reflections on it:
 
-the way i refer to metadesign and use it most often is as aiming to answer: "what are the systems at the foundation of our reality? personal, social, civilizational, metaphysical and biophysical? and how are they designed currently, based upon which values, principles and towards what ends?"
+the way i've been referring to metadesign most often is by pointing to a few fundamental questions:
 
-the practice of metadesign for me, helps to delineate, define what is - at the same time that it creates space for experiencing life fully - with no labels - and then start to realize the emergence of order amidst apparent chaos.
+> "what are the systems at the foundations of our reality? be them personal, social, civilizational, metaphysical or biophysical? and how are they currently designed, based upon which values, principles and towards what ends?"
 
-it's an attitude/system for understanding the contexts in which we live/we're embedded in, and which movements make sense from our position.
+i.e. an inquiry into what [[meta-systems\|meta-systems]] really exist and how they work.
 
-examples/applications in other references/my own work: [[relevance realization\|relevance realization]], [[latent space mapping\|latent space mapping]], [[omnimapping\|omnimapping]]...
+the practice of metadesign, in this sense - attempts to create space for experiencing life fully ([[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/general skills master list/aesthetics\|aesthetics]]) - with no pre-conceived labels ([[taxonomy\|taxonomy]]), to help us more deeply relate to, understand and define what exists ([[concepts/alchemy/ontology\|ontology]]) - at the same time that it constantly asks and creates: how can we design supportive conditions for emergence? ([[terms/cosmology\|cosmology]], in a sense, and metadesign - in practice)
+
+it's a set of systems/attitudes for relating to and understanding the contexts in which we live/we're embedded in, and which movements make the most sense from our position.
+
+[[people/references/architect;design/caio vassão\|caio vassão]] seems to be doing it in a very similar way, but seeing and tending to this an emergent academic and practical field - based on an approach and set of tools for (meta)designing complex systems. it drinks from several [[people/references/architect;design/caio vassão#^38761d\|sources]] as an attempt to build a deeply [[terms/collaboration\|collaborative]], [[topics/design/systems\|systems]]-informed yet abstract, generic approach to design.
+
+i'm still unsure about the depth and effectiveness of its impact, considering its lack of focus on [[responses/design/values-based design\|values-centered design]] and individual [[concepts/alchemy/human development\|human development]], as well as the secondary seat that [[responses/regen/regenerative design\|regenerative design]] and [[concepts/alchemy/decolonization\|decolonial theory]] take, but perhaps that's what's needed to navigate and influence institutions deeply rooted in [[concepts/design/modernity\|modern]], [[diagnosis/accumulation, extraction, abstraction\|extractivist]] paradigms.
+
+the way it has been able to penetrate culture as primarily a "facilitation method", plus a set of key ideas/tools/distinctions and drive (some) transformation in corporate and public sectors in brazil is intriguing, so i'm currently learning more about it.
+
+examples/applications of "metadesign"-thinking in other references: [[projects & tools/projects/design/OMNI-mapping project\|omni-mapping]] ([[initiatives, orgs & communities/design/buckminster fuller institute\|buckminster fuller institute]]), the process of [[relevance realization\|relevance realization]] (as described by [[people/references/alchemy/john vervaeke\|john vervaeke]]), [[latent space mapping\|latent space mapping]] ([[projects & tools/projects/lab/subconscious (tool)\|subconscious (tool)]]) / [[phase space of human flourishing\|phase space of human flourishing]] ([this random person on youtube](https://www.youtube.com/watch?v=AXn9ixvkICc))...
+
+examples/applications of metadesign in my own work: [[patterns/active patterns/knowledge design/relevance score\|relevance scores]] and other [[patterns/pattern collections/knowledge design patterns\|knowledge design patterns]], [[_003_L1F3/L1F3 support systems\|L1F3 support systems]] design.
 
 ##### different uses
 
 the term has different applications and methodologies, the one i'm currently learning more about (and which seems the most structured and tested from all of them) is an approach developed by [[people/references/architect;design/caio vassão\|caio vassão]] for designing [[concepts/design/complex systems\|complex systems]] (in portuguese).
-
-it drinks from several thinkers, philosophers and practitioners in order to build a [[post-colonial\|post-colonial]], [[responses/regen/regenerative design\|regenerative]] yet generic approach to design.
 
 other notable researchers/approaches are: [[john wood\|john wood]], [[gehrard fischer\|gehrard fischer]], [[people/references/architect;design/carlo franzato\|carlo franzato]].
 
@@ -45,10 +60,10 @@ metadesign's 4 core generic cognitive tools:
 ![](https://i.imgur.com/GhQN3cY.png)
 ![](https://i.imgur.com/8rLyMOj.png)
 
-the energy cycles - limitations of production for each type of energy:
+the [[diagnosis/energy crisis\|energy]] cycles - limitations of production for each type of energy:
 ![](https://i.imgur.com/u6MczPO.jpeg)
 
-a fundamentally different regenerative economy/production system:
+a fundamentally different - circular/regenerative economy/production system:
 ![](https://i.imgur.com/OtO9GQk.jpeg)
 
 emergent [[life management/life areas (internal)/archetypal\|archetypal]] socio-political roles:

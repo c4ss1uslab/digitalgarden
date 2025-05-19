@@ -7,6 +7,6 @@ see: [[_010_notes from courses, events & chats/technological metamodernism\|tech
 1) [[common cause foundation\|common cause foundation]]'s [values map](https://commoncausefoundation.org/_resources/the-values-map/)
 2) [[initiatives, orgs & communities/design/meaning alignment institute\|meaning alignment institute]]'s [moral graphs](https://www.youtube.com/watch?v=bC2pQ78o754) and [[responses/design/values-based design\|values-and-meaning based design]]
 3) [[david j. temple\|david j. temple]]'s [[references/alchemy/first principles and first values\|first principles and first values]]
-4) [[initiatives, orgs & communities/design/the consilience project\|consilience project]]'s [[axiological design\|axiological design]]
+4) [[initiatives, orgs & communities/design/the consilience project\|consilience project]]'s [[responses/design/axiological design\|axiological design]]
 
 also very important to contrast with: [[concepts/alchemy/needs\|needs]]

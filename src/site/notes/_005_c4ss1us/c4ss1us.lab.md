@@ -25,7 +25,7 @@ and oh dear, that question has been sending me down into ever-deeper rabbit hole
 
 with the rate of technological progress, i didn't know what the world could look like in 5-10 years, much less who i'd become after that time. instead of trying to figure out exactly where i wanted to be and plan for an unknowable (though [[topics/design/futures studies\|foreseeable]]) future, i simply chose to try to become good at [[topics/player/learning\|learning]] itself - so i could be adaptable and learn anything whenever it was necessary.
 
-there's tons to learn on the subject of [[meta-learning\|meta-learning]], that go beyond just *[[learning how to learn\|learning how to learn]].* it involved questioning *[[what to learn\|what to learn]]*. figuring out *[[inquiries & heuristics/what technology is actually worth building\|what is actually worth doing]]*. it gets very philosophical very quickly.
+there's tons to learn on the subject of [[topics/player/meta-learning\|meta-learning]], that go beyond just *[[learning how to learn\|learning how to learn]].* it involved questioning *[[what to learn\|what to learn]]*. figuring out *[[inquiries & heuristics/what technology is actually worth building\|what is actually worth doing]]*. it gets very philosophical very quickly.
 
 plus, during my brief period learning the basics of programming, i saw that even though there's some creativity to it, there's also a lot of rule-following in programming. a 15-year-old opinion is not much to base any conclusions on, but it seemed really obvious that we'd soon figure out a way to automate much of this process (turns out we did - hello [[topics/lab/large language models\|LLMs]] 🙃).
 

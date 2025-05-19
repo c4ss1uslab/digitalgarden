@@ -56,7 +56,7 @@ there are big challenges with all kinds of [[renewable energy\|renewable energy]
 > 
 > [[ethics\|ethics]] - the pursuit of self-interest, market growth and economic maximization is the goal of individuals and society.
 > 
-> [[cosmology\|cosmology]] - humans are entitled to extract and conquer the natural world and other beings.
+> [[terms/cosmology\|cosmology]] - humans are entitled to extract and conquer the natural world and other beings.
 > 
 > [[topics/alchemy/metaphysics\|metaphysics]] - humans are distinctly separate from the natural and special.
 > 
