@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-01-19T16:20:09-03:00","last tended to":"2024-09-29T15:28:32-03:00","aliases":["world peace game","great logistics game","world (peace) game"],"tags":["seriousgame","education","architect","🌿","player"],"dg-publish":true,"relevancescore":96,"notestage":["🌿"],"created":"2024-01-19T16:20:09.956-03:00","updated":"2025-01-24T17:54:18.791-03:00","permalink":"/projects-and-tools/projects/player/world-game/","dgPassFrontmatter":true}
+{"created in":"2024-01-19T16:20:09-03:00","last tended to":"2024-09-29T15:28:32-03:00","aliases":["world peace game","great logistics game","world (peace) game"],"tags":["seriousgame","education","architect","🌿","player"],"dg-publish":true,"relevancescore":96,"notestage":["🌿"],"created":"2024-01-19T16:20:09.956-03:00","updated":"2025-05-26T17:05:30.610-03:00","permalink":"/projects-and-tools/projects/player/world-game/","dgPassFrontmatter":true}
 ---
 
 the world game was proposed by [[initiatives, orgs & communities/design/buckminster fuller institute\|buckminster fuller institute]] in the 1960s, aiming to:
@@ -13,6 +13,8 @@ short intros:
 --> https://worldgameworkshop.org/brief-history
 
 it is currently being stewarded by the [[initiatives, orgs & communities/regen/schumacher center for a new economics\|schumacher center for a new economics]].
+
+it was both a workshop (finite game, [[concepts/design/magic circle\|magic circle]], a "play session") and an infinite game towards that objective, making it something extended and continually fed/played/integrated into people's lives via [[os.earth\|os.earth]].
 
 ---
 ##### core links:

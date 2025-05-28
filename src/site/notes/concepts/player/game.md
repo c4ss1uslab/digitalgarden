@@ -1,5 +1,5 @@
 ---
-{"aliases":["games"],"created in":"2022-02-27T14:27:13-03:00","last tended to":"2024-09-24T16:25:20-03:00","tags":["player","concept","🌱"],"dg-publish":true,"notestage":["🌱"],"created":"2022-02-27T14:27:13.500-03:00","updated":"2025-04-06T12:03:54.468-03:00","readinesslevel":"25%","permalink":"/concepts/player/game/","dgPassFrontmatter":true}
+{"aliases":["games"],"created in":"2022-02-27T14:27:13-03:00","last tended to":"2024-09-24T16:25:20-03:00","tags":["player","concept","🌱"],"dg-publish":true,"notestage":["🌱"],"created":"2022-02-27T14:27:13.500-03:00","updated":"2025-05-26T18:03:57.656-03:00","readinesslevel":"25%","permalink":"/concepts/player/game/","dgPassFrontmatter":true}
 ---
 
 when i'm talking about games, i'm most interested in the context of a "[[responses/player/serious games\|serious game]]". i.e. one that has a practical impact on our lives/ways of seeing the world.
@@ -19,10 +19,20 @@ or [[metagames\|metagames]] - i.e. games that create other games. i'll explore a
 
 "All games share four defining traits: a goal, rules, a feedback system, and voluntary participation." ([Jane McGonigal](https://en.wikipedia.org/wiki/Jane_McGonigal "Jane McGonigal"))
 
----
-#### use cases
+"Any game contains: the player(s), an arbiter (may be electronic) and an inventor (or more than one). It may or may not include a facilitator. Infinite games tend to have facilitators." ([[people/references/architect;design/caio vassão\|caio vassão]])
 
-[[self-discovery\|self-discovery]]/[[_003_L1F3/core concepts/self-transformation\|self-transformation]], [[topics/player/learning\|learning]]/[[capacity development\|capacity development]]/[[tbprocessed/base notes/principles;frameworks - general/skill development\|skill development]], [[self-healing\|self-healing]]/[[topics/host/community building\|community]]/[[relationship development\|relationship building]], [[strategy development\|strategy development]]/[[co-creation\|co-creation]], [[terms/fun\|fun]].
+---
+#### use cases / 5 dimensions or "whys" of play:
+
+##### lifelong journeys ([[models & frameworks/design/four quadrants\|4-quadrant]] view)
+{ #6323a6}
+
+
+1) self-discovery/realization games ([[concepts/alchemy/waking up\|waking up]])
+2) learning/capacity development games ([[concepts/alchemy/growing up\|growing up]])
+3) self-healing/empowerment/relationship-building games ([[concepts/alchemy/cleaning up\|cleaning up]])
+4) strategy/co-creation/contribution games ([[concepts/alchemy/showing up\|showing up]])
+5) discovery/experiential games ([[concepts/alchemy/opening up\|opening up]])
 
 ---
 
@@ -81,14 +91,9 @@ other approaches:
 
 ---
 #### types of metagames
+##### a) lifelong journeys ([[models & frameworks/design/four quadrants\|4-quadrant]] view)
 
-##### a) lifelong journeys ([[models & frameworks/design/four quadrants\|4-quadrant]] view)
-
-1) self-discovery/realization games ([[concepts/alchemy/waking up\|waking up]])
-2) learning/capacity development games ([[concepts/alchemy/growing up\|growing up]])
-3) self-healing/empowerment/relationship-building games ([[concepts/alchemy/cleaning up\|cleaning up]])
-4) strategy/co-creation/contribution games ([[concepts/alchemy/showing up\|showing up]])
-5) discovery/experiential games ([[concepts/alchemy/opening up\|opening up]])
+[[concepts/player/game#^6323a6\|see above]]
 ##### b) meta-cognitive processes ([[models & frameworks/design/OODA loop\|OODA loop]])
 
 1) [[perception\|perception]]
@@ -96,7 +101,7 @@ other approaches:
 3) [[terms/decision-making\|decision-making]]
 4) [[terms/action\|action]]
 5) [[topics/player/learning\|learning]]
-##### c) life areas ([[models & frameworks/alchemy/wheel of life\|wheel of life]])
+##### b) life areas ([[models & frameworks/alchemy/wheel of life\|wheel of life]])
 
 - [[personal\|personal]]/[[topics/alchemy/spirituality\|spiritual]]
 - [[life management/health & fitness\|health & fitness]]
@@ -108,7 +113,7 @@ other approaches:
 - [[terms/fun\|fun]]/[[topics/player/play\|play]]/[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/industries master list/creativity\|creativity]]
 - [[topics/design/systems\|systems]]
 
-##### d) 4 horizons, 12 areas ([[models & frameworks/player/fourgames\|fourgames]])
+##### c) 4 horizons, 12 areas ([[models & frameworks/player/fourgames\|fourgames]])
 
 - [[concepts/alchemy/short game\|short game]]
 	- [[_001_MOCs/075 🔴🟠🟡 short game/096 💜 feelings MOC\|feelings]]
@@ -132,4 +137,4 @@ other approaches:
 (other metagames that are social in nature or can be practiced as such? -> spiritual/relational: [[resonance\|resonance]], [[attunement\|attunement]], [[logoic architecture\|logoic architecture]]. social/developmental: [[SDGs\|SDGs]], [[IDGs\|IDGs]], [[initiatives, orgs & communities/alchemy/possibility management\|possibility management]], etc)
 
 ---
-for the games i played the most as a child/adolescent: see [[topics/player/gaming\|gaming]].
+for reflections and [[patterns/pattern collections/game design patterns\|game design patterns]] from the games i played the most as a child/adolescent: see [[topics/player/gaming\|gaming]].

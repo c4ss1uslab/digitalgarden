@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-08-18T22:18:23-03:00","last tended to":"2024-08-28T14:46:40-03:00","tags":["framework","metadesign","design","🌱"],"created":"2024-08-18T22:18:23.840-03:00","updated":"2025-05-19T14:03:49.201-03:00","notestage":["🌱"],"dg-publish":true,"permalink":"/models-and-frameworks/design/metadesign/","dgPassFrontmatter":true}
+{"created in":"2024-08-18T22:18:23-03:00","last tended to":"2024-08-28T14:46:40-03:00","tags":["framework","metadesign","design","🌱"],"created":"2024-08-18T22:18:23.840-03:00","updated":"2025-05-26T16:47:36.728-03:00","notestage":["🌱"],"dg-publish":true,"permalink":"/models-and-frameworks/design/metadesign/","dgPassFrontmatter":true}
 ---
 
 ```ad-tip
@@ -21,9 +21,11 @@ it's a set of systems/attitudes for relating to and understanding the contexts i
 
 [[people/references/architect;design/caio vassão\|caio vassão]] seems to be doing it in a very similar way, but seeing and tending to this an emergent academic and practical field - based on an approach and set of tools for (meta)designing complex systems. it drinks from several [[people/references/architect;design/caio vassão#^38761d\|sources]] as an attempt to build a deeply [[terms/collaboration\|collaborative]], [[topics/design/systems\|systems]]-informed yet abstract, generic approach to design.
 
-i'm still unsure about the depth and effectiveness of its impact, considering its lack of focus on [[responses/design/values-based design\|values-centered design]] and individual [[concepts/alchemy/human development\|human development]], as well as the secondary seat that [[responses/regen/regenerative design\|regenerative design]] and [[concepts/alchemy/decolonization\|decolonial theory]] take, but perhaps that's what's needed to navigate and influence institutions deeply rooted in [[concepts/design/modernity\|modern]], [[diagnosis/accumulation, extraction, abstraction\|extractivist]] paradigms.
+it does point to some of the macro reflections that i referred to, especially through the [[models & frameworks/design/metadesign#^2adcd5\|metagame framework/application]] and in its multidisciplinary academic background via caio's lectures, 
 
-the way it has been able to penetrate culture as primarily a "facilitation method", plus a set of key ideas/tools/distinctions and drive (some) transformation in corporate and public sectors in brazil is intriguing, so i'm currently learning more about it.
+i'm still understanding its context and applicability, gauging the depth and effectiveness of its impact. it seems to lack focus on [[responses/design/values-based design\|values-centered design]] and individual [[concepts/alchemy/human development\|human development]], as well putting [[responses/regen/regenerative design\|regenerative design]] and [[concepts/alchemy/decolonization\|decolonial theory]] on secondary seat, but perhaps that's what's also needed to navigate and influence institutions deeply rooted in [[concepts/design/modernity\|modern]], [[diagnosis/accumulation, extraction, abstraction\|extractivist]] paradigms.
+
+the way it has been able to penetrate culture as primarily a "facilitation method" and a set of key ideas/tools/distinctions, driving (some) transformation in corporate and public sectors in brazil is intriguing, so i'm currently learning more about it.
 
 examples/applications of "metadesign"-thinking in other references: [[projects & tools/projects/design/OMNI-mapping project\|omni-mapping]] ([[initiatives, orgs & communities/design/buckminster fuller institute\|buckminster fuller institute]]), the process of [[relevance realization\|relevance realization]] (as described by [[people/references/alchemy/john vervaeke\|john vervaeke]]), [[latent space mapping\|latent space mapping]] ([[projects & tools/projects/lab/subconscious (tool)\|subconscious (tool)]]) / [[phase space of human flourishing\|phase space of human flourishing]] ([this random person on youtube](https://www.youtube.com/watch?v=AXn9ixvkICc))...
 
@@ -46,19 +48,30 @@ https://luissergio.notion.site/Curso-Metadesign-e-Inova-o-APROFUNDANDO-0bc0e6b00
 
 ##### my highlights & screenshots (in portuguese)
 
+*source for most of the images:* Vassão, Caio (2025) Material pedagógico para o Curso Metadesign - do básico ao avançado. in https://miro.com/app/board/uXjVIziavnc=/?share_link_id=660858256674
+
 metadesign in one image:
 ![](https://i.imgur.com/vU2zGLS.png)
 
 what kinds of "decision environments" are out there and what kinds can a metadesigner create (introductory):
 ![](https://i.imgur.com/0rqtukN.png)
 
-metadesign's 4 core generic cognitive tools:
-![](https://i.imgur.com/2ePYs3A.png)
+metadesign's 4 core generic [[cognitive tools\|cognitive tools]]:
+![](https://i.imgur.com/6tECG1T.png)
 
 [[tbprocessed/notion/projects overview/🧿 macro overview/l1f3 game/metagame\|metagame]] framework & application in politics:
-![](https://i.imgur.com/0LPh37I.png)
-![](https://i.imgur.com/GhQN3cY.png)
-![](https://i.imgur.com/8rLyMOj.png)
+
+![](https://i.imgur.com/ncY4tui.png)
+
+![](https://i.imgur.com/eDXl7us.png)
+
+![](https://i.imgur.com/aTMfeJc.png)
+
+![](https://i.imgur.com/ZOcMNB3.png)
+
+
+{ #2adcd5}
+
 
 the [[diagnosis/energy crisis\|energy]] cycles - limitations of production for each type of energy:
 ![](https://i.imgur.com/u6MczPO.jpeg)

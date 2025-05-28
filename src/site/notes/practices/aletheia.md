@@ -4,7 +4,7 @@
 
 https://integralunfoldment.com/next-generation
 
-a therapeutic/coaching practice/methodology of "[[unfoldment\|unfoldment]]" proposed by [[steve march\|steve march]], integrating wisdom from multiple [[concepts/alchemy/psychospiritual tools & practices\|psychospiritual tools & practices]] into an [[ecology of practices\|ecology of practices]]. it feels really resonant and i want to learn/experience more of it in the coming months.
+a therapeutic/coaching practice/methodology of "[[unfoldment\|unfoldment]]" proposed by [[steve march\|steve march]], integrating wisdom from multiple [[concepts/alchemy/psychospiritual tools & practices\|psychospiritual tools & practices]] into an [[concepts/alchemy/ecology of practices\|ecology of practices]]. it feels really resonant and i want to learn/experience more of it in the coming months.
 
 a great intro: https://podcasters.spotify.com/pod/show/emerge/episodes/Steve-March---An-Integrated-Ecology-of-Practice-for-the-Meta-Crisis-e1jnsno
 

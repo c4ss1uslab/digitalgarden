@@ -1,5 +1,5 @@
 ---
-{"aliases":["🗺 meta-map","wordcloud","🗾 meta-map"],"created in":"2022-01-03T19:16:10-03:00","last tended to":"2024-09-29T14:42:57-03:00","tags":["design","🌿","research","knowledgedesign","informationdesign","experiment"],"dg-publish":true,"notestage":["🌿"],"created":"2022-01-03T19:16:10.550-03:00","updated":"2025-04-05T14:55:03.777-03:00","permalink":"/004-toolkit/meta-map/","dgPassFrontmatter":true}
+{"aliases":["🗺 meta-map","wordcloud","🗾 meta-map"],"created in":"2022-01-03T19:16:10-03:00","last tended to":"2024-09-29T14:42:57-03:00","tags":["design","🌿","research","knowledgedesign","informationdesign","experiment"],"dg-publish":true,"notestage":["🌿"],"created":"2022-01-03T19:16:10.550-03:00","updated":"2025-05-26T17:32:23.993-03:00","permalink":"/004-toolkit/meta-map/","dgPassFrontmatter":true}
 ---
 
 an extensive list / experimental form of intuitive clustering of all major themes/domains and references i'm working with.
@@ -97,7 +97,7 @@ added:
 
 [[self-actualization\|self-actualization]] / [[integral unfoldment\|integral unfoldment]]
 
-[[concepts/alchemy/thriving\|thriving]] / [[flourishing\|flourishing]]
+[[concepts/alchemy/thriving\|thriving]] / [[concepts/alchemy/flourishing\|flourishing]]
 
 [[topics/design/ontological design\|ontological design]]
 
@@ -661,7 +661,7 @@ added:
 [[terms/decision-making\|decision-making]]
 [[collaboration]]
 
-[[_002_research/03 - core ideas\|03 - core ideas]]
+[[_002_research/07 - core ideas\|07 - core ideas]]
 [[insights\|insights]]
 [[concepts/lab/atomic essays\|atomic essays]]
 [[thesis\|thesis]]

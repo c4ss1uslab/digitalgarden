@@ -1,5 +1,5 @@
 ---
-{"created":"2024-10-06T02:05:40.929-03:00","updated":"2025-04-06T11:40:24.717-03:00","aliases":["theory of change"],"tags":["concept","alchemy","design","metacrisis","🌱"],"dg-publish":true,"notestage":["🌱"],"relevancescore":98,"readinesslevel":"30%","permalink":"/006-core-notes/theories-of-change/","dgPassFrontmatter":true}
+{"created":"2024-10-06T02:05:40.929-03:00","updated":"2025-05-22T09:33:32.111-03:00","aliases":["theory of change"],"tags":["concept","alchemy","design","metacrisis","🌱"],"dg-publish":true,"notestage":["🌱"],"relevancescore":98,"readinesslevel":"30%","permalink":"/006-core-notes/theories-of-change/","dgPassFrontmatter":true}
 ---
 
 relevant introduction: [2R wiki - Theories of Change](https://wiki.secondrenaissance.net/wiki/Theories_of_Change)
@@ -12,7 +12,7 @@ see: [[responses/design/second renaissance\|second renaissance]] papers/mapping 
 
 ##### what should be one's (or a society's) orientation toward change? how can we harmonize different orientations?
 
-different perspectives include: personal and collective [[concepts/alchemy/thriving\|thriving]], the [[flourishing\|flourishing]] of all beings, [[concepts/alchemy/wisdom\|wisdom]], [[concepts/alchemy/enlightenment (spirituality)\|enlightenment]], [[liberation\|liberation]], wholistic/[[concepts/alchemy/integral development\|integral development]] and more.
+different perspectives include: personal and collective [[concepts/alchemy/thriving\|thriving]], the [[concepts/alchemy/flourishing\|flourishing]] of all beings, [[concepts/alchemy/wisdom\|wisdom]], [[concepts/alchemy/enlightenment (spirituality)\|enlightenment]], [[liberation\|liberation]], wholistic/[[concepts/alchemy/integral development\|integral development]] and more.
 
 while seemingly negligible, these differences in framing can make a world of difference when it comes to prioritization.
 
@@ -27,3 +27,8 @@ while seemingly negligible, these differences in framing can make a world of dif
 the [[initiatives, orgs & communities/regen/gesturing towards decolonial futures\|GTDF collective]] also aligns with the [[ecosystems health\|ecosystems health]] perspective through practices of [[co-sensing with tenderness\|co-sensing with tenderness]] and developing [[sensefullness\|sensefullness]], with a focus on [[reparation\|reparation]], [[topics/design/regeneration\|regeneration]], and [[concepts/alchemy/decolonization\|decolonization]].
 
 some other initiatives/communities, such as the [[models & frameworks/alchemy/inner development goals\|inner development goals]] or [[initiatives, orgs & communities/design/SEEDS (ecosystem)\|SEEDS]] make more agreeable/less challenging metaphysical claims and present a few easier-to-implement intermediary steps that seem to be net-positive.
+
+---
+##### more resources:
+
+https://blog.kumu.io/how-systems-mapping-can-help-you-build-a-better-theory-of-change-4c85ae4301a8

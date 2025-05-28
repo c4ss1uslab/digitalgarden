@@ -1,8 +1,15 @@
 ---
-{"aliases":["map","maps"],"created in":"2022-04-19T15:34:21-03:00","last tended to":"2024-09-26T15:23:18-03:00","tags":["🌿","mapping","topic","response","knowledgedesign","knowledgevisualization","lab","design"],"relevancescore":94,"dg-publish":true,"notestage":["🌿"],"created":"2022-04-19T15:34:21.040-03:00","updated":"2024-11-15T14:30:45.168-03:00","permalink":"/responses/lab/mapping/","dgPassFrontmatter":true}
+{"aliases":["map","maps"],"created in":"2022-04-19T15:34:21-03:00","last tended to":"2024-09-26T15:23:18-03:00","tags":["🌿","mapping","topic","response","knowledgedesign","knowledgevisualization","lab","design"],"relevancescore":94,"dg-publish":true,"notestage":["🌿"],"created":"2022-04-19T15:34:21.040-03:00","updated":"2025-05-28T11:24:59.670-03:00","permalink":"/responses/lab/mapping/","dgPassFrontmatter":true}
 ---
 
-## 1) definitions & types of maps
+### about
+
+for a fantastic introduction to why maps or [[topographical intelligence\|topographical intelligence]] can be so valuable, see: [Wardley Maps, Chapter 1: On being lost](https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec). it's a 30-min read that packs a lot of insight.
+
+if 30 minutes is too long for you, here's only [[_009_notes & highlights from books, videos, articles/On being lost (Wardley Maps, Chapter 1)\|my highlights]] (cutting it to a 15-min read).
+
+---
+### 1) definitions & types of maps
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/models-and-frameworks/design/wardley-mapping/#according-to-wardley-mapping-any-map-contains-the-following-6-elements" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -24,13 +31,13 @@
 which is a very specific frame, and makes us realize how, according to this perspective, most of the digital maps we use/interact with aren't maps at all. they're usually [[tbprocessed/notion/c4ss1us.NOW/models/models\|models]], [[frameworks\|frameworks]], [[sketches\|sketches]] or [[illustrations\|illustrations]].
 
 yet, many people refer to them as maps, so i'll propose a different, more loose classification of maps taking into account other people's curation of popular maps as well:
-### types of maps:
+#### types of maps:
 
-#### 1) [[models & frameworks/design/wardley mapping\|wardley maps]]
+##### 1) [[models & frameworks/design/wardley mapping\|wardley maps]]
 
 ![example wardley map - annotated.png|500](/img/user/images/maps/example%20wardley%20map%20-%20annotated.png)
 
-#### 2) [[tang jeff\|tang jeff]]'s classification on twitter:
+##### 2) [[tang jeff\|tang jeff]]'s classification on twitter:
 
 [![tang jeff's map classification.png](/img/user/images/maps/tang%20jeff's%20map%20classification.png)](https://twitter.com/tangjeff0/status/1274871473392496641)
 
@@ -55,7 +62,7 @@ ribbonfarm/wardley maps are "types" of map based on their style/format, which is
 
 idea mazes / field maps are also on the format side, but regardless of their creator.
 
-#### 3) [[nadia asparouhova\|nadia asparouhova]]'s classification at [[tbprocessed/base notes/ventures - general/the stoa\|the stoa]]:
+##### 3) [[nadia asparouhova\|nadia asparouhova]]'s classification at [[tbprocessed/base notes/ventures - general/the stoa\|the stoa]]:
 
 source: https://nadia.xyz/mapping-digital-worlds / https://www.youtube.com/watch?v=jvAyJImbEeA
 
@@ -78,10 +85,10 @@ d) [[chinese menu maps\|chinese menu maps]]
 e) [[word cloud maps\|word cloud maps]]
 ![5 - word cloud maps.png|500](/img/user/images/maps/5%20-%20word%20cloud%20maps.png)
 
-f) [[type of guy maps\|type of guy maps]]
+f) type of guy maps ([[memes\|memes]])
 ![6 - type of guy maps.png|500](/img/user/images/maps/6%20-%20type%20of%20guy%20maps.png)
 
-#### 4) lastly, other types of common maps:
+##### 4) lastly, other types of common maps:
 
 a) [[ecosystem maps\|ecosystem maps]]:
 
@@ -98,10 +105,10 @@ b) [[concept maps\|concept maps]] (a.k.a. [[topics/alchemy/mental models\|mental
 
 c) [[general knowledge maps\|general knowledge maps]] / [[relationship maps\|relationship maps]]:
 
-![xiq - knowledge map.png|500](/img/user/images/maps/xiq%20-%20knowledge%20map.png)
+![xiq - knowledge map.png](/img/user/images/maps/xiq%20-%20knowledge%20map.png)
 
 ---
-## 2) other interesting perspectives on mapping:
+### 2) other interesting perspectives on mapping:
 
 - [[aaron z lewis\|aaron z lewis]] on twitter:
 
@@ -114,7 +121,7 @@ c) [[general knowledge maps\|general knowledge maps]] / [[relationship maps\|rel
 ⚠ i'm still missing: good curation on [[topics/design/network science\|network science]] + good examples/applications.
 
 ---
-## 3) great examples of maps of specific subjects
+### 3) great examples of maps of specific subjects
 
 ##### a)
 
@@ -166,7 +173,6 @@ my twitter lists on:
 </div></div>
 
 
----
 #### b) topic maps
 
 **economics maps**:

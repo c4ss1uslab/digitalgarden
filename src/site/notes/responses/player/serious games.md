@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-04-01T18:28:03-03:00","last tended to":"2024-07-19T23:00:02-03:00","tags":["topic","player","design","architect","gamedesign","seriousgame","🌱","response"],"created":"2024-04-01T18:28:03.824-03:00","updated":"2025-04-05T14:26:41.269-03:00","dg-publish":true,"notestage":["🌱"],"relevancescore":96,"permalink":"/responses/player/serious-games/","dgPassFrontmatter":true}
+{"created in":"2024-04-01T18:28:03-03:00","last tended to":"2024-07-19T23:00:02-03:00","tags":["topic","player","design","architect","gamedesign","seriousgame","🌱","response"],"created":"2024-04-01T18:28:03.824-03:00","updated":"2025-05-26T16:58:05.022-03:00","dg-publish":true,"notestage":["🌱"],"relevancescore":96,"permalink":"/responses/player/serious-games/","dgPassFrontmatter":true}
 ---
 
 #### my main references:
@@ -29,3 +29,10 @@ other learning games:
 
 [[topics/player/card games\|card games]]
 [[topics/player/board games\|board games]]
+
+---
+#### more refs
+
+https://www.theinspiracy.com/
+https://seriousplayconf.com/
+lower signal/tangentially related: my twitter list on [gamification/game design](https://x.com/i/lists/1340659088150192129)
