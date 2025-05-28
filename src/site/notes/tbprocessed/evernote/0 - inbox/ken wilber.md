@@ -1,5 +1,5 @@
 ---
-{"aliases":["🕹 l1f3 game","life game","🕹 life game","massively-multiplayer online-and-offline collaborative self-transformation & civilization-building game","L1F3.GAME","l1f3.game","🕹 L1F3.game","🕹 L1F3 game","🕹 L1F3.GAME","L1F3 game","L1F3.game"],"created in":"2022-02-05T11:41:05-03:00","last tended to":"2024-09-29T14:37:10-03:00","tags":["l1f3","project","🌿","game","seriousgame","player"],"dg-publish":true,"notestage":["🌿"],"created":"2022-02-05T11:41:05.535-03:00","updated":"2025-05-28T18:02:59.680-03:00","relevancescore":97,"readinesslevel":"20%","permalink":"/003-l1-f3/l1f3-game/","dgPassFrontmatter":true}
+{"aliases":["🕹 l1f3 game","life game","🕹 life game","massively-multiplayer online-and-offline collaborative self-transformation & civilization-building game","L1F3.GAME","l1f3.game","🕹 L1F3.game","🕹 L1F3 game","🕹 L1F3.GAME","L1F3 game","L1F3.game"],"created in":"2022-02-05T11:41:05-03:00","last tended to":"2024-09-29T14:37:10-03:00","tags":["l1f3","project","🌿","game","seriousgame","player"],"dg-publish":true,"notestage":["🌿"],"created":"2025-05-28T17:47:10.289-03:00","updated":"2025-05-28T17:47:29.771-03:00","relevancescore":97,"readinesslevel":"20%","permalink":"/tbprocessed/evernote/0-inbox/ken-wilber/","dgPassFrontmatter":true}
 ---
 
 the l1f3 game is an ongoing endeavor to:
@@ -20,21 +20,19 @@ play is both an attitude and an [[terms/action\|action]], it happens at all leve
 
 ancient [[topics/alchemy/spiritual lineages\|wisdom traditions]] also do so by saying that life is a [[lila\|lila]] (play), [[maya\|maya]] (illusion), yet also a journey of [[tbprocessed/base notes/concepts - general/conscious evolution\|conscious evolution]].
 
-[[topics/alchemy/indigenous wisdom\|indigenous wisdom]] might state that life is about [[topics/player/learning\|learning]], [[terms/creation\|creating]], [[concepts/alchemy/healing\|healing]], [[terms/sharing\|sharing]], [[topics/player/play\|playing]]. and meta-theorists such as [[people/references/alchemy/ken wilber\|ken wilber]] encapsulate it as [[concepts/alchemy/waking up\|waking up]], [[concepts/alchemy/growing up\|growing up]], [[concepts/alchemy/cleaning up\|cleaning up]], [[concepts/alchemy/showing up\|showing up]], [[concepts/alchemy/opening up\|opening up]]. 
+[[topics/alchemy/indigenous wisdom\|indigenous wisdom]] might state that life is about [[topics/player/learning\|learning]], [[terms/creation\|creating]], [[concepts/alchemy/healing\|healing]], [[terms/sharing\|sharing]], [[topics/player/play\|playing]]. and meta-theorists such as [[tbprocessed/evernote/0 - inbox/ken wilber\|ken wilber]] encapsulate it as [[concepts/alchemy/waking up\|waking up]], [[concepts/alchemy/growing up\|growing up]], [[concepts/alchemy/cleaning up\|cleaning up]], [[concepts/alchemy/showing up\|showing up]], [[concepts/alchemy/opening up\|opening up]]. 
 
 [[cyberneticians\|cyberneticians]] might use the [[models & frameworks/design/OODA loop\|OODA loop]] often, using the [[sensing\|sensing]], [[concepts/alchemy/sensemaking\|sensemaking]], [[terms/decision-making\|decision-making]], [[terms/action\|action]], [[topics/player/learning\|learning]] loops to study the [[patterns of living systems\|patterns of living systems]] and do [[complexity-informed design\|complexity-informed design]].
 
-[[cognitive scientists\|cognitive scientists]] -> [[relevance realization\|relevance realization]] and [[reciprocal narrowing\|reciprocal narrowing]]...
+[[regenerative designers\|regenerative designers]], [[cognitive scientists\|cognitive scientists]] -> [[relevance realization\|relevance realization]] and [[reciprocal narrowing\|reciprocal narrowing]]...
 
-[[regenerative designers\|regenerative designers]] -> will introduce [[concepts/alchemy/flourishing\|flourishing]] or [[concepts/alchemy/thriving\|thriving]] frameworks and [[concepts/design/impact metrics\|wide-boundary]]/[[ecosystems health\|ecosystems health]] metrics.
-
-my framing so far has been to say: let's build systems that are [[responses/regen/regenerative design\|regenerative]] by design to enable deeper levels of [[terms/collaboration\|collaboration]], [[topics/design/coordination systems\|coordination]], and [[concepts/alchemy/integral development\|self-actualization]] in life!
+i ([[tbprocessed/working on/[3Q; IC] - planning;communication/c4ss1us\|c4ss1us]]) might say: let's build systems to enable deeper levels of [[terms/collaboration\|collaboration]], [[topics/design/coordination systems\|coordination systems]], [[terms/design\|design]] and [[concepts/alchemy/self-transformation\|concepts/alchemy/self-transformation]] in life!
 
 many other philosophers, anthropologists, researchers, historians, educators, biologists, and people from all fields, backgrounds and journeys also have their valuable perspectives to add...
 
 how do we hold space for all these perspectives, and more to come?
 
-the L1F3 game is a research & development project, an attempt to create the digital infrastructure/[[_003_L1F3/l1f3 protocol\|protocol]] layer for that. it is an experimental interoperability protocol for perspectives - taking, testing, enacting, evaluating, changing and creating.
+[[_003_L1F3/l1f3 protocol\|L1F3 protocol]] is an experimental interoperability protocol for perspectives - taking, testing, evaluating, changing and creating.
 
 ¹see: [[tbprocessed/base notes/concepts - general/disruption\|disruption]].
 
@@ -47,11 +45,11 @@ the L1F3 game is a research & development project, an attempt to create the digi
 source: [[initiatives, orgs & communities/design/buckminster fuller institute\|buckminster fuller institute]], os.earth
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/projects-and-tools/projects/player/world-game/#1c9363" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/projects-and-tools/projects/player/world-game/#52ca2c" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-> "to make the world work for all of life, in the shortest possible time, through spontaneous cooperation."
+> "make the world work, for 100% of humanity, in the shortest possible time, through spontaneous cooperation, without ecological offense or the disadvantage of anyone." 
 
 </div></div>
 
@@ -115,12 +113,6 @@ source: [[tbprocessed/base notes/people/peth\|peth]], [[concepts/design/metacris
 
 </div></div>
 
-
-##### software/digital architecture layers:
-
-[[initiatives, orgs & communities/lab/holochain\|holochain]]
-[[oasis API\|oasis API]]
-[[isitas\|isitas]]
 
 ##### design/UX alignment:
 

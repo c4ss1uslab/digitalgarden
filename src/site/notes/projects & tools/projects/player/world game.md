@@ -1,11 +1,17 @@
 ---
-{"created in":"2024-01-19T16:20:09-03:00","last tended to":"2024-09-29T15:28:32-03:00","aliases":["world peace game","great logistics game","world (peace) game"],"tags":["seriousgame","education","architect","🌿","player"],"dg-publish":true,"relevancescore":96,"notestage":["🌿"],"created":"2024-01-19T16:20:09.956-03:00","updated":"2025-05-26T17:05:30.610-03:00","permalink":"/projects-and-tools/projects/player/world-game/","dgPassFrontmatter":true}
+{"created in":"2024-01-19T16:20:09-03:00","last tended to":"2024-09-29T15:28:32-03:00","aliases":["world peace game","great logistics game","world (peace) game"],"tags":["seriousgame","education","architect","🌿","player"],"dg-publish":true,"relevancescore":96,"notestage":["🌿"],"created":"2024-01-19T16:20:09.956-03:00","updated":"2025-05-28T18:02:57.835-03:00","permalink":"/projects-and-tools/projects/player/world-game/","dgPassFrontmatter":true}
 ---
 
-the world game was proposed by [[initiatives, orgs & communities/design/buckminster fuller institute\|buckminster fuller institute]] in the 1960s, aiming to:
+the world game was proposed by [[buckminster fuller\|buckminster fuller]] in the 1960s, aiming to:
 
 > "make the world work, for 100% of humanity, in the shortest possible time, through spontaneous cooperation, without ecological offense or the disadvantage of anyone."
 { #52ca2c}
+
+
+more recently (and assertively, i'd say), the buckminster fuller institute has been using as their main goal and orientation, simply:
+
+> "to make the world work for all of life, in the shortest possible time, through spontaneous cooperation."
+{ #1c9363}
 
 
 short intros:

@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-03-25T13:53:56-03:00","last tended to":"2024-10-06T02:11:50-03:00","tags":["🌿"],"aliases":["viable pathways","viable pathways zine","viable pathways book-zine","viable pathways book-zine mvp","book-zine"],"dg-publish":true,"notestage":["🌿"],"created":"2022-03-25T13:53:56.444-03:00","updated":"2025-05-26T17:39:20.798-03:00","relevancescore":98,"readinesslevel":"40%","permalink":"/002-research/00-viable-pathways-book-zine/","dgPassFrontmatter":true}
+{"created in":"2022-03-25T13:53:56-03:00","last tended to":"2024-10-06T02:11:50-03:00","tags":["🌿"],"aliases":["viable pathways","viable pathways zine","viable pathways book-zine","viable pathways book-zine mvp","book-zine"],"dg-publish":true,"notestage":["🌿"],"created":"2022-03-25T13:53:56.444-03:00","updated":"2025-05-28T15:20:46.277-03:00","relevancescore":98,"readinesslevel":"40%","permalink":"/002-research/00-viable-pathways-book-zine/","dgPassFrontmatter":true}
 ---
 
 <!--![viable pathways book-zine cover.png|1000](/img/user/assets/viable%20pathways%20book-zine%20cover.png)-->
@@ -8,7 +8,7 @@
 ---
 #### about
 
-the viable pathways book-zine is a *research-in-development publication* that covers a wide range of topics, exploring different [[concepts/lab/dynamic medium\|media formats]] and [[design patterns\|design patterns]] for more nuanced understanding and effective learning.
+the viable pathways book-zine is a *research-in-development publication* that covers a wide range of topics, exploring different [[concepts/lab/dynamic medium\|media formats]] and [[design patterns\|design patterns]] for more nuanced understanding and effective learning. it's an attempt to bring all of the most important contents of this garden into a structured, more gradual and cohesive presentation.
 
 fundamentally, it's an inquiry into [[post capitalist systems\|post capitalist systems]] and [[concepts/alchemy/ways of being\|ways of being]]:
 
@@ -16,13 +16,11 @@ fundamentally, it's an inquiry into [[post capitalist systems\|post capitalist s
 
 there is a myriad of different perspectives and research on the complex [[human predicament\|human predicament]] we're in, often called the [[anthropocene\|anthropocene]], [[concepts/design/polycrisis\|polycrisis]] and the [[concepts/design/metacrisis\|metacrisis]]. and even where there's some agreement amongst these views, there is often divergence on what to do/how to move beyond it.
 
-for the past 7 years i've been navigating this space, aiming to clarify: **what are these different perspectives, what are their theories of change, how do they converge & diverge, and could they be complementary?**
+i'm asking: **what are these different perspectives, what are their theories of change, how do they converge & diverge, and could they be complementary?**
 
 the goal of my research was to map, understand and curate multiple cohesive approaches to answer the question:
 
 > **how can we address the profound spiritual/psychological, ecological, economic, sociopolitical, technological and educational challenges we're going through and create the more beautiful world our hearts know is possible?**
-
-i.e. how can we address the interconnected [[inner\|inner]] and [[outer\|outer]] dimensions of the [[concepts/design/metacrisis\|metacrisis]]?
 
 as a single young person trying to do research in this very broad direction, the goal of my sharings here isn't to come up with any comprehensive, ultimate thesis. i draw from people who have been asking these questions for their whole lives with the aim of establishing a basic [[responses/lab/knowledge commons\|knowledge commons]] that can better inform us in designing and enabling new, more [[resilient\|resilient]] and [[regenerative\|regenerative]] [[topics/design/systems\|systems]], [[_003_L1F3/core concepts/lifestyles\|lifestyles]] and [[concepts/alchemy/ways of being\|ways of being]].
 
