@@ -1,5 +1,5 @@
 ---
-{"aliases":[".dgarden","🌲 digital garden","idea garden","🌱 idea garden","c4ss1us.dgarden","🌲 c4ss1us.dgarden","digital garden","home","knowledge garden"],"created in":"2023-07-27T15:44:39-03:00","last tended to":"2024-11-06T18:52:18-03:00","dg-publish":true,"dg-home":true,"created":"2021-12-11T16:51:50.661-03:00","updated":"2025-05-28T11:42:16.214-03:00","readinesslevel":null,"permalink":"/000-digital-garden/c4ss1us-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"aliases":[".dgarden","🌲 digital garden","idea garden","🌱 idea garden","c4ss1us.dgarden","🌲 c4ss1us.dgarden","digital garden","home","knowledge garden"],"created in":"2023-07-27T15:44:39-03:00","last tended to":"2024-11-06T18:52:18-03:00","dg-publish":true,"dg-home":true,"created":"2021-12-11T16:51:50.661-03:00","updated":"2025-05-28T11:53:20.522-03:00","readinesslevel":null,"permalink":"/000-digital-garden/c4ss1us-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 ## hello! welcome to my digital garden! 🌷
@@ -20,7 +20,7 @@ you'll also find loose notes - exploring different [[_002_research/07 - core ide
 
 > [!info]- disclaimer:
 > 
-> i've been tending to pages on this garden for the past 2 years. it already has a lot of content, but most of it is still early stage. 🌱 please consider this while exploring. 🙃
+> i've been tending to this public space for the past ~2 years. it already has a lot of content, but most of it is still early stage. 🌱 please consider this while exploring. 🙃
 > 
 > also note: contents can be dense, *emotionally and informationally*, and some might be challenging to understand at first sight. i suggest you take your time exploring it and treat it more like a walk in the garden - you can follow your curiosity and surprise yourself with the discoveries on the way, instead of a book that you need to read from beginning to end!
 
@@ -74,7 +74,7 @@ feel free to use these tags and [[patterns/pattern collections/knowledge design 
 
 here are two ways to help you navigate this space:
 
-**a)** 🕸 *a loose, experimental, self-directed navigation based on hyperlinks/tags/patterns (above) or a relevance-based index of notes (below).
+**a)** 🕸 *a loose, experimental, self-directed navigation based on hyperlinks/tags/patterns (above) or a relevance-based index of notes (below).*
 
 or:
 
