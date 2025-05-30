@@ -59,7 +59,7 @@ the age-old challenge of [[_003_L1F3/core concepts/self-transformation\|self-tra
 
 ![integral dashboard.jpeg](/img/user/images/interfaces%20&%20designs/integral%20dashboard.jpeg)
 
-let's take the [[models & frameworks/alchemy/AQAL map\|AQAL map]] - an [[responses/alchemy/integral theory\|integral theory]] consolidation - as a starting point (the dashboard above). any new discovery becomes just another "tab" or "widget" there, that opens up a whole new rabbit hole of [[discovery\|discovery]] and [[investigation\|investigation]].
+let's take the [[AQAL map\|AQAL map]] - an [[responses/alchemy/integral theory\|integral theory]] consolidation - as a starting point (the dashboard above). any new discovery becomes just another "tab" or "widget" there, that opens up a whole new rabbit hole of [[discovery\|discovery]] and [[investigation\|investigation]].
 
 -> why integral is so powerful: it provides as close to an agnostic stance as possible (or at least that i've seen) to integrate perspectives and practices. it provides a way of indexing, interpreting and categorizing spiritual (and more - psychological, sociological, scientific) experiences.
 
