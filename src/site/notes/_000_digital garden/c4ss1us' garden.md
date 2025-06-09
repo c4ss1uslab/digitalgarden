@@ -1,5 +1,5 @@
 ---
-{"aliases":[".dgarden","🌲 digital garden","idea garden","🌱 idea garden","c4ss1us.dgarden","🌲 c4ss1us.dgarden","digital garden","home","knowledge garden"],"last tended to":"2024-11-06T18:52:18-03:00","dg-publish":true,"dg-home":true,"created":"2021-12-11T16:51:50.661-03:00","updated":"2025-06-09T17:36:13.916-03:00","readinesslevel":null,"permalink":"/000-digital-garden/c4ss1us-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"aliases":[".dgarden","🌲 digital garden","idea garden","🌱 idea garden","c4ss1us.dgarden","🌲 c4ss1us.dgarden","digital garden","home","knowledge garden"],"last tended to":"2024-11-06T18:52:18-03:00","dg-publish":true,"dg-home":true,"created":"2021-12-11T16:51:50.661-03:00","updated":"2025-06-09T18:31:02.247-03:00","readinesslevel":null,"permalink":"/000-digital-garden/c4ss1us-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 ## hello! welcome to my digital garden! 🌷
@@ -38,7 +38,13 @@ these are the main themes we'll cover here.
 
 for clarity: the way i use the terms "[[concepts/player/game\|games]]" and "[[topics/design/systems\|systems]]" is (often) interchangeable. and the way i refer to technology is broadly as: *social, analog, digital and ancestral technologies* - a mix of both [[_005_c4ss1us/c4ss1us.design\|systems design]] and [[_005_c4ss1us/c4ss1us.lab\|technological development]].
 
-we'll dive into deep analyses of the [[concepts/design/metacrisis\|metacrisis]], exploring references from different [[worldviews\|worldviews]] on navigating our crises and reality itself, analyses of the deeper philosophical underpinnings of these perspectives, such as [[responses/alchemy/integral theory\|integral meta-theory]], [[responses/alchemy/cosmoerotic humanism\|cosmoerotic humanism]], [[concepts/alchemy/decolonization\|decolonial theory]], [[responses/alchemy/metarelationality\|metarelationality]] and [[responses/alchemy/metamodernism\|metamodernism]], the different [[_006_core notes/theories of change\|theories of change]] emerging out of these bodies of work, [[_006_core notes/design philosophies\|design approaches]] that can be applied at different levels of depth towards systems transformation and the design of new systems - and finally, maps, examples and opportunities of [[_001_MOCs/050 🟩 mid game/055 💼 ventures & initiatives MOC\|initiatives]], [[_001_MOCs/050 🟩 mid game/060 🗡 projects MOC\|projects]] and [[_001_MOCs/050 🟩 mid game/080 ⚒ tools MOC\|tools]] across these different domains ([[concepts/alchemy/integral development\|consciousness]], [[_005_c4ss1us/c4ss.art\|art]], [[_005_c4ss1us/c4ss1us.lab\|technology]], [[responses/regen/regenerative design\|regeneration]], [[topics/design/systems\|systems]]/[[concepts/player/game\|games]]) putting all of this into practice.
+we'll cover:
+
+- deep analyses of the [[concepts/design/metacrisis\|metacrisis]], exploring references from different [[worldviews\|worldviews]] on navigating our crises and reality itself
+- analyses of the deeper philosophical underpinnings of these perspectives, such as [[responses/alchemy/integral theory\|integral meta-theory]], [[responses/alchemy/cosmoerotic humanism\|cosmoerotic humanism]], [[concepts/alchemy/decolonization\|decolonial theory]], [[responses/alchemy/metarelationality\|metarelationality]] and [[responses/alchemy/metamodernism\|metamodernism]]
+- the different [[_006_core notes/theories of change\|theories of change]] emerging out of these bodies of work
+- [[_006_core notes/design philosophies\|design approaches]] that can be applied at different levels of depth towards systems transformation and the design of new systems, and finally:
+- maps, examples and opportunities of [[_001_MOCs/050 🟩 mid game/055 💼 ventures & initiatives MOC\|initiatives]], [[_001_MOCs/050 🟩 mid game/060 🗡 projects MOC\|projects]] and [[_001_MOCs/050 🟩 mid game/080 ⚒ tools MOC\|tools]] across these different domains ([[concepts/alchemy/integral development\|consciousness]], [[_005_c4ss1us/c4ss.art\|art]], [[_005_c4ss1us/c4ss1us.lab\|technology]], [[responses/regen/regenerative design\|regeneration]], [[topics/design/systems\|systems]]/[[concepts/player/game\|games]]) putting all of this into practice.
 
 ![research preview.excalidraw.png](/img/user/_007_illustrations%20&%20sketches/research%20preview.excalidraw.png)
 
