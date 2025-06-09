@@ -1,9 +1,12 @@
 ---
-{"created in":"2021-12-11T16:52:07-03:00","last tended to":"2024-10-25T13:38:08-03:00","tags":["regen","design","response","framework","🌱"],"relevancescore":97,"notestage":["🌱"],"aliases":["regenerative"],"created":"2021-12-11T16:52:07.327-03:00","updated":"2025-04-06T11:38:58.512-03:00","dg-publish":true,"readinesslevel":"15%","permalink":"/responses/regen/regenerative-design/","dgPassFrontmatter":true}
+{"created in":"2021-12-11T16:52:07-03:00","last tended to":"2024-10-25T13:38:08-03:00","tags":["regen","design","response","framework","🌱"],"relevancescore":97,"notestage":["🌱"],"aliases":["regenerative","regeneration"],"created":"2021-12-11T16:52:07.327-03:00","updated":"2025-06-09T18:24:06.617-03:00","dg-publish":true,"readinesslevel":"20%","permalink":"/responses/regen/regenerative-design/","dgPassFrontmatter":true}
 ---
 
+[[regenesis\|regenesis]] definition:
+
+> "Regeneration is the development of synergistic relationships between human and natural systems, through which local actors and initiatives, based on their singular roles, contribute to the health, resilience and evolution of its place."
+
 a good intro: https://ernesto-87727.medium.com/regenerative-design-and-development-d066d2419b82
-\+ https://en.wikipedia.org/wiki/Regenerative_design
 
 major approaches:
 [[daniel christian wahl\|daniel christian wahl]]'s [[designing regenerative cultures\|designing regenerative cultures]]
@@ -15,7 +18,10 @@ emergent approaches:
 [[john fullerton\|john fullerton]]'s [principles for a regenerative economy](https://capitalinstitute.org/8-principles-regenerative-economy/)
 [[ernesto von peborgh\|ernesto von peborgh]]'s [under-construction regenerative design framework](https://ernesto-87727.medium.com/regenerative-design-a-framework-for-emergent-knowledge-and-capacity-472e7366390e)
 
-\+ an interesting discussion on the history of the term/field on linkedin (yes, linkedin 😬): https://www.linkedin.com/feed/update/urn:li:activity:7202538354104545280/
+\+ an interesting discussions on the history of the term/field:
+https://wiki.ecolise.eu/index.php?title=Regenerative_Development
+https://en.wikipedia.org/wiki/Regenerative_design
+https://www.linkedin.com/feed/update/urn:li:activity:7202538354104545280/
 
 ---
 ##### other references:

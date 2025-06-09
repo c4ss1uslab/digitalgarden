@@ -1,10 +1,10 @@
 ---
-{"created in":"2024-08-23T17:05:23-03:00","last tended to":"2024-11-06T18:52:12-03:00","aliases":["collapse","post-collapse","civilization collapse","collapse of our civilization","civilizational collapse","societal collapse"],"tags":["metacrisis","civilizationdesign","topic","🌿","essay"],"dg-publish":true,"notestage":["🌿"],"relevancescore":96,"created":"2024-08-23T17:05:23.902-03:00","updated":"2025-04-03T20:47:39.247-03:00","permalink":"/diagnosis/systemic-collapse/","dgPassFrontmatter":true}
+{"aliases":["collapse","post-collapse","civilization collapse","collapse of our civilization","civilizational collapse","societal collapse"],"tags":["metacrisis","civilizationdesign","topic","🌿","essay"],"dg-publish":true,"notestage":["🌿"],"relevancescore":96,"created":"2024-08-23T17:05:23.902-03:00","updated":"2025-06-09T18:26:45.523-03:00","permalink":"/diagnosis/systemic-collapse/","dgPassFrontmatter":true}
 ---
 
 ##### context
 
-what lies ahead is a text introducing the context of systemic collapse from a deeply personal viewpoint. it will cite many academic and non-traditional works, but ultimately it reflects how my ways of seeing and relating personally to this theme have been evolving over the past many years. it should be helpful/useful for anyone starting to (or already deeply) questioning the dominant [[civilizational systems\|civilizational systems]] of our society and wondering about hopeful/viable futures as we move forward.
+what lies ahead is a text introducing the context of systemic collapse from a deeply personal viewpoint. it will cite many academic and non-academic works, but ultimately it reflects how my ways of seeing and relating personally to this theme have been evolving over the past many years. it should be helpful/useful for anyone starting to (or already deeply) questioning the dominant [[civilizational systems\|civilizational systems]] of our society and wondering about hopeful/viable futures as we move forward.
 
 ##### an impeding systemic collapse?
 
@@ -60,7 +60,11 @@ this conscious relationship with reality is what i want to work towards.
 
 and we need to act/coordinate towards a [[systemic transition\|systemic transition]].
 
+---
 ##### further reading
 
+on collapse [[memetic tribes\|memetic tribes]]: [Subcultures of collapse – will there be a convergence?](https://jembendell.com/2025/06/08/subcultures-of-collapse-will-there-be-a-convergence/)
+
 [[people/references/architect;design/joseph tainter\|joseph tainter]] on [[the collapse of complex societies\|the collapse of complex societies]].
-all links already mentioned in this page.
+
+\+ all links already mentioned in this page.
