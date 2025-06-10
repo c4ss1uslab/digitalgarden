@@ -12,7 +12,7 @@ good reflection by [[people/references/architect;design/andrea farias\|andrea fa
 
 ###### a few expanded views on it:
 
-<!--![[DIKW knowledge management model - chavapong prateep.jpg]]-->
+<!--![DIKW knowledge management model - chavapong prateep.jpg](/img/user/images/models%20&%20frameworks/DIKW%20knowledge%20management%20model%20-%20chavapong%20prateep.jpg)-->
 ![](https://i.imgur.com/VPSnSld.jpg)
 
 <!--![DIKW and basic strategy.png](/img/user/images/models%20&%20frameworks/DIKW%20and%20basic%20strategy.png)-->

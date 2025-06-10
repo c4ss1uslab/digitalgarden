@@ -1,5 +1,5 @@
 ---
-{"aliases":[".dgarden","🌲 digital garden","idea garden","🌱 idea garden","c4ss1us.dgarden","🌲 c4ss1us.dgarden","digital garden","home","knowledge garden"],"last tended to":"2024-11-06T18:52:18-03:00","dg-publish":true,"dg-home":true,"created":"2021-12-11T16:51:50.661-03:00","updated":"2025-06-09T18:31:02.247-03:00","readinesslevel":null,"permalink":"/000-digital-garden/c4ss1us-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"aliases":[".dgarden","🌲 digital garden","idea garden","🌱 idea garden","c4ss1us.dgarden","🌲 c4ss1us.dgarden","digital garden","home","knowledge garden"],"last tended to":"2024-11-06T18:52:18-03:00","dg-publish":true,"dg-home":true,"created":"2021-12-11T16:51:50.661-03:00","updated":"2025-06-09T22:49:38.302-03:00","readinesslevel":null,"permalink":"/000-digital-garden/c4ss1us-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 ## hello! welcome to my digital garden! 🌷
@@ -34,11 +34,11 @@ you'll also find loose notes - exploring different [[_002_research/07 - core ide
 
 ![research overview.excalidraw.png](/img/user/_007_illustrations%20&%20sketches/research%20overview.excalidraw.png)
 
-these are the main themes we'll cover here.
+these are the main themes covered here.
 
 for clarity: the way i use the terms "[[concepts/player/game\|games]]" and "[[topics/design/systems\|systems]]" is (often) interchangeable. and the way i refer to technology is broadly as: *social, analog, digital and ancestral technologies* - a mix of both [[_005_c4ss1us/c4ss1us.design\|systems design]] and [[_005_c4ss1us/c4ss1us.lab\|technological development]].
 
-we'll cover:
+navigate at whatever level makes sense for you. we'll cover:
 
 - deep analyses of the [[concepts/design/metacrisis\|metacrisis]], exploring references from different [[worldviews\|worldviews]] on navigating our crises and reality itself
 - analyses of the deeper philosophical underpinnings of these perspectives, such as [[responses/alchemy/integral theory\|integral meta-theory]], [[responses/alchemy/cosmoerotic humanism\|cosmoerotic humanism]], [[concepts/alchemy/decolonization\|decolonial theory]], [[responses/alchemy/metarelationality\|metarelationality]] and [[responses/alchemy/metamodernism\|metamodernism]]
@@ -120,7 +120,6 @@ also, what's relevant for me may not be relevant for you. this gives a very big 
 | [[concepts/alchemy/sensemaking\|sensemaking]]                                                                                                        | 98             | concepts/alchemy                                     | <ul><li>🌿</li></ul> |
 | [[concepts/alchemy/thriving\|thriving]]                                                                                                              | 98             | concepts/alchemy                                     | <ul><li>🕳</li></ul> |
 | [[concepts/alchemy/values\|values]]                                                                                                                  | 98             | concepts/alchemy                                     | <ul><li>🌱</li></ul> |
-| [[concepts/alchemy/wisdom\|wisdom]]                                                                                                                  | 98             | concepts/alchemy                                     | <ul><li>🌱</li></ul> |
 | [[concepts/design/metacrisis\|metacrisis]]                                                                                                           | 98             | concepts/design                                      | <ul><li>🌿</li></ul> |
 | [[concepts/design/resources\|resources]]                                                                                                             | 98             | concepts/design                                      | <ul><li>🌱</li></ul> |
 | [[concepts/regen/syntropy\|syntropy]]                                                                                                                | 98             | concepts/regen                                       | <ul><li>🕳</li></ul> |
@@ -164,6 +163,7 @@ also, what's relevant for me may not be relevant for you. this gives a very big 
 | [[concepts/alchemy/decolonization\|decolonization]]                                                                                                  | 96             | concepts/alchemy                                     | <ul><li>🌱</li></ul> |
 | [[concepts/alchemy/psychotechnologies\|psychotechnologies]]                                                                                          | 96             | concepts/alchemy                                     | <ul><li>🌿</li></ul> |
 | [[concepts/alchemy/ways of knowing\|ways of knowing]]                                                                                                | 96             | concepts/alchemy                                     | <ul><li>🌱</li></ul> |
+| [[concepts/alchemy/wisdom\|wisdom]]                                                                                                                  | 96             | concepts/alchemy                                     | <ul><li>🌱</li></ul> |
 | [[concepts/lab/memex\|memex]]                                                                                                                        | 96             | concepts/lab                                         | <ul><li>🕳</li></ul> |
 | [[concepts/design/complexity\|complexity]]                                                                                                           | 96             | concepts/design                                      | <ul><li>🕳</li></ul> |
 | [[concepts/design/knowledge ecologies\|knowledge ecologies]]                                                                                         | 96             | concepts/design                                      | <ul><li>🕳</li></ul> |
