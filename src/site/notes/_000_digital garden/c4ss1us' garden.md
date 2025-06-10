@@ -1,5 +1,5 @@
 ---
-{"aliases":[".dgarden","🌲 digital garden","idea garden","🌱 idea garden","c4ss1us.dgarden","🌲 c4ss1us.dgarden","digital garden","home","knowledge garden"],"last tended to":"2024-11-06T18:52:18-03:00","dg-publish":true,"dg-home":true,"created":"2021-12-11T16:51:50.661-03:00","updated":"2025-06-09T22:49:38.302-03:00","readinesslevel":null,"permalink":"/000-digital-garden/c4ss1us-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"aliases":[".dgarden","🌲 digital garden","idea garden","🌱 idea garden","c4ss1us.dgarden","🌲 c4ss1us.dgarden","digital garden","home","knowledge garden"],"last tended to":"2024-11-06T18:52:18-03:00","dg-publish":true,"dg-home":true,"created":"2021-12-11T16:51:50.661-03:00","updated":"2025-06-09T23:52:22.852-03:00","readinesslevel":null,"permalink":"/000-digital-garden/c4ss1us-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 ## hello! welcome to my digital garden! 🌷
@@ -22,9 +22,9 @@ you'll also find loose notes - exploring different [[_002_research/07 - core ide
 
 > [!info]- disclaimer:
 > 
-> i've been tending to this public space for the past ~2 years. it already has a lot of content, but most of it is still early stage. 🌱 please consider this while exploring. 🙃
+> please note: the contents in this place can be dense - *emotionally* ❤ and *informationally* 🧠 - and some might be challenging to understand at first sight. instead of treating this like a book or a linear research, which you "have to understand fully", i suggest you take your time exploring it. treat it more like a walk in the garden, just follow your curiosity and you might end up exploring lots of different references/perspectives and surprise yourself with the discoveries along the way! 🌷
 > 
-> ⚠ also note: contents can be dense - *emotionally and informationally* - and some might be challenging to understand at first sight. i suggest you take your time exploring it and treat it more like a walk in the garden - you can explore different references/perspectives and surprise yourself with the discoveries along the way, instead of a book that you need to read from beginning to end!
+> also, i've been tending to this public space for the past ~2 years. it already has a lot of content, however most of it is still early stage. 🌱 please consider this while navigating. 🙃
 
 \**one might make the case that we're not really a global society, since there are still some uncontacted tribes and communities that don't have access to much of our global infrastructure, such as media and the internet, however, we're already deeply globalized not just in terms of supply chains but also in terms of risks. any country with access to nuclear weapons, plus the acceleration of AI, ecological crises, biotechnology, and a series of other growing risks have the potential to harm the planet in ways that are consequential or even catastrophic for all of humanity and other species on earth.*
 
@@ -40,45 +40,26 @@ for clarity: the way i use the terms "[[concepts/player/game\|games]]" and "[[to
 
 navigate at whatever level makes sense for you. we'll cover:
 
-- deep analyses of the [[concepts/design/metacrisis\|metacrisis]], exploring references from different [[worldviews\|worldviews]] on navigating our crises and reality itself
-- analyses of the deeper philosophical underpinnings of these perspectives, such as [[responses/alchemy/integral theory\|integral meta-theory]], [[responses/alchemy/cosmoerotic humanism\|cosmoerotic humanism]], [[concepts/alchemy/decolonization\|decolonial theory]], [[responses/alchemy/metarelationality\|metarelationality]] and [[responses/alchemy/metamodernism\|metamodernism]]
-- the different [[_006_core notes/theories of change\|theories of change]] emerging out of these bodies of work
+- deep analyses of the [[concepts/design/metacrisis\|metacrisis]], exploring references from different [[worldviews\|worldviews]] on navigating our crises and reality itself,
+- analyses of the deeper philosophical underpinnings of these perspectives, such as [[responses/alchemy/integral theory\|integral meta-theory]], [[responses/alchemy/cosmoerotic humanism\|cosmoerotic humanism]], [[concepts/alchemy/decolonization\|decolonial theory]], [[responses/alchemy/metarelationality\|metarelationality]] and [[responses/alchemy/metamodernism\|metamodernism]],
+- the different [[_006_core notes/theories of change\|theories of change]] emerging out of these bodies of work,
 - [[_006_core notes/design philosophies\|design approaches]] that can be applied at different levels of depth towards systems transformation and the design of new systems, and finally:
 - maps, examples and opportunities of [[_001_MOCs/050 🟩 mid game/055 💼 ventures & initiatives MOC\|initiatives]], [[_001_MOCs/050 🟩 mid game/060 🗡 projects MOC\|projects]] and [[_001_MOCs/050 🟩 mid game/080 ⚒ tools MOC\|tools]] across these different domains ([[concepts/alchemy/integral development\|consciousness]], [[_005_c4ss1us/c4ss.art\|art]], [[_005_c4ss1us/c4ss1us.lab\|technology]], [[responses/regen/regenerative design\|regeneration]], [[topics/design/systems\|systems]]/[[concepts/player/game\|games]]) putting all of this into practice.
 
 ![research preview.excalidraw.png](/img/user/_007_illustrations%20&%20sketches/research%20preview.excalidraw.png)
 
 ---
-### how to navigate this space
+### ❔ how to navigate this space
+
+just click anywhere that draws your attention and follow your curiosity. if you want a bit more directed navigation, here are a few more options:
 
 > [!info]- for first-time visitors:
 > 
-> this place is already an unconventional place since it's a [[_000_digital garden/c4ss1us' garden#^4b1c64\|digital garden]] full of hyperlinks. i will further go on here and propose a set of *tags* and specific [[patterns/pattern collections/knowledge design patterns\|knowledge design patterns]], that can help you better navigate this complex information at different layers of depth.
+> this place is already an unconventional place since it's a [[_000_digital garden/c4ss1us' garden#^4b1c64\|digital garden]] full of hyperlinks. i will further go on here and share a few different possibilities for exploring this content, including a set of *tags* and specific [[patterns/pattern collections/knowledge design patterns\|knowledge design patterns]], that can help you better navigate this complex information at different layers of depth.
 > 
-> if you want, you can just skip this session to see a list right next, which contains almost all of my published notes ranked by (my own biased) order of relevance, which should give you a good overview of what i/this place is all about.
-> 
-> this might be a little too much information at first glance, but it should improve your experience over time. as you navigate more, you can get back to this, and i believe you'll start seeing its usefulness growing. :)
+> this might be a little too much information at first glance, but it should improve your experience over time. no need to take it all in right now. as you navigate more, you can get back to these different exploration paths, and i believe you'll start seeing their usefulness. :)
 
-just click anywhere that draws your attention and follow your curiosity. if you want a bit more directed navigation, here are some possibilities:
-
-most of the contents you'll find here can be filtered/navigated through a few lenses:
-
-**7 major topics/archetypes:** #alchemy, #design, #art, #lab, #player, #host, #regen.
-**4 stages of note maturity**: #🕳 *(very early, still not planted),* #🌱 *(early, seedling),* #🌿 *(growing, budding)* and #🌲 *(robust, evergreen).*
-**4 levels [[cognitive complexity\|cognitive complexity]]**:  #absolutebeginner, #beginner, #intermediate, #advanced
-**17 major categories:** #inquiry, #term, #concept, #heuristic, #framework, #methodology, #pattern, #experiment, #prototype, #resource, #diagnosis, #project, #topic, #response, #person, #organization, #institution.
-**4 layers:** #personal, #local, #regional, #global.
-**[[models & frameworks/design/three horizons\|3 horizons]]** of application: #h1 *(short-term, reduce harm),* #h2 *(mid-term, empower/create supportive conditions),* #h3 *(long-term, design new systems, games and institutions).*
-
-and a few more to come...
-
-notes will have a few other features to help further explore them:
-
-- [[patterns/active patterns/knowledge design/relevance score\|relevance scores]] (0-100) - my own judgement on how relevant this note is in the context of the whole.
-- [[patterns/active patterns/epistemic status\|epistemic status]] (0-10) - how confident i am over the contents of the note.
-- [[hyperlinks\|hyperlinks]] - related notes to dive deeper and feed your curiosity.
-
-> [!info]- more on the design/philosophy of this space
+> [!tip]- more on the design/philosophy of this space
 > 
 > "a digital garden is something inbetween a personal blog and a wiki. it's a collection of evolving notes, essays, and ideas that aren't strictly organised by their publication date. they're inherently exploratory – posts are linked through contextual associations (bi-directional links). they aren't refined or complete - posts can be published as half-finished thoughts that will grow and evolve over time. they're less rigid, less performative, and less perfect than the personal "blogs" we're used to encountering on the web." - [[people/references/lab/maggie appleton\|maggie appleton]] on [digital gardening tools and resources](https://github.com/MaggieAppleton/digital-gardeners).
 > 
@@ -88,26 +69,23 @@ notes will have a few other features to help further explore them:
 { #4b1c64}
 
 
-feel free to use these tags and [[patterns/pattern collections/knowledge design patterns\|patterns]] to help you navigate and make sense of the content presented here.
+there are 3 major ways to navigate this space:
 
----
-### ❔ where do i start?
+**a)** ⛓ *a relevance-based index of notes* (below)
 
-here are two ways to help you navigate this space:
+**b)** 🕸 *[[_000_digital garden/tags & pattern-based navigation\|a loose, experimental, self-directed navigation based on tags & patterns]]* (early stage!)
 
-**a)** 🕸 *a loose, experimental, self-directed navigation based on hyperlinks/tags/patterns (above) or a relevance-based index of notes (below).*
+**c)** 🗺 *[[_002_research/00 - viable pathways book-zine\|a structured, organized, narrative way, in which i share the foundational concepts, references, tools and discoveries of my research/learning/work]] (still very early stage!)
 
-or:
+go ahead and choose your path!
 
-**b)** 🗺 *a structured, organized, narrative way, in which i share the foundational concepts, references, tools and discoveries of my research/learning/work. (still very early stage! i recommend you follow the first option.)*
+#### a) ⛓ *a relevance-based index of notes*
 
-choose your path below!
+below is an index with almost all of my published notes ranked by (my own biased) "[[patterns/active patterns/knowledge design/relevance score\|relevance score]]" (90+), which should give you a good overview of both what this place is all about and some of my main references. :)
 
-#### a) 🕸 loose navigation - notes breakdown
+so far most of my well-tended notes are on the topics/archetypes of ([[topics/design/systems\|systems]]) [[_005_c4ss1us/c4ss1us.design\|design]] and [[_005_c4ss1us/c4ss1us.lab\|technology]], so please note that the index below is missing a ton of stuff from [[concepts/alchemy/integral development\|consciousness]], [[_005_c4ss1us/c4ss.art\|art]], [[_005_c4ss1us/c4ss1us.regen\|regen]] and [[_005_c4ss1us/c4ss1us.player\|player]], that are less developed.
 
-so far most of my well-tended notes are on the topics/archetypes of [[_005_c4ss1us/c4ss1us.design\|design]] and [[_005_c4ss1us/c4ss1us.lab\|lab]], so the index below is missing a ton of stuff from [[_005_c4ss1us/c4ss1us.alchemy\|alchemy]], [[_005_c4ss1us/c4ss.art\|art]], [[_005_c4ss1us/c4ss1us.player\|player]], [[_005_c4ss1us/c4ss.host\|host]] and [[_005_c4ss1us/c4ss1us.regen\|regen]], that are less developed.
-
-also, what's relevant for me may not be relevant for you. this gives a very big picture/overarching view of everything that i consider 90+, so you can find synergies between our interests, references and fields of study.
+also, what's relevant for me may not be relevant for you. this gives a very big picture/overarching view of everything that i consider 90+, so you can find synergies across our interests, references and fields of study/practice.
 
 | file                                                                                                                                                    | relevancescore | type                                                 | notestage            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ---------------------------------------------------- | -------------------- |
@@ -311,29 +289,7 @@ also, what's relevant for me may not be relevant for you. this gives a very big 
 
 { .block-language-dataview}
 
-for more (90-, yet possibly relevant notes), see the full: [[patterns/active patterns/knowledge design/relevance score\|relevance score]] page.
-
----
-
-#### b) 🗺 my r&d - structured way
-
-i've been slowly working on the ✳ [[_002_research/00 - viable pathways book-zine\|viable pathways book-zine]], which is both an [[anthology\|anthology]] and a series of original articles conveying my findings. it's still early-stage, but if you want to see some of these draft articles, they're available below:
-##### core essays
-
-the essays below present the **major inquiries** that i'm slowly investigating, tending to and developing my perspectives/proposals on. the emojis represent their growth stage/readiness.
-
-- 🌱 [[core essays/👋🏻 my thesis - thriving in the metacrisis & facilitating the regenerative transition with the help of life support systems, networks and games\|👋🏻 my thesis - thriving in the metacrisis & facilitating the regenerative transition with the help of life support systems, networks and games]]
-- 🌱 [[core essays/🧘🏻‍♂️ a meta-system for modular self-unfoldment & interoperability across philosophies, methodologies and perspectives\|🧘🏻‍♂️ a meta-system for modular self-unfoldment & interoperability across philosophies, methodologies and perspectives]]
-- 🌱 [[core essays/🌀 enabling authentic and transformative learning - frames, resources & pathways\|🌀 enabling authentic and transformative learning - frames, resources & pathways]]
-- 🌿 [[core essays/💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons\|💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons]]
-- 🌱 [[core essays/🦸🏻‍♀️ design specs & constraints for enabling minimum viable vocational economies\|🦸🏻‍♀️ design specs & constraints for enabling minimum viable vocational economies]]
-- 🌿 [[core essays/🎎 networked living - practical tools and perspectives for empowering collectives amidst accelerating attention & experience economies\|🎎 networked living - practical tools and perspectives for empowering collectives amidst accelerating attention & experience economies]]
-- 🌱 [[core essays/🌐 an introduction to the L1F3 game and the L1F3 support systems\|🌐 an introduction to the L1F3 game and the L1F3 support systems]]
-- 🌱 [[core essays/🌌 reality 101 - a curated hyperlinked multimedia collection\|🌌 reality 101 - a curated hyperlinked multimedia collection]]
-- 🌱 [[🕸 life design & decision-making 202 - fundamentals beyond the common sense\|🕸 life design & decision-making 202 - fundamentals beyond the common sense]]
-- 🌿 [[core essays/🕹 prototypes, experiments & low-hanging fruits - collaborative life design, energy management, life as play\|🕹 prototypes, experiments & low-hanging fruits - collaborative life design, energy management, life as play]]
-
-*\*disclaimer:* my aim here isn't to provide definitive answers, but starting points. my hope is for this curation and provocations to serve as an overview, to give us some clarity of the territory and empower us as [[concepts/alchemy/sensemaking\|sensemakers]] and infinite [[_005_c4ss1us/c4ss1us.player\|players]]. so we can start playing these [[metagames\|metagames]] more consciously, effortlessly and collaboratively.
+for more notes (90-, yet possibly relevant), see the full: [[patterns/active patterns/knowledge design/relevance score\|relevance score]] page.
 
 ---
 #### additional information
@@ -342,7 +298,7 @@ the essays below present the **major inquiries** that i'm slowly investigating, 
 
 i edit this using obsidian, a note-taking software that i use for my [second brain](https://maggieappleton.com/basb). you can start using the app by downloading it for free at [obsidian.md](https://obsidian.md). there are many tutorials and possible advanced setups, but for starters, i recommend nick milo's ["obsidian for beginners" youtube series](https://www.youtube.com/playlist?list=PL3NaIVgSlAVLHty1-NuvPa9V0b0UwbzBd) and his [LYT obsidian toolkit](https://notes.linkingyourthinking.com/_Start+Here).
 
-to host my notes, i use the [obsidian digital garden plugin](https://dg-docs.ole.dev/) . it's quite easy to setup. but you can also pay for obsidian publish for a simpler setup.
+to host my notes, i use the [obsidian digital garden plugin](https://dg-docs.ole.dev/) . it requires some technical setup, but it's quite easy to do even if you're a non-technical person. but you can also pay for obsidian publish for a simpler setup.
 
 ##### how can i be in the loop for new content/updates on these projects?
 

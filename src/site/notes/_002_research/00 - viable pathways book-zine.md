@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-03-25T13:53:56-03:00","last tended to":"2024-10-06T02:11:50-03:00","tags":["🌿"],"aliases":["viable pathways","viable pathways zine","viable pathways book-zine","viable pathways book-zine mvp","book-zine"],"dg-publish":true,"notestage":["🌿"],"created":"2022-03-25T13:53:56.444-03:00","updated":"2025-05-28T15:20:46.277-03:00","relevancescore":98,"readinesslevel":"40%","permalink":"/002-research/00-viable-pathways-book-zine/","dgPassFrontmatter":true}
+{"created in":"2022-03-25T13:53:56-03:00","last tended to":"2024-10-06T02:11:50-03:00","tags":["🌿"],"aliases":["viable pathways","viable pathways zine","viable pathways book-zine","viable pathways book-zine mvp","book-zine"],"dg-publish":true,"notestage":["🌿"],"created":"2022-03-25T13:53:56.444-03:00","updated":"2025-06-09T23:43:21.570-03:00","relevancescore":98,"readinesslevel":"40%","permalink":"/002-research/00-viable-pathways-book-zine/","dgPassFrontmatter":true}
 ---
 
 <!--![viable pathways book-zine cover.png|1000](/img/user/assets/viable%20pathways%20book-zine%20cover.png)-->
@@ -22,13 +22,34 @@ the goal of my research was to map, understand and curate multiple cohesive appr
 
 > **how can we address the profound spiritual/psychological, ecological, economic, sociopolitical, technological and educational challenges we're going through and create the more beautiful world our hearts know is possible?**
 
-as a single young person trying to do research in this very broad direction, the goal of my sharings here isn't to come up with any comprehensive, ultimate thesis. i draw from people who have been asking these questions for their whole lives with the aim of establishing a basic [[responses/lab/knowledge commons\|knowledge commons]] that can better inform us in designing and enabling new, more [[resilient\|resilient]] and [[regenerative\|regenerative]] [[topics/design/systems\|systems]], [[_003_L1F3/core concepts/lifestyles\|lifestyles]] and [[concepts/alchemy/ways of being\|ways of being]].
+as a single young person trying to do research in this very broad direction, the goal of my sharings here isn't to come up with any comprehensive, ultimate thesis. i draw from my own sense of [[resonance\|resonance]] and from several people who have been asking these questions for their whole lives, with the aim of establishing a basic [[responses/lab/knowledge commons\|knowledge commons]] that can better inform us in designing and enabling new, more [[resilient\|resilient]] and [[regenerative\|regenerative]] [[topics/design/systems\|systems]], [[_003_L1F3/core concepts/lifestyles\|lifestyles]] and [[concepts/alchemy/ways of being\|ways of being]].
 
 i believe this process of open [[concepts/alchemy/sensemaking\|sensemaking]], [[topics/design/curation\|curation]] and [[patterns/active patterns/learning/learning out loud\|learning out loud]] will be ever-more important to navigate the very complex, polarized and heavily propagandized [[concepts/design/knowledge ecologies\|information ecologies]] we're embedded in, with [[care\|care]], [[love\|love]] and [[terms/community\|community]], as we navigate both personal and societal [[diagnosis/systemic collapse\|collapse]].
 
-in this spirit, an appropriate sub-title could be: "a curation: how far a 26-year-old could go". it'll present it as both an [[anthology\|anthology]] and a series of original articles, plus accompanying maps, designs, prototypes and illustrations.
+i'll present both an [[anthology\|anthology]] and a series of original articles, plus accompanying maps, designs, prototypes and illustrations. they're still early-stage, but if you want to see some of these draft articles, they're available below:
+##### core essays
+
+the essays below present the **major inquiries** that i'm slowly investigating, tending to and developing my perspectives/proposals on. the emojis represent their growth stage/readiness.
+
+- 🌱 [[core essays/👋🏻 my thesis - thriving in the metacrisis & facilitating the regenerative transition with the help of life support systems, networks and games\|👋🏻 my thesis - thriving in the metacrisis & facilitating the regenerative transition with the help of life support systems, networks and games]]
+- 🌱 [[core essays/🧘🏻‍♂️ a meta-system for modular self-unfoldment & interoperability across philosophies, methodologies and perspectives\|🧘🏻‍♂️ a meta-system for modular self-unfoldment & interoperability across philosophies, methodologies and perspectives]]
+- 🌱 [[core essays/🌀 enabling authentic and transformative learning - frames, resources & pathways\|🌀 enabling authentic and transformative learning - frames, resources & pathways]]
+- 🌿 [[core essays/💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons\|💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons]]
+- 🌱 [[core essays/🦸🏻‍♀️ design specs & constraints for enabling minimum viable vocational economies\|🦸🏻‍♀️ design specs & constraints for enabling minimum viable vocational economies]]
+- 🌿 [[core essays/🎎 networked living - practical tools and perspectives for empowering collectives amidst accelerating attention & experience economies\|🎎 networked living - practical tools and perspectives for empowering collectives amidst accelerating attention & experience economies]]
+- 🌱 [[core essays/🌐 an introduction to the L1F3 game and the L1F3 support systems\|🌐 an introduction to the L1F3 game and the L1F3 support systems]]
+- 🌱 [[core essays/🌌 reality 101 - a curated hyperlinked multimedia collection\|🌌 reality 101 - a curated hyperlinked multimedia collection]]
+- 🌱 [[🕸 life design & decision-making 202 - fundamentals beyond the common sense\|🕸 life design & decision-making 202 - fundamentals beyond the common sense]]
+- 🌿 [[core essays/🕹 prototypes, experiments & low-hanging fruits - collaborative life design, energy management, life as play\|🕹 prototypes, experiments & low-hanging fruits - collaborative life design, energy management, life as play]]
+
+*\*disclaimer:* my aim here isn't to provide definitive answers, but starting points. my hope is for this curation and provocations to serve as an overview, to give us some clarity of the territory and empower us as [[concepts/alchemy/sensemaking\|sensemakers]] and infinite [[_005_c4ss1us/c4ss1us.player\|players]]. so we can start playing these [[metagames\|metagames]] more consciously, effortlessly and collaboratively.
 
 ---
+```ad-warning
+title: note
+collapse: open
+the contents of the writing below are currently haphazard, disjointed and all over the place. please proceed at your own risk. (*or don't.* feel free to come back later when it'll be hopefully updated and improved.)
+```
 #### the structure of the zine
 
 the main questions i'm been asking throughout the zine are:
