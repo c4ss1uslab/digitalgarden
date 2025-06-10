@@ -1,5 +1,5 @@
 ---
-{"aliases":[".dgarden","🌲 digital garden","idea garden","🌱 idea garden","c4ss1us.dgarden","🌲 c4ss1us.dgarden","digital garden","home","knowledge garden"],"last tended to":"2024-11-06T18:52:18-03:00","dg-publish":true,"dg-home":true,"created":"2021-12-11T16:51:50.661-03:00","updated":"2025-06-09T23:52:22.852-03:00","readinesslevel":null,"permalink":"/000-digital-garden/c4ss1us-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"aliases":[".dgarden","🌲 digital garden","idea garden","🌱 idea garden","c4ss1us.dgarden","🌲 c4ss1us.dgarden","digital garden","home","knowledge garden"],"last tended to":"2024-11-06T18:52:18-03:00","dg-publish":true,"dg-home":true,"created":"2021-12-11T16:51:50.661-03:00","updated":"2025-06-09T23:55:14.287-03:00","readinesslevel":null,"permalink":"/000-digital-garden/c4ss1us-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 ## hello! welcome to my digital garden! 🌷
@@ -55,9 +55,9 @@ just click anywhere that draws your attention and follow your curiosity. if you 
 
 > [!info]- for first-time visitors:
 > 
-> this place is already an unconventional place since it's a [[_000_digital garden/c4ss1us' garden#^4b1c64\|digital garden]] full of hyperlinks. i will further go on here and share a few different possibilities for exploring this content, including a set of *tags* and specific [[patterns/pattern collections/knowledge design patterns\|knowledge design patterns]], that can help you better navigate this complex information at different layers of depth.
+> this place is already an unconventional place since it's a [[_000_digital garden/c4ss1us' garden#^4b1c64\|digital garden]] full of hyperlinks. i will further go on here and provide you with a few different possibilities for exploring this content, including a set of specific *tags* and opinionated [[patterns/pattern collections/knowledge design patterns\|knowledge design patterns]], that can help you better navigate this complex information at different layers of depth.
 > 
-> this might be a little too much information at first glance, but it should improve your experience over time. no need to take it all in right now. as you navigate more, you can get back to these different exploration paths, and i believe you'll start seeing their usefulness. :)
+> this might be a little too much information at first glance, but it should improve your experience over time. no need to check all options or take it all in right now. as you navigate more, you can get back to these different exploration paths, and i believe you'll start seeing their usefulness. :)
 
 > [!tip]- more on the design/philosophy of this space
 > 
