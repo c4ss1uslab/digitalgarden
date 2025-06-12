@@ -1,5 +1,5 @@
 ---
-{"aliases":["👨🏻‍🎨 c4ss.art",".art","art","artist"],"created":"2023-05-31T16:51:42.380-03:00","updated":"2025-05-14T20:50:22.810-03:00","tags":["c4ss1us","art","🌱"],"notestage":["🌱"],"dg-publish":true,"relevancescore":98,"readinesslevel":"30%","permalink":"/004-c4ss1us/c4ss-art/","dgPassFrontmatter":true}
+{"aliases":["👨🏻‍🎨 c4ss.art",".art","art","artist"],"created":"2023-05-31T16:51:42.380-03:00","updated":"2025-06-12T14:32:58.060-03:00","tags":["c4ss1us","art","🌱"],"notestage":["🌱"],"dg-publish":true,"relevancescore":98,"readinesslevel":"30%","permalink":"/004-c4ss1us/c4ss-art/","dgPassFrontmatter":true}
 ---
 
 **see also:** [c4ss.art mmm.page (visual overview)](https://c4ss1us.mmm.page/art)
@@ -31,7 +31,7 @@ i'm therefore especially interested in [[story\|stories]], [[visuals\|visuals]],
 
 [[tbprocessed/base notes/concepts - general/art\|art]] is revolutionary as in 1) it empowers us to see ourselves as [[creators\|creators]], and act from that place - and 2) it can provide direct responses to the many [[diagnosis/intimacy crisis\|intimacy]], [[diagnosis/meaning crisis\|meaning]], and [[diagnosis/existential crisis\|existential crises]] we're going through.
 
-what i share below are some of my key themes of [[_003_research/research\|research]], [[topics/player/learning\|learning]] and [[topics/design/curation\|curation]], that have both helped me in my journey so far and that i want to further dive into, so as to develop capacity to a) create such beauty and b) support others who might be struggling on this path on [[self-discovery\|self-discovery]], [[self-expression\|expression]] and [[understanding\|understanding]].
+what i share below are some of my key themes of [[_001_research/research\|research]], [[topics/player/learning\|learning]] and [[topics/design/curation\|curation]], that have both helped me in my journey so far and that i want to further dive into, so as to develop capacity to a) create such beauty and b) support others who might be struggling on this path on [[self-discovery\|self-discovery]], [[self-expression\|expression]] and [[understanding\|understanding]].
 
 ---
 

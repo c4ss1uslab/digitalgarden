@@ -32,7 +32,7 @@ funding the commons -> gitcoin, [[tea.xyz\|tea.xyz]].
 
 [[models & frameworks/design/8 forms of capital\|8 forms of capital]]
 [[models & frameworks/design/fluxonomy 4d\|fluxonomy 4d]]
-[[tbprocessed/base notes/ventures - general/metacurrency project\|metacurrency project]]
+[[initiatives, orgs & communities/design/metacurrency project\|metacurrency project]]
 [[references/design/library of economic possibility\|library of economic possibility]]
 [[initiatives, orgs & communities/design/valueflows\|valueflows]]
 [[projects & tools/projects/design/gitcoin coordination mechanisms list\|gitcoin coordination mechanisms list]]

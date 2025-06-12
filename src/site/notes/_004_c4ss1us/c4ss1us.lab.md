@@ -1,5 +1,5 @@
 ---
-{"aliases":["👨🏻‍🔬 c4ss1us.lab",".lab","lab","builder"],"created":"2024-05-22T17:07:42.901-03:00","updated":"2025-05-22T15:14:53.849-03:00","tags":["c4ss1us","lab","🌿","database"],"notestage":["🌿"],"dg-publish":true,"relevancescore":98,"readinesslevel":"50%","permalink":"/004-c4ss1us/c4ss1us-lab/","dgPassFrontmatter":true}
+{"aliases":["👨🏻‍🔬 c4ss1us.lab",".lab","lab","builder"],"created":"2024-05-22T17:07:42.901-03:00","updated":"2025-06-12T14:34:09.019-03:00","tags":["c4ss1us","lab","🌿","database"],"notestage":["🌿"],"dg-publish":true,"relevancescore":98,"readinesslevel":"50%","permalink":"/004-c4ss1us/c4ss1us-lab/","dgPassFrontmatter":true}
 ---
 
 **see also:** [c4ss1us.lab mmm.page (visual overview)](https://c4ss1us.mmm.page/lab)
@@ -44,7 +44,7 @@ my current findings/[[_002_core notes/theories of change\|theory of change]]⁹�
 
 ##### 1) a coherent [[concepts/design/sensemaking layer\|sensemaking layer]] on and off the web
 
-[[information systems\|information systems]] -> [[projects & tools/made by me/lab/reality mapping\|reality maps]]⁹⁶, [[concepts/design/knowledge ecologies\|knowledge ecologies]]⁹⁶, [[material\|material]]/[[accounting systems\|accounting systems]]⁹⁸, [[_003_research/research\|_003_research/research]]⁹⁷, [[topics/design/curation\|curation]]⁹⁶ & [[concepts/alchemy/sensemaking\|sensemaking]]⁹⁸ systems.
+[[information systems\|information systems]] -> [[projects & tools/made by me/lab/reality mapping\|reality maps]]⁹⁶, [[concepts/design/knowledge ecologies\|knowledge ecologies]]⁹⁶, [[material\|material]]/[[accounting systems\|accounting systems]]⁹⁸, [[_001_research/research\|research]]⁹⁷, [[topics/design/curation\|curation]]⁹⁶ & [[concepts/alchemy/sensemaking\|sensemaking]]⁹⁸ systems.
 
 ##### 2) better [[topics/design/coordination systems\|coordination systems]]⁹⁸
 
@@ -89,7 +89,7 @@ below are mostly working digital [[_005_MOCs/050 🟩 mid game/080 ⚒ tools MOC
 
 these references can serve both as [[_004_c4ss1us/c4ss1us.design\|design]] references/case studies, as well as practical tools for personal/collective use. they are presented along with their associated [[patterns/active patterns/knowledge design/relevance score\|relevance scores]] - *and soon i'll add my [[patterns/active patterns/knowledge design/familiarity degree\|familiarity degree]], [[readiness score\|readiness score]] and [[information density\|information density]] in/of each one*.
 
-for [[initiatives, orgs & communities/organizations MOC\|organizations]] conducting [[_003_research/research\|_003_research/research]] and [[topics/lab/technology development\|development]], key [[_005_MOCs/025 🔷 long game/020 ❔ concepts, questions & ideas MOC\|ideas]], [[papers\|papers]], and other relevant resources, i'll dedicate a whole [[publication\|publication]] to exploring them in the future, but down in this page you can already see some parts of it. the list below aims to give you a quick glimpse and way to navigate the most relevant references for the designs/prototypes i've been attempting to create.
+for [[initiatives, orgs & communities/organizations MOC\|organizations]] conducting [[_001_research/research\|research]] and [[topics/lab/technology development\|development]], key [[_005_MOCs/025 🔷 long game/020 ❔ concepts, questions & ideas MOC\|ideas]], [[papers\|papers]], and other relevant resources, i'll dedicate a whole [[publication\|publication]] to exploring them in the future, but down in this page you can already see some parts of it. the list below aims to give you a quick glimpse and way to navigate the most relevant references for the designs/prototypes i've been attempting to create.
 
 ```ad-info
 title: note
@@ -132,7 +132,7 @@ i have engaged with the tools/projects below to varying degrees. these scores ar
 
 [[topics/lab/large language models\|LLMs]]⁹², [[projects & tools/tools/lab/exa AI\|exa AI]]⁹¹, [[initiatives, orgs & communities/design/golden\|golden]]⁸⁷, [[projects & tools/tools/lab/find AI\|find AI]]⁸⁴, (...)
 
-##### web-based tools for [[_003_research/research\|_003_research/research]]⁹⁷/[[responses/lab/mapping\|mapping]]⁹⁴:
+##### web-based tools for [[_001_research/research\|research]]⁹⁷/[[responses/lab/mapping\|mapping]]⁹⁴:
 
 [[initiatives, orgs & communities/design/the society library\|the society library]]⁹⁴, [[projects & tools/tools/lab/atlas (nomic)\|atlas (nomic)]]⁸⁶, [[projects & tools/tools/lab/open knowledge maps\|open knowledge maps]]⁸², [[connected papers\|connected papers]]⁸², [[projects & tools/tools/lab/litmaps\|litmaps]]⁸², [[projects & tools/tools/design/sensemaker\|sensemaker]] (?)
 

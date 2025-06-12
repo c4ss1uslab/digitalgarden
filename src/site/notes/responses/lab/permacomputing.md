@@ -1,10 +1,10 @@
 ---
-{"created in":"2024-08-22T15:27:37-03:00","last tended to":"2024-11-06T18:52:19-03:00","tags":["concept","regen","technology","design","cybernetics","research","🌱","lab","response"],"relevancescore":96,"dg-publish":true,"notestage":["🌱"],"created":"2024-08-22T15:27:37.000-03:00","updated":"2025-04-06T11:58:17.559-03:00","readinesslevel":"30%","permalink":"/responses/lab/permacomputing/","dgPassFrontmatter":true}
+{"created in":"2024-08-22T15:27:37-03:00","last tended to":"2024-11-06T18:52:19-03:00","tags":["concept","regen","technology","design","cybernetics","research","🌱","lab","response"],"relevancescore":96,"dg-publish":true,"notestage":["🌱"],"created":"2024-08-22T15:27:37.000-03:00","updated":"2025-06-12T14:31:13.840-03:00","readinesslevel":"30%","permalink":"/responses/lab/permacomputing/","dgPassFrontmatter":true}
 ---
 
 #### about
 
-permacomputing is one of my major - despite still recent (2024) - [[_003_research/research\|research]] topics and a direction i want to head way more into in the future. it is about understanding/designing [[topics/design/technology\|technology]] according to [[topics/design/regeneration\|regenerative]] principles - especially and more specifically, [[topics/lab/computing\|computing]] in a [[diagnosis/systemic collapse\|post-collapse]] world.
+permacomputing is one of my major - despite still recent (2024) - [[_001_research/research\|research]] topics and a direction i want to head way more into in the future. it is about understanding/designing [[topics/design/technology\|technology]] according to [[topics/design/regeneration\|regenerative]] principles - especially and more specifically, [[topics/lab/computing\|computing]] in a [[diagnosis/systemic collapse\|post-collapse]] world.
 
 a fantastic very short introduction to the subject: https://wiki.xxiivv.com/site/permacomputing.html
 

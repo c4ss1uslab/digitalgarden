@@ -14,7 +14,7 @@ https://unblock.net/introduction-holochain/ (more crypto/web3 language)
 ##### initiatives in the holochain ecosystem:
 
 [[initiatives, orgs & communities/design/hAppenings community\|hAppenings community]] - a kind of curation community of everything happening in the holochain community
-[[tbprocessed/base notes/ventures - general/metacurrency project\|metacurrency project]]
+[[initiatives, orgs & communities/design/metacurrency project\|metacurrency project]]
 [[initiatives, orgs & communities/lab/neighbourhoods\|neighbourhoods]]
 [[initiatives, orgs & communities/lab/IOEN tech\|IOEN tech]]
 [[initiatives, orgs & communities/design/commons engine\|commons engine]]
