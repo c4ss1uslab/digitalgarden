@@ -1,5 +1,5 @@
 ---
-{"aliases":["make sense of","make sense","make sense of reality"],"created in":"2021-12-11T16:51:50-03:00","last tended to":"2024-11-06T19:43:58-03:00","tags":["topic","sensemaking","🌿"],"notestage":["🌿"],"relevancescore":98,"dg-publish":true,"created":"2021-12-11T16:51:50.666-03:00","updated":"2025-03-30T15:05:39.224-03:00","permalink":"/concepts/alchemy/sensemaking/","dgPassFrontmatter":true}
+{"aliases":["make sense of","make sense","make sense of reality"],"created in":"2021-12-11T16:51:50-03:00","last tended to":"2024-11-06T19:43:58-03:00","tags":["topic","sensemaking","🌿"],"notestage":["🌿"],"relevancescore":98,"dg-publish":true,"created":"2021-12-11T16:51:50.666-03:00","updated":"2025-06-12T14:03:30.207-03:00","permalink":"/concepts/alchemy/sensemaking/","dgPassFrontmatter":true}
 ---
 
 #### definition
@@ -66,7 +66,7 @@ main refs: [[projects & tools/projects/lab/envisioning tech radar\|envisioning r
 [\[worth watching\] - sensemaking](https://www.youtube.com/playlist?list=PLj8H7uBaUwDvBooMmW5BbwPDrw6jnEvbP)
 
 ##### main references:
-[[tbprocessed/evernote/0 - inbox/ken wilber\|tbprocessed/evernote/0 - inbox/ken wilber]] / [[initiatives, orgs & communities/alchemy/integral life\|integral life]]
+[[people/references/alchemy/ken wilber\|ken wilber]] / [[initiatives, orgs & communities/alchemy/integral life\|integral life]]
 [[people/references/architect;design/daniel schmachtenberger\|daniel schmachtenberger]] / [[initiatives, orgs & communities/design/the consilience project\|consilience project]]
 [[tbprocessed/base notes/ventures - general/rebel wisdom\|rebel wisdom]] / [[tbprocessed/base notes/ventures - general/future thinkers\|future thinkers]] / [[tbprocessed/base notes/ventures - general/the stoa\|the stoa]]
 
@@ -88,7 +88,7 @@ main refs: [[projects & tools/projects/lab/envisioning tech radar\|envisioning r
 			- [[technological innovations\|technological innovations]]
 	- [[state of the web\|state of the web]] ([[information ecologies\|information ecologies]])
 	- [[state of one's life\|state of one's life]] ([[concepts/design/knowledge ecologies\|knowledge ecologies]])
-	- [[_006_core notes/theories of change\|theories of change]] ([[concepts/alchemy/axiology\|axiology]])
+	- [[_002_core notes/theories of change\|theories of change]] ([[concepts/alchemy/axiology\|axiology]])
 
 ---
 #### other references:

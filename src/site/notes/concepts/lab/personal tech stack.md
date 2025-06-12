@@ -20,7 +20,7 @@ so, before looking at exactly what a "personal tech stack" might look like, let'
 
 while we don't have the best of both worlds, we still have unmet functions - a goal of my curation is to bring clarity to that, to establish knowledge/resource commons and coordinate efforts.
 
-for a long time, i've been trying to curate the "[[experiments/made by me/design/minimum viable intentional personal systems design;setup\|minimum viable intentional personal systems design;setup]]", which includes the tech stack. here's what i've been currently using: [[_005_c4ss1us/c4ss1us' tech stack notion database\|c4ss1us' tech stack notion database]]
+for a long time, i've been trying to curate the "[[experiments/made by me/design/minimum viable intentional personal systems design;setup\|minimum viable intentional personal systems design;setup]]", which includes the tech stack. here's what i've been currently using: [[_004_c4ss1us/c4ss1us' tech stack notion database\|c4ss1us' tech stack notion database]]
 
 for a deeper exploration into both of these, see:
 
@@ -80,7 +80,7 @@ at which level does each tool operate?
 
 [[data\|data]] -> [[terms/information\|information]] -> [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/project-mission category/knowledge\|knowledge]] -> [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/industries master list/creativity\|creativity]] -> [[concepts/alchemy/wisdom\|wisdom]] (content layers)
 
-— other useful frames/breakdowns: [[terms/action\|action]], [[_004_toolkit/008 🕹 decision hub\|decision]], [[thoughts\|thoughts]], [[plans\|plans]], [[strategies\|strategies]]...
+— other useful frames/breakdowns: [[terms/action\|action]], [[_006_toolkit/008 🕹 decision hub\|decision]], [[thoughts\|thoughts]], [[plans\|plans]], [[strategies\|strategies]]...
 
 ------
 ##### references

@@ -7,7 +7,7 @@
 
 #### about
 
-this [[_001_MOCs/050 🟩 mid game/090 🧪 experiments MOC\|experiment]]/[[_001_MOCs/000 🟣 deep game/015 ✨ heuristics & inquiries MOC\|inquiry]] intends to clarify and answer a few questions:
+this [[_005_MOCs/050 🟩 mid game/090 🧪 experiments MOC\|experiment]]/[[_005_MOCs/000 🟣 deep game/015 ✨ heuristics & inquiries MOC\|inquiry]] intends to clarify and answer a few questions:
 
 - what are the fundamental systems that underline one's life?
 - what systems have the most impact/leverage on one's life?
@@ -18,7 +18,7 @@ this [[_001_MOCs/050 🟩 mid game/090 🧪 experiments MOC\|experiment]]/[[_001
 
 and a few others that arise as we dive into this exploration.
 
-as i gather/develop perspectives and resources, the idea of the [[_001_MOCs/050 🟩 mid game/090 🧪 experiments MOC\|experiment]] is to prototype and test this for myself, and then share results that might inform an actual open-source [[_001_MOCs/050 🟩 mid game/070 🔩 prototypes MOC\|prototype]].
+as i gather/develop perspectives and resources, the idea of the [[_005_MOCs/050 🟩 mid game/090 🧪 experiments MOC\|experiment]] is to prototype and test this for myself, and then share results that might inform an actual open-source [[_005_MOCs/050 🟩 mid game/070 🔩 prototypes MOC\|prototype]].
 
 ---
 #### intro

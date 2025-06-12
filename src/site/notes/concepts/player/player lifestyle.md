@@ -6,7 +6,7 @@
 
 [[topics/player/play\|play]] & [[topics/player/learning\|learning]] are intimately related, so [[lifelong learning\|lifelong learning]].
 
--> see: [[_006_core notes/principles of living as a player\|principles of living as a player]]
+-> see: [[_002_core notes/principles of living as a player\|principles of living as a player]]
 
 #### references
 

@@ -1,14 +1,14 @@
 ---
-{"aliases":["⚙ LMS","⚙ l1f3 management system","⚙ l1f3 manager","life management system","⚙ life management system","L1F3 management system","⚙ L1F3 management system","life management systems"],"created in":"2021-12-11T16:52:05-03:00","last tended to":"2024-10-24T21:59:42-03:00","tags":["project","🌿","l1f3","alchemy","design","lab"],"dg-publish":true,"notestage":["🌿"],"created":"2021-12-11T16:52:05.970-03:00","updated":"2025-04-06T11:45:41.263-03:00","readinesslevel":"30%","permalink":"/003-l1-f3/l1f3-management-system/","dgPassFrontmatter":true}
+{"aliases":["⚙ LMS","⚙ l1f3 management system","⚙ l1f3 manager","life management system","⚙ life management system","L1F3 management system","⚙ L1F3 management system","life management systems"],"created in":"2021-12-11T16:52:05-03:00","last tended to":"2024-10-24T21:59:42-03:00","tags":["project","🌿","l1f3","alchemy","design","lab"],"dg-publish":true,"notestage":["🌿"],"created":"2021-12-11T16:52:05.970-03:00","updated":"2025-06-11T15:51:55.178-03:00","readinesslevel":"30%","permalink":"/003-l1-f3/l1f3-management-system/","dgPassFrontmatter":true}
 ---
 
 #### description
 
-this project is my wildly ambitious attempt to design/prototype key elements of the [[responses/lab/personal OS design\|OS of the future]] - its most important [[_001_MOCs/050 🟩 mid game/080 ⚒ tools MOC\|tools]], [[workflows\|workflows]], [[_004_toolkit/019 🤖 agents\|agents]] and [[user interface 1\|interfaces]] - in a way that embeds into its design [[responses/alchemy/integral theory\|integral]]/[[responses/alchemy/metamodernism\|metamodern]] [[_001_MOCs/000 🟣 deep game/010 💠 values & principles MOC\|principles]] and [[_001_MOCs/000 🟣 deep game/010 💠 values & principles MOC\|values]] of supporting human and more-than-human [[concepts/alchemy/thriving\|thriving]] and [[topics/regen/earth regeneration\|regenerating earth]], in an [[open-source\|open-source]], [[modular\|modular]], non-deterministic way, open for customization and augmentation by anyone with other [[biocentric\|biocentric]]/[[protopic\|protopic]]/[[prosocial\|prosocial]] values.
+this project is my wildly ambitious attempt to design/prototype key elements of the [[responses/lab/personal OS design\|OS of the future]] - its most important [[_005_MOCs/050 🟩 mid game/080 ⚒ tools MOC\|tools]], [[workflows\|workflows]], [[_006_toolkit/019 🤖 agents\|agents]] and [[user interface 1\|interfaces]] - in a way that embeds into its design [[responses/alchemy/integral theory\|integral]]/[[responses/alchemy/metamodernism\|metamodern]] [[_005_MOCs/000 🟣 deep game/010 💠 values & principles MOC\|principles]] and [[_005_MOCs/000 🟣 deep game/010 💠 values & principles MOC\|values]] of supporting human and more-than-human [[concepts/alchemy/thriving\|thriving]] and [[topics/regen/earth regeneration\|regenerating earth]], in an [[open-source\|open-source]], [[modular\|modular]], non-deterministic way, open for customization and augmentation by anyone with other [[biocentric\|biocentric]]/[[protopic\|protopic]]/[[prosocial\|prosocial]] values.
 
 this project is part of an even wilder, more ambitious project - aiming to uncover and redesign our fundamental personal and civilizational [[core essays/🌐 an introduction to the L1F3 game and the L1F3 support systems\|L1F3 support systems]].
 
-it operates on the premise that if we are able to develop/apply [[_009_notes & highlights from books, videos, articles/transformative tools for thought\|transformative tools for thought]], or better yet - [[concepts/design/tools for extended cognition\|tools for extended cognition]], we can design [[_003_L1F3/core concepts/self-transformation\|ourselves]], our [[_003_L1F3/core concepts/life design\|lives]] and our [[concepts/design/systems design\|systems]] in ways that are more nourishing for the whole.
+it operates on the premise that if we are able to develop/apply [[_009_notes & highlights from books, videos, articles/transformative tools for thought - gordon brander\|transformative tools for thought - gordon brander]], or better yet - [[concepts/design/tools for extended cognition\|tools for extended cognition]], we can design [[_003_L1F3/core concepts/self-transformation\|ourselves]], our [[_003_L1F3/core concepts/life design\|lives]] and our [[concepts/design/systems design\|systems]] in ways that are more nourishing for the whole.
 
 ---
 #### key references/tools:
@@ -27,7 +27,7 @@ it operates on the premise that if we are able to develop/apply [[_009_notes & h
 #### main components:
 
 - [[perception\|perception]] ([[topics/lab/personal data management\|personal data management]]/[[topics/lab/information management\|information management]])
-- [[concepts/alchemy/sensemaking\|sensemaking]] ([[topics/lab/personal knowledge management\|personal knowledge management]] - [[_001_MOCs/050 🟩 mid game/040 🤹🏻‍♂️ areas MOC\|responsibilities]], [[_004_toolkit/x+ 🎭 roles LPS\|roles]], [[_001_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|challenges]], etc)
+- [[concepts/alchemy/sensemaking\|sensemaking]] ([[topics/lab/personal knowledge management\|personal knowledge management]] - [[_005_MOCs/050 🟩 mid game/040 🤹🏻‍♂️ areas MOC\|responsibilities]], [[_006_toolkit/x+ 🎭 roles LPS\|roles]], [[_005_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|challenges]], etc)
 - [[terms/decision-making\|decision-making]] ([[decision management\|decision management]])
 - [[terms/action\|action]]/[[topics/player/learning\|learning]] ([[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/general skills master list/task management\|task management]] / [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/general skills master list/time management\|time management]] / [[energy management\|energy management]] / [[tbprocessed/base notes/topics/learning management\|learning management]]) / [[feedback\|feedback]]/[[results\|results]] ([[wisdom management\|wisdom management]] / [[values management\|values management]] / [[_003_L1F3/core concepts/self-management\|self-management]])
 
@@ -140,33 +140,33 @@ can create certain file types:
 
  - [ ] part 1: [[_003_L1F3/l1f3 management ontology\|l1f3 management ontology]] visualization
 	-> MOCs
-		- [[_004_toolkit/meta-map\|🗺 meta-map]]
+		- [[_006_toolkit/meta-map\|🗺 meta-map]]
 		- 50.000 ft - essence
-			- [[_001_MOCs/000 🟣 deep game/005 🎢 journeys & archetypes MOC\|005 🎢 journeys & archetypes MOC]]
-			- [[_001_MOCs/000 🟣 deep game/010 💠 values & principles MOC\|010 💠 values & principles MOC]]
-			- [[_001_MOCs/000 🟣 deep game/001 🧿 purpose & ikigai MOC\|001 🧿 purpose & ikigai MOC]]
+			- [[_005_MOCs/000 🟣 deep game/005 🎢 journeys & archetypes MOC\|005 🎢 journeys & archetypes MOC]]
+			- [[_005_MOCs/000 🟣 deep game/010 💠 values & principles MOC\|010 💠 values & principles MOC]]
+			- [[_005_MOCs/000 🟣 deep game/001 🧿 purpose & ikigai MOC\|001 🧿 purpose & ikigai MOC]]
 		- 40.000 ft - vision
-			- [[_001_MOCs/025 🔷 long game/020 ❔ concepts, questions & ideas MOC\|020 ❔ concepts, questions & ideas MOC]]
-			- [[_001_MOCs/050 🟩 mid game/050 ♟ strategy MOC\|050 ♟ strategy MOC]]
-			- [[_001_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|030 ⛰ challenges & framing MOC]]
-			- [[_001_MOCs/025 🔷 long game/025 🗺 topics & references MOC\|025 🗺 topics & references MOC]]
-			- [[_001_MOCs/050 🟩 mid game/040 🤹🏻‍♂️ areas MOC\|040 🤹🏻‍♂️ areas MOC]]
+			- [[_005_MOCs/025 🔷 long game/020 ❔ concepts, questions & ideas MOC\|020 ❔ concepts, questions & ideas MOC]]
+			- [[_005_MOCs/050 🟩 mid game/050 ♟ strategy MOC\|050 ♟ strategy MOC]]
+			- [[_005_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|030 ⛰ challenges & framing MOC]]
+			- [[_005_MOCs/025 🔷 long game/025 🗺 topics & references MOC\|025 🗺 topics & references MOC]]
+			- [[_005_MOCs/050 🟩 mid game/040 🤹🏻‍♂️ areas MOC\|040 🤹🏻‍♂️ areas MOC]]
 		- 30.000 ft - missions
-			- [[_001_MOCs/050 🟩 mid game/045 🎯 objectives MOC\|045 🎯 objectives MOC]]
-			- [[_001_MOCs/025 🔷 long game/035 🔭 missions MOC\|035 🔭 missions MOC]]
-			- [[_001_MOCs/050 🟩 mid game/055 💼 ventures & initiatives MOC\|055 💼 ventures & initiatives MOC]]
+			- [[_005_MOCs/050 🟩 mid game/045 🎯 objectives MOC\|045 🎯 objectives MOC]]
+			- [[_005_MOCs/025 🔷 long game/035 🔭 missions MOC\|035 🔭 missions MOC]]
+			- [[_005_MOCs/050 🟩 mid game/055 💼 ventures & initiatives MOC\|055 💼 ventures & initiatives MOC]]
 		- 20.000 ft - projects
-			- [[_001_MOCs/050 🟩 mid game/060 🗡 projects MOC\|060 🗡 projects MOC]]
-			- [[_001_MOCs/050 🟩 mid game/065 🏆 goals & KPIs MOC\|065 🏆 goals & KPIs MOC]]
-			- [[_001_MOCs/050 🟩 mid game/070 🔩 prototypes MOC\|070 🔩 prototypes MOC]]
+			- [[_005_MOCs/050 🟩 mid game/060 🗡 projects MOC\|060 🗡 projects MOC]]
+			- [[_005_MOCs/050 🟩 mid game/065 🏆 goals & KPIs MOC\|065 🏆 goals & KPIs MOC]]
+			- [[_005_MOCs/050 🟩 mid game/070 🔩 prototypes MOC\|070 🔩 prototypes MOC]]
 		- 10.000 ft - experiments
-			- [[_001_MOCs/050 🟩 mid game/075 🎖 quests MOC\|075 🎖 quests MOC]]
-			- [[_001_MOCs/050 🟩 mid game/090 🧪 experiments MOC\|090 🧪 experiments MOC]]
+			- [[_005_MOCs/050 🟩 mid game/075 🎖 quests MOC\|075 🎖 quests MOC]]
+			- [[_005_MOCs/050 🟩 mid game/090 🧪 experiments MOC\|090 🧪 experiments MOC]]
 		- 0 ft - ground
-			- [[_002_research/00 - viable pathways book-zine\|00 - viable pathways book-zine]]
-			- [[_004_toolkit/008 🕹 decision hub\|008 🕹 decision hub]]
-			- [[_001_MOCs/075 🔴🟠🟡 short game/098 📕 learning MOC\|098 📕 learning MOC]]
-			- [[_001_MOCs/075 🔴🟠🟡 short game/100 💪🏻 actions MOC\|100 💪🏻 actions MOC]]
+			- [[_001_research/00 - viable pathways book-zine\|00 - viable pathways book-zine]]
+			- [[_006_toolkit/008 🕹 decision hub\|008 🕹 decision hub]]
+			- [[_005_MOCs/075 🔴🟠🟡 short game/098 📕 learning MOC\|098 📕 learning MOC]]
+			- [[_005_MOCs/075 🔴🟠🟡 short game/100 💪🏻 actions MOC\|100 💪🏻 actions MOC]]
  - [ ] part 2: [[experiments/made by me/design/minimum viable intentional personal systems design;setup\|minimum viable intentional personal systems design;setup]]
 
 

@@ -4,7 +4,7 @@
 
 https://www.regentech.co/
 
-good [[_001_MOCs/050 🟩 mid game/055 💼 ventures & initiatives MOC\|initiatives]] directory: https://www.regentech.co/directory/
+good [[_005_MOCs/050 🟩 mid game/055 💼 ventures & initiatives MOC\|initiatives]] directory: https://www.regentech.co/directory/
 
 \+ [[concepts/design/resources\|resources]] directory: https://www.regentech.co/regenerative-tech-resources/
 

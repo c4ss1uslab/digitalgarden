@@ -18,7 +18,7 @@ traditional [[knowledge-building\|knowledge-building]] tools such as [[wikis\|wi
 
 ##### my experiment/prototype
 
-this is part of a series of [[_001_MOCs/050 🟩 mid game/090 🧪 experiments MOC\|experiments]] aiming to explore interfaces that blend [[usefulness\|usefulness]] and [[shareability\|shareability]] - as part of the [[_003_L1F3/core concepts/life streaming\|life streaming]] project.
+this is part of a series of [[_005_MOCs/050 🟩 mid game/090 🧪 experiments MOC\|experiments]] aiming to explore interfaces that blend [[usefulness\|usefulness]] and [[shareability\|shareability]] - as part of the [[_003_L1F3/core concepts/life streaming\|life streaming]] project.
 
 below is just a mockup (v0, unreleased). the v1 ([[proof of concept\|proof of concept]]) could be hosted on something like [[figma prototypes\|figma prototypes]], [[github pages\|github pages]] or [[vercel\|vercel]]. v2 ideally on something compatible with [[low-tech\|low-tech]] devices ([[prototypes & designs/made by me/on hold/minimum viable extended self device\|minimum viable XS device]]) and [[local-first\|local-first]]/[[p2p\|p2p]] infrastructure.
 
@@ -54,4 +54,4 @@ having it in a more friendly format can make it like a welcome card, an introduc
 
 to streamline connection.
 
-2) next: integrate [[_001_MOCs/025 🔷 long game/035 🔭 missions MOC\|missions]], [[experiments/made by me/player/c4ss1us' player menu\|player menu]], etc
+2) next: integrate [[_005_MOCs/025 🔷 long game/035 🔭 missions MOC\|missions]], [[experiments/made by me/player/c4ss1us' player menu\|player menu]], etc

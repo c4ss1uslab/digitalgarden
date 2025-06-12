@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-10-20T23:41:02-03:00","last tended to":"2024-10-21T01:35:50-03:00","dg-publish":true,"notestage":["🌿"],"aliases":["domestika"],"tags":["learning","art","resource","🌿"],"created":"2024-10-20T23:41:02.961-03:00","updated":"2024-12-03T15:47:15.411-03:00","permalink":"/references/art/domestika-moc/","dgPassFrontmatter":true}
+{"created in":"2024-10-20T23:41:02-03:00","last tended to":"2024-10-21T01:35:50-03:00","dg-publish":true,"notestage":["🌿"],"aliases":["domestika"],"tags":["learning","art","resource","🌿"],"created":"2024-10-20T23:41:02.961-03:00","updated":"2025-06-10T18:18:25.443-03:00","permalink":"/references/art/domestika-moc/","dgPassFrontmatter":true}
 ---
 
 #### my courses:
@@ -35,7 +35,7 @@ legend:
 > 🧧 [3D Environments: Create Otherworldly Fantasy Lands](https://www.domestika.org/en/courses/4478-3d-environments-create-otherworldly-fantasy-lands)
 > 💭 [Advanced RPG Game Design with Unity - Juan Diego Vázquez Moreno](https://www.domestika.org/en/courses/1761-advanced-rpg-game-design-with-unity)
 
-##### 🎶 [[_005_c4ss1us/c4ss.music\|music]]
+##### 🎶 [[_004_c4ss1us/c4ss.music\|music]]
 
 [[_010_notes from courses, events & chats/2024-09 - domestika video game soundtracks course\|2024-09 - domestika video game soundtracks course]]
 [Designing Video Game Soundtracks for Beginners - Antonio Teoli](https://www.domestika.org/en/courses/3183-designing-video-game-soundtracks-for-beginners/course)
@@ -45,7 +45,7 @@ legend:
 > 🤔 [Introduction to Digital Sound Design - Jürgen Branz](https://www.domestika.org/en/courses/4560-introduction-to-digital-sound-design) - see: [[topics/art/sound design\|sound design]]
 ##### 🖌 artistic development
 
-[Motion Graphics: Create an Animated Poster - Plus Mûrs](https://www.domestika.org/en/courses/3097-motion-graphics-create-an-animated-poster/course) for: [[_002_research/00 - viable pathways book-zine\|viable pathways book-zine]]
+[Motion Graphics: Create an Animated Poster - Plus Mûrs](https://www.domestika.org/en/courses/3097-motion-graphics-create-an-animated-poster/course) for: [[_001_research/00 - viable pathways book-zine\|viable pathways book-zine]]
 [Creative Patterns for Graphic Design - Giorgia Smiraglia](https://www.domestika.org/en/courses/2263-creative-patterns-for-graphic-design/course)
 > 📺 [Minimalist Graphic Design for Big Ideas - Julian Montague](https://www.domestika.org/en/courses/2946-minimalist-graphic-design-for-big-ideas)
 > 📺 [Mood Board Creation: Communicate Concepts Effectively - Gudy Herder](https://www.domestika.org/en/courses/2798-mood-board-creation-communicate-concepts-effectively)

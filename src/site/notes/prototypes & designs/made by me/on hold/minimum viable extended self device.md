@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-02-15T15:09:27-03:00","last tended to":"2024-10-11T18:43:20-03:00","tags":["prototype","onhold","🌿"],"dg-publish":true,"aliases":["XS device","minimum viable XS device","extended self device"],"notestage":["🌿"],"created":"2024-02-15T15:09:27.156-03:00","updated":"2025-05-14T16:28:55.048-03:00","permalink":"/prototypes-and-designs/made-by-me/on-hold/minimum-viable-extended-self-device/","dgPassFrontmatter":true}
+{"created in":"2024-02-15T15:09:27-03:00","last tended to":"2024-10-11T18:43:20-03:00","tags":["prototype","onhold","🌿"],"dg-publish":true,"aliases":["XS device","minimum viable XS device","extended self device"],"notestage":["🌿"],"created":"2024-02-15T15:09:27.156-03:00","updated":"2025-06-10T18:18:25.304-03:00","permalink":"/prototypes-and-designs/made-by-me/on-hold/minimum-viable-extended-self-device/","dgPassFrontmatter":true}
 ---
 
 [[type\|type]]: [[life management/life areas (internal)/physical\|physical]] / [[digital\|digital]] [[objects\|objects]]
@@ -18,7 +18,7 @@ i.e. how can we better honor the realization of a [[concepts/lab/dynamic medium\
 
 the original idea for this prototype came at the [[responses/art/música do círculo\|música do círculo]] retreat in jun/2023. i was surrounded by amazing artists and people in general, yet many of our conversations tended towards triviality.
 
-i wondered - instead of making a lot of effort trying to gear the conversation towards more generative places (the art of [[_005_c4ss1us/c4ss.host\|facilitation]] still requires a lot of energy from me) - *how could i make connecting with people, learning and sharing about our lives more playful, fun, seamless?*
+i wondered - instead of making a lot of effort trying to gear the conversation towards more generative places (the art of [[_004_c4ss1us/c4ss.host\|facilitation]] still requires a lot of energy from me) - *how could i make connecting with people, learning and sharing about our lives more playful, fun, seamless?*
 
 there are many [[human connection games\|human connection games]], [[facilitation tools\|facilitation tools]] and other [[responses/player/serious games\|serious games]] that intend to do that, but i never felt fond of most of them. they felt too deterministic in guiding the conversations (though i definitely need to research more. if you know good ones, please lmk!). i was looking for something more open-ended (see [[people/references/lab/gordon brander\|gordon brander]]'s framing of [subconscious as a creative oracle](https://newsletter.squishy.computer/p/scamper) for an example).
 
@@ -53,7 +53,7 @@ i signed up for an 8-week course at [[SESC santana\|SESC santana]] on [[circuitp
 
 *july/2024 update:*
 
-after i learned some basics of [[electronics\|electronics]] and [[circuitpy\|circuitpy]]/[[projects & tools/tools/lab/raspberry pi pico\|pi pico]] from the course, i decided to not focus on it now, as i realized publishing my [[_002_research/00 - viable pathways book-zine\|viable pathways book-zine]] my highest priority.
+after i learned some basics of [[electronics\|electronics]] and [[circuitpy\|circuitpy]]/[[projects & tools/tools/lab/raspberry pi pico\|pi pico]] from the course, i decided to not focus on it now, as i realized publishing my [[_001_research/00 - viable pathways book-zine\|viable pathways book-zine]] my highest priority.
 
 it's still something i really wanna do in the mid-term (2-3 years max).
 
@@ -62,13 +62,13 @@ it's still something i really wanna do in the mid-term (2-3 years max).
 
 major, major ref: https://dynamicland.org/
 
-[[_005_c4ss1us/c4ss1us.lab\|.lab]] references
+[[_004_c4ss1us/c4ss1us.lab\|.lab]] references
 https://www.inkandswitch.com/inkbase/
 [[initiatives, orgs & communities/lab/new computer\|new computer]]
 [[initiatives, orgs & communities/lab/folk computer\|folk computer]]
 [[daylight computer\|daylight computer]]
 
-[[_005_c4ss1us/c4ss.host\|.host]]/[[_005_c4ss1us/c4ss1us.player\|.player]] references:
+[[_004_c4ss1us/c4ss.host\|.host]]/[[_004_c4ss1us/c4ss1us.player\|.player]] references:
 https://andrewmurraydunn.com/soul-map
 [[initiatives, orgs & communities/alchemy/possibility management\|possibility management]]'s [[concepts/player/artifacts\|artifacts]]
 [[ana marques\|ana marques]]' [[references/player/games/serious games/sanctuaries of attention game\|sanctuaries of attention game]]

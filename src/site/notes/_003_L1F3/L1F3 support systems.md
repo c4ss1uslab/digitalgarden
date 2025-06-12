@@ -24,7 +24,7 @@ i'll introduce an ontology and a few suggestions for further research/classifica
 
 ### L1F3 support meta-systems
 
-based on this concept, the [[L1F3 support meta-systems\|L1F3 support meta-systems]] i've been most focused on are a mix of speculative design projects with very practical [[_001_MOCs/050 🟩 mid game/090 🧪 experiments MOC\|experiments]]/[[_001_MOCs/050 🟩 mid game/070 🔩 prototypes MOC\|prototypes]] i'm developing in their directions.
+based on this concept, the [[L1F3 support meta-systems\|L1F3 support meta-systems]] i've been most focused on are a mix of speculative design projects with very practical [[_005_MOCs/050 🟩 mid game/090 🧪 experiments MOC\|experiments]]/[[_005_MOCs/050 🟩 mid game/070 🔩 prototypes MOC\|prototypes]] i'm developing in their directions.
 
 much more work and refinement is needed, my intent with the parts i've already been working on is to merely establish some of the conceptual/practical research foundations for building the systems themselves.
 
@@ -53,7 +53,7 @@ here's how much i progressed in each of them:
 
 #### prototype stage
 
-[[_004_toolkit/000 ⛓ l1f3 player toolkit\|l1f3 player toolkit]]
+[[_006_toolkit/000 ⛓ l1f3 player toolkit\|l1f3 player toolkit]]
 
 #### experiment stage
 

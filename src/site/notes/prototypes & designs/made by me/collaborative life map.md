@@ -13,7 +13,7 @@ a modern application of [[initiatives, orgs & communities/design/buckminster ful
 ##### initial design
 
 perspective 1: [[framings\|framings]]
-[[_001_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|030 ⛰ challenges & framing MOC]]:
+[[_005_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|030 ⛰ challenges & framing MOC]]:
 - UN - [[models & frameworks/design/sustainable development goals\|SDGs]] / 2030 objectives
 - [[unitedplanet\|unitedplanet]] categorization
 - [catalist.network ontology](https://www.catalist.network/encyclopedic-table)
@@ -29,7 +29,7 @@ perspective 3: [[critical constraints\|critical constraints]]
 bucky fuller's world (peace/logistics) game / [[projects & tools/projects/design/OMNI-mapping project\|OMNI-mapping project]]
 life itself's [[responses/design/second renaissance\|2R]] ecosystem map + adjacent projects
 
-perspective 4: [[_006_core notes/theories of change\|theories of change]]
+perspective 4: [[_002_core notes/theories of change\|theories of change]]
 [[initiatives, orgs & communities/regen/culture hack labs\|culture hack labs]] / [[initiatives, orgs & communities/regen/gesturing towards decolonial futures\|gtdf collective]]
 
 ----

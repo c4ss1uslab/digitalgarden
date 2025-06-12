@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-09-03T15:36:44-03:00","last tended to":"2024-09-29T14:26:33-03:00","tags":["essay","personal","music","alchemy","🌿"],"dg-publish":true,"notestage":["🌿"],"permalink":"/010-notes-from-courses-events-and-chats/2024-08-reflections-on-the-1st-musica-do-circulo-leading-training-immersion/","dgPassFrontmatter":true,"created":"2024-09-03T15:36:44.069-03:00","updated":"2024-09-29T14:26:34.309-03:00"}
+{"created in":"2024-09-03T15:36:44-03:00","last tended to":"2024-09-29T14:26:33-03:00","tags":["essay","personal","music","alchemy","🌿"],"dg-publish":true,"notestage":["🌿"],"created":"2024-09-03T15:36:44.069-03:00","updated":"2025-06-10T18:18:24.289-03:00","permalink":"/010-notes-from-courses-events-and-chats/2024-08-reflections-on-the-1st-musica-do-circulo-leading-training-immersion/","dgPassFrontmatter":true}
 ---
 
 *texto escrito no dia 31 de agosto de 2024.*
@@ -14,7 +14,7 @@ me questionar mais profundamente: *o que eu realmente quero com isso?*
 
 em alguns momentos, eu tava me sentindo super desconectado. comecei a lidar com umas frustrações por não estar com energia pra fazer tal jogo, por não ter acompanhado tal proposta.
 
-percebo que não quero necessariamente ser um grande [[_005_c4ss1us/c4ss.host\|facilitador]], [[_005_c4ss1us/c4ss.art\|artista]], [[_005_c4ss1us/c4ss.music\|entendedor da música]]. um dia, talvez. o que eu quero hoje é ter as mínimas ferramentas necessárias pra facilitar o [[topics/player/play\|brincar]], a [[discovery\|descoberta]], a [[expression\|expressão]], a [[co-creation\|co-criação]].
+percebo que não quero necessariamente ser um grande [[_004_c4ss1us/c4ss.host\|facilitador]], [[_004_c4ss1us/c4ss.art\|artista]], [[_004_c4ss1us/c4ss.music\|entendedor da música]]. um dia, talvez. o que eu quero hoje é ter as mínimas ferramentas necessárias pra facilitar o [[topics/player/play\|brincar]], a [[discovery\|descoberta]], a [[expression\|expressão]], a [[co-creation\|co-criação]].
 
 fiquei bem feliz com a conversa sobre o elemento "*círculo*". pôr isso na mesa. falar do intangível. colocar na mesa as questões dos nossos sistemas atuais de isolamento, exploração, da vida em si. que sugam e não geram energia.
 

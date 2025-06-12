@@ -9,23 +9,23 @@ keywords: [[topics/lab/interfaces MOC\|user interface]], [[topics/lab/user exper
 ###### mvp:
 
 player tools:
-[[_004_toolkit/000 ⛓ l1f3 player toolkit\|🧰 player toolkit]]
-	- [[_004_toolkit/003 🏟 board\|🎲 board]]
-	- [[_004_toolkit/007 🖼 menu\|📊 dashboard]]
-	- [[_004_toolkit/004 🗺 life map\|🗺 map]]
-	- [[_004_toolkit/002 🔯 codex\|🔯 codex]]
-	- [[_004_toolkit/012 📓 handbook\|📓 guide]]
-	- [[_004_toolkit/005 🧭 compass\|🧭 compass]]
-	- [[_004_toolkit/010 📟 GPS\|📟 GPS]]
-	- [[_004_toolkit/011 🏞 ground view\|⚔ battleground]]
+[[_006_toolkit/000 ⛓ l1f3 player toolkit\|🧰 player toolkit]]
+	- [[_006_toolkit/003 🏟 board\|🎲 board]]
+	- [[_006_toolkit/007 🖼 menu\|📊 dashboard]]
+	- [[_006_toolkit/004 🗺 life map\|🗺 map]]
+	- [[_006_toolkit/002 🔯 codex\|🔯 codex]]
+	- [[_006_toolkit/012 📓 handbook\|📓 guide]]
+	- [[_006_toolkit/005 🧭 compass\|🧭 compass]]
+	- [[_006_toolkit/010 📟 GPS\|📟 GPS]]
+	- [[_006_toolkit/011 🏞 ground view\|⚔ battleground]]
 (still under development + more coming soon...)
 
 player resources:
 [[prototypes & designs/made by me/resources management system\|🌫 resources management system]]
-	- [[_004_toolkit/001 👨🏻‍🎤 avatar\|👨🏻‍🎤 avatar]]
-	- [[_004_toolkit/006 ♟ strategy\|🗡 action plan]]
-	- [[_004_toolkit/x+ 📿 rituals LPS\|📿 rituals]]
-	- [[_004_toolkit/x+ ☑ routine LPS\|🎆 routine]]
+	- [[_006_toolkit/001 👨🏻‍🎤 avatar\|👨🏻‍🎤 avatar]]
+	- [[_006_toolkit/006 ♟ strategy\|🗡 action plan]]
+	- [[_006_toolkit/x+ 📿 rituals LPS\|📿 rituals]]
+	- [[_006_toolkit/x+ ☑ routine LPS\|🎆 routine]]
 +
 - [[pages\|pages]] to share
 - [[objects\|objects]] to share

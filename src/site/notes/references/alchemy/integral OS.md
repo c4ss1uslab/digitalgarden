@@ -1,8 +1,8 @@
 ---
-{"created in":"2022-04-02T14:30:50-03:00","last tended to":"2024-09-29T14:33:59-03:00","tags":["🌿","integraltheory","course"],"notestage":["🌿"],"dg-publish":true,"created":"2022-04-02T14:30:50.079-03:00","updated":"2025-03-30T15:05:40.148-03:00","permalink":"/references/alchemy/integral-os/","dgPassFrontmatter":true}
+{"created in":"2022-04-02T14:30:50-03:00","last tended to":"2024-09-29T14:33:59-03:00","tags":["🌿","integraltheory","course"],"notestage":["🌿"],"dg-publish":true,"created":"2022-04-02T14:30:50.079-03:00","updated":"2025-06-12T14:03:52.501-03:00","permalink":"/references/alchemy/integral-os/","dgPassFrontmatter":true}
 ---
 
-integral OS was an audio course launched by [[initiatives, orgs & communities/alchemy/integral life\|integral life]] in the early 2000s based on [[tbprocessed/evernote/0 - inbox/ken wilber\|tbprocessed/evernote/0 - inbox/ken wilber]]'s work on [[responses/alchemy/integral theory\|integral theory]]. they also came up with the speculative interface visualization below (which i call the [[integral dashboard\|integral dashboard]]) and the [[AQAL map\|AQAL map]].
+integral OS was an audio course launched by [[initiatives, orgs & communities/alchemy/integral life\|integral life]] in the early 2000s based on [[people/references/alchemy/ken wilber\|ken wilber]]'s work on [[responses/alchemy/integral theory\|integral theory]]. they also came up with the speculative interface visualization below (which i call the [[integral dashboard\|integral dashboard]]) and the [[AQAL map\|AQAL map]].
 
 ![integral dashboard.jpeg](/img/user/images/interfaces%20&%20designs/integral%20dashboard.jpeg)
 

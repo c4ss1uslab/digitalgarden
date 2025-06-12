@@ -16,9 +16,9 @@ the contents of the writing below are currently haphazard, disjointed and all ov
 
 in this essay i argue that the next stage for intentional collectives is to consciously integrate the concept of [[networked living\|networked living]].
 
-we'll talk about: [[concepts/design/third spaces\|third spaces]], [[energy management\|energy management]], [[_005_c4ss1us/c4ss.host\|facilitation]]/[[community organizing tools\|community organizing tools]], [[topics/design/curation\|curation]]/[[shared brains\|shared brains]], [[communal infrastructure\|communal]]/[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/general skills master list/digital infrastructure\|digital infrastructure]] and [[_003_L1F3/core concepts/life design\|life design]] as ways to move beyond divise patterns of interaction, towards integrating [[interdependence\|interdependence]] into people's actual [[_003_L1F3/core concepts/lifestyles\|ways of living]].
+we'll talk about: [[concepts/design/third spaces\|third spaces]], [[energy management\|energy management]], [[_004_c4ss1us/c4ss.host\|facilitation]]/[[community organizing tools\|community organizing tools]], [[topics/design/curation\|curation]]/[[shared brains\|shared brains]], [[communal infrastructure\|communal]]/[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/general skills master list/digital infrastructure\|digital infrastructure]] and [[_003_L1F3/core concepts/life design\|life design]] as ways to move beyond divise patterns of interaction, towards integrating [[interdependence\|interdependence]] into people's actual [[_003_L1F3/core concepts/lifestyles\|ways of living]].
 
-perspectives on this page come mostly from a few different places - folks in the [[cozy web\|cozy web]]/[[indie web\|indie web]]/[[slow web\|slow web]] communities, my experience with several [[_005_c4ss1us/c4ss.host\|facilitation]] tools and practices, and in [[topics/alchemy/spirituality\|spiritual]]/[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/superskills master list/philosophy\|philosophical]]/[[topics/design/regeneration\|regenerative]] circles...
+perspectives on this page come mostly from a few different places - folks in the [[cozy web\|cozy web]]/[[indie web\|indie web]]/[[slow web\|slow web]] communities, my experience with several [[_004_c4ss1us/c4ss.host\|facilitation]] tools and practices, and in [[topics/alchemy/spirituality\|spiritual]]/[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/superskills master list/philosophy\|philosophical]]/[[topics/design/regeneration\|regenerative]] circles...
 
 ----
 ##### context
@@ -48,13 +48,13 @@ beyond formal [[institutions\|institutions]], communities have long organized as
 a deeper inquiry we'll dive into: what's the role of [[topics/design/curation\|curation]], [[communities\|communities]] & [[distributed sensemaking\|distributed sensemaking]] amidst accelerating [[attention economy\|attention]] & [[experience economy\|experience economies]]? and what tools are available/necessary for them?
 
 
-##### x) [[_005_c4ss1us/c4ss.host\|facilitation]] - the limitations of the current paradigm
+##### x) [[_004_c4ss1us/c4ss.host\|facilitation]] - the limitations of the current paradigm
 
 we've seen a rise in "community managers" - whether in corporate contexts or in social organizing, and a wider recognition of several facilitation tools and methods.
 
 despite my appreciation for many of them, for the longest time, i've been carrying a frustration regarding many approaches, and - sorry friends (it's not about you!) - with many facilitators too.
 
-i feel that most of these approaches have a lack of **[[depth\|depth]]** and **[[_006_core notes/design principles\|continuity]]**, which is directly tied to a non-recognition of [[_009_notes & highlights from books, videos, articles/listening society\|hierarchies]] and [[models & frameworks/player/fourgames\|systemic influences]] on people's lives.
+i feel that most of these approaches have a lack of **[[depth\|depth]]** and **[[_002_core notes/design principles\|continuity]]**, which is directly tied to a non-recognition of [[_009_notes & highlights from books, videos, articles/listening society\|hierarchies]] and [[models & frameworks/player/fourgames\|systemic influences]] on people's lives.
 
 while potentially powerful on their impact on transforming [[concepts/alchemy/consciousness development\|individual consciousness]], their effectiveness on any form of societal transformation seems - in my analysis - thwarted by this.
 

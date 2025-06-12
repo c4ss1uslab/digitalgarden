@@ -1,5 +1,5 @@
 ---
-{"aliases":["🕹 l1f3 game","life game","🕹 life game","massively-multiplayer online-and-offline collaborative self-transformation & civilization-building game","L1F3.GAME","l1f3.game","🕹 L1F3.game","🕹 L1F3 game","🕹 L1F3.GAME","L1F3 game","L1F3.game"],"created in":"2022-02-05T11:41:05-03:00","last tended to":"2024-09-29T14:37:10-03:00","tags":["l1f3","project","🌿","game","seriousgame","player"],"dg-publish":true,"notestage":["🌿"],"created":"2022-02-05T11:41:05.535-03:00","updated":"2025-05-28T18:02:59.680-03:00","relevancescore":97,"readinesslevel":"20%","permalink":"/003-l1-f3/l1f3-game/","dgPassFrontmatter":true}
+{"aliases":["🕹 l1f3 game","life game","🕹 life game","massively-multiplayer online-and-offline collaborative self-transformation & civilization-building game","L1F3.GAME","l1f3.game","🕹 L1F3.game","🕹 L1F3 game","🕹 L1F3.GAME","L1F3 game","L1F3.game"],"created in":"2022-02-05T11:41:05-03:00","last tended to":"2024-09-29T14:37:10-03:00","tags":["l1f3","project","🌿","game","seriousgame","player"],"dg-publish":true,"notestage":["🌿"],"created":"2022-02-05T11:41:05.535-03:00","updated":"2025-06-10T18:18:23.701-03:00","relevancescore":97,"readinesslevel":"20%","permalink":"/003-l1-f3/l1f3-game/","dgPassFrontmatter":true}
 ---
 
 the l1f3 game is an ongoing endeavor to:
@@ -43,7 +43,7 @@ the L1F3 game is a research & development project, an attempt to create the digi
 
 ##### conceptual alignment:
 
-[[_005_c4ss1us/c4ss1us.design\|design]]: [[projects & tools/projects/player/world game\|world game]]
+[[_004_c4ss1us/c4ss1us.design\|design]]: [[projects & tools/projects/player/world game\|world game]]
 source: [[initiatives, orgs & communities/design/buckminster fuller institute\|buckminster fuller institute]], os.earth
 
 
@@ -56,7 +56,7 @@ source: [[initiatives, orgs & communities/design/buckminster fuller institute\|b
 </div></div>
 
 
-[[_005_c4ss1us/c4ss1us.alchemy\|alchemy]]: [[projects & tools/projects/player/startover.xyz\|startover.xyz]]
+[[_004_c4ss1us/c4ss1us.alchemy\|alchemy]]: [[projects & tools/projects/player/startover.xyz\|startover.xyz]]
 source: [[initiatives, orgs & communities/alchemy/possibility management\|possibility management]]
 
 
@@ -69,7 +69,7 @@ source: [[initiatives, orgs & communities/alchemy/possibility management\|possib
 </div></div>
 
 
-[[_005_c4ss1us/c4ss.art\|art]]: [[responses/art/música do círculo\|música do círculo]]
+[[_004_c4ss1us/c4ss.art\|art]]: [[responses/art/música do círculo\|música do círculo]]
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/responses/art/musica-do-circulo/#353605" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -86,12 +86,12 @@ música do círculo (MdC) is both a community and a practice of improvised music
 
 
 
-as a practice, it's able to create an [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/industries master list/education\|educational]], [[concepts/alchemy/healing\|therapeutic]] and [[_005_c4ss1us/c4ss.art\|artistic]] space at the same time. its structure and games provide supportive contexts for the creative/[[artistic expression\|artistic expression]] of the group, promotes [[models & frameworks/host/cooperation pedagogy\|cooperation]] principles, [[deep listening\|deep listening]] and [[concepts/alchemy/decolonization\|decolonial]] modes of relating, and through a radical embrace and harmonious arrangement of co-existing levels of [[concepts/alchemy/consciousness\|consciousness]], it inspires us to think about how to create this quality of field in other spaces as well. 
+as a practice, it's able to create an [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/industries master list/education\|educational]], [[concepts/alchemy/healing\|therapeutic]] and [[_004_c4ss1us/c4ss.art\|artistic]] space at the same time. its structure and games provide supportive contexts for the creative/[[artistic expression\|artistic expression]] of the group, promotes [[models & frameworks/host/cooperation pedagogy\|cooperation]] principles, [[deep listening\|deep listening]] and [[concepts/alchemy/decolonization\|decolonial]] modes of relating, and through a radical embrace and harmonious arrangement of co-existing levels of [[concepts/alchemy/consciousness\|consciousness]], it inspires us to think about how to create this quality of field in other spaces as well. 
 
 </div></div>
 
 
-[[_005_c4ss1us/c4ss1us.regen\|regen]]: [[initiatives, orgs & communities/design/SEEDS (ecosystem)\|SEEDS]]
+[[_004_c4ss1us/c4ss1us.regen\|regen]]: [[initiatives, orgs & communities/design/SEEDS (ecosystem)\|SEEDS]]
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/initiatives-orgs-and-communities/design/seeds-ecosystem/#e27515" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -103,7 +103,7 @@ as a practice, it's able to create an [[tbprocessed/notion/c4ss1us’ notion/50.
 </div></div>
 
 
-[[_005_c4ss1us/c4ss1us.player\|player]]: [[initiatives, orgs & communities/design/metagame.wtf\|metagame.wtf]]
+[[_004_c4ss1us/c4ss1us.player\|player]]: [[initiatives, orgs & communities/design/metagame.wtf\|metagame.wtf]]
 source: [[tbprocessed/base notes/people/peth\|peth]], [[concepts/design/metacrisis\|metacrisis]] / [[tbprocessed/base notes/concepts - general/game b\|game b]] space
 
 
@@ -169,7 +169,7 @@ the contents of the writing below are currently haphazard, disjointed and all ov
 [[talents\|talents]]
 [[tbprocessed/notion/notion resources/Web dev resources (public)/JavaScript/Modules\|modules]]/[[skins\|skins]] ([[demon slayer\|demon slayer]], [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/content master list/naruto\|naruto]], other universes/[[gameworlds\|gameworlds]])
 
-###### [[_004_toolkit/000 ⛓ l1f3 player toolkit\|player toolkit]]
+###### [[_006_toolkit/000 ⛓ l1f3 player toolkit\|player toolkit]]
 
 [[quests\|quests]]
 [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/experiments master list/disruptive life OS presentation v. 0.1/challenges\|challenges]]
@@ -229,7 +229,7 @@ flow lives in between challenge and comfort.
 [[underworld conquering\|underworld conquering]]
 [[7 chakras\|7 chakras]]
 [[concepts/alchemy/ego states\|ego states]]
-[[_004_toolkit/classes/archetypes MOC\|archetypes MOC]]
+[[_006_toolkit/classes/archetypes MOC\|archetypes MOC]]
 aligning with [[nature cycles\|nature cycles]]
 [[fasting\|fasting]]
 aprender, curar, servir, curtir
@@ -274,7 +274,7 @@ aprender, curar, servir, curtir
 
 ###### Q: what's the difference between this and some "life gamification app"?
 
-in short, the level of responsibility. in most [[topics/player/gamification\|gamification]] products or apps, there are clearly distinct roles of [[_004_toolkit/classes/game designer\|game]]/[[product designers\|product designers]] and [[users\|users]]/[[players\|players]].
+in short, the level of responsibility. in most [[topics/player/gamification\|gamification]] products or apps, there are clearly distinct roles of [[_006_toolkit/classes/game designer\|game]]/[[product designers\|product designers]] and [[users\|users]]/[[players\|players]].
 
 in real life, everyone is co-creating reality. [[_003_L1F3/l1f3 game\|L1[[l1f3 game]]oduct you buy and use, it's something you co-create by participating. you are at the same time the [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/archetypes/designer/designer\|designer]] and the [[player\|player]] of your own life (and its games).
 
@@ -296,7 +296,7 @@ there's also a big challenge in [[topics/design/web3\|web3]]/crypto space which 
 
 they're much more focused on internal transformation than the balance between internal and external contribution/expression, while we're more oriented by [[responses/alchemy/integral theory\|integral theory]]'s distinctions of the [[models & frameworks/alchemy/four facets of integral development\|four facets of integral development]].
 
-they're also more interested in furthering their own empirical research rather than integrating different [[topics/alchemy/spiritual lineages\|wisdom traditions]] and [[_001_MOCs/025 🔷 long game/025 🗺 topics & references MOC\|fields of knowledge]].
+they're also more interested in furthering their own empirical research rather than integrating different [[topics/alchemy/spiritual lineages\|wisdom traditions]] and [[_005_MOCs/025 🔷 long game/025 🗺 topics & references MOC\|fields of knowledge]].
 
 
 ++++ still have to write/clarify my differences in approach from:
@@ -368,7 +368,7 @@ managing oneself (energy, time, parts, thoughts, emotions, actions)
 owning your shadows ([[concepts/alchemy/underworld\|concepts/alchemy/underworld]])
 [[7 chakras\|7 chakras]]
 managing [[concepts/alchemy/ego states\|ego states]]
-accessing [[_004_toolkit/classes/archetypes MOC\|archetypes MOC]]
+accessing [[_006_toolkit/classes/archetypes MOC\|archetypes MOC]]
 aligning with [[nature cycles\|nature cycles]]
 [[proving oneself\|proving oneself]]
 [[discovering oneself\|discovering oneself]]
@@ -421,7 +421,7 @@ being "creative" / "free"
 
 ##### 3) challenges (personal & collective)
 
-shared context allows for coordination and collaboration. that's why [[communities\|communities]], [[_001_MOCs/references MOC\|references MOC]] and [[language\|language]] really matter here.
+shared context allows for coordination and collaboration. that's why [[communities\|communities]], [[_005_MOCs/references MOC\|references MOC]] and [[language\|language]] really matter here.
 
 refs:
 societal level:
@@ -453,7 +453,7 @@ https://subconscious.substack.com/p/effort-is-evidence-of-broken-feedback
 
 ##### 4) digital environments/objects
 
-[[_004_toolkit/000 ⛓ l1f3 player toolkit\|player toolkit]] enters here. [[concepts/lab/personal tech stack\|personal tech stack]]. [[concepts/design/third spaces\|third spaces]].
+[[_006_toolkit/000 ⛓ l1f3 player toolkit\|player toolkit]] enters here. [[concepts/lab/personal tech stack\|personal tech stack]]. [[concepts/design/third spaces\|third spaces]].
 
 ###### 4.1) personal tech stacks
 
@@ -470,7 +470,7 @@ modularity and interoperability are so important here. [[initiatives, orgs & com
 
 #### [[_003_L1F3/l1f3 player system\|🎮 l1f3 player system]]
 
-##### 1) [[_004_toolkit/000 ⛓ l1f3 player toolkit\|🧰 l1f3 player toolkit]]
+##### 1) [[_006_toolkit/000 ⛓ l1f3 player toolkit\|🧰 l1f3 player toolkit]]
 
 a set of best practices, interfaces, pages and dashboards for managing your [[concepts/alchemy/self\|self]].
 

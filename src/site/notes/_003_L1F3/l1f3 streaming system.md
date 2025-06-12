@@ -1,8 +1,8 @@
 ---
-{"aliases":["life streaming system","🌫 l1f3 streaming system","🌫 life streaming system","🌫 LSS","L1F3 streaming system"],"created in":"2022-02-05T11:38:47-03:00","last tended to":"2024-10-12T18:47:47-03:00","tags":["project","l1f3","🌱"],"dg-publish":true,"notestage":["🌱"],"created":"2022-02-05T11:38:47.503-03:00","updated":"2025-04-06T11:51:04.604-03:00","readinesslevel":"20%","permalink":"/003-l1-f3/l1f3-streaming-system/","dgPassFrontmatter":true}
+{"aliases":["life streaming system","🌫 l1f3 streaming system","🌫 life streaming system","🌫 LSS","L1F3 streaming system"],"created in":"2022-02-05T11:38:47-03:00","last tended to":"2024-10-12T18:47:47-03:00","tags":["project","l1f3","🌱"],"dg-publish":true,"notestage":["🌱"],"created":"2022-02-05T11:38:47.503-03:00","updated":"2025-06-10T18:18:23.784-03:00","readinesslevel":"20%","permalink":"/003-l1-f3/l1f3-streaming-system/","dgPassFrontmatter":true}
 ---
 
-main archetypes: [[_004_toolkit/classes/artist\|🎨 artist]], [[_005_c4ss1us/c4ss1us.design\|✒ architect]]
+main archetypes: [[_006_toolkit/classes/artist\|🎨 artist]], [[_004_c4ss1us/c4ss1us.design\|✒ architect]]
 keywords: [[concepts/design/resources\|resources]], [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/superskills master list/resources management\|resources management]], [[concepts/design/value\|value]], [[value flows\|value flows]], [[information flows\|information flows]], [[topics/lab/information management\|information management]], [[concepts/design/memetics\|memetics]], [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/decision management system/self-investment methodology/skills breakdown/Copy of personal clarity/meta-communication/meta-communication\|meta-communication]], [[content curation\|content curation]], [[terms/consumption\|content consumption]], [[life management/content creation\|content creation]], [[content distribution\|content distribution]], [[content management\|content management]], [[content streamlining\|content streamlining]]
 
 ---

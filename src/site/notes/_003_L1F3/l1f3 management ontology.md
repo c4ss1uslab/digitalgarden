@@ -1,5 +1,5 @@
 ---
-{"aliases":["LMM - life management methodology","life management methodology (LMM)","life management methodology","L1F3 management framework","l1f3 management framework","L1F3 management methodology","L1F3 ontology","🕸 L1F3 management framework","🕸 L1F3 management methodology","🕸 l1f3 management framework","🕸 l1f3 management methodology","L1F3 management ontology","l1f3 ontology","life management ontology"],"created in":"2022-04-11T16:33:28-03:00","last tended to":"2024-11-06T20:01:26-03:00","dg-publish":true,"tags":["project","🌿","l1f3","alchemy","design","lifemanagement","lifedesign","methodology","framework"],"notestage":["🌿"],"created":"2022-04-11T16:33:28.838-03:00","updated":"2025-04-05T14:00:21.652-03:00","relevancescore":97,"permalink":"/003-l1-f3/l1f3-management-ontology/","dgPassFrontmatter":true}
+{"aliases":["LMM - life management methodology","life management methodology (LMM)","life management methodology","L1F3 management framework","l1f3 management framework","L1F3 management methodology","L1F3 ontology","🕸 L1F3 management framework","🕸 L1F3 management methodology","🕸 l1f3 management framework","🕸 l1f3 management methodology","L1F3 management ontology","l1f3 ontology","life management ontology"],"created in":"2022-04-11T16:33:28-03:00","last tended to":"2024-11-06T20:01:26-03:00","dg-publish":true,"tags":["project","🌿","l1f3","alchemy","design","lifemanagement","lifedesign","methodology","framework"],"notestage":["🌿"],"created":"2022-04-11T16:33:28.838-03:00","updated":"2025-06-12T14:03:44.282-03:00","relevancescore":97,"permalink":"/003-l1-f3/l1f3-management-ontology/","dgPassFrontmatter":true}
 ---
 
 > i believe most, if not all, of one's most important aspects of their lives can be managed through the set of categories below. the idea of proposing this ontology is to make it easier to manage the [[concepts/design/complexity\|complexity]] of our lives and to communicate about it. this systematizing aims to enable deeper levels of [[understanding\|understanding]], [[visibility\|visibility]] and [[coordination\|coordination]] across [[worldviews\|worldviews]], [[_003_L1F3/core concepts/lifestyles\|lifestyles]] and [[metagames\|metagames]].
@@ -28,43 +28,43 @@ it consists of:
 a set of [[concepts/lab/maps of content\|maps of content]], structured under the [[models & frameworks/player/fourgames\|fourgames]] framework, that is in a sense, similar to GTD's [[6 horizons of focus - GTD.png|6 horizons of focus]].
 
 🟣 [[concepts/alchemy/deep game\|deep game]]:
-- [[_001_MOCs/000 🟣 deep game/000 🧘🏻‍♂️ self\|000 🧘🏻‍♂️ self]]
-- [[_001_MOCs/000 🟣 deep game/001 🧿 purpose & ikigai MOC\|001 🧿 purpose & ikigai MOC]]
-- [[_001_MOCs/000 🟣 deep game/005 🎢 journeys & archetypes MOC\|005 🎢 journeys & archetypes MOC]]
-- [[_001_MOCs/000 🟣 deep game/010 💠 values & principles MOC\|010 💠 values & principles MOC]]
-- [[_001_MOCs/000 🟣 deep game/015 ✨ heuristics & inquiries MOC\|015 ✨ heuristics & inquiries MOC]]
+- [[_005_MOCs/000 🟣 deep game/000 🧘🏻‍♂️ self\|000 🧘🏻‍♂️ self]]
+- [[_005_MOCs/000 🟣 deep game/001 🧿 purpose & ikigai MOC\|001 🧿 purpose & ikigai MOC]]
+- [[_005_MOCs/000 🟣 deep game/005 🎢 journeys & archetypes MOC\|005 🎢 journeys & archetypes MOC]]
+- [[_005_MOCs/000 🟣 deep game/010 💠 values & principles MOC\|010 💠 values & principles MOC]]
+- [[_005_MOCs/000 🟣 deep game/015 ✨ heuristics & inquiries MOC\|015 ✨ heuristics & inquiries MOC]]
 
 🔹 [[concepts/alchemy/long game\|long game]]:
-- [[_001_MOCs/025 🔷 long game/020 ❔ concepts, questions & ideas MOC\|020 ❔ concepts, questions & ideas MOC]]
-- [[_001_MOCs/025 🔷 long game/025 🗺 topics & references MOC\|025 🗺 topics & references MOC]]
-- [[_001_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|030 ⛰ challenges & framing MOC]]
-- [[_001_MOCs/025 🔷 long game/035 🔭 missions MOC\|035 🔭 missions MOC]]
+- [[_005_MOCs/025 🔷 long game/020 ❔ concepts, questions & ideas MOC\|020 ❔ concepts, questions & ideas MOC]]
+- [[_005_MOCs/025 🔷 long game/025 🗺 topics & references MOC\|025 🗺 topics & references MOC]]
+- [[_005_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|030 ⛰ challenges & framing MOC]]
+- [[_005_MOCs/025 🔷 long game/035 🔭 missions MOC\|035 🔭 missions MOC]]
 
 🟩 [[concepts/alchemy/mid game\|mid game]]:
-- [[_001_MOCs/050 🟩 mid game/040 🤹🏻‍♂️ areas MOC\|040 🤹🏻‍♂️ areas MOC]]
-- [[_001_MOCs/050 🟩 mid game/045 🎯 objectives MOC\|045 🎯 objectives MOC]]
-- [[_001_MOCs/050 🟩 mid game/050 ♟ strategy MOC\|050 ♟ strategy MOC]]
-- [[_001_MOCs/050 🟩 mid game/055 💼 ventures & initiatives MOC\|055 💼 ventures & initiatives MOC]]
-- [[_001_MOCs/050 🟩 mid game/060 🗡 projects MOC\|060 🗡 projects MOC]]
-- [[_001_MOCs/050 🟩 mid game/065 🏆 goals & KPIs MOC\|065 🏆 goals & KPIs MOC]]
-- [[_001_MOCs/050 🟩 mid game/070 🔩 prototypes MOC\|070 🔩 prototypes MOC]]
-- [[_001_MOCs/050 🟩 mid game/075 🎖 quests MOC\|075 🎖 quests MOC]]
-- [[_001_MOCs/050 🟩 mid game/080 ⚒ tools MOC\|080 ⚒ tools MOC]]
-- [[_001_MOCs/050 🟩 mid game/085 🎎 communities & relationships MOC\|085 🎎 communities & relationships MOC]]
-- [[_001_MOCs/050 🟩 mid game/090 🧪 experiments MOC\|090 🧪 experiments MOC]]
+- [[_005_MOCs/050 🟩 mid game/040 🤹🏻‍♂️ areas MOC\|040 🤹🏻‍♂️ areas MOC]]
+- [[_005_MOCs/050 🟩 mid game/045 🎯 objectives MOC\|045 🎯 objectives MOC]]
+- [[_005_MOCs/050 🟩 mid game/050 ♟ strategy MOC\|050 ♟ strategy MOC]]
+- [[_005_MOCs/050 🟩 mid game/055 💼 ventures & initiatives MOC\|055 💼 ventures & initiatives MOC]]
+- [[_005_MOCs/050 🟩 mid game/060 🗡 projects MOC\|060 🗡 projects MOC]]
+- [[_005_MOCs/050 🟩 mid game/065 🏆 goals & KPIs MOC\|065 🏆 goals & KPIs MOC]]
+- [[_005_MOCs/050 🟩 mid game/070 🔩 prototypes MOC\|070 🔩 prototypes MOC]]
+- [[_005_MOCs/050 🟩 mid game/075 🎖 quests MOC\|075 🎖 quests MOC]]
+- [[_005_MOCs/050 🟩 mid game/080 ⚒ tools MOC\|080 ⚒ tools MOC]]
+- [[_005_MOCs/050 🟩 mid game/085 🎎 communities & relationships MOC\|085 🎎 communities & relationships MOC]]
+- [[_005_MOCs/050 🟩 mid game/090 🧪 experiments MOC\|090 🧪 experiments MOC]]
 
 🔴🟠🟡 [[concepts/alchemy/short game\|short game]]:
-- [[_001_MOCs/075 🔴🟠🟡 short game/095 🤸🏻‍♀️ body MOC\|095 🤸🏻‍♀️ body MOC]]
-- [[_001_MOCs/075 🔴🟠🟡 short game/096 💜 feelings MOC\|096 💜 feelings MOC]]
-- [[_001_MOCs/075 🔴🟠🟡 short game/097 💭 thoughts MOC\|097 💭 thoughts MOC]]
-- [[_001_MOCs/075 🔴🟠🟡 short game/098 📕 learning MOC\|098 📕 learning MOC]]
-- [[_001_MOCs/075 🔴🟠🟡 short game/099 📆 activities MOC\|099 📆 activities MOC]]
-- [[_001_MOCs/075 🔴🟠🟡 short game/100 💪🏻 actions MOC\|100 💪🏻 actions MOC]]
+- [[_005_MOCs/075 🔴🟠🟡 short game/095 🤸🏻‍♀️ body MOC\|095 🤸🏻‍♀️ body MOC]]
+- [[_005_MOCs/075 🔴🟠🟡 short game/096 💜 feelings MOC\|096 💜 feelings MOC]]
+- [[_005_MOCs/075 🔴🟠🟡 short game/097 💭 thoughts MOC\|097 💭 thoughts MOC]]
+- [[_005_MOCs/075 🔴🟠🟡 short game/098 📕 learning MOC\|098 📕 learning MOC]]
+- [[_005_MOCs/075 🔴🟠🟡 short game/099 📆 activities MOC\|099 📆 activities MOC]]
+- [[_005_MOCs/075 🔴🟠🟡 short game/100 💪🏻 actions MOC\|100 💪🏻 actions MOC]]
 
 inspired by the [[models & frameworks/design/OODA loop\|OODA loop]], i also created a few spaces to visualize/understand/improve meta-cognitive processes:
 - [[sensing hub\|sensing hub]]
 - [[sensemaking hub\|sensemaking hub]]
-- [[_004_toolkit/008 🕹 decision hub\|decision-making hub]]
+- [[_006_toolkit/008 🕹 decision hub\|decision-making hub]]
 - [[action hub\|action hub]] (task management) - ok
 - [[learning hub\|learning hub]] (learning management) - ok
 
@@ -76,14 +76,14 @@ inspired by the [[models & frameworks/player/fourgames\|fourgames]] framework, t
 - [[metaphor\|metaphor]]
 
 🔹 [[concepts/alchemy/long game\|long game]]:
-- [[_004_toolkit/x+ 🎭 roles LPS\|roles]]
-- [[_001_MOCs/050 🟩 mid game/065 🏆 goals & KPIs MOC\|goals]]
-- [[_001_MOCs/025 🔷 long game/035 🔭 missions MOC\|missions]] ([[story\|story]]/[[path\|path]])
+- [[_006_toolkit/x+ 🎭 roles LPS\|roles]]
+- [[_005_MOCs/050 🟩 mid game/065 🏆 goals & KPIs MOC\|goals]]
+- [[_005_MOCs/025 🔷 long game/035 🔭 missions MOC\|missions]] ([[story\|story]]/[[path\|path]])
 
 🟩 [[concepts/alchemy/mid game\|mid game]]:
 - [[topics/design/systems\|systems]]
 - [[terms/environment\|environment]]
-- [[_001_MOCs/050 🟩 mid game/080 ⚒ tools MOC\|tools]]
+- [[_005_MOCs/050 🟩 mid game/080 ⚒ tools MOC\|tools]]
 
 🔴🟠🟡 [[concepts/alchemy/short game\|short game]]:
 - [[concepts/alchemy/time\|time]]
@@ -92,7 +92,7 @@ inspired by the [[models & frameworks/player/fourgames\|fourgames]] framework, t
 - [[feelings\|feelings]]/[[emotions\|emotions]]
 - [[activity\|activity]]
 
-and finally, inspired by [[references/player/anime;manga;webtoon/solo leveling\|solo leveling]]/[[nanomachine\|nanomachine]]'s player system and [[references/player/anime;manga;webtoon/sword art online\|sword art online]]'s yui/iron man's [[jarvis\|jarvis]], i created the [[_004_toolkit/000 ⛓ l1f3 player toolkit\|L1F3 player toolkit]] - i.e. a toolbox for playing life in more conscious, effective, collaborative, fun and purposeful ways.
+and finally, inspired by [[references/player/anime;manga;webtoon/solo leveling\|solo leveling]]/[[nanomachine\|nanomachine]]'s player system and [[references/player/anime;manga;webtoon/sword art online\|sword art online]]'s yui/iron man's [[jarvis\|jarvis]], i created the [[_006_toolkit/000 ⛓ l1f3 player toolkit\|L1F3 player toolkit]] - i.e. a toolbox for playing life in more conscious, effective, collaborative, fun and purposeful ways.
 
 ---
 #### how this came to be & where it's going
@@ -103,7 +103,7 @@ as any teenager, i was basically in search of a [[tbprocessed/notion/c4ss1us’ 
 
 this question led me to several different perspectives, based on different [[philosophical\|philosophical]] stances, which had very practical consequences. lots of people have created [[digital productivity\|digital productivity]] setups and [[topics/lab/personal knowledge management\|personal knowledge management]] systems (as i share my major influences below), but most of them don't ever question deeply held conventional western-centric, [[Modernism\|modern]] worldviews.
 
-i started this investigation in 2015 from a very conventional worldview, by attempting to implement [[_001_MOCs/000 🟣 deep game/010 💠 values & principles MOC\|principles]], [[_001_MOCs/000 🟣 deep game/015 ✨ heuristics & inquiries MOC\|heuristics]] and [[topics/alchemy/mental models\|mental models]] from references like [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/organizations master list/farnam street\|farnam street]], [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/bookmarks/Wait But Why\|wait but why]] and [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/contacts master list/contacts master list/tim ferriss\|tim ferriss]], and the most structured of them - [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/content master list/the last safe investment\|the last safe investment]]'s [[models & frameworks/player/S.A.F.E. plan\|S.A.F.E. plan]] into systems and frameworks such as [[david allen\|david allen]]'s [[models & frameworks/lab/getting things done\|getting things done]], [[zettelkasten\|zettelkasten]], [[leo babauta\|leo babauta]]'s [[zen to done\|zen to done]], [[taylor pearson\|taylor pearson]]'s [[purposeful productivity\|purposeful productivity]]. (this was before many contemporary "business gurus" such as [[naval ravikant\|naval ravikant]], [[andrew huberman\|andrew huberman]], [[lex fridman\|lex fridman]] and others have risen in popular culture.)
+i started this investigation in 2015 from a very conventional worldview, by attempting to implement [[_005_MOCs/000 🟣 deep game/010 💠 values & principles MOC\|principles]], [[_005_MOCs/000 🟣 deep game/015 ✨ heuristics & inquiries MOC\|heuristics]] and [[topics/alchemy/mental models\|mental models]] from references like [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/organizations master list/farnam street\|farnam street]], [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/bookmarks/Wait But Why\|wait but why]] and [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/contacts master list/contacts master list/tim ferriss\|tim ferriss]], and the most structured of them - [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/content master list/the last safe investment\|the last safe investment]]'s [[models & frameworks/player/S.A.F.E. plan\|S.A.F.E. plan]] into systems and frameworks such as [[david allen\|david allen]]'s [[models & frameworks/lab/getting things done\|getting things done]], [[zettelkasten\|zettelkasten]], [[leo babauta\|leo babauta]]'s [[zen to done\|zen to done]], [[taylor pearson\|taylor pearson]]'s [[purposeful productivity\|purposeful productivity]]. (this was before many contemporary "business gurus" such as [[naval ravikant\|naval ravikant]], [[andrew huberman\|andrew huberman]], [[lex fridman\|lex fridman]] and others have risen in popular culture.)
 
 this evolved through my own work in 2018 when i was learning/working with [[people/references/alchemy/gabriel goffi\|gabriel goffi]] on the [[projects & tools/projects/design/24h system\|24h system]], when i got introduced to several key figures in [[topics/alchemy/spirituality\|spirituality]] and [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/decision management system/self-investment methodology/skills breakdown/Copy of personal clarity/big picture world understanding/consciousness expansion\|consciousness expansion]], and then in the following years when i dove into [[people/references/lab/tiago forte\|tiago forte]]'s [[patterns/active patterns/knowledge management/building a second brain\|BASB]] ([[patterns/active patterns/knowledge management/building a second brain\|building a second brain]]), [[august bradley\|august bradley]]'s [[models & frameworks/lab/pillars, pipelines & vaults\|pillars, pipelines & vaults]], [[people/references/lab/nick milo\|nick milo]]'s [[LYT\|LYT]], [[tbprocessed/base notes/people/zsolt viczián\|zsolt viczián]]'s [[visual knowledge management system\|visual knowledge management system]].
 
@@ -111,7 +111,7 @@ this evolved through my own work in 2018 when i was learning/working with [[peop
 
 deeper than that, these references introduced me to the original research in the field of [[responses/lab/tools for thought\|tools for thought]], plus the current initiatives and developments which have come up with several [[patterns/pattern collections/knowledge design patterns\|knowledge design frameworks and patterns]] that add rich perspectives to the pile.
 
-now, most of these are still very much in the tech-oriented/[[responses/lab/knowledge management\|knowledge management]] space. managing life isn't just managing knowledge (as seen in the [[models & frameworks/design/DIKW pyramid\|DIKW pyramid]]), so once again looking from perspectives from other disciplines, in 2019 i discovered [[tbprocessed/evernote/0 - inbox/ken wilber\|tbprocessed/evernote/0 - inbox/ken wilber]]'s work on [[responses/alchemy/integral theory\|integral theory]] and the [[references/alchemy/integral OS\|integral OS]], and they soon came to be a cornerstone in everything i do.
+now, most of these are still very much in the tech-oriented/[[responses/lab/knowledge management\|knowledge management]] space. managing life isn't just managing knowledge (as seen in the [[models & frameworks/design/DIKW pyramid\|DIKW pyramid]]), so once again looking from perspectives from other disciplines, in 2019 i discovered [[people/references/alchemy/ken wilber\|ken wilber]]'s work on [[responses/alchemy/integral theory\|integral theory]] and the [[references/alchemy/integral OS\|integral OS]], and they soon came to be a cornerstone in everything i do.
 
 in early 2022 my vision was amplified by [[people/friends/ísis schuarts\|ísis schuarts]]' vision for [[_003_L1F3/L1F3.stream\|L1F3.stream]] and the [[_003_L1F3/l1f3 manager\|l1f3 manager]], which had some fair bit of influence from spiritual studies of [[law of time\|law of time]], [[allan kardec\|allan kardec]], the [[essenes\|essenes]], [[gnosticism\|gnosticism]] and other [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/sub-interests & practices master list/ayahuasca\|ayahuasca]] communities (which i didn't want to dive fully in, to not get too esoteric), but also it had some very practical collaborative [[_003_L1F3/core concepts/life design\|life design]] implementations in its systems.
 
@@ -149,4 +149,4 @@ i wanted it to be minimally opinionated, yet i found the [[topics/design/regener
 
 as it's intended to be modular, the ontology of the framework itself is under constant development, but the initial core principles/structures are set in place.
 
-over time i learned that any effective design must include several elements - from practical [[_001_MOCs/050 🟩 mid game/080 ⚒ tools MOC\|tools]] and [[ecologies of practices\|ecologies of practices]], to clarified [[_001_MOCs/000 🟣 deep game/010 💠 values & principles MOC\|principles]], [[_001_MOCs/000 🟣 deep game/015 ✨ heuristics & inquiries MOC\|heuristics]], [[topics/alchemy/mental models\|mental models]], [[topics/design/systems\|systems]], [[topics/lab/algorithms\|algorithms]] and [[design patterns\|design patterns]]. my aim is to introduce them here.
+over time i learned that any effective design must include several elements - from practical [[_005_MOCs/050 🟩 mid game/080 ⚒ tools MOC\|tools]] and [[ecologies of practices\|ecologies of practices]], to clarified [[_005_MOCs/000 🟣 deep game/010 💠 values & principles MOC\|principles]], [[_005_MOCs/000 🟣 deep game/015 ✨ heuristics & inquiries MOC\|heuristics]], [[topics/alchemy/mental models\|mental models]], [[topics/design/systems\|systems]], [[topics/lab/algorithms\|algorithms]] and [[design patterns\|design patterns]]. my aim is to introduce them here.

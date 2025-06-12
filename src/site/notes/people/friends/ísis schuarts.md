@@ -4,7 +4,7 @@
 
 originator of [[_003_L1F3/L1F3.stream\|L1F3.stream]]. more on [youtube](https://www.youtube.com/playlist?list=PLliJTfwEBewrsBny4TAusQGNBfgzWB8QN). all resources in portuguese-only for now. auto-translate should do a good enough job if you're interested in exploring more.
 
-ísis has created a bunch of designs for [[_003_L1F3/L1F3.stream\|L1F3.stream]], especially for the [[_003_L1F3/l1f3 game\|L1F3 game]] and [[_003_L1F3/l1f3 management system\|L1F3 management system]]. some of them are presented in her series of videos (below), but most of them are not. i don't have permission to share them publicly, but many of my [[propositions\|propositions]] and [[_001_MOCs/050 🟩 mid game/080 🖌 designs MOC\|designs]] are informed by/in alignment with them.
+ísis has created a bunch of designs for [[_003_L1F3/L1F3.stream\|L1F3.stream]], especially for the [[_003_L1F3/l1f3 game\|L1F3 game]] and [[_003_L1F3/l1f3 management system\|L1F3 management system]]. some of them are presented in her series of videos (below), but most of them are not. i don't have permission to share them publicly, but many of my [[propositions\|propositions]] and [[_005_MOCs/050 🟩 mid game/080 🖌 designs MOC\|designs]] are informed by/in alignment with them.
 
 ###### introductory resources:
 

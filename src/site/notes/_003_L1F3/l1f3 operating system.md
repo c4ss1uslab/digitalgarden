@@ -5,7 +5,7 @@
 in the context of the [[models & frameworks/design/OODA loop\|OODA loop]], this system is mostly about [[observation\|observation]].
 
 #project
-main archetype: [[_004_toolkit/classes/alchemist\|🧙‍♂️ alchemist]]
+main archetype: [[_006_toolkit/classes/alchemist\|🧙‍♂️ alchemist]]
 
 ---
 
@@ -36,7 +36,7 @@ and building minimum viable prototypes as some answers are discovered.
 - [[personal operating systems\|personal operating systems]]
 	- [[worldviews\|worldviews]] / [[value;belief systems\|value;belief systems]]
 	- [[personal matrix\|personal matrix]] / [[distinctions\|distinctions]]
-	- [[_004_toolkit/classes/archetypes MOC\|archetypes MOC]] / [[archetypal lineage\|archetypal lineage]]
+	- [[_006_toolkit/classes/archetypes MOC\|archetypes MOC]] / [[archetypal lineage\|archetypal lineage]]
 	- [[cognitive biases\|cognitive biases]]
 	- [[topics/alchemy/mental models\|mental models]]
 	- [[nervous system\|nervous system]]

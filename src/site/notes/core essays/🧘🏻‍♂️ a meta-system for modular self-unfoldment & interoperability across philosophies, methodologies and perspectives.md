@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-12-14T12:54:40-03:00","last tended to":"2024-09-24T16:19:46-03:00","dg-publish":true,"tags":["alchemy","essay","🌱"],"aliases":["🧘🏻‍♂️ a meta-system for modular self-unfoldment"],"notestage":["🌱"],"created":"2023-12-14T12:54:40.894-03:00","updated":"2025-05-21T16:16:05.448-03:00","permalink":"/core-essays/a-meta-system-for-modular-self-unfoldment-and-interoperability-across-philosophies-methodologies-and-perspectives/","dgPassFrontmatter":true}
+{"created in":"2023-12-14T12:54:40-03:00","last tended to":"2024-09-24T16:19:46-03:00","dg-publish":true,"tags":["alchemy","essay","🌱"],"aliases":["🧘🏻‍♂️ a meta-system for modular self-unfoldment"],"notestage":["🌱"],"created":"2023-12-14T12:54:40.894-03:00","updated":"2025-06-12T14:06:18.090-03:00","permalink":"/core-essays/a-meta-system-for-modular-self-unfoldment-and-interoperability-across-philosophies-methodologies-and-perspectives/","dgPassFrontmatter":true}
 ---
 
 sub-title: **approaches to self design, self as a system, encoded philosophy, integral spirituality and conscious life operating systems**.
@@ -22,7 +22,7 @@ if we compare the propositions of different [[topics/alchemy/spiritual lineages\
 
 there are definitely irreconcilable differences that we can focus on, but we can find ways in which many of the differences can actually be complementary as well.
 
-[[tbprocessed/evernote/0 - inbox/ken wilber\|tbprocessed/evernote/0 - inbox/ken wilber]] has done a lot of this comparative work across traditions and modern science/academia already. and many people have been building upon it:
+[[people/references/alchemy/ken wilber\|ken wilber]] has done a lot of this comparative work across traditions and modern science/academia already. and many people have been building upon it:
 
 [[jamie wheal\|jamie wheal]] on [[recapture the rapture\|recapture the rapture]], [[barbara marx hubbard\|barbara marx hubbard]] on [[tbprocessed/base notes/concepts - general/conscious evolution\|conscious evolution]], [[marc gafni\|marc gafni]] on [[unique self\|unique self]], [[people/references/alchemy/john vervaeke\|john vervaeke]] on [religion that is not a religion](https://www.youtube.com/@johnvervaeke), [psychotechnologies and distributed cognition](https://www.youtube.com/watch?v=237-jbJfleY), and the [[diagnosis/meaning crisis\|meaning crisis]] as a whole. (i love their works and recommend all of them)
 
@@ -45,7 +45,7 @@ the [[initiatives, orgs & communities/design/meaning alignment institute\|meanin
 
 (the [[topics/alchemy/spiritual lineages\|spiritual traditions]] we mentioned before definitely will have some things to say on the nature of [[polarity\|polarity]] as a way to find [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/balance/balance\|balance]]/[[harmony\|harmony]] as well 🙃)
 
-there are many people working on [[mediation\|mediation]], [[reconciliation\|reconciliation]], [[_005_c4ss1us/c4ss.host\|facilitation]] as a whole, and we might even say that [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/sub-interests & practices master list/governance\|governance]] is fundamentally about that. i'll dive more into this on my next article ([[core essays/💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons\|💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons]]), but [[initiatives, orgs & communities/design/the society library\|the society library]] is another example of a technology-proposing institution facilitating deeper levels of dialogue/[[concepts/alchemy/sensemaking\|sensemaking]] with their [[argument maps\|argument maps]].
+there are many people working on [[mediation\|mediation]], [[reconciliation\|reconciliation]], [[_004_c4ss1us/c4ss.host\|facilitation]] as a whole, and we might even say that [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/sub-interests & practices master list/governance\|governance]] is fundamentally about that. i'll dive more into this on my next article ([[core essays/💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons\|💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons]]), but [[initiatives, orgs & communities/design/the society library\|the society library]] is another example of a technology-proposing institution facilitating deeper levels of dialogue/[[concepts/alchemy/sensemaking\|sensemaking]] with their [[argument maps\|argument maps]].
 
 [...]
 
@@ -53,9 +53,9 @@ we can be forever seeking "who has/what is the more comprehensive/coherent/whole
 
 > how might we shift our way of evaluating a [[topics/alchemy/metaphysics\|metaphysical]] or [[concepts/alchemy/axiology\|axiological]] system, not only by their [[concepts/alchemy/epistemology\|epistemological]] rigour/approach but also by considering, for each individual: *"what works now, in service of what's in my reach, that can support me to continually grow my [[concepts/alchemy/wisdom\|wisdom]] and [[horizon of care\|horizon of care]]?"*
 
-we all came here with different [[_001_MOCs/025 🔷 long game/035 🔭 missions MOC\|missions]], [[concepts/alchemy/needs\|needs]], [[talents\|talents]] and [[_001_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|challenges]]. and while "all paths lead to the tao", not all are equally valuable.
+we all came here with different [[_005_MOCs/025 🔷 long game/035 🔭 missions MOC\|missions]], [[concepts/alchemy/needs\|needs]], [[talents\|talents]] and [[_005_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|challenges]]. and while "all paths lead to the tao", not all are equally valuable.
 
-the age-old challenge of [[_003_L1F3/core concepts/self-transformation\|self-transformation]] is as much a work of [[designing\|design]] as of [[discovery\|discovery]] and [[deconstruction\|deconstruction]] ([[tbprocessed/evernote/0 - inbox/ken wilber\|tbprocessed/evernote/0 - inbox/ken wilber]]'s model of the [[models & frameworks/alchemy/four facets of integral development\|four facets of integral development]] do a great job of explaining it in terms of: [[concepts/alchemy/waking up\|waking up]], [[concepts/alchemy/growing up\|growing up]], [[concepts/alchemy/cleaning up\|cleaning up]] and [[concepts/alchemy/showing up\|showing up]]).
+the age-old challenge of [[_003_L1F3/core concepts/self-transformation\|self-transformation]] is as much a work of [[designing\|design]] as of [[discovery\|discovery]] and [[deconstruction\|deconstruction]] ([[people/references/alchemy/ken wilber\|ken wilber]]'s model of the [[models & frameworks/alchemy/four facets of integral development\|four facets of integral development]] do a great job of explaining it in terms of: [[concepts/alchemy/waking up\|waking up]], [[concepts/alchemy/growing up\|growing up]], [[concepts/alchemy/cleaning up\|cleaning up]] and [[concepts/alchemy/showing up\|showing up]]).
 
 ![integral dashboard.jpeg](/img/user/images/interfaces%20&%20designs/integral%20dashboard.jpeg)
 

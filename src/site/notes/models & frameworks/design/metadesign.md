@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-08-18T22:18:23-03:00","last tended to":"2024-08-28T14:46:40-03:00","tags":["framework","metadesign","design","🌱"],"created":"2024-08-18T22:18:23.840-03:00","updated":"2025-05-26T16:47:36.728-03:00","notestage":["🌱"],"dg-publish":true,"permalink":"/models-and-frameworks/design/metadesign/","dgPassFrontmatter":true}
+{"created in":"2024-08-18T22:18:23-03:00","last tended to":"2024-08-28T14:46:40-03:00","tags":["framework","metadesign","design","🌱"],"created":"2024-08-18T22:18:23.840-03:00","updated":"2025-06-11T15:52:21.593-03:00","notestage":["🌱"],"dg-publish":true,"permalink":"/models-and-frameworks/design/metadesign/","dgPassFrontmatter":true}
 ---
 
 ```ad-tip
@@ -85,7 +85,7 @@ emergent [[life management/life areas (internal)/archetypal\|archetypal]] socio-
 the cognitive island - human limitations on collaboration and the emergence of higher-order structures/institutions:
 ![](https://i.imgur.com/YY58saw.png)
 
-extremely related: [[_009_notes & highlights from books, videos, articles/Thinking together\|Thinking together]]
+extremely related: [[_009_notes & highlights from books, videos, articles/Thinking together - Gordon Brander\|Thinking together - Gordon Brander]]
 
 the 4 bodies/skins we inhabit: (4 levels of layers of social reality and the expression of the archetypes in each)
 ![](https://i.imgur.com/OyMUwpS.png)

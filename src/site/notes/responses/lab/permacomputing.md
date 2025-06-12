@@ -24,7 +24,7 @@ learning to connect more deeply with our own nature/history - with our long list
 
 after dealing with all of the emotions that come with this, then we can go back to exploring exciting seeds/propositions in a few existing lines of research, such as [[people/references/lab/bret victor\|bret victor]]'s on [[media for thinking the unthinkable\|media for thinking the unthinkable]], and the roots of [[topics/lab/cybernetics\|cybernetics]]/[[topics/lab/computer science\|computer science]] as a whole, considering the design/development of [[responses/lab/tools for thought\|tools for thought]], or how i like to expand/consider it: [[concepts/design/tools for extended cognition\|tools for extended cognition]].
 
-essentially, asking from scratch: how might we, if possible, use the computational medium to support life on earth? - and other related questions, considering the [[ethics\|ethics]], [[_005_c4ss1us/c4ss1us.design\|design]] and [[manufacturing process\|manufacturing process]], learning from the successes and failures of incredible innovators/visionaries, such as [[initiatives, orgs & communities/design/buckminster fuller institute\|buckminster fuller]] and considering it all from a much more conscious standpoint.
+essentially, asking from scratch: how might we, if possible, use the computational medium to support life on earth? - and other related questions, considering the [[ethics\|ethics]], [[_004_c4ss1us/c4ss1us.design\|design]] and [[manufacturing process\|manufacturing process]], learning from the successes and failures of incredible innovators/visionaries, such as [[initiatives, orgs & communities/design/buckminster fuller institute\|buckminster fuller]] and considering it all from a much more conscious standpoint.
 
 #### key concepts:
 

@@ -1,5 +1,5 @@
 ---
-{"created in":"2021-12-11T16:52:07-03:00","last tended to":"2024-10-25T13:38:08-03:00","tags":["regen","design","response","framework","🌱"],"relevancescore":97,"notestage":["🌱"],"aliases":["regenerative","regeneration"],"created":"2021-12-11T16:52:07.327-03:00","updated":"2025-06-09T18:24:06.617-03:00","dg-publish":true,"readinesslevel":"20%","permalink":"/responses/regen/regenerative-design/","dgPassFrontmatter":true}
+{"created in":"2021-12-11T16:52:07-03:00","last tended to":"2024-10-25T13:38:08-03:00","tags":["regen","design","response","framework","🌱"],"relevancescore":97,"notestage":["🌱"],"aliases":["regenerative","regeneration"],"created":"2021-12-11T16:52:07.327-03:00","updated":"2025-06-11T15:04:51.869-03:00","dg-publish":true,"readinesslevel":"20%","permalink":"/responses/regen/regenerative-design/","dgPassFrontmatter":true}
 ---
 
 [[regenesis\|regenesis]] definition:
@@ -25,6 +25,8 @@ https://www.linkedin.com/feed/update/urn:li:activity:7202538354104545280/
 
 ---
 ##### other references:
+
+[[constructivist\|constructivist]]'s "[[the regenerative structural engineer\|the regenerative structural engineer]]" and "[[the pattern book for regenerative design\|the pattern book for regenerative design]]"
 
 springprize + [[initiatives, orgs & communities/design/buckminster fuller institute\|buckminster fuller institute]] = https://www.regenerosity.world/
 https://regen.earth/ - projects that are mature enough and have a trajectory to tell

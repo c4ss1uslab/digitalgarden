@@ -2,7 +2,7 @@
 {"created":"2024-12-03T16:35:39.304-03:00","updated":"2025-01-10T16:01:37.729-03:00","tags":["l1f3","prototype","lab","alchemy","🌿"],"dg-publish":true,"relevancescore":86,"notestage":["🌿"],"permalink":"/003-l1-f3/l1f3-manager/","dgPassFrontmatter":true}
 ---
 
-the l1f3 manager is a [[_001_MOCs/050 🟩 mid game/070 🔩 prototypes MOC\|prototype]] built by [[people/friends/ísis schuarts\|ísis schuarts]] which aimed to be the technological basis of [[_003_L1F3/core concepts/self-management\|self]] and [[topics/lab/personal data management\|personal data management]] within the [[_003_L1F3/l1f3 game\|L1F3 game]].
+the l1f3 manager is a [[_005_MOCs/050 🟩 mid game/070 🔩 prototypes MOC\|prototype]] built by [[people/friends/ísis schuarts\|ísis schuarts]] which aimed to be the technological basis of [[_003_L1F3/core concepts/self-management\|self]] and [[topics/lab/personal data management\|personal data management]] within the [[_003_L1F3/l1f3 game\|L1F3 game]].
 
 most of the content on it is in portuguese, but i'll share it below with annotations so you can grasp the essence of it.
 
@@ -22,7 +22,7 @@ in her framework/prototype, there are 6 dimensions of [[_003_L1F3/core concepts/
 
 she introduces these at the [adam kadmon instute playbook](https://adamkadmon-institute.my.canva.site/playbook) (beta website).
 
-below is an example of a [[_003_L1F3/core concepts/life management\|life management]] view in practice, focused on one's [[field of view\|field of view]], clarifying and matching [[_001_MOCs/075 🔴🟠🟡 short game/099 📆 activities MOC\|activities]] & [[_004_toolkit/daily/time blocks\|time blocks]]:
+below is an example of a [[_003_L1F3/core concepts/life management\|life management]] view in practice, focused on one's [[field of view\|field of view]], clarifying and matching [[_005_MOCs/075 🔴🟠🟡 short game/099 📆 activities MOC\|activities]] & [[_006_toolkit/daily/time blocks\|time blocks]]:
 
 ![](https://i.imgur.com/A3TXe1J.png)
 

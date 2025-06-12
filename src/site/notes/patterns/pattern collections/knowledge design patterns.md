@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-04-06T19:36:48-03:00","last tended to":"2024-09-24T16:27:41-03:00","tags":["knowledgedesign","patterns","design","🌱"],"relevancescore":96,"dg-publish":true,"notestage":["🌱"],"created":"2024-04-06T19:36:48.498-03:00","updated":"2024-11-19T17:36:22.527-03:00","permalink":"/patterns/pattern-collections/knowledge-design-patterns/","dgPassFrontmatter":true}
+{"created in":"2024-04-06T19:36:48-03:00","last tended to":"2024-09-24T16:27:41-03:00","tags":["knowledgedesign","patterns","design","🌱"],"relevancescore":96,"dg-publish":true,"notestage":["🌱"],"created":"2024-04-06T19:36:48.498-03:00","updated":"2025-06-11T15:16:15.544-03:00","permalink":"/patterns/pattern-collections/knowledge-design-patterns/","dgPassFrontmatter":true}
 ---
 
 knowledge design includes: [[knowledge development\|knowledge development]], [[topics/lab/personal knowledge management\|personal knowledge management]] and [[knowledge presentation\|knowledge presentation]]:
@@ -8,7 +8,7 @@ i spent a great deal of time over the past ~9 years trying to figure out best pr
 
 this page contains both a philosophical and technical exploration (however brief and incomplete) of the design patterns i have been applying and finding the most useful/relevant.
 
-i'm attempting to implement these patterns to both my [[_000_digital garden/c4ss1us' garden\|digital garden]] and the [[_002_research/00 - viable pathways book-zine\|viable pathways book-zine]] i'm working on, so you can see them in action there.
+i'm attempting to implement these patterns to both my [[_000_digital garden/c4ss1us' garden\|digital garden]] and the [[_001_research/00 - viable pathways book-zine\|viable pathways book-zine]] i'm working on, so you can see them in action there.
 
 ##### design patterns & choices
 
@@ -32,7 +32,10 @@ calculated:
 [[interrelatedness\|interrelatedness]]
 [[browsability\|browsability]]
 
-###### more patterns:
+frameworks into patterns/tags:
+[[models & frameworks/design/three horizons\|3 horizons]]
+(...)
+###### more exploratory/early-stage patterns:
 
 dynamic possibility/fitness landscapes (+ climate) - see https://subconscious.substack.com/p/fragments-attractors & https://baku89.com/2021/01/10/fitness-landscape
 
@@ -46,7 +49,14 @@ dynamic interfaces (generated via web/scraper/agent data + second brain informat
 
 [[user-generated blog\|user-generated blog]] ([[people/references/architect;design/stephen reid\|stephen reid]])
 
-###### references:
+taking frameworks and using as patterns:
+e.g.: [[library of systems change\|library of systems change]]: [[models & frameworks/design/three horizons\|3 horizons]] categorization within a [[places to intervene in a system\|places to intervene in a system]] "shelf". (from: https://constructivist.co.uk/the-library-of-systems-change/)
+
+same for my other patterns:
+
+
+---
+##### references:
 
 https://maggieappleton.com/patterns
 https://gordonbrander.com/pattern

@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-06-17T21:03:16-03:00","last tended to":"2024-09-24T16:20:55-03:00","tags":["knowledgemanagement","🌱"],"notestage":["🌱"],"created":"2024-06-17T21:03:16.749-03:00","updated":"2025-05-21T14:03:05.306-03:00","dg-publish":true,"permalink":"/000-digital-garden/about-my-approach-to-knowledge-development/","dgPassFrontmatter":true}
+{"created in":"2024-06-17T21:03:16-03:00","last tended to":"2024-09-24T16:20:55-03:00","tags":["knowledgemanagement","🌱"],"notestage":["🌱"],"created":"2024-06-17T21:03:16.749-03:00","updated":"2025-06-10T18:17:39.120-03:00","dg-publish":true,"permalink":"/000-digital-garden/about-my-approach-to-knowledge-development/","dgPassFrontmatter":true}
 ---
 
 ```ad-warning
@@ -16,7 +16,7 @@ the contents of the writing below are currently haphazard, disjointed and all ov
 
 [[responses/player/agent-centric learning\|agent-centric learning]], [[discovery-based learning\|discovery-based learning]]
 
-there are some absolute [[knowledge wiki\|knowledge wiki]]/[[_002_research/research\|research]] nerds like [[people/references/lab/gwern\|gwern]], [[people/references/lab/gyuri lajos\|gyuri lajos]], the folks at [[projects & tools/tools/design/weco\|weco]], and to a more accessible degree, [[people/references/lab/maggie appleton\|maggie appleton]], [[people/references/lab/gordon brander\|gordon brander]], [[projects & tools/projects/lab/codexOS\|codexOS]], [[people/references/architect;design/raghav agrawal\|raghav agrawal]], [[people/references/architect;design/michel bauwens\|michel bauwens]], [[people/references/architect;design/simon grant\|simon grant]], which often bring good insights...
+there are some absolute [[knowledge wiki\|knowledge wiki]]/[[_001_research/research\|research]] nerds like [[people/references/lab/gwern\|gwern]], [[people/references/lab/gyuri lajos\|gyuri lajos]], the folks at [[projects & tools/tools/design/weco\|weco]], and to a more accessible degree, [[people/references/lab/maggie appleton\|maggie appleton]], [[people/references/lab/gordon brander\|gordon brander]], [[projects & tools/projects/lab/codexOS\|codexOS]], [[people/references/architect;design/raghav agrawal\|raghav agrawal]], [[people/references/architect;design/michel bauwens\|michel bauwens]], [[people/references/architect;design/simon grant\|simon grant]], which often bring good insights...
 
 contextual, adaptive learning/[knowledge trails](https://maggieappleton.com/historical-trails)/ [[responses/lab/recommender systems\|recommender systems]] \\/
 [[visual explanations\|visual explanations]], [[topics/lab/spatial computing\|spatial]], other forms of [[concepts/design/extended cognition\|extended cognition]] / [[concepts/alchemy/embodied cognition\|embodied]] knowledge

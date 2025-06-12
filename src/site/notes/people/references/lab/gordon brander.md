@@ -1,12 +1,12 @@
 ---
-{"created in":"2024-03-19T16:25:06-03:00","last tended to":"2024-10-18T14:02:26-03:00","tags":["person","research","knowledgemanagement","distributedsystems","cybernetics","top3","systemsscience","🌱"],"relevancescore":93,"dg-publish":true,"notestage":["🌱"],"created":"2024-03-19T16:25:06.818-03:00","updated":"2025-01-22T16:50:50.882-03:00","permalink":"/people/references/lab/gordon-brander/","dgPassFrontmatter":true}
+{"created in":"2024-03-19T16:25:06-03:00","last tended to":"2024-10-18T14:02:26-03:00","tags":["person","research","knowledgemanagement","distributedsystems","cybernetics","top3","systemsscience","🌱"],"relevancescore":93,"dg-publish":true,"notestage":["🌱"],"created":"2024-03-19T16:25:06.818-03:00","updated":"2025-06-11T15:54:44.073-03:00","permalink":"/people/references/lab/gordon-brander/","dgPassFrontmatter":true}
 ---
 
 https://gordonbrander.com/, founder of [[projects & tools/projects/lab/subconscious (tool)\|subconscious (tool)]], publishing an amazing newsletter at: https://newsletter.squishy.computer/
 
 an incredibly deep thinker, researcher, writer and builder - one of my favorite human beings working in [[topics/design/technology\|tech]], designing [[responses/design/protocols for thought\|protocols for thought]], i.e. open-source tools for [thinking together](https://subconscious.substack.com/p/thinking-together), [[topics/design/coordination systems\|coordination systems]]/[[terms/collaboration\|collaboration]], at the intersection of [[responses/lab/tools for thought\|tools for thought]], [[topics/lab/artificial intelligence\|AI]], [[concepts/design/extended cognition\|extended cognition]], [[topics/lab/cybernetics\|cybernetics]] and more.
 
-you'll definitely see me refer to a lot to him if you're exploring any of my [[_001_MOCs/050 🟩 mid game/070 🔩 prototypes MOC\|prototypes]] and [[tbprocessed/AI-generated/designs\|designs]] of the [[_003_L1F3/L1F3 support systems\|L1F3 support systems]] and intentional [[responses/lab/personal OS design\|personal OS]].
+you'll definitely see me refer to a lot to him if you're exploring any of my [[_005_MOCs/050 🟩 mid game/070 🔩 prototypes MOC\|prototypes]] and [[tbprocessed/AI-generated/designs\|designs]] of the [[_003_L1F3/L1F3 support systems\|L1F3 support systems]] and intentional [[responses/lab/personal OS design\|personal OS]].
 
 i'm working on compiling my highlights/notes from all of his articles. it'll be up on this page sometime soon.
 
@@ -30,16 +30,16 @@ simplifying/exploring foundational [[topics/lab/cybernetics\|cybernetics]]/[[con
 in order of [[patterns/active patterns/knowledge design/relevance score\|relevance score]] (coming soon):
 
 ##### design principles:
-[[_009_notes & highlights from books, videos, articles/Thinking together\|Thinking together]]
-[[_009_notes & highlights from books, videos, articles/Tools for thought should evolve building blocks\|Tools for thought should evolve building blocks]]
-[[_009_notes & highlights from books, videos, articles/Fragments - Attractors\|Fragments - Attractors]]
-[[_009_notes & highlights from books, videos, articles/Living systems grow from simple seeds\|Living systems grow from simple seeds]]
-[[_009_notes & highlights from books, videos, articles/Effort is evidence of broken feedback loops\|Effort is evidence of broken feedback loops]]
+[[_009_notes & highlights from books, videos, articles/Thinking together - Gordon Brander\|Thinking together - Gordon Brander]]
+[[_009_notes & highlights from books, videos, articles/Tools for thought should evolve building blocks - Gordon Brander\|Tools for thought should evolve building blocks - Gordon Brander]]
+[[_009_notes & highlights from books, videos, articles/Fragments, Attractors - Gordon Brander\|Fragments, Attractors - Gordon Brander]]
+[[_009_notes & highlights from books, videos, articles/Living systems grow from simple seeds - Gordon Brander\|Living systems grow from simple seeds - Gordon Brander]]
+[[_009_notes & highlights from books, videos, articles/Effort is evidence of broken feedback loops - Gordon Brander\|Effort is evidence of broken feedback loops - Gordon Brander]]
 
 ##### state of the world analysis/propositions:
-[[_009_notes & highlights from books, videos, articles/LLMs and information post-scarcity\|LLMs and information post-scarcity]]
-[[_009_notes & highlights from books, videos, articles/LLMs and hyper-orality\|LLMs and hyper-orality]]
-[[_009_notes & highlights from books, videos, articles/Everyone will have their own AI\|Everyone will have their own AI]]
+[[_009_notes & highlights from books, videos, articles/LLMs and information post-scarcity - Gordon Brander\|LLMs and information post-scarcity - Gordon Brander]]
+[[_009_notes & highlights from books, videos, articles/LLMs and hyper-orality - Gordon Brander\|LLMs and hyper-orality - Gordon Brander]]
+[[_009_notes & highlights from books, videos, articles/Everyone will have their own AI - Gordon Brander\|Everyone will have their own AI - Gordon Brander]]
 
 #### other interesting/fun ideas
 

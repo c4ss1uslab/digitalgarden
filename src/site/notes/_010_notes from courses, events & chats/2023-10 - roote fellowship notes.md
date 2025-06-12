@@ -130,7 +130,7 @@ heuristics:
 (simplify / how to operationalize based on the impact you wanna have)
 
 if i need to choose 1 thing, it's L1F3.
-launching l1f3 stream (as a community/ecosystem). mostly embodying the [[_004_toolkit/classes/architect\|architect]] archetype.
+launching l1f3 stream (as a community/ecosystem). mostly embodying the [[_006_toolkit/classes/architect\|architect]] archetype.
 
 why L1F3: orienting ourselves towards developing both micro and macro-scale coordination/gameplay systems.
 

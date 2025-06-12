@@ -8,7 +8,7 @@ their website has a lot of great resources: https://decolonialfutures.net/
 
 [[people/references/regen/vanessa andreotti\|vanessa andreotti]] is a primary spokesperson of the collective, and i really like her introduction to their work on [[concepts/design/the great simplification\|the great simplification]] podcast: ["Hospicing Modernity and Rehabilitating Humanity" | The Great Simplification 125](https://www.youtube.com/watch?v=h5kQ7_IZ8YI)
 
-an overview of their [[_006_core notes/theories of change\|theory of change]]: [GTDF gift contract](https://decolonialfutures.net/2021/02/15/gift-contract/).
+an overview of their [[_002_core notes/theories of change\|theory of change]]: [GTDF gift contract](https://decolonialfutures.net/2021/02/15/gift-contract/).
 
 a great overview of their work/resources: [CIARS (Annual Decolonizing Conference) - keynote + notes](https://decolonialfutures.net/ciars/)
 

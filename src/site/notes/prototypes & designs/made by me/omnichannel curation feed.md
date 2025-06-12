@@ -45,6 +45,6 @@ underutilized potential: [[RSS feed\|RSS feed]]
 
 views by:
 [[format\|format]] / [[channels\|channels]]
-[[sources\|sources]] / [[_001_MOCs/references MOC\|references MOC]]
+[[sources\|sources]] / [[_005_MOCs/references MOC\|references MOC]]
 [[topics\|topics]] / [[keywords\|keywords]]
 

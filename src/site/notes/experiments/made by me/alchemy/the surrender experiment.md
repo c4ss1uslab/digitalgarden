@@ -10,6 +10,6 @@ another friend of mine who had also read it and found it meaningful, proposed a 
 
 i did that for and reviewed how it went in more detail here: https://twitter.com/c4ss1usplayer/status/1662556338356887557
 
-i was also exploring more deeply the [[_001_MOCs/025 🔷 long game/020 ❔ concepts, questions & ideas MOC\|concepts]] and [[distinctions\|distinctions]] proposed by [[initiatives, orgs & communities/alchemy/possibility management\|possibility management]], so i use some of its language in the review.
+i was also exploring more deeply the [[_005_MOCs/025 🔷 long game/020 ❔ concepts, questions & ideas MOC\|concepts]] and [[distinctions\|distinctions]] proposed by [[initiatives, orgs & communities/alchemy/possibility management\|possibility management]], so i use some of its language in the review.
 
 **conclusion:** 3/10. i don't recommend it. like [[eckhart tolle\|eckhart tolle]], i find him very confusing and not specific. if you read [[_009_notes & highlights from books, videos, articles/listening society\|listening society]], you're much better off and you'll have a much better understanding of why that's the case.
