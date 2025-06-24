@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-04-06T19:36:48-03:00","last tended to":"2024-09-24T16:27:41-03:00","tags":["knowledgedesign","patterns","design","🌱"],"relevancescore":96,"dg-publish":true,"notestage":["🌱"],"created":"2024-04-06T19:36:48.498-03:00","updated":"2025-06-11T15:16:15.544-03:00","permalink":"/patterns/pattern-collections/knowledge-design-patterns/","dgPassFrontmatter":true}
+{"created in":"2024-04-06T19:36:48-03:00","last tended to":"2024-09-24T16:27:41-03:00","tags":["knowledgedesign","patterns","design","🌱"],"relevancescore":96,"dg-publish":true,"notestage":["🌱"],"created":"2024-04-06T19:36:48.498-03:00","updated":"2025-06-17T15:16:26.906-03:00","permalink":"/patterns/pattern-collections/knowledge-design-patterns/","dgPassFrontmatter":true}
 ---
 
 knowledge design includes: [[knowledge development\|knowledge development]], [[topics/lab/personal knowledge management\|personal knowledge management]] and [[knowledge presentation\|knowledge presentation]]:
@@ -47,7 +47,7 @@ dynamic interfaces (generated via web/scraper/agent data + second brain informat
 [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/bookmarks/Daily Notes\|daily notes]] + "order by recent" -> apply to bookmarks as well
 [[patterns/active patterns/knowledge management/search or create\|search or create]]
 
-[[user-generated blog\|user-generated blog]] ([[people/references/architect;design/stephen reid\|stephen reid]])
+[[user-generated blog\|user-generated blog]] ([[people/references/design/stephen reid\|people/references/design/stephen reid]])
 
 taking frameworks and using as patterns:
 e.g.: [[library of systems change\|library of systems change]]: [[models & frameworks/design/three horizons\|3 horizons]] categorization within a [[places to intervene in a system\|places to intervene in a system]] "shelf". (from: https://constructivist.co.uk/the-library-of-systems-change/)

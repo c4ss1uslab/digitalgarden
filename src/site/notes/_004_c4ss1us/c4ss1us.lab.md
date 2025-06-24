@@ -1,5 +1,5 @@
 ---
-{"aliases":["👨🏻‍🔬 c4ss1us.lab",".lab","lab","builder"],"created":"2024-05-22T17:07:42.901-03:00","updated":"2025-06-12T14:34:09.019-03:00","tags":["c4ss1us","lab","🌿","database"],"notestage":["🌿"],"dg-publish":true,"relevancescore":98,"readinesslevel":"50%","permalink":"/004-c4ss1us/c4ss1us-lab/","dgPassFrontmatter":true}
+{"aliases":["👨🏻‍🔬 c4ss1us.lab",".lab","lab","builder"],"created":"2024-05-22T17:07:42.901-03:00","updated":"2025-06-24T17:14:43.783-03:00","tags":["c4ss1us","lab","🌿","database"],"notestage":["🌿"],"dg-publish":true,"relevancescore":98,"readinesslevel":"50%","permalink":"/004-c4ss1us/c4ss1us-lab/","dgPassFrontmatter":true}
 ---
 
 **see also:** [c4ss1us.lab mmm.page (visual overview)](https://c4ss1us.mmm.page/lab)
@@ -122,7 +122,7 @@ i have engaged with the tools/projects below to varying degrees. these scores ar
 
 ##### [[topics/design/curation\|knowledge curation]]⁹⁵ / [[topics/lab/algorithms\|algorithms]]⁹⁵:
 
-[[projects & tools/tools/lab/community archive\|community archive]]⁹⁴, [[projects & tools/projects/design/sensenets\|sensenets]]⁹³, [[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social]]⁹², [[initiatives, orgs & communities/design/sublime (ex-startupy)\|sublime]]⁸⁸, [[projects & tools/projects/lab/interneto\|interneto]]⁸⁸, [[projects & tools/tools/design/weco\|weco]]⁸⁶
+[[projects & tools/tools/lab/community archive\|community archive]]⁹⁴, [[projects & tools/projects/design/cosmik\|cosmik]]⁹³, [[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social]]⁹², [[initiatives, orgs & communities/design/sublime (ex-startupy)\|sublime]]⁸⁸, [[projects & tools/projects/lab/interneto\|interneto]]⁸⁸, [[projects & tools/tools/design/weco\|weco]]⁸⁶
 
 ##### collaborative/web-based [[responses/lab/tools for thought\|tools for thought]]⁹⁶:
 

@@ -4,4 +4,4 @@
 
 a decentralized, open-source [[social sensemaking\|social sensemaking]]/[[terms/collaboration\|collaboration]] platform, built by and active with a few folks from the [[tbprocessed/base notes/concepts - general/game b\|game b]]/[[responses/alchemy/metamodernism\|metamodern]]/[[concepts/design/metacrisis\|metacrisis]] space - https://weco.io/
 
-related people: [[people/references/architect;design/gnoman\|gnoman]], [[people/references/lab/james weir\|james weir]]
+related people: [[people/references/design/gnoman\|gnoman]], [[people/references/lab/james weir\|james weir]]

@@ -6,4 +6,4 @@ it's one the major feedback loops feeding into the [[concepts/design/metacrisis\
 
 see: [[projects & tools/projects/design/diome.xyz\|diome.xyz]]'s note on [accumulation, extraction, & abstraction](https://diome.xyz/2+%F0%9F%8C%BF+Leaves/Accumulation%2C+Extraction+%26+Abstraction)
 
-coined by [[forrest landry\|forrest landry]], and explored in more depth in: [[people/references/architect;design/daniel schmachtenberger\|daniel schmachtenberger]]'s [[new economic series\|new economic series]].
+coined by [[forrest landry\|forrest landry]], and explored in more depth in: [[people/references/design/daniel schmachtenberger\|daniel schmachtenberger]]'s [[new economic series\|new economic series]].

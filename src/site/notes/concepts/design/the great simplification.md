@@ -26,4 +26,4 @@ it goes beyond the common [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core
 
 key concepts: [[carbon pulse\|carbon pulse]], [[diagnosis/jevons paradox\|jevons paradox]], [[rebound effect\|rebound effect]], [[energy blindness\|energy blindness]], [[diagnosis/five horsemen of the anthropocalypse\|five horsemen of the anthropocalypse]], (...)
 
-see also: [[people/references/architect;design/simon michaux\|simon michaux]]
+see also: [[people/references/design/simon michaux\|simon michaux]]

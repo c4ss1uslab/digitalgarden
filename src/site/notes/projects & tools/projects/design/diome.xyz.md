@@ -4,7 +4,7 @@
 
 https://diome.xyz/
 
-a [[concepts/design/metacrisis\|metacrisis]] [[_001_research/research\|research]] project/[[life management/personal spaces/outer spaces/digital garden\|digital garden]] created by [[people/references/architect;design/andrea farias\|andrea farias]] inquiring: how can [[topics/design/technology\|technology]] be in service of a [[topics/design/regeneration\|regenerative]] society?
+a [[concepts/design/metacrisis\|metacrisis]] [[_001_research/research\|research]] project/[[life management/personal spaces/outer spaces/digital garden\|digital garden]] created by [[people/references/design/andrea farias\|andrea farias]] inquiring: how can [[topics/design/technology\|technology]] be in service of a [[topics/design/regeneration\|regenerative]] society?
 
 i find it an extraordinary consolidation of core [[concepts/design/metacrisis\|metacrisis]] terms and concepts distilled in a very accessible way. i'll refer to it often throughout my own garden/research, as she explain things very clearly.
 

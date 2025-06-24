@@ -2,7 +2,7 @@
 {"created":"2025-05-19T12:12:57.625-03:00","updated":"2025-05-19T13:16:23.983-03:00","notestage":["🌱"],"tags":["learning","metadesign","design"],"dg-publish":true,"permalink":"/topics/player/meta-learning/","dgPassFrontmatter":true}
 ---
 
- [[EOTC\|EOTC]]: [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/general skills master list/aesthetics\|aesthetics]], [[concepts/alchemy/ontology\|ontology]], [[taxonomy\|taxonomy]], [[terms/cosmology\|cosmology]] - [[people/references/architect;design/caio vassão\|caio vassão]]'s approach described in:
+ [[EOTC\|EOTC]]: [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/general skills master list/aesthetics\|aesthetics]], [[concepts/alchemy/ontology\|ontology]], [[taxonomy\|taxonomy]], [[terms/cosmology\|cosmology]] - [[people/references/design/caio vassão\|caio vassão]]'s approach described in:
  
  **[Meta-aprendizagem na prática: da estética ao cosmo.](https://caiovassao.medium.com/metadesign-e-meta-aprendizagem-da-est%C3%A9tica-ao-cosmo-1f35b7b9a92b)**
 

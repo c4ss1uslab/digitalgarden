@@ -67,7 +67,7 @@ main refs: [[projects & tools/projects/lab/envisioning tech radar\|envisioning r
 
 ##### main references:
 [[people/references/alchemy/ken wilber\|ken wilber]] / [[initiatives, orgs & communities/alchemy/integral life\|integral life]]
-[[people/references/architect;design/daniel schmachtenberger\|daniel schmachtenberger]] / [[initiatives, orgs & communities/design/the consilience project\|consilience project]]
+[[people/references/design/daniel schmachtenberger\|daniel schmachtenberger]] / [[initiatives, orgs & communities/design/the consilience project\|consilience project]]
 [[tbprocessed/base notes/ventures - general/rebel wisdom\|rebel wisdom]] / [[tbprocessed/base notes/ventures - general/future thinkers\|future thinkers]] / [[tbprocessed/base notes/ventures - general/the stoa\|the stoa]]
 
 ##### main topics:
@@ -107,7 +107,7 @@ slightly less biased, lighter/more informative analyses: [coldfusion](https://ww
 
 inspirational/perspectival content:
 [[initiatives, orgs & communities/host/mundos possíveis\|mundos possíveis]] documentary
-[[people/references/architect;design/charles eisenstein\|charles eisenstein]]
+[[people/references/design/charles eisenstein\|charles eisenstein]]
 
 historical references:
 http://globalsensemaking.net/

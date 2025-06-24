@@ -18,7 +18,7 @@ while seemingly negligible, these differences in framing can make a world of dif
 
 ##### relevant examples:
 
-[[people/references/architect;design/daniel schmachtenberger\|daniel schmachtenberger]]/[[initiatives, orgs & communities/design/the consilience project\|the consilience project]] advocates for omni-win-win games, [[wide boundary\|wide boundary]] metrics and [[ecosystems health\|ecosystems health]] such as described in [[development in progress\|development in progress]], [[bend not break\|bend not break]] and the [[new economic series\|new economic series]].
+[[people/references/design/daniel schmachtenberger\|daniel schmachtenberger]]/[[initiatives, orgs & communities/design/the consilience project\|the consilience project]] advocates for omni-win-win games, [[wide boundary\|wide boundary]] metrics and [[ecosystems health\|ecosystems health]] such as described in [[development in progress\|development in progress]], [[bend not break\|bend not break]] and the [[new economic series\|new economic series]].
 
 [[responses/alchemy/cosmoerotic humanism\|cosmoerotic humanism]] towards ever-greater [[intimacy with all things\|intimacy with all things]], achieved by the [[clarification of desire\|clarification of desire]] and [[awakening the eye of value\|awakening the eye of value]], in connection with [[eros-telos\|eros-telos]] and the [[field of value\|field of value]].
 

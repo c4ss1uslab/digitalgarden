@@ -19,7 +19,7 @@ the practice of metadesign, in this sense - attempts to create space for experie
 
 it's a set of systems/attitudes for relating to and understanding the contexts in which we live/we're embedded in, and which movements make the most sense from our position.
 
-[[people/references/architect;design/caio vassão\|caio vassão]] seems to be doing it in a very similar way, but seeing and tending to this an emergent academic and practical field - based on an approach and set of tools for (meta)designing complex systems. it drinks from several [[people/references/architect;design/caio vassão#^38761d\|sources]] as an attempt to build a deeply [[terms/collaboration\|collaborative]], [[topics/design/systems\|systems]]-informed yet abstract, generic approach to design.
+[[people/references/design/caio vassão\|caio vassão]] seems to be doing it in a very similar way, but seeing and tending to this an emergent academic and practical field - based on an approach and set of tools for (meta)designing complex systems. it drinks from several [[people/references/design/caio vassão#^38761d\|sources]] as an attempt to build a deeply [[terms/collaboration\|collaborative]], [[topics/design/systems\|systems]]-informed yet abstract, generic approach to design.
 
 it does point to some of the macro reflections that i referred to, especially through the [[models & frameworks/design/metadesign#^2adcd5\|metagame framework/application]] and in its multidisciplinary academic background via caio's lectures, 
 
@@ -33,9 +33,9 @@ examples/applications of metadesign in my own work: [[patterns/active patterns/k
 
 ##### different uses
 
-the term has different applications and methodologies, the one i'm currently learning more about (and which seems the most structured and tested from all of them) is an approach developed by [[people/references/architect;design/caio vassão\|caio vassão]] for designing [[concepts/design/complex systems\|complex systems]] (in portuguese).
+the term has different applications and methodologies, the one i'm currently learning more about (and which seems the most structured and tested from all of them) is an approach developed by [[people/references/design/caio vassão\|caio vassão]] for designing [[concepts/design/complex systems\|complex systems]] (in portuguese).
 
-other notable researchers/approaches are: [[john wood\|john wood]], [[gehrard fischer\|gehrard fischer]], [[people/references/architect;design/carlo franzato\|carlo franzato]].
+other notable researchers/approaches are: [[john wood\|john wood]], [[gehrard fischer\|gehrard fischer]], [[people/references/design/carlo franzato\|carlo franzato]].
 
 ##### introductory articles:
 

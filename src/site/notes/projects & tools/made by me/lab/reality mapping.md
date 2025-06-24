@@ -7,7 +7,7 @@ see also: [[responses/lab/mapping\|mapping]], [[projects & tools/made by me/lab/
 ---
 **what are foundational ways we can map reality itself?**
 
-a good way i found is through [[people/references/architect;design/andrea farias\|andrea farias]]' [[models & frameworks/design/holistic cultural materialism\|holistic cultural materialism]]:
+a good way i found is through [[people/references/design/andrea farias\|andrea farias]]' [[models & frameworks/design/holistic cultural materialism\|holistic cultural materialism]]:
 
 ##### superstructure
 

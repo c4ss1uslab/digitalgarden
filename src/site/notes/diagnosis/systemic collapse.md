@@ -22,7 +22,7 @@ for the first time in human history, we have the first truly globally interconne
 
 despite, or in addition to that, if we're not so short-sighted and narrow-minded, people have been learning from different sources, thinking, researching and prototyping around this for millenia.
 
-[[people/references/architect;design/daniel schmachtenberger\|daniel schmachtenberger]] and the folks researching the [[concepts/design/metacrisis\|metacrisis]] often refer to this possible event of a systemic collapse as a probable though not desirable outcome, and therefore striving to conjure up a [[third attractor\|third attractor]] - neither totalitarianism nor complete breakdown of the existing systems, as that [would badly hurt/kill a ton of people] - is a must.
+[[people/references/design/daniel schmachtenberger\|daniel schmachtenberger]] and the folks researching the [[concepts/design/metacrisis\|metacrisis]] often refer to this possible event of a systemic collapse as a probable though not desirable outcome, and therefore striving to conjure up a [[third attractor\|third attractor]] - neither totalitarianism nor complete breakdown of the existing systems, as that [would badly hurt/kill a ton of people] - is a must.
 
 the gist of the argument is:
 
@@ -65,6 +65,6 @@ and we need to act/coordinate towards a [[systemic transition\|systemic transiti
 
 on collapse [[memetic tribes\|memetic tribes]]: [Subcultures of collapse – will there be a convergence?](https://jembendell.com/2025/06/08/subcultures-of-collapse-will-there-be-a-convergence/)
 
-[[people/references/architect;design/joseph tainter\|joseph tainter]] on [[the collapse of complex societies\|the collapse of complex societies]].
+[[people/references/design/joseph tainter\|joseph tainter]] on [[the collapse of complex societies\|the collapse of complex societies]].
 
 \+ all links already mentioned in this page.

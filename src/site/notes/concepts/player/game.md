@@ -19,7 +19,7 @@ or [[metagames\|metagames]] - i.e. games that create other games. i'll explore a
 
 "All games share four defining traits: a goal, rules, a feedback system, and voluntary participation." ([Jane McGonigal](https://en.wikipedia.org/wiki/Jane_McGonigal "Jane McGonigal"))
 
-"Any game contains: the player(s), an arbiter (may be electronic) and an inventor (or more than one). It may or may not include a facilitator. Infinite games tend to have facilitators." ([[people/references/architect;design/caio vassão\|caio vassão]])
+"Any game contains: the player(s), an arbiter (may be electronic) and an inventor (or more than one). It may or may not include a facilitator. Infinite games tend to have facilitators." ([[people/references/design/caio vassão\|caio vassão]])
 
 ---
 #### use cases / 5 dimensions or "whys" of play:

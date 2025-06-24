@@ -62,7 +62,7 @@ the contents of the writing below are currently haphazard, disjointed and all ov
 - [[concepts/design/systems design\|systems design]]
 - [[concepts/design/extended cognition\|extended cognition]]
 
-see also: [[people/references/architect;design/ronen tamari\|ronen tamari]]'s concept of [dark research](https://ronentk.github.io/post/dark_research/).
+see also: [[people/references/design/ronen tamari\|ronen tamari]]'s concept of [dark research](https://ronentk.github.io/post/dark_research/).
 
 ##### [[.art\|.art]]
 

@@ -1,8 +1,19 @@
 ---
-{"created in":"2022-04-04T14:49:22-03:00","last tended to":"2024-10-25T11:43:10-03:00","tags":["alchemy","concept","🌱"],"dg-publish":true,"notestage":["🌱"],"relevancescore":96,"created":"2022-04-04T14:49:22.557-03:00","updated":"2025-06-09T20:01:42.531-03:00","readinesslevel":"10%","permalink":"/concepts/alchemy/wisdom/","dgPassFrontmatter":true}
+{"created in":"2022-04-04T14:49:22-03:00","last tended to":"2024-10-25T11:43:10-03:00","tags":["alchemy","concept","🌱"],"dg-publish":true,"notestage":["🌱"],"relevancescore":96,"created":"2022-04-04T14:49:22.557-03:00","updated":"2025-06-24T16:40:10.925-03:00","readinesslevel":"10%","permalink":"/concepts/alchemy/wisdom/","dgPassFrontmatter":true}
 ---
 
 what is wisdom? a distillation across multiple [[topics/alchemy/spiritual lineages\|wisdom traditions]]:
+
+##### simplest definition framed by [[people/references/design/nicolas michaelsen\|nicolas michaelsen]]:
+
+it's the integration of different [[concepts/alchemy/ways of knowing\|ways of knowing]] (below based on [[people/references/alchemy/john vervaeke\|john vervaeke]]'s [[models & frameworks/alchemy/4Ps;3R theory of cognition\|4Ps framework]]).
+
+![](https://i.imgur.com/gMMNtud.png)
+
+a great, simple and short introduction here: [What is Wisdom?](https://ecologiesofwisdom.substack.com/p/what-is-wisdom)
+##### [[people/references/alchemy/john vervaeke\|john vervaeke]]'s 10-min presentation on it:
+
+[John Vervaeke - What is wisdom?](https://www.youtube.com/watch?v=WpVVcVRkLok)
 
 ##### [[respond network\|respond network]]'s theory of wisdom:
 (a lot of people whose work i respect and am constantly learning more about)
@@ -19,16 +30,6 @@ what is wisdom? a distillation across multiple [[topics/alchemy/spiritual lineag
 
 https://respond-network.notion.site/Respond-Presents-A-Theory-of-Wisdom-73f6c575088142b5b4502be26922f5a9
 
-##### simplest definition proposed by [[people/references/architect;design/nicolas michaelsen\|nicolas michaelsen]]:
-
-it's the integration of different [[concepts/alchemy/ways of knowing\|ways of knowing]] (below based on [[people/references/alchemy/john vervaeke\|john vervaeke]]'s [[models & frameworks/alchemy/4Ps;3R theory of cognition\|4Ps framework]]).
-
-![](https://i.imgur.com/gMMNtud.png)
-
-##### [[people/references/alchemy/john vervaeke\|john vervaeke]]'s 10-min presentation on it:
-
-https://www.youtube.com/watch?v=WpVVcVRkLok
-
 ##### [[people/references/regen/vanessa andreotti\|vanessa andreotti]]'s indirect definition:
 
 the [[models & frameworks/alchemy/SMDR compass\|SMDR compass]].
@@ -37,7 +38,7 @@ the [[models & frameworks/alchemy/SMDR compass\|SMDR compass]].
 
 *(coming soon)*
 
-##### [[people/references/architect;design/tom morgan\|tom morgan]]'s presentations:
+##### [[people/references/design/tom morgan\|tom morgan]]'s presentations:
 
 from [[the leading edge\|the leading edge]]'s [accelerating wisdom series](https://www.theleading-edge.org/accelerating-wisdom-series/):
 
@@ -61,3 +62,8 @@ source: https://www.youtube.com/watch?v=whHC50IbiPo
 ##### [[people/references/alchemy/iain mcgilchrist\|iain mcgilchrist]]
 
 *(coming soon)*
+
+---
+##### more references (less processed)
+
+https://www.routledge.com/What-is-Wisdom-and-Can-it-be-Taught-Philosophical-Psychological-and-Pedagogical-Perspectives/Kallio-Tynjala/p/book/9781032981581

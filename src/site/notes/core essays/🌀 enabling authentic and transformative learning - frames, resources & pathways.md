@@ -67,7 +67,7 @@ researchers/practitioners such as [[people/references/lab/maggie appleton\|maggi
 
 \+ speculative designs/prototypes such as [[projects & tools/projects/design/xanadu\|project xanadu]], [[projects & tools/projects/lab/wonderOS\|wonderOS]], [[projects & tools/projects/design/mercuryOS\|mercuryOS]], [[projects & tools/projects/lab/codexOS\|codexOS]], and my own [[_004_L1F3/l1f3 operating system\|l1f3 OS]].
 
-\+ other researchers such as: [[people/references/architect;design/raghav agrawal\|raghav agrawal]], [[people/references/lab/omar rizwan\|omar rizwan]], [[serj hunt\|serj hunt]] and pretty much anyone associated with the [[initiatives, orgs & communities/lab/ink & switch\|ink & switch]] lab.
+\+ other researchers such as: [[people/references/design/raghav agrawal\|raghav agrawal]], [[people/references/lab/omar rizwan\|omar rizwan]], [[serj hunt\|serj hunt]] and pretty much anyone associated with the [[initiatives, orgs & communities/lab/ink & switch\|ink & switch]] lab.
 
 \++ communities that apply these principles in practice such as [[responses/art/música do círculo\|música do círculo]] - [[concepts/alchemy/4e cognition\|4e cognition]], [[references/design/4e cognition and music - integrative literature review\|4e cognition and music - integrative literature review]].
 

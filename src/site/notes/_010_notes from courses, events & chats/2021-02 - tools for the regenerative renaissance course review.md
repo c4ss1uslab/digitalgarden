@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-05-22T17:08:20-03:00","last tended to":"2024-10-12T18:31:12-03:00","tags":["regeneration","review","ReFi","course","🌲"],"dg-publish":true,"aliases":["tools for the regenerative renaissance"],"notestage":["🌲"],"permalink":"/010-notes-from-courses-events-and-chats/2021-02-tools-for-the-regenerative-renaissance-course-review/","dgPassFrontmatter":true,"created":"2024-05-22T17:08:20.294-03:00","updated":"2024-10-12T18:31:12.537-03:00"}
+{"created in":"2024-05-22T17:08:20-03:00","last tended to":"2024-10-12T18:31:12-03:00","tags":["regeneration","review","ReFi","course","🌲"],"dg-publish":true,"aliases":["tools for the regenerative renaissance"],"notestage":["🌲"],"created":"2024-05-22T17:08:20.294-03:00","updated":"2025-06-17T15:16:20.449-03:00","permalink":"/010-notes-from-courses-events-and-chats/2021-02-tools-for-the-regenerative-renaissance-course-review/","dgPassFrontmatter":true}
 ---
 
 "tools for the regenerative renaissance" was a six-week, "better-than-free online course", sponsored by [[initiatives, orgs & communities/design/SEEDS (ecosystem)\|SEEDS (ecosystem)]], that ran from feb-mar 2021.
@@ -17,7 +17,7 @@ i'd give the course a 4.5/5. i really liked it, there are just a few points i th
 
 i'd have really appreciated a little more big picture contextualization (how big is [[topics/design/refi\|refi]], [[tbprocessed/base notes/topics/permaculture\|permaculture]], [[dOrgs\|dOrgs]], [[dGov\|dGov]], who are the big players in these spaces, stuff like that).
 
-would have loved to learn more about your background ([[people/references/regen/phoebe tickell\|phoebe tickell]] and [[people/references/architect;design/stephen reid\|stephen reid]]) and what you're currently most interested in/excited about.
+would have loved to learn more about your background ([[people/references/regen/phoebe tickell\|phoebe tickell]] and [[people/references/design/stephen reid\|people/references/design/stephen reid]]) and what you're currently most interested in/excited about.
 
 the main takeaway for me was transforming my relationship with decentralized orgs into something more tangible and possible, instead of just an understanding of a [[DAO\|DAO]]/[[tbprocessed/base notes/ventures - general/DisCO\|DisCO]] is.
 

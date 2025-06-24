@@ -4,9 +4,9 @@
 
 ##### context
 
-cultural materialism was a framework proposed by [[people/references/architect;design/marvin harris\|marvin harris]] for conceptualizing the major areas of society/[[_003_L1F3/core concepts/civilization design\|civilization design]]. it consists of: [[concepts/design/superstructure\|superstructure]], [[social structure\|social structure]], [[concepts/design/infrastructure\|infrastructure]].
+cultural materialism was a framework proposed by [[people/references/design/marvin harris\|marvin harris]] for conceptualizing the major areas of society/[[_003_L1F3/core concepts/civilization design\|civilization design]]. it consists of: [[concepts/design/superstructure\|superstructure]], [[social structure\|social structure]], [[concepts/design/infrastructure\|infrastructure]].
 
-[[people/references/architect;design/andrea farias\|andrea farias]] provided a great introduction and proposes an expansion of it, calling it: [Holistic Cultural Materialism](https://diome.xyz/2+%F0%9F%8C%BF+Leaves/Cultural+Materialism), emphasizing the biological systems we're also part of.
+[[people/references/design/andrea farias\|andrea farias]] provided a great introduction and proposes an expansion of it, calling it: [Holistic Cultural Materialism](https://diome.xyz/2+%F0%9F%8C%BF+Leaves/Cultural+Materialism), emphasizing the biological systems we're also part of.
 
 i find it a very useful reference for clarifying what are the civilizational [[topics/design/systems\|systems]] we've built and that we're part of.
 

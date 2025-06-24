@@ -4,7 +4,7 @@
 
 major ref: [[elinor ostrom\|elinor ostrom]]
 
-good intro video by [[people/references/architect;design/ashley hodgson\|ashley hodgson]]: [Elinor Ostrom: Governing the Commons](https://www.youtube.com/watch?v=lIvmMRzcSvM)
+good intro video by [[people/references/design/ashley hodgson\|ashley hodgson]]: [Elinor Ostrom: Governing the Commons](https://www.youtube.com/watch?v=lIvmMRzcSvM)
 
 framework: ![](https://i.imgur.com/Kb0DeuF.jpeg)
 

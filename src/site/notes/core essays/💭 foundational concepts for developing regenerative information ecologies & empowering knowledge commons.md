@@ -48,7 +48,7 @@ i share this as a way to clarify the “agenda” behind this article (the biase
 
 these 3 themes of work came both from my research on systemic [[_005_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|challenges]], [[topics/player/game theory\|game theory]] and [[concepts/design/existential risk\|existential risk]], as well as personal intuitions, insights and awakenings i had on my self-knowledge path.
 
-throughout this path, i’ve found many organizations, communities and people doing amazing work. a few of the ones that impacted me the most being: [[people/references/architect;design/daniel schmachtenberger\|daniel schmachtenberger]], [[people/references/alchemy/ken wilber\|ken wilber]], [[people/references/lab/maggie appleton\|maggie appleton]], [[initiatives, orgs & communities/design/metagame.wtf\|metagame.wtf]], [[initiatives, orgs & communities/design/SEEDS (ecosystem)\|SEEDS]], [possibility management](http://possibilitymanagement.com/), [protocol labs], [holochain](http://holochain.org), [[projects & tools/projects/lab/subconscious (tool)\|subconscious (tool)]], [L1F3.STREAM](https://www.youtube.com/playlist?list=PLliJTfwEBewrsBny4TAusQGNBfgzWB8QN), [high stakes academy] and [mundos possíveis](https://www.instagram.com/mundos_possiveis/) (the last three only have content in brazilian portuguese for now).
+throughout this path, i’ve found many organizations, communities and people doing amazing work. a few of the ones that impacted me the most being: [[people/references/design/daniel schmachtenberger\|daniel schmachtenberger]], [[people/references/alchemy/ken wilber\|ken wilber]], [[people/references/lab/maggie appleton\|maggie appleton]], [[initiatives, orgs & communities/design/metagame.wtf\|metagame.wtf]], [[initiatives, orgs & communities/design/SEEDS (ecosystem)\|SEEDS]], [possibility management](http://possibilitymanagement.com/), [protocol labs], [holochain](http://holochain.org), [[projects & tools/projects/lab/subconscious (tool)\|subconscious (tool)]], [L1F3.STREAM](https://www.youtube.com/playlist?list=PLliJTfwEBewrsBny4TAusQGNBfgzWB8QN), [high stakes academy] and [mundos possíveis](https://www.instagram.com/mundos_possiveis/) (the last three only have content in brazilian portuguese for now).
 
 so much so that to varying degrees, i contribute or contributed to each of these projects for some time. i’ll still write about why i believe each of them is relevant, what they bring of uniquely valuable to the world, along with lots of other references of people/organizations doing similar/complimentary work.
 
@@ -129,7 +129,7 @@ which leads us to the first foundational concept:
 
 ...
 
-[[people/references/architect;design/caio vassão\|caio vassão]] - [metadesign, jogos e transformação cultural](https://caiovassao.medium.com/metadesign-jogos-e-transforma%C3%A7%C3%A3o-cultural-4ffce499cd8a)
+[[people/references/design/caio vassão\|caio vassão]] - [metadesign, jogos e transformação cultural](https://caiovassao.medium.com/metadesign-jogos-e-transforma%C3%A7%C3%A3o-cultural-4ffce499cd8a)
 
 #### 2) [[topics/design/digital cartography\|digital cartography]] & approaches to information [[responses/lab/mapping\|mapping]], navigation and curation
 

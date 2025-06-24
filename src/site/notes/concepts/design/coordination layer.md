@@ -1,5 +1,5 @@
 ---
-{"created":"2024-11-29T21:47:41.901-03:00","updated":"2025-06-12T14:32:33.195-03:00","tags":["concept","design","🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/concepts/design/coordination-layer/","dgPassFrontmatter":true}
+{"created":"2024-11-29T21:47:41.901-03:00","updated":"2025-06-24T17:14:44.119-03:00","tags":["concept","design","🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/concepts/design/coordination-layer/","dgPassFrontmatter":true}
 ---
 
 a coordination layer for the web:
@@ -10,7 +10,7 @@ initiatives on the [[topics/design/economics\|economics]]/[[concepts/design/ince
 (...)
 
 initiatives on the [[terms/information\|information]]/[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/project-mission category/knowledge\|knowledge]]/[[concepts/alchemy/sensemaking\|sensemaking]] side:
-[[projects & tools/projects/design/sensenets\|sensenets]]
+[[projects & tools/projects/design/cosmik\|cosmik]]
 [[initiatives, orgs & communities/design/nooNAO\|NAOs]]
 [[projects & tools/projects/lab/subconscious (tool)\|subconscious (tool)]] / [[noosphere\|noosphere]]
 [[projects & tools/tools/design/weco\|weco]]

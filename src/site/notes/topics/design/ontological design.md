@@ -7,4 +7,4 @@ design of self, mind & matter or how designing reality designs yourself, and vic
 ###### references:
 [anne-marie willis' 2006 paper - "ontological designing"](https://www.researchgate.net/publication/272139246_Ontological_Designing)
 [Ontological Design Has Become Influential In Design Academia – But What Is It?](https://eyeondesign.aiga.org/ontological-design-is-popular-in-design-academia-but-what-is-it/)
-[[people/references/architect;design/daniel fraga\|daniel fraga]]
+[[people/references/design/daniel fraga\|daniel fraga]]

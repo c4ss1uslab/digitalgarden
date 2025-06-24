@@ -6,4 +6,4 @@ https://wiki.p2pfoundation.net/Main_Page
 
 they're creating a very much needed [[responses/lab/knowledge commons\|knowledge commons]] for everything p2p (which very often tends to align with [[topics/design/regeneration\|regenerative]]/[[concepts/design/metacrisis\|metacrisis]] perspectives, though not always the case).
 
-led by [[people/references/architect;design/michel bauwens\|michel bauwens]].
+led by [[people/references/design/michel bauwens\|michel bauwens]].

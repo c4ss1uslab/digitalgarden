@@ -21,4 +21,4 @@ as a reference from christianity's [four hoursemen of the apocalypse](https://ww
 
 ![](https://i.imgur.com/LejHtlE.jpeg)
 
-described at length in the discussions with [[people/references/architect;design/daniel schmachtenberger\|daniel schmachtenberger]] in the [[bend not break\|bend not break]] series.
+described at length in the discussions with [[people/references/design/daniel schmachtenberger\|daniel schmachtenberger]] in the [[bend not break\|bend not break]] series.

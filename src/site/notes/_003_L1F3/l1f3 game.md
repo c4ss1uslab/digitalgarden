@@ -143,7 +143,7 @@ examples: [[references/player/games/ashes of creation\|ashes of creation]] - htt
 [[cabinDAO\|cabinDAO]] profiles (+ other [[terms/DAOs\|DAO]] [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/sub-interests & practices master list/governance\|governance]] mechanisms, [[greenpill\|greenpill]], [[initiatives, orgs & communities/design/gnosis guild\|gnosis guild]]/[[zodiac\|zodiac]], [[tbprocessed/base notes/ventures - general/SEEDS\|SEEDS]])
 [[projects & tools/projects/player/startover.xyz\|startover.xyz]]'s experiments catalog
 [[united planet\|united planet]] 2030 ([[initiatives, orgs & communities/design/SEEDS (ecosystem)\|SEEDS]]) / [[school of humanity\|school of humanity]]
-[[people/references/architect;design/gnoman\|gnoman]]'s [regenaissance festival](https://docs.google.com/document/d/1toqpJ8IcOnc-TeP_-AnGNEKz5jTIZk6OeWj2XD1REuE/edit) / [[edgar gouvea jr\|edgar gouvea jr]]'s gincanas
+[[people/references/design/gnoman\|gnoman]]'s [regenaissance festival](https://docs.google.com/document/d/1toqpJ8IcOnc-TeP_-AnGNEKz5jTIZk6OeWj2XD1REuE/edit) / [[edgar gouvea jr\|edgar gouvea jr]]'s gincanas
 playful software - [[hyperlink.academy\|hyperlink.academy]], [[sane.fyi\|sane.fyi]], [[projects & tools/tools/lab/fermat.ws\|fermat.ws]], [[mmm.pages\|mmm.pages]], [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/organizations master list/huggingface\|huggingface]] spaces, others in the [[indieweb\|indieweb]] space
 (more to add...)
 [[X-prize\|X-prize]], [[bootcamps\|bootcamps]], [[hackathons\|hackathons]]...
@@ -493,7 +493,7 @@ other components of personal systems (life OS, management, streaming, player sys
 ### more references
 
 [[a jogada\|a jogada]]
-[[people/references/architect;design/caio vassão\|caio vassão]]
+[[people/references/design/caio vassão\|caio vassão]]
 [[tbprocessed/base notes/ventures - general/our world the game\|our world the game]]
 [[unitedplanet\|unitedplanet]]
 

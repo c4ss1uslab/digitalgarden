@@ -8,7 +8,7 @@ it states that the fundamental driver of the [[concepts/design/metacrisis\|metac
 
 [quote from first principles & first values]
 
-[[people/references/architect;design/daniel schmachtenberger\|daniel schmachtenberger]] also refers to it quoting [[david bohm\|david bohm]] and [[people/references/alchemy/jiddu krishnamurti\|j. krishnamurti]]'s conversations:
+[[people/references/design/daniel schmachtenberger\|daniel schmachtenberger]] also refers to it quoting [[david bohm\|david bohm]] and [[people/references/alchemy/jiddu krishnamurti\|j. krishnamurti]]'s conversations:
 
 > "If people have not watched the conversations that David Bohm and Krishnamurti had together back in the day, I would recommend them as some of the most useful, valuable, beautiful recordings of human conversation I've ever seen. And in one short clip, David Bohm speaking on, if you YouTube it, I think it's called [Fragmentation and Wholeness](https://www.youtube.com/watch?v=hfHzfonAgX4), something like that. He basically identifies, and this was maybe the '80s, the cause of the [[concepts/design/metacrisis\|metacrisis]], though he didn't call it [[concepts/design/metacrisis\|metacrisis]] or [[superorganism\|superorganism]], but like all the problems of the human predicament that is clearly going towards a point of self-determination that was seeable at that time. The way he defined it I think was exceptionally good. I think it maps to the way indigenous wisdom has defined it in other things. Men are not the web of life. We are merely a strand and at whatever we do to the web, we do to ourselves.
 > 

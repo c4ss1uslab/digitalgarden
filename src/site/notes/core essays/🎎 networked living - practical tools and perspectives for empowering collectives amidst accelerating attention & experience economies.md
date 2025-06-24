@@ -170,7 +170,7 @@ communities like [[initiatives, orgs & communities/player/MoL\|MoL]] and [[initi
 
 every technology has values embedded in it.
 
-[[people/references/architect;design/sari azout\|sari]] captures my feelings well when she says:
+[[people/references/design/sari azout\|sari]] captures my feelings well when she says:
 
 ![](https://twitter.com/sariazout/status/1598307791894110209)
 

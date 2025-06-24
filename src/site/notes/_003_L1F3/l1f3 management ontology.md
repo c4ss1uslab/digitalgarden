@@ -127,7 +127,7 @@ finally, integrating all of these references, around 2022, 7 years after the beg
 > - [[andrew altshuler\|andrew altshuler]]'s core frameworks for [[topics/lab/personal knowledge management\|PKM]], [[concepts/alchemy/sensemaking\|sensemaking]] and [[expertise development\|expertise development]].
 > - [[GAOA\|GAOA]]'s experiments in [[topics/lab/collective knowledge management\|collective knowledge management]]
 > - [[people/references/lab/alexander obenauer\|alexander obenauer]]'s principles for [[responses/lab/personal OS design\|personal OS design]]
-> - [[people/references/architect;design/andrea farias\|andrea farias]]'s evolution of the [[patterns/active patterns/knowledge management/evergreen notes\|evergreen notes]] pattern
+> - [[people/references/design/andrea farias\|andrea farias]]'s evolution of the [[patterns/active patterns/knowledge management/evergreen notes\|evergreen notes]] pattern
 > - several different [[tbprocessed/base notes/tools;products - general/notion\|notion]] workflows/templates when they started emerging
 > - and many others...
 

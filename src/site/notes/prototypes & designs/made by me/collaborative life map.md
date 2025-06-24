@@ -1,5 +1,5 @@
 ---
-{"aliases":["🗺 life map","life map","🗺 collaborative life map","life mapping","mapping life"],"created in":"2021-12-11T16:51:55-03:00","last tended to":"2023-12-24T16:56:26-03:00","created":"2021-12-11T16:51:55.469-03:00","updated":"2025-03-01T21:08:23.458-03:00","tags":["prototype","🌱","design","mapping","research","curation","sensemaking","socialsensemaking"],"notestage":["🌱"],"dg-publish":true,"relevancescore":96,"permalink":"/prototypes-and-designs/made-by-me/collaborative-life-map/","dgPassFrontmatter":true}
+{"aliases":["🗺 life map","life map","🗺 collaborative life map","life mapping","mapping life"],"created in":"2021-12-11T16:51:55-03:00","last tended to":"2023-12-24T16:56:26-03:00","created":"2021-12-11T16:51:55.469-03:00","updated":"2025-06-24T17:14:45.409-03:00","tags":["prototype","🌱","design","mapping","research","curation","sensemaking","socialsensemaking"],"notestage":["🌱"],"dg-publish":true,"relevancescore":96,"permalink":"/prototypes-and-designs/made-by-me/collaborative-life-map/","dgPassFrontmatter":true}
 ---
 
 related: [[_003_L1F3/l1f3 management ontology\|l1f3 management ontology]]
@@ -43,6 +43,6 @@ perspective 4: [[_002_core notes/theories of change\|theories of change]]
 [[projects & tools/tools/lab/atlas (nomic)\|atlas (nomic)]]
 [[initiatives, orgs & communities/design/golden\|golden]]
 [[initiatives, orgs & communities/design/sublime (ex-startupy)\|sublime (ex-startupy)]]
-[[projects & tools/projects/design/sensenets\|sensenets]]
+[[projects & tools/projects/design/cosmik\|cosmik]]
 [[projects & tools/tools/lab/community archive\|community archive]]
 [[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social (ex-tweetscape)]]
