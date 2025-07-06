@@ -1,5 +1,5 @@
 ---
-{"aliases":["toolkit","🧰 toolkit","player toolkit","🧰 player toolkit","l1f3 player toolkit","🧰 l1f3 player toolkit","life player toolkit","🧰 life player toolkit","L1F3 player toolkit"],"created in":"2022-01-28T09:51:51-03:00","last tended to":"2024-09-29T14:25:40-03:00","tags":["prototype","🌿","selfmanagement","player","l1f3"],"dg-publish":true,"notestage":["🌿"],"created":"2022-01-28T09:51:51.329-03:00","updated":"2025-03-01T13:38:35.828-03:00","relevancescore":97,"permalink":"/006-toolkit/000-l1f3-player-toolkit/","dgPassFrontmatter":true}
+{"aliases":["toolkit","🧰 toolkit","player toolkit","🧰 player toolkit","l1f3 player toolkit","🧰 l1f3 player toolkit","life player toolkit","🧰 life player toolkit","L1F3 player toolkit"],"created in":"2022-01-28T09:51:51-03:00","last tended to":"2024-09-29T14:25:40-03:00","tags":["prototype","🌿","selfmanagement","player","l1f3"],"dg-publish":true,"notestage":["🌿"],"created":"2022-01-28T09:51:51.329-03:00","updated":"2025-07-06T19:07:47.556-03:00","relevancescore":97,"permalink":"/006-toolkit/000-l1f3-player-toolkit/","dgPassFrontmatter":true}
 ---
 
 #### about
@@ -28,7 +28,7 @@ the l1f3 player toolkit is a first version prototype for: a minimal yet complete
 ##### meta-systems:
 
 [[_003_L1F3/l1f3 game\|🎮 life game]]⁹⁷
-[[_004_L1F3/l1f3 operating system\|🌌 life operating system]]
+[[_003_L1F3/l1f3 operating system\|🌌 life operating system]]
 [[_003_L1F3/l1f3 management system\|🧠 life management system]]
 [[_003_L1F3/l1f3 streaming system\|🎥 life streaming system]]
 [[_003_L1F3/l1f3 player system\|🕹 life player system]]
