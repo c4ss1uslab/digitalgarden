@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-08-23T20:38:47-03:00","last tended to":"2024-09-26T15:20:48-03:00","tags":["l1f3","project","🌿"],"dg-publish":true,"relevancescore":97,"notestage":["🌿"],"aliases":["L1F3 theory of change","L1F3 101","L1F3 intro","L1F3 projects"],"created":"2024-08-23T20:38:47.282-03:00","updated":"2025-05-26T15:55:17.881-03:00","readinesslevel":"20%","permalink":"/003-l1-f3/l1-f3-support-systems/","dgPassFrontmatter":true}
+{"created in":"2024-08-23T20:38:47-03:00","last tended to":"2024-09-26T15:20:48-03:00","tags":["l1f3","project","🌿"],"dg-publish":true,"relevancescore":97,"notestage":["🌿"],"aliases":["L1F3 theory of change","L1F3 101","L1F3 intro","L1F3 projects"],"created":"2024-08-23T20:38:47.282-03:00","updated":"2025-07-08T19:26:36.021-03:00","readinesslevel":"20%","permalink":"/003-l1-f3/l1-f3-support-systems/","dgPassFrontmatter":true}
 ---
 
 ### definition
