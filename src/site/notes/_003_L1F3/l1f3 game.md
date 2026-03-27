@@ -1,5 +1,5 @@
 ---
-{"aliases":["🕹 l1f3 game","life game","🕹 life game","massively-multiplayer online-and-offline collaborative self-transformation & civilization-building game","L1F3.GAME","l1f3.game","🕹 L1F3.game","🕹 L1F3 game","🕹 L1F3.GAME","L1F3 game","L1F3.game"],"created in":"2022-02-05T11:41:05-03:00","last tended to":"2024-09-29T14:37:10-03:00","tags":["l1f3","project","🌿","game","seriousgame","player"],"dg-publish":true,"notestage":["🌿"],"created":"2022-02-05T11:41:05.535-03:00","updated":"2025-06-10T18:18:23.701-03:00","relevancescore":97,"readinesslevel":"20%","permalink":"/003-l1-f3/l1f3-game/","dgPassFrontmatter":true}
+{"aliases":["🕹 l1f3 game","life game","🕹 life game","massively-multiplayer online-and-offline collaborative self-transformation & civilization-building game","L1F3.GAME","l1f3.game","🕹 L1F3.game","🕹 L1F3 game","🕹 L1F3.GAME","L1F3 game","L1F3.game"],"created in":"2022-02-05T11:41:05-03:00","last tended to":"2024-09-29T14:37:10-03:00","tags":["l1f3","project","🌿","game","seriousgame","player"],"dg-publish":true,"notestage":["🌿"],"created":"2022-02-05T11:41:05.535-03:00","updated":"2026-03-16T20:26:24.469-03:00","relevancescore":97,"readinesslevel":"20%","permalink":"/003-l1-f3/l1f3-game/","dgPassFrontmatter":true}
 ---
 
 the l1f3 game is an ongoing endeavor to:
@@ -12,21 +12,21 @@ the L1F3 game is a serious [[tbprocessed/notion/projects overview/🧿 macro ove
 
 for the sake of [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/decision management system/self-investment methodology/attributes breakdown/attributes master list/resilience\|resilience]], [[concepts/alchemy/values\|values-alignment]] and [[tbprocessed/notion/notion resources/Web dev resources (public)/Accessibility\|accessibility]], it has to be built on top of [[_003_L1F3/l1f3 protocol\|an open-source, distributed, modular, interoperable protocol for playing life - individually and together]].
 
-#### interoperability across play
+#### interoperability across modalities of serious play
 
-play is both an attitude and an [[terms/action\|action]], it happens at all levels above [[data\|data]], [[terms/information\|information]] and [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/project-mission category/knowledge\|knowledge]]. considering the [[models & frameworks/design/OODA loop\|OODA loop]], to play is an agreement, a decision that transforms your whole loop - it changes how you observe, orient, decide and act moving forward.
+play is both an attitude and an [[terms/action\|action]], that includes different levels of [[data\|data]], [[terms/information\|information]] and [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/project-mission category/knowledge\|knowledge]]. considering the [[models & frameworks/design/OODA loop\|OODA loop]], to play is an agreement, a decision that transforms your whole loop - it changes how you observe, orient, decide and act moving forward.
 
 [[models & frameworks/player/fourgames\|fourgames]] introduces a simple yet profound lens for how [[life is play\|life is play]]. the games we are always playing and can choose to be more conscious of.
 
 ancient [[topics/alchemy/spiritual lineages\|wisdom traditions]] also do so by saying that life is a [[lila\|lila]] (play), [[maya\|maya]] (illusion), yet also a journey of [[tbprocessed/base notes/concepts - general/conscious evolution\|conscious evolution]].
 
-[[topics/alchemy/indigenous wisdom\|indigenous wisdom]] might state that life is about [[topics/player/learning\|learning]], [[terms/creation\|creating]], [[concepts/alchemy/healing\|healing]], [[terms/sharing\|sharing]], [[topics/player/play\|playing]]. and meta-theorists such as [[people/references/alchemy/ken wilber\|ken wilber]] encapsulate it as [[concepts/alchemy/waking up\|waking up]], [[concepts/alchemy/growing up\|growing up]], [[concepts/alchemy/cleaning up\|cleaning up]], [[concepts/alchemy/showing up\|showing up]], [[concepts/alchemy/opening up\|opening up]]. 
+and meta-theorists such as [[people/references/alchemy/ken wilber\|ken wilber]] encapsulate such process of [[concepts/alchemy/integral development\|integral development]] as processes of [[concepts/alchemy/waking up\|waking up]], [[concepts/alchemy/growing up\|growing up]], [[concepts/alchemy/cleaning up\|cleaning up]], [[concepts/alchemy/showing up\|showing up]]. 
 
-[[cyberneticians\|cyberneticians]] might use the [[models & frameworks/design/OODA loop\|OODA loop]] often, using the [[sensing\|sensing]], [[concepts/alchemy/sensemaking\|sensemaking]], [[terms/decision-making\|decision-making]], [[terms/action\|action]], [[topics/player/learning\|learning]] loops to study the [[patterns of living systems\|patterns of living systems]] and do [[complexity-informed design\|complexity-informed design]].
+[[people/references/lab/gordon brander\|cyberneticians]] might use the [[models & frameworks/design/OODA loop\|OODA loop]] often, using the [[sensing\|sensing]], [[concepts/alchemy/sensemaking\|sensemaking]], [[terms/decision-making\|decision-making]], [[terms/action\|action]], [[topics/player/learning\|learning]] loops to study the [[patterns of living systems\|patterns of living systems]] and do [[complexity-informed design\|complexity-informed design]].
 
-[[cognitive scientists\|cognitive scientists]] -> [[relevance realization\|relevance realization]] and [[reciprocal narrowing\|reciprocal narrowing]]...
+[[cognitive scientists\|cognitive scientists]] might emphasize patterns of [[relevance realization\|relevance realization]] and [[reciprocal narrowing\|reciprocal narrowing]] that constitute the organization of our awareness itself...
 
-[[regenerative designers\|regenerative designers]] -> will introduce [[concepts/alchemy/flourishing\|flourishing]] or [[concepts/alchemy/thriving\|thriving]] frameworks and [[concepts/design/impact metrics\|wide-boundary]]/[[ecosystems health\|ecosystems health]] metrics.
+[[regenerative designers\|regenerative designers]] will introduce [[concepts/alchemy/flourishing\|flourishing]] or [[concepts/alchemy/thriving\|thriving]] frameworks and [[concepts/design/impact metrics\|wide-boundary]]/[[ecosystems health\|ecosystems health]] metrics.
 
 my framing so far has been to say: let's build systems that are [[responses/regen/regenerative design\|regenerative]] by design to enable deeper levels of [[terms/collaboration\|collaboration]], [[topics/design/coordination systems\|coordination]], and [[concepts/alchemy/integral development\|self-actualization]] in life!
 
@@ -35,8 +35,6 @@ many other philosophers, anthropologists, researchers, historians, educators, bi
 how do we hold space for all these perspectives, and more to come?
 
 the L1F3 game is a research & development project, an attempt to create the digital infrastructure/[[_003_L1F3/l1f3 protocol\|protocol]] layer for that. it is an experimental interoperability protocol for perspectives - taking, testing, enacting, evaluating, changing and creating.
-
-¹see: [[tbprocessed/base notes/concepts - general/disruption\|disruption]].
 
 ---
 ### main references:
@@ -116,9 +114,14 @@ source: [[tbprocessed/base notes/people/peth\|peth]], [[concepts/design/metacris
 </div></div>
 
 
+[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/specializations/host/host\|host]]: [[metachrysalis\|metachrysalis]]
+source: [[thaumazo\|thaumazo]] / [[daniel lindenberger\|daniel lindenberger]]
+
 ##### software/digital architecture layers:
 
 [[initiatives, orgs & communities/lab/holochain\|holochain]]
+[[initiatives, orgs & communities/design/open civics\|open civics]]
+[[projects & tools/tools/lab/catalist network\|catalist network]]
 [[oasis API\|oasis API]]
 [[isitas\|isitas]]
 

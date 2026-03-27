@@ -245,6 +245,7 @@ ultimately, [[sari\|sari]] captures it well here:
 
 ###### main references:
 - [[initiatives, orgs & communities/design/sublime (ex-startupy)\|sublime (ex-startupy)]]
+- [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/references/reference types/recommended references/c4ss1us’ technology tool stack/are.na\|are.na]]
 - [[projects & tools/tools/design/melon\|melon]]
 - [[initiatives, orgs & communities/design/golden\|golden]]
 - [[projects & tools/tools/design/weco\|weco]]

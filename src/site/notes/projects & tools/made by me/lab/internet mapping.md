@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-08-02T03:20:49-03:00","last tended to":"2024-09-02T15:03:03-03:00","tags":["mapping","inquiry","knowledgemanagement","sensemaking","socialsensemaking","project","design","lab","🌿","curation","research"],"created":"2022-08-02T03:20:49.017-03:00","updated":"2025-02-13T13:47:27.810-03:00","dg-publish":true,"relevancescore":96,"notestage":["🌿"],"aliases":["internet maps"],"permalink":"/projects-and-tools/made-by-me/lab/internet-mapping/","dgPassFrontmatter":true}
+{"created in":"2022-08-02T03:20:49-03:00","last tended to":"2024-09-02T15:03:03-03:00","tags":["mapping","inquiry","knowledgemanagement","sensemaking","socialsensemaking","project","design","lab","🌿","curation","research"],"created":"2022-08-02T03:20:49.017-03:00","updated":"2026-03-25T19:42:04.815-03:00","dg-publish":true,"relevancescore":96,"notestage":["🌿"],"aliases":["internet maps"],"permalink":"/projects-and-tools/made-by-me/lab/internet-mapping/","dgPassFrontmatter":true}
 ---
 
 ##### "maps of the internet" projects:
@@ -41,6 +41,8 @@ my twitter lists on:
 - [mapping (41 members)](https://twitter.com/i/lists/1471092243159257094)
 - [research (31 members)](https://twitter.com/i/lists/1597437174126989314)
 - [research-oriented AI (8 members)](https://twitter.com/i/lists/1661523121029931019)
+
+more serious research: [Critical Atlas of the Internet - Louíse Drulhe](https://louisedrulhe.fr/internet-atlas/)
 
 ---
 ##### other approaches:
