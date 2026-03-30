@@ -1,5 +1,5 @@
 ---
-{"aliases":["topics","fields","fields of knowledge"],"created in":"2021-12-11T16:52:03-03:00","last tended to":"2024-10-24T21:59:41-03:00","dg-publish":true,"tags":["🌿","selfmanagement","knowledgemanagement"],"notestage":["🌿"],"created":"2021-12-11T16:52:03.339-03:00","updated":"2025-06-10T18:18:26.429-03:00","permalink":"/005-mo-cs/025-long-game/025-topics-and-references-moc/","dgPassFrontmatter":true}
+{"aliases":["topics","fields","fields of knowledge"],"created in":"2021-12-11T16:52:03-03:00","last tended to":"2024-10-24T21:59:41-03:00","dg-publish":true,"tags":["🌿","selfmanagement","knowledgemanagement"],"notestage":["🌿"],"created":"2021-12-11T16:52:03.339-03:00","updated":"2026-03-28T11:50:52.005-03:00","permalink":"/005-mo-cs/025-long-game/025-topics-and-references-moc/","dgPassFrontmatter":true}
 ---
 
 on the contents below, the emojis mean different things. here's their caption:
@@ -43,7 +43,7 @@ level of depth:
 - 🌲 [[_003_L1F3/core concepts/self-management\|self-management]]
 > 🧰 [[_003_L1F3/l1f3 management ontology\|l1f3 management ontology]]
 > 🔥 [life manager (ísis' approach)](https://www.youtube.com/watch?v=Nxo8hX97ojk) (portuguese)
-- 🌿 [[topics/alchemy/spiritual lineages\|wisdom traditions]] & [[ecologies of practices\|ecologies of practices]]
+- 🌿 [[topics/alchemy/wisdom traditions\|wisdom traditions]] & [[ecologies of practices\|ecologies of practices]]
 > 🌿 [[responses/alchemy/integral theory\|integral meta-theory]] / [[concepts/alchemy/integral development\|integral development]]
 > 🌱 [[references/alchemy/first principles and first values\|first principles and first values]]
 > 🌱 [[responses/alchemy/hedonic engineering\|hedonic engineering]]

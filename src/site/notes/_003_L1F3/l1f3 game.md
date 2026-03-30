@@ -1,5 +1,5 @@
 ---
-{"aliases":["🕹 l1f3 game","life game","🕹 life game","massively-multiplayer online-and-offline collaborative self-transformation & civilization-building game","L1F3.GAME","l1f3.game","🕹 L1F3.game","🕹 L1F3 game","🕹 L1F3.GAME","L1F3 game","L1F3.game"],"created in":"2022-02-05T11:41:05-03:00","last tended to":"2024-09-29T14:37:10-03:00","tags":["l1f3","project","🌿","game","seriousgame","player"],"dg-publish":true,"notestage":["🌿"],"created":"2022-02-05T11:41:05.535-03:00","updated":"2026-03-16T20:26:24.469-03:00","relevancescore":97,"readinesslevel":"20%","permalink":"/003-l1-f3/l1f3-game/","dgPassFrontmatter":true}
+{"aliases":["🕹 l1f3 game","life game","🕹 life game","massively-multiplayer online-and-offline collaborative self-transformation & civilization-building game","L1F3.GAME","l1f3.game","🕹 L1F3.game","🕹 L1F3 game","🕹 L1F3.GAME","L1F3 game","L1F3.game"],"created in":"2022-02-05T11:41:05-03:00","last tended to":"2024-09-29T14:37:10-03:00","tags":["l1f3","project","🌿","game","seriousgame","player"],"dg-publish":true,"notestage":["🌿"],"created":"2022-02-05T11:41:05.535-03:00","updated":"2026-03-28T12:00:19.375-03:00","relevancescore":97,"readinesslevel":"20%","permalink":"/003-l1-f3/l1f3-game/","dgPassFrontmatter":true}
 ---
 
 the l1f3 game is an ongoing endeavor to:
@@ -8,7 +8,7 @@ the l1f3 game is an ongoing endeavor to:
 { #cff951}
 
 
-the L1F3 game is a serious [[tbprocessed/notion/projects overview/🧿 macro overview/l1f3 game/metagame\|metagame]] (under early development) that aims to support us to [[topics/player/play\|play]] life - individually and collectively - in more [[tbprocessed/base notes/concepts - general/conscious evolution\|conscious]], [[terms/fun\|fun]], [[collaborative\|collaborative]], [[impactful\|impactful]] and [[topics/design/regeneration\|regenerative]] ways, as possible responses to our current [[concepts/design/metacrisis\|personal and civilizational crises]].
+the L1F3 game is an ongoing r&d project aimed at clarifying and developing a serious [[tbprocessed/notion/projects overview/🧿 macro overview/l1f3 game/metagame\|metagame]] that aims to support us to [[topics/player/play\|play]] life - individually and collectively - in more [[tbprocessed/base notes/concepts - general/conscious evolution\|conscious]], [[terms/fun\|fun]], [[collaborative\|collaborative]], [[impactful\|impactful]] and [[topics/design/regeneration\|regenerative]] ways, as possible responses to our current escalating and inter-unfoldment of [[concepts/design/metacrisis\|personal and civilizational crises]].
 
 for the sake of [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/decision management system/self-investment methodology/attributes breakdown/attributes master list/resilience\|resilience]], [[concepts/alchemy/values\|values-alignment]] and [[tbprocessed/notion/notion resources/Web dev resources (public)/Accessibility\|accessibility]], it has to be built on top of [[_003_L1F3/l1f3 protocol\|an open-source, distributed, modular, interoperable protocol for playing life - individually and together]].
 
@@ -18,23 +18,25 @@ play is both an attitude and an [[terms/action\|action]], that includes differen
 
 [[models & frameworks/player/fourgames\|fourgames]] introduces a simple yet profound lens for how [[life is play\|life is play]]. the games we are always playing and can choose to be more conscious of.
 
-ancient [[topics/alchemy/spiritual lineages\|wisdom traditions]] also do so by saying that life is a [[lila\|lila]] (play), [[maya\|maya]] (illusion), yet also a journey of [[tbprocessed/base notes/concepts - general/conscious evolution\|conscious evolution]].
+ancient [[topics/alchemy/wisdom traditions\|wisdom traditions]] also do so by saying that life is a [[lila\|lila]] (play), [[maya\|maya]] (illusion), yet also a journey of [[tbprocessed/base notes/concepts - general/conscious evolution\|conscious evolution]].
 
-and meta-theorists such as [[people/references/alchemy/ken wilber\|ken wilber]] encapsulate such process of [[concepts/alchemy/integral development\|integral development]] as processes of [[concepts/alchemy/waking up\|waking up]], [[concepts/alchemy/growing up\|growing up]], [[concepts/alchemy/cleaning up\|cleaning up]], [[concepts/alchemy/showing up\|showing up]]. 
+and meta-theorists such as [[people/references/alchemy/ken wilber\|ken wilber]] encapsulate such process of [[concepts/alchemy/integral development\|integral human development]] as processes of [[concepts/alchemy/waking up\|waking up]], [[concepts/alchemy/growing up\|growing up]], [[concepts/alchemy/cleaning up\|cleaning up]], [[concepts/alchemy/showing up\|showing up]]. 
 
-[[people/references/lab/gordon brander\|cyberneticians]] might use the [[models & frameworks/design/OODA loop\|OODA loop]] often, using the [[sensing\|sensing]], [[concepts/alchemy/sensemaking\|sensemaking]], [[terms/decision-making\|decision-making]], [[terms/action\|action]], [[topics/player/learning\|learning]] loops to study the [[patterns of living systems\|patterns of living systems]] and do [[complexity-informed design\|complexity-informed design]].
+[[people/references/lab/gordon brander\|cyberneticians]] and [[biomemetic design\|biomemetic designers]] might use the [[sensing\|sensing]], [[concepts/alchemy/sensemaking\|sensemaking]], [[terms/decision-making\|decision-making]], [[terms/action\|action]], [[topics/player/learning\|learning]] loops to study the [[patterns of living systems\|patterns of living systems]] and do [[complexity-informed design\|complexity-informed design]].
 
 [[cognitive scientists\|cognitive scientists]] might emphasize patterns of [[relevance realization\|relevance realization]] and [[reciprocal narrowing\|reciprocal narrowing]] that constitute the organization of our awareness itself...
 
-[[regenerative designers\|regenerative designers]] will introduce [[concepts/alchemy/flourishing\|flourishing]] or [[concepts/alchemy/thriving\|thriving]] frameworks and [[concepts/design/impact metrics\|wide-boundary]]/[[ecosystems health\|ecosystems health]] metrics.
+[[regenerative designers\|regenerative designers]] might introduce [[concepts/alchemy/flourishing\|flourishing]] or [[concepts/alchemy/thriving\|thriving]] frameworks and the use of [[concepts/design/impact metrics\|wide-boundary]]/[[ecosystems health\|ecosystems health]] metrics.
 
-my framing so far has been to say: let's build systems that are [[responses/regen/regenerative design\|regenerative]] by design to enable deeper levels of [[terms/collaboration\|collaboration]], [[topics/design/coordination systems\|coordination]], and [[concepts/alchemy/integral development\|self-actualization]] in life!
+and so many other ways to frame this.
 
-many other philosophers, anthropologists, researchers, historians, educators, biologists, and people from all fields, backgrounds and journeys also have their valuable perspectives to add...
+my framing so far has been to say: let's build systems that are [[responses/regen/regenerative design\|regenerative]] by design to enable deeper levels of [[terms/collaboration\|collaboration]], [[topics/design/coordination systems\|coordination]], and [[concepts/alchemy/integral development\|self-actualization]] in life.
+
+i'm sure many other philosophers, anthropologists, researchers, historians, educators, biologists, and people from all fields, backgrounds and journeys also have their valuable perspectives to add...
 
 how do we hold space for all these perspectives, and more to come?
 
-the L1F3 game is a research & development project, an attempt to create the digital infrastructure/[[_003_L1F3/l1f3 protocol\|protocol]] layer for that. it is an experimental interoperability protocol for perspectives - taking, testing, enacting, evaluating, changing and creating.
+the L1F3 game is a r&d project attempting to create the digital infrastructure/[[_003_L1F3/l1f3 protocol\|protocol]] layer for that. it is an experimental interoperability protocol for perspectives - taking, testing, enacting, evaluating, changing and developing.
 
 ---
 ### main references:
@@ -116,7 +118,7 @@ source: [[tbprocessed/base notes/people/peth\|peth]], [[concepts/design/metacris
 
 [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/specializations/host/host\|host]]: [[metachrysalis\|metachrysalis]]
 source: [[thaumazo\|thaumazo]] / [[daniel lindenberger\|daniel lindenberger]]
-
+(...)
 ##### software/digital architecture layers:
 
 [[initiatives, orgs & communities/lab/holochain\|holochain]]
@@ -143,13 +145,39 @@ examples: [[references/player/games/ashes of creation\|ashes of creation]] - htt
 
 [[initiatives, orgs & communities/design/metagame.wtf\|metagame.wtf]] modules: [[other notes ; references/metagame/mymeta profile\|player profile]], [[other notes ; references/metagame/metagame dashboard\|personal dashboard]]...
 [[references/alchemy/integral OS\|integral OS]]
-[[cabinDAO\|cabinDAO]] profiles (+ other [[terms/DAOs\|DAO]] [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/sub-interests & practices master list/governance\|governance]] mechanisms, [[greenpill\|greenpill]], [[initiatives, orgs & communities/design/gnosis guild\|gnosis guild]]/[[zodiac\|zodiac]], [[tbprocessed/base notes/ventures - general/SEEDS\|SEEDS]])
+[[cabinDAO\|cabinDAO]] profiles (+ other [[terms/DAOs\|DAO]] [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/sub-interests & practices master list/governance\|governance]] mechanisms, [[greenpill\|greenpill]], [[initiatives, orgs & communities/design/gnosis guild\|gnosis guild]]/[[zodiac\|zodiac]], [[initiatives, orgs & communities/design/SEEDS (ecosystem)\|SEEDS]])
 [[projects & tools/projects/player/startover.xyz\|startover.xyz]]'s experiments catalog
 [[united planet\|united planet]] 2030 ([[initiatives, orgs & communities/design/SEEDS (ecosystem)\|SEEDS]]) / [[school of humanity\|school of humanity]]
+[[tbprocessed/base notes/ventures - general/our world the game\|our world the game]]
+[[a jogada\|a jogada]]
 [[people/references/design/gnoman\|gnoman]]'s [regenaissance festival](https://docs.google.com/document/d/1toqpJ8IcOnc-TeP_-AnGNEKz5jTIZk6OeWj2XD1REuE/edit) / [[edgar gouvea jr\|edgar gouvea jr]]'s gincanas
 playful software - [[hyperlink.academy\|hyperlink.academy]], [[sane.fyi\|sane.fyi]], [[projects & tools/tools/lab/fermat.ws\|fermat.ws]], [[mmm.pages\|mmm.pages]], [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/organizations master list/huggingface\|huggingface]] spaces, others in the [[indieweb\|indieweb]] space
 (more to add...)
 [[X-prize\|X-prize]], [[bootcamps\|bootcamps]], [[hackathons\|hackathons]]...
+
+### more references
+
+core related fields:
+[[models & frameworks/design/metadesign\|metadesign]]/[[people/references/design/caio vassão\|caio vassão]]
+[[topics/player/game theory\|game theory]]
+[[topics/design/anthropology\|anthropology]]
+[[network topology\|network topology]]
+[[sociology\|sociology]]
+[[topics/lab/cybernetics\|cybernetics]]
+[[responses/player/serious games\|serious games]]
+--> [[patterns/pattern collections/game design patterns\|game design patterns]]
+[[educational games\|educational games]]
+[[topics/player/cooperative games\|cooperative games]]
+[[topics/player/gamification\|gamification]]
+[[responses/lab/mapping\|mapping]]
+
+\+ the controversial/highly inflammable ones:
+[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/superskills master list/philosophy\|philosophy]] ([[terms/cosmology\|cosmology]]/[[topics/alchemy/metaphysics\|metaphysics]], [[concepts/alchemy/epistemology\|epistemology]], [[concepts/alchemy/ontology\|ontology]], [[concepts/alchemy/axiology\|axiology]]/[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/general skills master list/value theory\|value theory]])
+spiritual/[[topics/alchemy/wisdom traditions\|wisdom lineages]]
+[[meta-theories\|meta-theories]]
+[[topics/alchemy/developmental psychology\|developmental psychology]]
+[[topics/alchemy/adult development\|adult development]]
+\+ all of the psychologies, neuroscience, cognitive science, etc...
 
 ---
 
@@ -227,17 +255,16 @@ flow lives in between challenge and comfort.
 -> [[creating art\|creating art]]
 
 ###### [[life management/spiritual\|spiritual]]/personal
-[[solving a problem\|solving a problem]] ([[depression\|depression]], [[anxiety\|anxiety]], [[sense of being lost\|sense of being lost]]) -> [[becoming more aligned\|becoming more aligned]]
+dealing with [[spiritual emergencies\|spiritual emergencies]] ([[depression\|depression]], [[anxiety\|anxiety]], [[sense of being lost\|sense of being lost]]) -> [[becoming more aligned\|becoming more aligned]]
 [[concepts/alchemy/initiation\|initiation]]
-[[underworld conquering\|underworld conquering]]
+[[underworld journeying\|underworld journeying]]
 [[7 chakras\|7 chakras]]
 [[concepts/alchemy/ego states\|ego states]]
 [[_006_toolkit/classes/archetypes MOC\|archetypes MOC]]
 aligning with [[nature cycles\|nature cycles]]
 [[fasting\|fasting]]
-aprender, curar, servir, curtir
-(learning, perception, action)
-
+[[rituals\|rituals]]
+etc
 ###### emotional/relational
 
 ###### intellectual
@@ -299,7 +326,7 @@ there's also a big challenge in [[topics/design/web3\|web3]]/crypto space which 
 
 they're much more focused on internal transformation than the balance between internal and external contribution/expression, while we're more oriented by [[responses/alchemy/integral theory\|integral theory]]'s distinctions of the [[models & frameworks/alchemy/four facets of integral development\|four facets of integral development]].
 
-they're also more interested in furthering their own empirical research rather than integrating different [[topics/alchemy/spiritual lineages\|wisdom traditions]] and [[_005_MOCs/025 🔷 long game/025 🗺 topics & references MOC\|fields of knowledge]].
+they're also more interested in furthering their own empirical research rather than integrating different [[topics/alchemy/wisdom traditions\|wisdom traditions]] and [[_005_MOCs/025 🔷 long game/025 🗺 topics & references MOC\|fields of knowledge]].
 
 
 ++++ still have to write/clarify my differences in approach from:
@@ -436,7 +463,7 @@ societal level:
 
 individual level:
 self-directed learning communities - [[school of humanity\|school of humanity]]
-lots of [[topics/alchemy/spiritual lineages\|wisdom traditions]] and [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/sub-programs master list/emotional well-being practices/therapy\|therapy]] modalities - [[initiatives, orgs & communities/alchemy/possibility management\|possibility management]]
+lots of [[topics/alchemy/wisdom traditions\|wisdom traditions]] and [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/sub-programs master list/emotional well-being practices/therapy\|therapy]] modalities - [[initiatives, orgs & communities/alchemy/possibility management\|possibility management]]
 
 
 #### [[_003_L1F3/l1f3 management system\|⚙ l1f3 management system]]
@@ -490,20 +517,3 @@ many RPG and MMORPG systems to use as reference.
 ### other elements:
 
 other components of personal systems (life OS, management, streaming, player systems)...
-
----
-
-### more references
-
-[[a jogada\|a jogada]]
-[[people/references/design/caio vassão\|caio vassão]]
-[[tbprocessed/base notes/ventures - general/our world the game\|our world the game]]
-[[unitedplanet\|unitedplanet]]
-
-
-fields:
-[[topics/player/game theory\|game theory]]
-[[responses/player/serious games\|serious games]]
-[[educational games\|educational games]]
-[[topics/player/cooperative games\|cooperative games]]
-[[topics/player/gamification\|gamification]]

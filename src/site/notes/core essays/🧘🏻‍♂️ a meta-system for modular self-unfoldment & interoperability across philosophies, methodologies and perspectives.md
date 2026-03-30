@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-12-14T12:54:40-03:00","last tended to":"2024-09-24T16:19:46-03:00","dg-publish":true,"tags":["alchemy","essay","🌱"],"aliases":["🧘🏻‍♂️ a meta-system for modular self-unfoldment"],"notestage":["🌱"],"created":"2023-12-14T12:54:40.894-03:00","updated":"2025-06-12T14:06:18.090-03:00","permalink":"/core-essays/a-meta-system-for-modular-self-unfoldment-and-interoperability-across-philosophies-methodologies-and-perspectives/","dgPassFrontmatter":true}
+{"created in":"2023-12-14T12:54:40-03:00","last tended to":"2024-09-24T16:19:46-03:00","dg-publish":true,"tags":["alchemy","essay","🌱"],"aliases":["🧘🏻‍♂️ a meta-system for modular self-unfoldment"],"notestage":["🌱"],"created":"2023-12-14T12:54:40.894-03:00","updated":"2026-03-28T11:50:53.297-03:00","permalink":"/core-essays/a-meta-system-for-modular-self-unfoldment-and-interoperability-across-philosophies-methodologies-and-perspectives/","dgPassFrontmatter":true}
 ---
 
 sub-title: **approaches to self design, self as a system, encoded philosophy, integral spirituality and conscious life operating systems**.
@@ -18,7 +18,7 @@ collapse: open
 these topics can be very emotionally challenging, so i'll do my best to tread them carefully. i ask you read it in good faith and to assume it on my part as well.
 ```
 
-if we compare the propositions of different [[topics/alchemy/spiritual lineages\|wisdom traditions]], [[scientific discoveries\|scientific discoveries]] and [[psychological studies\|psychological studies]], we see that they're actually not thaaat different. there's a lot of agreement among them.
+if we compare the propositions of different [[topics/alchemy/wisdom traditions\|wisdom traditions]], [[scientific discoveries\|scientific discoveries]] and [[psychological studies\|psychological studies]], we see that they're actually not thaaat different. there's a lot of agreement among them.
 
 there are definitely irreconcilable differences that we can focus on, but we can find ways in which many of the differences can actually be complementary as well.
 
@@ -43,7 +43,7 @@ depending on who you ask, the answer will vary greatly. some might say that poli
 
 the [[initiatives, orgs & communities/design/meaning alignment institute\|meaning alignment institute]] and [[initiatives, orgs & communities/design/goodly labs\|goodly labs]] are two examples of institutions doing a great job using [[topics/design/technology\|technology]] to coordinate varying perspectives. in their practice, they're finding that very often they're able to reach a higher-order synthesis/resolution that qualitatively feels better for people on both sides of the spectrum.
 
-(the [[topics/alchemy/spiritual lineages\|spiritual traditions]] we mentioned before definitely will have some things to say on the nature of [[polarity\|polarity]] as a way to find [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/balance/balance\|balance]]/[[harmony\|harmony]] as well 🙃)
+(the [[topics/alchemy/wisdom traditions\|spiritual traditions]] we mentioned before definitely will have some things to say on the nature of [[polarity\|polarity]] as a way to find [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/balance/balance\|balance]]/[[harmony\|harmony]] as well 🙃)
 
 there are many people working on [[mediation\|mediation]], [[reconciliation\|reconciliation]], [[_004_c4ss1us/c4ss.host\|facilitation]] as a whole, and we might even say that [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/sub-interests & practices master list/governance\|governance]] is fundamentally about that. i'll dive more into this on my next article ([[core essays/💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons\|💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons]]), but [[initiatives, orgs & communities/design/the society library\|the society library]] is another example of a technology-proposing institution facilitating deeper levels of dialogue/[[concepts/alchemy/sensemaking\|sensemaking]] with their [[argument maps\|argument maps]].
 
