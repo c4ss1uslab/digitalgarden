@@ -1,5 +1,5 @@
 ---
-{"aliases":["🕹 l1f3 game","life game","🕹 life game","massively-multiplayer online-and-offline collaborative self-transformation & civilization-building game","L1F3.GAME","l1f3.game","🕹 L1F3.game","🕹 L1F3 game","🕹 L1F3.GAME","L1F3 game","L1F3.game"],"created in":"2022-02-05T11:41:05-03:00","last tended to":"2024-09-29T14:37:10-03:00","tags":["l1f3","project","🌿","game","seriousgame","player"],"dg-publish":true,"notestage":["🌿"],"created":"2022-02-05T11:41:05.535-03:00","updated":"2026-03-28T12:00:19.375-03:00","relevancescore":97,"readinesslevel":"20%","permalink":"/003-l1-f3/l1f3-game/","dgPassFrontmatter":true}
+{"aliases":["🕹 l1f3 game","life game","🕹 life game","massively-multiplayer online-and-offline collaborative self-transformation & civilization-building game","L1F3.GAME","l1f3.game","🕹 L1F3.game","🕹 L1F3 game","🕹 L1F3.GAME","L1F3 game","L1F3.game"],"created in":"2022-02-05T11:41:05-03:00","last tended to":"2024-09-29T14:37:10-03:00","tags":["l1f3","project","🌿","game","seriousgame","player"],"dg-publish":true,"notestage":["🌿"],"created":"2022-02-05T11:41:05.535-03:00","updated":"2026-03-30T03:11:52.119-03:00","relevancescore":97,"readinesslevel":"20%","permalink":"/003-l1-f3/l1f3-game/","dgPassFrontmatter":true}
 ---
 
 the l1f3 game is an ongoing endeavor to:
@@ -8,7 +8,7 @@ the l1f3 game is an ongoing endeavor to:
 { #cff951}
 
 
-the L1F3 game is an ongoing r&d project aimed at clarifying and developing a serious [[tbprocessed/notion/projects overview/🧿 macro overview/l1f3 game/metagame\|metagame]] that aims to support us to [[topics/player/play\|play]] life - individually and collectively - in more [[tbprocessed/base notes/concepts - general/conscious evolution\|conscious]], [[terms/fun\|fun]], [[collaborative\|collaborative]], [[impactful\|impactful]] and [[topics/design/regeneration\|regenerative]] ways, as possible responses to our current escalating and inter-unfoldment of [[concepts/design/metacrisis\|personal and civilizational crises]].
+the L1F3 game is an ambitious attempt at developing a serious [[tbprocessed/notion/projects overview/🧿 macro overview/l1f3 game/metagame\|metagame]] that supports us to [[topics/player/play\|play]] life - individually and collectively - in more [[tbprocessed/base notes/concepts - general/conscious evolution\|conscious]], [[terms/fun\|fun]], [[collaborative\|collaborative]], [[impactful\|impactful]] and [[topics/design/regeneration\|regenerative]] ways, as possible responses to our current escalating and inter-unfolding [[concepts/design/metacrisis\|personal and civilizational crises]].
 
 for the sake of [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/decision management system/self-investment methodology/attributes breakdown/attributes master list/resilience\|resilience]], [[concepts/alchemy/values\|values-alignment]] and [[tbprocessed/notion/notion resources/Web dev resources (public)/Accessibility\|accessibility]], it has to be built on top of [[_003_L1F3/l1f3 protocol\|an open-source, distributed, modular, interoperable protocol for playing life - individually and together]].
 
