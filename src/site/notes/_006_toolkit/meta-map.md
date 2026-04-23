@@ -20,7 +20,7 @@ collapse:
 added:
 1.a) meta-map can also be referred to as [[wordcloud]] - a simpler way to describe, visualize and navigate it.
 1.b) [[topics/design/strategy\|strategy]] strongly related to [[business intelligence\|business intelligence]], [[research institutes\|research institutes]] and [[design agencies\|design agencies]].
-1.c) [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/attributes/intelligence\|intelligence]], [[coordination]], [[terms/collaboration\|collaboration]], [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/1 - on hold-waiting for/Cog's Ladder - Understanding and Accelerating Group Formation/Untitled/Cooperation\|cooperation]] as a new "bubble".
+1.c) [[intelligence\|intelligence]], [[coordination]], [[terms/collaboration\|collaboration]], [[cooperation\|cooperation]] as a new "bubble".
 ```
 
 ---
@@ -125,7 +125,7 @@ added:
 
 [[ethics\|ethics]]
 
-[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/general skills master list/aesthetics\|aesthetics]]
+[[aesthetics\|aesthetics]]
 
 **.art**
 
@@ -135,7 +135,7 @@ added:
 
 [[_002_core notes/design philosophies\|design philosophies]]
 
-[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/general skills master list/aesthetics\|aesthetics]]
+[[aesthetics\|aesthetics]]
 
 [[topics/player/game design\|game design]]
 
@@ -143,7 +143,7 @@ added:
 
 [[topics/art/music MOC\|music]]
 
-[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/superskills master list/improvisation\|improvisation]]
+[[improvisation\|improvisation]]
 
 [[topics/art/body music\|body music]]
 
@@ -203,9 +203,9 @@ added:
 [[concepts/alchemy/embodied cognition\|embodied cognition]]
 [[concepts/design/augmented intelligence\|augmented intelligence]]
 
-[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/general skills master list/automation\|automation]]
+[[automation\|automation]]
 [[streamlining\|streamlining]]
-[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/industries master list/creativity\|creativity]]
+[[creativity\|creativity]]
 [[enablement\|enablement]]
 
 [[topics/lab/information design\|information design]]
@@ -220,12 +220,12 @@ added:
 [[interfaces\|interfaces]]
 [[topics/lab/interactive visualizations\|interactive visualizations]]
 [[interface design\|interface design]]
-[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/interests & topics master list/experience design\|experience design]]
+[[experience design\|experience design]]
 [[topics/lab/UI design\|UI design]]
 [[topics/lab/UX design\|UX design]]
 
-[[_001_research/research\|research]] [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/references/reference types/tools\|tools]]/[[topics/lab/algorithms\|algorithms]]
-[[topics/design/curation\|curation]] [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/references/reference types/tools\|tools]]/[[topics/lab/algorithms\|algorithms]]
+[[_001_research/research\|research]] [[tools\|tools]]/[[topics/lab/algorithms\|algorithms]]
+[[topics/design/curation\|curation]] [[tools\|tools]]/[[topics/lab/algorithms\|algorithms]]
 
 [[RSS feeds\|RSS feeds]]
 
@@ -239,8 +239,8 @@ added:
 [[open information flows\|open information flows]]
 [[topics/design/web3\|web3]]
 
-[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/interests & topics master list/no-code\|no-code]]
-[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/general skills master list/automation\|automation]]
+[[no-code\|no-code]]
+[[automation\|automation]]
 [[terms/tracking\|tracking]]
 
 [[connectivity\|connectivity]]
@@ -262,7 +262,7 @@ added:
 
 [[life management/personal operations\|personal operations]]
 
-[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/interests & topics master list/business operations/business operations\|business operations]]
+[[business operations\|business operations]]
 
 [[topics/lab/personal knowledge management\|personal knowledge management]]
 
@@ -278,11 +278,11 @@ added:
 
 [[projects & tools/tools/lab/eagle (app)\|eagle (app)]]
 [[projects & tools/tools/lab/raindrop\|raindrop]]
-[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/sub-skills master list/asana\|asana]]
+[[asana\|asana]]
 [[morgen\|morgen]]
 [[cron\|cron]]
 
-[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/community locations/telegram\|telegram]]
+[[telegram\|telegram]]
 [[tbprocessed/base notes/ventures - general/discord\|discord]]
 
 [[creator economy\|creator economy]]
@@ -292,7 +292,7 @@ added:
 
 [[models & frameworks/design/8 forms of capital\|8 forms of capital]]
 
-[[tbprocessed/notion/notion resources/Web dev resources (public)/Books/Content\|content]]
+[[content\|content]]
 
 [[content curation\|content curation]]
 [[social curation\|social curation]]
@@ -335,8 +335,8 @@ added:
 [[abundance-generating mechanisms\|abundance-generating mechanisms]]
 
 [[terms/information\|information]]
-[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/project-mission category/knowledge\|knowledge]]
-[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/attributes/intelligence\|intelligence]]
+[[knowledge\|knowledge]]
+[[intelligence\|intelligence]]
 [[terms/action\|action]]
 [[energy\|energy]]
 [[concepts/alchemy/time\|time]]
@@ -364,7 +364,7 @@ added:
 [[transmutation\|transmutation]]
 [[transformation\|transformation]]
 
-[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/content master list/theGamificationProject/YA- Success Plan/First Principles Thinking\|first principles thinking]]
+[[first principles thinking\|first principles thinking]]
 [[first principles building\|first principles building]]
 
 [[architecture\|architecture]]
@@ -372,7 +372,7 @@ added:
 [[engineering\|engineering]]
 
 [[rate limiting step\|rate limiting step]]
-[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/concepts & frameworks/bottleneck\|bottleneck]]
+[[bottleneck\|bottleneck]]
 [[chunking\|chunking]]
 [[encoding\|encoding]]
 [[efficiency\|efficiency]]
@@ -382,7 +382,7 @@ added:
 [[decentralized organizing\|decentralized organizing]]
 
 [[topics/design/web3\|web3]]
-[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/professional quadrants/social\|social]]
+[[social\|social]]
 [[terms/environment\|environment]]
 [[youth\|youth]]
 [[terms/action\|action]]
@@ -426,7 +426,7 @@ added:
 [[navigation maps\|navigation maps]]
 
 [[attention warfare\|attention warfare]]
-[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/concepts & frameworks/concepts & frameworks/information warfare\|information warfare]]
+[[information warfare\|information warfare]]
 
 [[life management/relationships\|relationships]]
 [[means of interaction\|means of interaction]]
@@ -438,7 +438,7 @@ added:
 [[trustless systems\|trustless systems]]
 [[public commons\|public commons]]
 
-[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/general skills master list/digital infrastructure\|digital infrastructure]]
+[[digital infrastructure\|digital infrastructure]]
 [[terms/blockchain\|blockchain]]
 [[initiatives, orgs & communities/lab/holochain\|holochain]]
 
@@ -450,7 +450,7 @@ added:
 [[strategy]]
 
 [[topics/lab/information management\|information management]]
-[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/bookmarks/knowledge base\|knowledge base]]
+[[knowledge base\|knowledge base]]
 
 [[topics/design/collaboration tools\|collaboration tools]]
 [[incentives\|incentives]]
@@ -470,7 +470,7 @@ added:
 
 [[topics/design/coordination systems\|coordination systems]]
 [[scaling coordination\|scaling coordination]]
-[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/superskills master list/resources management\|resources management]]
+[[resources management\|resources management]]
 
 [[open-source\|open-source]]
 [[open-source monetization models\|open-source monetization models]]
@@ -520,7 +520,7 @@ added:
 [[topics/player/play\|play]]
 [[integration\|integration]]
 [[evolution\|evolution]]
-[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/personal values list/contribution\|contribution]]
+[[contribution\|contribution]]
 [[service\|service]]
 [[love\|love]]
 
@@ -529,11 +529,11 @@ added:
 [[beautiful\|beautiful]]
 
 [[terms/sharing\|sharing]]
-[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/principles, purpose & values/purpose\|purpose]]
+[[purpose\|purpose]]
 [[concepts/alchemy/values\|values]]
 [[mission\|mission]]
 [[terms/community\|community]]
-[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/superskills master list/movement\|movement]]
+[[movement\|movement]]
 
 [[commitment\|commitment]]
 [[vision\|vision]]
@@ -543,11 +543,11 @@ added:
 [[financial resources\|financial resources]]
 [[value flows\|value flows]]
 
-[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/1 - on hold-waiting for/Cog's Ladder - Understanding and Accelerating Group Formation/Untitled/Power\|power]]
+[[power\|power]]
 [[expression\|expression]]
 [[individuality\|individuality]]
 
-[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/bookmarks/Trust\|trust]]
+[[trust\|trust]]
 [[social recognition\|social recognition]]
 [[social network\|social network]]
 
@@ -558,7 +558,7 @@ added:
 [[concepts/player/game\|games]]
 [[players\|players]]
 
-[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/categories of games/omni-win games\|omni-win games]]
+[[omni-win games\|omni-win games]]
 [[win-win games\|win-win games]]
 [[winning happening games\|winning happening games]]
 
@@ -574,7 +574,7 @@ added:
 [[lines\|lines]]
 [[levels\|levels]]
 [[states\|states]]
-[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/concepts & frameworks/types\|types]]
+[[types\|types]]
 
 [[types of games\|types of games]]
 [[game paths\|game paths]]
@@ -582,7 +582,7 @@ added:
 
 [[topics/design/regeneration\|regeneration]]
 [[tbprocessed/base notes/concepts - general/disruption\|disruption]]
-[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/content master list/integral spirituality\|integral spirituality]]
+[[integral spirituality\|integral spirituality]]
 [[initiatives, orgs & communities/alchemy/possibility management\|possibility management]]
 
 [[transition movements\|transition movements]]
@@ -596,7 +596,7 @@ added:
 [[cues\|cues]]
 [[arenas\|arenas]]
 [[labyrinths\|labyrinths]]
-[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/references/reference types/tools\|tools]]
+[[tools\|tools]]
 [[concepts/design/resources\|resources]]
 
 [[concepts/alchemy/multidimensional artifacts\|multidimensional artifacts]]
@@ -615,7 +615,7 @@ added:
 
 [[levels\|levels]]
 [[easy\|easy]]
-[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/references/reference types/recommended references/c4ss1us’ technology tool stack/medium/medium\|medium]]
+[[medium\|medium]]
 [[hard\|hard]]
 [[expert\|expert]]
 [[hardcore\|hardcore]]
@@ -665,7 +665,7 @@ added:
 [[insights\|insights]]
 [[concepts/lab/atomic essays\|atomic essays]]
 [[thesis\|thesis]]
-[[tbprocessed/notion/c4ss1us.NOW/presentation\|presentation]]
+[[presentation\|presentation]]
 
 [[responses/lab/fractal presentation of information\|fractal model of information presentation]]
 
@@ -681,7 +681,7 @@ underutilized terms i have a special place for:
 [[creative friendships\|creative friendships]]
 [[evolutionary friendships\|evolutionary friendships]]
 
-[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/lifestyle pillars/evolutionary learning\|evolutionary learning]]
+[[evolutionary learning\|evolutionary learning]]
 
 -----
 

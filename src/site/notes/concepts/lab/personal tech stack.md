@@ -78,7 +78,7 @@ at some point, i'd like to tag these with metadata - their ecological footprint 
 
 at which level does each tool operate?
 
-[[data\|data]] -> [[terms/information\|information]] -> [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/project-mission category/knowledge\|knowledge]] -> [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/industries master list/creativity\|creativity]] -> [[concepts/alchemy/wisdom\|wisdom]] (content layers)
+[[data\|data]] -> [[terms/information\|information]] -> [[knowledge\|knowledge]] -> [[creativity\|creativity]] -> [[concepts/alchemy/wisdom\|wisdom]] (content layers)
 
 — other useful frames/breakdowns: [[terms/action\|action]], [[_006_toolkit/008 🕹 decision hub\|decision]], [[thoughts\|thoughts]], [[plans\|plans]], [[strategies\|strategies]]...
 

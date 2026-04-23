@@ -8,7 +8,7 @@ for a fantastic introduction to why maps or [[topographical intelligence\|topogr
 
 if 30 minutes is too long for you, here's only [[_009_notes & highlights from books, videos, articles/On being lost (Wardley Maps, Chapter 1)\|my highlights]] (cutting it to a 15-min read).
 
-\+ [a good intro](https://x.com/HuguesVincey/status/1369666561930362881) to the difference between (information) mapping and [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/general skills master list/data visualization\|data visualization]] (by: [[hugues vincey\|hugues vincey]])
+\+ [a good intro](https://x.com/HuguesVincey/status/1369666561930362881) to the difference between (information) mapping and [[data visualization\|data visualization]] (by: [[hugues vincey\|hugues vincey]])
 
 see also: [[counter-cartographies\|counter-cartographies]], [[data visualizations\|data visualizations]], [[responses/lab/interactive graphs\|interactive graphs]], [[topics/lab/interactive visualizations\|interactive visualizations]], [[topics/lab/map-making\|map-making]], [[diagrams\|diagrams]], [[responses/lab/dashboards\|dashboards]]
 
@@ -32,7 +32,7 @@ see also: [[counter-cartographies\|counter-cartographies]], [[data visualization
 </div></div>
 
 
-which is a very specific frame, and makes us realize how, according to this perspective, most of the digital maps we use/interact with aren't maps at all. they're usually [[tbprocessed/notion/c4ss1us.NOW/models/models\|models]], [[frameworks\|frameworks]], [[sketches\|sketches]] or [[illustrations\|illustrations]].
+which is a very specific frame, and makes us realize how, according to this perspective, most of the digital maps we use/interact with aren't maps at all. they're usually [[models\|models]], [[frameworks\|frameworks]], [[sketches\|sketches]] or [[illustrations\|illustrations]].
 
 yet, many people refer to them as maps, so i'll propose a different, more loose classification of maps taking into account other people's curation of popular maps as well:
 #### types of maps:
@@ -50,7 +50,7 @@ i highly encourage you to check out the whole thread, as pasting everything here
 -> as a summary, he suggests:
 
 a) [[memespace maps\|memespace maps]]
-b) [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/organizations master list/ribbonfarm\|ribbonfarm]]'s maps
+b) [[ribbonfarm\|ribbonfarm]]'s maps
 c) [[defining characteristics of maps\|defining characteristics of maps]]
 d) [[maps of maps\|maps of maps]] (curating/organizing perspectives)
 e) [[models & frameworks/design/wardley mapping\|wardley maps]]
@@ -302,7 +302,7 @@ other relevant approaches:
 
 ###### main references:
 - [[initiatives, orgs & communities/design/sublime (ex-startupy)\|sublime (ex-startupy)]]
-- [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/references/reference types/recommended references/c4ss1us’ technology tool stack/are.na\|are.na]]
+- [[are.na\|are.na]]
 - [[projects & tools/tools/design/melon\|melon]]
 - [[initiatives, orgs & communities/design/golden\|golden]]
 - [[projects & tools/tools/design/weco\|weco]]
@@ -314,7 +314,7 @@ other relevant approaches:
 - [[initiatives, orgs & communities/design/goodly labs\|goodly labs]]
 
 ###### decentralized social media initiatives:
-- [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/references/reference types/recommended references/c4ss1us’ technology tool stack/mastodon\|mastodon]]
+- [[mastodon\|mastodon]]
 - [[initiatives, orgs & communities/lab/bluesky\|bluesky]]
 - [[discourse\|discourse]]
 - [[matrix\|matrix]]
@@ -344,7 +344,7 @@ enterprise:
 - [[cluster mapping\|cluster mapping]]: cohere.ai (see: https://x.com/Saboo_Shubham_/status/1601250351121944576)
 ###### tier 2:
 
-[[neo4J\|neo4J]], [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/sub-skills master list/d3.js\|d3.js]], [[infranodus\|infranodus]], [[projects & tools/tools/lab/metamaps\|metamaps]] ([[projects & tools/tools/design/kumu\|kumu]]-like), [[projects & tools/tools/lab/datasette\|datasette]]
+[[neo4J\|neo4J]], [[d3.js\|d3.js]], [[infranodus\|infranodus]], [[projects & tools/tools/lab/metamaps\|metamaps]] ([[projects & tools/tools/design/kumu\|kumu]]-like), [[projects & tools/tools/lab/datasette\|datasette]]
 
 [layer](https://beta.getlayer.xyz/) - [[geographic\|geographic]]/[[demographic\|demographic]] data only.
 

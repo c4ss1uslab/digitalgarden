@@ -4,7 +4,7 @@
 
 full title: first principles and first values - forty-two propositions on cosmoerotic humanism, the meta-crisis and the world to come.
 
-a fantastic [[topics/alchemy/metaphysics\|metaphysics]] and systemic [[concepts/design/metacrisis\|metacrisis]] analysis book written by [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/contacts master list/contacts master list/zak stein\|zak stein]], [[marc gafni\|marc gafni]] and [[people/references/alchemy/ken wilber\|ken wilber]] under the pseudonym of [[david j. temple\|david j. temple]]. it provides key perspectives on framing the [[concepts/design/metacrisis\|metacrisis]] and proposing approaches to address it.
+a fantastic [[topics/alchemy/metaphysics\|metaphysics]] and systemic [[concepts/design/metacrisis\|metacrisis]] analysis book written by [[zak stein\|zak stein]], [[marc gafni\|marc gafni]] and [[people/references/alchemy/ken wilber\|ken wilber]] under the pseudonym of [[david j. temple\|david j. temple]]. it provides key perspectives on framing the [[concepts/design/metacrisis\|metacrisis]] and proposing approaches to address it.
 
 see more at: https://worldphilosophyandreligion.org/first-values-first-principles/
 

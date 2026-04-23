@@ -9,7 +9,7 @@ or [[metagames\|metagames]] - i.e. games that create other games. i'll explore a
 ---
 ##### a few of my favorite definitions of "game"
 
-[[models & frameworks/player/ERGO\|ERGO]] model: [[terms/environment\|environment]], [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/concepts & frameworks/roles/roles\|roles]], [[guidelines\|guidelines]], [[objectives\|objectives]]. (source: [[antonio (lala)\|antonio (lala)]])
+[[models & frameworks/player/ERGO\|ERGO]] model: [[terms/environment\|environment]], [[roles\|roles]], [[guidelines\|guidelines]], [[objectives\|objectives]]. (source: [[antonio (lala)\|antonio (lala)]])
 
 "A game is a form of play with goals and structure." (Kevin J. Maroney)
 
@@ -110,7 +110,7 @@ other approaches:
 - [[finances\|finances]]
 - [[life management/professional\|professional]]
 - [[_005_MOCs/075 🔴🟠🟡 short game/098 📕 learning MOC\|learning]]
-- [[terms/fun\|fun]]/[[topics/player/play\|play]]/[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/industries master list/creativity\|creativity]]
+- [[terms/fun\|fun]]/[[topics/player/play\|play]]/[[creativity\|creativity]]
 - [[topics/design/systems\|systems]]
 
 ##### c) 4 horizons, 12 areas ([[models & frameworks/player/fourgames\|fourgames]])
@@ -122,7 +122,7 @@ other approaches:
 - [[concepts/alchemy/mid game\|mid game]]
 	- [[life management/environments\|environments]]
 	- [[topics/design/systems\|systems]]
-	- [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/references/reference types/tools\|tools]]
+	- [[tools\|tools]]
 - [[concepts/alchemy/long game\|long game]]
 	- [[_006_toolkit/x+ 🎭 roles LPS\|roles]]
 	- [[_005_MOCs/050 🟩 mid game/065 🏆 goals & KPIs MOC\|goals]]

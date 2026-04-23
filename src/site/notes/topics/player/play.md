@@ -4,7 +4,7 @@
 
 play is powerful for the sake of itself. it's a naturally joyful and curious, exploratory state. it's how we learn most effectively, and a way that we can feel that we belong, we matter, we are valued, we are supported and we can support others. we can, in practice, play our part in a larger whole.
 
-but even beyond that, i'm very interested in *play as a mechanism to [[topics/design/coordination systems\|coordinate]] [[terms/action\|action]] ([[terms/collaboration\|collaboration]]) across different [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/levels of development/levels of development\|levels of development]].*
+but even beyond that, i'm very interested in *play as a mechanism to [[topics/design/coordination systems\|coordinate]] [[terms/action\|action]] ([[terms/collaboration\|collaboration]]) across different [[levels of development\|levels of development]].*
 
 and [[metagames\|metagames]] as a play-directing/supporting endeavor.
 

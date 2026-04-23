@@ -44,7 +44,7 @@ dynamic interfaces (generated via web/scraper/agent data + second brain informat
 -> diagrams (e.g.: https://diagram.website/)
 -> codex
 
-[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/bookmarks/Daily Notes\|daily notes]] + "order by recent" -> apply to bookmarks as well
+[[daily notes\|daily notes]] + "order by recent" -> apply to bookmarks as well
 [[patterns/active patterns/knowledge management/search or create\|search or create]]
 
 [[user-generated blog\|user-generated blog]] ([[people/references/design/stephen reid\|people/references/design/stephen reid]])
@@ -71,5 +71,5 @@ sourcing from: [[_003_L1F3/l1f3 management system\|l1f3 management system]].
 \+ relevant mental models:
 
 more knowledge/distinctions lead to more knowledge/distinctions, which cause self-amplifying returns but can be class-perpetuating, not necessarily exponential.
-[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/bookmarks/Visualize Value\|visualize value]]
+[[visualize value\|visualize value]]
 etc

@@ -20,7 +20,7 @@ there are some absolute [[knowledge wiki\|knowledge wiki]]/[[_001_research/resea
 
 contextual, adaptive learning/[knowledge trails](https://maggieappleton.com/historical-trails)/ [[responses/lab/recommender systems\|recommender systems]] \\/
 [[visual explanations\|visual explanations]], [[topics/lab/spatial computing\|spatial]], other forms of [[concepts/design/extended cognition\|extended cognition]] / [[concepts/alchemy/embodied cognition\|embodied]] knowledge
--> e.g. [[topics/lab/interactive visualizations\|interactive visualizations]], [[simulations\|simulations]], [[tbprocessed/notion/c4ss1us.NOW/models/models\|models]] ([[people/references/lab/bret victor\|bret victor]])
+-> e.g. [[topics/lab/interactive visualizations\|interactive visualizations]], [[simulations\|simulations]], [[models\|models]] ([[people/references/lab/bret victor\|bret victor]])
 -> [[models & frameworks/alchemy/4Ps;3R theory of cognition\|4Ps;3R theory of cognition]] - [[perspectival knowing\|perspectival knowing]], [[participatory knowing\|participatory knowing]], [[procedural knowing\|procedural knowing]], [[propositional knowing\|propositional knowing]].
 -> [[topics/lab/knowledge visualization\|knowledge visualization]] -> [[people/references/lab/francis miller\|francis miller]], [[people/references/lab/maggie appleton\|maggie appleton]]
 

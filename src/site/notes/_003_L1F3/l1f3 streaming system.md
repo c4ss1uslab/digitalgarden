@@ -3,7 +3,7 @@
 ---
 
 main archetypes: [[_006_toolkit/classes/artist\|🎨 artist]], [[_004_c4ss1us/c4ss1us.design\|✒ architect]]
-keywords: [[concepts/design/resources\|resources]], [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/superskills master list/resources management\|resources management]], [[concepts/design/value\|value]], [[value flows\|value flows]], [[information flows\|information flows]], [[topics/lab/information management\|information management]], [[concepts/design/memetics\|memetics]], [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/decision management system/self-investment methodology/skills breakdown/Copy of personal clarity/meta-communication/meta-communication\|meta-communication]], [[content curation\|content curation]], [[terms/consumption\|content consumption]], [[life management/content creation\|content creation]], [[content distribution\|content distribution]], [[content management\|content management]], [[content streamlining\|content streamlining]]
+keywords: [[concepts/design/resources\|resources]], [[resources management\|resources management]], [[concepts/design/value\|value]], [[value flows\|value flows]], [[information flows\|information flows]], [[topics/lab/information management\|information management]], [[concepts/design/memetics\|memetics]], [[meta-communication\|meta-communication]], [[content curation\|content curation]], [[terms/consumption\|content consumption]], [[life management/content creation\|content creation]], [[content distribution\|content distribution]], [[content management\|content management]], [[content streamlining\|content streamlining]]
 
 ---
 #### introduction

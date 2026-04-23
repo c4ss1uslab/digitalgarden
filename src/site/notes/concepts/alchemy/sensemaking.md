@@ -78,12 +78,12 @@ main refs: [[projects & tools/projects/lab/envisioning tech radar\|envisioning r
 	- [[state of the world\|state of the world]] ([[concepts/alchemy/epistemology\|epistemology]])
 		- [[meta-systemic challenges\|meta-systemic challenges]]
 			- [[diagnosis/generator functions of existential risk\|generator functions of existential risk]]:
-				- [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/concepts & frameworks/sensemaking/zero-sum games\|zero-sum games]]
+				- [[zero-sum games\|zero-sum games]]
 				- [[complicated systems\|complicated systems]] & [[externalities\|externalities]]
 			- 
 			- [[concepts/design/multipolar traps\|multipolar traps]]
 		- [[systemic challenges\|systemic challenges]]
-			- [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/concepts & frameworks/concepts & frameworks/information warfare\|information warfare]]
+			- [[information warfare\|information warfare]]
 			- [[diagnosis/climate crisis\|climate crisis]]
 			- [[technological innovations\|technological innovations]]
 	- [[state of the web\|state of the web]] ([[information ecologies\|information ecologies]])
@@ -93,11 +93,11 @@ main refs: [[projects & tools/projects/lab/envisioning tech radar\|envisioning r
 ---
 #### other references:
 
-practical [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/superskills master list/philosophy\|philosophy]]/basic orienting principles:
-[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/principles, purpose & values/principles\|principles]] (by ray dalio)
+practical [[philosophy\|philosophy]]/basic orienting principles:
+[[principles\|principles]] (by ray dalio)
 [[dan koe\|dan koe]]'s career philosophical videos
 
-[[geopolitics\|geopolitics]], [[topics/design/economics\|economics]] & [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/professional areas/finance\|finance]]:
+[[geopolitics\|geopolitics]], [[topics/design/economics\|economics]] & [[finance\|finance]]:
 slightly less biased, lighter/more informative analyses: [coldfusion](https://www.youtube.com/c/ColdFusion)
 [How Money & Banking Work (& why they're broken today) - Lyn Alden](https://www.youtube.com/watch?v=jk_HWmmwiAs)
 [how money works channel](https://www.youtube.com/c/HowMoneyWorks)

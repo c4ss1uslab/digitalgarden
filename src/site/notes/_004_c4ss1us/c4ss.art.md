@@ -13,7 +13,7 @@ it's a mirror that both reflects life and society, but also possibilities and id
 
 it's a bridge between the possible and the actual, and it provides a way to [[terms/creation\|create]] from a deeper place of [[terms/connection\|connection]] and [[recognition\|recognition]] - of who we are, where we are, and how we might contribute to it.
 
-in many philosophical traditions, [[beauty\|beauty]], or [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/general skills master list/aesthetics\|aesthetics]], is on equal standing to [[truth\|truth]] and [[goodness\|goodness]].
+in many philosophical traditions, [[beauty\|beauty]], or [[aesthetics\|aesthetics]], is on equal standing to [[truth\|truth]] and [[goodness\|goodness]].
 
 not all art comes from this place of - might i say - soulful expression, nor could it be the case due to many perverse [[concepts/design/incentive structures\|incentive structures]], [[psychological biases\|psychological biases]] and widespread [[diagnosis/meaning crisis\|psycho-spiritual alienation]] of our times (not being defeatist here).
 
@@ -27,7 +27,7 @@ still, a question remains:
 
 in my experience, [[tbprocessed/base notes/concepts - general/art\|art]] is what ultimately connects us with a deeper sense of [[beauty\|beauty]] and appreciation. that's necessarily related to a recognition of [[concepts/design/value\|value]], or the [[sacred\|sacred]]. it's what often makes us want to keep on living.
 
-i'm therefore especially interested in [[story\|stories]], [[visuals\|visuals]], [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/superskills master list/movement\|movement]], [[sounds\|sounds]], [[concepts/player/game\|games]] & [[concepts/design/memetics\|memetics]] that come from or reflect this [[terms/evolutionary\|evolutionary]]/[[sacred\|sacred]] sense.
+i'm therefore especially interested in [[story\|stories]], [[visuals\|visuals]], [[movement\|movement]], [[sounds\|sounds]], [[concepts/player/game\|games]] & [[concepts/design/memetics\|memetics]] that come from or reflect this [[terms/evolutionary\|evolutionary]]/[[sacred\|sacred]] sense.
 
 [[tbprocessed/base notes/concepts - general/art\|art]] is revolutionary as in 1) it empowers us to see ourselves as [[creators\|creators]], and act from that place - and 2) it can provide direct responses to the many [[diagnosis/intimacy crisis\|intimacy]], [[diagnosis/meaning crisis\|meaning]], and [[diagnosis/existential crisis\|existential crises]] we're going through.
 
@@ -53,9 +53,9 @@ the contents of the writing below are currently haphazard, disjointed and all ov
 #passive
 [[motion design\|motion design]]
 [[topics/art/sound design\|sound design]]
-[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/interests & topics master list/video-making\|video-making]] ([[video editing\|video editing]] & [[post-production\|post-production]])
+[[video-making\|video-making]] ([[video editing\|video editing]] & [[post-production\|post-production]])
 [[topics/art/graphic design\|graphic design]]
-minimalist [[concept design\|concept design]]/[[illustration\|illustration]] ([[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/bookmarks/Visualize Value\|visualize value]])
+minimalist [[concept design\|concept design]]/[[illustration\|illustration]] ([[visualize value\|visualize value]])
 handmade/[[diy\|diy]]/lo-fi hybrid stuff (physical-digital)
 -> [[topics/design/zines\|zines]] / [[prototypes & designs/made by me/on hold/minimum viable extended self device\|minimum viable extended self device]]
 ###### someday-maybe:

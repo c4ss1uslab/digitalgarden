@@ -29,7 +29,7 @@ it operates on the premise that if we are able to develop/apply [[_009_notes & h
 - [[perception\|perception]] ([[topics/lab/personal data management\|personal data management]]/[[topics/lab/information management\|information management]])
 - [[concepts/alchemy/sensemaking\|sensemaking]] ([[topics/lab/personal knowledge management\|personal knowledge management]] - [[_005_MOCs/050 🟩 mid game/040 🤹🏻‍♂️ areas MOC\|responsibilities]], [[_006_toolkit/x+ 🎭 roles LPS\|roles]], [[_005_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|challenges]], etc)
 - [[terms/decision-making\|decision-making]] ([[decision management\|decision management]])
-- [[terms/action\|action]]/[[topics/player/learning\|learning]] ([[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/general skills master list/task management\|task management]] / [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/general skills master list/time management\|time management]] / [[energy management\|energy management]] / [[tbprocessed/base notes/topics/learning management\|learning management]]) / [[feedback\|feedback]]/[[results\|results]] ([[wisdom management\|wisdom management]] / [[values management\|values management]] / [[_003_L1F3/core concepts/self-management\|self-management]])
+- [[terms/action\|action]]/[[topics/player/learning\|learning]] ([[task management\|task management]] / [[time management\|time management]] / [[energy management\|energy management]] / [[tbprocessed/base notes/topics/learning management\|learning management]]) / [[feedback\|feedback]]/[[results\|results]] ([[wisdom management\|wisdom management]] / [[values management\|values management]] / [[_003_L1F3/core concepts/self-management\|self-management]])
 
 \+ different [[prototypes & designs/made by me/l1f3 management system views\|views]]
 
@@ -56,7 +56,7 @@ categories of personal systems:
 - [[prototypes & designs/made by me/action management system\|⚔ action management system]]
 - [[prototypes & designs/made by me/learning management system\|📚 learning management system]]
 
-#### [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/metaskills master list/systems management/systems management\|systems management]]
+#### [[systems management\|systems management]]
 - [[topics/lab/personal data management\|personal data management]]
 - [[topics/lab/information management\|information management]]
 - [[topics/lab/personal knowledge management\|personal knowledge management]]
@@ -103,14 +103,14 @@ github - project categories:
 
 - [[data\|data]]
 - [[ideas\|ideas]]/[[thoughts\|thoughts]]
-- [[tbprocessed/notion/c4ss1us.NOW/models/models\|models]]/[[theories\|theories]]
+- [[models\|models]]/[[theories\|theories]]
 - [[initiatives, orgs & communities/organizations MOC\|organizations]]/[[tbprocessed/AI-generated/projects\|projects]]
 - [[life management/relationships\|relationships]]
 
 ##### [[modular structures\|modular structures]] / [[composable structures\|composable structures]] like:
 - [[concepts/design/assets\|assets]]
-- [[tbprocessed/notion/c4ss1us.NOW/models/models\|models]]
-- [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/bookmarks/Templates\|templates]]
+- [[models\|models]]
+- [[templates\|templates]]
 - [[mods\|mods]]
 - [[plugins\|plugins]]
 - [[add-ons\|add-ons]]
@@ -120,7 +120,7 @@ in:
 - [[topics/art/music MOC\|music MOC]]
 - [[terms/audio\|audio]]
 - [[interfaces\|interfaces]]
-- [[tbprocessed/notion/notion resources/Web dev resources (public)/Images\|images]]
+- [[images\|images]]
 - [[scenes\|scenes]]
 
 can create certain file types:

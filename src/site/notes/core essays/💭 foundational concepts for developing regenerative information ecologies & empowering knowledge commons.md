@@ -125,7 +125,7 @@ which leads us to the first foundational concept:
 
 #### 1) [[concepts/player/game\|games]], [[topics/player/game theory\|game theory]], [[topics/player/game design\|game design]] & [[game boards\|game boards]].
 
-[[antonio\|antonio]] - ERGO model: [[terms/environment\|environment]], [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/concepts & frameworks/roles/roles\|roles]], [[guidelines\|guidelines]], [[objectives\|objectives]].
+[[antonio\|antonio]] - ERGO model: [[terms/environment\|environment]], [[roles\|roles]], [[guidelines\|guidelines]], [[objectives\|objectives]].
 
 ...
 
@@ -340,7 +340,7 @@ but this is still an underdeveloped topic, with lots of potential for creation/i
 [[initiatives, orgs & communities/design/goodly labs\|goodly labs]]' AI prototypes
 [[tbprocessed/base notes/ventures - general/SEEDS\|SEEDS]]' liquid democracy
 [[initiatives, orgs & communities/design/meaning alignment institute\|meaning alignment institute]]
-[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/sub-missions list/disruptive life OS v. 1.0/disruptive os breakdown/personal ecosystems creation/intrapersonal management/learning-education resources/alternative education companies database/roote\|roote]]'s [[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social (ex-tweetscape)]]
+[[roote\|roote]]'s [[projects & tools/projects/lab/trails.social (ex-tweetscape)\|trails.social (ex-tweetscape)]]
 [[common sensemaker\|common sensemaker]]'s [sensenets](https://paragraph.xyz/@sense-nets/sense-nets-intro)
 [[initiatives, orgs & communities/design/the society library\|society library]]
 [[projects & tools/tools/design/metaculus\|metaculus]]

@@ -30,7 +30,7 @@ on stage: [[life stage\|life stage]] (both age and moment/priority), [[concepts/
 
 [[people/references/regen/vanessa andreotti\|vanessa andreotti]] points out the systemic erasing of indigenous [[concepts/alchemy/ways of being\|ways of being]] and lifestyle possibilities outside of the [[house of modernity\|house of modernity]].
 
-[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/sub-missions list/disruptive life OS v. 1.0/disruptive os breakdown/personal ecosystems creation/intrapersonal management/learning-education resources/alternative education companies database/roote\|roote]] refers to "ambitious frontier people".
+[[roote\|roote]] refers to "ambitious frontier people".
 [[initiatives, orgs & communities/alchemy/possibility management\|possibility management]] refers as to a similar group as "[[edgewalkers\|edgewalkers]]".
 [[people/references/alchemy/hanzi freinacht\|hanzi freinacht]] evidences a growing number of people, also in this group, as members of the [[precariat\|precariat]].
 

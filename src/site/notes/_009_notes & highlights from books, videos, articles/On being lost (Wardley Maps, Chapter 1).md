@@ -21,7 +21,7 @@ original article: https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec
 
 > I rapidly discovered that despite all of our talking, daily status meetings and our weekly Town hall that beyond the very senior management, no-one really understood our strategy. I also doubted whether the senior management did. I certainly was unsure of it. I turned inward, the problem was me!
 
-> By chance, I picked up a copy of the “[[Art of War\|Art of War]]” by Sun Tzu. I noticed something that I had been missing in my understanding of strategy. Sun Tzu had described five factors that matter in competition between two opponents. Loosely speaking, these are: — [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/principles, purpose & values/purpose\|purpose]], [[landscape\|landscape]], [[climate\|climate]], [[doctrine\|doctrine]] and [[leadership\|leadership]].
+> By chance, I picked up a copy of the “[[Art of War\|Art of War]]” by Sun Tzu. I noticed something that I had been missing in my understanding of strategy. Sun Tzu had described five factors that matter in competition between two opponents. Loosely speaking, these are: — [[purpose\|purpose]], [[landscape\|landscape]], [[climate\|climate]], [[doctrine\|doctrine]] and [[leadership\|leadership]].
 
 > ![](https://miro.medium.com/max/700/1*RSH2vh_xgQtjB68Zb7oBaA.jpeg)
 > *figure 1: the five factors*

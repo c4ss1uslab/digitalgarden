@@ -10,7 +10,7 @@
 
 #### references
 
-[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/contacts master list/contacts master list/tim ferriss\|tim ferriss]], [[michelle khare\|michelle khare]], [[sky cowans\|sky cowans]], [[experiência flamino\|experiência flamino]]
+[[tim ferriss\|tim ferriss]], [[michelle khare\|michelle khare]], [[sky cowans\|sky cowans]], [[experiência flamino\|experiência flamino]]
 
 #### design elements:
 

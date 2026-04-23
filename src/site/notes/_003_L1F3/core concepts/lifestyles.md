@@ -19,7 +19,7 @@ this note is still in an early stage. if the contents below seem too loose, cons
 
 i believe the design of our lifestyles has a dramatic impact on our lives, and this is something that isn't discussed or theorized nearly enough, even in circles that talk about [[_003_L1F3/core concepts/self-transformation\|self-transformation]], [[social change\|social change]], [[topics/design/regeneration\|regeneration]] or [[_003_L1F3/core concepts/civilization design\|civilization design]] in general. in [[sociology\|sociology]] or [[topics/design/anthropology\|anthropology]], there's a big emphasis on [[race\|race]] and [[social class\|social class]], but a lack of comprehensive visions and propositions for alternative ways of [[social organizing\|social organizing]]. (see: [[_009_notes & highlights from books, videos, articles/listening society\|listening society]] for a discussion in more depth)
 
-the term "[[topics/design/lifestyle design\|lifestyle design]]" rose in popularity with digital nomads and such, but the major resources that emerged with it, like [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/contacts master list/contacts master list/tim ferriss\|tim ferriss]]' [[4-hour workweek\|4-hour workweek]] and [[references/design/designing your life\|designing your life]] are tremendously superficial and carry a lot of [[concepts/design/modernity\|modern]]/euro-centric biases.
+the term "[[topics/design/lifestyle design\|lifestyle design]]" rose in popularity with digital nomads and such, but the major resources that emerged with it, like [[tim ferriss\|tim ferriss]]' [[4-hour workweek\|4-hour workweek]] and [[references/design/designing your life\|designing your life]] are tremendously superficial and carry a lot of [[concepts/design/modernity\|modern]]/euro-centric biases.
 
 the task of "designing a lifestyle" has a [[sociological\|sociological]], [[topics/design/anthropology\|anthropological]], [[philosophical\|philosophical]] nature, that's often ignored, and it can be a very powerful practical tool for self-reflection on the life-long paths of [[concepts/alchemy/decolonization\|decolonization]] and [[self-unfoldment\|self-unfoldment]].
 
@@ -45,7 +45,7 @@ the task of "designing a lifestyle" has a [[sociological\|sociological]], [[topi
 
 ##### more early-stage reflections:
 
-many people talk about lifestyle design, but from a narrow perspective. i unfortunately haven't found anyone questioning it deeply enough to bring insights, as to, for example, what is a [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/concepts & frameworks/lifestyle\|lifestyle]], really?
+many people talk about lifestyle design, but from a narrow perspective. i unfortunately haven't found anyone questioning it deeply enough to bring insights, as to, for example, what is a [[lifestyle\|lifestyle]], really?
 
 one of the perspectives i arrived at is that a lifestyle is just an emergent property of a being living its life. a lifestyle is a part of the system. it's just how you - consciously and unconsciously - choose to live within a model of reality you've constructed.
 
@@ -53,7 +53,7 @@ but what other properties, elements, aspects exist in a being's life?
 
 the more we are aware of such things and open to experimenting with and integrating these unconscious elements, the broader our sense of being becomes and the more proficient we are at life.
 
-on the note of [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/concepts & frameworks/lifestyle\|lifestyle]], [[concepts/alchemy/self\|self]] or [[mind\|mind]] *design*, since we don't know how much we don't know, we also need to question our ability to [[terms/design\|design]] things. what may seem like a functional, beautiful design, in practice be the opposite.
+on the note of [[lifestyle\|lifestyle]], [[concepts/alchemy/self\|self]] or [[mind\|mind]] *design*, since we don't know how much we don't know, we also need to question our ability to [[terms/design\|design]] things. what may seem like a functional, beautiful design, in practice be the opposite.
 
 how often do we tell ourselves that we want something, when in fact, what we truly want is something else?
 
@@ -83,14 +83,14 @@ vs
 
 in-between (spiritual + practical):
 
-[[people/references/alchemy/gabriel goffi\|gabriel goffi]] (see: [[projects & tools/projects/design/24h system\|24h system]] and [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/content master list/moving up\|moving up]])
+[[people/references/alchemy/gabriel goffi\|gabriel goffi]] (see: [[projects & tools/projects/design/24h system\|24h system]] and [[moving up\|moving up]])
 [[people/friends/ísis schuarts\|ísis schuarts]] (see: [[_003_L1F3/l1f3 manager\|l1f3 manager]] and her content on youtube)
 
 vs
 
 [[topics/player/learning\|learning]]-oriented:
 
-[[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/bookmarks/ReAprendiz\|reaprendiz]] / [[initiatives, orgs & communities/player/MoL\|MoL]]
+[[reaprendiz\|reaprendiz]] / [[initiatives, orgs & communities/player/MoL\|MoL]]
 
 ----
 

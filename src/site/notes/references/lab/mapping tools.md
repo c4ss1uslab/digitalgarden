@@ -16,7 +16,7 @@ enterprise:
 - [[cluster mapping\|cluster mapping]]: cohere.ai (see: https://x.com/Saboo_Shubham_/status/1601250351121944576)
 ###### tier 2:
 
-[[neo4J\|neo4J]], [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/sub-skills master list/d3.js\|d3.js]], [[infranodus\|infranodus]], [[projects & tools/tools/lab/metamaps\|metamaps]] ([[projects & tools/tools/design/kumu\|kumu]]-like), [[projects & tools/tools/lab/datasette\|datasette]]
+[[neo4J\|neo4J]], [[d3.js\|d3.js]], [[infranodus\|infranodus]], [[projects & tools/tools/lab/metamaps\|metamaps]] ([[projects & tools/tools/design/kumu\|kumu]]-like), [[projects & tools/tools/lab/datasette\|datasette]]
 
 [layer](https://beta.getlayer.xyz/) - [[geographic\|geographic]]/[[demographic\|demographic]] data only.
 

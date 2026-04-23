@@ -32,9 +32,9 @@ plus, there are a lot more curators/practitioners such as [[eric brown\|eric bro
 
 all of these share an aim to be multi-perspectival, integrative approaches to [[_003_L1F3/core concepts/self-transformation\|self-transformation]] and [[topics/alchemy/spirituality\|spirituality]], but i'm sure there are many more that hold valuable pieces of wisdom.
 
-[[initiatives, orgs & communities/alchemy/possibility management\|possibility management]] with [[thoughtware upgrades\|thoughtware upgrades]], [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/content creators master list/sadhguru\|sadhguru]] with [[self-engineering\|self-engineering]], and many others to be discovered...
+[[initiatives, orgs & communities/alchemy/possibility management\|possibility management]] with [[thoughtware upgrades\|thoughtware upgrades]], [[sadhguru\|sadhguru]] with [[self-engineering\|self-engineering]], and many others to be discovered...
 
-> my proposal is: if we start with the intersection of "broadly acceptable" [[beliefs\|beliefs]]/[[practices\|practices]] across these different philosophies and traditions, we can work with what we have - cultivating [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/bookmarks/Trust\|trust]], [[love\|love]], [[understanding\|understanding]] and [[diagnosis/intimacy crisis\|intimacy]] - and slowly expand into the more complex, nuanced, inflammable territories.
+> my proposal is: if we start with the intersection of "broadly acceptable" [[beliefs\|beliefs]]/[[practices\|practices]] across these different philosophies and traditions, we can work with what we have - cultivating [[trust\|trust]], [[love\|love]], [[understanding\|understanding]] and [[diagnosis/intimacy crisis\|intimacy]] - and slowly expand into the more complex, nuanced, inflammable territories.
 
 ---
 ##### is coordinating different perspectives even possible?
@@ -43,9 +43,9 @@ depending on who you ask, the answer will vary greatly. some might say that poli
 
 the [[initiatives, orgs & communities/design/meaning alignment institute\|meaning alignment institute]] and [[initiatives, orgs & communities/design/goodly labs\|goodly labs]] are two examples of institutions doing a great job using [[topics/design/technology\|technology]] to coordinate varying perspectives. in their practice, they're finding that very often they're able to reach a higher-order synthesis/resolution that qualitatively feels better for people on both sides of the spectrum.
 
-(the [[topics/alchemy/wisdom traditions\|spiritual traditions]] we mentioned before definitely will have some things to say on the nature of [[polarity\|polarity]] as a way to find [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/balance/balance\|balance]]/[[harmony\|harmony]] as well 🙃)
+(the [[topics/alchemy/wisdom traditions\|spiritual traditions]] we mentioned before definitely will have some things to say on the nature of [[polarity\|polarity]] as a way to find [[balance\|balance]]/[[harmony\|harmony]] as well 🙃)
 
-there are many people working on [[mediation\|mediation]], [[reconciliation\|reconciliation]], [[_004_c4ss1us/c4ss.host\|facilitation]] as a whole, and we might even say that [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/sub-interests & practices master list/governance\|governance]] is fundamentally about that. i'll dive more into this on my next article ([[core essays/💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons\|💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons]]), but [[initiatives, orgs & communities/design/the society library\|the society library]] is another example of a technology-proposing institution facilitating deeper levels of dialogue/[[concepts/alchemy/sensemaking\|sensemaking]] with their [[argument maps\|argument maps]].
+there are many people working on [[mediation\|mediation]], [[reconciliation\|reconciliation]], [[_004_c4ss1us/c4ss.host\|facilitation]] as a whole, and we might even say that [[governance\|governance]] is fundamentally about that. i'll dive more into this on my next article ([[core essays/💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons\|💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons]]), but [[initiatives, orgs & communities/design/the society library\|the society library]] is another example of a technology-proposing institution facilitating deeper levels of dialogue/[[concepts/alchemy/sensemaking\|sensemaking]] with their [[argument maps\|argument maps]].
 
 [...]
 
@@ -63,7 +63,7 @@ let's take the [[AQAL map\|AQAL map]] - an [[responses/alchemy/integral theory\|
 
 -> why integral is so powerful: it provides as close to an agnostic stance as possible (or at least that i've seen) to integrate perspectives and practices. it provides a way of indexing, interpreting and categorizing spiritual (and more - psychological, sociological, scientific) experiences.
 
-if we break down some of the core [[_003_L1F3/core concepts/self-transformation\|self-transformation]] processes, there are: [[concepts/alchemy/consciousness development\|consciousness development]] itself ([[states\|states]] & [[stages\|stages]]), [[psychological development\|psychological development]], [[topics/player/learning\|learning]], [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/concepts & frameworks/lines of intelligence\|lines of intelligence]], [[trauma\|trauma]], [[intimacy development\|intimacy development]], [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/sub-interests & practices master list/shadow work\|shadow work]], [[parts work\|parts work]], [[flow states\|flow states]], [[concepts/alchemy/non-ordinary states of consciousness\|non-ordinary states of consciousness]], etc...
+if we break down some of the core [[_003_L1F3/core concepts/self-transformation\|self-transformation]] processes, there are: [[concepts/alchemy/consciousness development\|consciousness development]] itself ([[states\|states]] & [[stages\|stages]]), [[psychological development\|psychological development]], [[topics/player/learning\|learning]], [[lines of intelligence\|lines of intelligence]], [[trauma\|trauma]], [[intimacy development\|intimacy development]], [[shadow work\|shadow work]], [[parts work\|parts work]], [[flow states\|flow states]], [[concepts/alchemy/non-ordinary states of consciousness\|non-ordinary states of consciousness]], etc...
 
 i favor a modular approach. you don't need to agree with the complete worldview of a certain approach, practice or tradition, but you can practice/experiment with it and develop more depth over time. the point is to gradually explore, learn and incorporate what makes sense for you into your personal systems.
 
@@ -74,7 +74,7 @@ gamers are usually familiar with this idea since they're often tweaking their ga
 [...]
 ##### your [[_004_L1F3/l1f3 operating system\|life operating system]]
 
-in nerd terms: [[concepts/alchemy/epistemology\|epistemology]], [[topics/alchemy/metaphysics\|metaphysics]], [[concepts/alchemy/ontology\|ontology]], [[ethics\|ethics]]/[[concepts/alchemy/axiology\|axiology]] & [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/general skills master list/aesthetics\|aesthetics]].
+in nerd terms: [[concepts/alchemy/epistemology\|epistemology]], [[topics/alchemy/metaphysics\|metaphysics]], [[concepts/alchemy/ontology\|ontology]], [[ethics\|ethics]]/[[concepts/alchemy/axiology\|axiology]] & [[aesthetics\|aesthetics]].
 
 the set of [[beliefs\|beliefs]], [[concepts/alchemy/values\|values]], [[conditionings\|conditionings]] with which you operate in life.
 

@@ -73,6 +73,6 @@ their glossary definition:
 
 > For more on the sheer scale and complexity of the planetary computational stack that is encircling the Earth, see [[Benjamin Bratton\|Benjamin Bratton]]’s 2015, _The Stack: On Software and Sovereignty_.
 
-##### ref on [[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/concepts & frameworks/concepts & frameworks/information warfare\|non-kinetic (information) warfare]]:
+##### ref on [[information warfare\|non-kinetic (information) warfare]]:
 
 > For an informative overview of these issues see the work of Samuel Wooly and Philip Howard, at the Oxford Internet Institute, including their 2019 book, _Computational Propaganda: Political Parties, Politicians and Political Manipulation on Social Media_. See also Peter Singer and Emerson Brooking’s 2019 book, _Like War: The Weaponization of Social Media_.

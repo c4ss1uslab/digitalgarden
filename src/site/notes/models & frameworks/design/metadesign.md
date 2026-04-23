@@ -15,7 +15,7 @@ the way i've been referring to metadesign most often is by pointing to a few fun
 
 i.e. an inquiry into what [[meta-systems\|meta-systems]] really exist and how they work.
 
-the practice of metadesign, in this sense - attempts to create space for experiencing life fully ([[tbprocessed/notion/c4ss1us’ notion/50.000ft - core/knowledge management system/archive/databases/general skills master list/aesthetics\|aesthetics]]) - with no pre-conceived labels ([[taxonomy\|taxonomy]]), to help us more deeply relate to, understand and define what exists ([[concepts/alchemy/ontology\|ontology]]) - at the same time that it constantly asks and creates: how can we design supportive conditions for emergence? ([[terms/cosmology\|cosmology]], in a sense, and metadesign - in practice)
+the practice of metadesign, in this sense - attempts to create space for experiencing life fully ([[aesthetics\|aesthetics]]) - with no pre-conceived labels ([[taxonomy\|taxonomy]]), to help us more deeply relate to, understand and define what exists ([[concepts/alchemy/ontology\|ontology]]) - at the same time that it constantly asks and creates: how can we design supportive conditions for emergence? ([[terms/cosmology\|cosmology]], in a sense, and metadesign - in practice)
 
 it's a set of systems/attitudes for relating to and understanding the contexts in which we live/we're embedded in, and which movements make the most sense from our position.
 
@@ -59,7 +59,7 @@ what kinds of "decision environments" are out there and what kinds can a metades
 metadesign's 4 core generic [[cognitive tools\|cognitive tools]]:
 ![](https://i.imgur.com/6tECG1T.png)
 
-[[tbprocessed/notion/projects overview/🧿 macro overview/l1f3 game/metagame\|metagame]] framework & application in politics:
+[[metagame\|metagame]] framework & application in politics:
 
 ![](https://i.imgur.com/ncY4tui.png)
 
