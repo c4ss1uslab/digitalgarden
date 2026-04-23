@@ -1,12 +1,12 @@
 ---
-{"aliases":[".dgarden","🌲 digital garden","idea garden","🌱 idea garden","c4ss1us.dgarden","🌲 c4ss1us.dgarden","digital garden","home","knowledge garden"],"dg-publish":true,"dg-home":true,"created":"2021-12-11T16:51:50.661-03:00","updated":"2026-03-14T13:37:43.875-03:00","readinesslevel":null,"permalink":"/000-digital-garden/c4ss1us-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"aliases":[".dgarden","🌲 digital garden","idea garden","🌱 idea garden","c4ss1us.dgarden","🌲 c4ss1us.dgarden","digital garden","home","knowledge garden"],"dg-publish":true,"dg-home":true,"created":"2021-12-11T16:51:50.661-03:00","updated":"2026-04-23T12:08:50.803-03:00","readinesslevel":null,"permalink":"/000-digital-garden/c4ss1us-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 ## hello! welcome to my digital garden! 🌷
 
-for the past 6 years, as an attempt to make sense of my own existential crisis and the process of 'adulting' in a profoundly sick world, i've been researching the complexity of the times we're living - asking *how to live in more ethical and regenerative ways*, as well as *how to create radically wiser, weller societies*, rooted in the sacredness of life.
+for the past 7 years, as an attempt to deal with my own existential crisis and the process of making sense of a profoundly sick world, i've been researching the complexity of the times we're living, asking *how to live in more ethical and regenerative ways*, as well as *how to create societies that are in service of the flourishing of all life*.
 
-my research further refined into a wider mapping of our *landscape of ideas, narratives, philosophies, practices, challenges and opportunities* in moving in this direction, as well as a more specific inquiry into: *how do we create better systems for self-actualization and social coordination?*
+my research led me to further refined into a wider mapping of our *landscape of ideas, narratives, philosophies, practices, challenges and opportunities* in moving in this direction, as well as a more specific inquiry into: *how do we create better systems for self-actualization and social coordination?*
 
 this place is my public compilation (a research garden) aiming to share my findings and continue to openly deepen this inquiry into:
 
