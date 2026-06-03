@@ -1,5 +1,5 @@
 ---
-{"aliases":["👨🏻‍🔬 c4ss1us.lab",".lab","lab","builder"],"created":"2024-05-22T17:07:42.901-03:00","updated":"2025-06-24T17:14:43.783-03:00","tags":["c4ss1us","lab","🌿","database"],"notestage":["🌿"],"dg-publish":true,"relevancescore":98,"readinesslevel":"50%","permalink":"/004-c4ss1us/c4ss1us-lab/","dgPassFrontmatter":true}
+{"aliases":["👨🏻‍🔬 c4ss1us.lab",".lab","lab","builder"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-06-03T15:07:23.438-03:00","tags":["c4ss1us","lab","🌿","database"],"notestage":["🌿"],"dg-publish":true,"relevancescore":98,"readinesslevel":"50%","permalink":"/004-c4ss1us/c4ss1us-lab/","dgPassFrontmatter":true}
 ---
 
 **see also:** [c4ss1us.lab mmm.page (visual overview)](https://c4ss1us.mmm.page/lab)
@@ -19,28 +19,40 @@ i would have absolutely loved to have [[references/player/anime;manga;webtoon/sw
 
 so i started questioning: *how could real life be such an adventure?*
 
-and soon later - if life is the biggest game/project we have, **why the hell are the tools we have for playing/managing it so much worse than we have for managing fictional characters?** 
+and soon later - if life is the biggest game/project we have, **why on earth are the tools we have for playing/managing it so much worse than we have for managing fictional characters?** 
+
+just take a look at a few interfaces/dashboards from a couple of games, for example:
+
+![](https://i.imgur.com/4fjDDyE.jpeg)
+elite dangerous (2015)
+
+![](https://i.imgur.com/ynYqYPQ.png)
+stellaris (2016)
+
+why don't we have [[_005_MOCs/025 🔷 long game/035 🔭 missions MOC\|missions]], [[_005_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|challenges]], [[tbprocessed/base notes/principles;frameworks - general/skill development\|skill trees]], [[concepts/player/attributes\|attributes]], [[responses/lab/mapping\|maps]], [[concepts/player/guilds\|guilds]] and many other useful systems/tools to collaboratively navigate/play life itself?
 
 and oh dear, that question has been sending me down into ever-deeper rabbit holes since then.
 
-with the rate of technological progress, i didn't know what the world could look like in 5-10 years, much less who i'd become after that time. instead of trying to figure out exactly where i wanted to be and plan for an unknowable (though [[topics/design/futures studies\|foreseeable]]) future, i simply chose to try to become good at [[topics/player/learning\|learning]] itself - so i could be adaptable and learn anything whenever it was necessary.
+but coming back to the story, my 15-year-old self, facing the rate of technological progress, had no idea about what the world could look like in 5-10 years, much less who he'd become after that time.
 
-there's tons to learn on the subject of [[topics/player/meta-learning\|meta-learning]], that go beyond just *[[learning how to learn\|learning how to learn]].* it involved questioning *[[what to learn\|what to learn]]*. figuring out *[[inquiries & heuristics/what technology is actually worth building\|what is actually worth doing]]*. it gets very philosophical very quickly.
+instead of trying to figure out exactly where i wanted to be and plan for an unknowable (though possibly [[topics/design/futures studies\|foreseeable]]) future, i simply chose to try to become good at [[topics/player/learning\|learning]] itself - so i could be adaptable and learn anything whenever it was necessary.
+
+there's tons to learn on the subject of [[topics/player/meta-learning\|meta-learning]], that go beyond just *[[learning how to learn\|learning how to learn]].* it involves questioning *[[what to learn\|what to learn]]*, figuring out *[[inquiries & heuristics/what technology is actually worth building\|what is actually worth doing]]*. it gets very philosophical very quickly.
 
 plus, during my brief period learning the basics of programming, i saw that even though there's some creativity to it, there's also a lot of rule-following in programming. a 15-year-old opinion is not much to base any conclusions on, but it seemed really obvious that we'd soon figure out a way to automate much of this process (turns out we did - hello [[topics/lab/large language models\|LLMs]] 🙃).
 
-basically, i didn't want to be a [[_004_c4ss1us/c4ss1us.lab\|builder]] for the sake of building things. i wanted to be an [[_004_c4ss1us/c4ss1us.design\|architect]] first.
+basically, i didn't want to be a [[_004_c4ss1us/c4ss1us.lab\|builder]] for the sake of building things. i wanted to be an [[_004_c4ss1us/c4ss1us.design\|architect]] first - and figure out what was truly worth building.
 
- i'm not saying this was the "right" approach, nor that it hasn't actually hindered me in many ways, but this path helped me to see much more clearly what i deem as the role of [[topics/design/technology\|technology]] and [[digital systems\|digital systems]] today - see: [[inquiries & heuristics/what technology is actually worth building\|what technology is actually worth building]]⁹⁸.
+i felt that this path blocked my creativity in many ways - often not having the technical skills to build my visions - but it made me question much more deeply, and sit with my desires, dreams and visions for years at a time, forcing me to answer much more clearly what i see as the role of [[topics/design/technology\|technology]] and [[digital systems\|digital systems]] today - see: [[inquiries & heuristics/what technology is actually worth building\|what technology is actually worth building]]⁹⁸.
 
 ---
 #### major challenges to be addressed / fields to work on:
 
-once familiarized with the basics of [[_002_core notes/design philosophies\|design philosophies]]⁹⁸ such as [[models & frameworks/design/humane design\|humane]]/[[human-centered design\|human-centered design]] and then moving into [[more-than-human-centered design\|more-than-human-centered]], [[concepts/design/circular design\|circular]], [[responses/regen/regenerative design\|regenerative]] and [[responses/design/values-based design\|values-based design]], the orienting question i've been holding in this field is:
+after i was familiarized with the basics of different [[_002_core notes/design philosophies\|design philosophies]]⁹⁸ such as [[models & frameworks/design/humane design\|humane]]/[[human-centered design\|human-centered design]] and then started moving into [[more-than-human-centered design\|more-than-human-centered]], [[concepts/design/circular design\|circular]], [[responses/regen/regenerative design\|regenerative]] and [[responses/design/values-based design\|values-based design]], the orienting question i've held in this field has been:
 
 - how can technology support [[topics/design/regeneration\|regenerative]] forms of [[_003_L1F3/core concepts/civilization design\|civilization design]], [[_003_L1F3/core concepts/life design\|life design]] and [[_003_L1F3/core concepts/self-transformation\|self-transformation]]?
 
-my current findings/[[_002_core notes/theories of change\|theory of change]]⁹⁸ has been that we need to develop: 
+my current findings/early-stage [[_002_core notes/theories of change\|theory of change]]⁹⁸ has been that we need to develop:
 
 ##### 1) a coherent [[concepts/design/sensemaking layer\|sensemaking layer]] on and off the web
 
@@ -70,15 +82,15 @@ and local-personal scale: [[concepts/design/resources\|resources]], [[responses/
 
 [[responses/lab/permacomputing\|permacomputing]], [[low-tech\|low-tech]] approaches, [[_005_MOCs/050 🟩 mid game/070 🔩 prototypes MOC\|prototypes]], etc.
 
-1) what is the role of computers and computation in a [[regenerative society\|regenerative society]]?
+3) what is the role of computers and computation in a [[regenerative society\|regenerative society]]?
 
 a humane [[concepts/lab/dynamic medium\|dynamic medium]]: one that integrates [[responses/lab/dynamic visualizations\|dynamic visualizations]], [[world models\|world models]], [[knowledge representations\|knowledge representations]], [[topics/lab/spatial computing\|spatial computing]], [[concepts/design/extended cognition\|extended cognition]] and more to effectively... (see below)
 
-2) how might we empower ourselves and our communities to navigate the [[concepts/design/metacrisis\|metacrisis]] and create [[omni-win systems\|omni-win systems]]?
+4) how might we empower ourselves and our communities to navigate the [[concepts/design/metacrisis\|metacrisis]] and create [[omni-win systems\|omni-win systems]]?
  
 augmenting our [[models & frameworks/design/OODA loop\|OODA loop]]: 1) [[tools for self-transformation\|tools for self-transformation]] -> 2) tools for [[concepts/alchemy/sensemaking\|sensemaking]] / [[concepts/design/tools for extended cognition\|tools for extended cognition]] -> 3) tools for [[_003_L1F3/core concepts/self-management\|self-management]] -> 4) [[topics/design/collaboration tools\|tools for collaboration]] -> 5) [[topics/design/coordination systems\|coordination systems]] / [[self-actualization\|self-actualization]] systems.
 
-3) how might we get started with designing, building and applying these systems/tools, despite the [[economic\|economic]] and [[concepts/design/infrastructure\|infrastructure]] challenges today?
+5) how might we get started with designing, building and applying these systems/tools, despite the [[economic\|economic]] and [[concepts/design/infrastructure\|infrastructure]] challenges today?
 
 extremely intentional [[experiments/made by me/design/minimum viable intentional personal systems design;setup\|personal systems design]]: developing across 4 dimensions of a wholistic collaborative [[_003_L1F3/l1f3 management system\|life management system]]. leveraging [[topics/lab/algorithms\|algorithms]], [[responses/design/trust networks\|trust networks]], [[low-tech\|low-tech]] and other forms of existing [[collaborative infrastructure\|collaborative infrastructure]].
 
