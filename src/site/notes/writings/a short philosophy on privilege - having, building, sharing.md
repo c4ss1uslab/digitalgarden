@@ -1,5 +1,5 @@
 ---
-{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-06-08T14:49:44.978-03:00","tags":["🌱","host","philosophy","collaboration","coordination","socialsensemaking","socialchange","systemschange","concept"],"relevancescore":97,"dg-publish":true,"readinesslevel":"35%","permalink":"/writings/a-short-philosophy-on-privilege-having-building-sharing/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-06-08T15:52:42.098-03:00","tags":["🌱","host","philosophy","collaboration","coordination","socialsensemaking","socialchange","systemschange","concept"],"relevancescore":97,"dg-publish":true,"readinesslevel":"35%","permalink":"/writings/a-short-philosophy-on-privilege-having-building-sharing/","dgPassFrontmatter":true}
 ---
 
 \+ charity/donation & larger ethics of lifestyle choices
@@ -10,6 +10,12 @@ i think the conversation on privilege must go way beyond where it often currentl
 
 by recognizing the breadth and depth of our privileges - and where we're actually not privileged at all - we can honor it and create spaces that give us more conditions to grow, meet our needs and help us deal with whatever we're going through, considering more accurately where we are when it comes to our developmental journeys.
 
+> *ps:* it is very important to note too that privilege can mean various different things. the way i'm using here isn't simply as "something that made your life easier". although yes, privilege often does that, it can also mean the transcendental aspect of privilege - we have an enormous, overwhelming privilege to be born in a universe filled with such abundance of [[love\|love]], [[life\|life]], [[concepts/design/value\|value]]. even though it might often not feel like it.
+>
+> privilege can also be something that *gets in the way*. even though it might help you (or your ego) in some way - provide security, comfort, etc - it can also be precisely what holds you back from living certain experiences that would lead to profound growth/transformation.
+> 
+> the perspectives i pose here therefore aim to consider all of these - when privilege leads to fulfillment, realization, when it doesn't, and how we might become better 1) perceivers, and then 2) stewards of the profound *privilege, honor, dignity* - and sacred duty - of precisely *having our own unique set of privileges*.
+
 let me share a few examples.
 
 ---
@@ -18,7 +24,7 @@ let me share a few examples.
 #### **level 1:** acknowledging basic conditions about growing up in the context you did.
 
 like everyone else - each with their own distinct set - growing up, i had several privileges:
-##### privileges somewhat under my parents' control:
+##### 1) privileges somewhat under my parents' control:
 
 - having my own room during 95% of my childhood/teenage years
 - pretty liberal parents (not dogmatic, mostly allowed me to explore my interests)
@@ -29,17 +35,17 @@ like everyone else - each with their own distinct set - growing up, i had severa
 - a lot of time alone
 - education at reasonably good, standard modern private/middle class schools
 - a lot of arguments and emotional trauma at home
-##### privileges coming from my family:
+##### 2) privileges coming from my family:
 
 - a grandparent's home with a huge mango tree
 - 4 alive, caring grandparents
 
-##### privileges coming from my socioeconomic class:
+##### 3) privileges coming from my socioeconomic class:
 
-x
-##### privileges coming from my race:
+xxx
+##### 4) privileges coming from my race:
 
-y
+yyy
 
 interestingly, we could notice many of these things are double-edged swords.
 
@@ -48,7 +54,7 @@ i listed them under privileges because i feel they were *mostly* positive for my
 like much of the youth today, i feel that these deep attunements and attachments with/to technological systems were very ingrained in me and a source of many challenges with mental/emotional health in the process of "adulting".
 
 yet i'm also glad i had access to it. i'd particularly add one element (the first in the list below) that also helped shift this experience (of growing up with electronics) towards the "positive" side.
-##### privileges outside of my parents' control, about the time i grew up in:
+##### 5) privileges outside of my parents' control, about the time i grew up in:
 
 - access to an early internet which wasn't so monetized/predatory
 - access to cheap one-time use energy in the forms of billions of years of sun stored into hydrocarbons [z% oil & gas]
@@ -60,7 +66,7 @@ yet i'm also glad i had access to it. i'd particularly add one element (the firs
 outside of the in-person social settings which were often awkward for me, i had the opportunity to engage, learn and transform by interacting with strangers behind the screens.
 
 i remember exactly a handful moments that were transformative for me in this digital context, that had no possibility of being acted out in my physical, local, known surroundings.
-##### privileges coming from the digital/electronic culture i grew up in:
+##### 6) privileges coming from the digital/electronic culture i grew up in:
 
 - guilds that allowed me to lead, follow, explode, be banned, be held/supported and mature
 - RPGs that increased my love for writing, world-building, mythology, character development and strategy
