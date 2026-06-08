@@ -1,5 +1,5 @@
 ---
-{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-06-08T14:42:01.284-03:00","tags":["🌱","host","philosophy","collaboration","coordination","socialsensemaking","socialchange","systemschange","concept"],"relevancescore":97,"dg-publish":true,"readinesslevel":"35%","permalink":"/writings/a-short-philosophy-on-privilege-having-building-sharing/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-06-08T14:49:44.978-03:00","tags":["🌱","host","philosophy","collaboration","coordination","socialsensemaking","socialchange","systemschange","concept"],"relevancescore":97,"dg-publish":true,"readinesslevel":"35%","permalink":"/writings/a-short-philosophy-on-privilege-having-building-sharing/","dgPassFrontmatter":true}
 ---
 
 \+ charity/donation & larger ethics of lifestyle choices
@@ -158,7 +158,12 @@ we need to align our actions with greater [[concepts/design/value\|value]] - not
   
 if it's obvious, easy, low (or no) cost, why not do it?
 
-that's what a facilitator often does. tries to bring in tools/frameworks/resources to enable others. and this should be more of our base mode of existing/relating.
+the challenge here is [[trust\|trust]]. who should we share our resources with? how are we sure they won't be "misused"? and what does "misusing" mean, for different people and contexts?
+(this implies a deep discussion about [[power\|power]], [[control\|control]], [[rights\|rights]], [[concepts/design/value\|value]] & [[concepts/alchemy/values\|values]], which we'll hold for some other time)
+
+the sharing/extension of privilege is what a facilitator often does. they try to scaffold the group and support the individuals by bringing in tools/frameworks/resources to enable others. these are often times temporary interventions that don't go as deep as needed in terms of [[models & frameworks/design/holistic cultural materialism\|eco, social, super and infrastructure]] to affect long-term, transformational change, but it works as specific interventions here and there.
+
+if we're to build a [[cooperative economy\|cooperative economy]], [[gift economy\|gift economy]] or anything of the like, this mode of being, which entails constantly trying to enable, support other people with what's low-cost for us, should be way more of our base mode of existing/relating (and designed into our systems).
 
 a few examples:
 
