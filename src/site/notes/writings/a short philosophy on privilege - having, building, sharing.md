@@ -1,6 +1,8 @@
 ---
-{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-06-01T18:37:34.507-03:00","tags":["🌱","host","philosophy","collaboration","coordination","socialsensemaking","socialchange","systemschange","concept"],"relevancescore":97,"dg-publish":true,"readinesslevel":"35%","permalink":"/writings/a-short-philosophy-on-privilege-having-building-sharing/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-06-08T14:23:42.364-03:00","tags":["🌱","host","philosophy","collaboration","coordination","socialsensemaking","socialchange","systemschange","concept"],"relevancescore":97,"dg-publish":true,"readinesslevel":"35%","permalink":"/writings/a-short-philosophy-on-privilege-having-building-sharing/","dgPassFrontmatter":true}
 ---
+
+\+ charity/donation & larger ethics of lifestyle choices
 
 ### perspectives on privilege
 
@@ -11,22 +13,26 @@ by recognizing the breadth and depth of our privileges - and where we're actuall
 let me share a few examples.
 
 ---
-
 ### a(n) (emerging) useful taxonomy of privilege (in the works)
 
-**level 1:** acknowledging basic conditions about growing up in the context you did
+#### **level 1:** acknowledging basic conditions about growing up in the context you did.
 
 like everyone else - each with their own distinct set - growing up, i had several privileges:
+##### privileges under my parents' control:
 
-under my parents' control:
+- having my own room during 95% of my childhood/teenage years
 - pretty liberal parents (not dogmatic, mostly allowed me to explore my interests)
 - access to electronics from an early age
+- incentive and support to practice sports/develop myself athletically
 - allowed time/freedom to self-educate through screens and games
 - lots of HQs available at home
 - a lot of time alone
-- support to develop myself athletically
 - education at reasonably good, standard modern private/middle class schools
 - a lot of arguments and emotional trauma at home
+##### privileges coming from my family:
+
+- a grandparent's home with a huge mango tree
+- 4 alive, caring grandparents
 
 interestingly, we could notice many of these things are double-edged swords.
 
@@ -35,38 +41,47 @@ i listed them under privileges because i feel they were *mostly* positive for my
 like much of the youth today, i feel that these deep attunements and attachments with/to technological systems were very ingrained in me and a source of very challenging of my mental health in the process of "adulting".
 
 yet i'm also glad by it and i'd add an element to the list that helps shift it towards the "positive" side:
+##### privileges outside of my parents' control, about the time i grew up in:
 
-(outside of their control, about the time i grew up in:)
-- the internet wasn't so monetized/predatory
+- access to an early internet which wasn't so monetized/predatory
+- access to cheap one-time use energy in the forms of billions of years of sun stored into hydrocarbons [z% oil & gas]
+- access to cheap rebuildable energy in the form of [x% hydro, y% solar]
+	— hundreds of years of western science for extraction
+- access to cheap materials built on globalized supply chains externalizing harm to congo, etc
+- access to X number of non-native foods
 
 outside of the in-person social settings which were often awkward for me, i had the opportunity to engage, learn and transform by interacting with strangers behind the screens.
 
 i remember exactly a handful moments that were transformative for me in this digital context, that had no possibility of being acted out in my physical, local, known surroundings.
+##### privileges coming from the digital/electronic culture i grew up in:
 
 - guilds that allowed me to lead, follow, explode, be banned, be held/supported and mature
-- RPGs that increased my love for writing, world-building, character development and strategy
+- RPGs that increased my love for writing, world-building, mythology, character development and strategy
 - (...)
 
 at the same time, reflecting back, i see a lot of things i felt lacked/hindered my development as a person:
+##### non-privileges: challenges that hindered my development
 
+- parents with very low emotional maturity
 - very little intellectual stimulation outside of getting good grades
 - not much emotional connection with anyone
-- lots of small talk and conversations reflecting unprocessed attachment
+- lots of small talk and conversations reflecting unprocessed attachment - at home and in culture at large
+- almost no access to native foods, lands and ways of being [decrease in X% of native foods, rise of Y% in prices of native foods]
 
 we could go on and on. the goal here isn't to become a martyr, but to evidence the learnings, the pains that come and ask to be integrated as part of our entangled lives, as part of our set of beautiful and challenging gifts we receive from intergenerational transmission.
 
-level 2: **true wealth building/privileges sharing/reparation/reciprocity game:**
+#### level 2: **[[true wealth\|true wealth]] building/privileges sharing/reparation/reciprocity game**
 
 an initial, simplified taxonomy of privilege - i.e. the conditions that allow us to grow/unfold.
 
-ecostructure:
+[[ecostructure\|ecostructure]]:
 - physical health
 - emotional health
 - mental health
 	- capacities training
 - spiritual health
 
-social structure:
+[[social structure\|social structure]]:
 - supportive family
 - support network
 - free time
@@ -75,14 +90,14 @@ social structure:
 - access to diverse worldviews
 - access to diverse experiences
 
-superstructure:
+[[concepts/design/superstructure\|superstructure]]:
 - access to wise people
 - access to knowledge/information
 - access to developmental opportunities
 - access to inspiration
 - access to wisdom lineage(s)
 
-infrastructure:
+[[concepts/design/infrastructure\|infrastructure]]:
 - available money/resources
 	- inheritance
 	- land
@@ -94,7 +109,7 @@ infrastructure:
 - access to nature
 - access to technology
 
-(ps: this is a partial, initial list based on my own explorations. in the next stage, this will integrate other elements from: [[bucky fuller\|bucky fuller]]'s [[projects & tools/projects/player/world game\|world game]], [[initiatives, orgs & communities/regen/gesturing towards decolonial futures\|GTDF]]'s [[house of modernity\|house of modernity]]'s floors - north of north/south of south & other social cartographies, [[COLLAPSE game\|COLLAPSE game]])
+(ps: this is a partial, initial list based on my own explorations. in the next stage, this will integrate other elements from: [[initiatives, orgs & communities/design/buckminster fuller institute\|buckminster fuller]]'s [[projects & tools/projects/player/world game\|world game]] + [[world's resources inventory\|world's resources inventory]], [[initiatives, orgs & communities/regen/gesturing towards decolonial futures\|GTDF]]'s [[house of modernity\|house of modernity]]'s floors - north of north/south of south & other social cartographies, [[COLLAPSE game\|COLLAPSE game]])
 
 my point is: if we can actually get a sense of how much of these is available to each person in their own world,
 
@@ -154,9 +169,9 @@ reconciliation, restoration, resilience, regeneration, re-enchantment
 ---
 more thoughts on it:
 
-sharing privilege -> mapping privileges, clarifying shareability (anti-rivalrous, no cost to break/extend glass ceilings)
+sharing privilege -> mapping privileges, clarifying shareability (anti-rivalrous, no cost to break/extend glass ceilings -> what it takes to break ppl, de-addict them, etc)
 
-hanzi's wellbeing/state framework vs high/low-intensity struggle + hedonic engineering protocol
+hanzi's well-being/state framework vs high/low-intensity struggle + hedonic engineering protocols...
 
 ---
 see more:
