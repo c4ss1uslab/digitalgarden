@@ -52,12 +52,12 @@ i felt that taking this path and never diving deep into computer science itself 
 ---
 #### major challenges to be addressed / fields to work on:
 
-after i was familiarized with the basics of different [[_002_core notes/design philosophies\|design philosophies]]⁹⁸ such as [[models & frameworks/design/humane design\|humane]]/[[human-centered design\|human-centered design]] and then started moving into [[concepts/design/more-than-human-centered design\|more-than-human-centered]], [[concepts/design/circular design\|circular]], [[responses/regen/regenerative design\|regenerative]] and [[responses/design/values-based design\|values-based design]], the orienting questions i've held in this field have been:
+after i was familiarized with the basics of different [[_002_core/design philosophies\|design philosophies]]⁹⁸ such as [[models & frameworks/design/humane design\|humane]]/[[human-centered design\|human-centered design]] and then started moving into [[concepts/design/more-than-human-centered design\|more-than-human-centered]], [[concepts/design/circular design\|circular]], [[responses/regen/regenerative design\|regenerative]] and [[responses/design/values-based design\|values-based design]], the orienting questions i've held in this field have been:
 
 - how can technology support [[topics/design/regeneration\|regenerative]] forms of [[_003_L1F3/key concepts & ideas/civilization design\|civilization design]], [[_003_L1F3/key concepts & ideas/life design\|life design]] and [[_003_L1F3/key concepts & ideas/self-transformation\|self-transformation]]?
 - and what's holding back from the existing [[_005_MOCs/050 🟩 mid game/080 ⚒ tools MOC\|tools]] and [[_005_MOCs/050 🟩 mid game/055 💼 ventures & initiatives MOC\|initiatives]] in these spaces to go more mainstream/actualize their potentials?
 
-my current findings/early-stage [[_002_core notes/theories of change\|theory of change]]⁹⁸ has been that we need to make drastic improvements/developments on 3 fronts:
+my current findings/early-stage [[_002_core/theories of change\|theory of change]]⁹⁸ has been that we need to make drastic improvements/developments on 3 fronts:
 
 ##### 1) a coherent [[concepts/design/sensemaking layer\|sensemaking layer]] on and off the web
 

@@ -4,4 +4,4 @@
 
 author of [design ecossistêmico](https://bambualeditora.com.br/p/design-ecossistemico/).
 
-see: [[ecosystemic design\|ecosystemic design]]
+see: [[responses/regen/ecosystemic design\|ecosystemic design]]

@@ -46,7 +46,7 @@ the l1f3 player toolkit is a first version prototype for: a minimal yet complete
 (...)
 ##### life design tools:
 
-[[_002_core notes/12 favorite questions\|12 favorite questions]]⁹⁶
+[[_002_core/12 favorite questions\|12 favorite questions]]⁹⁶
 [[models & frameworks/player/fourgames\|fourgames]]⁹⁴
 [[models & frameworks/alchemy/wheel of life\|wheel of life]]⁹³
 etc.

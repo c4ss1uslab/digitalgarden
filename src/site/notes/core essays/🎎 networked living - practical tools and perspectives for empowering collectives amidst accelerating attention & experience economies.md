@@ -54,7 +54,7 @@ we've seen a rise in "community managers" - whether in corporate contexts or in 
 
 despite my appreciation for many of them, for the longest time, i've been carrying a frustration regarding many approaches, and - sorry friends (it's not about you!) - with many facilitators too.
 
-i feel that most of these approaches have a lack of **[[depth\|depth]]** and **[[_002_core notes/design principles\|continuity]]**, which is directly tied to a non-recognition of [[_009_notes & highlights from books, videos, articles/listening society\|hierarchies]] and [[models & frameworks/player/fourgames\|systemic influences]] on people's lives.
+i feel that most of these approaches have a lack of **[[depth\|depth]]** and **[[_002_core/design principles\|continuity]]**, which is directly tied to a non-recognition of [[_009_notes & highlights from books, videos, articles/listening society\|hierarchies]] and [[models & frameworks/player/fourgames\|systemic influences]] on people's lives.
 
 while potentially powerful on their impact on transforming [[concepts/alchemy/consciousness development\|individual consciousness]], their effectiveness on any form of societal transformation seems - in my analysis - thwarted by this.
 

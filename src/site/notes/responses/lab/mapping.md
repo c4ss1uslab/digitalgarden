@@ -210,7 +210,7 @@ to understand the usefulness of these initiatives, look at how they're mapping:
 - [[topics/alchemy/belief systems\|belief systems]],
 - [[worldviews\|worldviews]],
 - [[information ecologies\|information ecologies]],
-- [[_002_core notes/theories of change\|theories of change]], and
+- [[_002_core/theories of change\|theories of change]], and
 - [[systemic challenges\|systemic challenges]] in coordinating these perspectives for navigating the [*extremely complex historical moment*](https://drive.google.com/file/d/1gmASP2v696diI9XVrWRkHOxUtCoxDkbN/view?pli=1) we're living.
 
 ---

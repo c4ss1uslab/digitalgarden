@@ -2,7 +2,7 @@
 {"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-22T18:30:02.183-03:00","tags":["highlights","book","metacrisis","decolonization","regen","regenerativeeconomics","climate","🌱","host","alchemy"],"dg-publish":true,"notestage":["🌱"],"permalink":"/009-notes-and-highlights-from-books-videos-articles/post-capitalist-philanthropy/","dgPassFrontmatter":true}
 ---
 
-associated with: [[people/references/host/alnoor ladha\|alnoor ladha]], [[transition resource circle\|transition resource circle]], [[initiatives, orgs & communities/regen/ma earth\|ma earth]]
+associated with: [[people/references/host/alnoor ladha\|alnoor ladha]], [[initiatives, orgs & communities/host/transition resource circle\|transition resource circle]], [[initiatives, orgs & communities/regen/ma earth\|ma earth]]
 ##### context
 
 [[inequality\|inequality]]:

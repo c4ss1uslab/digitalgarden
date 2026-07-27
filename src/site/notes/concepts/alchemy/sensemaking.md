@@ -88,7 +88,7 @@ main refs: [[projects & tools/projects/lab/envisioning tech radar\|envisioning r
 			- [[technological innovations\|technological innovations]]
 	- [[state of the web\|state of the web]] ([[information ecologies\|information ecologies]])
 	- [[state of one's life\|state of one's life]] ([[concepts/design/knowledge ecologies\|knowledge ecologies]])
-	- [[_002_core notes/theories of change\|theories of change]] ([[concepts/alchemy/axiology\|axiology]])
+	- [[_002_core/theories of change\|theories of change]] ([[concepts/alchemy/axiology\|axiology]])
 
 ---
 #### other references:
