@@ -1,5 +1,5 @@
 ---
-{"aliases":[".dgarden","🌲 digital garden","idea garden","🌱 idea garden","c4ss1us.dgarden","🌲 c4ss1us.dgarden","digital garden","home","knowledge garden"],"dg-publish":true,"dg-home":true,"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-27T16:40:53.983-03:00","readinesslevel":null,"permalink":"/000-digital-garden/c4ss1us-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"aliases":[".dgarden","🌲 digital garden","idea garden","🌱 idea garden","c4ss1us.dgarden","🌲 c4ss1us.dgarden","digital garden","home","knowledge garden"],"dg-publish":true,"dg-home":true,"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-27T17:14:01.108-03:00","readinesslevel":null,"permalink":"/000-digital-garden/c4ss1us-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 ## hello! welcome to my digital garden! 💐
@@ -19,11 +19,11 @@ this place is my initial effort to share my findings publicly and continue to op
 for the past 7 years, as an attempt to answer my own pressing existential questions and make sense of the reality we live in, i've been researching themes such as:
 - *how can we live in more ethical and regenerative ways?*
 - *is it even possible to create societies that are in service of the flourishing of all life?*
-- *what are the main challenges and constraints to that?*
+- *what are the main challenges and constraints to moving in this direction?*
 
-my research led me into an open-ended mapping of our *landscape of ideas, narratives, philosophies, practices, challenges and opportunities* in moving in this direction, which you'll find in scattered notes around here, as well as a more specific inquiry and experiments into: *how to create better systems for social coordination and self-actualization.*
+my research led me into an open-ended mapping of our *landscape of ideas, narratives, philosophies, practices, approaches, challenges and opportunities* in this space, as well as a more specific inquiry and experiments into *how to create better systems for social coordination and self-actualization.*
 
-you'll find 2 main types of content here:
+therefore, you'll find 2 main types of content here:
 
 1) an ongoing [[_001_research/00 - viable pathways book-zine\|mapping of responses]] & diagnosis on the [[concepts/design/metacrisis\|metacrisis]] - i.e. a lot of different analyses on the [[root causes\|root causes]] of the uniquely challenging historical moment we're living, in which we're facing a set of completely *novel, escalating* [[topics/design/systemic risks\|systemic risks]] and extremely consequential [interconnected crises](https://www.undp.org/blog/doing-development-polycrisis) that continue to unravel as a result of our [[concepts/design/moloch\|persistent coordination failures]] as [[responses/design/second renaissance\|the first truly global society in the history of human civilizations]]\*. many perspectives also point that this is a moment that carries the seeds of an opportunity for profound renewal, [[systemic transformation\|systemic transformation]] and a [[concepts/alchemy/humanity's phase shift\|phase shift]] into radically wiser, weller societies - something akin to a civilization-scale rite of passage.
 
@@ -43,7 +43,7 @@ you'll also find loose notes - exploring different [[_001_research/07 - core ide
 
 \**ps: this website is not currently optimized for mobile view, if something looks weird on your phone, select "use desktop version" on your browser settings to better visualize some elements, such as images and tables.*
 
-##### a visual overview
+##### an overview of the themes covered here
 
 ![research overview.excalidraw.png](/img/user/_007_illustrations%20&%20sketches/research%20overview.excalidraw.png)
 
