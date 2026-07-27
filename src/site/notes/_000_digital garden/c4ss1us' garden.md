@@ -1,5 +1,5 @@
 ---
-{"aliases":[".dgarden","🌲 digital garden","idea garden","🌱 idea garden","c4ss1us.dgarden","🌲 c4ss1us.dgarden","digital garden","home","knowledge garden"],"dg-publish":true,"dg-home":true,"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-27T17:14:01.108-03:00","readinesslevel":null,"permalink":"/000-digital-garden/c4ss1us-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"aliases":[".dgarden","🌲 digital garden","idea garden","🌱 idea garden","c4ss1us.dgarden","🌲 c4ss1us.dgarden","digital garden","home","knowledge garden"],"dg-publish":true,"dg-home":true,"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-27T18:30:37.423-03:00","readinesslevel":null,"permalink":"/000-digital-garden/c4ss1us-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 ## hello! welcome to my digital garden! 💐
@@ -16,6 +16,14 @@ this place is my initial effort to share my findings publicly and continue to op
 
 #### a bit more context
 
+> [!tip]- "wtf is a digital garden?" or, more on the design/philosophy of this space:
+> 
+> "a digital garden is something inbetween a personal blog and a wiki. it's a collection of evolving notes, essays, and ideas that aren't strictly organised by their publication date. they're inherently exploratory – posts are linked through contextual associations (bi-directional links). they aren't refined or complete - posts can be published as half-finished thoughts that will grow and evolve over time. they're less rigid, less performative, and less perfect than the personal "blogs" we're used to encountering on the web." - [[people/references/lab/maggie appleton\|maggie appleton]] on [digital gardening tools and resources](https://github.com/MaggieAppleton/digital-gardeners).
+> 
+> the digital garden [metaphor](https://maggieappleton.com/metaphors-web) can go a really long way. understanding your knowledge as a web of relationships can make us question, manage and design our [[information ecologies\|information ecologies]] in more conscious ways. i'm compiling my perspectives on knowledge design/management/sharing on the page: [[_000_digital garden/about - my approach to knowledge development\|about - my approach to knowledge development]], but it's still early.
+> 
+> for now, if you want to know more, you can check out [[people/references/lab/maggie appleton\|maggie]]'s amazing content on [a brief history & ethos of the digital garden](https://maggieappleton.com/garden-history), [[people/references/design/daniel schmachtenberger\|daniel schmachtenberger]]'s [the war on sensemaking](https://www.youtube.com/watch?v=7LqaotiGWjQ&list=PLj8H7uBaUwDvd18QrEPugPMD5Z6Y0W-vB&index=5) and my thoughts on the fields of [[responses/lab/tools for thought\|tools for thought]] and [[topics/lab/personal knowledge management\|personal knowledge management]] as a whole.
+
 for the past 7 years, as an attempt to answer my own pressing existential questions and make sense of the reality we live in, i've been researching themes such as:
 - *how can we live in more ethical and regenerative ways?*
 - *is it even possible to create societies that are in service of the flourishing of all life?*
@@ -29,8 +37,6 @@ therefore, you'll find 2 main types of content here:
 
 2) my own reflections, [[_005_MOCs/050 🟩 mid game/060 🗡 projects MOC\|projects]] and [[topics/design/curation\|curation]] in this space: integrating different [[_005_MOCs/050 🟩 mid game/090 🧪 experiments MOC\|experiments]], [[_005_MOCs/050 🟩 mid game/070 🔩 prototypes MOC\|prototypes]] and [[_005_MOCs/050 🟩 mid game/080 🖌 designs MOC\|designs]] into a [[_002_core/theories of change\|theory of change]] for what i call the [[_003_L1F3/L1F3 support systems\|L1F3 support systems]] - exploring how emerging initiatives and perspectives from the fields of [[concepts/alchemy/integral development\|consciousness development]], [[_002_core/design philosophies\|design]], [[_004_c4ss1us/c4ss1us.lab\|technology]], [[_004_c4ss1us/c4ss.art\|art]], [[responses/regen/regenerative design\|regeneration]] and [[concepts/player/game\|games]] can inform and guide us towards systemic responses to the metacrisis.
 
-all of this is presented in and can be applied at 4 different levels: #personal, #local, #regional, #global.
-
 you'll also find loose notes - exploring different [[_001_research/07 - core ideas\|ideas]], [[_005_MOCs/050 🟩 mid game/resources MOC\|resources]], [[pathways\|pathways]] to create [[concepts/alchemy/thriving\|thriving]] lives and societies, oriented towards supporting the [[concepts/alchemy/integral development\|integral development]] of humans and the [[concepts/alchemy/flourishing\|flourishing]] of the whole, evolving from our dominant ones, so often based on [win-lose dynamics](https://civilizationemerging.com/new-economics-series-3/) and [extractivist paradigms](https://civilizationemerging.com/new-economics-series-4/) that are destroying the planetary systems we depend upon, promoting profound [[diagnosis/intimacy crisis\|psycho-spiritual alienation]] and leading us towards impeding [[diagnosis/systemic collapse\|systemic collapse]].
 
 > [!info]- disclaimer:
@@ -43,7 +49,7 @@ you'll also find loose notes - exploring different [[_001_research/07 - core ide
 
 \**ps: this website is not currently optimized for mobile view, if something looks weird on your phone, select "use desktop version" on your browser settings to better visualize some elements, such as images and tables.*
 
-##### an overview of the themes covered here
+##### an overview of the garden
 
 ![research overview.excalidraw.png](/img/user/_007_illustrations%20&%20sketches/research%20overview.excalidraw.png)
 
@@ -66,38 +72,36 @@ navigate at whatever level makes sense for you. we'll cover (from bottom to top)
 
 just click anywhere that draws your attention and follow your curiosity. if you want a bit more directed navigation, here are a few more options:
 
-> [!info]- for first-time visitors:
-> 
-> this place is already unconventional since it's a digital garden full of hyperlinks. i will further go on below and provide you with a few different possibilities for exploring this content, including a set of specific *tags* and opinionated [[patterns/pattern collections/knowledge design patterns\|knowledge design patterns]], that can help you better navigate this complex information at different layers of depth.
-> 
-> this might be a little too much information to take in at first glance, but it should improve your experience over time. no need to check it all right now. as you navigate more, you can come back to these different exploration paths, and i believe you'll start seeing their usefulness. :)
+**a)** a curated set of [[_000_digital garden/cornerstone pages\|cornerstone pages]] which dive deep into the key themes and findings of my research, compiled in this garden.
 
-> [!tip]- "wtf is a digital garden?" or, more on the design/philosophy of this space:
-> 
-> "a digital garden is something inbetween a personal blog and a wiki. it's a collection of evolving notes, essays, and ideas that aren't strictly organised by their publication date. they're inherently exploratory – posts are linked through contextual associations (bi-directional links). they aren't refined or complete - posts can be published as half-finished thoughts that will grow and evolve over time. they're less rigid, less performative, and less perfect than the personal "blogs" we're used to encountering on the web." - [[people/references/lab/maggie appleton\|maggie appleton]] on [digital gardening tools and resources](https://github.com/MaggieAppleton/digital-gardeners).
-> 
-> the digital garden [metaphor](https://maggieappleton.com/metaphors-web) can go a really long way. understanding your knowledge as a web of relationships can make us question, manage and design our [[information ecologies\|information ecologies]] in more conscious ways. i'm compiling my perspectives on knowledge design/management/sharing on the page: [[_000_digital garden/about - my approach to knowledge development\|about - my approach to knowledge development]], but it's still early.
-> 
-> for now, if you want to know more, you can check out [[people/references/lab/maggie appleton\|maggie]]'s amazing content on [a brief history & ethos of the digital garden](https://maggieappleton.com/garden-history), [[people/references/design/daniel schmachtenberger\|daniel schmachtenberger]]'s [the war on sensemaking](https://www.youtube.com/watch?v=7LqaotiGWjQ&list=PLj8H7uBaUwDvd18QrEPugPMD5Z6Y0W-vB&index=5) and my thoughts on the fields of [[responses/lab/tools for thought\|tools for thought]] and [[topics/lab/personal knowledge management\|personal knowledge management]] as a whole.
+**b)** ⛓ *a very large relevance-based index of notes*, which gives you a sense of most of the topics covered here (below).
 
-there are 3 major ways to navigate this space:
+**c)** 🕸 *[[_000_digital garden/tags & pattern-based navigation\|a loose, experimental, self-directed navigation based on tags & patterns]]* (early stage!)
 
-**a)** ⛓ *a relevance-based index of notes* (below)
-
-**b)** 🕸 *[[_000_digital garden/tags & pattern-based navigation\|a loose, experimental, self-directed navigation based on tags & patterns]]* (early stage!)
-
-**c)** 🗺 *[[_001_research/00 - viable pathways book-zine\|a structured, organized, narrative way, in which i share the foundational concepts, references, tools and discoveries of my research/learning/work]]* (still very early stage!)
+**d)** 🗺 *[[_001_research/00 - viable pathways book-zine\|a structured, organized, narrative way, in which i share the foundational concepts, references, tools and discoveries of my research/learning/work]]* (still very early stage!)
 
 go ahead and choose your path!
 
+> [!info]- additional information
+> 
+> ##### how do I make my own garden?
+> 
+> i edit this using obsidian, a note-taking software that i use for my [second brain](https://maggieappleton.com/basb). you can start using the app by downloading it for free at [obsidian.md](https://obsidian.md). there are many tutorials and possible advanced setups, but for starters, i recommend nick milo's ["obsidian for beginners" youtube series](https://www.youtube.com/playlist?list=PL3NaIVgSlAVLHty1-NuvPa9V0b0UwbzBd) and his [LYT obsidian toolkit](https://notes.linkingyourthinking.com/_Start+Here).
+> 
+> to host my notes, i use the [obsidian digital garden plugin](https://dg-docs.ole.dev/) . it requires some technical setup, but it's quite easy to do even if you're a non-technical person. but you can also pay for obsidian publish for a simpler setup.
+> 
+> ##### how can i be in the loop for new content/updates on these projects?
+> 
+> sign up for my [newsletter](https://c4ss1us.substack.com/) or [follow me on socials](https://bio.site/c4ss1us). also, if you want to be even more 'in the know', one possibility is to join a whatsapp group i created, in which i only occasionally share updates and exchange with a small group of friends. i'm leaving it open for new co-conspirators as well right now, as a way to approximate our relationship if you really feel the resonance. ❤ ask me about it on [telegram](https://t.me/c4ss1us) or email.
+
 ---
-#### a) ⛓ *a relevance-based index of notes*
+#### ⛓ *a relevance-based index of notes*
 
 below is an index with almost all of my published notes ranked by (my own biased) "[[patterns/active patterns/knowledge design/relevance score\|relevance score]]" (90+), which should give you a good overview of both what this place is all about and some of my main references. :)
 
 so far most of my well-tended notes are on the topics/archetypes of ([[topics/design/systems\|systems]]) [[_004_c4ss1us/c4ss1us.design\|design]] and [[_004_c4ss1us/c4ss1us.lab\|technology]] (below as: lab), so please note that the index below is missing a ton of stuff from [[concepts/alchemy/integral development\|consciousness]] (below as: alchemy), [[_004_c4ss1us/c4ss.art\|art]], [[responses/regen/regenerative design\|regen]] and [[_003_L1F3/l1f3 game\|player]], that are less developed.
 
-also, what's relevant for me may not be relevant for you. this gives a very big picture/overarching view of everything that i consider 90+, so you can find synergies across our interests, references and fields of study/practice.
+also, what's relevant for me may not be relevant for you. this gives a very big picture/overarching view of everything that i consider 90+ relevance, so you can find synergies across our interests, references and fields of study/practice.
 
 | file                                                                                                                                                    | relevancescore | type                                                 | notestage            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ---------------------------------------------------- | -------------------- |
@@ -304,16 +308,3 @@ also, what's relevant for me may not be relevant for you. this gives a very big 
 { .block-language-dataview}
 
 for more notes (90-, yet possibly relevant), see the full: [[patterns/active patterns/knowledge design/relevance score\|relevance score]] page.
-
----
-#### additional information
-
-##### how do I make my own garden?
-
-i edit this using obsidian, a note-taking software that i use for my [second brain](https://maggieappleton.com/basb). you can start using the app by downloading it for free at [obsidian.md](https://obsidian.md). there are many tutorials and possible advanced setups, but for starters, i recommend nick milo's ["obsidian for beginners" youtube series](https://www.youtube.com/playlist?list=PL3NaIVgSlAVLHty1-NuvPa9V0b0UwbzBd) and his [LYT obsidian toolkit](https://notes.linkingyourthinking.com/_Start+Here).
-
-to host my notes, i use the [obsidian digital garden plugin](https://dg-docs.ole.dev/) . it requires some technical setup, but it's quite easy to do even if you're a non-technical person. but you can also pay for obsidian publish for a simpler setup.
-
-##### how can i be in the loop for new content/updates on these projects?
-
-sign up for my [newsletter](https://c4ss1us.substack.com/). also, if you want to be even more 'in the know', one possibility is to join a whatsapp group i created, in which i only occasionally share updates and exchange with a small group of friends. i'm leaving it open for new co-conspirators as well right now, as a way to approximate our relationship if you really feel the resonance. ❤ ask me about it on [telegram](https://t.me/c4ss1us).
