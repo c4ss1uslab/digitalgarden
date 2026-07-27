@@ -1,8 +1,8 @@
 ---
-{"aliases":[".dgarden","🌲 digital garden","idea garden","🌱 idea garden","c4ss1us.dgarden","🌲 c4ss1us.dgarden","digital garden","home","knowledge garden"],"dg-publish":true,"dg-home":true,"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-27T16:30:37.487-03:00","readinesslevel":null,"permalink":"/000-digital-garden/c4ss1us-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"aliases":[".dgarden","🌲 digital garden","idea garden","🌱 idea garden","c4ss1us.dgarden","🌲 c4ss1us.dgarden","digital garden","home","knowledge garden"],"dg-publish":true,"dg-home":true,"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-27T16:34:42.823-03:00","readinesslevel":null,"permalink":"/000-digital-garden/c4ss1us-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
-## hello! welcome to my digital garden! 🌷
+## hello! welcome to my digital garden! 💐
 
 this place is my initial effort to share my findings publicly and continue to openly deepen this inquiry into:
 
@@ -10,7 +10,7 @@ this place is my initial effort to share my findings publicly and continue to op
 
 > [!tip]-  prefer a visual map?
 > 
-> the contents of this garden are also available to be explored as an experimental interactive gigamap. click the image below to see it.
+> the contents of this garden are also available to be explored as an [experimental interactive gigamap](https://c4ss1usgardenatlas.ai.studio/). click the image below to see it.
 > 
 > [![](https://i.imgur.com/lsn31Ae.png)](https://c4ss1usgardenatlas.ai.studio/)
 
