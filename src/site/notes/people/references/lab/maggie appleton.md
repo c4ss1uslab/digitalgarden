@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-01-07T17:17:13-03:00","last tended to":"2024-10-18T14:01:05-03:00","relevancescore":93,"tags":["top3","person","knowledgemanagement","interfacedesign","research","userexperience","lab","knowledgedesign","illustration","🌱"],"dg-publish":true,"aliases":["maggie"],"notestage":["🌱"],"created":"2024-01-07T17:17:13.689-03:00","updated":"2025-06-12T14:32:20.055-03:00","permalink":"/people/references/lab/maggie-appleton/","dgPassFrontmatter":true}
+{"created in":"2024-01-07T17:17:13-03:00","last tended to":"2024-10-18T14:01:05-03:00","relevancescore":93,"tags":["top3","person","knowledgemanagement","interfacedesign","research","userexperience","lab","knowledgedesign","illustration","🌱"],"dg-publish":true,"aliases":["maggie"],"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-06-12T14:32:20.055-03:00","permalink":"/people/references/lab/maggie-appleton/","dgPassFrontmatter":true}
 ---
 
 https://maggieappleton.com/

@@ -1,5 +1,5 @@
 ---
-{"created":"2025-05-19T12:12:57.625-03:00","updated":"2025-05-19T13:16:23.983-03:00","notestage":["🌱"],"tags":["learning","metadesign","design"],"dg-publish":true,"permalink":"/topics/player/meta-learning/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-05-19T13:16:23.983-03:00","notestage":["🌱"],"tags":["learning","metadesign","design"],"dg-publish":true,"permalink":"/topics/player/meta-learning/","dgPassFrontmatter":true}
 ---
 
  [[EOTC\|EOTC]]: [[aesthetics\|aesthetics]], [[concepts/alchemy/ontology\|ontology]], [[taxonomy\|taxonomy]], [[terms/cosmology\|cosmology]] - [[people/references/design/caio vassão\|caio vassão]]'s approach described in:

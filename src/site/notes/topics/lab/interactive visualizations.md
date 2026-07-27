@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-03-24T17:24:06-03:00","last tended to":"2024-09-24T16:26:28-03:00","tags":["topic","lab","🌱"],"relevancescore":94,"dg-publish":true,"notestage":["🌱"],"created":"2022-03-24T17:24:06.386-03:00","updated":"2026-03-25T20:08:27.148-03:00","permalink":"/topics/lab/interactive-visualizations/","dgPassFrontmatter":true}
+{"created in":"2022-03-24T17:24:06-03:00","last tended to":"2024-09-24T16:26:28-03:00","tags":["topic","lab","🌱"],"relevancescore":94,"dg-publish":true,"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-03-25T20:08:27.148-03:00","permalink":"/topics/lab/interactive-visualizations/","dgPassFrontmatter":true}
 ---
 
 ##### learning:

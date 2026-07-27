@@ -1,5 +1,5 @@
 ---
-{"created":"2025-02-27T14:24:46.488-03:00","updated":"2025-03-02T14:07:56.740-03:00","tags":["artist","music","braziliannerdcore","🌿","geek"],"notestage":["🌿"],"dg-publish":true,"permalink":"/references/music/artists/anirap/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-03-02T14:07:56.740-03:00","tags":["artist","music","braziliannerdcore","🌿","geek"],"notestage":["🌿"],"dg-publish":true,"permalink":"/references/music/artists/anirap/","dgPassFrontmatter":true}
 ---
 
 #### listening stats

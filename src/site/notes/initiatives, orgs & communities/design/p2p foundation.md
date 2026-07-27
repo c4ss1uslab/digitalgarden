@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-08-19T03:48:44-03:00","last tended to":"2024-08-28T14:47:51-03:00","tags":["organization","p2p","curation","open-source","metacrisis","design","🌱","database"],"created":"2024-08-19T03:48:44.253-03:00","updated":"2025-01-21T14:39:49.883-03:00","notestage":["🌱"],"dg-publish":true,"relevancescore":94,"permalink":"/initiatives-orgs-and-communities/design/p2p-foundation/","dgPassFrontmatter":true}
+{"created in":"2024-08-19T03:48:44-03:00","last tended to":"2024-08-28T14:47:51-03:00","tags":["organization","p2p","curation","open-source","metacrisis","design","🌱","database"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-01-21T14:39:49.883-03:00","notestage":["🌱"],"dg-publish":true,"relevancescore":94,"permalink":"/initiatives-orgs-and-communities/design/p2p-foundation/","dgPassFrontmatter":true}
 ---
 
 https://wiki.p2pfoundation.net/Main_Page

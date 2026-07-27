@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-07-26T08:22:01-03:00","last tended to":"2024-10-13T01:36:04-03:00","tags":["artist","music","geek","🌿","braziliannerdcore"],"dg-publish":true,"notestage":["🌿"],"created":"2024-07-26T08:22:01.867-03:00","updated":"2025-03-06T16:57:39.643-03:00","permalink":"/references/music/artists/m4rkim/","dgPassFrontmatter":true}
+{"created in":"2024-07-26T08:22:01-03:00","last tended to":"2024-10-13T01:36:04-03:00","tags":["artist","music","geek","🌿","braziliannerdcore"],"dg-publish":true,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-03-06T16:57:39.643-03:00","permalink":"/references/music/artists/m4rkim/","dgPassFrontmatter":true}
 ---
 
 #### listening stats

@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-02-15T15:09:27-03:00","last tended to":"2024-10-11T18:43:20-03:00","tags":["prototype","onhold","🌿"],"dg-publish":true,"aliases":["XS device","minimum viable XS device","extended self device"],"notestage":["🌿"],"created":"2024-02-15T15:09:27.156-03:00","updated":"2025-06-10T18:18:25.304-03:00","permalink":"/prototypes-and-designs/made-by-me/on-hold/minimum-viable-extended-self-device/","dgPassFrontmatter":true}
+{"created in":"2024-02-15T15:09:27-03:00","last tended to":"2024-10-11T18:43:20-03:00","tags":["prototype","onhold","🌿","lab","player"],"dg-publish":true,"aliases":["XS device","minimum viable XS device","extended self device"],"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-11T23:17:08.009-03:00","permalink":"/prototypes-and-designs/made-by-me/on-hold/minimum-viable-extended-self-device/","dgPassFrontmatter":true}
 ---
 
 [[type\|type]]: [[life management/life areas (internal)/physical\|physical]] / [[digital\|digital]] [[objects\|objects]]

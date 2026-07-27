@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-10-05T17:11:54-03:00","last tended to":"2024-10-05T17:13:36-03:00","tags":["organization","alchemy","technology","design","community","metacrisis","education","🌱"],"created":"2024-10-05T17:11:54.728-03:00","updated":"2025-03-07T15:25:17.837-03:00","relevancescore":93,"dg-publish":true,"notestage":["🌱"],"permalink":"/initiatives-orgs-and-communities/design/school-of-wise-innovation/","dgPassFrontmatter":true}
+{"created in":"2024-10-05T17:11:54-03:00","last tended to":"2024-10-05T17:13:36-03:00","tags":["organization","alchemy","technology","design","community","metacrisis","education","🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-03-07T15:25:17.837-03:00","relevancescore":93,"dg-publish":true,"notestage":["🌱"],"permalink":"/initiatives-orgs-and-communities/design/school-of-wise-innovation/","dgPassFrontmatter":true}
 ---
 
 https://wiseinnovation.school/

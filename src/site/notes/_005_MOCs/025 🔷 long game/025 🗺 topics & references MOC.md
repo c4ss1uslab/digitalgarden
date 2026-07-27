@@ -1,5 +1,5 @@
 ---
-{"aliases":["topics","fields","fields of knowledge"],"created in":"2021-12-11T16:52:03-03:00","last tended to":"2024-10-24T21:59:41-03:00","dg-publish":true,"tags":["🌿","selfmanagement","knowledgemanagement"],"notestage":["🌿"],"created":"2021-12-11T16:52:03.339-03:00","updated":"2026-03-28T11:50:52.005-03:00","permalink":"/005-mo-cs/025-long-game/025-topics-and-references-moc/","dgPassFrontmatter":true}
+{"aliases":["topics","fields","fields of knowledge"],"created in":"2021-12-11T16:52:03-03:00","last tended to":"2024-10-24T21:59:41-03:00","dg-publish":true,"tags":["🌿","selfmanagement","knowledgemanagement"],"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-03-28T11:50:52.005-03:00","permalink":"/005-mo-cs/025-long-game/025-topics-and-references-moc/","dgPassFrontmatter":true}
 ---
 
 on the contents below, the emojis mean different things. here's their caption:
@@ -38,9 +38,9 @@ level of depth:
 - 🌲 [[topics/player/self-directed learning\|self-directed learning]]
 > 🔥 [[initiatives, orgs & communities/player/MoL\|MoL]] / [[unilivre\|unilivre]] (in portuguese)
 > 🔥 [[reaprendiz\|reaprendiz]] (in portuguese)
-- 🌲 [[_003_L1F3/core concepts/life design\|life design]] / [[tbprocessed/base notes/topics/life gamification\|life gamification]]
+- 🌲 [[_003_L1F3/key concepts & ideas/life design\|life design]] / [[tbprocessed/base notes/topics/life gamification\|life gamification]]
 > [[_006_toolkit/000 ⛓ l1f3 player toolkit\|🧰 l1f3 player toolkit]]
-- 🌲 [[_003_L1F3/core concepts/self-management\|self-management]]
+- 🌲 [[_003_L1F3/key concepts & ideas/self-management\|self-management]]
 > 🧰 [[_003_L1F3/l1f3 management ontology\|l1f3 management ontology]]
 > 🔥 [life manager (ísis' approach)](https://www.youtube.com/watch?v=Nxo8hX97ojk) (portuguese)
 - 🌿 [[topics/alchemy/wisdom traditions\|wisdom traditions]] & [[ecologies of practices\|ecologies of practices]]
@@ -49,7 +49,7 @@ level of depth:
 > 🌱 [[responses/alchemy/hedonic engineering\|hedonic engineering]]
 - [[concepts/alchemy/healing\|healing]]/[[concepts/alchemy/cleaning up\|cleaning up]] practices
 > 🌿 [[entheogens\|entheogens]]
-- 🌿 [[_003_L1F3/core concepts/self-transformation\|self-transformation]]
+- 🌿 [[_003_L1F3/key concepts & ideas/self-transformation\|self-transformation]]
 > 🧪 [[experiments/made by me/alchemy/archetypal matrix\|archetypal matrix]]
 > 🧪 [[experiments/made by me/design/minimum viable intentional personal systems design;setup\|minimum viable intentional personal systems design;setup]]
 
@@ -61,13 +61,13 @@ level of depth:
 > 🔥 [[initiatives, orgs & communities/design/sublime (ex-startupy)\|sublime (ex-startupy)]]
 - 🌲 [[concepts/alchemy/sensemaking\|sensemaking]]
 > 📂 [favorite sensemaking videos playlist](https://www.youtube.com/playlist?list=PLj8H7uBaUwDvd18QrEPugPMD5Z6Y0W-vB)
-- 🌿 [[_003_L1F3/core concepts/life intelligence\|life intelligence]]
+- 🌿 [[_003_L1F3/key concepts & ideas/life intelligence\|life intelligence]]
 > 🧪 [[3rd brain workflow\|3rd brain workflow]]
-- 🌿 [[_003_L1F3/core concepts/life streaming\|life streaming]]
+- 🌿 [[_003_L1F3/key concepts & ideas/life streaming\|life streaming]]
 > 🧰 [[_003_L1F3/l1f3 streaming system\|life streaming system]]
 ##### 🌐 [[topics/design/systems\|systems]]
 🌲 [[meta-systems\|meta-systems]] for [[self-unfoldment\|self-unfoldment]], [[topics/player/play\|play]], [[concepts/alchemy/sensemaking\|sensemaking]], [[topics/design/coordination systems\|coordination]] & [[terms/collaboration\|collaboration]]
-🌲 [[_003_L1F3/core concepts/civilization design\|civilization design]]
+🌲 [[_003_L1F3/key concepts & ideas/civilization design\|civilization design]]
 	[[concepts/design/network state\|network states]]
 	[[smart cities\|smart cities]] / [[smart villages\|smart villages]]
 	[[ecovillages\|ecovillages]] / [[intentional communities\|intentional communities]]
@@ -85,7 +85,7 @@ level of depth:
 
 #### 👨🏻‍🔬 [[_004_c4ss1us/c4ss1us.lab\|.lab]]
 ##### 💻 [[topics/design/technology\|technology]]
-🌲 [[topics/lab/personal knowledge management\|PKM]] / [[_003_L1F3/core concepts/life management\|life management]]
+🌲 [[topics/lab/personal knowledge management\|PKM]] / [[_003_L1F3/key concepts & ideas/life management\|life management]]
 	🔩 [[_003_L1F3/l1f3 management ontology\|life management methodology (LMM)]]
 	🔩 [[obsidian life management system\|obsidian life management system]]
 	🔩 [[projects & tools/made by me/notion life management system\|notion life management system]]
@@ -317,7 +317,7 @@ practice
 		- [[agriculture\|agriculture]]
 			- [[tbprocessed/base notes/topics/permaculture\|permaculture]]
 		- [[water systems\|water systems]]
-	- [[materials\|materials]]
+	- [[topics/design/materials\|materials]]
 		- [[materials economy\|materials economy]] / [[construction\|construction]]
 		- [[transportation\|transportation]]
 	- [[topics/player/entertainment\|entertainment]]

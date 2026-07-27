@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-12-27T13:31:28-03:00","last tended to":"2024-10-30T18:19:45-03:00","tags":["concept","metamodernism","decentralizedwork","collective","intelligence","collaboration","🌱","response"],"notestage":["🌱"],"dg-publish":true,"relevancescore":94,"aliases":["metamodern guild"],"created":"2023-12-27T13:31:28.319-03:00","updated":"2025-01-24T16:45:56.647-03:00","permalink":"/responses/design/metamodern-guilds/","dgPassFrontmatter":true}
+{"created in":"2023-12-27T13:31:28-03:00","last tended to":"2024-10-30T18:19:45-03:00","tags":["concept","metamodernism","decentralizedwork","collective","intelligence","collaboration","🌱","response"],"notestage":["🌱"],"dg-publish":true,"relevancescore":94,"aliases":["metamodern guild"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-01-24T16:45:56.647-03:00","permalink":"/responses/design/metamodern-guilds/","dgPassFrontmatter":true}
 ---
 
 what i'd like to create with [[tbprocessed/base notes/ventures - proprietary/reality disruption labs\|reality disruption labs]] and the vision of what a "metamodern guild" would look like can be pretty much summed up by the [[initiatives, orgs & communities/design/nooNAO\|nooNAO]] proposition. check it out.

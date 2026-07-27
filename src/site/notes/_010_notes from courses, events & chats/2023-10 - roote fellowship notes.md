@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-10-03T16:43:48-03:00","last tended to":"2024-10-12T18:13:42-03:00","tags":["fellowship","review","self-knowledge","systemschange","🌿"],"dg-publish":true,"notestage":["🌿"],"aliases":["roote fellowship"],"created":"2023-10-03T16:43:48.690-03:00","updated":"2025-04-05T14:55:04.846-03:00","permalink":"/010-notes-from-courses-events-and-chats/2023-10-roote-fellowship-notes/","dgPassFrontmatter":true}
+{"created in":"2023-10-03T16:43:48-03:00","last tended to":"2024-10-12T18:13:42-03:00","tags":["fellowship","review","self-knowledge","systemschange","🌿"],"dg-publish":true,"notestage":["🌿"],"aliases":["roote fellowship"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-04-05T14:55:04.846-03:00","permalink":"/010-notes-from-courses-events-and-chats/2023-10-roote-fellowship-notes/","dgPassFrontmatter":true}
 ---
 
 "roote helps you clarify root-level systems to help humanity find our route. the fellowship is designed to bring ambitious frontier people together to connect and accelerate them on their path to impact on the wisdom age."
@@ -14,7 +14,7 @@ i hoped the fellowship would go deeper into subjects such as the [[concepts/desi
 
 in practice, i found it to be more oriented towards helping young people interested in [[social impact\|social impact]] and [[self-development\|self-development]] find their way in life/work. something like [[moving up\|moving up]] and [[initiatives, orgs & communities/player/praxis\|praxis]] did for me back in 2016/17. the fellowship didn't go deep into these profound [[concepts/alchemy/sensemaking\|sensemaking]] topics i hoped for and i found [[people/references/design/rhys lindmark\|rhys]]' perspectives often aligned with the [[effective accelerationism\|effective accelerationist]] meme, which disappointed me.
 
-regardless of that, rhys is super generous, supportive, high-energy and a great writer. i find his articles great reminders/clear orientation devices on [[_003_L1F3/core concepts/life design\|life design]] and [[topics/design/intentional tech\|intentional tech]]. most of the gold is available for free on [speedrunner's canon](https://www.roote.co/canon), i recommend going over it if you're in need of some guidance/principles/heuristics/order in your life.
+regardless of that, rhys is super generous, supportive, high-energy and a great writer. i find his articles great reminders/clear orientation devices on [[_003_L1F3/key concepts & ideas/life design\|life design]] and [[topics/design/intentional tech\|intentional tech]]. most of the gold is available for free on [speedrunner's canon](https://www.roote.co/canon), i recommend going over it if you're in need of some guidance/principles/heuristics/order in your life.
 
 also, feel free to explore any topics of interest in his posts, i've read a bunch and they're often great - https://www.rhyslindmark.com/all-posts/.
 

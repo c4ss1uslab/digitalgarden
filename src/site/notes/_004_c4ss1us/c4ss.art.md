@@ -1,5 +1,5 @@
 ---
-{"aliases":["👨🏻‍🎨 c4ss.art",".art","art","artist"],"created":"2023-05-31T16:51:42.380-03:00","updated":"2025-06-12T14:32:58.060-03:00","tags":["c4ss1us","art","🌱"],"notestage":["🌱"],"dg-publish":true,"relevancescore":98,"readinesslevel":"30%","permalink":"/004-c4ss1us/c4ss-art/","dgPassFrontmatter":true}
+{"aliases":["👨🏻‍🎨 c4ss.art",".art","art","artist"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-06-12T14:32:58.060-03:00","tags":["c4ss1us","art","🌱"],"notestage":["🌱"],"dg-publish":true,"relevancescore":98,"readinesslevel":"30%","permalink":"/004-c4ss1us/c4ss-art/","dgPassFrontmatter":true}
 ---
 
 **see also:** [c4ss.art mmm.page (visual overview)](https://c4ss1us.mmm.page/art)

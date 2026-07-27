@@ -1,5 +1,5 @@
 ---
-{"aliases":["🕹 l1f3 game","life game","🕹 life game","massively-multiplayer online-and-offline collaborative self-transformation & civilization-building game","L1F3.GAME","l1f3.game","🕹 L1F3.game","🕹 L1F3 game","🕹 L1F3.GAME","L1F3 game","L1F3.game"],"created in":"2022-02-05T11:41:05-03:00","last tended to":"2024-09-29T14:37:10-03:00","tags":["l1f3","project","🌿","game","seriousgame","player"],"dg-publish":true,"notestage":["🌿"],"created":"2022-02-05T11:41:05.535-03:00","updated":"2026-03-30T03:14:36.898-03:00","relevancescore":97,"readinesslevel":"20%","permalink":"/003-l1-f3/l1f3-game/","dgPassFrontmatter":true}
+{"aliases":["🕹 l1f3 game","life game","🕹 life game","massively-multiplayer online-and-offline collaborative self-transformation & civilization-building game","L1F3.GAME","l1f3.game","🕹 L1F3.game","🕹 L1F3 game","🕹 L1F3.GAME","L1F3 game","L1F3.game"],"created in":"2022-02-05T11:41:05-03:00","last tended to":"2024-09-29T14:37:10-03:00","tags":["l1f3","project","🌿","game","seriousgame","player"],"dg-publish":true,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-06-11T18:29:16.309-03:00","relevancescore":97,"readinesslevel":"20%","permalink":"/003-l1-f3/l1f3-game/","dgPassFrontmatter":true}
 ---
 
 the l1f3 game is an ongoing endeavor to:
@@ -332,7 +332,7 @@ they're also more interested in furthering their own empirical research rather t
 ++++ still have to write/clarify my differences in approach from:
 - [[initiatives, orgs & communities/alchemy/integral life\|integral life]] / [[references/alchemy/integral OS\|integral OS]]
 - [[flow genome project\|flow genome project]]
-- [[foresight institute\|foresight institute]]
+- [[initiatives, orgs & communities/design/foresight institute\|foresight institute]]
 - [[initiatives, orgs & communities/design/the consilience project\|the consilience project]]
 - [[initiatives, orgs & communities/design/civilization research institute\|civilization research institute]]
 - [[GAOA\|GAOA]]
@@ -348,7 +348,7 @@ a FOSS, user-owned system with a plug-and-play marketplace of games, frameworks,
 ---
 ### introduction & background
 
-this project has a long history, starting with [[my first spiritual realization\|my first spiritual realization]] in 2015 and catapulted by my work with [[people/friends/ísis schuarts\|ísis schuarts]] at [[high stakes academy\|high stakes academy]] back in 2018 and many following experiences/prototypes.
+this project has a long history, starting with [[my first spiritual realization\|my first spiritual realization]] in 2015 and catapulted by my work with [[people/friends/bruno schuarts\|bruno schuarts]] at [[high stakes academy\|high stakes academy]] back in 2018 and many following experiences/prototypes.
 
 but it can be boiled down to two questions:
 ##### what games are you already playing in life?

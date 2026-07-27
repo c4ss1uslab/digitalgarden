@@ -1,5 +1,5 @@
 ---
-{"created":"2025-03-04T14:12:37.391-03:00","updated":"2025-03-04T14:16:02.852-03:00","tags":["design","regen","lab","database","knowledgecommons","🌱"],"dg-publish":true,"permalink":"/initiatives-orgs-and-communities/regen/regenerative-technology-project/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-03-04T14:16:02.852-03:00","tags":["design","regen","lab","database","knowledgecommons","🌱"],"dg-publish":true,"permalink":"/initiatives-orgs-and-communities/regen/regenerative-technology-project/","dgPassFrontmatter":true}
 ---
 
 https://www.regentech.co/

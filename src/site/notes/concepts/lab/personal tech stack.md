@@ -1,8 +1,8 @@
 ---
-{"created in":"2024-04-01T18:55:58-03:00","last tended to":"2024-10-06T02:50:36-03:00","aliases":["personal tech stacks"],"tags":["concept","design","lab","alchemy","art","player","🌿","tier1","response"],"notestage":["🌿"],"dg-publish":true,"relevancescore":94,"created":"2024-04-01T18:55:58.519-03:00","updated":"2025-05-04T19:34:44.712-03:00","permalink":"/concepts/lab/personal-tech-stack/","dgPassFrontmatter":true}
+{"created in":"2024-04-01T18:55:58-03:00","last tended to":"2024-10-06T02:50:36-03:00","aliases":["personal tech stacks"],"tags":["concept","design","lab","alchemy","art","player","🌿","tier1","response"],"notestage":["🌿"],"dg-publish":true,"relevancescore":94,"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-05-04T19:34:44.712-03:00","permalink":"/concepts/lab/personal-tech-stack/","dgPassFrontmatter":true}
 ---
 
-see also: [[_003_L1F3/core concepts/life design\|life design]], my attempt at a [[experiments/made by me/lab/minimum viable intentional personal tech stack;setup\|minimum viable intentional personal tech stack;setup]].
+see also: [[_003_L1F3/key concepts & ideas/life design\|life design]], my attempt at a [[experiments/made by me/lab/minimum viable intentional personal tech stack;setup\|minimum viable intentional personal tech stack;setup]].
 
 ---
 #### about

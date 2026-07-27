@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-10-11T17:27:43-03:00","last tended to":"2024-10-12T14:57:39-03:00","tags":["player","metacrisis","experiment","communication","design","resource","alchemy"],"dg-publish":true,"permalink":"/experiments/made-by-others/joshua-williams-21st-century-false-gods/","dgPassFrontmatter":true,"created":"2024-10-11T17:27:43.318-03:00","updated":"2024-10-12T14:57:39.884-03:00"}
+{"created in":"2024-10-11T17:27:43-03:00","last tended to":"2024-10-12T14:57:39-03:00","tags":["player","metacrisis","experiment","communication","design","resource","alchemy"],"dg-publish":true,"permalink":"/experiments/made-by-others/joshua-williams-21st-century-false-gods/","dgPassFrontmatter":true,"created":"1969-12-31T21:00:00.000-03:00","updated":"2024-10-12T14:57:39.884-03:00"}
 ---
 
 https://sites.google.com/view/false-gods-21st-century

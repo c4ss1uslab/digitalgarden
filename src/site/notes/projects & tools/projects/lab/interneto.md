@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-12-23T15:34:15-03:00","last tended to":"2024-09-26T15:57:07-03:00","tags":["project","curation","informationmanagement","mapping","🌱"],"relevancescore":88,"notestage":["🌱"],"created":"2023-12-23T15:34:15.445-03:00","updated":"2025-01-24T16:40:32.300-03:00","dg-publish":true,"permalink":"/projects-and-tools/projects/lab/interneto/","dgPassFrontmatter":true}
+{"created in":"2023-12-23T15:34:15-03:00","last tended to":"2024-09-26T15:57:07-03:00","tags":["project","curation","informationmanagement","mapping","🌱"],"relevancescore":88,"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-01-24T16:40:32.300-03:00","dg-publish":true,"permalink":"/projects-and-tools/projects/lab/interneto/","dgPassFrontmatter":true}
 ---
 
 https://interneto.github.io/

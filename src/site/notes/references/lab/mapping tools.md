@@ -1,9 +1,9 @@
 ---
-{"created in":"2024-06-05T16:01:40-03:00","last tended to":"2024-10-22T20:07:18-03:00","tags":["mapping","🌿","lab","design","database"],"dg-publish":true,"notestage":["🌿"],"created":"2024-06-05T16:01:40.538-03:00","updated":"2026-03-25T19:44:59.375-03:00","permalink":"/references/lab/mapping-tools/","dgPassFrontmatter":true}
+{"created in":"2024-06-05T16:01:40-03:00","last tended to":"2024-10-22T20:07:18-03:00","tags":["mapping","🌿","lab","design","database"],"dg-publish":true,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-03-25T19:44:59.375-03:00","permalink":"/references/lab/mapping-tools/","dgPassFrontmatter":true}
 ---
 
 ###### tier 1:
-[[projects & tools/tools/lab/atlas (nomic)\|atlas (nomic)]] ([[initiatives, orgs & communities/lab/nomic AI\|nomic AI]]), [[projects & tools/tools/lab/growth lab app\|growth lab app]] ([[projects & tools/tools/lab/atlas of economic complexity\|atlas of economic complexity]], [[tensorflow\|tensorflow]]'s [[projects & tools/tools/lab/embedding projector\|embedding projector]], [[projects & tools/tools/lab/head start\|head start]] ([[projects & tools/tools/lab/open knowledge maps\|open knowledge maps]]), [[projects & tools/tools/lab/juggl\|juggl]] (in [[projects & tools/tools/lab/obsidian\|obsidian]]), [[projects & tools/tools/design/kumu\|kumu]], [[projects & tools/tools/lab/softspace\|softspace]] (in [[topics/lab/XR\|XR]]), [[contextdriven.ai\|contextdriven.ai]].
+[[projects & tools/tools/lab/atlas (nomic)\|atlas (nomic)]] ([[initiatives, orgs & communities/lab/nomic AI\|nomic AI]]), [[projects & tools/tools/lab/growth lab app\|growth lab app]] ([[projects & tools/tools/lab/atlas of economic complexity\|atlas of economic complexity]], [[tensorflow\|tensorflow]]'s [[projects & tools/tools/lab/embedding projector\|embedding projector]], [[projects & tools/tools/lab/head start\|head start]] ([[projects & tools/tools/lab/open knowledge maps\|open knowledge maps]]), [[projects & tools/tools/lab/juggl\|juggl]] (in [[projects & tools/tools/lab/obsidian\|obsidian]]), [[projects & tools/tools/design/kumu\|kumu]], [[projects & tools/tools/lab/softspace\|softspace]] (in [[topics/lab/XR\|XR]]), [[references/alchemy/contextdriven.ai\|contextdriven.ai]].
 
 not tested, but look promising: [sigma.js](https://www.sigmajs.org/), [[gephi\|gephi]] & [[projects & tools/tools/lab/gephi lite\|gephi lite]], [[projects & tools/tools/lab/graphext\|graphext]], [[projects & tools/tools/lab/yworks\|yworks]]...
 
@@ -16,7 +16,7 @@ enterprise:
 - [[cluster mapping\|cluster mapping]]: cohere.ai (see: https://x.com/Saboo_Shubham_/status/1601250351121944576)
 ###### tier 2:
 
-[[neo4J\|neo4J]], [[d3.js\|d3.js]], [[infranodus\|infranodus]], [[projects & tools/tools/lab/metamaps\|metamaps]] ([[projects & tools/tools/design/kumu\|kumu]]-like), [[projects & tools/tools/lab/datasette\|datasette]]
+[[neo4J\|neo4J]], [[d3.js\|d3.js]], [[projects & tools/tools/lab/infranodus\|infranodus]], [[projects & tools/tools/lab/metamaps\|metamaps]] ([[projects & tools/tools/design/kumu\|kumu]]-like), [[projects & tools/tools/lab/datasette\|datasette]]
 
 [layer](https://beta.getlayer.xyz/) - [[geographic\|geographic]]/[[demographic\|demographic]] data only.
 

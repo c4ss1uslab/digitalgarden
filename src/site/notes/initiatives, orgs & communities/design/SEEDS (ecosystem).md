@@ -1,5 +1,5 @@
 ---
-{"created in":"2021-12-11T16:51:57-03:00","last tended to":"2024-09-26T15:21:16-03:00","website":"https://joinseeds.earth/","tags":["project","top3","web3","regeneration","ReFi","post-growth","🌿","DAOs","initiative"],"aliases":["SEEDS"],"relevancescore":96,"dg-publish":true,"notestage":["🌿"],"created":"2021-12-11T16:51:57.834-03:00","updated":"2025-05-14T19:55:45.383-03:00","permalink":"/initiatives-orgs-and-communities/design/seeds-ecosystem/","dgPassFrontmatter":true}
+{"created in":"2021-12-11T16:51:57-03:00","last tended to":"2024-09-26T15:21:16-03:00","website":"https://joinseeds.earth/","tags":["project","top3","web3","regeneration","ReFi","post-growth","🌿","DAOs","initiative"],"aliases":["SEEDS"],"relevancescore":96,"dg-publish":true,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-05-14T19:55:45.383-03:00","permalink":"/initiatives-orgs-and-communities/design/seeds-ecosystem/","dgPassFrontmatter":true}
 ---
 
 #### context

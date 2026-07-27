@@ -1,5 +1,5 @@
 ---
-{"tags":["design","lab","lifedesign","selfdesign","alchemy","art","🌱","response"],"dg-publish":true,"relevancescore":94,"notestage":["🌱"],"created":"2024-06-22T14:58:07.566-03:00","updated":"2025-01-24T16:58:04.367-03:00","permalink":"/responses/design/personal-algorithms-design/","dgPassFrontmatter":true}
+{"tags":["design","lab","lifedesign","selfdesign","alchemy","art","🌱","response"],"dg-publish":true,"relevancescore":94,"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-01-24T16:58:04.367-03:00","permalink":"/responses/design/personal-algorithms-design/","dgPassFrontmatter":true}
 ---
 
 algorithms can specify the logic/[[terms/decision-making\|decision-making]] processes you use to navigate in life, within yourself and in the world at large.
@@ -10,7 +10,7 @@ dominant social media algorithms are based on your patterns of behavior **now** 
 
 #### 2 main projects:
 
-1) clarifying *a) desirable algorithms* and *b) algorithms already embedded* in your [[_003_L1F3/core concepts/self-transformation\|self-transformation]], [[_003_L1F3/core concepts/life design\|life design]] and [[concepts/lab/personal tech stack\|personal tech stack]]
+1) clarifying *a) desirable algorithms* and *b) algorithms already embedded* in your [[_003_L1F3/key concepts & ideas/self-transformation\|self-transformation]], [[_003_L1F3/key concepts & ideas/life design\|life design]] and [[concepts/lab/personal tech stack\|personal tech stack]]
 2) designing/implementing a [[responses/lab/recommender systems\|recommender systems]] for oneself
 
 #### major references:

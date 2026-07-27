@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-08-22T13:21:48-03:00","last tended to":"2024-09-16T15:03:03-03:00","tags":["video","metacrisis","resource","alchemy","design","concept"],"aliases":["phase shift","human phase shift"],"created":"2024-08-22T13:21:48.708-03:00","updated":"2025-05-19T15:27:40.621-03:00","dg-publish":true,"permalink":"/concepts/alchemy/humanity-s-phase-shift/","dgPassFrontmatter":true}
+{"created in":"2024-08-22T13:21:48-03:00","last tended to":"2024-09-16T15:03:03-03:00","tags":["video","metacrisis","resource","alchemy","design","concept"],"aliases":["phase shift","human phase shift"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-05-19T15:27:40.621-03:00","dg-publish":true,"permalink":"/concepts/alchemy/humanity-s-phase-shift/","dgPassFrontmatter":true}
 ---
 
 see [[people/references/design/daniel schmachtenberger\|daniel schmachtenberger]] at [[tbprocessed/base notes/ventures - general/rebel wisdom\|rebel wisdom]]: [Humanity's Phase Shift](https://www.youtube.com/watch?v=nQRzxEobWco).

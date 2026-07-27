@@ -1,5 +1,5 @@
 ---
-{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-06-08T15:52:42.098-03:00","tags":["🌱","host","philosophy","collaboration","coordination","socialsensemaking","socialchange","systemschange","concept"],"relevancescore":97,"dg-publish":true,"readinesslevel":"35%","permalink":"/writings/a-short-philosophy-on-privilege-having-building-sharing/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-06-08T16:14:58.646-03:00","tags":["🌱","host","philosophy","collaboration","coordination","socialsensemaking","socialchange","systemschange","concept"],"relevancescore":97,"dg-publish":true,"readinesslevel":"35%","notestage":["🌱"],"permalink":"/writings/a-short-philosophy-on-privilege-having-building-sharing/","dgPassFrontmatter":true}
 ---
 
 \+ charity/donation & larger ethics of lifestyle choices
@@ -45,7 +45,7 @@ like everyone else - each with their own distinct set - growing up, i had severa
 xxx
 ##### 4) privileges coming from my race:
 
-yyy
+y
 
 interestingly, we could notice many of these things are double-edged swords.
 
@@ -73,14 +73,14 @@ i remember exactly a handful moments that were transformative for me in this dig
 - (...)
 
 at the same time, reflecting back, i see a lot of things i felt lacked/hindered my development as a person:
-##### hindrances: elements that hindered my development
+##### hindrances to my developmental process
 
 - parents with very low emotional maturity
 - very little intellectual stimulation outside of getting good grades
 - no role models growing up
-- no connection to art
+- almost no connection to art
 - not much emotional connection with anyone
-- lots of small talk and conversations reflecting unprocessed attachment - at home and in culture at large
+- immersed in lots of small talk and conversations reflecting unprocessed attachment - at home and in culture at large
 - almost no access to native foods, lands and ways of being [decrease in X% of native foods, rise of Y% in prices of native foods]
 
 we could go on and on. the goal here isn't to become a martyr, but to evidence the learnings, the pains that come and ask to be integrated as part of our entangled lives, as part of our set of beautiful and challenging gifts we receive from intergenerational transmission.
@@ -97,7 +97,7 @@ an initial, simplified taxonomy of privilege - i.e. the conditions that allow us
 - spiritual health
 - multispecies/ecosystems health
 
-[[social structure\|social structure]]:
+[[topics/design/social structure\|social structure]]:
 
 1st-person perspective:
 - supportive family
@@ -140,7 +140,7 @@ an initial, simplified taxonomy of privilege - i.e. the conditions that allow us
 - economic system health
 - workers' health
 
-(ps: this is a partial, initial list based on my own explorations. in the next stage, this will integrate other elements from: [[initiatives, orgs & communities/design/buckminster fuller institute\|buckminster fuller]]'s [[projects & tools/projects/player/world game\|world game]] + [[world's resources inventory\|world's resources inventory]], [[initiatives, orgs & communities/regen/gesturing towards decolonial futures\|GTDF]]'s [[house of modernity\|house of modernity]]'s floors (north of north/south of south) & other social cartographies, [[COLLAPSE game\|COLLAPSE game]], etc)
+(ps: this is a partial, initial list based on my own explorations. in the next stage, this will integrate other elements from: [[initiatives, orgs & communities/design/buckminster fuller institute\|buckminster fuller]]'s [[projects & tools/projects/player/world game\|world game]] + [[projects & tools/tools/design/world's resources inventory\|world's resources inventory]], [[initiatives, orgs & communities/regen/gesturing towards decolonial futures\|GTDF]]'s [[house of modernity\|house of modernity]]'s floors (north of north/south of south) & other social cartographies, [[COLLAPSE game\|COLLAPSE game]], etc)
 
 my point is: if we can actually have a kind of inventory, and get a sense of how much of these is available to each person in their own world,
 
@@ -199,9 +199,9 @@ https://www.moralambition.org/
 bodhicitta / bodhisattva vow
 
 GTDF's:
-[[settler responsibilities\|settler responsibilities]], [[climate justice\|climate justice]] & 4Rs: regeneration, reparation, restitution, redistribution.
+[[projects & tools/tools/alchemy/settler responsibilities\|settler responsibilities]], [[climate justice\|climate justice]] & 4Rs: regeneration, reparation, restitution, redistribution.
 
-[[design science studio\|DSS]]: 
+[[initiatives, orgs & communities/art/design science studio\|DSS]]: 
 reconciliation, restoration, resilience, regeneration, re-enchantment
 
 ---

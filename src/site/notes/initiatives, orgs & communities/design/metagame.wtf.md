@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-01-07T17:22:13-03:00","last tended to":"2024-09-26T15:21:04-03:00","tags":["project","top3","DAOs","community","🌿"],"dg-publish":true,"relevancescore":96,"notestage":["🌿"],"created":"2024-01-07T17:22:13.265-03:00","updated":"2024-12-11T17:37:10.253-03:00","permalink":"/initiatives-orgs-and-communities/design/metagame-wtf/","dgPassFrontmatter":true}
+{"created in":"2024-01-07T17:22:13-03:00","last tended to":"2024-09-26T15:21:04-03:00","tags":["project","top3","DAOs","community","🌿"],"dg-publish":true,"relevancescore":96,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2024-12-11T17:37:10.253-03:00","permalink":"/initiatives-orgs-and-communities/design/metagame-wtf/","dgPassFrontmatter":true}
 ---
 
 *metagame* was a [[topics/design/web3\|web3]] community building a [massive online coordination game](https://metagame.wtf/) - oriented towards figuring out how to play life together, address the [[concepts/design/metacrisis\|metacrisis]] and [[concepts/design/moloch\|moloch]], and build new socio-economic systems more aligned with the better versions of ourselves.

@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-12-14T12:54:40-03:00","last tended to":"2024-09-24T16:19:46-03:00","dg-publish":true,"tags":["alchemy","essay","🌱"],"aliases":["🧘🏻‍♂️ a meta-system for modular self-unfoldment"],"notestage":["🌱"],"created":"2023-12-14T12:54:40.894-03:00","updated":"2026-03-28T11:50:53.297-03:00","permalink":"/core-essays/a-meta-system-for-modular-self-unfoldment-and-interoperability-across-philosophies-methodologies-and-perspectives/","dgPassFrontmatter":true}
+{"created in":"2023-12-14T12:54:40-03:00","last tended to":"2024-09-24T16:19:46-03:00","dg-publish":true,"tags":["alchemy","essay","🌱"],"aliases":["🧘🏻‍♂️ a meta-system for modular self-unfoldment"],"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-03-28T11:50:53.297-03:00","permalink":"/core-essays/a-meta-system-for-modular-self-unfoldment-and-interoperability-across-philosophies-methodologies-and-perspectives/","dgPassFrontmatter":true}
 ---
 
 sub-title: **approaches to self design, self as a system, encoded philosophy, integral spirituality and conscious life operating systems**.
@@ -10,7 +10,7 @@ collapse: open
 the contents of the writing below are currently haphazard, disjointed and all over the place. please proceed at your own risk. (*or don't.* feel free to come back later when it'll be hopefully updated and improved.)
 ```
 
-##### 1) mapping approaches to [[topics/alchemy/spirituality\|spirituality]] and [[_003_L1F3/core concepts/self-transformation\|self-transformation]]
+##### 1) mapping approaches to [[topics/alchemy/spirituality\|spirituality]] and [[_003_L1F3/key concepts & ideas/self-transformation\|self-transformation]]
 
 ```ad-hint
 title: disclaimer
@@ -24,13 +24,13 @@ there are definitely irreconcilable differences that we can focus on, but we can
 
 [[people/references/alchemy/ken wilber\|ken wilber]] has done a lot of this comparative work across traditions and modern science/academia already. and many people have been building upon it:
 
-[[jamie wheal\|jamie wheal]] on [[recapture the rapture\|recapture the rapture]], [[barbara marx hubbard\|barbara marx hubbard]] on [[tbprocessed/base notes/concepts - general/conscious evolution\|conscious evolution]], [[marc gafni\|marc gafni]] on [[unique self\|unique self]], [[people/references/alchemy/john vervaeke\|john vervaeke]] on [religion that is not a religion](https://www.youtube.com/@johnvervaeke), [psychotechnologies and distributed cognition](https://www.youtube.com/watch?v=237-jbJfleY), and the [[diagnosis/meaning crisis\|meaning crisis]] as a whole. (i love their works and recommend all of them)
+[[jamie wheal\|jamie wheal]] on [[recapture the rapture\|recapture the rapture]], [[barbara marx hubbard\|barbara marx hubbard]] on [[tbprocessed/base notes/concepts - general/conscious evolution\|conscious evolution]], [[marc gafni\|marc gafni]] on [[concepts/alchemy/unique self\|unique self]], [[people/references/alchemy/john vervaeke\|john vervaeke]] on [religion that is not a religion](https://www.youtube.com/@johnvervaeke), [psychotechnologies and distributed cognition](https://www.youtube.com/watch?v=237-jbJfleY), and the [[diagnosis/meaning crisis\|meaning crisis]] as a whole. (i love their works and recommend all of them)
 
 i have been slowly joining forces with my good friend [[people/friends/marcelo peterlini\|marcelo peterlini]] as part of the [[mettatropical collective\|mettatropical collective]], who has also been doing his own research and perspectives on the [[mettacrisis\|mettacrisis]], as well as [[people/references/alchemy/daniel thorson\|daniel thorson]] with the [[initiatives, orgs & communities/alchemy/church of the intimate web\|church of the intimate web]], which also features a synthetization of a lot of powerful perspectives.
 
-plus, there are a lot more curators/practitioners such as [[eric brown\|eric brown]] [hedonic engineering: building a psycho-spiritual growth stack](https://seriousplay.substack.com/p/hedonic-engineering), [[euvie ivanova\|euvie ivanova]] on [psycho-technologies for the age of collapse](https://euvieivanova.substack.com/p/psycho-technologies-for-the-age-of), [[layman pascal\|layman pascal]], (...), adding to it.
+plus, there are a lot more curators/practitioners such as [[eric brown\|eric brown]] [hedonic engineering: building a psycho-spiritual growth stack](https://seriousplay.substack.com/p/hedonic-engineering), [[euvie ivanova\|euvie ivanova]] on [psycho-technologies for the age of collapse](https://euvieivanova.substack.com/p/psycho-technologies-for-the-age-of), [[people/references/alchemy/layman pascal\|layman pascal]], (...), adding to it.
 
-all of these share an aim to be multi-perspectival, integrative approaches to [[_003_L1F3/core concepts/self-transformation\|self-transformation]] and [[topics/alchemy/spirituality\|spirituality]], but i'm sure there are many more that hold valuable pieces of wisdom.
+all of these share an aim to be multi-perspectival, integrative approaches to [[_003_L1F3/key concepts & ideas/self-transformation\|self-transformation]] and [[topics/alchemy/spirituality\|spirituality]], but i'm sure there are many more that hold valuable pieces of wisdom.
 
 [[initiatives, orgs & communities/alchemy/possibility management\|possibility management]] with [[thoughtware upgrades\|thoughtware upgrades]], [[sadhguru\|sadhguru]] with [[self-engineering\|self-engineering]], and many others to be discovered...
 
@@ -55,7 +55,7 @@ we can be forever seeking "who has/what is the more comprehensive/coherent/whole
 
 we all came here with different [[_005_MOCs/025 🔷 long game/035 🔭 missions MOC\|missions]], [[concepts/alchemy/needs\|needs]], [[talents\|talents]] and [[_005_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|challenges]]. and while "all paths lead to the tao", not all are equally valuable.
 
-the age-old challenge of [[_003_L1F3/core concepts/self-transformation\|self-transformation]] is as much a work of [[designing\|design]] as of [[discovery\|discovery]] and [[deconstruction\|deconstruction]] ([[people/references/alchemy/ken wilber\|ken wilber]]'s model of the [[models & frameworks/alchemy/four facets of integral development\|four facets of integral development]] do a great job of explaining it in terms of: [[concepts/alchemy/waking up\|waking up]], [[concepts/alchemy/growing up\|growing up]], [[concepts/alchemy/cleaning up\|cleaning up]] and [[concepts/alchemy/showing up\|showing up]]).
+the age-old challenge of [[_003_L1F3/key concepts & ideas/self-transformation\|self-transformation]] is as much a work of [[designing\|design]] as of [[discovery\|discovery]] and [[deconstruction\|deconstruction]] ([[people/references/alchemy/ken wilber\|ken wilber]]'s model of the [[models & frameworks/alchemy/four facets of integral development\|four facets of integral development]] do a great job of explaining it in terms of: [[concepts/alchemy/waking up\|waking up]], [[concepts/alchemy/growing up\|growing up]], [[concepts/alchemy/cleaning up\|cleaning up]] and [[concepts/alchemy/showing up\|showing up]]).
 
 ![integral dashboard.jpeg](/img/user/images/interfaces%20&%20designs/integral%20dashboard.jpeg)
 
@@ -63,7 +63,7 @@ let's take the [[AQAL map\|AQAL map]] - an [[responses/alchemy/integral theory\|
 
 -> why integral is so powerful: it provides as close to an agnostic stance as possible (or at least that i've seen) to integrate perspectives and practices. it provides a way of indexing, interpreting and categorizing spiritual (and more - psychological, sociological, scientific) experiences.
 
-if we break down some of the core [[_003_L1F3/core concepts/self-transformation\|self-transformation]] processes, there are: [[concepts/alchemy/consciousness development\|consciousness development]] itself ([[states\|states]] & [[stages\|stages]]), [[psychological development\|psychological development]], [[topics/player/learning\|learning]], [[lines of intelligence\|lines of intelligence]], [[trauma\|trauma]], [[intimacy development\|intimacy development]], [[shadow work\|shadow work]], [[parts work\|parts work]], [[flow states\|flow states]], [[concepts/alchemy/non-ordinary states of consciousness\|non-ordinary states of consciousness]], etc...
+if we break down some of the core [[_003_L1F3/key concepts & ideas/self-transformation\|self-transformation]] processes, there are: [[concepts/alchemy/consciousness development\|consciousness development]] itself ([[states\|states]] & [[stages\|stages]]), [[psychological development\|psychological development]], [[topics/player/learning\|learning]], [[lines of intelligence\|lines of intelligence]], [[trauma\|trauma]], [[intimacy development\|intimacy development]], [[shadow work\|shadow work]], [[parts work\|parts work]], [[flow states\|flow states]], [[concepts/alchemy/non-ordinary states of consciousness\|non-ordinary states of consciousness]], etc...
 
 i favor a modular approach. you don't need to agree with the complete worldview of a certain approach, practice or tradition, but you can practice/experiment with it and develop more depth over time. the point is to gradually explore, learn and incorporate what makes sense for you into your personal systems.
 
@@ -74,7 +74,7 @@ gamers are usually familiar with this idea since they're often tweaking their ga
 [...]
 ##### your [[_004_L1F3/l1f3 operating system\|life operating system]]
 
-in nerd terms: [[concepts/alchemy/epistemology\|epistemology]], [[topics/alchemy/metaphysics\|metaphysics]], [[concepts/alchemy/ontology\|ontology]], [[ethics\|ethics]]/[[concepts/alchemy/axiology\|axiology]] & [[aesthetics\|aesthetics]].
+in nerd terms: [[concepts/alchemy/epistemology\|epistemology]], [[topics/alchemy/metaphysics\|metaphysics]], [[concepts/alchemy/ontology\|ontology]], [[concepts/alchemy/ethics\|ethics]]/[[concepts/alchemy/axiology\|axiology]] & [[aesthetics\|aesthetics]].
 
 the set of [[beliefs\|beliefs]], [[concepts/alchemy/values\|values]], [[conditionings\|conditionings]] with which you operate in life.
 

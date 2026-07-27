@@ -1,5 +1,5 @@
 ---
-{"aliases":["⚙ LMS","⚙ l1f3 management system","⚙ l1f3 manager","life management system","⚙ life management system","L1F3 management system","⚙ L1F3 management system","life management systems"],"created in":"2021-12-11T16:52:05-03:00","last tended to":"2024-10-24T21:59:42-03:00","tags":["project","🌿","l1f3","alchemy","design","lab"],"dg-publish":true,"notestage":["🌿"],"created":"2021-12-11T16:52:05.970-03:00","updated":"2025-06-11T15:51:55.178-03:00","readinesslevel":"30%","permalink":"/003-l1-f3/l1f3-management-system/","dgPassFrontmatter":true}
+{"aliases":["⚙ LMS","⚙ l1f3 management system","⚙ l1f3 manager","life management system","⚙ life management system","L1F3 management system","⚙ L1F3 management system","life management systems"],"created in":"2021-12-11T16:52:05-03:00","last tended to":"2024-10-24T21:59:42-03:00","tags":["project","🌿","l1f3","alchemy","design","lab"],"dg-publish":true,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-26T13:50:21.150-03:00","readinesslevel":"30%","permalink":"/003-l1-f3/l1f3-management-system/","dgPassFrontmatter":true}
 ---
 
 #### description
@@ -8,7 +8,7 @@ this project is my wildly ambitious attempt to design/prototype key elements of 
 
 this project is part of an even wilder, more ambitious project - aiming to uncover and redesign our fundamental personal and civilizational [[core essays/🌐 an introduction to the L1F3 game and the L1F3 support systems\|L1F3 support systems]].
 
-it operates on the premise that if we are able to develop/apply [[_009_notes & highlights from books, videos, articles/transformative tools for thought - gordon brander\|transformative tools for thought - gordon brander]], or better yet - [[concepts/design/tools for extended cognition\|tools for extended cognition]], we can design [[_003_L1F3/core concepts/self-transformation\|ourselves]], our [[_003_L1F3/core concepts/life design\|lives]] and our [[concepts/design/systems design\|systems]] in ways that are more nourishing for the whole.
+it operates on the premise that if we are able to develop/apply [[_009_notes & highlights from books, videos, articles/transformative tools for thought - gordon brander\|transformative tools for thought - gordon brander]], or better yet - [[concepts/design/tools for extended cognition\|tools for extended cognition]], we can design [[_003_L1F3/key concepts & ideas/self-transformation\|ourselves]], our [[_003_L1F3/key concepts & ideas/life design\|lives]] and our [[concepts/design/systems design\|systems]] in ways that are more nourishing for the whole.
 
 ---
 #### key references/tools:
@@ -17,7 +17,7 @@ it operates on the premise that if we are able to develop/apply [[_009_notes & h
 [[models & frameworks/alchemy/state, code, stage, depth\|state, code, stage, depth]]⁹⁶
 [[models & frameworks/alchemy/AQAL\|AQAL model]]⁹⁵
 [[initiatives, orgs & communities/alchemy/possibility management\|possibility management]]⁹¹
-[[people/friends/ísis schuarts\|ísis schuarts]]' frameworks⁸⁶ (closed-source)
+[[people/friends/bruno schuarts\|bruno schuarts]]' frameworks⁸⁶ (closed-source)
 [[projects & tools/tools/alchemy/human design\|human design]]⁸²
 
 ##### technical
@@ -29,7 +29,7 @@ it operates on the premise that if we are able to develop/apply [[_009_notes & h
 - [[perception\|perception]] ([[topics/lab/personal data management\|personal data management]]/[[topics/lab/information management\|information management]])
 - [[concepts/alchemy/sensemaking\|sensemaking]] ([[topics/lab/personal knowledge management\|personal knowledge management]] - [[_005_MOCs/050 🟩 mid game/040 🤹🏻‍♂️ areas MOC\|responsibilities]], [[_006_toolkit/x+ 🎭 roles LPS\|roles]], [[_005_MOCs/025 🔷 long game/030 ⛰ challenges & framing MOC\|challenges]], etc)
 - [[terms/decision-making\|decision-making]] ([[decision management\|decision management]])
-- [[terms/action\|action]]/[[topics/player/learning\|learning]] ([[task management\|task management]] / [[time management\|time management]] / [[energy management\|energy management]] / [[tbprocessed/base notes/topics/learning management\|learning management]]) / [[feedback\|feedback]]/[[results\|results]] ([[wisdom management\|wisdom management]] / [[values management\|values management]] / [[_003_L1F3/core concepts/self-management\|self-management]])
+- [[terms/action\|action]]/[[topics/player/learning\|learning]] ([[task management\|task management]] / [[time management\|time management]] / [[topics/alchemy/personal energy management\|personal energy management]] / [[tbprocessed/base notes/topics/learning management\|learning management]]) / [[feedback\|feedback]]/[[results\|results]] ([[wisdom management\|wisdom management]] / [[values management\|values management]] / [[_003_L1F3/key concepts & ideas/self-management\|self-management]])
 
 \+ different [[prototypes & designs/made by me/l1f3 management system views\|views]]
 
@@ -39,7 +39,7 @@ it operates on the premise that if we are able to develop/apply [[_009_notes & h
 
 categories of personal systems:
 
-#### [[_003_L1F3/core concepts/self-management\|self-management]]
+#### [[_003_L1F3/key concepts & ideas/self-management\|self-management]]
 - [self-reflection] -> [[values management\|values management]]
 - [priming]
 - [sensing]
@@ -49,7 +49,7 @@ categories of personal systems:
 - [learning]
 - [tracking]
 
-#### [[_003_L1F3/core concepts/life management\|life management]] systems breakdown:
+#### [[_003_L1F3/key concepts & ideas/life management\|life management]] systems breakdown:
 - [[prototypes & designs/made by me/resources management system\|🌫 resources management system]]
 - [[prototypes & designs/made by me/knowledge management system\|🧠 knowledge management system]]
 - [[prototypes & designs/made by me/decision management system\|♟ decision management system]]

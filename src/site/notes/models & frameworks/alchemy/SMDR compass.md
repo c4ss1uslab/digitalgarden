@@ -1,5 +1,5 @@
 ---
-{"created":"2025-06-09T17:59:47.526-03:00","updated":"2025-06-09T18:02:12.703-03:00","tags":["framework","regen","decolonization","alchemy"],"notestage":["🌱"],"dg-publish":true,"permalink":"/models-and-frameworks/alchemy/smdr-compass/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-13T21:47:36.408-03:00","tags":["framework","regen","decolonization","alchemy","GTDF"],"notestage":["🌱"],"dg-publish":true,"permalink":"/models-and-frameworks/alchemy/smdr-compass/","dgPassFrontmatter":true}
 ---
 
 see: https://decolonialfutures.net/notes-on-the-smdr-compass/

@@ -1,5 +1,5 @@
 ---
-{"created":"2021-12-11T16:51:53.081-03:00","updated":"2025-05-14T19:55:47.480-03:00","tags":["🌱","mapping","metaphysics","epistemology","alchemy","design","project","curation","research","sensemaking"],"notestage":["🌱"],"relevancescore":96,"dg-publish":true,"aliases":["reality maps"],"permalink":"/projects-and-tools/made-by-me/lab/reality-mapping/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-13T21:39:02.463-03:00","tags":["🌱","mapping","metaphysics","epistemology","alchemy","design","project","curation","research","sensemaking"],"notestage":["🌱"],"relevancescore":96,"dg-publish":true,"aliases":["reality maps"],"permalink":"/projects-and-tools/made-by-me/lab/reality-mapping/","dgPassFrontmatter":true}
 ---
 
 see also: [[responses/lab/mapping\|mapping]], [[projects & tools/made by me/lab/internet mapping\|internet mapping]], [[prototypes & designs/made by me/collaborative life map\|collaborative life map]]
@@ -16,22 +16,22 @@ a good way i found is through [[people/references/design/andrea farias\|andrea f
 [[integral philosophy\|integral philosophy]]
 - [[responses/alchemy/integral theory\|integral theory]]
 - [[responses/alchemy/cosmoerotic humanism\|cosmoerotic humanism]]
-- [[unique self\|unique self]]
+- [[concepts/alchemy/unique self\|unique self]]
 [[transpersonal psychology\|transpersonal psychology]]
 - [[stanislav grof\|stanislav grof]]
 - [[models & frameworks/alchemy/internal family systems\|internal family systems]]
 - [[tbprocessed/base notes/people/bill plotkin\|bill plotkin]]
 [[cognitive science\|cognitive science]]
-[[terms/buddhism\|buddhism]]
+[[topics/alchemy/lineages/buddhism\|buddhism]]
 [[vedic philosophy\|vedic philosophy]]
-[[topics/alchemy/yoga\|yoga]]
+[[topics/alchemy/lineages/yoga\|yoga]]
 
 - [[topics/alchemy/adult development\|adult development]]
 
 [[robert kegan\|robert kegan]]
-[[susanne cook-greuter\|susanne cook-greuter]]
+[[people/references/alchemy/susanne cook-greuter\|susanne cook-greuter]]
 
-- [[value systems\|value systems]] / [[belief systems\|belief systems]]
+- [[value systems\|value systems]] / [[topics/alchemy/belief systems\|belief systems]]
 
 [[spiral dynamics\|spiral dynamics]]
 [[people/references/alchemy/hanzi freinacht\|hanzi freinacht]]
@@ -47,7 +47,7 @@ see: [[projects & tools/made by me/lab/internet mapping\|internet mapping]]
 
 ##### physiologic structure
 
-see: [[_003_L1F3/core concepts/self-management\|self-management]], [[design science\|design science]], [[models & frameworks/design/metadesign\|metadesign]]
+see: [[_003_L1F3/key concepts & ideas/self-management\|self-management]], [[design science\|design science]], [[models & frameworks/design/metadesign\|metadesign]]
 
 ##### social structure
 

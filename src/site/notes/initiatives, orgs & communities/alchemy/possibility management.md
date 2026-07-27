@@ -1,5 +1,5 @@
 ---
-{"aliases":["PM"],"tags":["organization","community","🌲","alchemy"],"relevancescore":91,"familiaritydegree":6,"familiaritycontext":"100h+ spent, in-person and online","recommendationlevel":7,"recommendationcontext":"i recommend checking it out, but take it with *a few* grains of salt. read more below before jumping in.","dg-publish":true,"notestage":["🌲"],"created":"2022-03-02T16:18:16.740-03:00","updated":"2026-03-28T11:50:53.481-03:00","permalink":"/initiatives-orgs-and-communities/alchemy/possibility-management/","dgPassFrontmatter":true}
+{"aliases":["PM"],"tags":["organization","community","🌲","alchemy"],"relevancescore":91,"familiaritydegree":6,"familiaritycontext":"100h+ spent, in-person and online","recommendationlevel":7,"recommendationcontext":"i recommend checking it out, but take it with *a few* grains of salt. read more below before jumping in.","dg-publish":true,"notestage":["🌲"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-03-28T11:50:53.481-03:00","permalink":"/initiatives-orgs-and-communities/alchemy/possibility-management/","dgPassFrontmatter":true}
 ---
 
 http://possibilitymanagement.com

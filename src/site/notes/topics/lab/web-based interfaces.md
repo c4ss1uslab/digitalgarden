@@ -1,5 +1,5 @@
 ---
-{"created":"2025-01-27T13:30:35.487-03:00","updated":"2025-02-13T13:39:01.238-03:00","tags":["interfacedesign"],"dg-publish":true,"permalink":"/topics/lab/web-based-interfaces/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-02-13T13:39:01.238-03:00","tags":["interfacedesign"],"dg-publish":true,"permalink":"/topics/lab/web-based-interfaces/","dgPassFrontmatter":true}
 ---
 
 ##### applications

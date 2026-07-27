@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-03-19T16:25:06-03:00","last tended to":"2024-10-18T14:02:26-03:00","tags":["person","research","knowledgemanagement","distributedsystems","cybernetics","top3","systemsscience","🌱"],"relevancescore":93,"dg-publish":true,"notestage":["🌱"],"created":"2024-03-19T16:25:06.818-03:00","updated":"2025-06-11T15:54:44.073-03:00","permalink":"/people/references/lab/gordon-brander/","dgPassFrontmatter":true}
+{"created in":"2024-03-19T16:25:06-03:00","last tended to":"2024-10-18T14:02:26-03:00","tags":["person","research","knowledgemanagement","distributedsystems","cybernetics","top3","systemsscience","🌱"],"relevancescore":93,"dg-publish":true,"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-06-11T15:54:44.073-03:00","permalink":"/people/references/lab/gordon-brander/","dgPassFrontmatter":true}
 ---
 
 https://gordonbrander.com/, founder of [[projects & tools/projects/lab/subconscious (tool)\|subconscious (tool)]], publishing an amazing newsletter at: https://newsletter.squishy.computer/

@@ -1,5 +1,5 @@
 ---
-{"aliases":["📲 omnichannel curation feed"],"tags":["prototype","🌱","design","sensemaking","datamanagement","visualization"],"dg-publish":true,"notestage":["🌱"],"relevancescore":96,"created":"2022-03-11T13:33:32.936-03:00","updated":"2025-01-28T19:10:27.043-03:00","permalink":"/prototypes-and-designs/made-by-me/omnichannel-curation-feed/","dgPassFrontmatter":true}
+{"aliases":["📲 omnichannel curation feed"],"tags":["prototype","🌱","design","sensemaking","datamanagement","visualization"],"dg-publish":true,"notestage":["🌱"],"relevancescore":96,"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-01-28T19:10:27.043-03:00","permalink":"/prototypes-and-designs/made-by-me/omnichannel-curation-feed/","dgPassFrontmatter":true}
 ---
 
 one of the main prototypes of the [[_003_L1F3/l1f3 streaming system\|l1f3 streaming system]].

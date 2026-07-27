@@ -1,5 +1,5 @@
 ---
-{"aliases":["🏟 board","board","arena","🏟 arena","c4ss1us' l1f3 game board","L1F3 game board v.0.1"],"created in":"2022-03-31T14:27:01-03:00","last tended to":"2024-07-20T18:24:43-03:00","tags":["prototype","🌱"],"created":"2022-03-31T14:27:01.832-03:00","updated":"2025-01-22T15:26:38.412-03:00","notestage":["🌱"],"dg-publish":true,"permalink":"/006-toolkit/003-board/","dgPassFrontmatter":true}
+{"aliases":["🏟 board","board","arena","🏟 arena","c4ss1us' l1f3 game board","L1F3 game board v.0.1"],"created in":"2022-03-31T14:27:01-03:00","last tended to":"2024-07-20T18:24:43-03:00","tags":["prototype","🌱","l1f3"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-11T23:09:26.733-03:00","notestage":["🌱"],"dg-publish":true,"permalink":"/006-toolkit/003-board/","dgPassFrontmatter":true}
 ---
 
 **what would a game board for your life look like?**
@@ -23,15 +23,15 @@ plus, this frame of a [[game board\|game board]] introduces an interesting view 
 
 this game / board has 3 layers:
 
-1) [[_003_L1F3/core concepts/self-management\|self-management]]/[[_004_L1F3/core concepts/self-transformation\|_004_L1F3/core concepts/self-transformation]]
+1) [[_003_L1F3/key concepts & ideas/self-management\|self-management]]/[[_004_L1F3/core concepts/self-transformation\|_004_L1F3/core concepts/self-transformation]]
 
 (...)
 
-2) [[_003_L1F3/core concepts/life design\|life design]]/[[_003_L1F3/core concepts/life management\|life management]]
+2) [[_003_L1F3/key concepts & ideas/life design\|life design]]/[[_003_L1F3/key concepts & ideas/life management\|life management]]
 
 most people spend most of their time here. the board intends to make visible the amount of systems, tools, actions and possibilities in this space, which are often taken for granted or simply underexplored/not seen, due to the sheer amount of information in the world and/or the current design of our dominant civilizational systems and of most people's lives, which don't incentivize further investigation/elaboration in this space.
 
-3) [[_003_L1F3/core concepts/civilization design\|civilization design]]/[[civilization management\|civilization management]]
+3) [[_003_L1F3/key concepts & ideas/civilization design\|civilization design]]/[[civilization management\|civilization management]]
 
 what's your contribution to the design and unfoldment of the world as a whole? whatever the scale of your work (personal, local, global), it may be interesting/useful to others somewhere out there who might take your ideas/creations and develop it further.
 

@@ -1,5 +1,5 @@
 ---
-{"created":"2025-05-28T11:05:26.723-03:00","updated":"2025-05-28T11:20:53.739-03:00","tags":["highlights","essay","book","🌿","mapping","design","lab"],"notestage":["🌿"],"dg-publish":true,"permalink":"/009-notes-and-highlights-from-books-videos-articles/on-being-lost-wardley-maps-chapter-1/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-05-28T11:20:53.739-03:00","tags":["highlights","essay","book","🌿","mapping","design","lab"],"notestage":["🌿"],"dg-publish":true,"permalink":"/009-notes-and-highlights-from-books-videos-articles/on-being-lost-wardley-maps-chapter-1/","dgPassFrontmatter":true}
 ---
 
 original article: https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec

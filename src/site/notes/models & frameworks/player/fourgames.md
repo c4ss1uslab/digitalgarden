@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-11-13T16:13:43-03:00","last tended to":"2024-09-26T15:26:13-03:00","dg-publish":true,"tags":["framework","player","🌿","design","alchemy","coordination","seriousgame","reallifegame","response","lifedesign","selfdesign"],"aliases":["fourgame dynamics","4game dynamics","4games"],"relevancescore":94,"notestage":["🌿"],"created":"2023-11-13T16:13:43.432-03:00","updated":"2025-04-05T13:35:12.148-03:00","permalink":"/models-and-frameworks/player/fourgames/","dgPassFrontmatter":true}
+{"created in":"2023-11-13T16:13:43-03:00","last tended to":"2024-09-26T15:26:13-03:00","dg-publish":true,"tags":["framework","player","🌿","design","alchemy","coordination","seriousgame","reallifegame","response","lifedesign","selfdesign"],"aliases":["fourgame dynamics","4game dynamics","4games"],"relevancescore":94,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-04-05T13:35:12.148-03:00","permalink":"/models-and-frameworks/player/fourgames/","dgPassFrontmatter":true}
 ---
 
 ##### intro

@@ -1,5 +1,5 @@
 ---
-{"aliases":["games"],"created in":"2022-02-27T14:27:13-03:00","last tended to":"2024-09-24T16:25:20-03:00","tags":["player","concept","🌱"],"dg-publish":true,"notestage":["🌱"],"created":"2022-02-27T14:27:13.500-03:00","updated":"2025-05-26T18:03:57.656-03:00","readinesslevel":"25%","permalink":"/concepts/player/game/","dgPassFrontmatter":true}
+{"aliases":["games"],"created in":"2022-02-27T14:27:13-03:00","last tended to":"2024-09-24T16:25:20-03:00","tags":["player","concept","🌱"],"dg-publish":true,"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-05-26T18:03:57.656-03:00","readinesslevel":"25%","permalink":"/concepts/player/game/","dgPassFrontmatter":true}
 ---
 
 when i'm talking about games, i'm most interested in the context of a "[[responses/player/serious games\|serious game]]". i.e. one that has a practical impact on our lives/ways of seeing the world.

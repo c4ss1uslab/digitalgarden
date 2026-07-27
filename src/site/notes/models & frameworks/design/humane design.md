@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-05-28T21:33:53-03:00","last tended to":"2024-10-25T14:40:51-03:00","tags":["framework","design","lab","🌱"],"aliases":["humane"],"notestage":["🌱"],"dg-publish":true,"permalink":"/models-and-frameworks/design/humane-design/","dgPassFrontmatter":true,"created":"2024-05-28T21:33:53.910-03:00","updated":"2024-10-25T14:40:59.233-03:00"}
+{"created in":"2024-05-28T21:33:53-03:00","last tended to":"2024-10-25T14:40:51-03:00","tags":["framework","design","lab","🌱"],"aliases":["humane"],"notestage":["🌱"],"dg-publish":true,"permalink":"/models-and-frameworks/design/humane-design/","dgPassFrontmatter":true,"created":"1969-12-31T21:00:00.000-03:00","updated":"2024-10-25T14:40:59.233-03:00"}
 ---
 
 great resource: https://humanebydesign.com/

@@ -1,10 +1,10 @@
 ---
-{"created in":"2024-09-05T16:07:48-03:00","last tended to":"2024-10-25T14:46:42-03:00","tags":["framework","anthropology","design","sensemaking","🌱"],"dg-publish":true,"notestage":["🌱"],"created":"2024-09-05T16:07:48.916-03:00","updated":"2025-01-27T15:42:03.546-03:00","relevancescore":96,"permalink":"/models-and-frameworks/design/holistic-cultural-materialism/","dgPassFrontmatter":true}
+{"created in":"2024-09-05T16:07:48-03:00","last tended to":"2024-10-25T14:46:42-03:00","tags":["framework","anthropology","design","sensemaking","🌱"],"dg-publish":true,"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-06-08T14:47:11.937-03:00","relevancescore":96,"aliases":["eco, social, super and infrastructure"],"permalink":"/models-and-frameworks/design/holistic-cultural-materialism/","dgPassFrontmatter":true}
 ---
 
 ##### context
 
-cultural materialism was a framework proposed by [[people/references/design/marvin harris\|marvin harris]] for conceptualizing the major areas of society/[[_003_L1F3/core concepts/civilization design\|civilization design]]. it consists of: [[concepts/design/superstructure\|superstructure]], [[social structure\|social structure]], [[concepts/design/infrastructure\|infrastructure]].
+cultural materialism was a framework proposed by [[people/references/design/marvin harris\|marvin harris]] for conceptualizing the major areas of society/[[_003_L1F3/key concepts & ideas/civilization design\|civilization design]]. it consists of: [[concepts/design/superstructure\|superstructure]], [[topics/design/social structure\|social structure]], [[concepts/design/infrastructure\|infrastructure]].
 
 [[people/references/design/andrea farias\|andrea farias]] provided a great introduction and proposes an expansion of it, calling it: [Holistic Cultural Materialism](https://diome.xyz/2+%F0%9F%8C%BF+Leaves/Cultural+Materialism), emphasizing the biological systems we're also part of.
 

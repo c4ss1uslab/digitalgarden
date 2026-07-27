@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-05-28T20:36:27-03:00","last tended to":"2024-10-25T13:57:53-03:00","tags":["design","philosophy","🌱"],"dg-publish":true,"relevancescore":98,"notestage":["🌱"],"created":"2024-05-28T20:36:27.877-03:00","updated":"2025-05-19T13:56:07.267-03:00","readinesslevel":"20%","permalink":"/002-core-notes/design-philosophies/","dgPassFrontmatter":true}
+{"created in":"2024-05-28T20:36:27-03:00","last tended to":"2024-10-25T13:57:53-03:00","tags":["design","philosophy","🌱"],"dg-publish":true,"relevancescore":98,"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-05-19T13:56:07.267-03:00","readinesslevel":"20%","permalink":"/002-core-notes/design-philosophies/","dgPassFrontmatter":true}
 ---
 
 ##### an introduction to prevailing and emergent design philosophies

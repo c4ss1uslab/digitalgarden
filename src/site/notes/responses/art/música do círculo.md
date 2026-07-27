@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-05-31T16:42:16-03:00","last tended to":"2024-11-03T16:05:03-03:00","aliases":["MdC","mdc"],"tags":["music","play","🌿","host","practice"],"relevancescore":93,"dg-publish":true,"notestage":["🌿"],"created":"2023-05-31T16:42:16.760-03:00","updated":"2025-02-10T13:11:02.211-03:00","permalink":"/responses/art/musica-do-circulo/","dgPassFrontmatter":true}
+{"created in":"2023-05-31T16:42:16-03:00","last tended to":"2024-11-03T16:05:03-03:00","aliases":["MdC","mdc"],"tags":["music","play","🌿","host","practice"],"relevancescore":93,"dg-publish":true,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-02-10T13:11:02.211-03:00","permalink":"/responses/art/musica-do-circulo/","dgPassFrontmatter":true}
 ---
 
 https://musicadocirculo.com/

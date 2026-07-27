@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-01-20T14:35:24-03:00","last tended to":"2024-08-19T03:52:46-03:00","tags":["person","p2p","research","curation","distributedsystems","🌱"],"created":"2022-01-20T14:35:24.962-03:00","updated":"2025-01-24T17:36:20.580-03:00","notestage":["🌱"],"dg-publish":true,"permalink":"/people/references/design/michel-bauwens/","dgPassFrontmatter":true}
+{"created in":"2022-01-20T14:35:24-03:00","last tended to":"2024-08-19T03:52:46-03:00","tags":["person","p2p","research","curation","distributedsystems","🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-01-24T17:36:20.580-03:00","notestage":["🌱"],"dg-publish":true,"permalink":"/people/references/design/michel-bauwens/","dgPassFrontmatter":true}
 ---
 
 https://twitter.com/mbauwens/

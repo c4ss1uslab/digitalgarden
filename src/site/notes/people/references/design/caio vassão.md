@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-03-10T15:03:20-03:00","last tended to":"2024-06-22T15:39:11-03:00","tags":["person","design","metadesign","brazilian","architect"],"aliases":["vassão"],"created":"2024-03-10T15:03:20.569-03:00","updated":"2025-05-19T13:29:59.274-03:00","notestage":["🌱"],"dg-publish":true,"permalink":"/people/references/design/caio-vassao/","dgPassFrontmatter":true}
+{"created in":"2024-03-10T15:03:20-03:00","last tended to":"2024-06-22T15:39:11-03:00","tags":["person","design","metadesign","brazilian","architect"],"aliases":["vassão"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-05-19T13:29:59.274-03:00","notestage":["🌱"],"dg-publish":true,"permalink":"/people/references/design/caio-vassao/","dgPassFrontmatter":true}
 ---
 
 [Metadesign, Jogos e Transformação Cultural](https://caiovassao.medium.com/metadesign-jogos-e-transforma%C3%A7%C3%A3o-cultural-4ffce499cd8a)

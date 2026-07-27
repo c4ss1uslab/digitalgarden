@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-10-20T23:41:02-03:00","last tended to":"2024-10-21T01:35:50-03:00","dg-publish":true,"notestage":["🌿"],"aliases":["domestika"],"tags":["learning","art","resource","🌿"],"created":"2024-10-20T23:41:02.961-03:00","updated":"2025-06-10T18:18:25.443-03:00","permalink":"/references/art/domestika-moc/","dgPassFrontmatter":true}
+{"created in":"2024-10-20T23:41:02-03:00","last tended to":"2024-10-21T01:35:50-03:00","dg-publish":true,"notestage":["🌿"],"aliases":["domestika"],"tags":["learning","art","resource","🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-06-10T18:18:25.443-03:00","permalink":"/references/art/domestika-moc/","dgPassFrontmatter":true}
 ---
 
 #### my courses:

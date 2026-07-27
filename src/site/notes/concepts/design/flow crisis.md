@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-10-31T15:57:23-03:00","last tended to":"2024-09-04T14:34:27-03:00","tags":["concept","metacrisis","design","economics","🌱"],"created":"2023-10-31T15:57:23.463-03:00","updated":"2025-04-05T14:51:28.920-03:00","dg-publish":true,"notestage":["🌱"],"relevancescore":97,"permalink":"/concepts/design/flow-crisis/","dgPassFrontmatter":true}
+{"created in":"2023-10-31T15:57:23-03:00","last tended to":"2024-09-04T14:34:27-03:00","tags":["concept","metacrisis","design","economics","🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-04-05T14:51:28.920-03:00","dg-publish":true,"notestage":["🌱"],"relevancescore":97,"permalink":"/concepts/design/flow-crisis/","dgPassFrontmatter":true}
 ---
 
 proposed by [[josh field\|josh field]], great slides:

@@ -1,5 +1,5 @@
 ---
-{"created":"2025-01-24T17:52:46.659-03:00","updated":"2025-04-04T16:34:03.300-03:00","tags":["highlights","book","design","systemsdesign","seriousgame","player","reallifegame","🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/009-notes-and-highlights-from-books-videos-articles/buckminster-fuller-s-world-game-and-its-legacy/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-04-04T16:34:03.300-03:00","tags":["highlights","book","design","systemsdesign","seriousgame","player","reallifegame","🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/009-notes-and-highlights-from-books-videos-articles/buckminster-fuller-s-world-game-and-its-legacy/","dgPassFrontmatter":true}
 ---
 
 > Andrew Kirk, Counterculture Green: The Whole Earth Catalog and American Environmentalism (Lawrence: University Press of Kansas, 2007), 109

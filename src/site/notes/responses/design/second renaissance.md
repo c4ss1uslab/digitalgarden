@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-05-04T18:20:10-03:00","last tended to":"2024-09-26T15:21:33-03:00","tags":["🌿","metacrisis","community","concept"],"aliases":["2R"],"dg-publish":true,"relevancescore":96,"notestage":["🌿"],"created":"2024-05-04T18:20:10.067-03:00","updated":"2025-06-09T18:21:58.795-03:00","permalink":"/responses/design/second-renaissance/","dgPassFrontmatter":true}
+{"created in":"2024-05-04T18:20:10-03:00","last tended to":"2024-09-26T15:21:33-03:00","tags":["🌿","metacrisis","community","concept"],"aliases":["2R"],"dg-publish":true,"relevancescore":96,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-06-09T18:21:58.795-03:00","permalink":"/responses/design/second-renaissance/","dgPassFrontmatter":true}
 ---
 
 #### about 

@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-05-22T17:08:04-03:00","last tended to":"2024-10-24T21:59:42-03:00","tags":["experiment","research","design","technology","lab","🌱"],"aliases":["tech stack","tech stack;setup","intentional tech stack;setup","minimum viable intentional tech stack;setup","💻 minimum viable intentional personal tech stack;setup"],"created":"2024-05-22T17:08:04.058-03:00","updated":"2025-01-24T16:39:30.273-03:00","dg-publish":true,"relevancescore":94,"notestage":["🌱"],"permalink":"/experiments/made-by-me/lab/minimum-viable-intentional-personal-tech-stack-setup/","dgPassFrontmatter":true}
+{"created in":"2024-05-22T17:08:04-03:00","last tended to":"2024-10-24T21:59:42-03:00","tags":["experiment","research","design","technology","lab","🌱"],"aliases":["tech stack","tech stack;setup","intentional tech stack;setup","minimum viable intentional tech stack;setup","💻 minimum viable intentional personal tech stack;setup"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-01-24T16:39:30.273-03:00","dg-publish":true,"relevancescore":94,"notestage":["🌱"],"permalink":"/experiments/made-by-me/lab/minimum-viable-intentional-personal-tech-stack-setup/","dgPassFrontmatter":true}
 ---
 
 see: [[digital environment design\|digital environment design]]

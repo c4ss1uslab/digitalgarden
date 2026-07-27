@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-12-19T12:22:40-03:00","last tended to":"2024-11-06T19:45:46-03:00","dg-publish":true,"tags":["framework","sensemaking","technology","design"],"created":"2023-12-19T12:22:40.833-03:00","updated":"2024-12-03T15:59:45.520-03:00","permalink":"/models-and-frameworks/design/dikw-pyramid/","dgPassFrontmatter":true}
+{"created in":"2023-12-19T12:22:40-03:00","last tended to":"2024-11-06T19:45:46-03:00","dg-publish":true,"tags":["framework","sensemaking","technology","design"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2024-12-03T15:59:45.520-03:00","permalink":"/models-and-frameworks/design/dikw-pyramid/","dgPassFrontmatter":true}
 ---
 
 ![DIKW pyramid - data information knowledge wisdom.png|500](/img/user/images/models%20&%20frameworks/DIKW%20pyramid%20-%20data%20information%20knowledge%20wisdom.png)

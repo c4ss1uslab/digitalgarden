@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-02-18T21:51:46-03:00","last tended to":"2024-08-23T16:53:55-03:00","tags":["inquiry","🌱","lifedesign","sociology"],"created":"2023-02-18T21:51:46.224-03:00","updated":"2025-05-28T17:11:37.374-03:00","notestage":["🌱"],"dg-publish":true,"permalink":"/inquiries-and-heuristics/what-are-the-common-types-categories-of-lifestyles-and-what-do-they-tell-us-about-how-our-society-is-organized/","dgPassFrontmatter":true}
+{"created in":"2023-02-18T21:51:46-03:00","last tended to":"2024-08-23T16:53:55-03:00","tags":["inquiry","🌱","lifedesign","sociology"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-22T19:29:05.492-03:00","notestage":["🌱"],"dg-publish":true,"permalink":"/inquiries-and-heuristics/what-are-the-common-types-categories-of-lifestyles-and-what-do-they-tell-us-about-how-our-society-is-organized/","dgPassFrontmatter":true}
 ---
 
 ##### very early thoughts:
@@ -28,7 +28,7 @@ on stage: [[life stage\|life stage]] (both age and moment/priority), [[concepts/
 
 ###### how some other people think about it:
 
-[[people/references/regen/vanessa andreotti\|vanessa andreotti]] points out the systemic erasing of indigenous [[concepts/alchemy/ways of being\|ways of being]] and lifestyle possibilities outside of the [[house of modernity\|house of modernity]].
+[[people/references/regen/vanessa machado de oliveira\|vanessa machado de oliveira]] points out the systemic erasing of indigenous [[concepts/alchemy/ways of being\|ways of being]] and lifestyle possibilities outside of the [[house of modernity\|house of modernity]].
 
 [[roote\|roote]] refers to "ambitious frontier people".
 [[initiatives, orgs & communities/alchemy/possibility management\|possibility management]] refers as to a similar group as "[[edgewalkers\|edgewalkers]]".

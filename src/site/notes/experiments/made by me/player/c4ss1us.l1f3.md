@@ -1,10 +1,10 @@
 ---
-{"aliases":["📹 c4ss1us' l1f3 stream","l1f3 stream mvps","l1f3 stream mvp","📹 l1f3 stream mvps","📹 l1f3 stream mvp","c4ss1us' l1f3 stream","c4ss1us.l1f3's stream","c4ss1us.l1f3 stream","c4ss1us' l1f3 stream mvp"],"created in":"2022-02-12T10:31:26-03:00","last tended to":"2024-10-12T18:38:41-03:00","tags":["experiment","🌿","c4ss1us"],"notestage":["🌿"],"created":"2022-02-12T10:31:26.267-03:00","updated":"2025-06-12T14:38:47.929-03:00","dg-publish":true,"permalink":"/experiments/made-by-me/player/c4ss1us-l1f3/","dgPassFrontmatter":true}
+{"aliases":["📹 c4ss1us' l1f3 stream","l1f3 stream mvps","l1f3 stream mvp","📹 l1f3 stream mvps","📹 l1f3 stream mvp","c4ss1us' l1f3 stream","c4ss1us.l1f3's stream","c4ss1us.l1f3 stream","c4ss1us' l1f3 stream mvp"],"created in":"2022-02-12T10:31:26-03:00","last tended to":"2024-10-12T18:38:41-03:00","tags":["experiment","🌿","c4ss1us"],"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-06-12T14:38:47.929-03:00","dg-publish":true,"permalink":"/experiments/made-by-me/player/c4ss1us-l1f3/","dgPassFrontmatter":true}
 ---
 
 c4ss1us.l1f3 is the main channel i created to interface with the world. just being [[experiments/made by me/player/open-source human experiment\|open-source human]] is not enough. streaming life is the process of sharing the flows (economic, informational, etc), as biological organisms in gaia.
 
-the idea isn't to be some self-centered brand, but an open-source [[_003_L1F3/core concepts/lifestyles\|lifestyle]] that enables deeper levels of collective [[concepts/alchemy/sensemaking\|sensemaking]], [[understanding\|understanding]], [[coordination\|coordination]] and [[terms/collaboration\|collaboration]].
+the idea isn't to be some self-centered brand, but an open-source [[_003_L1F3/key concepts & ideas/lifestyles\|lifestyle]] that enables deeper levels of collective [[concepts/alchemy/sensemaking\|sensemaking]], [[understanding\|understanding]], [[coordination\|coordination]] and [[terms/collaboration\|collaboration]].
 
 this experiment is the combination of 2 elements:
 

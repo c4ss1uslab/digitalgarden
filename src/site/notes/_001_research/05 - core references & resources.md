@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-07-30T21:38:54-03:00","last tended to":"2024-10-22T19:55:34-03:00","tags":["🌱"],"dg-publish":true,"notestage":["🌱"],"created":"2022-07-30T21:38:54.771-03:00","updated":"2025-06-17T15:16:03.508-03:00","permalink":"/001-research/05-core-references-and-resources/","dgPassFrontmatter":true}
+{"created in":"2022-07-30T21:38:54-03:00","last tended to":"2024-10-22T19:55:34-03:00","tags":["🌱"],"dg-publish":true,"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-26T13:44:57.614-03:00","permalink":"/001-research/05-core-references-and-resources/","dgPassFrontmatter":true}
 ---
 
 ```ad-warning
@@ -215,7 +215,7 @@ so let's do it!
 
 [projects]
 
-[[stephen reid's knowledgegraphs\|stephen reid's knowledgegraphs]]
+[[projects & tools/projects/lab/stephen reid's knowledge graphs\|stephen reid's knowledge graphs]]
 
 [people]
 
@@ -223,12 +223,12 @@ etc
 
 core concepts:
 [[concepts/design/metacrisis\|metacrisis]] / [[planetary transition\|planetary transition]] / [[tbprocessed/base notes/concepts - general/human phase shift\|human phase shift]]
-[[tbprocessed/base notes/concepts - general/game b\|game b]] / [[_003_L1F3/core concepts/civilization design\|civilization design]] / [[concepts/design/systems design\|systems design]]
+[[tbprocessed/base notes/concepts - general/game b\|game b]] / [[_003_L1F3/key concepts & ideas/civilization design\|civilization design]] / [[concepts/design/systems design\|systems design]]
 [[omni-win systems\|omni-win systems]] / [[topics/design/distributed systems\|distributed systems]] / [[decentralized systems\|decentralized systems]] / [[regenerative systems\|regenerative systems]] / [[disruptive systems\|disruptive systems]]
 [[topics/design/regeneration\|regeneration]] / [[tbprocessed/base notes/concepts - general/disruption\|disruption]] / [[integration\|integration]]
 [[models & frameworks/design/metadesign\|metadesign]] / [[topics/design/ontological design\|ontological design]]
 [[responses/alchemy/integral theory\|integral theory]] / [[models & frameworks/design/four quadrants\|four quadrants]] / [[models & frameworks/player/fourgames\|fourgames]]
-[[meta-cognitive processes\|meta-cognitive processes]] / [[_003_L1F3/core concepts/life management\|life management]] / [[_003_L1F3/L1F3 support systems\|L1F3 support systems]]
+[[meta-cognitive processes\|meta-cognitive processes]] / [[_003_L1F3/key concepts & ideas/life management\|life management]] / [[_003_L1F3/L1F3 support systems\|L1F3 support systems]]
 [[patterns/pattern collections/game design patterns\|game design patterns]] -> [[maps\|maps]] / [[boards\|boards]] -> [[models & frameworks/design/wardley mapping\|wardley mapping]] / [[game board\|game board]]
 
 community-curated knowledge networks:
@@ -340,7 +340,7 @@ tbd - [[metacurrency\|metacurrency]]
 [[how to do the work\|how to do the work]] - [[the holistic psychologist\|the holistic psychologist]]
 
 ---
-#### [[_003_L1F3/core concepts/life management\|life management]]
+#### [[_003_L1F3/key concepts & ideas/life management\|life management]]
 
 mainstream communicators:
 [[thomas frank\|thomas frank]], [[people/references/lab/ali abdaal\|ali abdaal]], [[tbprocessed/base notes/people/marie poulin\|marie poulin]], [[people/references/lab/anne-laure le cunff\|people/references/lab/anne-laure le cunff]] / [[tbprocessed/base notes/ventures - general/ness labs\|ness labs]], [[august bradley\|august bradley]]
@@ -356,12 +356,12 @@ main "theorists":
 [[zettelkasten\|zettelkasten]]
 [[andy matuschak\|andy matuschak]]
 [[people/references/lab/tiago forte\|tiago forte]] / [[tbprocessed/base notes/ventures - general/forte labs\|forte labs]] / [[patterns/active patterns/knowledge management/building a second brain\|BASB]]
-[[people/references/lab/nick milo\|nick milo]] / [[linking your thinking\|linking your thinking]]
+[[people/references/lab/nick milo\|nick milo]] / [[models & frameworks/lab/linking your thinking\|linking your thinking]]
 
 more obscure/deeper thinkers/developers:
 [[tbprocessed/base notes/people/zsolt viczián\|zsolt viczián]] / [[visual knowledge management system\|visual knowledge management system]] - https://www.youtube.com/c/VisualPKM
 [[people/references/lab/alexander obenauer\|alexander obenauer]] - [[future of personal computing\|future of personal computing]] - https://alexanderobenauer.com/labnotes/000
-[[infranodus\|infranodus]] - [[AI-augmented cognition\|AI-augmented cognition]] - https://twitter.com/noduslabs
+[[projects & tools/tools/lab/infranodus\|infranodus]] - [[AI-augmented cognition\|AI-augmented cognition]] - https://twitter.com/noduslabs
 
 ```ad-info # Admonition type. See below for a list of available types.
 title: challenges
@@ -451,7 +451,7 @@ D - [[Additive Manufacturing\|Additive Manufacturing]]
 D.A - [[Laser Sintering and Fusion\|Laser Sintering and Fusion]]
 D.B - [[Fused Filament Fabrication\|Fused Filament Fabrication]]
 D.C - [[Stereolithography\|Stereolithography]]
-E - [[_002_core notes/design philosophies\|design philosophies]] & [[Ethics\|Ethics]]
+E - [[_002_core notes/design philosophies\|design philosophies]] & [[concepts/alchemy/ethics\|Ethics]]
 E.A - [[Bioethics\|Bioethics]]
 E.B - [[Moral Philosophy\|Moral Philosophy]]
 E.C - [[Ethics and AI\|Ethics and AI]]

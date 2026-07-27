@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-09-29T15:17:40-03:00","last tended to":"2024-10-30T18:20:25-03:00","tags":["coordination","design","socialoperatingsystems","initiative","web3","decentralizedwork","collaboration","distributedsystems","metacrisis","🌿"],"relevancescore":94,"dg-publish":true,"notestage":["🌿"],"aliases":["NAOs","NAO"],"created":"2024-09-29T15:17:40.581-03:00","updated":"2025-03-19T15:20:26.614-03:00","permalink":"/initiatives-orgs-and-communities/design/noo-nao/","dgPassFrontmatter":true}
+{"created in":"2024-09-29T15:17:40-03:00","last tended to":"2024-10-30T18:20:25-03:00","tags":["coordination","design","socialoperatingsystems","initiative","web3","decentralizedwork","collaboration","distributedsystems","metacrisis","🌿"],"relevancescore":94,"dg-publish":true,"notestage":["🌿"],"aliases":["NAOs","NAO"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-03-19T15:20:26.614-03:00","permalink":"/initiatives-orgs-and-communities/design/noo-nao/","dgPassFrontmatter":true}
 ---
 
 an initiative proposing a vision/prototypes for a new form of coordination - [[NAOs\|NAOs]]: networked adaptive organisms.

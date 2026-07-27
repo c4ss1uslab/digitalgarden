@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-07-24T00:45:06-03:00","last tended to":"2024-11-03T15:35:06-03:00","tags":["person","metacrisis","research","communication","memetics","🌱"],"dg-publish":true,"notestage":["🌱"],"created":"2024-07-24T00:45:06.544-03:00","updated":"2025-03-25T13:07:42.569-03:00","permalink":"/people/references/design/tom-morgan/","dgPassFrontmatter":true}
+{"created in":"2024-07-24T00:45:06-03:00","last tended to":"2024-11-03T15:35:06-03:00","tags":["person","metacrisis","research","communication","memetics","🌱"],"dg-publish":true,"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-03-25T13:07:42.569-03:00","permalink":"/people/references/design/tom-morgan/","dgPassFrontmatter":true}
 ---
 
 https://twitter.com/tomowenmorgan/

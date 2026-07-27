@@ -1,5 +1,5 @@
 ---
-{"created":"2025-05-26T15:23:23.170-03:00","updated":"2025-05-26T15:45:10.495-03:00","tags":["concept","design","regen","alchemy","🌱"],"notestage":["🌱"],"dg-publish":true,"relevancescore":98,"permalink":"/concepts/alchemy/flourishing/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-05-26T15:45:10.495-03:00","tags":["concept","design","regen","alchemy","🌱"],"notestage":["🌱"],"dg-publish":true,"relevancescore":98,"permalink":"/concepts/alchemy/flourishing/","dgPassFrontmatter":true}
 ---
 
 ##### good introductory resources:

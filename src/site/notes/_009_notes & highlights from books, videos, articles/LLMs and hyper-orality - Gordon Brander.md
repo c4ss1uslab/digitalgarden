@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-10-14T15:56:45-03:00","last tended to":"2024-10-18T13:16:12-03:00","tags":["highlights","design","lab","LLMs","essay"],"created":"2024-10-14T15:56:45.616-03:00","updated":"2025-01-27T13:11:42.535-03:00","dg-publish":true,"permalink":"/009-notes-and-highlights-from-books-videos-articles/ll-ms-and-hyper-orality-gordon-brander/","dgPassFrontmatter":true}
+{"created in":"2024-10-14T15:56:45-03:00","last tended to":"2024-10-18T13:16:12-03:00","tags":["highlights","design","lab","LLMs","essay"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-01-27T13:11:42.535-03:00","dg-publish":true,"permalink":"/009-notes-and-highlights-from-books-videos-articles/ll-ms-and-hyper-orality-gordon-brander/","dgPassFrontmatter":true}
 ---
 
 original article by [[people/references/lab/gordon brander\|gordon brander]]: https://newsletter.squishy.computer/p/llms-and-hyper-orality - published in: feb 1, 2023

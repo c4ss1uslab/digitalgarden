@@ -1,5 +1,5 @@
 ---
-{"aliases":["🗺 meta-map","wordcloud","🗾 meta-map"],"created in":"2022-01-03T19:16:10-03:00","last tended to":"2024-09-29T14:42:57-03:00","tags":["design","🌿","research","knowledgedesign","informationdesign","experiment"],"dg-publish":true,"notestage":["🌿"],"created":"2022-01-03T19:16:10.550-03:00","updated":"2026-03-28T11:50:52.171-03:00","permalink":"/006-toolkit/meta-map/","dgPassFrontmatter":true}
+{"aliases":["🗺 meta-map","wordcloud","🗾 meta-map"],"created in":"2022-01-03T19:16:10-03:00","last tended to":"2024-09-29T14:42:57-03:00","tags":["design","🌿","research","knowledgedesign","informationdesign","experiment"],"dg-publish":true,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-03-28T11:50:52.171-03:00","permalink":"/006-toolkit/meta-map/","dgPassFrontmatter":true}
 ---
 
 an extensive list / experimental form of intuitive clustering of all major themes/domains and references i'm working with.
@@ -74,7 +74,7 @@ added:
 
 [[concepts/design/metacrisis\|metacrisis]]
 
-- [[_003_L1F3/core concepts/civilization design\|civilization design]]
+- [[_003_L1F3/key concepts & ideas/civilization design\|civilization design]]
 
 [[topics/design/web3\|web3]] / [[decentralized coordination infrastructure\|decentralized coordination infrastructure]]
 
@@ -82,7 +82,7 @@ added:
 
 [[collaboration infrastructure\|collaboration infrastructure]]
 
-- [[_003_L1F3/core concepts/life design\|life design]] / [[_003_L1F3/core concepts/life management\|life management]]
+- [[_003_L1F3/key concepts & ideas/life design\|life design]] / [[_003_L1F3/key concepts & ideas/life management\|life management]]
 
 [[self-actualization infrastructure\|self-actualization infrastructure]]
 
@@ -90,7 +90,7 @@ added:
 
 [[concepts/design/tools for extended cognition\|tools for extended cognition]]
 
-- [[_004_L1F3/core concepts/self-transformation\|_004_L1F3/core concepts/self-transformation]] / [[_003_L1F3/core concepts/self-management\|self-management]]
+- [[_004_L1F3/core concepts/self-transformation\|_004_L1F3/core concepts/self-transformation]] / [[_003_L1F3/key concepts & ideas/self-management\|self-management]]
 
 
 **.alchemy**
@@ -123,7 +123,7 @@ added:
 
 [[concepts/alchemy/ontology\|ontology]]
 
-[[ethics\|ethics]]
+[[concepts/alchemy/ethics\|ethics]]
 
 [[aesthetics\|aesthetics]]
 
@@ -603,12 +603,12 @@ added:
 [[multidimensional objects\|multidimensional objects]]
 
 [[reality models\|reality models]]
-[[_003_L1F3/core concepts/lifestyles\|lifestyles]]
+[[_003_L1F3/key concepts & ideas/lifestyles\|lifestyles]]
 [[topics/design/lifestyle design\|lifestyle design]]
 
 [[_004_L1F3/core concepts/self-transformation\|_004_L1F3/core concepts/self-transformation]]
-[[_003_L1F3/core concepts/life design\|life design]]
-[[_003_L1F3/core concepts/civilization design\|civilization design]]
+[[_003_L1F3/key concepts & ideas/life design\|life design]]
+[[_003_L1F3/key concepts & ideas/civilization design\|civilization design]]
 
 [[training\|training]]
 [[preparation\|preparation]]

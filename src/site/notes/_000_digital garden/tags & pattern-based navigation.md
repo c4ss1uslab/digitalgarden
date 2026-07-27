@@ -1,5 +1,5 @@
 ---
-{"created":"2025-06-09T23:34:20.567-03:00","updated":"2025-06-09T23:37:48.631-03:00","aliases":["a loose, experimental, self-directed navigation based on tags & patterns"],"tags":["informationdesign","design","digitalgardening","patterns","🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/000-digital-garden/tags-and-pattern-based-navigation/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-06-09T23:37:48.631-03:00","aliases":["a loose, experimental, self-directed navigation based on tags & patterns"],"tags":["informationdesign","design","digitalgardening","patterns","🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/000-digital-garden/tags-and-pattern-based-navigation/","dgPassFrontmatter":true}
 ---
 
 ##### tag-based navigation

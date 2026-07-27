@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-08-27T12:24:05-03:00","last tended to":"2024-09-26T15:23:11-03:00","tags":["person","permacomputing","regeneration","lab","design","OSdesign","🌿"],"dg-publish":true,"relevancescore":94,"notestage":["🌿"],"permalink":"/people/references/lab/devine-lu-linvega/","dgPassFrontmatter":true,"created":"2024-08-27T12:24:05.811-03:00","updated":"2024-09-26T15:23:12.224-03:00"}
+{"created in":"2024-08-27T12:24:05-03:00","last tended to":"2024-09-26T15:23:11-03:00","tags":["person","permacomputing","regeneration","lab","design","OSdesign","🌿"],"dg-publish":true,"relevancescore":94,"notestage":["🌿"],"permalink":"/people/references/lab/devine-lu-linvega/","dgPassFrontmatter":true,"created":"1969-12-31T21:00:00.000-03:00","updated":"2024-09-26T15:23:12.224-03:00"}
 ---
 
 https://wiki.xxiivv.com/

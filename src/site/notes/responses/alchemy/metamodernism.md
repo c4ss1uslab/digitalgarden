@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-03-28T19:44:29-03:00","last tended to":"2024-10-25T11:51:00-03:00","aliases":["metamodern"],"tags":["concept","alchemy","architect","socialchange","systemschange","🌱","humandevelopment","politics","psychology","sociology"],"relevancescore":96,"dg-publish":true,"notestage":["🌱"],"created":"2024-03-28T19:44:29.935-03:00","updated":"2025-02-10T15:38:17.951-03:00","permalink":"/responses/alchemy/metamodernism/","dgPassFrontmatter":true}
+{"created in":"2024-03-28T19:44:29-03:00","last tended to":"2024-10-25T11:51:00-03:00","aliases":["metamodern"],"tags":["concept","alchemy","architect","socialchange","systemschange","🌱","humandevelopment","politics","psychology","sociology"],"relevancescore":96,"dg-publish":true,"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-02-10T15:38:17.951-03:00","permalink":"/responses/alchemy/metamodernism/","dgPassFrontmatter":true}
 ---
 
 the metamodern meme sees most of the challenges in the world as a [[topics/alchemy/developmental psychology\|developmental]] challenge.

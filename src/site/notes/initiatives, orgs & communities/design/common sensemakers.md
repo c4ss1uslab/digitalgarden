@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-08-28T12:50:21-03:00","last tended to":"2024-08-28T12:54:03-03:00","tags":["community","socialsensemaking","openknowledge","organization","sensemaking","research"],"relevancescore":96,"created":"2024-08-28T12:50:21.204-03:00","updated":"2025-06-24T17:25:47.995-03:00","notestage":["🌱"],"dg-publish":true,"permalink":"/initiatives-orgs-and-communities/design/common-sensemakers/","dgPassFrontmatter":true}
+{"created in":"2024-08-28T12:50:21-03:00","last tended to":"2024-08-28T12:54:03-03:00","tags":["community","socialsensemaking","openknowledge","organization","sensemaking","research"],"relevancescore":96,"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-06-24T17:25:47.995-03:00","notestage":["🌱"],"dg-publish":true,"permalink":"/initiatives-orgs-and-communities/design/common-sensemakers/","dgPassFrontmatter":true}
 ---
 
 https://twitter.com/CSenseMakers

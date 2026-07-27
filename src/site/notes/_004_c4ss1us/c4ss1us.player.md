@@ -1,5 +1,5 @@
 ---
-{"aliases":["player",".player","👨🏻‍🎤 c4ss1us.player"],"created in":"2023-05-31T18:40:03-03:00","last tended to":"2024-07-19T23:10:17-03:00","tags":["c4ss1us","player","🌱"],"created":"2024-05-22T17:07:46.703-03:00","updated":"2025-04-06T12:03:14.453-03:00","notestage":["🌱"],"dg-publish":true,"readinesslevel":"20%","permalink":"/004-c4ss1us/c4ss1us-player/","dgPassFrontmatter":true}
+{"aliases":["player",".player","👨🏻‍🎤 c4ss1us.player"],"created in":"2023-05-31T18:40:03-03:00","last tended to":"2024-07-19T23:10:17-03:00","tags":["c4ss1us","player","🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-04-06T12:03:14.453-03:00","notestage":["🌱"],"dg-publish":true,"readinesslevel":"20%","permalink":"/004-c4ss1us/c4ss1us-player/","dgPassFrontmatter":true}
 ---
 
 **see also:** [c4ss1us.player mmm.page (visual overview)](https://c4ss1us.mmm.page/player)
@@ -11,7 +11,7 @@ the 4games - [[concepts/alchemy/short game\|short game]], [[concepts/alchemy/mid
 
 the games of [[tbprocessed/base notes/concepts - general/art\|art]], [[tbprocessed/base notes/concepts - general/disruption\|disruption]] and [[tbprocessed/base notes/concepts - general/conscious evolution\|conscious evolution]]. ([[beautiful\|beautiful]], [[good\|good]], [[true\|true]])
 
-the games of [[_003_L1F3/core concepts/self-transformation\|self-transformation]], [[_003_L1F3/core concepts/life design\|life design]] & [[_003_L1F3/core concepts/civilization design\|civilization design]].
+the games of [[_003_L1F3/key concepts & ideas/self-transformation\|self-transformation]], [[_003_L1F3/key concepts & ideas/life design\|life design]] & [[_003_L1F3/key concepts & ideas/civilization design\|civilization design]].
 
 as an [[_004_c4ss1us/c4ss1us.alchemy\|alchemist]], [[_004_c4ss1us/c4ss1us.design\|designer]], [[_004_c4ss1us/c4ss.art\|artist]], [[_004_c4ss1us/c4ss1us.lab\|builder]] and [[player\|player]].
 
@@ -92,7 +92,7 @@ fundamental board/card/digital games:
 ~ how to enable collaboration/co-creation? ~
 
 ##### 3) CIVILIZATION:
-- [[moral imaginations\|moral imaginations]] / [[responses/regen/solarpunk\|solarpunk]] [[_003_L1F3/core concepts/civilization design\|civilization design]] [architect]
+- [[moral imaginations\|moral imaginations]] / [[responses/regen/solarpunk\|solarpunk]] [[_003_L1F3/key concepts & ideas/civilization design\|civilization design]] [architect]
 — [[dymaxion map\|dymaxion map]]
 — fields of study/[[_005_MOCs/025 🔷 long game/025 🗺 topics & references MOC\|topics]] (highlighted there: energy, tech, food...)
 — [[models & frameworks/design/8 forms of capital\|8 forms of capital]]

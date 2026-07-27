@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-10-25T13:32:54-03:00","last tended to":"2024-10-25T14:28:20-03:00","tags":["framework","futures","design","regeneration","metacrisis","sensemaking","🌿"],"dg-publish":true,"notestage":["🌿"],"created":"2024-10-25T13:32:54.437-03:00","updated":"2025-05-21T13:09:35.067-03:00","aliases":["3 horizons","horizons of change","horizons of transformation"],"permalink":"/models-and-frameworks/design/three-horizons/","dgPassFrontmatter":true}
+{"created in":"2024-10-25T13:32:54-03:00","last tended to":"2024-10-25T14:28:20-03:00","tags":["framework","futures","design","regeneration","metacrisis","sensemaking","🌿"],"dg-publish":true,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-05-21T13:09:35.067-03:00","aliases":["3 horizons","horizons of change","horizons of transformation"],"permalink":"/models-and-frameworks/design/three-horizons/","dgPassFrontmatter":true}
 ---
 
 a framework for visualizing/navigating change/actions across different future horizons, hopefully orienting action towards more desirable futures.

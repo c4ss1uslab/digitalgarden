@@ -1,5 +1,5 @@
 ---
-{"created in":"2021-12-11T16:51:56-03:00","last tended to":"2024-09-26T15:21:43-03:00","tags":["technology","web3","distributedsystems","regeneration","socialoperatingsystems","design","lab","datamanagement","open-source","tool","initiative","🌱"],"relevancescore":95,"dg-publish":true,"notestage":["🌱"],"familiaritydegree":4,"created":"2021-12-11T16:51:56.443-03:00","updated":"2025-01-28T19:22:38.138-03:00","permalink":"/initiatives-orgs-and-communities/lab/holochain/","dgPassFrontmatter":true}
+{"created in":"2021-12-11T16:51:56-03:00","last tended to":"2024-09-26T15:21:43-03:00","tags":["technology","web3","distributedsystems","regeneration","socialoperatingsystems","design","lab","datamanagement","open-source","tool","initiative","🌱"],"relevancescore":95,"dg-publish":true,"notestage":["🌱"],"familiaritydegree":4,"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-01-28T19:22:38.138-03:00","permalink":"/initiatives-orgs-and-communities/lab/holochain/","dgPassFrontmatter":true}
 ---
 
 i see the project as a herculean attempt at rewriting the foundations of our [[personal computing\|personal computing]] stack as [[distributed\|distributed]], [[terms/privacy\|privacy]] and [[open-source\|open-source]] - enable our social [[topics/design/coordination systems\|coordination systems]] to be radically more conscious, resilient and regenerative.

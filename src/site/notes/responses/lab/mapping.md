@@ -1,5 +1,5 @@
 ---
-{"aliases":["map","maps"],"created in":"2022-04-19T15:34:21-03:00","last tended to":"2024-09-26T15:23:18-03:00","tags":["🌿","mapping","topic","response","knowledgedesign","knowledgevisualization","lab","design"],"relevancescore":94,"dg-publish":true,"notestage":["🌿"],"created":"2022-04-19T15:34:21.040-03:00","updated":"2026-03-26T13:51:24.230-03:00","permalink":"/responses/lab/mapping/","dgPassFrontmatter":true}
+{"aliases":["map","maps"],"created in":"2022-04-19T15:34:21-03:00","last tended to":"2024-09-26T15:23:18-03:00","tags":["🌿","mapping","topic","response","knowledgedesign","knowledgevisualization","lab","design"],"relevancescore":94,"dg-publish":true,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-03-26T13:51:24.230-03:00","permalink":"/responses/lab/mapping/","dgPassFrontmatter":true}
 ---
 
 ### about
@@ -206,8 +206,8 @@ https://www.visualcapitalist.com/histomap/ - visualizing the 4,000-year history 
 ⭐️ great compilation of nearly all ecosystem mapping efforts: https://secondrenaissance.net/wiki/overview-mapping-efforts
 
 to understand the usefulness of these initiatives, look at how they're mapping:
-- [[value systems\|value systems]] ([[effective value memes\|effective value memes]]),
-- [[belief systems\|belief systems]],
+- [[value systems\|value systems]] ([[concepts/alchemy/effective value memes\|effective value memes]]),
+- [[topics/alchemy/belief systems\|belief systems]],
 - [[worldviews\|worldviews]],
 - [[information ecologies\|information ecologies]],
 - [[_002_core notes/theories of change\|theories of change]], and
@@ -331,7 +331,7 @@ other relevant approaches:
 
 
 ###### tier 1:
-[[projects & tools/tools/lab/atlas (nomic)\|atlas (nomic)]] ([[initiatives, orgs & communities/lab/nomic AI\|nomic AI]]), [[projects & tools/tools/lab/growth lab app\|growth lab app]] ([[projects & tools/tools/lab/atlas of economic complexity\|atlas of economic complexity]], [[tensorflow\|tensorflow]]'s [[projects & tools/tools/lab/embedding projector\|embedding projector]], [[projects & tools/tools/lab/head start\|head start]] ([[projects & tools/tools/lab/open knowledge maps\|open knowledge maps]]), [[projects & tools/tools/lab/juggl\|juggl]] (in [[projects & tools/tools/lab/obsidian\|obsidian]]), [[projects & tools/tools/design/kumu\|kumu]], [[projects & tools/tools/lab/softspace\|softspace]] (in [[topics/lab/XR\|XR]]), [[contextdriven.ai\|contextdriven.ai]].
+[[projects & tools/tools/lab/atlas (nomic)\|atlas (nomic)]] ([[initiatives, orgs & communities/lab/nomic AI\|nomic AI]]), [[projects & tools/tools/lab/growth lab app\|growth lab app]] ([[projects & tools/tools/lab/atlas of economic complexity\|atlas of economic complexity]], [[tensorflow\|tensorflow]]'s [[projects & tools/tools/lab/embedding projector\|embedding projector]], [[projects & tools/tools/lab/head start\|head start]] ([[projects & tools/tools/lab/open knowledge maps\|open knowledge maps]]), [[projects & tools/tools/lab/juggl\|juggl]] (in [[projects & tools/tools/lab/obsidian\|obsidian]]), [[projects & tools/tools/design/kumu\|kumu]], [[projects & tools/tools/lab/softspace\|softspace]] (in [[topics/lab/XR\|XR]]), [[references/alchemy/contextdriven.ai\|contextdriven.ai]].
 
 not tested, but look promising: [sigma.js](https://www.sigmajs.org/), [[gephi\|gephi]] & [[projects & tools/tools/lab/gephi lite\|gephi lite]], [[projects & tools/tools/lab/graphext\|graphext]], [[projects & tools/tools/lab/yworks\|yworks]]...
 
@@ -344,7 +344,7 @@ enterprise:
 - [[cluster mapping\|cluster mapping]]: cohere.ai (see: https://x.com/Saboo_Shubham_/status/1601250351121944576)
 ###### tier 2:
 
-[[neo4J\|neo4J]], [[d3.js\|d3.js]], [[infranodus\|infranodus]], [[projects & tools/tools/lab/metamaps\|metamaps]] ([[projects & tools/tools/design/kumu\|kumu]]-like), [[projects & tools/tools/lab/datasette\|datasette]]
+[[neo4J\|neo4J]], [[d3.js\|d3.js]], [[projects & tools/tools/lab/infranodus\|infranodus]], [[projects & tools/tools/lab/metamaps\|metamaps]] ([[projects & tools/tools/design/kumu\|kumu]]-like), [[projects & tools/tools/lab/datasette\|datasette]]
 
 [layer](https://beta.getlayer.xyz/) - [[geographic\|geographic]]/[[demographic\|demographic]] data only.
 
@@ -370,4 +370,4 @@ mapping is different from [[references/lab/map-making tools\|map-making tools]],
 
 datasets: 
 
-fine-tuned LLMs: [[cognicist iris\|cognicist iris]], [[initiatives, orgs & communities/alchemy/integral life\|integral life]]/[[contextdriven.ai\|contextdriven.ai]], [[models & frameworks/player/fourgames\|fourgames]]...
+fine-tuned LLMs: [[cognicist iris\|cognicist iris]], [[initiatives, orgs & communities/alchemy/integral life\|integral life]]/[[references/alchemy/contextdriven.ai\|contextdriven.ai]], [[models & frameworks/player/fourgames\|fourgames]]...

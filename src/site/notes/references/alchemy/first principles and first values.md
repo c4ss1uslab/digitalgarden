@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-07-20T21:06:39-03:00","last tended to":"2024-09-24T16:25:02-03:00","aliases":["first principles and first values - forty-two propositions on cosmoerotic humanism, the meta-crisis and the world to come"],"tags":["metacrisis","book","alchemy","metaphysics","🌱"],"relevancescore":96,"notestage":["🌱"],"created":"2024-07-20T21:06:39.300-03:00","updated":"2025-06-12T14:05:38.780-03:00","dg-publish":true,"permalink":"/references/alchemy/first-principles-and-first-values/","dgPassFrontmatter":true}
+{"created in":"2024-07-20T21:06:39-03:00","last tended to":"2024-09-24T16:25:02-03:00","aliases":["first principles and first values - forty-two propositions on cosmoerotic humanism, the meta-crisis and the world to come","FPFV"],"tags":["metacrisis","book","alchemy","metaphysics","🌱"],"relevancescore":96,"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-06-01T15:50:57.674-03:00","dg-publish":true,"permalink":"/references/alchemy/first-principles-and-first-values/","dgPassFrontmatter":true}
 ---
 
 full title: first principles and first values - forty-two propositions on cosmoerotic humanism, the meta-crisis and the world to come.

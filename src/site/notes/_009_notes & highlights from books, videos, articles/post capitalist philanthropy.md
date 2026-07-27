@@ -1,7 +1,8 @@
 ---
-{"created":"2025-02-13T10:25:04.804-03:00","updated":"2025-02-13T12:13:30.574-03:00","tags":["highlights","book","metacrisis","decolonization","regeneration","regen","regenerativeeconomics","climate","🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/009-notes-and-highlights-from-books-videos-articles/post-capitalist-philanthropy/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-22T18:30:02.183-03:00","tags":["highlights","book","metacrisis","decolonization","regen","regenerativeeconomics","climate","🌱","host","alchemy"],"dg-publish":true,"notestage":["🌱"],"permalink":"/009-notes-and-highlights-from-books-videos-articles/post-capitalist-philanthropy/","dgPassFrontmatter":true}
 ---
 
+associated with: [[people/references/host/alnoor ladha\|alnoor ladha]], [[transition resource circle\|transition resource circle]], [[initiatives, orgs & communities/regen/ma earth\|ma earth]]
 ##### context
 
 [[inequality\|inequality]]:
@@ -54,7 +55,7 @@ there are big challenges with all kinds of [[renewable energy\|renewable energy]
 > 
 > [[concepts/alchemy/epistemology\|epistemology]] - humans are masters of the material world, mediated by rational thought, in an upward march towards "[[progress\|progress]]".
 > 
-> [[ethics\|ethics]] - the pursuit of self-interest, market growth and economic maximization is the goal of individuals and society.
+> [[concepts/alchemy/ethics\|ethics]] - the pursuit of self-interest, market growth and economic maximization is the goal of individuals and society.
 > 
 > [[terms/cosmology\|cosmology]] - humans are entitled to extract and conquer the natural world and other beings.
 > 

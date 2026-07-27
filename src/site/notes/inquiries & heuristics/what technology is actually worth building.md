@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-05-06T17:36:51-03:00","last tended to":"2024-06-20T17:20:44-03:00","tags":["inquiry","🌿"],"created":"2024-05-06T17:36:51.035-03:00","updated":"2026-03-28T11:50:53.841-03:00","notestage":["🌿"],"relevancescore":98,"dg-publish":true,"readinesslevel":"30%","permalink":"/inquiries-and-heuristics/what-technology-is-actually-worth-building/","dgPassFrontmatter":true}
+{"created in":"2024-05-06T17:36:51-03:00","last tended to":"2024-06-20T17:20:44-03:00","tags":["inquiry","🌿","lab","regen","alchemy"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-11T23:15:47.792-03:00","notestage":["🌿"],"relevancescore":98,"dg-publish":true,"readinesslevel":"30%","permalink":"/inquiries-and-heuristics/what-technology-is-actually-worth-building/","dgPassFrontmatter":true}
 ---
 
 ```ad-warning
@@ -16,7 +16,7 @@ there are fundamental issues with how most tech is designed today: alienation, p
 
 if we understand the extent of the [[concepts/design/metacrisis\|metacrisis]] and how most technology today is accelerating the rate of [[concepts/design/existential risk\|existential]] and [[terms/catastrophic risk\|catastrophic risks]], it's sufficiently scary to make us question: what does [[mature\|mature]], [[concepts/alchemy/wisdom\|wise]] technology look like?
 
-there's also a lot more talk today about [[AI alignment\|AI alignment]] and [[values alignment\|values alignment]], but not much alignment amongst humans themselves on what [[concepts/alchemy/values\|values]] are, really? academic conversations on [[ethics\|ethics]] and [[topics/alchemy/metaphysics\|metaphysics]] also suffer from [[academic biases\|academic biases]], often not dialoguing with other [[_005_MOCs/025 🔷 long game/025 🗺 topics & references MOC\|fields of knowledge]], [[epistemologies\|epistemologies]], [[concepts/alchemy/ways of knowing\|ways of knowing]], [[topics/alchemy/wisdom traditions\|wisdom traditions]], etc...
+there's also a lot more talk today about [[AI alignment\|AI alignment]] and [[values alignment\|values alignment]], but not much alignment amongst humans themselves on what [[concepts/alchemy/values\|values]] are, really? academic conversations on [[concepts/alchemy/ethics\|ethics]] and [[topics/alchemy/metaphysics\|metaphysics]] also suffer from [[academic biases\|academic biases]], often not dialoguing with other [[_005_MOCs/025 🔷 long game/025 🗺 topics & references MOC\|fields of knowledge]], [[epistemologies\|epistemologies]], [[concepts/alchemy/ways of knowing\|ways of knowing]], [[topics/alchemy/wisdom traditions\|wisdom traditions]], etc...
 
 the [[_010_notes from courses, events & chats/technological metamodernism\|technological metamodernism]] course notes do a great job of introducing a few key lesser known perspectives, such as [[responses/design/axiological design\|axiological design]], powerful research on [[concepts/alchemy/values\|values]], a few philosophical cornerstones of [[responses/alchemy/metamodernism\|metamodernism]], and many resources that i'll often refer to for further understanding/navigating the dominant [[concepts/design/memetics\|memetics]]/[[narratives\|narratives]] in both mainstream and smaller tech sub-cultures (the [[_009_notes & highlights from books, videos, articles/listening society\|listening society]] book as a whole introduces essential distinctions for any technologist/designer/politician \[or any human, really], but that can be challenging to navigate).
 
@@ -30,13 +30,13 @@ finally, a couple **huge** [[blindspots\|blindspots]] not just from the tech sce
 
 ##### so, after some time exploring all that, what's worth building?
 
-for me, in short, it's: [[regenerative systems\|regenerative systems]] & tools for [[_003_L1F3/core concepts/self-management\|self-management]], [[topics/design/coordination systems\|coordination]] and [[topics/design/collaboration tools\|collaboration]] (so we can create [[concepts/alchemy/thriving\|thriving]] societies).
+for me, in short, it's: [[regenerative systems\|regenerative systems]] & tools for [[_003_L1F3/key concepts & ideas/self-management\|self-management]], [[topics/design/coordination systems\|coordination]] and [[topics/design/collaboration tools\|collaboration]] (so we can create [[concepts/alchemy/thriving\|thriving]] societies).
 
-now, the answer of what's worth building "**now***" is a lot more challenging after we've gone through the philosophical bump. for me, what's worth building "now" depends on a blend of the [[state of the world\|state of the world]] (*what's needed now*), your [[unique self\|unique self]] expression (what's *yours* to do) and [[topics/design/strategy\|strategy]]/[[situational intelligence\|situational intelligence]] (what's *feasible* now).
+now, the answer of what's worth building "**now***" is a lot more challenging after we've gone through the philosophical bump. for me, what's worth building "now" depends on a blend of the [[state of the world\|state of the world]] (*what's needed now*), your [[concepts/alchemy/unique self\|unique self]] expression (what's *yours* to do) and [[topics/design/strategy\|strategy]]/[[situational intelligence\|situational intelligence]] (what's *feasible* now).
 
 a few simple frames that orient me in this space and might also help you:
 
-- systems for more conscious [[topics/player/learning\|learning]], [[_003_L1F3/core concepts/lifestyles\|living]] and [[terms/collaboration\|collaborating]].
+- systems for more conscious [[topics/player/learning\|learning]], [[_003_L1F3/key concepts & ideas/lifestyles\|living]] and [[terms/collaboration\|collaborating]].
 - systems that extend/improve our [[models & frameworks/design/OODA loop\|OODA loop]] - i.e. our meta-cognitive processes of [[models & frameworks/design/OODA loop\|sensing, sensemaking, decision-making, action, learning]].
 
 

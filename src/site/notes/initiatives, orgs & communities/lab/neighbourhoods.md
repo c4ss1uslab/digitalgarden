@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-11-22T17:05:42-03:00","last tended to":"2024-09-24T16:05:25-03:00","tags":["organization","web3","holochain","socialoperatingsystems","socialsensemaking","🌱","open-source","metacrisis"],"dg-publish":true,"relevancescore":86,"notestage":["🌱"],"permalink":"/initiatives-orgs-and-communities/lab/neighbourhoods/","dgPassFrontmatter":true,"created":"2023-11-22T17:05:42.149-03:00","updated":"2024-09-24T16:05:25.568-03:00"}
+{"created in":"2023-11-22T17:05:42-03:00","last tended to":"2024-09-24T16:05:25-03:00","tags":["organization","web3","holochain","socialoperatingsystems","socialsensemaking","🌱","open-source","metacrisis"],"dg-publish":true,"relevancescore":86,"notestage":["🌱"],"permalink":"/initiatives-orgs-and-communities/lab/neighbourhoods/","dgPassFrontmatter":true,"created":"1969-12-31T21:00:00.000-03:00","updated":"2024-09-24T16:05:25.568-03:00"}
 ---
 
 https://neighbourhoods.network/

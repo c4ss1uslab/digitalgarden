@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-03-11T14:11:43-03:00","last tended to":"2024-09-24T16:23:28-03:00","tags":["top3","person","metacrisis","alchemy","sensemaking","architect","research","🌱"],"relevancescore":98,"dg-publish":true,"notestage":["🌱"],"created":"2022-03-11T14:11:43.148-03:00","updated":"2025-06-17T15:16:27.177-03:00","permalink":"/people/references/design/daniel-schmachtenberger/","dgPassFrontmatter":true}
+{"created in":"2022-03-11T14:11:43-03:00","last tended to":"2024-09-24T16:23:28-03:00","tags":["top3","person","metacrisis","alchemy","sensemaking","architect","research","🌱"],"relevancescore":98,"dg-publish":true,"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-06-17T15:16:27.177-03:00","permalink":"/people/references/design/daniel-schmachtenberger/","dgPassFrontmatter":true}
 ---
 
 #### about
@@ -15,7 +15,7 @@ personal website: https://civilizationemerging.com/
 
 **articles:** all of the articles (8) available on [his website](https://civilizationemerging.com/articles/social/) are amazing, although dense. i recommend starting (counterintuitively) with the [New Economic Series: Part 4](https://civilizationemerging.com/new-economics-series-4/) for a big picture view of what he's about.
 
-**key terms:** [[_003_L1F3/core concepts/civilization design\|civilization design]], [[systemic transition\|systemic transition]], [[concepts/alchemy/wisdom\|wisdom development]], [[topics/design/commons management\|commons management]], [[concepts/design/systems design\|systems design]], [[design constraints\|design constraints]], [[concepts/alchemy/sensemaking\|sensemaking]], [[topics/design/strategy\|strategy]], [[concepts/design/existential risk\|existential risk]], [[topics/design/regeneration\|regeneration]], [[concepts/alchemy/integral development\|integral development]], [[topics/design/technology\|technology]], (...)
+**key terms:** [[_003_L1F3/key concepts & ideas/civilization design\|civilization design]], [[systemic transition\|systemic transition]], [[concepts/alchemy/wisdom\|wisdom development]], [[topics/design/commons management\|commons management]], [[concepts/design/systems design\|systems design]], [[design constraints\|design constraints]], [[concepts/alchemy/sensemaking\|sensemaking]], [[topics/design/strategy\|strategy]], [[concepts/design/existential risk\|existential risk]], [[topics/design/regeneration\|regeneration]], [[concepts/alchemy/integral development\|integral development]], [[topics/design/technology\|technology]], (...)
 
 **glossary:** [[models & frameworks/design/holistic cultural materialism\|holistic cultural materialism]], [[tragedy of the commons\|tragedy of the commons]], [[arms-race\|arms-race]] / [[race to the bottom\|race to the bottom]], [[topics/player/game theory\|game-theoretical]] [[incentives\|incentives]] & [[deterrents\|deterrents]], [[diagnosis/jevons paradox\|jevons paradox]], [[concepts/design/kleiber's law\|kleiber's law]], (...)
 

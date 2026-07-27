@@ -1,5 +1,5 @@
 ---
-{"created in":"2021-12-11T16:52:02-03:00","last tended to":"2024-10-20T23:48:06-03:00","tags":["topic","art","music","🌱"],"dg-publish":true,"notestage":["🌱"],"aliases":["music"],"created":"2021-12-11T16:52:02.160-03:00","updated":"2024-12-27T16:34:15.037-03:00","permalink":"/topics/art/music-moc/","dgPassFrontmatter":true}
+{"created in":"2021-12-11T16:52:02-03:00","last tended to":"2024-10-20T23:48:06-03:00","tags":["topic","art","music","🌱"],"dg-publish":true,"notestage":["🌱"],"aliases":["music"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2024-12-27T16:34:15.037-03:00","permalink":"/topics/art/music-moc/","dgPassFrontmatter":true}
 ---
 
 #### resources

@@ -1,12 +1,12 @@
 ---
-{"created in":"2024-08-23T20:38:47-03:00","last tended to":"2024-09-26T15:20:48-03:00","tags":["l1f3","project","🌿"],"dg-publish":true,"relevancescore":97,"notestage":["🌿"],"aliases":["L1F3 theory of change","L1F3 101","L1F3 intro","L1F3 projects"],"created":"2024-08-23T20:38:47.282-03:00","updated":"2025-07-08T19:26:36.021-03:00","readinesslevel":"20%","permalink":"/003-l1-f3/l1-f3-support-systems/","dgPassFrontmatter":true}
+{"created in":"2024-08-23T20:38:47-03:00","last tended to":"2024-09-26T15:20:48-03:00","tags":["l1f3","project","🌿"],"dg-publish":true,"relevancescore":97,"notestage":["🌿"],"aliases":["L1F3 theory of change","L1F3 101","L1F3 intro","L1F3 projects"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-07-08T19:26:36.021-03:00","readinesslevel":"20%","permalink":"/003-l1-f3/l1-f3-support-systems/","dgPassFrontmatter":true}
 ---
 
 ### definition
 
 the way i use the term "life support system" is: *"any crucial system(s) within a habitat that are responsible for maintaining the survival of a certain species"*.
 
-if we apply that for humans, there are many [[terms/natural systems\|natural]] and [[built systems\|built systems]] on [[terms/earth\|earth]] that support our life on this planet.
+if we apply that for humans, there are many [[terms/natural systems\|natural]] and [[topics/design/built systems\|built systems]] on [[terms/earth\|earth]] that support our life on this planet.
 
 differently, a "L1F3 support system" is: *"any crucial system(s) within a habitat that are responsible for supporting the [[concepts/alchemy/thriving\|thriving]] of a certain species"*. so they both [[transcend and include\|transcend and include]] all systems that are responsible for maintaining our survival.
 

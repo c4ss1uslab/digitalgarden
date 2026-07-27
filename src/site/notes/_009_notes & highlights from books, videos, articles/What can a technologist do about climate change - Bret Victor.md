@@ -1,5 +1,5 @@
 ---
-{"created":"2024-11-08T01:04:13.316-03:00","updated":"2025-06-11T15:51:28.699-03:00","tags":["highlights","technology","design","climate","essay","resource"],"dg-publish":true,"permalink":"/009-notes-and-highlights-from-books-videos-articles/what-can-a-technologist-do-about-climate-change-bret-victor/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-06-11T15:51:28.699-03:00","tags":["highlights","technology","design","climate","essay","resource"],"dg-publish":true,"permalink":"/009-notes-and-highlights-from-books-videos-articles/what-can-a-technologist-do-about-climate-change-bret-victor/","dgPassFrontmatter":true}
 ---
 
 original article: https://worrydream.com/ClimateChange/

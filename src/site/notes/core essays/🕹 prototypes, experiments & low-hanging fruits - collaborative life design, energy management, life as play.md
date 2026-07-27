@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-12-12T12:06:45-03:00","last tended to":"2024-09-16T15:26:24-03:00","dg-publish":true,"aliases":["🕹 energy management, life as play"],"created":"2023-12-12T12:06:45.872-03:00","updated":"2024-11-19T17:36:21.583-03:00","permalink":"/core-essays/prototypes-experiments-and-low-hanging-fruits-collaborative-life-design-energy-management-life-as-play/","dgPassFrontmatter":true}
+{"created in":"2023-12-12T12:06:45-03:00","last tended to":"2024-09-16T15:26:24-03:00","dg-publish":true,"aliases":["🕹 energy management, life as play"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-11T23:09:44.250-03:00","tags":["c4ss1us","essay"],"permalink":"/core-essays/prototypes-experiments-and-low-hanging-fruits-collaborative-life-design-energy-management-life-as-play/","dgPassFrontmatter":true}
 ---
 
 draft link: https://medium.com/@cassiuscarvalho/life-as-play-collaborative-life-wisdom-ontological-design-as-a-revolutionary-practice-291959d935e5
@@ -75,7 +75,7 @@ thankfully with the popularization of therapies and access to other forms of per
 
 a few communities that practice this in some way:
 - quantified self / biohacking [health / energy]
-- productivity/organization ([[tbprocessed/base notes/tools;products - general/notion\|notion]] / [[rize\|rize]]) -> [[topics/lab/personal knowledge management\|PKM]]/[[responses/lab/tools for thought\|TfT]] ([[projects & tools/tools/lab/obsidian\|obsidian]] / [[infranodus\|infranodus]]) [[time management\|time management]] / [[topics/lab/personal knowledge management\|personal knowledge management]]
+- productivity/organization ([[tbprocessed/base notes/tools;products - general/notion\|notion]] / [[rize\|rize]]) -> [[topics/lab/personal knowledge management\|PKM]]/[[responses/lab/tools for thought\|TfT]] ([[projects & tools/tools/lab/obsidian\|obsidian]] / [[projects & tools/tools/lab/infranodus\|infranodus]]) [[time management\|time management]] / [[topics/lab/personal knowledge management\|personal knowledge management]]
 - chatGPT code interpreter [personal data analysis, sensemaking] / discovery algorithms/newsletters/follows [curadoria]
 - emotional / spiritual ([[heartmath\|heartmath]], PM practices, integral dashboard, coaching)
 

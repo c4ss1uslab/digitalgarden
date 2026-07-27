@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-07-21T19:09:57-03:00","last tended to":"2024-10-13T00:32:52-03:00","tags":["music","artist","post-rock"],"dg-publish":true,"permalink":"/references/music/artists/those-who-ride-with-giants/","dgPassFrontmatter":true,"created":"2022-07-21T19:09:57.852-03:00","updated":"2024-10-13T00:32:52.892-03:00"}
+{"created in":"2022-07-21T19:09:57-03:00","last tended to":"2024-10-13T00:32:52-03:00","tags":["music","artist","post-rock"],"dg-publish":true,"permalink":"/references/music/artists/those-who-ride-with-giants/","dgPassFrontmatter":true,"created":"1969-12-31T21:00:00.000-03:00","updated":"2024-10-13T00:32:52.892-03:00"}
 ---
 
 as of october 12th, 2024, they're my #4 most listened artist of all-time with 1,379 plays, as tracked on [[projects & tools/tools/music/last.fm\|last.fm]].

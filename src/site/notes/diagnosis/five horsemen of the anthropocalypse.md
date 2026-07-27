@@ -1,5 +1,5 @@
 ---
-{"created":"2025-03-25T15:55:17.091-03:00","updated":"2025-03-25T16:14:46.744-03:00","dg-publish":true,"notestage":["🌿"],"tags":["design","framework","ecology","energy","politics","sensemaking","sociology","metacrisis","🌿"],"permalink":"/diagnosis/five-horsemen-of-the-anthropocalypse/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-03-25T16:14:46.744-03:00","dg-publish":true,"notestage":["🌿"],"tags":["design","framework","ecology","energy","politics","sensemaking","sociology","metacrisis","🌿"],"permalink":"/diagnosis/five-horsemen-of-the-anthropocalypse/","dgPassFrontmatter":true}
 ---
 
 ![](https://i.imgur.com/vcnd6Yx.jpeg)

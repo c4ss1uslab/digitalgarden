@@ -1,5 +1,5 @@
 ---
-{"created":"2024-11-21T14:06:39.538-03:00","updated":"2025-05-14T19:55:46.148-03:00","tags":["person","design","metacrisis","🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/people/references/design/ashley-hodgson/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-05-14T19:55:46.148-03:00","tags":["person","design","metacrisis","🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/people/references/design/ashley-hodgson/","dgPassFrontmatter":true}
 ---
 
 she's a behavioral economics professor and creator of the youtube channel "[The New Enlightenment with Ashley](https://www.youtube.com/@thenewenlightenmentwithash8465)".

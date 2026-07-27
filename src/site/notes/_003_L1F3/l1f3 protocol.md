@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-03-08T16:43:32-03:00","last tended to":"2024-09-24T16:28:51-03:00","aliases":["L1F3 protocol","l1f3.protocol","L1F3.protocol","an open-source, distributed, modular, interoperable protocol for playing life - individually and together"],"tags":["project","l1f3","🌱"],"dg-publish":true,"notestage":["🌱"],"created":"2024-03-08T16:43:32.601-03:00","updated":"2024-12-11T17:32:10.892-03:00","relevancescore":96,"permalink":"/003-l1-f3/l1f3-protocol/","dgPassFrontmatter":true}
+{"created in":"2024-03-08T16:43:32-03:00","last tended to":"2024-09-24T16:28:51-03:00","aliases":["L1F3 protocol","l1f3.protocol","L1F3.protocol","an open-source, distributed, modular, interoperable protocol for playing life - individually and together"],"tags":["project","l1f3","🌱"],"dg-publish":true,"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2024-12-11T17:32:10.892-03:00","relevancescore":96,"permalink":"/003-l1-f3/l1f3-protocol/","dgPassFrontmatter":true}
 ---
 
 the L1F3 protocol is an open-source, distributed, modular, interoperable protocol for [[topics/player/play\|playing]] life - individually and together - under early/active design.

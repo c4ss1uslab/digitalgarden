@@ -1,5 +1,5 @@
 ---
-{"created":"2024-11-19T16:36:29.274-03:00","updated":"2025-04-05T14:36:57.555-03:00","tags":["concept","alchemy","design","🌱"],"relevancescore":98,"notestage":["🌱"],"dg-publish":true,"permalink":"/concepts/alchemy/needs/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-04-05T14:36:57.555-03:00","tags":["concept","alchemy","design","🌱"],"relevancescore":98,"notestage":["🌱"],"dg-publish":true,"permalink":"/concepts/alchemy/needs/","dgPassFrontmatter":true}
 ---
 
 1) [manfred max-neef on fundamental human needs](https://en.wikipedia.org/wiki/Manfred_Max-Neef%27s_Fundamental_human_needs)
@@ -24,6 +24,6 @@
 
 3) [[richard barrett\|richard barrett]]'s [[models & frameworks/alchemy/barrett model\|barrett model]]
 
-4) [[marc gafni\|marc gafni]]'s [[beyond maslow - the eight core needs of cosmoerotic humanism\|beyond maslow - the eight core needs of cosmoerotic humanism]]
+4) [[marc gafni\|marc gafni]]'s [[references/alchemy/beyond maslow - the eight core needs of cosmoerotic humanism\|beyond maslow - the eight core needs of cosmoerotic humanism]]
 
 see also: [[offers and needs market\|offers and needs market]] by [[post-growth institute\|post-growth institute]].

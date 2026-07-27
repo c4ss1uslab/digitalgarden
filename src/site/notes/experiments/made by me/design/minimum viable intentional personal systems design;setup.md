@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-03-24T12:57:53-03:00","last tended to":"2024-10-12T18:40:04-03:00","aliases":["minimum viable intentional personal operations setup","personal systems setup","intentional personal systems setup","minimum viable intentional personal systems design","personal systems design","intentional personal systems design","🕸 minimum viable intentional personal systems design;setup"],"tags":["experiment","design","player","lab","alchemy","🌱","inquiry"],"dg-publish":true,"notestage":["🌱"],"created":"2022-03-24T12:57:53.053-03:00","updated":"2025-05-14T20:09:20.294-03:00","relevancescore":96,"permalink":"/experiments/made-by-me/design/minimum-viable-intentional-personal-systems-design-setup/","dgPassFrontmatter":true}
+{"created in":"2022-03-24T12:57:53-03:00","last tended to":"2024-10-12T18:40:04-03:00","aliases":["minimum viable intentional personal operations setup","personal systems setup","intentional personal systems setup","minimum viable intentional personal systems design","personal systems design","intentional personal systems design","🕸 minimum viable intentional personal systems design;setup"],"tags":["experiment","design","player","lab","alchemy","🌱","inquiry"],"dg-publish":true,"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-05-14T20:09:20.294-03:00","relevancescore":96,"permalink":"/experiments/made-by-me/design/minimum-viable-intentional-personal-systems-design-setup/","dgPassFrontmatter":true}
 ---
 
 > [!abstract] related notes:
@@ -23,7 +23,7 @@ as i gather/develop perspectives and resources, the idea of the [[_005_MOCs/050 
 ---
 #### intro
 
-when we're talking about [[_003_L1F3/core concepts/self-transformation\|self-transformation]], [[_003_L1F3/core concepts/life design\|life design]] and [[_003_L1F3/core concepts/civilization design\|civilization design]], the systems we're embedded in are like the water we swim in. a few lenses just to get an introduction to it:
+when we're talking about [[_003_L1F3/key concepts & ideas/self-transformation\|self-transformation]], [[_003_L1F3/key concepts & ideas/life design\|life design]] and [[_003_L1F3/key concepts & ideas/civilization design\|civilization design]], the systems we're embedded in are like the water we swim in. a few lenses just to get an introduction to it:
 
 although not solely focused on a "systems" language, [[topics/design/ontological design\|ontological design]] and [[models & frameworks/player/fourgames\|fourgames]] provide good introductions to it the main areas/systems pervading one's life, from an individual's perspective.
 
@@ -44,7 +44,7 @@ my loose ontology:
 
 [[projects & tools/projects/lab/subconscious (tool)\|subconscious (tool)]]/[[noosphere\|noosphere]] (-> https://utopia.rosano.ca/interoperable-visions / https://beepb00p.xyz/sad-infra.html) - there are 2 approaches:
 
-these are basically more advanced [[_003_L1F3/core concepts/life management\|life management]] (and sometimes - [[topics/lab/quantified self\|quantified self]]) setups, going beyond what most advanced [[topics/lab/personal knowledge management\|PKM]] practitioners do, but still mostly concerned with [[topics/lab/personal data management\|personal data management]], and not necessarily [[_003_L1F3/core concepts/life design\|regenerative life]] / [[concepts/design/systems design\|systems design]].
+these are basically more advanced [[_003_L1F3/key concepts & ideas/life management\|life management]] (and sometimes - [[topics/lab/quantified self\|quantified self]]) setups, going beyond what most advanced [[topics/lab/personal knowledge management\|PKM]] practitioners do, but still mostly concerned with [[topics/lab/personal data management\|personal data management]], and not necessarily [[_003_L1F3/key concepts & ideas/life design\|regenerative life]] / [[concepts/design/systems design\|systems design]].
 
 (...)
 

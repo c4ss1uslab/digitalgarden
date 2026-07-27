@@ -1,5 +1,5 @@
 ---
-{"created":"2024-12-11T18:04:16.699-03:00","updated":"2024-12-11T18:07:54.632-03:00","tags":["possibilitymanagement","host","alchemy","🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/projects-and-tools/tools/alchemy/possibilitator-toolkit/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2024-12-11T18:07:54.632-03:00","tags":["possibilitymanagement","host","alchemy","🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/projects-and-tools/tools/alchemy/possibilitator-toolkit/","dgPassFrontmatter":true}
 ---
 
 http://13tools.mystrikingly.com/

@@ -1,8 +1,8 @@
 ---
-{"created":"2024-12-09T19:09:22.160-03:00","updated":"2024-12-11T17:40:42.133-03:00","tags":["design","sociology","concept","🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/concepts/design/modernity/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-13T21:57:29.162-03:00","tags":["design","sociology","concept","🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/concepts/design/modernity/","dgPassFrontmatter":true}
 ---
 
-[[people/references/regen/vanessa andreotti\|vanessa andreotti]]'s framing:
+[[people/references/regen/vanessa machado de oliveira\|vanessa machado de oliveira]]'s framing:
 
 > I have tried to map the dynamic play of stories about modernity that circulate in academic contexts. Some of the stories defend and others critique modernity. I introduce the term modernity/coloniality and also draw attention to some peculiar characteristics of modernity.
 > 

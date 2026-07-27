@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-07-26T15:29:17-03:00","last tended to":"2024-06-22T20:51:03-03:00","aliases":["sublime"],"tags":["organization","curation","sensemaking","tool","knowledgemanagement","knowledgedesign","🌿"],"relevancescore":88,"created":"2023-07-26T15:29:17.524-03:00","updated":"2025-01-10T17:06:05.323-03:00","dg-publish":true,"notestage":["🌿"],"permalink":"/initiatives-orgs-and-communities/design/sublime-ex-startupy/","dgPassFrontmatter":true}
+{"created in":"2023-07-26T15:29:17-03:00","last tended to":"2024-06-22T20:51:03-03:00","aliases":["sublime"],"tags":["organization","curation","sensemaking","tool","knowledgemanagement","knowledgedesign","🌿","design"],"relevancescore":88,"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-11T23:13:54.462-03:00","dg-publish":true,"notestage":["🌿"],"permalink":"/initiatives-orgs-and-communities/design/sublime-ex-startupy/","dgPassFrontmatter":true}
 ---
 
 https://sublime.app/ - founded by [[people/references/design/sari azout\|sari azout]]

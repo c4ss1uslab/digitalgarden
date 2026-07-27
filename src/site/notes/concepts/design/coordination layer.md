@@ -1,5 +1,5 @@
 ---
-{"created":"2024-11-29T21:47:41.901-03:00","updated":"2025-06-24T17:14:44.119-03:00","tags":["concept","design","🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/concepts/design/coordination-layer/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-06-24T17:14:44.119-03:00","tags":["concept","design","🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/concepts/design/coordination-layer/","dgPassFrontmatter":true}
 ---
 
 a coordination layer for the web:

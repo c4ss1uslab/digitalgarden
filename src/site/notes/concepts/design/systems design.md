@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-04-01T18:54:12-03:00","last tended to":"2024-06-22T19:31:30-03:00","aliases":["regenerative systems design"],"tags":["systemsscience","design","concept","🌱"],"created":"2024-04-01T18:54:12.799-03:00","updated":"2025-06-11T16:18:09.448-03:00","relevancescore":96,"notestage":["🌱"],"dg-publish":true,"permalink":"/concepts/design/systems-design/","dgPassFrontmatter":true}
+{"created in":"2024-04-01T18:54:12-03:00","last tended to":"2024-06-22T19:31:30-03:00","aliases":["regenerative systems design"],"tags":["systemsscience","design","concept","🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-06-11T16:18:09.448-03:00","relevancescore":96,"notestage":["🌱"],"dg-publish":true,"permalink":"/concepts/design/systems-design/","dgPassFrontmatter":true}
 ---
 
 when we talk about systems design, the awesome folks at [[initiatives, orgs & communities/design/the consilience project\|the consilience project]] already talk at length about how all design is actually [[responses/design/axiological design\|values-driven]]. some sciences like [[topics/design/systems science\|systems science]], [[complexity science\|complexity science]], [[topics/lab/cybernetics\|cybernetics]], [[concepts/regen/biomimicry\|biomimicry]], among others, research how to design in accordance with the properties and ethics of living/complex systems.
@@ -8,7 +8,7 @@ however, besides these attempts at understanding systems from different lenses a
 
 > what are the foundational systems we're embedded in, as individuals and as civilizations?
 
-i'd love to find/develop a [[taxonomy\|taxonomy]] of major systems within say, the [[concepts/design/superstructure\|superstructure]], [[social structure\|social structure]], [[concepts/design/infrastructure\|infrastructure]] frame, proposed by [[people/references/design/marvin harris\|marvin harris]]/[[people/references/design/daniel schmachtenberger\|daniel schmachtenberger]] (and further [[models & frameworks/design/holistic cultural materialism\|built upon]] by [[people/references/design/andrea farias\|andrea farias]]).
+i'd love to find/develop a [[taxonomy\|taxonomy]] of major systems within say, the [[concepts/design/superstructure\|superstructure]], [[topics/design/social structure\|social structure]], [[concepts/design/infrastructure\|infrastructure]] frame, proposed by [[people/references/design/marvin harris\|marvin harris]]/[[people/references/design/daniel schmachtenberger\|daniel schmachtenberger]] (and further [[models & frameworks/design/holistic cultural materialism\|built upon]] by [[people/references/design/andrea farias\|andrea farias]]).
 
 a few initiatives that work on [[topics/design/systems change\|systems transformation]] seem more geared towards a few:
 

@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-08-18T22:18:23-03:00","last tended to":"2024-08-28T14:46:40-03:00","tags":["framework","metadesign","design","🌱"],"created":"2024-08-18T22:18:23.840-03:00","updated":"2025-06-11T15:52:21.593-03:00","notestage":["🌱"],"dg-publish":true,"permalink":"/models-and-frameworks/design/metadesign/","dgPassFrontmatter":true}
+{"created in":"2024-08-18T22:18:23-03:00","last tended to":"2024-08-28T14:46:40-03:00","tags":["framework","metadesign","design","🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-06-11T15:52:21.593-03:00","notestage":["🌱"],"dg-publish":true,"permalink":"/models-and-frameworks/design/metadesign/","dgPassFrontmatter":true}
 ---
 
 ```ad-tip
@@ -35,7 +35,7 @@ examples/applications of metadesign in my own work: [[patterns/active patterns/k
 
 the term has different applications and methodologies, the one i'm currently learning more about (and which seems the most structured and tested from all of them) is an approach developed by [[people/references/design/caio vassão\|caio vassão]] for designing [[concepts/design/complex systems\|complex systems]] (in portuguese).
 
-other notable researchers/approaches are: [[john wood\|john wood]], [[gehrard fischer\|gehrard fischer]], [[people/references/design/carlo franzato\|carlo franzato]].
+other notable researchers/approaches are: [[people/references/design/john wood\|john wood]], [[people/references/design/gehrard fischer\|gehrard fischer]], [[people/references/design/carlo franzato\|carlo franzato]].
 
 ##### introductory articles:
 

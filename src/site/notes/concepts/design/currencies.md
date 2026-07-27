@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-03-29T21:36:44-03:00","last tended to":"2024-09-24T16:23:13-03:00","tags":["concept","🌱"],"dg-publish":true,"notestage":["🌱"],"created":"2024-03-29T21:36:44.051-03:00","updated":"2025-01-24T16:49:51.311-03:00","permalink":"/concepts/design/currencies/","dgPassFrontmatter":true}
+{"created in":"2024-03-29T21:36:44-03:00","last tended to":"2024-09-24T16:23:13-03:00","tags":["concept","🌱"],"dg-publish":true,"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-01-24T16:49:51.311-03:00","permalink":"/concepts/design/currencies/","dgPassFrontmatter":true}
 ---
 
 the [[initiatives, orgs & communities/design/metacurrency project\|metacurrency project]] proposes viewing the term currencies as "**current-sees**" - i.e. essentially, flows of value.

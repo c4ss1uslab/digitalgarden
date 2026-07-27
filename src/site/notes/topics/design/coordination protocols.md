@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-03-19T17:31:27-03:00","last tended to":"2024-09-07T20:47:35-03:00","aliases":["protocols","protocol"],"tags":["design","🌱","topic"],"created":"2024-03-19T17:31:27.459-03:00","updated":"2024-12-03T16:12:39.953-03:00","dg-publish":true,"permalink":"/topics/design/coordination-protocols/","dgPassFrontmatter":true}
+{"created in":"2024-03-19T17:31:27-03:00","last tended to":"2024-09-07T20:47:35-03:00","aliases":["protocols","protocol"],"tags":["design","🌱","topic"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2024-12-03T16:12:39.953-03:00","dg-publish":true,"permalink":"/topics/design/coordination-protocols/","dgPassFrontmatter":true}
 ---
 
 related: [[topics/design/coordination systems\|coordination systems]], [[concepts/design/coordination frameworks\|coordination frameworks]], [[concepts/design/coordination mechanisms\|coordination mechanisms]]

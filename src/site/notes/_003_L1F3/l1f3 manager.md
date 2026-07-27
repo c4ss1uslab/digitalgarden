@@ -1,8 +1,8 @@
 ---
-{"created":"2024-12-03T16:35:39.304-03:00","updated":"2025-01-10T16:01:37.729-03:00","tags":["l1f3","prototype","lab","alchemy","🌿"],"dg-publish":true,"relevancescore":86,"notestage":["🌿"],"permalink":"/003-l1-f3/l1f3-manager/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-26T13:50:21.163-03:00","tags":["l1f3","prototype","lab","alchemy","🌿"],"dg-publish":true,"relevancescore":86,"notestage":["🌿"],"permalink":"/003-l1-f3/l1f3-manager/","dgPassFrontmatter":true}
 ---
 
-the l1f3 manager is a [[_005_MOCs/050 🟩 mid game/070 🔩 prototypes MOC\|prototype]] built by [[people/friends/ísis schuarts\|ísis schuarts]] which aimed to be the technological basis of [[_003_L1F3/core concepts/self-management\|self]] and [[topics/lab/personal data management\|personal data management]] within the [[_003_L1F3/l1f3 game\|L1F3 game]].
+the l1f3 manager is a [[_005_MOCs/050 🟩 mid game/070 🔩 prototypes MOC\|prototype]] built by [[people/friends/bruno schuarts\|bruno schuarts]] which aimed to be the technological basis of [[_003_L1F3/key concepts & ideas/self-management\|self]] and [[topics/lab/personal data management\|personal data management]] within the [[_003_L1F3/l1f3 game\|L1F3 game]].
 
 most of the content on it is in portuguese, but i'll share it below with annotations so you can grasp the essence of it.
 
@@ -14,7 +14,7 @@ for me, it's easier to think of it as the [[models & frameworks/design/OODA loop
 
 it also acts on 4 dimensions - [[physical body\|physical body]], [[mind\|mind]], [[soul\|soul]] and [[concepts/alchemy/spirit\|spirit]]. she works with a few specific spiritual perspectives that i don't fully resonate with, so i also prefer to use the [[models & frameworks/alchemy/5 bodies\|5 bodies]] framework - [[life management/life areas (internal)/physical\|physical]], [[life management/life areas (internal)/intellectual\|intellectual]], [[life management/life areas (internal)/emotional\|emotional]], [[life management/life areas (internal)/energetic\|energetic]] and [[life management/life areas (internal)/archetypal\|archetypal]]. 
 
-in her framework/prototype, there are 6 dimensions of [[_003_L1F3/core concepts/life management\|life management]]: [[time management\|time management]], [[energy management\|energy management]], [[emotional management\|emotional management]], [[activities management\|activities management]], [[needs management\|needs management]] and [[life timeline management\|life timeline management]].
+in her framework/prototype, there are 6 dimensions of [[_003_L1F3/key concepts & ideas/life management\|life management]]: [[time management\|time management]], [[topics/alchemy/personal energy management\|personal energy management]], [[emotional management\|emotional management]], [[activities management\|activities management]], [[needs management\|needs management]] and [[life timeline management\|life timeline management]].
 
 ![](https://i.imgur.com/ht8Mrlp.png)
 
@@ -22,7 +22,7 @@ in her framework/prototype, there are 6 dimensions of [[_003_L1F3/core concepts/
 
 she introduces these at the [adam kadmon instute playbook](https://adamkadmon-institute.my.canva.site/playbook) (beta website).
 
-below is an example of a [[_003_L1F3/core concepts/life management\|life management]] view in practice, focused on one's [[field of view\|field of view]], clarifying and matching [[_005_MOCs/075 🔴🟠🟡 short game/099 📆 activities MOC\|activities]] & [[_006_toolkit/daily/time blocks\|time blocks]]:
+below is an example of a [[_003_L1F3/key concepts & ideas/life management\|life management]] view in practice, focused on one's [[field of view\|field of view]], clarifying and matching [[_005_MOCs/075 🔴🟠🟡 short game/099 📆 activities MOC\|activities]] & [[_006_toolkit/daily/time blocks\|time blocks]]:
 
 ![](https://i.imgur.com/A3TXe1J.png)
 

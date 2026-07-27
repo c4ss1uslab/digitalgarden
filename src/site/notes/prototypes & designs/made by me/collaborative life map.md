@@ -1,5 +1,5 @@
 ---
-{"aliases":["🗺 life map","life map","🗺 collaborative life map","life mapping","mapping life"],"created in":"2021-12-11T16:51:55-03:00","last tended to":"2023-12-24T16:56:26-03:00","created":"2021-12-11T16:51:55.469-03:00","updated":"2025-06-24T17:14:45.409-03:00","tags":["prototype","🌱","design","mapping","research","curation","sensemaking","socialsensemaking"],"notestage":["🌱"],"dg-publish":true,"relevancescore":96,"permalink":"/prototypes-and-designs/made-by-me/collaborative-life-map/","dgPassFrontmatter":true}
+{"aliases":["🗺 life map","life map","🗺 collaborative life map","life mapping","mapping life"],"created in":"2021-12-11T16:51:55-03:00","last tended to":"2023-12-24T16:56:26-03:00","created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-13T21:38:02.826-03:00","tags":["prototype","🌱","design","mapping","research","curation","sensemaking","socialsensemaking","l1f3"],"notestage":["🌱"],"dg-publish":true,"relevancescore":96,"permalink":"/prototypes-and-designs/made-by-me/collaborative-life-map/","dgPassFrontmatter":true}
 ---
 
 related: [[_003_L1F3/l1f3 management ontology\|l1f3 management ontology]]
@@ -35,7 +35,7 @@ perspective 4: [[_002_core notes/theories of change\|theories of change]]
 ----
 ##### references
 
-[[connected papers\|connected papers]]
+[[topics/design/connected papers\|connected papers]]
 [[projects & tools/tools/lab/litmaps\|litmaps]]
 [[projects & tools/tools/lab/open knowledge maps\|open knowledge maps]]
 [[initiatives, orgs & communities/design/the society library\|the society library]]

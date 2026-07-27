@@ -1,5 +1,5 @@
 ---
-{"aliases":["BASB","second brain","2nd brain","second brains","2nd brains"],"created in":"2021-12-11T16:52:04-03:00","last tended to":"2024-08-22T14:35:36-03:00","tags":["concept","methodology","lab","knowledgemanagement","patterns","🌱"],"created":"2021-12-11T16:52:04.063-03:00","updated":"2025-04-05T14:55:05.271-03:00","dg-publish":true,"permalink":"/patterns/active-patterns/knowledge-management/building-a-second-brain/","dgPassFrontmatter":true}
+{"aliases":["BASB","second brain","2nd brain","second brains","2nd brains"],"created in":"2021-12-11T16:52:04-03:00","last tended to":"2024-08-22T14:35:36-03:00","tags":["concept","methodology","lab","knowledgemanagement","patterns","🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-04-05T14:55:05.271-03:00","dg-publish":true,"permalink":"/patterns/active-patterns/knowledge-management/building-a-second-brain/","dgPassFrontmatter":true}
 ---
 
 https://buildingasecondbrain.com/

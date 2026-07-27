@@ -1,5 +1,5 @@
 ---
-{"aliases":["life streaming system","🌫 l1f3 streaming system","🌫 life streaming system","🌫 LSS","L1F3 streaming system"],"created in":"2022-02-05T11:38:47-03:00","last tended to":"2024-10-12T18:47:47-03:00","tags":["project","l1f3","🌱"],"dg-publish":true,"notestage":["🌱"],"created":"2022-02-05T11:38:47.503-03:00","updated":"2025-06-12T14:55:42.091-03:00","readinesslevel":"20%","permalink":"/003-l1-f3/l1f3-streaming-system/","dgPassFrontmatter":true}
+{"aliases":["life streaming system","🌫 l1f3 streaming system","🌫 life streaming system","🌫 LSS","L1F3 streaming system"],"created in":"2022-02-05T11:38:47-03:00","last tended to":"2024-10-12T18:47:47-03:00","tags":["project","l1f3","🌱"],"dg-publish":true,"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-06-11T18:29:16.427-03:00","readinesslevel":"20%","permalink":"/003-l1-f3/l1f3-streaming-system/","dgPassFrontmatter":true}
 ---
 
 main archetypes: [[_006_toolkit/classes/artist\|🎨 artist]], [[_004_c4ss1us/c4ss1us.design\|✒ architect]]
@@ -36,7 +36,7 @@ that's what this project is all about.
 
 
 ![life manager-life streaming flow.jpeg](/img/user/images/models%20&%20frameworks/life%20manager-life%20streaming%20flow.jpeg)
-source: [[people/friends/ísis schuarts\|ísis schuarts]]
+source: [[people/friends/bruno schuarts\|bruno schuarts]]
 
 #### development:
 

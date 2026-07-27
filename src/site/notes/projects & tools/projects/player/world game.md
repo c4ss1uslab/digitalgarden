@@ -1,8 +1,8 @@
 ---
-{"created in":"2024-01-19T16:20:09-03:00","last tended to":"2024-09-29T15:28:32-03:00","aliases":["world peace game","great logistics game","world (peace) game"],"tags":["seriousgame","education","architect","🌿","player"],"dg-publish":true,"relevancescore":96,"notestage":["🌿"],"created":"2024-01-19T16:20:09.956-03:00","updated":"2025-05-28T18:02:57.835-03:00","permalink":"/projects-and-tools/projects/player/world-game/","dgPassFrontmatter":true}
+{"created in":"2024-01-19T16:20:09-03:00","last tended to":"2024-09-29T15:28:32-03:00","aliases":["world peace game","great logistics game","world (peace) game"],"tags":["seriousgame","education","architect","🌿","player"],"dg-publish":true,"relevancescore":96,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-06-02T12:38:42.608-03:00","permalink":"/projects-and-tools/projects/player/world-game/","dgPassFrontmatter":true}
 ---
 
-the world game was proposed by [[buckminster fuller\|buckminster fuller]] in the 1960s, aiming to:
+the world game was proposed by [[initiatives, orgs & communities/design/buckminster fuller institute\|buckminster fuller]] in the 1960s, aiming to:
 
 > "make the world work, for 100% of humanity, in the shortest possible time, through spontaneous cooperation, without ecological offense or the disadvantage of anyone."
 { #52ca2c}
@@ -18,9 +18,9 @@ short intros:
 --> https://www.bfi.org/about-fuller/big-ideas/world-game/
 --> https://worldgameworkshop.org/brief-history
 
-it is currently being stewarded by the [[initiatives, orgs & communities/regen/schumacher center for a new economics\|schumacher center for a new economics]].
+the latest version of the game is currently being stewarded by the [[initiatives, orgs & communities/regen/schumacher center for a new economics\|schumacher center for a new economics]].
 
-it was both a workshop (finite game, [[concepts/design/magic circle\|magic circle]], a "play session") and an infinite game towards that objective, making it something extended and continually fed/played/integrated into people's lives via [[os.earth\|os.earth]].
+the game was developed as both a standalone workshop (finite game, [[concepts/design/magic circle\|magic circle]], a "play session") and an infinite game towards that objective, making it something extended and continually fed/played/integrated into people's lives via what they were developing as the [[os.earth\|os.earth]].
 
 ---
 ##### core links:
@@ -38,5 +38,8 @@ https://worldgameworkshop.org/globalpeacegame - gameplay dynamics description
 ---
 other "world games", subsequent to [[initiatives, orgs & communities/design/buckminster fuller institute\|buckminster fuller]]'s:
 
+latest version: [[new world game\|new world game]]
+https://1earthgame.org/
+[[projects & tools/projects/design/earth dashboard\|earth dashboard]]
 https://www.iffpraxis.com/world-game
 https://gaiangameworlds.mystrikingly.com/

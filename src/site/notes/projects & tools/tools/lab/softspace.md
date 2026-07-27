@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-05-04T19:13:39-03:00","last tended to":"2024-09-24T16:16:06-03:00","tags":["🌱","knowledgemanagement","XR","toolsforthought","tool"],"relevancescore":90,"aliases":["soft.space"],"notestage":["🌱"],"created":"2024-05-04T19:13:39.197-03:00","updated":"2025-01-10T15:54:07.672-03:00","dg-publish":true,"permalink":"/projects-and-tools/tools/lab/softspace/","dgPassFrontmatter":true}
+{"created in":"2024-05-04T19:13:39-03:00","last tended to":"2024-09-24T16:16:06-03:00","tags":["🌱","knowledgemanagement","XR","toolsforthought","tool"],"relevancescore":90,"aliases":["soft.space"],"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-01-10T15:54:07.672-03:00","dg-publish":true,"permalink":"/projects-and-tools/tools/lab/softspace/","dgPassFrontmatter":true}
 ---
 
 https://soft.space

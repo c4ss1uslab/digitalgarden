@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-12-03T15:03:17-03:00","last tended to":"2024-09-24T17:18:15-03:00","dg-publish":true,"aliases":["🎎 the role of curation, community & ambient content"],"tags":["essay","🌿"],"notestage":["🌿"],"created":"2023-12-03T15:03:17.203-03:00","updated":"2025-03-19T23:31:16.023-03:00","permalink":"/core-essays/networked-living-practical-tools-and-perspectives-for-empowering-collectives-amidst-accelerating-attention-and-experience-economies/","dgPassFrontmatter":true}
+{"created in":"2023-12-03T15:03:17-03:00","last tended to":"2024-09-24T17:18:15-03:00","dg-publish":true,"aliases":["🎎 the role of curation, community & ambient content"],"tags":["essay","🌿"],"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-26T13:50:21.183-03:00","permalink":"/core-essays/networked-living-practical-tools-and-perspectives-for-empowering-collectives-amidst-accelerating-attention-and-experience-economies/","dgPassFrontmatter":true}
 ---
 
 ```ad-warning
@@ -16,7 +16,7 @@ the contents of the writing below are currently haphazard, disjointed and all ov
 
 in this essay i argue that the next stage for intentional collectives is to consciously integrate the concept of [[networked living\|networked living]].
 
-we'll talk about: [[concepts/design/third spaces\|third spaces]], [[energy management\|energy management]], [[_004_c4ss1us/c4ss.host\|facilitation]]/[[community organizing tools\|community organizing tools]], [[topics/design/curation\|curation]]/[[shared brains\|shared brains]], [[communal infrastructure\|communal]]/[[digital infrastructure\|digital infrastructure]] and [[_003_L1F3/core concepts/life design\|life design]] as ways to move beyond divise patterns of interaction, towards integrating [[interdependence\|interdependence]] into people's actual [[_003_L1F3/core concepts/lifestyles\|ways of living]].
+we'll talk about: [[concepts/design/third spaces\|third spaces]], [[topics/alchemy/personal energy management\|personal energy management]], [[_004_c4ss1us/c4ss.host\|facilitation]]/[[community organizing tools\|community organizing tools]], [[topics/design/curation\|curation]]/[[shared brains\|shared brains]], [[communal infrastructure\|communal]]/[[digital infrastructure\|digital infrastructure]] and [[_003_L1F3/key concepts & ideas/life design\|life design]] as ways to move beyond divise patterns of interaction, towards integrating [[interdependence\|interdependence]] into people's actual [[_003_L1F3/key concepts & ideas/lifestyles\|ways of living]].
 
 perspectives on this page come mostly from a few different places - folks in the [[cozy web\|cozy web]]/[[indie web\|indie web]]/[[slow web\|slow web]] communities, my experience with several [[_004_c4ss1us/c4ss.host\|facilitation]] tools and practices, and in [[topics/alchemy/spirituality\|spiritual]]/[[philosophy\|philosophical]]/[[topics/design/regeneration\|regenerative]] circles...
 
@@ -66,7 +66,7 @@ just like people's contributions, availability, responsibilities in a certain pr
 
 i'm not the first to point this out, but i'm verbalizing it here since there are many emergent approaches trying to address this, but i'm yet to find a single one that goes broad and deep enough. to me, this points to this circumstance as an open field of investigation and development for many years to come.
 
-it's no surprise then that the [[_003_L1F3/L1F3 support systems\|L1F3 support systems]] i've been envisioning aim to integrate these tools/perspectives into people's daily lives and activities. and sustain them as part of a wider context - anchored on a more wholistic approach to [[concepts/design/value\|value]] and [[concepts/design/resources\|resources]] allocation (i.e. [[_003_L1F3/core concepts/life streaming\|life streaming]]). so these tools stop being siloed, cool things that you apply once at an immersion and then forget about it.
+it's no surprise then that the [[_003_L1F3/L1F3 support systems\|L1F3 support systems]] i've been envisioning aim to integrate these tools/perspectives into people's daily lives and activities. and sustain them as part of a wider context - anchored on a more wholistic approach to [[concepts/design/value\|value]] and [[concepts/design/resources\|resources]] allocation (i.e. [[_003_L1F3/key concepts & ideas/life streaming\|life streaming]]). so these tools stop being siloed, cool things that you apply once at an immersion and then forget about it.
 
 ---
 ##### x) emergent responses
@@ -104,7 +104,7 @@ but not only practice. these practices don't happen in a vacuum - what substrate
 ---
 
 
-🌀 [[concepts/design/third spaces\|third spaces]] / [[energy management\|energy management]] & [[concepts/design/resources\|resources management]] article:
+🌀 [[concepts/design/third spaces\|third spaces]] / [[topics/alchemy/personal energy management\|personal energy management]] & [[concepts/design/resources\|resources management]] article:
 
 early expressions of "[[responses/design/metamodern guilds\|metamodern guilds]]", in the direction of "[[initiatives, orgs & communities/design/nooNAO\|NAOs]]":
 - [[terms/DAOs\|DAOs]]

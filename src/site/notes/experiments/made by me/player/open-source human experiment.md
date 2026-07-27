@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-12-27T13:44:24-03:00","last tended to":"2024-09-29T14:46:50-03:00","aliases":["open-source human"],"tags":["experiment","🌿","open-source","quantifiedself","openknowledge","lifestreaming"],"dg-publish":true,"notestage":["🌿"],"created":"2023-12-27T13:44:24.897-03:00","updated":"2024-11-30T16:55:53.827-03:00","permalink":"/experiments/made-by-me/player/open-source-human-experiment/","dgPassFrontmatter":true}
+{"created in":"2023-12-27T13:44:24-03:00","last tended to":"2024-09-29T14:46:50-03:00","aliases":["open-source human"],"tags":["experiment","🌿","open-source","quantifiedself","openknowledge","lifestreaming"],"dg-publish":true,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2024-11-30T16:55:53.827-03:00","permalink":"/experiments/made-by-me/player/open-source-human-experiment/","dgPassFrontmatter":true}
 ---
 
 since 2019, i've been structuring my whole life to be open-source and streamed in real-time using the [[_003_L1F3/l1f3 streaming system\|l1f3 streaming system]].

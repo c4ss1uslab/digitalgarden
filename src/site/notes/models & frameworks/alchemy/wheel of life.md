@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-06-16T17:19:42-03:00","last tended to":"2024-06-20T17:20:38-03:00","tags":["framework","coaching","facilitation","alchemy","design","player","🌱"],"dg-publish":true,"created":"2024-06-16T17:19:42.320-03:00","updated":"2025-04-05T13:58:27.898-03:00","relevancescore":93,"notestage":["🌱"],"permalink":"/models-and-frameworks/alchemy/wheel-of-life/","dgPassFrontmatter":true}
+{"created in":"2024-06-16T17:19:42-03:00","last tended to":"2024-06-20T17:20:38-03:00","tags":["framework","coaching","facilitation","alchemy","design","player","🌱"],"dg-publish":true,"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-04-05T13:58:27.898-03:00","relevancescore":93,"notestage":["🌱"],"permalink":"/models-and-frameworks/alchemy/wheel-of-life/","dgPassFrontmatter":true}
 ---
 
 ##### about

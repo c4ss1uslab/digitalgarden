@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-06-17T21:03:16-03:00","last tended to":"2024-09-24T16:20:55-03:00","tags":["knowledgemanagement","🌱"],"notestage":["🌱"],"created":"2024-06-17T21:03:16.749-03:00","updated":"2025-06-10T18:17:39.120-03:00","dg-publish":true,"permalink":"/000-digital-garden/about-my-approach-to-knowledge-development/","dgPassFrontmatter":true}
+{"created in":"2024-06-17T21:03:16-03:00","last tended to":"2024-09-24T16:20:55-03:00","tags":["knowledgemanagement","🌱"],"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-06-10T18:17:39.120-03:00","dg-publish":true,"permalink":"/000-digital-garden/about-my-approach-to-knowledge-development/","dgPassFrontmatter":true}
 ---
 
 ```ad-warning

@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-10-25T14:37:50-03:00","last tended to":"2024-10-25T14:39:50-03:00","tags":["metacrisis","technology","design","sensemaking","🌿"],"dg-publish":true,"notestage":["🌿"],"created":"2024-10-25T14:37:50.612-03:00","updated":"2024-12-03T16:02:05.364-03:00","permalink":"/models-and-frameworks/design/layers-of-technology/","dgPassFrontmatter":true}
+{"created in":"2024-10-25T14:37:50-03:00","last tended to":"2024-10-25T14:39:50-03:00","tags":["metacrisis","technology","design","sensemaking","🌿"],"dg-publish":true,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2024-12-03T16:02:05.364-03:00","permalink":"/models-and-frameworks/design/layers-of-technology/","dgPassFrontmatter":true}
 ---
 
 adapted by [[people/references/design/andrea farias\|andrea farias]], proposed by the [[initiatives, orgs & communities/design/the consilience project\|consilience project]] on [Technology is Not Values Neutral: Ending the Reign of Nihilistic Design](https://consilienceproject.org/technology-is-not-values-neutral-ending-the-reign-of-nihilistic-design-2/).

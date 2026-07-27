@@ -1,12 +1,12 @@
 ---
-{"created in":"2024-09-07T19:07:42-03:00","last tended to":"2024-09-07T19:54:02-03:00","tags":["art","music","worldmusic","artist","brazilian","🌿"],"created":"2024-09-07T19:07:42.022-03:00","updated":"2025-07-06T20:17:33.870-03:00","dg-publish":true,"notestage":["🌿"],"aliases":["a magnífica orchestra"],"permalink":"/references/music/artists/a-magnifica-orchestra-de-musicas-do-mundo/","dgPassFrontmatter":true}
+{"created in":"2024-09-07T19:07:42-03:00","last tended to":"2024-09-07T19:54:02-03:00","tags":["art","music","worldmusic","artist","brazilian","🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-07-06T20:17:33.870-03:00","dg-publish":true,"notestage":["🌿"],"aliases":["a magnífica orchestra"],"permalink":"/references/music/artists/a-magnifica-orchestra-de-musicas-do-mundo/","dgPassFrontmatter":true}
 ---
 
 https://www.instagram.com/amagnificaorchestra
 
-a wonderful group of pro and amateur musicians studying and performing ethno/[[topics/art/world music\|world music]], led by [[people/references/music/gabriel levy\|gabriel levy]] and [[rita braga\|rita braga]] in são paulo. i was very fortunate to be part of it in the second semester of 2024.
+a wonderful group of pro and amateur musicians studying and performing ethno/[[topics/art/world music\|world music]], led by [[people/references/music/gabriel levy\|gabriel levy]] and [[people/references/music/rita braga\|rita braga]] in são paulo. i was very fortunate to be part of it in the second semester of 2024.
 
-the maestro, [[people/references/music/gabriel levy\|gabriel levy]] is a prolific musician, educator and researcher, associated with several other world music projects: [[mawaca\|mawaca]], [[yaman trio\|yaman trio]], [[mutrib\|mutrib]], traditional japanese ensembles, and tangential relationships with such as: [[responses/art/música do círculo\|música do círculo]], [[orquestra mundana refugi\|orquestra mundana refugi]] and more. [[rita braga\|rita]], the group's vocal trainer, is also a part of [[mawaca\|mawaca]].
+the maestro, [[people/references/music/gabriel levy\|gabriel levy]] is a prolific musician, educator and researcher, associated with several other world music projects: [[mawaca\|mawaca]], [[yaman trio\|yaman trio]], [[mutrib\|mutrib]], traditional japanese ensembles, and tangential relationships with such as: [[responses/art/música do círculo\|música do círculo]], [[orquestra mundana refugi\|orquestra mundana refugi]] and more. [[people/references/music/rita braga\|rita]], the group's vocal trainer, is also a part of [[mawaca\|mawaca]].
 
 the shows are truly spectacles (50+ musicians), involving traditional dances and the invitation to listen with open ears to what might be outside of our understanding of mainstream music (and even the genre of [[folk music\|folk music]] itself). as in gabriel's words: "if you can't help, get in the way! what's important is to get involved." :)
 

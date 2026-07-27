@@ -1,5 +1,5 @@
 ---
-{"created":"2024-10-15T00:23:32.847-03:00","updated":"2025-01-27T13:22:06.397-03:00","tags":["essay","highlights","cybernetics","systemsdesign","superstructure","communication","toolsforthought","coordination","🌿"],"notestage":["🌿"],"relevancescore":96,"dg-publish":true,"permalink":"/009-notes-and-highlights-from-books-videos-articles/thinking-together-gordon-brander/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-01-27T13:22:06.397-03:00","tags":["essay","highlights","cybernetics","systemsdesign","superstructure","communication","toolsforthought","coordination","🌿"],"notestage":["🌿"],"relevancescore":96,"dg-publish":true,"permalink":"/009-notes-and-highlights-from-books-videos-articles/thinking-together-gordon-brander/","dgPassFrontmatter":true}
 ---
 
 i highly recommend reading the full article (10 min read): [Thinking together - Steps to an ecology of mind](https://newsletter.squishy.computer/p/thinking-together), by: [[people/references/lab/gordon brander\|gordon brander]]

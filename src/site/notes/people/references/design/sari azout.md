@@ -1,5 +1,5 @@
 ---
-{"created in":"2021-12-11T16:52:07-03:00","last tended to":"2024-06-20T17:16:01-03:00","aliases":["sari"],"tags":["person","curation","communitycreation","knowledgemanagement","lab","🌿"],"dg-publish":true,"created":"2021-12-11T16:52:07.326-03:00","updated":"2025-01-10T17:07:39.115-03:00","relevancescore":88,"notestage":["🌿"],"permalink":"/people/references/design/sari-azout/","dgPassFrontmatter":true}
+{"created in":"2021-12-11T16:52:07-03:00","last tended to":"2024-06-20T17:16:01-03:00","aliases":["sari"],"tags":["person","curation","communitycreation","knowledgemanagement","lab","🌿"],"dg-publish":true,"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-01-10T17:07:39.115-03:00","relevancescore":88,"notestage":["🌿"],"permalink":"/people/references/design/sari-azout/","dgPassFrontmatter":true}
 ---
 
 https://twitter.com/sariazout

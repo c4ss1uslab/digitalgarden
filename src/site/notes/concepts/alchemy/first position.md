@@ -1,5 +1,5 @@
 ---
-{"tags":["concept","alchemy","possibilitymanagement","🌱"],"created":"2024-01-09T18:28:31.397-03:00","updated":"2024-12-11T18:07:43.009-03:00","notestage":["🌱"],"dg-publish":true,"permalink":"/concepts/alchemy/first-position/","dgPassFrontmatter":true}
+{"tags":["concept","alchemy","possibilitymanagement","🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2024-12-11T18:07:43.009-03:00","notestage":["🌱"],"dg-publish":true,"permalink":"/concepts/alchemy/first-position/","dgPassFrontmatter":true}
 ---
 
 https://firstposition.mystrikingly.com/

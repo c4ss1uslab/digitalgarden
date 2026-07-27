@@ -1,5 +1,5 @@
 ---
-{"created":"2024-12-10T15:14:15.380-03:00","updated":"2025-01-22T16:55:49.720-03:00","tags":["organization","education","socialchange","🌱"],"dg-publish":true,"relevancescore":93,"notestage":["🌱"],"permalink":"/initiatives-orgs-and-communities/player/education-4-social-change/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-01-22T16:55:49.720-03:00","tags":["organization","education","socialchange","🌱"],"dg-publish":true,"relevancescore":93,"notestage":["🌱"],"permalink":"/initiatives-orgs-and-communities/player/education-4-social-change/","dgPassFrontmatter":true}
 ---
 
 https://www.education4socialchange.com/

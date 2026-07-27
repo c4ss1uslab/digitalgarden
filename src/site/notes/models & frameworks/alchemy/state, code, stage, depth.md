@@ -1,5 +1,5 @@
 ---
-{"created":"2025-02-10T16:07:55.847-03:00","updated":"2025-04-05T14:47:55.470-03:00","tags":["framework","alchemy","socialchange","psychology","metamodernism","🌱"],"notestage":["🌱"],"relevancescore":96,"dg-publish":true,"readinesslevel":"20%","permalink":"/models-and-frameworks/alchemy/state-code-stage-depth/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-04-05T14:47:55.470-03:00","tags":["framework","alchemy","socialchange","psychology","metamodernism","🌱"],"notestage":["🌱"],"relevancescore":96,"dg-publish":true,"readinesslevel":"20%","permalink":"/models-and-frameworks/alchemy/state-code-stage-depth/","dgPassFrontmatter":true}
 ---
 
 a good introductory article: https://medium.com/age-of-awareness/a-metamodern-guide-to-human-development-49fe8d8f0e8f

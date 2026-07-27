@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-10-14T22:15:07-03:00","last tended to":"2024-10-14T22:17:59-03:00","created":"2024-10-14T22:15:07.355-03:00","updated":"2025-06-11T15:52:13.873-03:00","tags":["highlights","resource","lab","toolsforthought","patterns","design"],"dg-publish":true,"permalink":"/009-notes-and-highlights-from-books-videos-articles/tools-for-thought-should-evolve-building-blocks-gordon-brander/","dgPassFrontmatter":true}
+{"created in":"2024-10-14T22:15:07-03:00","last tended to":"2024-10-14T22:17:59-03:00","created":"1969-12-31T21:00:00.000-03:00","updated":"2025-06-11T15:52:13.873-03:00","tags":["highlights","resource","lab","toolsforthought","patterns","design"],"dg-publish":true,"permalink":"/009-notes-and-highlights-from-books-videos-articles/tools-for-thought-should-evolve-building-blocks-gordon-brander/","dgPassFrontmatter":true}
 ---
 
 original article by [[people/references/lab/gordon brander\|gordon brander]]: https://newsletter.squishy.computer/p/tools-for-thought-should-evolve-building

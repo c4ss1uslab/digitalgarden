@@ -1,5 +1,5 @@
 ---
-{"created":"2025-05-14T15:51:10.990-03:00","updated":"2025-05-19T13:56:32.616-03:00","tags":["design","alchemy","🌱"],"notestage":["🌱"],"relevancescore":96,"dg-publish":true,"permalink":"/responses/design/conscious-design/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-05-19T13:56:32.616-03:00","tags":["design","alchemy","🌱"],"notestage":["🌱"],"relevancescore":96,"dg-publish":true,"permalink":"/responses/design/conscious-design/","dgPassFrontmatter":true}
 ---
 
 my working definition of a "conscious design" is one that recognizes the value of and integrates multiple dimensions of [[concepts/alchemy/consciousness\|consciousness]] in its approach.

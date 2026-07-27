@@ -1,5 +1,5 @@
 ---
-{"created":"2024-12-27T16:32:20.686-03:00","updated":"2025-01-10T18:30:35.569-03:00","tags":["art","player","storytelling","tvseries","politics","complexity","animation","🌿"],"dg-publish":true,"relevancescore":93,"notestage":["🌿"],"permalink":"/references/art/arcane-tv-show/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-01-10T18:30:35.569-03:00","tags":["art","player","storytelling","tvseries","politics","complexity","animation","🌿"],"dg-publish":true,"relevancescore":93,"notestage":["🌿"],"permalink":"/references/art/arcane-tv-show/","dgPassFrontmatter":true}
 ---
 
 https://en.wikipedia.org/wiki/Arcane_(TV_series)

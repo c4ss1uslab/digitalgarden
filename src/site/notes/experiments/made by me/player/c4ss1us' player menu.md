@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-04-01T18:22:22-03:00","last tended to":"2024-09-29T14:30:30-03:00","tags":["experiment","🌿","host","player","lab"],"dg-publish":true,"notestage":["🌿"],"created":"2024-04-01T18:22:22.718-03:00","updated":"2024-11-15T14:14:01.894-03:00","permalink":"/experiments/made-by-me/player/c4ss1us-player-menu/","dgPassFrontmatter":true}
+{"created in":"2024-04-01T18:22:22-03:00","last tended to":"2024-09-29T14:30:30-03:00","tags":["experiment","🌿","host","player","lab"],"dg-publish":true,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2024-11-15T14:14:01.894-03:00","permalink":"/experiments/made-by-me/player/c4ss1us-player-menu/","dgPassFrontmatter":true}
 ---
 
 experiment as part of the [[_006_toolkit/000 ⛓ l1f3 player toolkit\|l1f3 player toolkit]].

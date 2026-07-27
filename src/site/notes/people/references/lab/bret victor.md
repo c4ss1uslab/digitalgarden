@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-05-29T14:27:52-03:00","last tended to":"2024-09-26T15:53:13-03:00","tags":["interfacedesign","experiencedesign","lab","person","tier1","visuallearning","spatialsoftware","interactiondesign","🌿"],"dg-publish":true,"relevancescore":94,"notestage":["🌿"],"created":"2024-05-29T14:27:52.255-03:00","updated":"2025-06-11T15:51:35.319-03:00","permalink":"/people/references/lab/bret-victor/","dgPassFrontmatter":true}
+{"created in":"2024-05-29T14:27:52-03:00","last tended to":"2024-09-26T15:53:13-03:00","tags":["interfacedesign","experiencedesign","lab","person","tier1","visuallearning","spatialsoftware","interactiondesign","🌿"],"dg-publish":true,"relevancescore":94,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-06-11T15:51:35.319-03:00","permalink":"/people/references/lab/bret-victor/","dgPassFrontmatter":true}
 ---
 
 https://worrydream.com/
@@ -29,7 +29,7 @@ in it, he presents very simply and clearly his [[theory of change\|theory of cha
 > Intention:
 > Use the dynamic medium to reinvent the representations of thought. Invent a way of thinking — imagining, understanding, creating, explaining — via dynamic representations that engage all modes of thought and respect the whole human being.
 
-\+ more details, illustrations and his plan for application on [[initiatives, orgs & communities/lab/dynamicland\|dynamicland]]. it's very similar to the vision i was prototyping with the [[projects & tools/projects/design/24h system\|24h system]] at [[high stakes academy\|high stakes academy]] back in 2019, minus my utter lack of technical skills and my bigger focus on the [[_003_L1F3/core concepts/life management\|life management]] aspect of it.
+\+ more details, illustrations and his plan for application on [[initiatives, orgs & communities/lab/dynamicland\|dynamicland]]. it's very similar to the vision i was prototyping with the [[projects & tools/projects/design/24h system\|24h system]] at [[high stakes academy\|high stakes academy]] back in 2019, minus my utter lack of technical skills and my bigger focus on the [[_003_L1F3/key concepts & ideas/life management\|life management]] aspect of it.
 
  2) [stop drawing dead fish](https://vimeo.com/64895205) - exploring/introducing a few "[[unique affordances of the computational medium\|unique affordances of the computational medium]]"
 

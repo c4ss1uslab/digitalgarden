@@ -1,5 +1,5 @@
 ---
-{"created in":"2021-12-11T16:52:07-03:00","last tended to":"2024-10-25T13:38:08-03:00","tags":["regen","design","response","framework","🌱"],"relevancescore":97,"notestage":["🌱"],"aliases":["regenerative","regeneration"],"created":"2021-12-11T16:52:07.327-03:00","updated":"2025-06-11T15:04:51.869-03:00","dg-publish":true,"readinesslevel":"20%","permalink":"/responses/regen/regenerative-design/","dgPassFrontmatter":true}
+{"created in":"2021-12-11T16:52:07-03:00","last tended to":"2024-10-25T13:38:08-03:00","tags":["regen","design","response","framework","🌱"],"relevancescore":97,"notestage":["🌱"],"aliases":["regenerative","regeneration"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-06-11T15:04:51.869-03:00","dg-publish":true,"readinesslevel":"20%","permalink":"/responses/regen/regenerative-design/","dgPassFrontmatter":true}
 ---
 
 [[regenesis\|regenesis]] definition:

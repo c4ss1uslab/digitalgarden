@@ -1,5 +1,5 @@
 ---
-{"created in":"2021-12-11T16:52:08-03:00","last tended to":"2024-10-12T17:48:38-03:00","tags":["experiment","socialsensemaking","sensemaking","curation","knowledgemanagement","learning","🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/experiments/made-by-me/lab/twitter-optimization/","dgPassFrontmatter":true,"created":"2021-12-11T16:52:08.397-03:00","updated":"2024-10-12T17:48:38.622-03:00"}
+{"created in":"2021-12-11T16:52:08-03:00","last tended to":"2024-10-12T17:48:38-03:00","tags":["experiment","socialsensemaking","sensemaking","curation","knowledgemanagement","learning","🌱","lab"],"dg-publish":true,"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-11T23:14:15.359-03:00","permalink":"/experiments/made-by-me/lab/twitter-optimization/","dgPassFrontmatter":true}
 ---
 
 ##### a few good resources on using twitter well/intentionally/meaningfully:

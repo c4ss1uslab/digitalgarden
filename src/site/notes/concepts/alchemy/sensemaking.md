@@ -1,5 +1,5 @@
 ---
-{"aliases":["make sense of","make sense","make sense of reality"],"created in":"2021-12-11T16:51:50-03:00","last tended to":"2024-11-06T19:43:58-03:00","tags":["topic","sensemaking","🌿"],"notestage":["🌿"],"relevancescore":98,"dg-publish":true,"created":"2021-12-11T16:51:50.666-03:00","updated":"2025-06-12T14:03:30.207-03:00","permalink":"/concepts/alchemy/sensemaking/","dgPassFrontmatter":true}
+{"aliases":["make sense of","make sense","make sense of reality"],"created in":"2021-12-11T16:51:50-03:00","last tended to":"2024-11-06T19:43:58-03:00","tags":["topic","sensemaking","🌿","research","design","lab","alchemy"],"notestage":["🌿"],"relevancescore":98,"dg-publish":true,"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-11T23:11:59.215-03:00","permalink":"/concepts/alchemy/sensemaking/","dgPassFrontmatter":true}
 ---
 
 #### definition
@@ -71,7 +71,7 @@ main refs: [[projects & tools/projects/lab/envisioning tech radar\|envisioning r
 [[tbprocessed/base notes/ventures - general/rebel wisdom\|rebel wisdom]] / [[tbprocessed/base notes/ventures - general/future thinkers\|future thinkers]] / [[tbprocessed/base notes/ventures - general/the stoa\|the stoa]]
 
 ##### main topics:
-- [[concepts/alchemy/ontology\|ontology]] / [[concepts/alchemy/epistemology\|epistemology]] / [[topics/alchemy/metaphysics\|metaphysics]] / [[concepts/alchemy/axiology\|axiology]] ([[concepts/alchemy/values\|values]] / [[concepts/alchemy/needs\|needs]] / [[belief systems\|belief systems]])
+- [[concepts/alchemy/ontology\|ontology]] / [[concepts/alchemy/epistemology\|epistemology]] / [[topics/alchemy/metaphysics\|metaphysics]] / [[concepts/alchemy/axiology\|axiology]] ([[concepts/alchemy/values\|values]] / [[concepts/alchemy/needs\|needs]] / [[topics/alchemy/belief systems\|belief systems]])
 - [[situational assessment\|situational assessment]]
 	- [[reality of one's self\|reality of one's self]] ([[concepts/alchemy/ontology\|ontology]])
 	- [[reality of the world\|reality of the world]] ([[topics/alchemy/metaphysics\|metaphysics]])

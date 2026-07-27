@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-05-23T19:36:14-03:00","last tended to":"2024-09-24T16:25:26-03:00","aliases":["fundamental elements of games"],"tags":["gamedesign","patterns","player","🌱"],"dg-publish":true,"notestage":["🌱"],"relevancescore":96,"created":"2024-05-23T19:36:14.003-03:00","updated":"2025-01-22T16:55:18.731-03:00","permalink":"/patterns/pattern-collections/game-design-patterns/","dgPassFrontmatter":true}
+{"created in":"2024-05-23T19:36:14-03:00","last tended to":"2024-09-24T16:25:26-03:00","aliases":["fundamental elements of games"],"tags":["gamedesign","patterns","player","🌱"],"dg-publish":true,"notestage":["🌱"],"relevancescore":96,"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-01-22T16:55:18.731-03:00","permalink":"/patterns/pattern-collections/game-design-patterns/","dgPassFrontmatter":true}
 ---
 
 ##### intro

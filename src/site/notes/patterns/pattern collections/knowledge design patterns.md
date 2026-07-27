@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-04-06T19:36:48-03:00","last tended to":"2024-09-24T16:27:41-03:00","tags":["knowledgedesign","patterns","design","🌱"],"relevancescore":96,"dg-publish":true,"notestage":["🌱"],"created":"2024-04-06T19:36:48.498-03:00","updated":"2025-06-17T15:16:26.906-03:00","permalink":"/patterns/pattern-collections/knowledge-design-patterns/","dgPassFrontmatter":true}
+{"created in":"2024-04-06T19:36:48-03:00","last tended to":"2024-09-24T16:27:41-03:00","tags":["knowledgedesign","patterns","design","🌱"],"relevancescore":96,"dg-publish":true,"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-06-17T15:16:26.906-03:00","permalink":"/patterns/pattern-collections/knowledge-design-patterns/","dgPassFrontmatter":true}
 ---
 
 knowledge design includes: [[knowledge development\|knowledge development]], [[topics/lab/personal knowledge management\|personal knowledge management]] and [[knowledge presentation\|knowledge presentation]]:

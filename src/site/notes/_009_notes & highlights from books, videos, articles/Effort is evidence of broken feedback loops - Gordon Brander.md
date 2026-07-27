@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-10-18T13:25:06-03:00","last tended to":"2024-10-18T13:31:07-03:00","tags":["essay","highlights","lab","design","systemsscience","cybernetics"],"created":"2024-10-18T13:25:06.869-03:00","updated":"2025-01-27T13:20:47.409-03:00","dg-publish":true,"permalink":"/009-notes-and-highlights-from-books-videos-articles/effort-is-evidence-of-broken-feedback-loops-gordon-brander/","dgPassFrontmatter":true}
+{"created in":"2024-10-18T13:25:06-03:00","last tended to":"2024-10-18T13:31:07-03:00","tags":["essay","highlights","lab","design","systemsscience","cybernetics"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-01-27T13:20:47.409-03:00","dg-publish":true,"permalink":"/009-notes-and-highlights-from-books-videos-articles/effort-is-evidence-of-broken-feedback-loops-gordon-brander/","dgPassFrontmatter":true}
 ---
 
 original article by [[people/references/lab/gordon brander\|gordon brander]]: https://newsletter.squishy.computer/p/effort-is-evidence-of-broken-feedback

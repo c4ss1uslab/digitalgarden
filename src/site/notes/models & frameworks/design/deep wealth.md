@@ -1,5 +1,5 @@
 ---
-{"tags":["framework","economics","systemsdesign","metasystemsdesign","design","🌱","holochain","metrics","regen"],"dg-publish":true,"notestage":["🌱"],"created":"2024-10-30T18:21:59.505-03:00","updated":"2025-01-24T16:48:33.303-03:00","relevancescore":94,"permalink":"/models-and-frameworks/design/deep-wealth/","dgPassFrontmatter":true}
+{"tags":["framework","economics","systemsdesign","metasystemsdesign","design","🌱","holochain","metrics","regen"],"dg-publish":true,"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-01-24T16:48:33.303-03:00","relevancescore":94,"permalink":"/models-and-frameworks/design/deep-wealth/","dgPassFrontmatter":true}
 ---
 
 ![](https://i.imgur.com/R0bnPkL.png)

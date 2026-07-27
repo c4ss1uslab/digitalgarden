@@ -1,5 +1,5 @@
 ---
-{"created":"2024-12-12T15:36:13.714-03:00","updated":"2025-01-22T15:54:27.916-03:00","aliases":["buckminster fuller"],"tags":["organization","design","regeneration","systemsdesign","civilizationdesign","🌱"],"notestage":["🌱"],"relevancescore":96,"dg-publish":true,"permalink":"/initiatives-orgs-and-communities/design/buckminster-fuller-institute/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-06-02T12:32:42.984-03:00","aliases":["buckminster fuller","bucky fuller"],"tags":["organization","design","regeneration","systemsdesign","civilizationdesign","🌱"],"notestage":["🌱"],"relevancescore":96,"dg-publish":true,"permalink":"/initiatives-orgs-and-communities/design/buckminster-fuller-institute/","dgPassFrontmatter":true}
 ---
 
 https://www.bfi.org/

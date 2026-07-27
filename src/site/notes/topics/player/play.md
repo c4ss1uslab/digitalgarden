@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-03-16T07:56:27-03:00","last tended to":"2024-07-19T03:14:53-03:00","aliases":["playing"],"tags":["player","play","topic","🌱"],"created":"2022-03-16T07:56:27.861-03:00","updated":"2025-06-10T18:18:26.358-03:00","notestage":["🌱"],"dg-publish":true,"readinesslevel":"15%","permalink":"/topics/player/play/","dgPassFrontmatter":true}
+{"created in":"2022-03-16T07:56:27-03:00","last tended to":"2024-07-19T03:14:53-03:00","aliases":["playing"],"tags":["player","play","topic","🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-06-10T18:18:26.358-03:00","notestage":["🌱"],"dg-publish":true,"readinesslevel":"15%","permalink":"/topics/player/play/","dgPassFrontmatter":true}
 ---
 
 play is powerful for the sake of itself. it's a naturally joyful and curious, exploratory state. it's how we learn most effectively, and a way that we can feel that we belong, we matter, we are valued, we are supported and we can support others. we can, in practice, play our part in a larger whole.

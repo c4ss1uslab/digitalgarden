@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-08-22T15:27:37-03:00","last tended to":"2024-11-06T18:52:19-03:00","tags":["concept","regen","technology","design","cybernetics","research","🌱","lab","response"],"relevancescore":96,"dg-publish":true,"notestage":["🌱"],"created":"2024-08-22T15:27:37.000-03:00","updated":"2025-06-12T14:31:13.840-03:00","readinesslevel":"30%","permalink":"/responses/lab/permacomputing/","dgPassFrontmatter":true}
+{"created in":"2024-08-22T15:27:37-03:00","last tended to":"2024-11-06T18:52:19-03:00","tags":["concept","regen","technology","design","cybernetics","research","🌱","lab","response"],"relevancescore":96,"dg-publish":true,"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-06-12T14:31:13.840-03:00","readinesslevel":"30%","permalink":"/responses/lab/permacomputing/","dgPassFrontmatter":true}
 ---
 
 #### about
@@ -24,7 +24,7 @@ learning to connect more deeply with our own nature/history - with our long list
 
 after dealing with all of the emotions that come with this, then we can go back to exploring exciting seeds/propositions in a few existing lines of research, such as [[people/references/lab/bret victor\|bret victor]]'s on [[media for thinking the unthinkable\|media for thinking the unthinkable]], and the roots of [[topics/lab/cybernetics\|cybernetics]]/[[topics/lab/computer science\|computer science]] as a whole, considering the design/development of [[responses/lab/tools for thought\|tools for thought]], or how i like to expand/consider it: [[concepts/design/tools for extended cognition\|tools for extended cognition]].
 
-essentially, asking from scratch: how might we, if possible, use the computational medium to support life on earth? - and other related questions, considering the [[ethics\|ethics]], [[_004_c4ss1us/c4ss1us.design\|design]] and [[manufacturing process\|manufacturing process]], learning from the successes and failures of incredible innovators/visionaries, such as [[initiatives, orgs & communities/design/buckminster fuller institute\|buckminster fuller]] and considering it all from a much more conscious standpoint.
+essentially, asking from scratch: how might we, if possible, use the computational medium to support life on earth? - and other related questions, considering the [[concepts/alchemy/ethics\|ethics]], [[_004_c4ss1us/c4ss1us.design\|design]] and [[manufacturing process\|manufacturing process]], learning from the successes and failures of incredible innovators/visionaries, such as [[initiatives, orgs & communities/design/buckminster fuller institute\|buckminster fuller]] and considering it all from a much more conscious standpoint.
 
 #### key concepts:
 

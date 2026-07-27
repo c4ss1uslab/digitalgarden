@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-08-26T16:00:42-03:00","last tended to":"2024-10-13T01:39:44-03:00","tags":["metamodernism","music","🌿","art"],"dg-publish":true,"notestage":["🌿"],"permalink":"/writings/thoughts-on-metamodern-music/","dgPassFrontmatter":true,"created":"2024-08-26T16:00:42.313-03:00","updated":"2024-10-13T01:40:42.478-03:00"}
+{"created in":"2024-08-26T16:00:42-03:00","last tended to":"2024-10-13T01:39:44-03:00","tags":["metamodernism","music","🌿","art"],"dg-publish":true,"notestage":["🌿"],"permalink":"/writings/thoughts-on-metamodern-music/","dgPassFrontmatter":true,"created":"1969-12-31T21:00:00.000-03:00","updated":"2024-10-13T01:40:42.478-03:00"}
 ---
 
 asked by [[people/references/design/simon grant\|simon grant]] in the [[life itself research group\|life itself research group]]:

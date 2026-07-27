@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-05-22T17:08:20-03:00","last tended to":"2024-10-12T18:31:12-03:00","tags":["regeneration","review","ReFi","course","🌲"],"dg-publish":true,"aliases":["tools for the regenerative renaissance"],"notestage":["🌲"],"created":"2024-05-22T17:08:20.294-03:00","updated":"2025-06-17T15:16:20.449-03:00","permalink":"/010-notes-from-courses-events-and-chats/2021-02-tools-for-the-regenerative-renaissance-course-review/","dgPassFrontmatter":true}
+{"created in":"2024-05-22T17:08:20-03:00","last tended to":"2024-10-12T18:31:12-03:00","tags":["regeneration","review","ReFi","course","🌲"],"dg-publish":true,"aliases":["tools for the regenerative renaissance"],"notestage":["🌲"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-06-17T15:16:20.449-03:00","permalink":"/010-notes-from-courses-events-and-chats/2021-02-tools-for-the-regenerative-renaissance-course-review/","dgPassFrontmatter":true}
 ---
 
 "tools for the regenerative renaissance" was a six-week, "better-than-free online course", sponsored by [[initiatives, orgs & communities/design/SEEDS (ecosystem)\|SEEDS (ecosystem)]], that ran from feb-mar 2021.

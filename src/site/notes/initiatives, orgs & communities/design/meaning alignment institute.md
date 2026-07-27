@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-05-04T22:43:27-03:00","last tended to":"2024-11-03T15:29:05-03:00","tags":["alchemy","AI","civilizationdesign","systemschange","organization","architect","🌱","technology","superstructure","infrastructure","metacrisis"],"relevancescore":94,"notestage":["🌱"],"dg-publish":true,"created":"2024-05-04T22:43:27.595-03:00","updated":"2025-01-22T16:14:49.699-03:00","permalink":"/initiatives-orgs-and-communities/design/meaning-alignment-institute/","dgPassFrontmatter":true}
+{"created in":"2024-05-04T22:43:27-03:00","last tended to":"2024-11-03T15:29:05-03:00","tags":["alchemy","AI","civilizationdesign","systemschange","organization","architect","🌱","technology","superstructure","infrastructure","metacrisis"],"relevancescore":94,"notestage":["🌱"],"dg-publish":true,"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-01-22T16:14:49.699-03:00","permalink":"/initiatives-orgs-and-communities/design/meaning-alignment-institute/","dgPassFrontmatter":true}
 ---
 
 https://www.meaningalignment.org/
