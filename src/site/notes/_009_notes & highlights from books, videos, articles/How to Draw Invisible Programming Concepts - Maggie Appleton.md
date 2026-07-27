@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-10-18T13:31:34-03:00","last tended to":"2024-10-18T13:46:11-03:00","tags":["resource","essay","illustration","visuallearning","knowledgevisualization"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-01-27T13:13:49.031-03:00","dg-publish":true,"permalink":"/009-notes-and-highlights-from-books-videos-articles/how-to-draw-invisible-programming-concepts-maggie-appleton/","dgPassFrontmatter":true}
+{"created in":"2024-10-18T13:31:34-03:00","last tended to":"2024-10-18T13:46:11-03:00","tags":["resource","illustration","visuallearning","knowledgevisualization","article"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-27T18:11:43.860-03:00","dg-publish":true,"permalink":"/009-notes-and-highlights-from-books-videos-articles/how-to-draw-invisible-programming-concepts-maggie-appleton/","dgPassFrontmatter":true}
 ---
 
 original article by [[people/references/lab/maggie appleton\|maggie appleton]]: https://maggieappleton.com/drawinginvisibles1

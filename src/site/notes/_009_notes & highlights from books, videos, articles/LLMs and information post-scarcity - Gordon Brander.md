@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-10-14T15:55:55-03:00","last tended to":"2024-10-14T16:04:57-03:00","tags":["highlights","design","lab","LLMs","essay"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-06-11T15:53:38.447-03:00","dg-publish":true,"permalink":"/009-notes-and-highlights-from-books-videos-articles/ll-ms-and-information-post-scarcity-gordon-brander/","dgPassFrontmatter":true}
+{"created in":"2024-10-14T15:55:55-03:00","last tended to":"2024-10-14T16:04:57-03:00","tags":["highlights","design","lab","LLMs","article"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-27T18:10:19.513-03:00","dg-publish":true,"permalink":"/009-notes-and-highlights-from-books-videos-articles/ll-ms-and-information-post-scarcity-gordon-brander/","dgPassFrontmatter":true}
 ---
 
 original article by [[people/references/lab/gordon brander\|gordon brander]]: https://newsletter.squishy.computer/p/llms-and-information-post-scarcity - published in: jan 9, 2023

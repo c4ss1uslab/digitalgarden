@@ -1,5 +1,5 @@
 ---
-{"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-05-23T15:57:35.210-03:00","dg-publish":true,"notestage":["🌿"],"tags":["highlights","essay","metacrisis","sensemaking"],"permalink":"/009-notes-and-highlights-from-books-videos-articles/challenges-to-making-sense-of-the-21st-century-the-consilience-project/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-27T18:12:16.295-03:00","dg-publish":true,"notestage":["🌿"],"tags":["highlights","metacrisis","sensemaking","article"],"permalink":"/009-notes-and-highlights-from-books-videos-articles/challenges-to-making-sense-of-the-21st-century-the-consilience-project/","dgPassFrontmatter":true}
 ---
 
 original article: https://consilienceproject.org/challenges-to-making-sense-of-the-21st-century

@@ -1,8 +1,16 @@
 ---
-{"aliases":[".dgarden","🌲 digital garden","idea garden","🌱 idea garden","c4ss1us.dgarden","🌲 c4ss1us.dgarden","digital garden","home","knowledge garden"],"dg-publish":true,"dg-home":true,"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-27T18:30:37.423-03:00","readinesslevel":null,"permalink":"/000-digital-garden/c4ss1us-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"aliases":[".dgarden","🌲 digital garden","idea garden","🌱 idea garden","c4ss1us.dgarden","🌲 c4ss1us.dgarden","digital garden","home","knowledge garden"],"dg-publish":true,"dg-home":true,"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-27T18:32:08.978-03:00","readinesslevel":null,"permalink":"/000-digital-garden/c4ss1us-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 ## hello! welcome to my digital garden! 💐
+
+> [!tip]- "wtf is a digital garden?" or, more on the design/philosophy of this space:
+> 
+> "a digital garden is something inbetween a personal blog and a wiki. it's a collection of evolving notes, essays, and ideas that aren't strictly organised by their publication date. they're inherently exploratory – posts are linked through contextual associations (bi-directional links). they aren't refined or complete - posts can be published as half-finished thoughts that will grow and evolve over time. they're less rigid, less performative, and less perfect than the personal "blogs" we're used to encountering on the web." - [[people/references/lab/maggie appleton\|maggie appleton]] on [digital gardening tools and resources](https://github.com/MaggieAppleton/digital-gardeners).
+> 
+> the digital garden [metaphor](https://maggieappleton.com/metaphors-web) can go a really long way. understanding your knowledge as a web of relationships can make us question, manage and design our [[information ecologies\|information ecologies]] in more conscious ways. i'm compiling my perspectives on knowledge design/management/sharing on the page: [[_000_digital garden/about - my approach to knowledge development\|about - my approach to knowledge development]], but it's still early.
+> 
+> for now, if you want to know more, you can check out [[people/references/lab/maggie appleton\|maggie]]'s amazing content on [a brief history & ethos of the digital garden](https://maggieappleton.com/garden-history), [[people/references/design/daniel schmachtenberger\|daniel schmachtenberger]]'s [the war on sensemaking](https://www.youtube.com/watch?v=7LqaotiGWjQ&list=PLj8H7uBaUwDvd18QrEPugPMD5Z6Y0W-vB&index=5) and my thoughts on the fields of [[responses/lab/tools for thought\|tools for thought]] and [[topics/lab/personal knowledge management\|personal knowledge management]] as a whole.
 
 this place is my initial effort to share my findings publicly and continue to openly deepen this inquiry into:
 
@@ -15,14 +23,6 @@ this place is my initial effort to share my findings publicly and continue to op
 > [![](https://i.imgur.com/lsn31Ae.png)](https://c4ss1usgardenatlas.ai.studio/)
 
 #### a bit more context
-
-> [!tip]- "wtf is a digital garden?" or, more on the design/philosophy of this space:
-> 
-> "a digital garden is something inbetween a personal blog and a wiki. it's a collection of evolving notes, essays, and ideas that aren't strictly organised by their publication date. they're inherently exploratory – posts are linked through contextual associations (bi-directional links). they aren't refined or complete - posts can be published as half-finished thoughts that will grow and evolve over time. they're less rigid, less performative, and less perfect than the personal "blogs" we're used to encountering on the web." - [[people/references/lab/maggie appleton\|maggie appleton]] on [digital gardening tools and resources](https://github.com/MaggieAppleton/digital-gardeners).
-> 
-> the digital garden [metaphor](https://maggieappleton.com/metaphors-web) can go a really long way. understanding your knowledge as a web of relationships can make us question, manage and design our [[information ecologies\|information ecologies]] in more conscious ways. i'm compiling my perspectives on knowledge design/management/sharing on the page: [[_000_digital garden/about - my approach to knowledge development\|about - my approach to knowledge development]], but it's still early.
-> 
-> for now, if you want to know more, you can check out [[people/references/lab/maggie appleton\|maggie]]'s amazing content on [a brief history & ethos of the digital garden](https://maggieappleton.com/garden-history), [[people/references/design/daniel schmachtenberger\|daniel schmachtenberger]]'s [the war on sensemaking](https://www.youtube.com/watch?v=7LqaotiGWjQ&list=PLj8H7uBaUwDvd18QrEPugPMD5Z6Y0W-vB&index=5) and my thoughts on the fields of [[responses/lab/tools for thought\|tools for thought]] and [[topics/lab/personal knowledge management\|personal knowledge management]] as a whole.
 
 for the past 7 years, as an attempt to answer my own pressing existential questions and make sense of the reality we live in, i've been researching themes such as:
 - *how can we live in more ethical and regenerative ways?*

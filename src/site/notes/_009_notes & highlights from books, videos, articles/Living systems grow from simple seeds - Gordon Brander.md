@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-10-14T22:12:29-03:00","last tended to":"2024-10-18T13:23:50-03:00","tags":["lab","design","cybernetics","highlights","essay","systemsscience"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-01-27T13:15:45.114-03:00","dg-publish":true,"permalink":"/009-notes-and-highlights-from-books-videos-articles/living-systems-grow-from-simple-seeds-gordon-brander/","dgPassFrontmatter":true}
+{"created in":"2024-10-14T22:12:29-03:00","last tended to":"2024-10-18T13:23:50-03:00","tags":["lab","design","cybernetics","highlights","systemsscience","article"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-27T18:10:33.001-03:00","dg-publish":true,"permalink":"/009-notes-and-highlights-from-books-videos-articles/living-systems-grow-from-simple-seeds-gordon-brander/","dgPassFrontmatter":true}
 ---
 
 #### my highlights:
