@@ -1,47 +1,51 @@
+{% if noteProps %}
+
 {% if notestage %}
 <p>note stage: {{ notestage }}</p>
 {% endif %}
 
-{% if relevancescore %}
-<p>relevance score: {{ relevancescore }}</p>
+{% if noteProps.relevancescore %}
+<p>relevance score: {{ noteProps.relevancescore }}</p>
 {% endif %}
 
-{% if relevancescore %}
-<p>relevance context: {{ relevancecontext }}</p>
+{% if noteProps.relevancecontext %}
+<p>relevance context: {{ noteProps.relevancecontext }}</p>
 {% endif %}
 
-{% if alivenessscore %}
-<p>aliveness score: {{ alivenessscore }}</p>
+{% if noteProps.alivenessscore %}
+<p>aliveness score: {{ noteProps.alivenessscore }}</p>
 {% endif %}
 
-{% if familiaritylevel %}
-<p>familiarity level: {{ familiaritylevel }}</p>
+{% if noteProps.familiaritylevel %}
+<p>familiarity level: {{ noteProps.familiaritylevel }}</p>
 {% endif %}
 
-{% if cognitivecomplexity %}
-<p>cognitive complexity: {{ cognitivecomplexity }}</p>
+{% if noteProps.cognitivecomplexity %}
+<p>cognitive complexity: {{ noteProps.cognitivecomplexity }}</p>
 {% endif %}
 
-{% if complexitycontext %}
-<p>complexity context: {{ complexitycontext }}</p>
+{% if noteProps.complexitycontext %}
+<p>complexity context: {{ noteProps.complexitycontext }}</p>
 {% endif %}
 
-{% if emotionaldensity %}
-<p>emotional density: {{ emotionaldensity }}</p>
+{% if noteProps.emotionaldensity %}
+<p>emotional density: {{ noteProps.emotionaldensity }}</p>
 {% endif %}
 
-{% if emotionalcontext %}
-<p>emotional context: {{ emotionalcontext }}</p>
+{% if noteProps.emotionalcontext %}
+<p>emotional context: {{ noteProps.emotionalcontext }}</p>
 {% endif %}
 
-{% if informationscope %}
-<p>information scope: {{ informationscope }}</p>
+{% if noteProps.informationscope %}
+<p>information scope: {{ noteProps.informationscope }}</p>
 {% endif %}
 
-{% if epistemicstatus %}
-<p>epistemic status: {{ epistemicstatus }}</p>
+{% if noteProps.epistemicstatus %}
+<p>epistemic status: {{ noteProps.epistemicstatus }}</p>
 {% endif %}
 
-{% if confidencelevel %}
-<p>confidence level: {{ confidencelevel }}</p>
+{% if noteProps.confidencelevel %}
+<p>confidence level: {{ noteProps.confidencelevel }}</p>
+{% endif %}
+
 {% endif %}
