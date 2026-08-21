@@ -1,5 +1,4 @@
-{% if notestage
-   or relevancescore
+{% if relevancescore
    or relevancecontext
    or alivenessscore
    or familiaritylevel
@@ -12,13 +11,6 @@
    or confidencelevel %}
 
 <div class="note-metadata">
-
-  {% if notestage %}
-  <div class="metadata-row">
-    <span class="metadata-label">Stage</span>
-    <span class="metadata-value metadata-stage">{{ notestage }}</span>
-  </div>
-  {% endif %}
 
   {% if relevancescore %}
   <div class="metadata-row">
