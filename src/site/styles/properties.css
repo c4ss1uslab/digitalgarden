@@ -1,3 +1,53 @@
+.note-metadata {
+  margin: 1.5rem 0 2rem;
+  padding: 1rem 1.25rem;
+
+  border-top: 1px solid var(--background-modifier-border);
+  border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.metadata-row {
+  display: grid;
+  grid-template-columns: minmax(140px, 180px) minmax(0, 1fr);
+  gap: 1.25rem;
+
+  padding: 0.35rem 0;
+}
+
+.metadata-label {
+  color: var(--text-muted);
+
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.metadata-value {
+  color: var(--text-normal);
+  font-size: 0.9rem;
+  line-height: 1.5;
+
+  overflow-wrap: anywhere;
+}
+
+.metadata-score {
+  font-weight: 500;
+}
+
+.metadata-stage {
+  font-size: 1rem;
+}
+
+@media (max-width: 600px) {
+  .metadata-row {
+    grid-template-columns: 1fr;
+    gap: 0.15rem;
+
+    padding: 0.5rem 0;
+  }
+}
+
 .note-properties {
   margin: 1rem 0 2rem;
   padding: 1rem;
