@@ -1,19 +1,47 @@
-{%- if relevancescore == true -%}
-<p>relevance score: {{relevancescore}}</p>
-{%- endif -%}
+{% if notestage %}
+<p>note stage: {{ notestage }}</p>
+{% endif %}
 
-{%- if familiaritydegree == true -%}
-<p>familiarity degree: {{familiaritydegree}}</p>
-{%- endif -%}
+{% if relevancescore %}
+<p>relevance score: {{ relevancescore }}</p>
+{% endif %}
 
-{%- if familiaritycontext == true -%}
-<p>familiarity context: {{familiaritycontext}}</p>
-{%- endif -%}
+{% if relevancescore %}
+<p>relevance context: {{ relevancecontext }}</p>
+{% endif %}
 
-{%- if recommendationlevel == true -%}
-<p>recommendation level: {{recommendationlevel}}</p>
-{%- endif -%}
+{% if alivenessscore %}
+<p>aliveness score: {{ alivenessscore }}</p>
+{% endif %}
 
-{%- if recommendationcontext == true -%}
-<p>recommendation context: {{recommendationcontext}}</p>
-{%- endif -%}
+{% if familiaritylevel %}
+<p>familiarity level: {{ familiaritylevel }}</p>
+{% endif %}
+
+{% if cognitivecomplexity %}
+<p>cognitive complexity: {{ cognitivecomplexity }}</p>
+{% endif %}
+
+{% if complexitycontext %}
+<p>complexity context: {{ complexitycontext }}</p>
+{% endif %}
+
+{% if emotionaldensity %}
+<p>emotional density: {{ emotionaldensity }}</p>
+{% endif %}
+
+{% if emotionalcontext %}
+<p>emotional context: {{ emotionalcontext }}</p>
+{% endif %}
+
+{% if informationscope %}
+<p>information scope: {{ informationscope }}</p>
+{% endif %}
+
+{% if epistemicstatus %}
+<p>epistemic status: {{ epistemicstatus }}</p>
+{% endif %}
+
+{% if confidencelevel %}
+<p>confidence level: {{ confidencelevel }}</p>
+{% endif %}
