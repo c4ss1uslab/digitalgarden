@@ -1,51 +1,102 @@
-{% if noteProps %}
+{% if notestage
+   or relevancescore
+   or relevancecontext
+   or alivenessscore
+   or familiaritylevel
+   or cognitivecomplexity
+   or complexitycontext
+   or emotionaldensity
+   or emotionalcontext
+   or informationscope
+   or epistemicstatus
+   or confidencelevel %}
 
-{% if notestage %}
-<p>note stage: {{ notestage }}</p>
-{% endif %}
+<div class="note-metadata">
 
-{% if noteProps.relevancescore %}
-<p>relevance score: {{ noteProps.relevancescore }}</p>
-{% endif %}
+  {% if notestage %}
+  <div class="metadata-row">
+    <span class="metadata-label">Stage</span>
+    <span class="metadata-value metadata-stage">{{ notestage }}</span>
+  </div>
+  {% endif %}
 
-{% if noteProps.relevancecontext %}
-<p>relevance context: {{ noteProps.relevancecontext }}</p>
-{% endif %}
+  {% if relevancescore %}
+  <div class="metadata-row">
+    <span class="metadata-label">Relevance</span>
+    <span class="metadata-value metadata-score">{{ relevancescore }}</span>
+  </div>
+  {% endif %}
 
-{% if noteProps.alivenessscore %}
-<p>aliveness score: {{ noteProps.alivenessscore }}</p>
-{% endif %}
+  {% if relevancecontext %}
+  <div class="metadata-row">
+    <span class="metadata-label">Relevance context</span>
+    <span class="metadata-value">{{ relevancecontext }}</span>
+  </div>
+  {% endif %}
 
-{% if noteProps.familiaritylevel %}
-<p>familiarity level: {{ noteProps.familiaritylevel }}</p>
-{% endif %}
+  {% if alivenessscore %}
+  <div class="metadata-row">
+    <span class="metadata-label">Aliveness</span>
+    <span class="metadata-value metadata-score">{{ alivenessscore }}</span>
+  </div>
+  {% endif %}
 
-{% if noteProps.cognitivecomplexity %}
-<p>cognitive complexity: {{ noteProps.cognitivecomplexity }}</p>
-{% endif %}
+  {% if familiaritylevel %}
+  <div class="metadata-row">
+    <span class="metadata-label">Familiarity</span>
+    <span class="metadata-value">{{ familiaritylevel }}</span>
+  </div>
+  {% endif %}
 
-{% if noteProps.complexitycontext %}
-<p>complexity context: {{ noteProps.complexitycontext }}</p>
-{% endif %}
+  {% if cognitivecomplexity %}
+  <div class="metadata-row">
+    <span class="metadata-label">Cognitive complexity</span>
+    <span class="metadata-value">{{ cognitivecomplexity }}</span>
+  </div>
+  {% endif %}
 
-{% if noteProps.emotionaldensity %}
-<p>emotional density: {{ noteProps.emotionaldensity }}</p>
-{% endif %}
+  {% if complexitycontext %}
+  <div class="metadata-row">
+    <span class="metadata-label">Complexity context</span>
+    <span class="metadata-value">{{ complexitycontext }}</span>
+  </div>
+  {% endif %}
 
-{% if noteProps.emotionalcontext %}
-<p>emotional context: {{ noteProps.emotionalcontext }}</p>
-{% endif %}
+  {% if emotionaldensity %}
+  <div class="metadata-row">
+    <span class="metadata-label">Emotional density</span>
+    <span class="metadata-value">{{ emotionaldensity }}</span>
+  </div>
+  {% endif %}
 
-{% if noteProps.informationscope %}
-<p>information scope: {{ noteProps.informationscope }}</p>
-{% endif %}
+  {% if emotionalcontext %}
+  <div class="metadata-row">
+    <span class="metadata-label">Emotional context</span>
+    <span class="metadata-value">{{ emotionalcontext }}</span>
+  </div>
+  {% endif %}
 
-{% if noteProps.epistemicstatus %}
-<p>epistemic status: {{ noteProps.epistemicstatus }}</p>
-{% endif %}
+  {% if informationscope %}
+  <div class="metadata-row">
+    <span class="metadata-label">Information scope</span>
+    <span class="metadata-value">{{ informationscope }}</span>
+  </div>
+  {% endif %}
 
-{% if noteProps.confidencelevel %}
-<p>confidence level: {{ noteProps.confidencelevel }}</p>
-{% endif %}
+  {% if epistemicstatus %}
+  <div class="metadata-row">
+    <span class="metadata-label">Epistemic status</span>
+    <span class="metadata-value">{{ epistemicstatus }}</span>
+  </div>
+  {% endif %}
+
+  {% if confidencelevel %}
+  <div class="metadata-row">
+    <span class="metadata-label">Confidence level</span>
+    <span class="metadata-value">{{ confidencelevel }}</span>
+  </div>
+  {% endif %}
+
+</div>
 
 {% endif %}
