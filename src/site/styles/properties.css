@@ -35,10 +35,6 @@
   font-weight: 500;
 }
 
-.metadata-stage {
-  font-size: 1rem;
-}
-
 @media (max-width: 600px) {
   .metadata-row {
     grid-template-columns: 1fr;
