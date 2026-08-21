@@ -31,7 +31,7 @@ a good way i found is through [[people/references/design/andrea farias\|andrea f
 [[robert kegan\|robert kegan]]
 [[people/references/alchemy/susanne cook-greuter\|susanne cook-greuter]]
 
-- [[value systems\|value systems]] / [[topics/alchemy/belief systems\|belief systems]]
+- [[topics/alchemy/value systems\|value systems]] / [[topics/alchemy/belief systems\|belief systems]]
 
 [[spiral dynamics\|spiral dynamics]]
 [[people/references/alchemy/hanzi freinacht\|hanzi freinacht]]

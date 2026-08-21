@@ -12,6 +12,6 @@ it's a good introductory [[topics/lab/personal knowledge management\|personal kn
 
 ##### context
 
-with the rise of [[topics/lab/large language models\|LLMs]], [[topics/lab/personal AI assistants\|personal AI assistants]] and [[semantic search\|semantic search]] this kind of structure might not be necessary for many people (see: [[projects & tools/tools/lab/fabric\|fabric]], [[initiatives, orgs & communities/lab/limitless AI\|limitless AI]], etc), however having this kind of overarching methodology imposes certain limitations and workflows that can enable deeper thinking/reflection, and not mindless productivity.
+with the rise of [[topics/lab/large language models\|LLMs]], [[personal AI assistants\|personal AI assistants]] and [[semantic search\|semantic search]] this kind of structure might not be necessary for many people (see: [[projects & tools/tools/lab/fabric\|fabric]], [[initiatives, orgs & communities/lab/limitless AI\|limitless AI]], etc), however having this kind of overarching methodology imposes certain limitations and workflows that can enable deeper thinking/reflection, and not mindless productivity.
 
 it's worth diving into to have your fundamentals in order, especially if you intend to do any deep [[_003_research/research\|_003_research/research]], [[scientific\|scientific]] or [[academic\|academic]] work, or just want to think deeply about tending to your [[information ecology\|information]]/[[concepts/design/knowledge ecologies\|knowledge ecologies]].

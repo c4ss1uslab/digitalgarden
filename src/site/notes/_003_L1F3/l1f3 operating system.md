@@ -34,7 +34,7 @@ and building minimum viable prototypes as some answers are discovered.
 
 ##### research
 - [[personal operating systems\|personal operating systems]]
-	- [[worldviews\|worldviews]] / [[value;belief systems\|value;belief systems]]
+	- [[topics/alchemy/worldviews\|worldviews]] / [[value;belief systems\|value;belief systems]]
 	- [[personal matrix\|personal matrix]] / [[distinctions\|distinctions]]
 	- [[_006_toolkit/classes/archetypes MOC\|archetypes MOC]] / [[archetypal lineage\|archetypal lineage]]
 	- [[cognitive biases\|cognitive biases]]

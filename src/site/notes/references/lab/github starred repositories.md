@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-08-04T03:07:49-03:00","last tended to":"2024-10-22T17:40:29-03:00","tags":["lab","datamanagement","resource","🌱","informationmanagement"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-06-12T14:31:39.378-03:00","dg-publish":true,"notestage":["🌱"],"permalink":"/references/lab/github-starred-repositories/","dgPassFrontmatter":true}
+{"created in":"2022-08-04T03:07:49-03:00","last tended to":"2024-10-22T17:40:29-03:00","tags":["lab","datamanagement","resource","🌱","informationmanagement"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-08-07T23:06:48.106-03:00","dg-publish":true,"notestage":["🌱"],"permalink":"/references/lab/github-starred-repositories/","dgPassFrontmatter":true}
 ---
 
 total amount (as of november 7th, 2024): 274
@@ -14,7 +14,7 @@ organized into 18 lists:
 [[responses/lab/mapping\|mapping]] / [[topics/lab/visualization\|visualization]] - 34 repositories
 [[topics/lab/knowledge graphs\|kgraphs]], [[semantics\|semantics]] & [[topics/lab/social network analysis\|SNA]] - 25 repositories
 [[responses/lab/tools for thought\|tools for thought]] - 21 repositories
-[[topics/art/3d\|3D]] / [[topics/lab/XR\|XR]] / [[games\|games]] / [[topics/player/anime\|anime]] - 19 repositories
+[[topics/art/3d\|3D]] / [[topics/lab/XR\|XR]] / [[games\|games]] / [[topics/player/anime MOC\|anime MOC]] - 19 repositories
 [[_001_research/research\|research]] & [[discovery\|discovery]] - 16 repositories
 [[topics/design/web3\|web3]] / [[topics/design/distributed systems\|distributed systems]] / [[p2p\|p2p]] - 14 repositories
 [[responses/lab/dashboards\|dashboards]] / [[topics/lab/UI design\|UI design]] - 12 repositories

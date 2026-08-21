@@ -1,10 +1,10 @@
 ---
-{"created in":"2024-09-03T15:36:44-03:00","last tended to":"2024-09-29T14:26:33-03:00","tags":["essay","personal","music","alchemy","🌿"],"dg-publish":true,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-06-10T18:18:24.289-03:00","permalink":"/010-notes-from-courses-events-and-chats/2024-08-reflections-on-the-1st-musica-do-circulo-leading-training-immersion/","dgPassFrontmatter":true}
+{"created in":"2024-09-03T15:36:44-03:00","last tended to":"2024-09-29T14:26:33-03:00","tags":["essay","personal","music","alchemy","🌿"],"dg-publish":true,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-08-21T14:40:17.125-03:00","permalink":"/010-notes-from-courses-events-and-chats/2024-08-reflections-on-the-1st-musica-do-circulo-leading-training-immersion/","dgPassFrontmatter":true}
 ---
 
 *texto escrito no dia 31 de agosto de 2024.*
 
-**contexto:** escrito no final do 3° dia da 1ª imersão do curso de 2 anos formação como condutor de [[responses/art/música do círculo\|música do círculo]]. essas reflexões foram super profundas, mas várias frases ficaram soltas - não tive energia pra tecer a linha de raciocínio completa. eu tava super cansado, dormindo mal e comendo mal - e triste por não ter conseguido me preparar pra imersão com antecedência.
+**contexto:** escrito no final do 3° dia da 1ª imersão do curso de 2 anos formação como condutor de [[responses/art/música do círculo\|música do círculo]]. essas reflexões foram bem profundas, mas várias frases ficaram soltas - não tive energia pra tecer a linha de raciocínio completa. eu tava super cansado, dormindo mal e comendo mal - e triste por não ter conseguido me preparar pra imersão com antecedência.
 
 ---
 
@@ -28,7 +28,7 @@ os próximos sistemas. caminhos possíveis pra vidas mais conscientes, coerentes
 
 o sentimento de estar aqui, presente, entregue, com tantas pessoas interessantes, potentes, alinhadas num propósito maior e não conseguir me expressar, me fazer visto, é muito frustrante.
 
-o que eu tenho descoberto, é que como uma expectativa desse curso, é que eu continue descobrindo formas de me expressar e me desdobrar, pra que a partir da minha autenticidade - que venha a [[topics/art/brazilian nerdcore\|música nerd]], o metal, o trap, o rap, o beatbox, as músicas tradicionais dos povos ([[topics/art/world music\|world music]]), a poesia, o teatro, a contemplação, o espairecer - eu possa vir a amparar esse espaço pra outras pessoas também.
+o que eu tenho descoberto, é que como uma expectativa desse curso, é que eu continue descobrindo formas de me expressar e me desdobrar, pra que a partir da minha autenticidade - que venha a [[topics/art/brazilian nerdcore\|música nerd]], o metal, o trap, o rap, o [[topics/art/beatbox\|beatbox]], as músicas tradicionais dos povos ([[topics/art/world music\|world music]]), a poesia, o teatro, a contemplação, o espairecer - eu possa vir a amparar esse espaço pra outras pessoas também.
 
 então o meu pedido é: que possamos ter espaços conjuntos pra explorar essa expressão do sagrado em nós.
 

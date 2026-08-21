@@ -63,7 +63,7 @@ and we need to act/coordinate towards a [[systemic transition\|systemic transiti
 ---
 ##### further reading
 
-on collapse [[memetic tribes\|memetic tribes]]: [Subcultures of collapse – will there be a convergence?](https://jembendell.com/2025/06/08/subcultures-of-collapse-will-there-be-a-convergence/)
+on collapse [[concepts/design/memetic tribes\|memetic tribes]]: [Subcultures of collapse – will there be a convergence?](https://jembendell.com/2025/06/08/subcultures-of-collapse-will-there-be-a-convergence/)
 
 [[people/references/design/joseph tainter\|joseph tainter]] on [[the collapse of complex societies\|the collapse of complex societies]].
 

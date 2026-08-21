@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-05-28T20:36:27-03:00","last tended to":"2024-10-25T13:57:53-03:00","tags":["design","philosophy","🌱"],"dg-publish":true,"relevancescore":98,"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-05-19T13:56:07.267-03:00","readinesslevel":"20%","permalink":"/002-core/design-philosophies/","dgPassFrontmatter":true}
+{"created in":"2024-05-28T20:36:27-03:00","last tended to":"2024-10-25T13:57:53-03:00","tags":["design","philosophy","🌱"],"dg-publish":true,"relevancescore":98,"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-08-15T18:45:24.193-03:00","readinesslevel":"20%","permalink":"/002-core/design-philosophies/","dgPassFrontmatter":true}
 ---
 
 ##### an introduction to prevailing and emergent design philosophies
@@ -20,6 +20,7 @@ see also: [[projects & tools/projects/design/diome.xyz\|diome.xyz]]'s note on [m
 \+ currently learning more about:
 - [[models & frameworks/design/metadesign\|metadesign]]
 - [[concepts/design/complexity\|complexity]]-informed / [[topics/design/holonic design\|holonic]] / [[concepts/regen/biomimicry\|biomimetic]] / living systems design
+- [[responses/design/autonomous design\|autonomous design]]
 
 i see all of these approaches - some more robust and academic, some more early-stage - as valid, important and powerful, and a combination of them as necessary for different contexts - which i like to represent using the [[models & frameworks/design/three horizons\|three horizons]] framework.
 

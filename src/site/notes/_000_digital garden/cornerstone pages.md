@@ -12,6 +12,8 @@ these are the key pages that will give you an introduction to the key topics/ref
 
 | file                                                                                                                    | relevancescore | type                                  | notestage            |
 | ----------------------------------------------------------------------------------------------------------------------- | -------------- | ------------------------------------- | -------------------- |
+| [[_002_core/design philosophies\|design philosophies]]                                                               | 98             | _002_core                             | <ul><li>🌱</li></ul> |
+| [[_002_core/theories of change\|theories of change]]                                                                 | 98             | _002_core                             | <ul><li>🌱</li></ul> |
 | [[concepts/alchemy/integral development\|integral development]]                                                      | 98             | concepts/alchemy                      | <ul><li>🌱</li></ul> |
 | [[concepts/alchemy/sensemaking\|sensemaking]]                                                                        | 98             | concepts/alchemy                      | <ul><li>🌿</li></ul> |
 | [[concepts/design/metacrisis\|metacrisis]]                                                                           | 98             | concepts/design                       | <ul><li>🌿</li></ul> |
@@ -21,8 +23,6 @@ these are the key pages that will give you an introduction to the key topics/ref
 | [[inquiries & heuristics/what technology is actually worth building\|what technology is actually worth building]]    | 98             | inquiries & heuristics                | <ul><li>🌿</li></ul> |
 | [[people/references/design/daniel schmachtenberger\|daniel schmachtenberger]]                                        | 98             | people/references/design              | <ul><li>🌱</li></ul> |
 | [[topics/design/coordination systems\|coordination systems]]                                                         | 98             | topics/design                         | <ul><li>🌱</li></ul> |
-| [[_002_core/design philosophies\|design philosophies]]                                                               | 98             | _002_core                             | <ul><li>🌱</li></ul> |
-| [[_002_core/theories of change\|theories of change]]                                                                 | 98             | _002_core                             | <ul><li>🌱</li></ul> |
 | [[_003_L1F3/key concepts & ideas/civilization design\|civilization design]]                                          | 97             | _003_L1F3/key concepts & ideas        | <ul><li>🌱</li></ul> |
 | [[_003_L1F3/key concepts & ideas/life design\|life design]]                                                          | 97             | _003_L1F3/key concepts & ideas        | <ul><li>🌱</li></ul> |
 | [[initiatives, orgs & communities/regen/gesturing towards decolonial futures\|gesturing towards decolonial futures]] | 96             | initiatives, orgs & communities/regen | <ul><li>🌱</li></ul> |
