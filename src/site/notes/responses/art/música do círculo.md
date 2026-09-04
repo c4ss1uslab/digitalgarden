@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-05-31T16:42:16-03:00","last tended to":"2024-11-03T16:05:03-03:00","aliases":["MdC","mdc"],"tags":["music","play","🌿","host","practice","art","alchemy"],"relevancescore":93,"dg-publish":true,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-08-21T14:56:26.482-03:00","permalink":"/responses/art/musica-do-circulo/","dgPassFrontmatter":true}
+{"created in":"2023-05-31T16:42:16-03:00","last tended to":"2024-11-03T16:05:03-03:00","aliases":["MdC","mdc"],"tags":["music","play","🌿","host","practice","art","alchemy"],"relevancescore":93,"dg-publish":true,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-08-21T14:56:26.482-03:00","permalink":"/responses/art/musica-do-circulo/","dgPassFrontmatter":true,"dg-note-properties":{"created in":"2023-05-31T16:42:16-03:00","last tended to":"2024-11-03T16:05:03-03:00","aliases":["MdC","mdc"],"tags":["music","play","🌿","host","practice","art","alchemy"],"relevancescore":93,"notestage":["🌿"],"created":"2023-05-31T16:42","updated":"2026-08-21T14:39"}}
 ---
 
 https://musicadocirculo.com/
@@ -60,7 +60,7 @@ the sessions are usually 1h30-long, and although there's some content posted onl
 
 if like me, you were new to [[topics/art/body music\|body music]] while being introduced to this, here's a small playlist with just a few songs that i love, that might get you started on this rabbit hole as well.
 
-![](https://www.youtube.com/watch?v=9wziiK-eUnA&list=PLnpPY4NV-19wYzV_-beBgpxm67w4wFuam&index=1)
+<div class="youtube-embed"><iframe src="https://www.youtube.com/embed/9wziiK-eUnA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 you can also read some of my [[_010_notes from courses, events & chats/2024-08 - reflections on the 1st música do círculo leading training immersion\|loose reflections on my 1st música do círculo leading training immersion]] if you want to learn more.
 
@@ -74,7 +74,8 @@ you can also read some of my [[_010_notes from courses, events & chats/2024-08 -
 
 
 
-![mdc deck 1.jpg|300](/img/user/assets/mdc%20deck%201.jpg)  ![mdc deck 2.jpg|400](/img/user/assets/mdc%20deck%202.jpg)  ![mdc deck 3.jpg|650](/img/user/assets/mdc%20deck%203.jpg) 
+![mdc deck 1.jpg\|300](/img/user/assets/mdc%20deck%201.jpg)  ![mdc deck 2.jpg\|400](/img/user/assets/mdc%20deck%202.jpg)  ![mdc deck 3.jpg\|650](/img/user/assets/mdc%20deck%203.jpg)
+
 
 </div></div>
 

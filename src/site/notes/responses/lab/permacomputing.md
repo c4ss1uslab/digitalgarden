@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-08-22T15:27:37-03:00","last tended to":"2024-11-06T18:52:19-03:00","tags":["concept","regen","technology","design","cybernetics","research","🌱","lab","response"],"relevancescore":96,"dg-publish":true,"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-06-12T14:31:13.840-03:00","readinesslevel":"30%","permalink":"/responses/lab/permacomputing/","dgPassFrontmatter":true}
+{"created in":"2024-08-22T15:27:37-03:00","last tended to":"2024-11-06T18:52:19-03:00","tags":["concept","regen","technology","design","cybernetics","research","🌱","lab","response"],"relevancescore":96,"dg-publish":true,"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-06-12T14:31:13.840-03:00","readinesslevel":"30%","permalink":"/responses/lab/permacomputing/","dgPassFrontmatter":true,"dg-note-properties":{"created in":"2024-08-22T15:27:37-03:00","last tended to":"2024-11-06T18:52:19-03:00","tags":["concept","regen","technology","design","cybernetics","research","🌱","lab","response"],"relevancescore":96,"notestage":["🌱"],"created":"2024-08-22T15:27","updated":"2025-06-12T14:31","readinesslevel":"30%"}}
 ---
 
 #### about

@@ -1,5 +1,5 @@
 ---
-{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-26T13:44:01.440-03:00","tags":["game","education","music","tool","🕳"],"dg-publish":true,"permalink":"/references/player/games/rocksmith/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-26T13:44:01.440-03:00","tags":["game","education","music","tool","🕳"],"dg-publish":true,"permalink":"/references/player/games/rocksmith/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2025-01-27T15:07","updated":"2026-07-26T13:44","tags":["game","education","music","tool","🕳"]}}
 ---
 
 https://store.ubisoft.com/ofertas/rocksmithplus/660ecb20fbff4e2940488bf4.html

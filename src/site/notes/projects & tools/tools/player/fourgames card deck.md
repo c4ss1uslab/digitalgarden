@@ -1,11 +1,11 @@
 ---
-{"created in":"2024-06-17T19:29:50-03:00","last tended to":"2024-09-02T15:23:00-03:00","aliases":["fourgames cards","fourgame cards","fourgames deck","card deck"],"tags":["player","tool","facilitation","alchemy"],"dg-publish":true,"permalink":"/projects-and-tools/tools/player/fourgames-card-deck/","dgPassFrontmatter":true,"created":"1969-12-31T21:00:00.000-03:00","updated":"2024-09-02T15:23:00.784-03:00"}
+{"created in":"2024-06-17T19:29:50-03:00","last tended to":"2024-09-02T15:23:00-03:00","aliases":["fourgames cards","fourgame cards","fourgames deck","card deck"],"tags":["player","tool","facilitation","alchemy"],"dg-publish":true,"permalink":"/projects-and-tools/tools/player/fourgames-card-deck/","dgPassFrontmatter":true,"created":"1969-12-31T21:00:00.000-03:00","updated":"2024-09-02T15:23:00.784-03:00","dg-note-properties":{"created in":"2024-06-17T19:29:50-03:00","last tended to":"2024-09-02T15:23:00-03:00","aliases":["fourgames cards","fourgame cards","fourgames deck","card deck"],"tags":["player","tool","facilitation","alchemy"]}}
 ---
 
 sold out as of 06/2024 - previously available at: https://www.etsy.com/shop/FourGames
 ###### images:
 
-<!--![fourgames deck.jpeg|700](/img/user/assets/fourgames%20deck.jpeg)-->
+<!--![fourgames deck.jpeg\|700](/img/user/assets/fourgames%20deck.jpeg)-->
 ![](https://i.imgur.com/B9TmJ81.jpeg)
 
 <!--![fourgames deck - full.jpeg](/img/user/assets/fourgames%20deck%20-%20full.jpeg)-->

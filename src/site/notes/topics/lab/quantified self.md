@@ -1,5 +1,5 @@
 ---
-{"last tended to":"2024-09-24T16:08:04-03:00","aliases":["quantify yourself","quantify themselves","quantify"],"tags":["topic","datamanagement","knowledgemanagement","self-knowledge","🌱","selfmanagement","alchemy"],"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-26T13:50:21.196-03:00","dg-publish":true,"permalink":"/topics/lab/quantified-self/","dgPassFrontmatter":true}
+{"last tended to":"2024-09-24T16:08:04-03:00","aliases":["quantify yourself","quantify themselves","quantify"],"tags":["topic","datamanagement","knowledgemanagement","self-knowledge","🌱","selfmanagement","alchemy"],"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-26T13:50:21.196-03:00","dg-publish":true,"permalink":"/topics/lab/quantified-self/","dgPassFrontmatter":true,"dg-note-properties":{"last tended to":"2024-09-24T16:08:04-03:00","aliases":["quantify yourself","quantify themselves","quantify"],"tags":["topic","datamanagement","knowledgemanagement","self-knowledge","🌱","selfmanagement","alchemy"],"notestage":["🌱"],"created":"2024-04-17T19:21","updated":"2026-07-26T13:50"}}
 ---
 
 ###### great references:

@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-03-19T17:52:10-03:00","last tended to":"2024-09-24T16:23:06-03:00","tags":["alchemy","concept","metacrisis","philosophy","🌱"],"relevancescore":96,"dg-publish":true,"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-04-23T12:02:49.564-03:00","permalink":"/responses/alchemy/cosmoerotic-humanism/","dgPassFrontmatter":true}
+{"created in":"2024-03-19T17:52:10-03:00","last tended to":"2024-09-24T16:23:06-03:00","tags":["alchemy","concept","metacrisis","philosophy","🌱"],"relevancescore":96,"dg-publish":true,"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-04-23T12:02:49.564-03:00","permalink":"/responses/alchemy/cosmoerotic-humanism/","dgPassFrontmatter":true,"dg-note-properties":{"created in":"2024-03-19T17:52:10-03:00","last tended to":"2024-09-24T16:23:06-03:00","tags":["alchemy","concept","metacrisis","philosophy","🌱"],"relevancescore":96,"notestage":["🌱"],"created":"2024-05-04T18:13","updated":"2026-04-23T12:02"}}
 ---
 
 > "Where the best validated insights from science, philosophy, and religion are woven together to answer the most pressing questions for global thriving." — [[initiatives, orgs & communities/alchemy/center for world philosophy & religion\|center for world philosophy & religion]]'s substack

@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-09-07T19:07:42-03:00","last tended to":"2024-09-07T19:54:02-03:00","tags":["art","music","worldmusic","artist","brazilian","🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-07-06T20:17:33.870-03:00","dg-publish":true,"notestage":["🌿"],"aliases":["a magnífica orchestra"],"permalink":"/references/music/artists/a-magnifica-orchestra-de-musicas-do-mundo/","dgPassFrontmatter":true}
+{"created in":"2024-09-07T19:07:42-03:00","last tended to":"2024-09-07T19:54:02-03:00","tags":["art","music","worldmusic","artist","brazilian","🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-07-06T20:17:33.870-03:00","dg-publish":true,"notestage":["🌿"],"aliases":["a magnífica orchestra"],"permalink":"/references/music/artists/a-magnifica-orchestra-de-musicas-do-mundo/","dgPassFrontmatter":true,"dg-note-properties":{"created in":"2024-09-07T19:07:42-03:00","last tended to":"2024-09-07T19:54:02-03:00","tags":["art","music","worldmusic","artist","brazilian","🌿"],"created":"2024-09-07T19:07","updated":"2025-07-06T20:17","notestage":["🌿"],"aliases":["a magnífica orchestra"]}}
 ---
 
 https://www.instagram.com/amagnificaorchestra

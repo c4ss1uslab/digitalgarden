@@ -1,5 +1,5 @@
 ---
-{"aliases":["map","maps"],"created in":"2022-04-19T15:34:21-03:00","last tended to":"2024-09-26T15:23:18-03:00","tags":["🌿","mapping","topic","response","knowledgedesign","knowledgevisualization","lab","design"],"relevancescore":94,"dg-publish":true,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-03-26T13:51:24.230-03:00","permalink":"/responses/lab/mapping/","dgPassFrontmatter":true}
+{"aliases":["map","maps"],"created in":"2022-04-19T15:34:21-03:00","last tended to":"2024-09-26T15:23:18-03:00","tags":["🌿","mapping","topic","response","knowledgedesign","knowledgevisualization","lab","design"],"relevancescore":94,"dg-publish":true,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-03-26T13:51:24.230-03:00","permalink":"/responses/lab/mapping/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["map","maps"],"created in":"2022-04-19T15:34:21-03:00","last tended to":"2024-09-26T15:23:18-03:00","tags":["🌿","mapping","topic","response","knowledgedesign","knowledgevisualization","lab","design"],"relevancescore":94,"notestage":["🌿"],"created":"2022-04-19T15:34","updated":"2026-03-26T13:51"}}
 ---
 
 ### about
@@ -22,7 +22,6 @@ see also: [[counter-cartographies\|counter-cartographies]], [[data visualization
 
 ###### according to wardley mapping, any map contains the following 6 elements:
 
-
 - visual representation
 - context specific
 - **position** of **components** relative to some form of **anchor**
@@ -39,7 +38,7 @@ yet, many people refer to them as maps, so i'll propose a different, more loose 
 
 ##### 1) [[models & frameworks/design/wardley mapping\|wardley maps]]
 
-![example wardley map - annotated.png|500](/img/user/images/maps/example%20wardley%20map%20-%20annotated.png)
+![example wardley map - annotated.png\|500](/img/user/images/maps/example%20wardley%20map%20-%20annotated.png)
 
 ##### 2) [[tang jeff\|tang jeff]]'s classification on twitter:
 
@@ -75,22 +74,22 @@ i honestly don't recommend going through the whole thing, unless you have time t
 -> nadia's classification summary:
 
 a) [[skeumorphic maps\|skeumorphic maps]]
-![1 - skeumorphic maps.png|500](/img/user/images/maps/1%20-%20skeumorphic%20maps.png)
+![1 - skeumorphic maps.png\|500](/img/user/images/maps/1%20-%20skeumorphic%20maps.png)
 
 b) [[schematic maps\|schematic maps]]
-![2 - schematic maps.png|500](/img/user/images/maps/2%20-%20schematic%20maps.png)
+![2 - schematic maps.png\|500](/img/user/images/maps/2%20-%20schematic%20maps.png)
 
 c) [[matrix maps\|matrix maps]]
-![3 - matrix maps.png|500](/img/user/images/maps/3%20-%20matrix%20maps.png)
+![3 - matrix maps.png\|500](/img/user/images/maps/3%20-%20matrix%20maps.png)
 
 d) [[chinese menu maps\|chinese menu maps]]
-![4 - chinese menu maps.png|500](/img/user/images/maps/4%20-%20chinese%20menu%20maps.png)
+![4 - chinese menu maps.png\|500](/img/user/images/maps/4%20-%20chinese%20menu%20maps.png)
 
 e) [[word cloud maps\|word cloud maps]]
-![5 - word cloud maps.png|500](/img/user/images/maps/5%20-%20word%20cloud%20maps.png)
+![5 - word cloud maps.png\|500](/img/user/images/maps/5%20-%20word%20cloud%20maps.png)
 
 f) type of guy maps ([[memes\|memes]])
-![6 - type of guy maps.png|500](/img/user/images/maps/6%20-%20type%20of%20guy%20maps.png)
+![6 - type of guy maps.png\|500](/img/user/images/maps/6%20-%20type%20of%20guy%20maps.png)
 
 ##### 4) lastly, other types of common maps:
 
@@ -98,14 +97,14 @@ a) [[ecosystem maps\|ecosystem maps]]:
 
 <iframe src="https://embed.kumu.io/93dd947d40c4523b2969847bfd7564b3" width="940" height="600" frameborder="0"></iframe>
 
-![liminal web map.png|500](/img/user/images/maps/liminal%20web%20map.png)
+![liminal web map.png\|500](/img/user/images/maps/liminal%20web%20map.png)
 
 b) [[concept maps\|concept maps]] (a.k.a. [[topics/alchemy/mental models\|mental models]]/[[frameworks\|frameworks]]):
 --> proposes a model that describes how something works or can work.
 
 [[initiatives, orgs & communities/alchemy/possibility management\|possibility management]]'s [thoughtmaps](https://pmthoughtmaps.mystrikingly.com/)
 
-![social layers.png|500](/img/user/images/models%20&%20frameworks/social%20layers.png)
+![social layers.png\|500](/img/user/images/models%20&%20frameworks/social%20layers.png)
 
 c) [[general knowledge maps\|general knowledge maps]] / [[relationship maps\|relationship maps]]:
 
@@ -136,7 +135,6 @@ c) [[general knowledge maps\|general knowledge maps]] / [[relationship maps\|rel
 
 
 ##### "maps of the internet" projects:
-
 
 **internet map:**
 https://www.halcyonmaps.com/#/map-of-the-internet-2021/
@@ -206,9 +204,9 @@ https://www.visualcapitalist.com/histomap/ - visualizing the 4,000-year history 
 ⭐️ great compilation of nearly all ecosystem mapping efforts: https://secondrenaissance.net/wiki/overview-mapping-efforts
 
 to understand the usefulness of these initiatives, look at how they're mapping:
-- [[value systems\|value systems]] ([[concepts/alchemy/effective value memes\|effective value memes]]),
+- [[topics/alchemy/value systems\|value systems]] ([[concepts/alchemy/effective value memes\|effective value memes]]),
 - [[topics/alchemy/belief systems\|belief systems]],
-- [[worldviews\|worldviews]],
+- [[topics/alchemy/worldviews\|worldviews]],
 - [[information ecologies\|information ecologies]],
 - [[_002_core/theories of change\|theories of change]], and
 - [[systemic challenges\|systemic challenges]] in coordinating these perspectives for navigating the [*extremely complex historical moment*](https://drive.google.com/file/d/1gmASP2v696diI9XVrWRkHOxUtCoxDkbN/view?pli=1) we're living.
@@ -218,7 +216,7 @@ to understand the usefulness of these initiatives, look at how they're mapping:
 
 introduction to the concept/space and illustration made by [[people/references/lab/maggie appleton\|maggie appleton]]:
  
-[![maggie appleton's internet communities cattegorization.png|700](/img/user/assets/maggie%20appleton's%20internet%20communities%20cattegorization.png)](https://maggieappleton.com/cozy-web)
+[![maggie appleton's internet communities cattegorization.png\|700](/img/user/assets/maggie%20appleton's%20internet%20communities%20cattegorization.png)](https://maggieappleton.com/cozy-web)
 *(click to read more)*
 
 a collection of very interesting references in the space: https://diagram.website/

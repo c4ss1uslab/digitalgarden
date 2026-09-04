@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-09-03T14:13:57-03:00","last tended to":"2024-10-13T01:35:30-03:00","tags":["personal","storytelling","essay","music","self-knowledge","🌿"],"dg-publish":true,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-04-08T14:27:49.960-03:00","permalink":"/writings/the-evolution-of-my-weird-relationship-with-music-and-the-origins-of-my-occult-references/","dgPassFrontmatter":true}
+{"created in":"2024-09-03T14:13:57-03:00","last tended to":"2024-10-13T01:35:30-03:00","tags":["personal","storytelling","essay","music","self-knowledge","🌿"],"dg-publish":true,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-08-07T23:06:48.297-03:00","permalink":"/writings/the-evolution-of-my-weird-relationship-with-music-and-the-origins-of-my-occult-references/","dgPassFrontmatter":true,"dg-note-properties":{"created in":"2024-09-03T14:13:57-03:00","last tended to":"2024-10-13T01:35:30-03:00","tags":["personal","storytelling","essay","music","self-knowledge","🌿"],"notestage":["🌿"],"created":"2024-09-03T14:13","updated":"2026-08-07T23:06"}}
 ---
 
 written in: july 10th, 2024
@@ -54,7 +54,7 @@ he touched my heart in ways i didn't know was possible through music, and i unwi
 { #a7293a}
 
 
-i didn't know art/music could convey emotion, stories, in a level of truth/resonance that only language sometimes can't. the only other place i'd felt this way before - i realized - was [[topics/player/anime\|anime]].
+i didn't know art/music could convey emotion, stories, in a level of truth/resonance that only language sometimes can't. the only other place i'd felt this way before - i realized - was [[topics/player/anime MOC\|anime MOC]].
 
 this led me down this other rabbit hole - i started re-listening to lots of anime/[[game soundtracks\|game soundtracks]] i hadn't heard in ages. still love [some of them](https://www.youtube.com/playlist?list=PLnpPY4NV-19wCwycfs5z-WPiGv5u4oFwl). that's where i recognized i really liked OSTs too. it's crazy how they can create an atmosphere, a mood that invites you to experience yourself more deeply and to paint it with your own feelings.
 
@@ -106,7 +106,7 @@ if you search for nerdcore online, you'll find a description like [chosic](https
 { #4460a8}
 
 
-in brazil though, nerdcore really started its scene as "anime rap". mostly people rapping about a character or interpreting the story as that character (from [[topics/player/anime\|anime]]/[[manga\|manga]] like [[naruto\|naruto]]/[[dragon ball\|dragon ball]], games like [[GTA\|GTA]]/[[the last of us\|the last of us]], tv shows like [[the walking dead\|the walking dead]]/[[game of thrones\|game of thrones]] and such). i don't know much about the history of the scene in the world - from what i know, it's a reasonably small scene - people just created songs about these topics, not interpreting as the characters themselves.
+in brazil though, nerdcore really started its scene as "anime rap". mostly people rapping about a character or interpreting the story as that character (from [[topics/player/anime MOC\|anime MOC]]/[[manga\|manga]] like [[naruto\|naruto]]/[[dragon ball\|dragon ball]], games like [[GTA\|GTA]]/[[the last of us\|the last of us]], tv shows like [[the walking dead\|the walking dead]]/[[game of thrones\|game of thrones]] and such). i don't know much about the history of the scene in the world - from what i know, it's a reasonably small scene - people just created songs about these topics, not interpreting as the characters themselves.
 { #757d9d}
 
 

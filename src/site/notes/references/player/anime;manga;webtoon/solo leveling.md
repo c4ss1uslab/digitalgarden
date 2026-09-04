@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-01-09T18:52:58-03:00","last tended to":"2024-05-04T21:52:53-03:00","tags":["geek","anime","webtoon","🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-08-08T16:56:56.160-03:00","dg-publish":true,"notestage":["🌱"],"permalink":"/references/player/anime-manga-webtoon/solo-leveling/","dgPassFrontmatter":true}
+{"created in":"2024-01-09T18:52:58-03:00","last tended to":"2024-05-04T21:52:53-03:00","tags":["geek","anime","webtoon","🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-08-08T16:56:56.160-03:00","dg-publish":true,"notestage":["🌱"],"permalink":"/references/player/anime-manga-webtoon/solo-leveling/","dgPassFrontmatter":true,"dg-note-properties":{"created in":"2024-01-09T18:52:58-03:00","last tended to":"2024-05-04T21:52:53-03:00","tags":["geek","anime","webtoon","🌱"],"created":"2024-01-09T18:52","updated":"2026-08-08T16:56","notestage":["🌱"]}}
 ---
 
 one of the most successful [[topics/player/webtoons\|webtoons]] of all time. it burst the bubble and introduced the manhwa scene to many [[topics/player/anime MOC\|anime]]/[[manga\|manga]] fans. it got its own ongoing anime adaptation in 2023.

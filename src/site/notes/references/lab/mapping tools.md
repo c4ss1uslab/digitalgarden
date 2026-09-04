@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-06-05T16:01:40-03:00","last tended to":"2024-10-22T20:07:18-03:00","tags":["mapping","🌿","lab","design","database"],"dg-publish":true,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-03-25T19:44:59.375-03:00","permalink":"/references/lab/mapping-tools/","dgPassFrontmatter":true}
+{"created in":"2024-06-05T16:01:40-03:00","last tended to":"2024-10-22T20:07:18-03:00","tags":["mapping","🌿","lab","design","database"],"dg-publish":true,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-03-25T19:44:59.375-03:00","permalink":"/references/lab/mapping-tools/","dgPassFrontmatter":true,"dg-note-properties":{"created in":"2024-06-05T16:01:40-03:00","last tended to":"2024-10-22T20:07:18-03:00","tags":["mapping","🌿","lab","design","database"],"notestage":["🌿"],"created":"2024-06-05T16:01","updated":"2026-03-25T19:44"}}
 ---
 
 ###### tier 1:

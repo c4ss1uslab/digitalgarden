@@ -1,5 +1,5 @@
 ---
-{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-08-13T16:13:52.833-03:00","tags":["alchemy","regen","host","decolonization","indigenous","AI","philosophy","🌱","metacrisis"],"dg-publish":true,"notestage":["🌱"],"aliases":["metarelational.ai","MetaRelational AI"],"permalink":"/responses/alchemy/meta-relationality/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-08-13T16:13:52.833-03:00","tags":["alchemy","regen","host","decolonization","indigenous","AI","philosophy","🌱","metacrisis"],"dg-publish":true,"notestage":["🌱"],"aliases":["metarelational.ai","MetaRelational AI"],"permalink":"/responses/alchemy/meta-relationality/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2025-05-28T12:18","updated":"2026-08-13T16:13","tags":["alchemy","regen","host","decolonization","indigenous","AI","philosophy","🌱","metacrisis"],"notestage":["🌱"],"aliases":["metarelational.ai","MetaRelational AI"]}}
 ---
 
 see: https://metarelational.ai/metarelationality

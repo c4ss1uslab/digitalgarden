@@ -1,5 +1,5 @@
 ---
-{"aliases":["integral meta-theory","integral"],"created in":"2022-03-24T17:31:07-03:00","last tended to":"2024-09-26T15:21:24-03:00","tags":["🌿","alchemy","sensemaking","design","framework","response"],"dg-publish":true,"relevancescore":96,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-03-28T11:50:55.232-03:00","permalink":"/responses/alchemy/integral-theory/","dgPassFrontmatter":true}
+{"aliases":["integral meta-theory","integral"],"created in":"2022-03-24T17:31:07-03:00","last tended to":"2024-09-26T15:21:24-03:00","tags":["🌿","alchemy","sensemaking","design","framework","response"],"dg-publish":true,"relevancescore":96,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-03-28T11:50:55.232-03:00","permalink":"/responses/alchemy/integral-theory/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["integral meta-theory","integral"],"created in":"2022-03-24T17:31:07-03:00","last tended to":"2024-09-26T15:21:24-03:00","tags":["🌿","alchemy","sensemaking","design","framework","response"],"relevancescore":96,"notestage":["🌿"],"created":"2022-03-24T17:31","updated":"2026-03-28T11:50"}}
 ---
 
 a meta-theory proposed by [[people/references/alchemy/ken wilber\|ken wilber]], through his study, practice and synthesis of multiple [[topics/alchemy/wisdom traditions\|wisdom traditions]], modern academic disciplines and scientific research.
@@ -14,8 +14,10 @@ AQAL is one of the core frameworks proposed by [[people/references/alchemy/ken w
 
 it is short for: all [[models & frameworks/design/four quadrants\|quadrants]], all [[levels\|levels]], all [[lines\|lines]], all [[states\|states]], all [[types\|types]].
 
-it's one of the frames that helped me the most and reoriented my whole perception on life, so i highly recommend getting to know it. lots of people in the [[tbprocessed/base notes/concepts - general/game b\|game b]] / [[concepts/design/metacrisis\|metacrisis]] space also use it as a way to support complex, multi-perspectival, holistic [[concepts/alchemy/sensemaking\|sensemaking]]. 
-the shortest introduction to the subject i know/like is [[initiatives, orgs & communities/alchemy/integral life\|integral life]]'s ["what is the integral approach?"](https://integrallife.com/what-is-integral-approach/). 
+it's one of the frames that helped me the most and reoriented my whole perception on life, so i highly recommend getting to know it. lots of people in the [[tbprocessed/base notes/concepts - general/game b\|game b]] / [[concepts/design/metacrisis\|metacrisis]] space also use it as a way to support complex, multi-perspectival, holistic [[concepts/alchemy/sensemaking\|sensemaking]].
+
+the shortest introduction to the subject i know/like is [[initiatives, orgs & communities/alchemy/integral life\|integral life]]'s ["what is the integral approach?"](https://integrallife.com/what-is-integral-approach/).
+
 ![](https://i.imgur.com/jmBqHWS.jpg)
 
 

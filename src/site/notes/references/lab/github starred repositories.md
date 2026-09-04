@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-08-04T03:07:49-03:00","last tended to":"2024-10-22T17:40:29-03:00","tags":["lab","datamanagement","resource","🌱","informationmanagement"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-08-07T23:06:48.106-03:00","dg-publish":true,"notestage":["🌱"],"permalink":"/references/lab/github-starred-repositories/","dgPassFrontmatter":true}
+{"created in":"2022-08-04T03:07:49-03:00","last tended to":"2024-10-22T17:40:29-03:00","tags":["lab","datamanagement","resource","🌱","informationmanagement"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-08-07T23:06:48.106-03:00","dg-publish":true,"notestage":["🌱"],"permalink":"/references/lab/github-starred-repositories/","dgPassFrontmatter":true,"dg-note-properties":{"created in":"2022-08-04T03:07:49-03:00","last tended to":"2024-10-22T17:40:29-03:00","tags":["lab","datamanagement","resource","🌱","informationmanagement"],"created":"2022-08-04T03:07","updated":"2026-08-07T23:06","notestage":["🌱"]}}
 ---
 
 total amount (as of november 7th, 2024): 274

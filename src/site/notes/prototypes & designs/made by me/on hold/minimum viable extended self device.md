@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-02-15T15:09:27-03:00","last tended to":"2024-10-11T18:43:20-03:00","tags":["prototype","onhold","🌿","lab","player"],"dg-publish":true,"aliases":["XS device","minimum viable XS device","extended self device"],"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-11T23:17:08.009-03:00","permalink":"/prototypes-and-designs/made-by-me/on-hold/minimum-viable-extended-self-device/","dgPassFrontmatter":true}
+{"created in":"2024-02-15T15:09:27-03:00","last tended to":"2024-10-11T18:43:20-03:00","tags":["prototype","onhold","🌿","lab","player"],"dg-publish":true,"aliases":["XS device","minimum viable XS device","extended self device"],"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-11T23:17:08.009-03:00","permalink":"/prototypes-and-designs/made-by-me/on-hold/minimum-viable-extended-self-device/","dgPassFrontmatter":true,"dg-note-properties":{"created in":"2024-02-15T15:09:27-03:00","last tended to":"2024-10-11T18:43:20-03:00","tags":["prototype","onhold","🌿","lab","player"],"aliases":["XS device","minimum viable XS device","extended self device"],"notestage":["🌿"],"created":"2024-02-15T15:09","updated":"2026-07-11T23:17"}}
 ---
 
 [[type\|type]]: [[life management/life areas (internal)/physical\|physical]] / [[digital\|digital]] [[objects\|objects]]
@@ -40,8 +40,8 @@ for the mvp, i'm considering between using a: [[raspberry pi\|raspberry pi]], [[
 
 i would love it to feel like a [[hyperdimensional\|hyperdimensional]] [[concepts/player/artifacts\|artifact]] - highligting elements such as [[concepts/alchemy/embodied cognition\|embodied cognition]], [[mystery\|mystery]], [[topics/player/play\|play]] - instead of the predominant flat [[topics/lab/interfaces MOC\|UI]] trends of mainstream tech.
 
-![hyperdimensional cube - davison carvalho.jpg|700](/img/user/assets/hyperdimensional%20cube%20-%20davison%20carvalho.jpg)
-![maze.jpg|700](/img/user/assets/maze.jpg)
+![hyperdimensional cube - davison carvalho.jpg\|700](/img/user/assets/hyperdimensional%20cube%20-%20davison%20carvalho.jpg)
+![maze.jpg\|700](/img/user/assets/maze.jpg)
 ![maze1.jpg](/img/user/assets/maze1.jpg)
 ![maze2.jpg](/img/user/assets/maze2.jpg)
 

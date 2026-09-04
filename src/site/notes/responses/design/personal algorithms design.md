@@ -1,5 +1,5 @@
 ---
-{"tags":["design","lab","lifedesign","selfdesign","alchemy","art","🌱","response"],"dg-publish":true,"relevancescore":94,"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-01-24T16:58:04.367-03:00","permalink":"/responses/design/personal-algorithms-design/","dgPassFrontmatter":true}
+{"tags":["design","lab","lifedesign","selfdesign","alchemy","art","🌱","response"],"dg-publish":true,"relevancescore":94,"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-01-24T16:58:04.367-03:00","permalink":"/responses/design/personal-algorithms-design/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["design","lab","lifedesign","selfdesign","alchemy","art","🌱","response"],"relevancescore":94,"notestage":["🌱"],"created":"2024-06-22T14:58","updated":"2025-01-24T16:58"}}
 ---
 
 algorithms can specify the logic/[[terms/decision-making\|decision-making]] processes you use to navigate in life, within yourself and in the world at large.

@@ -1,5 +1,5 @@
 ---
-{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-06-08T16:14:58.646-03:00","tags":["🌱","host","philosophy","collaboration","coordination","socialsensemaking","socialchange","systemschange","concept"],"relevancescore":97,"dg-publish":true,"readinesslevel":"35%","notestage":["🌱"],"permalink":"/writings/a-short-philosophy-on-privilege-having-building-sharing/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-06-08T16:14:58.646-03:00","tags":["🌱","host","philosophy","collaboration","coordination","socialsensemaking","socialchange","systemschange","concept"],"relevancescore":97,"dg-publish":true,"readinesslevel":"35%","notestage":["🌱"],"permalink":"/writings/a-short-philosophy-on-privilege-having-building-sharing/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2026-06-08T14:07:00","updated":"2026-06-08T16:14","tags":["🌱","host","philosophy","collaboration","coordination","socialsensemaking","socialchange","systemschange","concept"],"relevancescore":97,"readinesslevel":"35%","notestage":["🌱"]}}
 ---
 
 \+ charity/donation & larger ethics of lifestyle choices

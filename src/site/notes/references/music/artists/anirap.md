@@ -1,5 +1,5 @@
 ---
-{"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-03-02T14:07:56.740-03:00","tags":["artist","music","braziliannerdcore","🌿","geek"],"notestage":["🌿"],"dg-publish":true,"permalink":"/references/music/artists/anirap/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-03-02T14:07:56.740-03:00","tags":["artist","music","braziliannerdcore","🌿","geek"],"notestage":["🌿"],"dg-publish":true,"permalink":"/references/music/artists/anirap/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2025-02-27T14:24","updated":"2025-03-02T14:07","tags":["artist","music","braziliannerdcore","🌿","geek"],"notestage":["🌿"]}}
 ---
 
 #### listening stats
@@ -19,9 +19,9 @@ as of february 28th, 2025, anirap is my #3 most listened artist of all-time with
 | #1   | rudo surebrec   | [[gachiakuta\|gachiakuta]]      | lixo                  | 9.8   | (...)                 |     |     | storytelling                       | sep/2024     |     |
 | #2   | eren yeager     | [[attack on titan\|attack on titan]] | o sacrifício do vilão | 9.6   | (...)                 |     |     |                                    | feb/2022     |     |
 | #3   | akaza           | [[demon slayer\|demon slayer]]    | o lua superior 3      | 9.6   | (...)                 |     |     | storytelling                       | jan/2022     |     |
-| #4   | barou           | [[blue lock\|blue lock]]       | rei absoluto          | 9.3   | (...)                 |     |     |                                    | feb/2023     |     |
+| #4   | barou           | [[references/player/anime;manga;webtoon/blue lock\|blue lock]]       | rei absoluto          | 9.3   | (...)                 |     |     |                                    | feb/2023     |     |
 | #5   | taiju shiba     | [[tokyo revengers\|tokyo revengers]] | amém                  | 9.2   | (...)                 |     |     | chorus, sfx                        | jan/2023     |     |
-| #6   | itoshi sae      | [[blue lock\|blue lock]]       | ABSOLUTO              | 9.1   | (...)                 |     |     | phonk                              | feb/2025     |     |
+| #6   | itoshi sae      | [[references/player/anime;manga;webtoon/blue lock\|blue lock]]       | ABSOLUTO              | 9.1   | (...)                 |     |     | phonk                              | feb/2025     |     |
 | #7   | kokushibo       | [[demon slayer\|demon slayer]]    | inveja                | 9     | (...)                 |     |     | voice acting, lyrics, harmonies    | feb/2025     |     |
 | #8   | douma           | [[demon slayer\|demon slayer]]    | frias emoções         | 8.9   | (...)                 |     |     | dancy, upbeat                      | jul/2024     |     |
 | #9   | shuji hanma     | [[tokyo revengers\|tokyo revengers]] | pecado ou punição     | 8.9   | (...)                 |     |     | dancy, chill                       | may/2024     |     |
@@ -29,7 +29,7 @@ as of february 28th, 2025, anirap is my #3 most listened artist of all-time with
 | #11  | nagato/pain     | [[naruto\|naruto]]          | um deus               | 8.8   | (...)                 |     |     | storytelling, lyrics, orchestral   | apr/2022     |     |
 | #12  | kaleb           | [[sense life\|sense life]]      | over-dose             | 8.8   | (...)                 |     |     | upbeat, synth                      | aug/2023     |     |
 | #13  | higuruma hiromi | [[jujutsu kaisen\|jujutsu kaisen]]  | tribunal              | 8.8   | (...)                 |     |     | upbeat, jazzy                      | jan/2024     |     |
-| #14  | bachira         | [[blue lock\|blue lock]]       | monstro egoísta       | 8.8   | (...)                 |     |     | build up                           | jan/2023     |     |
+| #14  | bachira         | [[references/player/anime;manga;webtoon/blue lock\|blue lock]]       | monstro egoísta       | 8.8   | (...)                 |     |     | build up                           | jan/2023     |     |
 | #15  | mitsuya         | [[tokyo revengers\|tokyo revengers]] | dragão gêmeo          | 8.7   | (...)                 |     |     | dancy, chill                       | mar/2023     |     |
 | #16  | sanemi e genya  | [[demon slayer\|demon slayer]]    | caçada violenta       | 8.6   | (...)                 |     |     | super aggressive                   | apr/2022     |     |
 | #17  | gyutaro         | [[demon slayer\|demon slayer]]    | o lua superior 6      | 8.6   | (...)                 |     |     | storytelling                       | mar/2022     |     |
