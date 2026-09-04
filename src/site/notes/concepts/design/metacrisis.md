@@ -1,25 +1,37 @@
 ---
-{"created in":"2023-10-31T15:56:54-03:00","last tended to":"2024-11-06T18:52:18-03:00","dg-publish":true,"aliases":["personal and civilizational crises","systemic crises"],"tags":["concept","metacrisis","design"],"relevancescore":98,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-09-04T11:52:22.703-03:00","readinesslevel":"70%","permalink":"/concepts/design/metacrisis/","dgPassFrontmatter":true,"dg-note-properties":{"created in":"2023-10-31T15:56:54-03:00","last tended to":"2024-11-06T18:52:18-03:00","aliases":["personal and civilizational crises","systemic crises"],"tags":["concept","metacrisis","design"],"relevancescore":98,"notestage":["🌿"],"created":"2023-10-31T15:56","updated":"2026-07-13T21:57","readinesslevel":"70%"}}
+{"aliases":["personal and civilizational crises","systemic crises"],"tags":["concept","metacrisis","design"],"relevancescore":98,"notestage":["🌿"],"dg-publish":true,"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-09-04T13:28:58.042-03:00","readinesslevel":"70%","permalink":"/concepts/design/metacrisis/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["personal and civilizational crises","systemic crises"],"tags":["concept","metacrisis","design"],"relevancescore":98,"notestage":["🌿"],"created":"2023-10-31T15:56","updated":"2026-09-04T13:20","readinesslevel":"70%"}}
 ---
 
 #### about
 
 the term "metacrisis" [was coined by philosophers](https://deeptransformation.io/nicholas-hedlund-sean-esbjorn-hargens-1-grappling-with-the-metacrisis/) [[nicholas hedlund\|nicholas hedlund]] and [[sean esbjörn-hargens\|sean esbjörn-hargens]], and has been further adopted by a loosely associated community of big picture thinkers, spiritual practitioners, cognitive scientists, regenerative activists, systems change facilitators and more, often also gathering around the terms [[responses/alchemy/metamodernism\|metamodernism]], [[responses/alchemy/integral theory\|integral theory]] and [[topics/design/regeneration\|regeneration]], with [[people/references/design/daniel schmachtenberger\|daniel schmachtenberger]] and [[nate hagens\|nate hagens]] probably being the most well-known people using the term. (see: [life itself's ecosystem map](https://secondrenaissance.net/publications/overview-ecosystem-names) for an overview of associated/adjacent communities)
 
-the term has several different definitions (which i explore more below), but the one i like the most sees it as pointing towards the perception that **the set of interconnected crises of our time - social, ecological, economic, political, informational, existential - might share a same root cause, the same underlying set of [[diagnosis/generator functions of existential risk\|generator functions]].**
+for a great introductory paper by [[initiatives, orgs & communities/design/life itself\|life itself]], see: https://metacrisis.info/
 
-as posed by daniel, we could summarize it by saying: [[rivalrous dynamics\|rivalrous dynamics]] x [[subsuming of the (ecological/complex) substrate\|subsuming of the (ecological/complex) substrate]] x [[exponential tech\|exponential tech]] = self-termination.
+i'll use the space below to synthesize a few perspectives.
+
+the term has several different definitions, but the one i like the most sees it as pointing towards the perception that **the set of interconnected crises of our time - social, ecological, economic, political, informational, existential - might share a same root cause, the same underlying set of [[diagnosis/generator functions of existential risk\|generator functions]].**
+
+as posed by daniel, we could summarize it by saying:
+
+> [[rivalrous dynamics\|rivalrous dynamics]] x [[subsuming of the (ecological/complex) substrate\|subsuming of the (ecological/complex) substrate]] x [[exponential tech\|exponential tech]] = self-termination.
+
+it's a great definition in terms of highlighting the fundamental dysfunctions, not so great in evidencing what leads to [[rivalrous dynamics\|rivalrous dynamics]] to begin with.
+
+[[people/references/design/daniel schmachtenberger\|daniel schmachtenberger]] discusses this at some length in [some of his content], but ultimately, he simply points to how it's a profound [[psychospiritual\|psychospiritual]] practice.
 
 there are other terms often used by other researchers and practitioners that point to similar perspectives, such as [[concepts/design/polycrisis\|polycrisis]] and the [[anthropocene\|anthropocene]], however the body of work that has been emerging out of the "metacrisis" space provides the deepest and broadest analyses i've found of our present [[human predicament\|human predicament]], which can help us navigate the inner and outer complexity of it, and make informed decisions to address the uniquely challenging state of the world.
 
 i.e., in short: i use the term "metacrisis" to refer to our human condition of growing [[concepts/design/existential risk\|existential]] and [[terms/catastrophic risk\|catastrophic risks]] propelled by recurring [[concepts/design/coordination failure\|coordination failures]] in trying to address the [[diagnosis/generator functions of existential risk\|root causes]] of [[systemic degeneration\|systemic degeneration]] and the need to redesign our [[civilizational systems\|civilizational systems]] as [[omni-win systems\|omni-considerate]] ones, if we're to be [[concepts/alchemy/wisdom\|wise]] stewards of the first truly global society in the history of human civilizations.
 
-the many different perspectives on the metacrisis seem to converge to two conclusions:
+my reading on the many different perspectives on the metacrisis is that they seem to converge to two conclusions:
 
-at the core of the metacrisis there's:
+a way to frame it would be that, at the core of the metacrisis there's:
 
-1) a dominant [[topics/alchemy/metaphysics\|metaphysics]], [[concepts/alchemy/ontology\|ontology]] and [[ways of living\|ways of living]] embedded in our culture, which are disconnected from [[concepts/design/value\|value]], [[sacredness\|sacredness]], and a sense of [[interdependence\|interdependence]] with each other and with [[nature\|nature]] itself, and consequently
-2) the design of our [[diagnosis/self-terminating economic system\|socioeconomic system]] and subsequent structures, which predate on their own [[models & frameworks/design/holistic cultural materialism\|life support systems]] (ecological substrate), leading to self-termination as the standard outcome.
+> 1) a dominant [[topics/alchemy/metaphysics\|metaphysics]], [[concepts/alchemy/ontology\|ontology]] and [[ways of living\|ways of living]] embedded in our culture, which are disconnected from [[concepts/design/value\|value]], [[sacredness\|sacredness]], and a sense of [[interdependence\|interdependence]] with each other and with [[nature\|nature]] itself, and consequently
+> 2) the design of our [[diagnosis/self-terminating economic system\|socioeconomic system]] and subsequent infrastructures and social structures, which predate on their own [[models & frameworks/design/holistic cultural materialism\|life support systems]] (ecological substrate), leading to self-termination as the standard outcome.
+
+if we have clarity and can work on these two levels, we're off to a good start.
 
 ---
 #### why learn about this
@@ -87,15 +99,15 @@ https://www.gameb.wiki/ - a wiki with not a lot, but very relevant content, grea
 
 i found it useful to highlight 5 "core", interdependent crises underpinning the metacrisis:
 
-the [[life management/spiritual\|spiritual]]/[[psychological\|psychological]], [[ecological\|ecological]], [[political\|political]], [[economic\|economic]] and [[educational\|educational]] crises.
+the [[life management/spiritual\|spiritual]]/[[psychological\|psychological]], [[educational\|educational]], [[ecological\|ecological]], [[political\|political]] and [[economic\|economic]] crises.
 
 which can then be broken down into several other crisis and dynamics:
 
 -> spiritual/psychological -> [[mental health crisis\|mental health]], [[diagnosis/meaning crisis\|meaning]], [[diagnosis/existential crisis\|existential]], [[diagnosis/intimacy crisis\|intimacy crisis]], etc...
+-> educational -> [[diagnosis/sensemaking crisis\|sensemaking]], [[topics/alchemy/wisdom crisis\|wisdom crisis]], [[trust crisis\|trust crisis]], etc...
 -> ecological -> [[concepts/design/health crisis\|health]], [[diagnosis/climate crisis\|climate]], [[diagnosis/energy crisis\|energy crisis]], etc...
 -> political -> [[diagnosis/legitimacy crisis\|legitimacy crisis]], [[concepts/design/coordination failure\|coordination failure]], [[geopolitical risks\|geopolitical risks]], etc...
 -> economic -> [[diagnosis/financial collapse\|financial collapse]], [[technological risk\|technological risk]], [[concepts/design/capability crisis\|capability crisis]], [[perverse incentives\|perverse incentives]], etc...
--> educational -> [[diagnosis/sensemaking crisis\|sensemaking]], [[topics/alchemy/wisdom crisis\|wisdom crisis]], [[trust crisis\|trust crisis]], etc...
 
 they loosely map into the [[models & frameworks/design/four quadrants\|four quadrants]]/[[models & frameworks/framework variations/5 elements\|5 elements]] framework, which helps to navigate/coordinate around it. they are crises of different inter-relating dimensions ([[inner\|inner]], [[outer\|outer]], [[individual\|individual]], [[collective\|collective]]).
 
