@@ -1,5 +1,5 @@
 ---
-{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-08-24T13:38:51.499-03:00","tags":["concept","regen","design","🌱"],"relevancescore":98,"notestage":["🌱"],"epistemicstatus":null,"dg-publish":true,"permalink":"/concepts/regen/syntropy/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2025-01-10T17:59","updated":"2026-08-24T13:35","tags":["concept","regen","design","🌱"],"relevancescore":98,"notestage":["🌱"],"epistemicstatus":null}}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-09-04T15:09:32.521-03:00","tags":["concept","regen","design","🌱"],"relevancescore":98,"notestage":["🌱"],"epistemicstatus":null,"dg-publish":true,"permalink":"/concepts/regen/syntropy/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2025-01-10T17:59","updated":"2026-09-04T15:08","tags":["concept","regen","design","🌱"],"relevancescore":98,"notestage":["🌱"],"epistemicstatus":null}}
 ---
 
 a term that seems to have been coined by [[initiatives, orgs & communities/design/buckminster fuller institute\|buckminster fuller]] in the 1940s to allude to the opposite force of [[entropy\|entropy]]. the way the [[initiatives, orgs & communities/design/buckminster fuller institute\|buckminster fuller institute]] frames it is:
@@ -14,6 +14,8 @@ also, [[negentropy\|negentropy]] is used in some scientific circles, with a crit
 
 ---
 > [!caution]- aug 21st, 2026 - introductory claude report:
+> 
+> see: [[topics/lab/AI ethics\|AI ethics]], [[_004_c4ss1us/c4ss1us.lab\|c4ss1us.lab]] & [[inquiries & heuristics/what technology is actually worth building\|what technology is actually worth building]] for my stance towards using/developing AI. i'm using it and sharing the results here while aware of the costs and compromises.
 > 
 > prompt: create an in-depth report comparing [[people/references/alchemy/ken wilber\|ken wilber]]'s writings on the universe's drive towards higher levels of [[order\|order]], [[concepts/design/complexity\|complexity]] and [[wholeness\|wholeness]], [[buckminster fuller\|buckminster fuller]]'s syntropy, [[schrödinger\|schrödinger]] & [[brillouin\|brillouin]]'s negentropy, and information ([[topics/lab/cybernetics\|cybernetics]]). point me to the original sources that discuss this in depth.
 > 
