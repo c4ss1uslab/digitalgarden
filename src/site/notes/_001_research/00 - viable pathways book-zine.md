@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-03-25T13:53:56-03:00","last tended to":"2024-10-06T02:11:50-03:00","tags":["🌿"],"aliases":["viable pathways","viable pathways zine","viable pathways book-zine","viable pathways book-zine mvp","book-zine"],"dg-publish":true,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-28T15:53:02.538-03:00","relevancescore":98,"readinesslevel":"40%","permalink":"/001-research/00-viable-pathways-book-zine/","dgPassFrontmatter":true,"dg-note-properties":{"created in":"2022-03-25T13:53:56-03:00","last tended to":"2024-10-06T02:11:50-03:00","tags":["🌿"],"aliases":["viable pathways","viable pathways zine","viable pathways book-zine","viable pathways book-zine mvp","book-zine"],"notestage":["🌿"],"created":"2022-03-25T13:53","updated":"2026-07-28T15:53","relevancescore":98,"readinesslevel":"40%"}}
+{"created in":"2022-03-25T13:53:56-03:00","last tended to":"2024-10-06T02:11:50-03:00","tags":["🌿"],"aliases":["viable pathways","viable pathways zine","viable pathways book-zine","viable pathways book-zine mvp","book-zine"],"dg-publish":true,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-09-04T14:53:38.329-03:00","relevancescore":96,"readinesslevel":"40%","permalink":"/001-research/00-viable-pathways-book-zine/","dgPassFrontmatter":true,"dg-note-properties":{"created in":"2022-03-25T13:53:56-03:00","last tended to":"2024-10-06T02:11:50-03:00","tags":["🌿"],"aliases":["viable pathways","viable pathways zine","viable pathways book-zine","viable pathways book-zine mvp","book-zine"],"notestage":["🌿"],"created":"2022-03-25T13:53","updated":"2026-09-04T14:50","relevancescore":96,"readinesslevel":"40%"}}
 ---
 
 <!--![viable pathways book-zine cover.png\|1000](/img/user/assets/viable%20pathways%20book-zine%20cover.png)-->
@@ -8,21 +8,23 @@
 ---
 #### about
 
-the viable pathways book-zine is a *research-in-development publication* that covers a wide range of topics, exploring different [[concepts/lab/dynamic medium\|media formats]] and [[topics/design/design patterns\|design patterns]] for more nuanced understanding and effective navigation. it's an attempt to bring all of the most important contents of this garden into a structured, more gradual and cohesive presentation.
+the viable pathways book-zine is a *research-in-development publication* that's an attempt to bring all of the most important contents of this garden into a structured, more gradual and cohesive presentation.
 
-fundamentally, it's an inquiry into [[post capitalist systems\|post capitalist systems]] and [[concepts/alchemy/ways of being\|ways of being]]:
+fundamentally, it's an inquiry into:
 
 > how can we create systems that enable us to conceive [[concepts/alchemy/thriving\|thrivable]] societies, playing, coordinating and collaborating towards more [[sacred\|sacred]], [[topics/design/regeneration\|regenerative]] and resilient presents & futures?
 
-there is a myriad of different perspectives and research on the complex [[human predicament\|human predicament]] we're in, often called the [[anthropocene\|anthropocene]], [[concepts/design/polycrisis\|polycrisis]] and the [[concepts/design/metacrisis\|metacrisis]]. and even where there's some agreement amongst these views, there is often divergence on what to do/how to move beyond it.
+there is a myriad of different perspectives and research on the complex [[human predicament\|human predicament]] we're in, often called the [[anthropocene\|anthropocene]], [[concepts/design/polycrisis\|polycrisis]] and the [[concepts/design/metacrisis\|metacrisis]]. and even where there's some agreement in the diagnosis, there is often divergence on what to do/how to move beyond it.
 
-i'm asking: **what are these different perspectives, what are their theories of change, how do they converge & diverge, and could they be complementary?**
+throughout the zine, i'm asking: **what are these different perspectives, what are their [[_002_core/theories of change\|theories of change]], how do they converge & diverge, and could they be complementary?**
 
 the goal of my research was to map, understand and curate multiple cohesive approaches to answer the question:
 
 > **how can we address the profound spiritual/psychological, ecological, economic, sociopolitical, technological and educational challenges we're going through and create the more beautiful world our hearts know is possible?**
 
-as a single young person trying to do research in this very broad direction, the goal of my sharings here isn't to come up with any comprehensive, ultimate thesis. i draw from my own sense of [[resonance\|resonance]] and from several people who have been asking these questions for their whole lives, with the aim of establishing a basic [[responses/lab/knowledge commons\|knowledge commons]] that can better inform us in designing and enabling new, more [[resilient\|resilient]] and [[regenerative\|regenerative]] [[topics/design/systems\|systems]], [[_003_L1F3/key concepts & ideas/lifestyles\|lifestyles]] and [[concepts/alchemy/ways of being\|ways of being]].
+as a single young person trying to do research in this very broad direction, the goal of my sharings here isn't to come up with any comprehensive, ultimate thesis. it's simply to flag and present: "this is the territory i surveyed and these are the findings".
+
+i discriminate based on my own sense of [[resonance\|resonance]] and from several people who have been asking these questions for their whole lives, with the aim of establishing a basic [[responses/lab/knowledge commons\|knowledge commons]] that can better inform us in designing and enabling new, more [[resilient\|resilient]] and [[regenerative\|regenerative]] [[topics/design/systems\|systems]], [[_003_L1F3/key concepts & ideas/lifestyles\|lifestyles]] and [[concepts/alchemy/ways of being\|ways of being]].
 
 i believe this process of open [[concepts/alchemy/sensemaking\|sensemaking]], [[topics/design/curation\|curation]] and [[patterns/active patterns/learning/learning out loud\|learning out loud]] will be ever-more important to navigate the very complex, polarized and heavily propagandized [[concepts/design/knowledge ecologies\|information ecologies]] we're embedded in with [[care\|care]], [[love\|love]] and [[terms/community\|community]], as we navigate different forms of both personal and societal [[diagnosis/systemic collapse\|collapse]].
 
@@ -36,7 +38,7 @@ the essays below present the **major inquiries** that i'm slowly investigating, 
 - 🌱 [[core essays/🌀 enabling authentic and transformative learning - frames, resources & pathways\|🌀 enabling authentic and transformative learning - frames, resources & pathways]]
 - 🌿 [[core essays/💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons\|💭 foundational concepts for developing regenerative information ecologies & empowering knowledge commons]]
 - 🌱 [[core essays/🦸🏻‍♀️ design specs & constraints for enabling minimum viable vocational economies\|🦸🏻‍♀️ design specs & constraints for enabling minimum viable vocational economies]]
-- 🌿 [[core essays/🎎 networked living - practical tools and perspectives for empowering collectives amidst accelerating attention & experience economies\|🎎 networked living - practical tools and perspectives for empowering collectives amidst accelerating attention & experience economies]]
+- 🌿 [[core essays/🎎 networked living - practical tools and perspectives for empowering collectives amidst accelerating extractive attention & experience economies\|🎎 networked living - practical tools and perspectives for empowering collectives amidst accelerating extractive attention & experience economies]]
 - 🌱 [[core essays/🌐 an introduction to the L1F3 game and the L1F3 support systems\|🌐 an introduction to the L1F3 game and the L1F3 support systems]]
 - 🌱 [[core essays/🌌 reality 101 - a curated hyperlinked multimedia collection\|🌌 reality 101 - a curated hyperlinked multimedia collection]]
 - 🌱 [[🕸 life design & decision-making 202 - fundamentals beyond the common sense\|🕸 life design & decision-making 202 - fundamentals beyond the common sense]]
@@ -50,6 +52,14 @@ title: note
 collapse: open
 the contents of the writing below are currently haphazard, disjointed and all over the place. please proceed at your own risk. (*or don't.* feel free to come back later when it'll be hopefully updated and improved.)
 ```
+
+we'll cover (from bottom to top):
+
+- deep analyses of the [[concepts/design/metacrisis\|metacrisis]], exploring references from different [[topics/alchemy/worldviews\|worldviews]] on navigating our crises and reality itself,
+- analyses of the deeper philosophical underpinnings of these perspectives, especially: [[responses/alchemy/integral theory\|integral meta-theory]], [[responses/alchemy/cosmoerotic humanism\|cosmoerotic humanism]], [[concepts/alchemy/decolonization\|decolonial theory]], [[responses/alchemy/meta-relationality\|meta-relationality]] and [[responses/alchemy/metamodernism\|metamodernism]],
+- the different [[_002_core/theories of change\|theories of change]] emerging especially from these bodies of work,
+- [[_002_core/design philosophies\|design approaches]] that can be applied at different levels of depth towards [[systems transformation\|systems transformation]] and the design of new systems, and finally:
+- maps, examples and opportunities of [[_005_MOCs/050 🟩 mid game/055 💼 ventures & initiatives MOC\|initiatives]], [[_005_MOCs/050 🟩 mid game/060 🗡 projects MOC\|projects]] and [[_005_MOCs/050 🟩 mid game/080 ⚒ tools MOC\|tools]] across these different domains ([[concepts/alchemy/integral development\|consciousness]], [[_004_c4ss1us/c4ss.art\|art]], [[_004_c4ss1us/c4ss1us.lab\|technology]], [[responses/regen/regenerative design\|regeneration]], [[topics/design/systems\|systems]]/[[concepts/player/game\|games]]) putting all of this into practice.
 ### table of contents
 
 the main questions (and chapters) i'm been asking throughout the zine are:

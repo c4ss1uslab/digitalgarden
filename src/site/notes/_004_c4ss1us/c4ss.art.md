@@ -1,5 +1,5 @@
 ---
-{"aliases":["👨🏻‍🎨 c4ss.art",".art","art","artist"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-06-12T14:32:58.060-03:00","tags":["c4ss1us","art","🌱"],"notestage":["🌱"],"dg-publish":true,"relevancescore":98,"readinesslevel":"30%","permalink":"/004-c4ss1us/c4ss-art/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["👨🏻‍🎨 c4ss.art",".art","art","artist"],"created":"2023-05-31T16:51","updated":"2025-06-12T14:32","tags":["c4ss1us","art","🌱"],"notestage":["🌱"],"relevancescore":98,"readinesslevel":"30%"}}
+{"aliases":["👨🏻‍🎨 c4ss.art",".art","art","artist"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-09-04T14:36:59.758-03:00","tags":["c4ss1us","art","🌱"],"notestage":["🌱"],"dg-publish":true,"relevancescore":98,"readinesslevel":"30%","permalink":"/004-c4ss1us/c4ss-art/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["👨🏻‍🎨 c4ss.art",".art","art","artist"],"created":"2023-05-31T16:51","updated":"2026-09-04T14:35","tags":["c4ss1us","art","🌱"],"notestage":["🌱"],"relevancescore":98,"readinesslevel":"30%"}}
 ---
 
 **see also:** [c4ss.art mmm.page (visual overview)](https://c4ss1us.mmm.page/art)
@@ -15,13 +15,13 @@ it's a bridge between the possible and the actual, and it provides a way to [[te
 
 in many philosophical traditions, [[beauty\|beauty]], or [[aesthetics\|aesthetics]], is on equal standing to [[truth\|truth]] and [[goodness\|goodness]].
 
-not all art comes from this place of - might i say - soulful expression, nor could it be the case due to many perverse [[concepts/design/incentive structures\|incentive structures]], [[psychological biases\|psychological biases]] and widespread [[diagnosis/meaning crisis\|psycho-spiritual alienation]] of our times (not being defeatist here).
+not all art comes from this place of - might i say - soulful expression. nor could it be the case due to many perverse [[concepts/design/incentive structures\|incentive structures]], [[psychological biases\|psychological biases]] and widespread [[diagnosis/meaning crisis\|psycho-spiritual alienation]] of our times (not being defeatist here).
 
 i'd argue that's not even the goal. art doesn't have to be perfect, immaculate, always reflecting "the best we can make". if it reflects our authentic experience, however messy, confused, weird, and ugly it is, i believe it's serving its purpose.
 
-it might not be understood at all - either by ourselves or others - yet, on a deeper level, it might be serving us in our learning process.
+our art might not be understood at all - either by ourselves or others - yet, on a deeper level, it might be serving us in our learning processes.
 
-still, a question remains:
+still, a question remains open for me:
 
 > how can we create art that's profoundly moving, inspiring, supportive and empowering? 💫
 
@@ -29,7 +29,9 @@ in my experience, [[tbprocessed/base notes/concepts - general/art\|art]] is what
 
 i'm therefore especially interested in [[story\|stories]], [[visuals\|visuals]], [[movement\|movement]], [[sounds\|sounds]], [[concepts/player/game\|games]] & [[concepts/design/memetics\|memetics]] that come from or reflect this [[terms/evolutionary\|evolutionary]]/[[sacred\|sacred]] sense.
 
-[[tbprocessed/base notes/concepts - general/art\|art]] is revolutionary as in 1) it empowers us to see ourselves as [[creators\|creators]], and act from that place - and 2) it can provide direct responses to the many [[diagnosis/intimacy crisis\|intimacy]], [[diagnosis/meaning crisis\|meaning]], and [[diagnosis/existential crisis\|existential crises]] we're going through.
+[[tbprocessed/base notes/concepts - general/art\|art]] is revolutionary as in:
+1) it empowers us to see ourselves as [[creators\|creators]] and to act from that place, and
+2) it can provide direct responses to the many [[diagnosis/intimacy crisis\|intimacy]], [[diagnosis/meaning crisis\|meaning]], and [[diagnosis/existential crisis\|existential crises]] we're going through.
 
 what i share below are some of my key themes of [[_001_research/research\|research]], [[topics/player/learning\|learning]] and [[topics/design/curation\|curation]], that have both helped me in my journey so far and that i want to further dive into, so as to develop capacity to a) create such beauty and b) support others who might be struggling on this path on [[self-discovery\|self-discovery]], [[self-expression\|expression]] and [[understanding\|understanding]].
 

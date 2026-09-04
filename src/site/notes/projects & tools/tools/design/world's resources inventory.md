@@ -1,5 +1,5 @@
 ---
-{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-26T13:52:28.060-03:00","tags":["initiative","tool","design","sensemaking","systemschange","systemsdesign","🌱"],"dg-publish":true,"permalink":"/projects-and-tools/tools/design/world-s-resources-inventory/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-26T13:52:28.060-03:00","tags":["initiative","tool","design","sensemaking","systemschange","systemsdesign","🌱"],"dg-publish":true,"permalink":"/projects-and-tools/tools/design/world-s-resources-inventory/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2026-06-08T14:08:00","updated":"2026-07-26T13:52","tags":["initiative","tool","design","sensemaking","systemschange","systemsdesign","🌱"]}}
 ---
 
 

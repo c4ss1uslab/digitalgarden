@@ -1,5 +1,5 @@
 ---
-{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-03-28T11:50:54.233-03:00","tags":["tool","alchemy","🌱"],"relevancescore":82,"dg-publish":true,"notestage":["🌱"],"permalink":"/projects-and-tools/tools/alchemy/human-design/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-03-28T11:50:54.233-03:00","tags":["tool","alchemy","🌱"],"relevancescore":82,"dg-publish":true,"notestage":["🌱"],"permalink":"/projects-and-tools/tools/alchemy/human-design/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2025-02-10T15:07","updated":"2026-03-28T11:50","tags":["tool","alchemy","🌱"],"relevancescore":82,"notestage":["🌱"]}}
 ---
 
 ##### about

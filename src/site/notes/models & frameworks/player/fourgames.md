@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-11-13T16:13:43-03:00","last tended to":"2024-09-26T15:26:13-03:00","dg-publish":true,"tags":["framework","player","🌿","design","alchemy","coordination","seriousgame","reallifegame","response","lifedesign","selfdesign"],"aliases":["fourgame dynamics","4game dynamics","4games"],"relevancescore":94,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-04-05T13:35:12.148-03:00","permalink":"/models-and-frameworks/player/fourgames/","dgPassFrontmatter":true}
+{"created in":"2023-11-13T16:13:43-03:00","last tended to":"2024-09-26T15:26:13-03:00","dg-publish":true,"tags":["framework","player","🌿","design","alchemy","coordination","seriousgame","reallifegame","response","lifedesign","selfdesign"],"aliases":["fourgame dynamics","4game dynamics","4games"],"relevancescore":94,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-04-05T13:35:12.148-03:00","permalink":"/models-and-frameworks/player/fourgames/","dgPassFrontmatter":true,"dg-note-properties":{"created in":"2023-11-13T16:13:43-03:00","last tended to":"2024-09-26T15:26:13-03:00","tags":["framework","player","🌿","design","alchemy","coordination","seriousgame","reallifegame","response","lifedesign","selfdesign"],"aliases":["fourgame dynamics","4game dynamics","4games"],"relevancescore":94,"notestage":["🌿"],"created":"2023-11-13T16:13","updated":"2025-04-05T13:35"}}
 ---
 
 ##### intro
@@ -12,12 +12,12 @@ it presents the core elements of self/someone's life as 4 overlapping, inter-unf
 
 **framework:**
 
-<!--![fourgames flow.jpeg|750](/img/user/assets/fourgames%20flow.jpeg)-->
+<!--![fourgames flow.jpeg\|750](/img/user/assets/fourgames%20flow.jpeg)-->
 ![](https://i.imgur.com/gtutRIe.jpeg)
 
 **another great view (and a possible "game board"):**
 
-<!--![fourgames full breakdown 3 (highest-res) upscaled 2.jpeg|750](/img/user/assets/fourgames%20full%20breakdown%203%20(highest-res)%20upscaled%202.jpeg)-->
+<!--![fourgames full breakdown 3 (highest-res) upscaled 2.jpeg\|750](/img/user/assets/fourgames%20full%20breakdown%203%20(highest-res)%20upscaled%202.jpeg)-->
 ![](https://i.imgur.com/mcSJ39p.jpeg)
 
 
@@ -27,19 +27,19 @@ it presents the core elements of self/someone's life as 4 overlapping, inter-unf
 ![](https://i.imgur.com/BNYWoSX.jpeg)
 
 
-<!--![fourgames intro - overview.jpeg|800](/img/user/images/models%20&%20frameworks/fourgames%20intro%20-%20overview.jpeg)-->
+<!--![fourgames intro - overview.jpeg\|800](/img/user/images/models%20&%20frameworks/fourgames%20intro%20-%20overview.jpeg)-->
 ![](https://i.imgur.com/OdqPeKu.jpeg)
 
 
-<!--![wt4gf.png|500](/img/user/assets/wt4gf.png)-->
+<!--![wt4gf.png\|500](/img/user/assets/wt4gf.png)-->
 ![](https://i.imgur.com/3FbRmVX.png)
 
 
-<!--![fourgames plan A memetics ; heuristics.jpeg|700](/img/user/images/models%20&%20frameworks/fourgames%20plan%20A%20memetics%20;%20heuristics.jpeg)-->
+<!--![fourgames plan A memetics ; heuristics.jpeg\|700](/img/user/images/models%20&%20frameworks/fourgames%20plan%20A%20memetics%20;%20heuristics.jpeg)-->
 ![](https://i.imgur.com/Z50ZbKp.jpeg)
 
 
-<!--![fourgames play menu 1.jpeg|600](/img/user/assets/fourgames%20play%20menu%201.jpeg)-->
+<!--![fourgames play menu 1.jpeg\|600](/img/user/assets/fourgames%20play%20menu%201.jpeg)-->
 ![](https://i.imgur.com/D2rsYCa.jpeg)
 
 
@@ -53,15 +53,15 @@ collapse: open
 color: #FFFFFF
 a few other illustrations i find interesting (all curated from [[jamie combs]]' twitter profile).
 
-<!--![fourgames mandala - start anywhere.jpeg](/img/user/assets/fourgames%20mandala%20-%20start%20anywhere.jpeg)-->
+<!--![[fourgames mandala - start anywhere.jpeg]]-->
 ![](https://i.imgur.com/69GHE9E.jpeg)
-<!--![fourgames meme view.jpeg|600](/img/user/assets/fourgames%20meme%20view.jpeg)-->
+<!--![[fourgames meme view.jpeg|600]]-->
 ![](https://i.imgur.com/spkPZAn.jpeg)
 
-<!--![fourgames solarpunk design.jpeg|850](/img/user/assets/fourgames%20solarpunk%20design.jpeg)-->
+<!--![[fourgames solarpunk design.jpeg|850]]-->
 ![](https://i.imgur.com/GCtpWuF.jpeg)
 
-<!--![fourgames 3 illustrations.jpeg|350](/img/user/assets/fourgames%203%20illustrations.jpeg)-->
+<!--![[fourgames 3 illustrations.jpeg|350]]-->
 ![](https://i.imgur.com/tmXyLaO.jpeg)
 ```
 
@@ -76,7 +76,7 @@ they also have created some time ago a [[projects & tools/tools/player/fourgames
 
 ###### images:
 
-<!--![fourgames deck.jpeg|700](/img/user/assets/fourgames%20deck.jpeg)-->
+<!--![fourgames deck.jpeg\|700](/img/user/assets/fourgames%20deck.jpeg)-->
 ![](https://i.imgur.com/B9TmJ81.jpeg)
 
 <!--![fourgames deck - full.jpeg](/img/user/assets/fourgames%20deck%20-%20full.jpeg)-->

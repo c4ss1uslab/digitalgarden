@@ -1,5 +1,5 @@
 ---
-{"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-06-24T17:27:45.524-03:00","tags":["tool","socialsensemaking","sensemaking","design","research","lab","project","🌱"],"dg-publish":true,"relevancescore":96,"notestage":["🌱"],"permalink":"/projects-and-tools/projects/design/cosmik/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-06-24T17:27:45.524-03:00","tags":["tool","socialsensemaking","sensemaking","design","research","lab","project","🌱"],"dg-publish":true,"relevancescore":96,"notestage":["🌱"],"permalink":"/projects-and-tools/projects/design/cosmik/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2024-11-29T21:48","updated":"2025-06-24T17:27","tags":["tool","socialsensemaking","sensemaking","design","research","lab","project","🌱"],"relevancescore":96,"notestage":["🌱"]}}
 ---
 
 https://www.cosmik.network/

@@ -1,5 +1,5 @@
 ---
-{"created in":"2022-03-11T14:11:43-03:00","last tended to":"2024-09-24T16:23:28-03:00","tags":["top3","person","metacrisis","alchemy","sensemaking","architect","research","🌱"],"relevancescore":98,"dg-publish":true,"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-06-17T15:16:27.177-03:00","permalink":"/people/references/design/daniel-schmachtenberger/","dgPassFrontmatter":true}
+{"created in":"2022-03-11T14:11:43-03:00","last tended to":"2024-09-24T16:23:28-03:00","tags":["top3","person","metacrisis","alchemy","sensemaking","architect","research","🌱"],"relevancescore":98,"dg-publish":true,"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-06-17T15:16:27.177-03:00","permalink":"/people/references/design/daniel-schmachtenberger/","dgPassFrontmatter":true,"dg-note-properties":{"created in":"2022-03-11T14:11:43-03:00","last tended to":"2024-09-24T16:23:28-03:00","tags":["top3","person","metacrisis","alchemy","sensemaking","architect","research","🌱"],"relevancescore":98,"notestage":["🌱"],"created":"2022-03-11T14:11","updated":"2025-06-17T15:16"}}
 ---
 
 #### about

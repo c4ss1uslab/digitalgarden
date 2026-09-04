@@ -1,5 +1,5 @@
 ---
-{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-08-18T20:01:50.276-03:00","tags":["sensemaking","socialchange","systemschange","innerchange","🕳","design"],"dg-publish":true,"relevancescore":96,"permalink":"/concepts/design/memetic-tribes/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2026-08-18T20:00:00","updated":"2026-08-18T20:01","tags":["sensemaking","socialchange","systemschange","innerchange","🕳","design"],"relevancescore":96}}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-09-04T12:24:22.457-03:00","tags":["sensemaking","socialchange","systemschange","innerchange","🕳","design"],"dg-publish":true,"relevancescore":96,"notestage":["🌱"],"permalink":"/concepts/design/memetic-tribes/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2026-08-18T20:00:00","updated":"2026-08-18T20:01","tags":["sensemaking","socialchange","systemschange","innerchange","🕳","design"],"relevancescore":96,"notestage":["🌱"]}}
 ---
 
 good resources:

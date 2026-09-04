@@ -1,5 +1,5 @@
 ---
-{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-11T23:11:18.513-03:00","tags":["pattern","knowledgedesign","lab","design"],"notestage":["🌱"],"dg-publish":true,"permalink":"/patterns/active-patterns/epistemic-status/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-11T23:11:18.513-03:00","tags":["pattern","knowledgedesign","lab","design"],"notestage":["🌱"],"dg-publish":true,"permalink":"/patterns/active-patterns/epistemic-status/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2025-05-21T13:41","updated":"2026-07-11T23:11","tags":["pattern","knowledgedesign","lab","design"],"notestage":["🌱"]}}
 ---
 
 see: https://maggieappleton.com/epistemic-disclosure

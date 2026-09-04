@@ -36,11 +36,11 @@ these are the key pages that will give you an introduction to the key topics/ref
 | ---------------------------------------------------------- | -------------- | ---------------- | -------------------- |
 | [[concepts/alchemy/sensemaking\|sensemaking]]           | 98             | concepts/alchemy | <ul><li>🌿</li></ul> |
 | [[diagnosis/intimacy crisis\|intimacy crisis]]          | 98             | diagnosis        | <ul><li>🌱</li></ul> |
-| [[diagnosis/energy crisis\|energy crisis]]              | 97             | diagnosis        | <ul><li>🌱</li></ul> |
 | [[diagnosis/climate crisis\|climate crisis]]            | 97             | diagnosis        | <ul><li>🌱</li></ul> |
-| [[diagnosis/legitimacy crisis\|legitimacy crisis]]      | 97             | diagnosis        | <ul><li>🌱</li></ul> |
+| [[diagnosis/energy crisis\|energy crisis]]              | 97             | diagnosis        | <ul><li>🌱</li></ul> |
 | [[diagnosis/meaning crisis\|meaning crisis]]            | 97             | diagnosis        | <ul><li>🌱</li></ul> |
 | [[diagnosis/sensemaking crisis\|sensemaking crisis]]    | 97             | diagnosis        | <ul><li>🌱</li></ul> |
+| [[diagnosis/legitimacy crisis\|legitimacy crisis]]      | 97             | diagnosis        | <ul><li>🌱</li></ul> |
 | [[topics/alchemy/adult development\|adult development]] | 97             | topics/alchemy   | <ul><li>🌱</li></ul> |
 
 { .block-language-dataview}

@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-05-29T14:27:52-03:00","last tended to":"2024-09-26T15:53:13-03:00","tags":["interfacedesign","experiencedesign","lab","person","tier1","visuallearning","spatialsoftware","interactiondesign","🌿"],"dg-publish":true,"relevancescore":94,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-06-11T15:51:35.319-03:00","permalink":"/people/references/lab/bret-victor/","dgPassFrontmatter":true}
+{"created in":"2024-05-29T14:27:52-03:00","last tended to":"2024-09-26T15:53:13-03:00","tags":["interfacedesign","experiencedesign","lab","person","tier1","visuallearning","spatialsoftware","interactiondesign","🌿"],"dg-publish":true,"relevancescore":94,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-06-11T15:51:35.319-03:00","permalink":"/people/references/lab/bret-victor/","dgPassFrontmatter":true,"dg-note-properties":{"created in":"2024-05-29T14:27:52-03:00","last tended to":"2024-09-26T15:53:13-03:00","tags":["interfacedesign","experiencedesign","lab","person","tier1","visuallearning","spatialsoftware","interactiondesign","🌿"],"relevancescore":94,"notestage":["🌿"],"created":"2024-05-29T14:27","updated":"2025-06-11T15:51"}}
 ---
 
 https://worrydream.com/
@@ -56,7 +56,8 @@ by: [[people/references/lab/bret victor\|bret victor]]
 
 ---
 
-\*the application of this article goes way beyond the topic of [[climate change\|climate change]]. i recommend reading it not only considering our climate predicament, but the complex, entangled situation of our [[civilizational systems\|civilizational systems]] as whole - [[challenges\|challenges]], [[risks\|risks]], [[shortcomings\|shortcomings]], [[biases\|biases]], etc... it's a great starting point for exploring different large-scale action pathways. 
+\*the application of this article goes way beyond the topic of [[climate change\|climate change]]. i recommend reading it not only considering our climate predicament, but the complex, entangled situation of our [[civilizational systems\|civilizational systems]] as whole - [[challenges\|challenges]], [[risks\|risks]], [[shortcomings\|shortcomings]], [[biases\|biases]], etc... it's a great starting point for exploring different large-scale action pathways.
+
 the article presents a few of the kinds of technological transformations/innovations/initiatives that are deeply needed and are not being talked about enough.
 
 > [!info]- my highlights:

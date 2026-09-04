@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-03-10T15:03:20-03:00","last tended to":"2024-06-22T15:39:11-03:00","tags":["person","design","metadesign","brazilian","architect"],"aliases":["vassão"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-05-19T13:29:59.274-03:00","notestage":["🌱"],"dg-publish":true,"permalink":"/people/references/design/caio-vassao/","dgPassFrontmatter":true}
+{"created in":"2024-03-10T15:03:20-03:00","last tended to":"2024-06-22T15:39:11-03:00","tags":["person","design","metadesign","brazilian","architect"],"aliases":["vassão"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-05-19T13:29:59.274-03:00","notestage":["🌱"],"dg-publish":true,"permalink":"/people/references/design/caio-vassao/","dgPassFrontmatter":true,"dg-note-properties":{"created in":"2024-03-10T15:03:20-03:00","last tended to":"2024-06-22T15:39:11-03:00","tags":["person","design","metadesign","brazilian","architect"],"aliases":["vassão"],"created":"2024-03-10T15:03","updated":"2025-05-19T13:29","notestage":["🌱"]}}
 ---
 
 [Metadesign, Jogos e Transformação Cultural](https://caiovassao.medium.com/metadesign-jogos-e-transforma%C3%A7%C3%A3o-cultural-4ffce499cd8a)
@@ -14,7 +14,8 @@
 
 ###### key influences:
 
-"Além das referências usuais e reconhecidas em educação — como as citadas acima — minha abordagem teve uma origem diferente, baseada no **Metadesign**, com influência da [filosofia contemporânea](https://pt.wikipedia.org/wiki/P%C3%B3s-estruturalismo), [estudos de complexidade](https://pt.wikipedia.org/wiki/Complexidade), [antropologia estruturalista](https://pt.wikipedia.org/wiki/Antropologia_estrutural), [cibernética](https://pt.wikipedia.org/wiki/Cibern%C3%A9tica), [pensamento crítico](https://pt.wikipedia.org/wiki/Escola_de_Frankfurt), [fenomenologia](https://pt.wikipedia.org/wiki/Fenomenologia), [teoria do projeto e da arte](https://caiovassao.com.br/2016/06/07/fratura-romantico-positivista-um-ensaio-sobre-a-epistemologia-da-poiesis/), [dentre outras referências](https://caiovassao.com.br/2009/01/09/arquitetura-livre-complexidade-metadesign-e-ciencia-nomade/)." 
+"Além das referências usuais e reconhecidas em educação — como as citadas acima — minha abordagem teve uma origem diferente, baseada no **Metadesign**, com influência da [filosofia contemporânea](https://pt.wikipedia.org/wiki/P%C3%B3s-estruturalismo), [estudos de complexidade](https://pt.wikipedia.org/wiki/Complexidade), [antropologia estruturalista](https://pt.wikipedia.org/wiki/Antropologia_estrutural), [cibernética](https://pt.wikipedia.org/wiki/Cibern%C3%A9tica), [pensamento crítico](https://pt.wikipedia.org/wiki/Escola_de_Frankfurt), [fenomenologia](https://pt.wikipedia.org/wiki/Fenomenologia), [teoria do projeto e da arte](https://caiovassao.com.br/2016/06/07/fratura-romantico-positivista-um-ensaio-sobre-a-epistemologia-da-poiesis/), [dentre outras referências](https://caiovassao.com.br/2009/01/09/arquitetura-livre-complexidade-metadesign-e-ciencia-nomade/)."
+
 
 </div></div>
 

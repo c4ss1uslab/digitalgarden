@@ -1,5 +1,5 @@
 ---
-{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-13T21:39:02.463-03:00","tags":["🌱","mapping","metaphysics","epistemology","alchemy","design","project","curation","research","sensemaking"],"notestage":["🌱"],"relevancescore":96,"dg-publish":true,"aliases":["reality maps"],"permalink":"/projects-and-tools/made-by-me/lab/reality-mapping/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-08-24T13:18:50.769-03:00","tags":["🌱","mapping","metaphysics","epistemology","alchemy","design","project","curation","research","sensemaking"],"notestage":["🌱"],"relevancescore":96,"dg-publish":true,"aliases":["reality maps"],"permalink":"/projects-and-tools/made-by-me/lab/reality-mapping/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2021-12-11T16:51","updated":"2026-08-24T13:18","tags":["🌱","mapping","metaphysics","epistemology","alchemy","design","project","curation","research","sensemaking"],"notestage":["🌱"],"relevancescore":96,"aliases":["reality maps"]}}
 ---
 
 see also: [[responses/lab/mapping\|mapping]], [[projects & tools/made by me/lab/internet mapping\|internet mapping]], [[prototypes & designs/made by me/collaborative life map\|collaborative life map]]
@@ -45,7 +45,7 @@ a good way i found is through [[people/references/design/andrea farias\|andrea f
 
 see: [[projects & tools/made by me/lab/internet mapping\|internet mapping]]
 
-##### physiologic structure
+##### ecostructure
 
 see: [[_003_L1F3/key concepts & ideas/self-management\|self-management]], [[design science\|design science]], [[models & frameworks/design/metadesign\|metadesign]]
 

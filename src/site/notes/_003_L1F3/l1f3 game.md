@@ -1,5 +1,5 @@
 ---
-{"aliases":["🕹 l1f3 game","life game","🕹 life game","massively-multiplayer online-and-offline collaborative self-transformation & civilization-building game","L1F3.GAME","l1f3.game","🕹 L1F3.game","🕹 L1F3 game","🕹 L1F3.GAME","L1F3 game","L1F3.game"],"created in":"2022-02-05T11:41:05-03:00","last tended to":"2024-09-29T14:37:10-03:00","tags":["l1f3","project","🌿","game","seriousgame","player"],"dg-publish":true,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-06-11T18:29:16.309-03:00","relevancescore":97,"readinesslevel":"20%","permalink":"/003-l1-f3/l1f3-game/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["🕹 l1f3 game","life game","🕹 life game","massively-multiplayer online-and-offline collaborative self-transformation & civilization-building game","L1F3.GAME","l1f3.game","🕹 L1F3.game","🕹 L1F3 game","🕹 L1F3.GAME","L1F3 game","L1F3.game"],"created in":"2022-02-05T11:41:05-03:00","last tended to":"2024-09-29T14:37:10-03:00","tags":["l1f3","project","🌿","game","seriousgame","player"],"notestage":["🌿"],"created":"2022-02-05T11:41","updated":"2026-06-11T18:29","relevancescore":97,"readinesslevel":"20%"}}
+{"aliases":["🕹 l1f3 game","life game","🕹 life game","massively-multiplayer online-and-offline collaborative self-transformation & civilization-building game","L1F3.GAME","l1f3.game","🕹 L1F3.game","🕹 L1F3 game","🕹 L1F3.GAME","L1F3 game","L1F3.game"],"created in":"2022-02-05T11:41:05-03:00","last tended to":"2024-09-29T14:37:10-03:00","tags":["l1f3","project","🌿","game","seriousgame","player"],"dg-publish":true,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-09-04T14:33:32.402-03:00","relevancescore":97,"readinesslevel":"20%","permalink":"/003-l1-f3/l1f3-game/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["🕹 l1f3 game","life game","🕹 life game","massively-multiplayer online-and-offline collaborative self-transformation & civilization-building game","L1F3.GAME","l1f3.game","🕹 L1F3.game","🕹 L1F3 game","🕹 L1F3.GAME","L1F3 game","L1F3.game"],"created in":"2022-02-05T11:41:05-03:00","last tended to":"2024-09-29T14:37:10-03:00","tags":["l1f3","project","🌿","game","seriousgame","player"],"notestage":["🌿"],"created":"2022-02-05T11:41","updated":"2026-09-04T14:25","relevancescore":97,"readinesslevel":"20%"}}
 ---
 
 the l1f3 game is an ongoing endeavor to:
@@ -14,29 +14,29 @@ for the sake of [[resilience\|resilience]], [[concepts/alchemy/values\|values-al
 
 #### interoperability across modalities of serious play
 
-play is both an attitude and an [[terms/action\|action]], that includes different levels of [[data\|data]], [[terms/information\|information]] and [[knowledge\|knowledge]]. considering the [[models & frameworks/design/OODA loop\|OODA loop]], to play is an agreement, a decision that transforms your whole loop - it changes how you observe, orient, decide and act moving forward.
+1) play is both an attitude and an [[terms/action\|action]], which includes different levels of [[data\|data]], [[terms/information\|information]], [[knowledge\|knowledge]] and [[concepts/alchemy/wisdom\|wisdom]]. considering the [[models & frameworks/design/OODA loop\|OODA loop]], to play is an agreement, a decision that transforms your whole loop - it changes how you observe, orient, decide and act moving forward.
 
-[[models & frameworks/player/fourgames\|fourgames]] introduces a simple yet profound lens for how [[life is play\|life is play]]. the games we are always playing and can choose to be more conscious of.
+2) [[models & frameworks/player/fourgames\|fourgames]] introduces a simple yet profound lens for how [[life is play\|life is play]]. the games we are always playing and can choose to be more conscious of.
 
-ancient [[topics/alchemy/wisdom traditions\|wisdom traditions]] also do so by saying that life is a [[lila\|lila]] (play), [[maya\|maya]] (illusion), yet also a journey of [[tbprocessed/base notes/concepts - general/conscious evolution\|conscious evolution]].
+3) ancient [[topics/alchemy/wisdom traditions\|wisdom traditions]] also do so by saying that life is a [[lila\|lila]] (play), [[maya\|maya]] (illusion), yet also a journey of [[tbprocessed/base notes/concepts - general/conscious evolution\|conscious evolution]]\*.
 
-and meta-theorists such as [[people/references/alchemy/ken wilber\|ken wilber]] encapsulate such process of [[concepts/alchemy/integral development\|integral human development]] as processes of [[concepts/alchemy/waking up\|waking up]], [[concepts/alchemy/growing up\|growing up]], [[concepts/alchemy/cleaning up\|cleaning up]], [[concepts/alchemy/showing up\|showing up]]. 
+4) meta-theorists such as [[people/references/alchemy/ken wilber\|ken wilber]] encapsulate such process of [[concepts/alchemy/integral development\|integral human development]] as processes of [[concepts/alchemy/waking up\|waking up]], [[concepts/alchemy/growing up\|growing up]], [[concepts/alchemy/cleaning up\|cleaning up]], [[concepts/alchemy/showing up\|showing up]]. 
 
-[[people/references/lab/gordon brander\|cyberneticians]] and [[biomemetic design\|biomemetic designers]] might use the [[sensing\|sensing]], [[concepts/alchemy/sensemaking\|sensemaking]], [[terms/decision-making\|decision-making]], [[terms/action\|action]], [[topics/player/learning\|learning]] loops to study the [[patterns of living systems\|patterns of living systems]] and do [[complexity-informed design\|complexity-informed design]].
+5) [[people/references/lab/gordon brander\|cyberneticians]] might use the [[sensing\|sensing]], [[concepts/alchemy/sensemaking\|sensemaking]], [[terms/decision-making\|decision-making]], [[terms/action\|action]], [[topics/player/learning\|learning]] loops to study the [[patterns of living systems\|patterns of living systems]] and do [[complexity-informed design\|complexity-informed design]].
 
-[[cognitive scientists\|cognitive scientists]] might emphasize patterns of [[relevance realization\|relevance realization]] and [[reciprocal narrowing\|reciprocal narrowing]] that constitute the organization of our awareness itself...
+6) [[people/references/alchemy/john vervaeke\|cognitive scientists]] might emphasize patterns of [[relevance realization\|relevance realization]] and [[reciprocal narrowing\|reciprocal narrowing]] that constitute the organization of our awareness itself...
 
-[[regenerative designers\|regenerative designers]] might introduce [[concepts/alchemy/flourishing\|flourishing]] or [[concepts/alchemy/thriving\|thriving]] frameworks and the use of [[concepts/design/impact metrics\|wide-boundary]]/[[ecosystems health\|ecosystems health]] metrics.
+7) [[models & frameworks/regen/eco-systemic flourishing\|regenerative designers]] might introduce [[concepts/alchemy/flourishing\|flourishing]] or [[concepts/alchemy/thriving\|thriving]] frameworks and the use of [[concepts/design/impact metrics\|wide-boundary]]/[[ecosystems health\|ecosystems health]] metrics.
 
-and so many other ways to frame this.
+and there are so many other ways to frame this. these would be what i call [[metagames\|metagames]].
 
-my framing so far has been to say: let's build systems that are [[responses/regen/regenerative design\|regenerative]] by design to enable deeper levels of [[terms/collaboration\|collaboration]], [[topics/design/coordination systems\|coordination]], and [[concepts/alchemy/integral development\|self-actualization]] in life.
+my attempt at a simple comprehensive framing so far has been to say: let's build systems that are [[playful\|playful]] and [[responses/regen/regenerative design\|regenerative]] by design to enable deeper levels of [[terms/collaboration\|collaboration]], [[topics/design/coordination systems\|coordination]], and [[concepts/alchemy/integral development\|self-actualization]] in life.
 
-i'm sure many other philosophers, anthropologists, researchers, historians, educators, biologists, and people from all fields, backgrounds and journeys also have their valuable perspectives to add...
+i'm sure many other [[philosophers\|philosophers]], [[anthropologists\|anthropologists]], [[researchers\|researchers]], [[historians\|historians]], [[educators\|educators]], [[biologists\|biologists]], and people from all fields, backgrounds and journeys also have their valuable perspectives to add...
 
 how do we hold space for all these perspectives, and more to come?
 
-the L1F3 game is a r&d project attempting to create the digital infrastructure/[[_003_L1F3/l1f3 protocol\|protocol]] layer for that. it is an experimental interoperability protocol for perspectives - taking, testing, enacting, evaluating, changing and developing.
+the L1F3 game is a r&d project attempting to create the digital infrastructure/[[_003_L1F3/l1f3 protocol\|protocol]] layer for that. it is an experimental interoperability protocol for [[perspectives\|perspectives]] - *taking, testing, enacting, evaluating, changing, transforming*, and *developing*.
 
 ---
 ### main references:
@@ -306,21 +306,23 @@ etc
 
 in short, the level of responsibility. in most [[topics/player/gamification\|gamification]] products or apps, there are clearly distinct roles of [[_006_toolkit/classes/game designer\|game]]/[[product designers\|product designers]] and [[users\|users]]/[[players\|players]].
 
-in real life, everyone is co-creating reality. [[_003_L1F3/l1f3 game\|L1[[l1f3 game]]oduct you buy and use, it's something you co-create by participating. you are at the same time the [[designer\|designer]] and the [[player\|player]] of your own life (and its games).
+in real life, everyone is co-creating reality. the L1F3 game isn't a product you buy and use, it's something you co-create by participating. just like you are at the same time the [[designer\|designer]] and the [[player\|player]] of your own life (and its games).
 
 there's a huge difference in the mindset, and therefore, in how we act, play, and experience reality itself. if we recognize that life is a [[tbprocessed/base notes/ventures - general/meta-game\|meta-game]], and opt for co-designing it, we have way more [[concepts/alchemy/sovereignty\|sovereignty]] and [[concepts/alchemy/agency\|agency]].
 
-that's the proposal of the [[_003_L1F3/l1f3 game\|L1[[l1f3 game]]ther [[serious life games\|serious life games]].
+that's the proposal of the L1F3 game and other [[serious life games\|serious life games]].
 
 ###### Q: what's the difference between this and [[initiatives, orgs & communities/design/metagame.wtf\|metagame.wtf]]?
 
-honestly, not much. i intend to collaborate/integrate as much as possible with them.
+honestly, not much. i intended to collaborate/integrate as much as possible with them. until they collapsed.
 
-a few key differences are: they're more focused on building the [[topics/design/web3\|web3]] infrastructure first and a more technically-oriented kind of play, instead of playing life in all its dimensions.
+a few key differences were: they were more focused on building the [[topics/design/web3\|web3]] infrastructure first and a more technically-oriented kind of play, instead of playing life in all its dimensions.
 
-we're more focused on building community and narrative content first, so it can attract more than the tech-savvy/[[topics/design/web3\|web3]] types and become a self-sustainable ecosystem able to support its players on their developmental journeys, so they can, among other things, build the necessary technological tools as well.
+i'm more focused on clarifying the design and a regenerative financial model first, so it can attract more than the tech-savvy/[[topics/design/web3\|web3]] types and become a self-sustainable ecosystem able to support its players on their developmental journeys, so they can, among other things, build the necessary technological tools as well.
 
 there's also a big challenge in [[topics/design/web3\|web3]]/crypto space which is the design of conscious/sustainable/regenerative incentive structures. though there are great projects attempting to address this such as [[token engineering commons\|token engineering commons]], [[initiatives, orgs & communities/design/gitcoin\|gitcoin]] and [[better-than-free economies\|better-than-free economies]] such as [[initiatives, orgs & communities/design/SEEDS (ecosystem)\|SEEDS]], i still believe it's a largely unsolved problem, with room for wild speculation and bad actors. so i'm a bit wary of investing a lot of energy into the project and it collapsing due to their tokenomics model.
+
+(2025 update: turns out metagame was discontinued, as expected, mostly due to these problems.)
 
 **Q: what's the difference between this and [[projects & tools/projects/player/startover.xyz\|startover.xyz]]?**
 
@@ -328,8 +330,11 @@ they're much more focused on internal transformation than the balance between in
 
 they're also more interested in furthering their own empirical research rather than integrating different [[topics/alchemy/wisdom traditions\|wisdom traditions]] and [[_005_MOCs/025 🔷 long game/025 🗺 topics & references MOC\|fields of knowledge]].
 
+not very science-friendly and very insulated, not much receptivity for external dialogue/criticism. a bit cultish.
 
-++++ still have to write/clarify my differences in approach from:
+---
+
+++++ i still have to write/clarify my differences in approach from:
 - [[initiatives, orgs & communities/alchemy/integral life\|integral life]] / [[references/alchemy/integral OS\|integral OS]]
 - [[flow genome project\|flow genome project]]
 - [[initiatives, orgs & communities/design/foresight institute\|foresight institute]]

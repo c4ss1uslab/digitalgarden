@@ -1,5 +1,5 @@
 ---
-{"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-03-04T14:30:21.382-03:00","tags":["person","regen","design","lab"],"dg-publish":true,"permalink":"/people/references/regen/jessica-groopman/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-03-04T14:30:21.382-03:00","tags":["person","regen","design","lab"],"dg-publish":true,"permalink":"/people/references/regen/jessica-groopman/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2025-03-04T14:16","updated":"2025-03-04T14:30","tags":["person","regen","design","lab"]}}
 ---
 
 https://x.com/JessGroopman

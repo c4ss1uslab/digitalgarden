@@ -1,5 +1,5 @@
 ---
-{"aliases":["bruno schuarts"],"tags":["person","friend","alchemy","architect","lab","l1f3","brazilian","🌱"],"dg-publish":true,"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-06-11T18:29:19.291-03:00","relevancescore":86,"notestage":["🌱"],"permalink":"/people/friends/bruno-schuarts/","dgPassFrontmatter":true}
+{"aliases":["bruno schuarts"],"tags":["person","friend","alchemy","architect","lab","l1f3","brazilian","🌱"],"dg-publish":true,"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-06-11T18:29:19.291-03:00","relevancescore":86,"notestage":["🌱"],"permalink":"/people/friends/bruno-schuarts/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["bruno schuarts"],"tags":["person","friend","alchemy","architect","lab","l1f3","brazilian","🌱"],"created":"2022-03-23T21:35","updated":"2026-06-11T18:29","relevancescore":86,"notestage":["🌱"]}}
 ---
 
 originator of [[_003_L1F3/L1F3.stream\|L1F3.stream]]. more on [youtube](https://www.youtube.com/playlist?list=PLliJTfwEBewrsBny4TAusQGNBfgzWB8QN). all resources in portuguese-only for now. auto-translate should do a good enough job if you're interested in exploring more.
