@@ -1,12 +1,12 @@
 ---
-{"created in":"2021-12-11T16:51:56-03:00","last tended to":"2024-10-25T14:42:18-03:00","aliases":["fluxonomia 4d"],"tags":["framework","🌿","futures","economics"],"dg-publish":true,"notestage":["🌿"],"relevancescore":94,"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-01-24T16:49:52.013-03:00","permalink":"/models-and-frameworks/design/fluxonomy-4d/","dgPassFrontmatter":true}
+{"created in":"2021-12-11T16:51:56-03:00","last tended to":"2024-10-25T14:42:18-03:00","aliases":["fluxonomia 4d"],"tags":["framework","🌿","futures","economics"],"dg-publish":true,"notestage":["🌿"],"relevancescore":94,"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-01-24T16:49:52.013-03:00","permalink":"/models-and-frameworks/design/fluxonomy-4d/","dgPassFrontmatter":true,"dg-note-properties":{"created in":"2021-12-11T16:51:56-03:00","last tended to":"2024-10-25T14:42:18-03:00","aliases":["fluxonomia 4d"],"tags":["framework","🌿","futures","economics"],"notestage":["🌿"],"relevancescore":94,"created":"2021-12-11T16:51","updated":"2025-01-24T16:49"}}
 ---
 
 a simple yet very useful [[futures\|futures]]/[[emergent economies\|emergent economies]] framework proposed by [[lala deheinzelin\|lala deheinzelin]], mostly in portuguese. similar to an [[responses/alchemy/integral theory\|integral]] understanding of emergent economic contexts and [[gaia education\|gaia education]]'s [[models & frameworks/design/4d whole systems design framework\|4d whole systems design framework]].
 
 also pairs well with understanding the [[models & frameworks/design/8 forms of capital\|8 forms of capital]].
 
-<!--![fluxonomy 4d.png|600](/img/user/images/models%20&%20frameworks/fluxonomy%204d.png)-->
+<!--![fluxonomy 4d.png\|600](/img/user/images/models%20&%20frameworks/fluxonomy%204d.png)-->
 ![](https://i.imgur.com/yJtDY7U.png)
 
 full version (in portuguese):

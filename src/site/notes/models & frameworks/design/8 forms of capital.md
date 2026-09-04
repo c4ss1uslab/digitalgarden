@@ -1,5 +1,5 @@
 ---
-{"aliases":["10 forms of capital","12 forms of capital","types of capital","8 types of capital","10 types of capital","12 types of capital","forms of value","8 forms of value","10 forms of value","12 forms of value","types of value","8 types of value","10 types of value","12 types of value","forms of capital"],"created in":"2022-02-12T11:31:45-03:00","last tended to":"2024-10-25T13:35:00-03:00","dg-publish":true,"tags":["framework","🌿","regen","economics","regenerativeeconomics"],"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-01-24T16:50:03.858-03:00","relevancescore":94,"permalink":"/models-and-frameworks/design/8-forms-of-capital/","dgPassFrontmatter":true}
+{"aliases":["10 forms of capital","12 forms of capital","types of capital","8 types of capital","10 types of capital","12 types of capital","forms of value","8 forms of value","10 forms of value","12 forms of value","types of value","8 types of value","10 types of value","12 types of value","forms of capital"],"created in":"2022-02-12T11:31:45-03:00","last tended to":"2024-10-25T13:35:00-03:00","dg-publish":true,"tags":["framework","🌿","regen","economics","regenerativeeconomics"],"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-01-24T16:50:03.858-03:00","relevancescore":94,"permalink":"/models-and-frameworks/design/8-forms-of-capital/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["10 forms of capital","12 forms of capital","types of capital","8 types of capital","10 types of capital","12 types of capital","forms of value","8 forms of value","10 forms of value","12 forms of value","types of value","8 types of value","10 types of value","12 types of value","forms of capital"],"created in":"2022-02-12T11:31:45-03:00","last tended to":"2024-10-25T13:35:00-03:00","tags":["framework","🌿","regen","economics","regenerativeeconomics"],"notestage":["🌿"],"created":"2022-02-12T11:31","updated":"2025-01-24T16:50","relevancescore":94}}
 ---
 
 this framework was created by [[ethan roland\|ethan roland]] & [[gregory landua\|gregory landua]] in 2011, from their research on financial [[tbprocessed/base notes/topics/permaculture\|permaculture]]. see a great introductory post [here](http://www.appleseedpermaculture.com/wp-content/uploads/2011/04/8_Forms_of_Capital_PM68.pdf).
@@ -8,13 +8,13 @@ this framework was created by [[ethan roland\|ethan roland]] & [[gregory landua\
 
 original framework: 8 forms of capital/currency
 
-<!--![8 forms of capital + currency - ethan roland & gregory landua.png|656](/img/user/images/models%20&%20frameworks/8%20forms%20of%20capital%20+%20currency%20-%20ethan%20roland%20&%20gregory%20landua.png)-->
+<!--![8 forms of capital + currency - ethan roland & gregory landua.png\|656](/img/user/images/models%20&%20frameworks/8%20forms%20of%20capital%20+%20currency%20-%20ethan%20roland%20&%20gregory%20landua.png)-->
 ![](https://i.imgur.com/BPVG9IJ.png)
 
 
 some folks from a life coaching consultancy called "kailo mentoring group" added a few dimensions and proposed 12 forms of capital, which i found interesting/informative as well, especially from the perspective of [[tantra\|tantra]]:
 
-<!--![12 forms of capital - kailo mentoring group.png|700](/img/user/images/models%20&%20frameworks/12%20forms%20of%20capital%20-%20kailo%20mentoring%20group.png)-->
+<!--![12 forms of capital - kailo mentoring group.png\|700](/img/user/images/models%20&%20frameworks/12%20forms%20of%20capital%20-%20kailo%20mentoring%20group.png)-->
 ![](https://i.imgur.com/m0G1NBN.png)
 
 

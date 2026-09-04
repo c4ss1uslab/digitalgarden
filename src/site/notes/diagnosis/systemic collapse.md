@@ -1,5 +1,5 @@
 ---
-{"aliases":["collapse","post-collapse","civilization collapse","collapse of our civilization","civilizational collapse","societal collapse"],"tags":["metacrisis","civilizationdesign","topic","🌿","essay","systemschange","design","regen"],"dg-publish":true,"notestage":["🌿"],"relevancescore":96,"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-11T23:12:31.470-03:00","permalink":"/diagnosis/systemic-collapse/","dgPassFrontmatter":true}
+{"aliases":["collapse","post-collapse","civilization collapse","collapse of our civilization","civilizational collapse","societal collapse"],"tags":["metacrisis","civilizationdesign","topic","🌿","essay","systemschange","design","regen"],"dg-publish":true,"notestage":["🌿"],"relevancescore":96,"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-11T23:12:31.470-03:00","permalink":"/diagnosis/systemic-collapse/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["collapse","post-collapse","civilization collapse","collapse of our civilization","civilizational collapse","societal collapse"],"tags":["metacrisis","civilizationdesign","topic","🌿","essay","systemschange","design","regen"],"notestage":["🌿"],"relevancescore":96,"created":"2024-08-23T17:05","updated":"2026-07-11T23:12"}}
 ---
 
 ##### context

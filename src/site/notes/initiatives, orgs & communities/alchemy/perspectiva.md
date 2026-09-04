@@ -1,5 +1,5 @@
 ---
-{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-26T13:35:04.839-03:00","tags":["metacrisis","organization","nonprofit","thinktank","alchemy","systemschange","socialchange","philosophy","🕳"],"dg-publish":true,"permalink":"/initiatives-orgs-and-communities/alchemy/perspectiva/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-26T13:35:04.839-03:00","tags":["metacrisis","organization","nonprofit","thinktank","alchemy","systemschange","socialchange","philosophy","🕳"],"dg-publish":true,"permalink":"/initiatives-orgs-and-communities/alchemy/perspectiva/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2024-12-10T17:26","updated":"2026-07-26T13:35","tags":["metacrisis","organization","nonprofit","thinktank","alchemy","systemschange","socialchange","philosophy","🕳"]}}
 ---
 
 https://systems-souls-society.com/

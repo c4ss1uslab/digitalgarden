@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-05-06T17:36:51-03:00","last tended to":"2024-06-20T17:20:44-03:00","tags":["inquiry","🌿","lab","regen","alchemy"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-11T23:15:47.792-03:00","notestage":["🌿"],"relevancescore":98,"dg-publish":true,"readinesslevel":"30%","permalink":"/inquiries-and-heuristics/what-technology-is-actually-worth-building/","dgPassFrontmatter":true}
+{"created in":"2024-05-06T17:36:51-03:00","last tended to":"2024-06-20T17:20:44-03:00","tags":["inquiry","🌿","lab","regen","alchemy"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-11T23:15:47.792-03:00","notestage":["🌿"],"relevancescore":98,"dg-publish":true,"readinesslevel":"30%","permalink":"/inquiries-and-heuristics/what-technology-is-actually-worth-building/","dgPassFrontmatter":true,"dg-note-properties":{"created in":"2024-05-06T17:36:51-03:00","last tended to":"2024-06-20T17:20:44-03:00","tags":["inquiry","🌿","lab","regen","alchemy"],"created":"2024-05-06T17:36","updated":"2026-07-11T23:15","notestage":["🌿"],"relevancescore":98,"readinesslevel":"30%"}}
 ---
 
 ```ad-warning

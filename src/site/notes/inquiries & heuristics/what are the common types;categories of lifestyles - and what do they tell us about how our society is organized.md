@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-02-18T21:51:46-03:00","last tended to":"2024-08-23T16:53:55-03:00","tags":["inquiry","🌱","lifedesign","sociology"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-22T19:29:05.492-03:00","notestage":["🌱"],"dg-publish":true,"permalink":"/inquiries-and-heuristics/what-are-the-common-types-categories-of-lifestyles-and-what-do-they-tell-us-about-how-our-society-is-organized/","dgPassFrontmatter":true}
+{"created in":"2023-02-18T21:51:46-03:00","last tended to":"2024-08-23T16:53:55-03:00","tags":["inquiry","🌱","lifedesign","sociology"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-22T19:29:05.492-03:00","notestage":["🌱"],"dg-publish":true,"permalink":"/inquiries-and-heuristics/what-are-the-common-types-categories-of-lifestyles-and-what-do-they-tell-us-about-how-our-society-is-organized/","dgPassFrontmatter":true,"dg-note-properties":{"created in":"2023-02-18T21:51:46-03:00","last tended to":"2024-08-23T16:53:55-03:00","tags":["inquiry","🌱","lifedesign","sociology"],"created":"2023-02-18T21:51","updated":"2026-07-13T21:57","notestage":["🌱"]}}
 ---
 
 ##### very early thoughts:

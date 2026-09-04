@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-08-18T22:18:23-03:00","last tended to":"2024-08-28T14:46:40-03:00","tags":["framework","metadesign","design","🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-06-11T15:52:21.593-03:00","notestage":["🌱"],"dg-publish":true,"permalink":"/models-and-frameworks/design/metadesign/","dgPassFrontmatter":true}
+{"created in":"2024-08-18T22:18:23-03:00","last tended to":"2024-08-28T14:46:40-03:00","tags":["framework","metadesign","design","🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-06-11T15:52:21.593-03:00","notestage":["🌱"],"dg-publish":true,"permalink":"/models-and-frameworks/design/metadesign/","dgPassFrontmatter":true,"dg-note-properties":{"created in":"2024-08-18T22:18:23-03:00","last tended to":"2024-08-28T14:46:40-03:00","tags":["framework","metadesign","design","🌱"],"created":"2024-08-18T22:18","updated":"2025-06-11T15:52","notestage":["🌱"]}}
 ---
 
 ```ad-tip

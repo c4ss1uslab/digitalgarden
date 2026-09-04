@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-09-05T16:07:48-03:00","last tended to":"2024-10-25T14:46:42-03:00","tags":["framework","anthropology","design","sensemaking","🌱"],"dg-publish":true,"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-06-08T14:47:11.937-03:00","relevancescore":96,"aliases":["eco, social, super and infrastructure"],"permalink":"/models-and-frameworks/design/holistic-cultural-materialism/","dgPassFrontmatter":true}
+{"created in":"2024-09-05T16:07:48-03:00","last tended to":"2024-10-25T14:46:42-03:00","tags":["framework","anthropology","design","sensemaking","🌱"],"dg-publish":true,"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-06-08T14:47:11.937-03:00","relevancescore":96,"aliases":["eco, social, super and infrastructure"],"permalink":"/models-and-frameworks/design/holistic-cultural-materialism/","dgPassFrontmatter":true,"dg-note-properties":{"created in":"2024-09-05T16:07:48-03:00","last tended to":"2024-10-25T14:46:42-03:00","tags":["framework","anthropology","design","sensemaking","🌱"],"notestage":["🌱"],"created":"2024-09-05T16:07","updated":"2026-06-08T14:47","relevancescore":96,"aliases":["eco, social, super and infrastructure"]}}
 ---
 
 ##### context
