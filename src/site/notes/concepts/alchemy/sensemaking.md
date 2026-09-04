@@ -1,5 +1,5 @@
 ---
-{"aliases":["make sense of","make sense","make sense of reality"],"created in":"2021-12-11T16:51:50-03:00","last tended to":"2024-11-06T19:43:58-03:00","tags":["topic","sensemaking","🌿","research","design","lab","alchemy"],"notestage":["🌿"],"relevancescore":98,"dg-publish":true,"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-11T23:11:59.215-03:00","permalink":"/concepts/alchemy/sensemaking/","dgPassFrontmatter":true}
+{"aliases":["make sense of","make sense","make sense of reality"],"created in":"2021-12-11T16:51:50-03:00","last tended to":"2024-11-06T19:43:58-03:00","tags":["topic","sensemaking","🌿","research","design","lab","alchemy"],"notestage":["🌿"],"relevancescore":98,"dg-publish":true,"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-11T23:11:59.215-03:00","permalink":"/concepts/alchemy/sensemaking/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["make sense of","make sense","make sense of reality"],"created in":"2021-12-11T16:51:50-03:00","last tended to":"2024-11-06T19:43:58-03:00","tags":["topic","sensemaking","🌿","research","design","lab","alchemy"],"notestage":["🌿"],"relevancescore":98,"created":"2021-12-11T16:51","updated":"2026-07-11T23:11"}}
 ---
 
 #### definition

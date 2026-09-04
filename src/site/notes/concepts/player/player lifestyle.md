@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-07-26T14:37:29-03:00","last tended to":"2024-09-24T16:07:39-03:00","tags":["player","concept","lifedesign","🌱"],"notestage":["🌱"],"dg-publish":true,"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-04-02T14:18:41.686-03:00","permalink":"/concepts/player/player-lifestyle/","dgPassFrontmatter":true}
+{"created in":"2023-07-26T14:37:29-03:00","last tended to":"2024-09-24T16:07:39-03:00","tags":["player","concept","lifedesign","🌱"],"notestage":["🌱"],"dg-publish":true,"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-04-02T14:18:41.686-03:00","permalink":"/concepts/player/player-lifestyle/","dgPassFrontmatter":true,"dg-note-properties":{"created in":"2023-07-26T14:37:29-03:00","last tended to":"2024-09-24T16:07:39-03:00","tags":["player","concept","lifedesign","🌱"],"notestage":["🌱"],"created":"2023-07-26T14:37","updated":"2025-04-02T14:18"}}
 ---
 
 [[topics/player/play\|play]] (both [[concepts/player/serious play\|serious]] & loose) as a major element of the [[topics/design/lifestyle design\|lifestyle design]].

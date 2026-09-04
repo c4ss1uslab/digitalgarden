@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-12-12T12:06:45-03:00","last tended to":"2024-09-16T15:26:24-03:00","dg-publish":true,"aliases":["🕹 energy management, life as play"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-11T23:09:44.250-03:00","tags":["c4ss1us","essay"],"permalink":"/core-essays/prototypes-experiments-and-low-hanging-fruits-collaborative-life-design-energy-management-life-as-play/","dgPassFrontmatter":true}
+{"created in":"2023-12-12T12:06:45-03:00","last tended to":"2024-09-16T15:26:24-03:00","dg-publish":true,"aliases":["🕹 energy management, life as play"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-11T23:09:44.250-03:00","tags":["c4ss1us","essay"],"permalink":"/core-essays/prototypes-experiments-and-low-hanging-fruits-collaborative-life-design-energy-management-life-as-play/","dgPassFrontmatter":true,"dg-note-properties":{"created in":"2023-12-12T12:06:45-03:00","last tended to":"2024-09-16T15:26:24-03:00","aliases":["🕹 energy management, life as play"],"created":"2023-12-12T12:06","updated":"2026-07-11T23:09","tags":["c4ss1us","essay"]}}
 ---
 
 draft link: https://medium.com/@cassiuscarvalho/life-as-play-collaborative-life-wisdom-ontological-design-as-a-revolutionary-practice-291959d935e5

@@ -1,5 +1,5 @@
 ---
-{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-13T21:57:29.162-03:00","tags":["design","sociology","concept","🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/concepts/design/modernity/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-13T21:57:29.162-03:00","tags":["design","sociology","concept","🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/concepts/design/modernity/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2024-12-09T19:09","updated":"2026-07-13T21:57","tags":["design","sociology","concept","🌱"],"notestage":["🌱"]}}
 ---
 
 [[people/references/regen/vanessa machado de oliveira\|vanessa machado de oliveira]]'s framing:

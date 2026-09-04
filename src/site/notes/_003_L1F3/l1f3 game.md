@@ -1,5 +1,5 @@
 ---
-{"aliases":["🕹 l1f3 game","life game","🕹 life game","massively-multiplayer online-and-offline collaborative self-transformation & civilization-building game","L1F3.GAME","l1f3.game","🕹 L1F3.game","🕹 L1F3 game","🕹 L1F3.GAME","L1F3 game","L1F3.game"],"created in":"2022-02-05T11:41:05-03:00","last tended to":"2024-09-29T14:37:10-03:00","tags":["l1f3","project","🌿","game","seriousgame","player"],"dg-publish":true,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-06-11T18:29:16.309-03:00","relevancescore":97,"readinesslevel":"20%","permalink":"/003-l1-f3/l1f3-game/","dgPassFrontmatter":true}
+{"aliases":["🕹 l1f3 game","life game","🕹 life game","massively-multiplayer online-and-offline collaborative self-transformation & civilization-building game","L1F3.GAME","l1f3.game","🕹 L1F3.game","🕹 L1F3 game","🕹 L1F3.GAME","L1F3 game","L1F3.game"],"created in":"2022-02-05T11:41:05-03:00","last tended to":"2024-09-29T14:37:10-03:00","tags":["l1f3","project","🌿","game","seriousgame","player"],"dg-publish":true,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-06-11T18:29:16.309-03:00","relevancescore":97,"readinesslevel":"20%","permalink":"/003-l1-f3/l1f3-game/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["🕹 l1f3 game","life game","🕹 life game","massively-multiplayer online-and-offline collaborative self-transformation & civilization-building game","L1F3.GAME","l1f3.game","🕹 L1F3.game","🕹 L1F3 game","🕹 L1F3.GAME","L1F3 game","L1F3.game"],"created in":"2022-02-05T11:41:05-03:00","last tended to":"2024-09-29T14:37:10-03:00","tags":["l1f3","project","🌿","game","seriousgame","player"],"notestage":["🌿"],"created":"2022-02-05T11:41","updated":"2026-06-11T18:29","relevancescore":97,"readinesslevel":"20%"}}
 ---
 
 the l1f3 game is an ongoing endeavor to:
@@ -76,7 +76,7 @@ source: [[initiatives, orgs & communities/alchemy/possibility management\|possib
 
 
 
-música do círculo (MdC) is both a community and a practice of improvised music-making, human development and connection, without the use of any instruments (i.e. body music) and for people of all levels of musical experience. it works by integrating 8 major elements, being them: [[improvisation\|improvisation]], [[concepts/player/game\|games]], [[non-verbal communication\|non-verbal communication]], the [[circle\|circle]], [[topics/art/body music\|body music]], [[contact\|contact]], [[movement\|movement]] and [[concepts/alchemy/flow\|flow]]. 
+música do círculo (MdC) is both a brazilian-founded community and a practice of collaborative improvised music-making that fosters human connection and development, without the use of any instruments, for people of all levels of musical experience (including no experience at all!). it works by integrating 8 major elements, being them: [[improvisation\|improvisation]], [[concepts/player/game\|games]], [[non-verbal communication\|non-verbal communication]], the [[circle\|circle]], [[topics/art/body music\|body music]], [[contact\|contact]], [[movement\|movement]] and [[concepts/alchemy/flow\|flow]]. 
 
 </div></div>
 

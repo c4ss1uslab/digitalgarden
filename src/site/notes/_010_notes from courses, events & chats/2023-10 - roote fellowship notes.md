@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-10-03T16:43:48-03:00","last tended to":"2024-10-12T18:13:42-03:00","tags":["fellowship","review","self-knowledge","systemschange","🌿"],"dg-publish":true,"notestage":["🌿"],"aliases":["roote fellowship"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-04-05T14:55:04.846-03:00","permalink":"/010-notes-from-courses-events-and-chats/2023-10-roote-fellowship-notes/","dgPassFrontmatter":true}
+{"created in":"2023-10-03T16:43:48-03:00","last tended to":"2024-10-12T18:13:42-03:00","tags":["fellowship","review","self-knowledge","systemschange","🌿"],"dg-publish":true,"notestage":["🌿"],"aliases":["roote fellowship"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-04-05T14:55:04.846-03:00","permalink":"/010-notes-from-courses-events-and-chats/2023-10-roote-fellowship-notes/","dgPassFrontmatter":true,"dg-note-properties":{"created in":"2023-10-03T16:43:48-03:00","last tended to":"2024-10-12T18:13:42-03:00","tags":["fellowship","review","self-knowledge","systemschange","🌿"],"notestage":["🌿"],"aliases":["roote fellowship"],"created":"2023-10-03T16:43","updated":"2025-04-05T14:55"}}
 ---
 
 "roote helps you clarify root-level systems to help humanity find our route. the fellowship is designed to bring ambitious frontier people together to connect and accelerate them on their path to impact on the wisdom age."

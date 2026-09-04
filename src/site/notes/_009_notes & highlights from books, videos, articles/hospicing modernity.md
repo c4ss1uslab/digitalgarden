@@ -1,5 +1,5 @@
 ---
-{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-13T21:57:29.001-03:00","tags":["resource","book","highlights","alchemy","regen","decolonization","healing","systemschange","🌱","GTDF"],"dg-publish":true,"notestage":["🌱"],"permalink":"/009-notes-and-highlights-from-books-videos-articles/hospicing-modernity/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-13T21:57:29.001-03:00","tags":["resource","book","highlights","alchemy","regen","decolonization","healing","systemschange","🌱","GTDF"],"dg-publish":true,"notestage":["🌱"],"permalink":"/009-notes-and-highlights-from-books-videos-articles/hospicing-modernity/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2024-11-21T14:00","updated":"2026-07-13T21:57","tags":["resource","book","highlights","alchemy","regen","decolonization","healing","systemschange","🌱","GTDF"],"notestage":["🌱"]}}
 ---
 
 [[people/references/regen/vanessa machado de oliveira\|vanessa]] refers to the [[concepts/design/metacrisis\|metacrisis]] loosely, as the set of: social, ecological, economic, political, informational, and existential crises.

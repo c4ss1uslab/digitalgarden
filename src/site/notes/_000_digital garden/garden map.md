@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-12-19T12:58:08-03:00","last tended to":"2024-09-16T18:36:35-03:00","tags":["🌿","knowledgedesign","illustration","experiment","c4ss1us"],"dg-publish":true,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-13T21:43:56.344-03:00","permalink":"/000-digital-garden/garden-map/","dgPassFrontmatter":true}
+{"created in":"2023-12-19T12:58:08-03:00","last tended to":"2024-09-16T18:36:35-03:00","tags":["🌿","knowledgedesign","illustration","experiment","c4ss1us"],"dg-publish":true,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-13T21:43:56.344-03:00","permalink":"/000-digital-garden/garden-map/","dgPassFrontmatter":true,"dg-note-properties":{"created in":"2023-12-19T12:58:08-03:00","last tended to":"2024-09-16T18:36:35-03:00","tags":["🌿","knowledgedesign","illustration","experiment","c4ss1us"],"notestage":["🌿"],"created":"2023-12-19T12:58","updated":"2026-07-13T21:43"}}
 ---
 
 ### why

@@ -1,5 +1,5 @@
 ---
-{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-27T18:10:13.654-03:00","tags":["highlights","lab","visualprogramming","visuallearning","player","article"],"dg-publish":true,"permalink":"/009-notes-and-highlights-from-books-videos-articles/making-programming-visual-spatial-and-learnable-maggie-appleton/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-27T18:10:13.654-03:00","tags":["highlights","lab","visualprogramming","visuallearning","player","article"],"dg-publish":true,"permalink":"/009-notes-and-highlights-from-books-videos-articles/making-programming-visual-spatial-and-learnable-maggie-appleton/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2024-10-18T13:57","updated":"2026-07-27T18:10","tags":["highlights","lab","visualprogramming","visuallearning","player","article"]}}
 ---
 
 original article by [[people/references/lab/maggie appleton\|maggie appleton]]: https://maggieappleton.com/learnable-programming

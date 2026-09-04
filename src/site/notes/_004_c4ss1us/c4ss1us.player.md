@@ -1,5 +1,5 @@
 ---
-{"aliases":["player",".player","👨🏻‍🎤 c4ss1us.player"],"created in":"2023-05-31T18:40:03-03:00","last tended to":"2024-07-19T23:10:17-03:00","tags":["c4ss1us","player","🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-04-06T12:03:14.453-03:00","notestage":["🌱"],"dg-publish":true,"readinesslevel":"20%","permalink":"/004-c4ss1us/c4ss1us-player/","dgPassFrontmatter":true}
+{"aliases":["player",".player","👨🏻‍🎤 c4ss1us.player"],"created in":"2023-05-31T18:40:03-03:00","last tended to":"2024-07-19T23:10:17-03:00","tags":["c4ss1us","player","🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-04-06T12:03:14.453-03:00","notestage":["🌱"],"dg-publish":true,"readinesslevel":"20%","permalink":"/004-c4ss1us/c4ss1us-player/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["player",".player","👨🏻‍🎤 c4ss1us.player"],"created in":"2023-05-31T18:40:03-03:00","last tended to":"2024-07-19T23:10:17-03:00","tags":["c4ss1us","player","🌱"],"created":"2024-05-22T17:07","updated":"2025-04-06T12:03","notestage":["🌱"],"readinesslevel":"20%"}}
 ---
 
 **see also:** [c4ss1us.player mmm.page (visual overview)](https://c4ss1us.mmm.page/player)

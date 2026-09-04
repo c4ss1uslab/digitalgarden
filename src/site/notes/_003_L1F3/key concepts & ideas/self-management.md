@@ -1,5 +1,5 @@
 ---
-{"aliases":["self-management tools & distinctions","manage oneself","manage yourself","self","self-mngmt"],"created in":"2023-07-25T09:18:23-03:00","last tended to":"2024-10-06T02:57:01-03:00","tags":["concept","selfmanagement","tier1","alchemy","design","🌿"],"dg-publish":true,"notestage":["🌿"],"relevancescore":97,"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-03-25T15:50:02.688-03:00","permalink":"/003-l1-f3/key-concepts-and-ideas/self-management/","dgPassFrontmatter":true}
+{"aliases":["self-management tools & distinctions","manage oneself","manage yourself","self","self-mngmt"],"created in":"2023-07-25T09:18:23-03:00","last tended to":"2024-10-06T02:57:01-03:00","tags":["concept","selfmanagement","tier1","alchemy","design","🌿"],"dg-publish":true,"notestage":["🌿"],"relevancescore":97,"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-03-25T15:50:02.688-03:00","permalink":"/003-l1-f3/key-concepts-and-ideas/self-management/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["self-management tools & distinctions","manage oneself","manage yourself","self","self-mngmt"],"created in":"2023-07-25T09:18:23-03:00","last tended to":"2024-10-06T02:57:01-03:00","tags":["concept","selfmanagement","tier1","alchemy","design","🌿"],"notestage":["🌿"],"relevancescore":97,"created":"2023-07-25T09:18","updated":"2025-03-25T15:50"}}
 ---
 
 see also: [[_003_L1F3/l1f3 management ontology\|l1f3 management ontology]]⁹⁷, [[models & frameworks/alchemy/AQAL\|AQAL]]⁹⁵/[[references/alchemy/integral OS\|integral OS]]
@@ -28,7 +28,7 @@ when i refer to self-management, i aim to recognize the complementarity of them 
 
 a good introduction to this broader perspective of self-management by [[neurohacker collective\|neurohacker collective]]:
 
-<!--![four quadrants of neurohacking - neurohacker collective.jpeg|800](/img/user/images/models%20&%20frameworks/four%20quadrants%20of%20neurohacking%20-%20neurohacker%20collective.jpeg)-->
+<!--![four quadrants of neurohacking - neurohacker collective.jpeg\|800](/img/user/images/models%20&%20frameworks/four%20quadrants%20of%20neurohacking%20-%20neurohacker%20collective.jpeg)-->
 ![](https://i.imgur.com/TtylZgY.jpeg)
 
 more on: https://neurohacker.com/the-four-foundational-quadrants-of-neurohacking

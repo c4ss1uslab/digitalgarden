@@ -1,5 +1,5 @@
 ---
-{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-26T13:50:21.163-03:00","tags":["l1f3","prototype","lab","alchemy","🌿"],"dg-publish":true,"relevancescore":86,"notestage":["🌿"],"permalink":"/003-l1-f3/l1f3-manager/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-26T13:50:21.163-03:00","tags":["l1f3","prototype","lab","alchemy","🌿"],"dg-publish":true,"relevancescore":86,"notestage":["🌿"],"permalink":"/003-l1-f3/l1f3-manager/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2024-12-03T16:35","updated":"2026-07-26T13:50","tags":["l1f3","prototype","lab","alchemy","🌿"],"relevancescore":86,"notestage":["🌿"]}}
 ---
 
 the l1f3 manager is a [[_005_MOCs/050 🟩 mid game/070 🔩 prototypes MOC\|prototype]] built by [[people/friends/bruno schuarts\|bruno schuarts]] which aimed to be the technological basis of [[_003_L1F3/key concepts & ideas/self-management\|self]] and [[topics/lab/personal data management\|personal data management]] within the [[_003_L1F3/l1f3 game\|L1F3 game]].

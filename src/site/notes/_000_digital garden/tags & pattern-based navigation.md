@@ -1,5 +1,5 @@
 ---
-{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-08-21T18:09:45.132-03:00","aliases":["a loose, experimental, self-directed navigation based on tags & patterns"],"tags":["informationdesign","design","digitalgardening","patterns","🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/000-digital-garden/tags-and-pattern-based-navigation/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-08-21T18:09:45.132-03:00","aliases":["a loose, experimental, self-directed navigation based on tags & patterns"],"tags":["informationdesign","design","digitalgardening","patterns","🌱"],"dg-publish":true,"notestage":["🌱"],"permalink":"/000-digital-garden/tags-and-pattern-based-navigation/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2025-06-09T23:34","updated":"2026-08-21T17:46","aliases":["a loose, experimental, self-directed navigation based on tags & patterns"],"tags":["informationdesign","design","digitalgardening","patterns","🌱"],"notestage":["🌱"]}}
 ---
 
 this page compiles a set of specific *tags* and opinionated [[patterns/pattern collections/knowledge design patterns\|knowledge design patterns]], that i'm using in this garden to help you better navigate all of the complex information presented here at different layers of depth.

@@ -1,5 +1,5 @@
 ---
-{"created":"1969-12-31T21:00:00.000-03:00","updated":"2024-12-13T17:08:56.671-03:00","tags":["concept","systemsscience","cybernetics","sociology","🌱","design","lab"],"notestage":["🌱"],"dg-publish":true,"permalink":"/concepts/design/action-systems/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2024-12-13T17:08:56.671-03:00","tags":["concept","systemsscience","cybernetics","sociology","🌱","design","lab"],"notestage":["🌱"],"dg-publish":true,"permalink":"/concepts/design/action-systems/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2024-12-13T16:57","updated":"2024-12-13T17:08","tags":["concept","systemsscience","cybernetics","sociology","🌱","design","lab"],"notestage":["🌱"]}}
 ---
 
 #### definitions:

@@ -1,5 +1,5 @@
 ---
-{"created in":"2024-04-13T13:36:49-03:00","last tended to":"2024-09-24T16:19:26-03:00","tags":["essay","learning","education","🌱","host","alchemy","regen","lab","design"],"aliases":["🌀 enabling authentic and transformative learning"],"dg-publish":true,"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-11T23:16:21.043-03:00","permalink":"/core-essays/enabling-authentic-and-transformative-learning-frames-resources-and-pathways/","dgPassFrontmatter":true}
+{"created in":"2024-04-13T13:36:49-03:00","last tended to":"2024-09-24T16:19:26-03:00","tags":["essay","learning","education","🌱","host","alchemy","regen","lab","design"],"aliases":["🌀 enabling authentic and transformative learning"],"dg-publish":true,"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-11T23:16:21.043-03:00","permalink":"/core-essays/enabling-authentic-and-transformative-learning-frames-resources-and-pathways/","dgPassFrontmatter":true,"dg-note-properties":{"created in":"2024-04-13T13:36:49-03:00","last tended to":"2024-09-24T16:19:26-03:00","tags":["essay","learning","education","🌱","host","alchemy","regen","lab","design"],"aliases":["🌀 enabling authentic and transformative learning"],"notestage":["🌱"],"created":"2024-04-13T13:36","updated":"2026-07-11T23:16"}}
 ---
 
 

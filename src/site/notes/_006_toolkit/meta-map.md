@@ -1,5 +1,5 @@
 ---
-{"aliases":["🗺 meta-map","wordcloud","🗾 meta-map"],"created in":"2022-01-03T19:16:10-03:00","last tended to":"2024-09-29T14:42:57-03:00","tags":["design","🌿","research","knowledgedesign","informationdesign","experiment"],"dg-publish":true,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-03-28T11:50:52.171-03:00","permalink":"/006-toolkit/meta-map/","dgPassFrontmatter":true}
+{"aliases":["🗺 meta-map","wordcloud","🗾 meta-map"],"created in":"2022-01-03T19:16:10-03:00","last tended to":"2024-09-29T14:42:57-03:00","tags":["design","🌿","research","knowledgedesign","informationdesign","experiment"],"dg-publish":true,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-08-07T23:06:47.946-03:00","permalink":"/006-toolkit/meta-map/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["🗺 meta-map","wordcloud","🗾 meta-map"],"created in":"2022-01-03T19:16:10-03:00","last tended to":"2024-09-29T14:42:57-03:00","tags":["design","🌿","research","knowledgedesign","informationdesign","experiment"],"notestage":["🌿"],"created":"2022-01-03T19:16","updated":"2026-08-07T23:06"}}
 ---
 
 an extensive list / experimental form of intuitive clustering of all major themes/domains and references i'm working with.
@@ -19,8 +19,8 @@ collapse:
 
 added:
 1.a) meta-map can also be referred to as [[wordcloud]] - a simpler way to describe, visualize and navigate it.
-1.b) [[topics/design/strategy\|strategy]] strongly related to [[business intelligence\|business intelligence]], [[research institutes\|research institutes]] and [[design agencies\|design agencies]].
-1.c) [[intelligence\|intelligence]], [[coordination]], [[terms/collaboration\|collaboration]], [[cooperation\|cooperation]] as a new "bubble".
+1.b) [[strategy]] strongly related to [[business intelligence]], [[research institutes]] and [[design agencies]].
+1.c) [[intelligence]], [[coordination]], [[collaboration]], [[cooperation]] as a new "bubble".
 ```
 
 ---
@@ -409,7 +409,7 @@ added:
 [[players\|players]]
 [[gamers i follow\|gamers i follow]]
 
-[[topics/player/anime\|anime]]
+[[topics/player/anime MOC\|anime MOC]]
 [[rap nerd\|rap nerd]]
 [[musicians\|musicians]]
 
@@ -444,10 +444,10 @@ added:
 
 [[prototypes & designs/made by others/synapsis\|synapsis]]
 
-[[business intelligence]]
-[[research institutes]]
-[[design agencies]]
-[[strategy]]
+[[business intelligence\|business intelligence]]
+[[research institutes\|research institutes]]
+[[design agencies\|design agencies]]
+[[topics/design/strategy\|strategy]]
 
 [[topics/lab/information management\|information management]]
 [[knowledge base\|knowledge base]]
@@ -456,10 +456,10 @@ added:
 [[incentives\|incentives]]
 [[effective collaboration\|effective collaboration]]
 
-[[intelligence]]
+[[intelligence\|intelligence]]
 [[topics/design/coordination systems\|coordination systems]]
 [[terms/collaboration\|collaboration]]
-[[cooperation]]
+[[cooperation\|cooperation]]
 
 [[topics/lab/robotics\|robotics]]
 [[autonomous processes\|autonomous processes]]
@@ -659,7 +659,7 @@ added:
 [[relevance realization\|relevance realization]]
 [[prioritization\|prioritization]]
 [[terms/decision-making\|decision-making]]
-[[collaboration]]
+[[terms/collaboration\|collaboration]]
 
 [[_001_research/07 - core ideas\|07 - core ideas]]
 [[insights\|insights]]

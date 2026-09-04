@@ -1,5 +1,5 @@
 ---
-{"tags":["alchemy","concept","metacrisis","superstructure","🌿","response"],"dg-publish":true,"relevancescore":96,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-02-06T15:02:17.080-03:00","permalink":"/concepts/alchemy/psychotechnologies/","dgPassFrontmatter":true}
+{"tags":["alchemy","concept","metacrisis","superstructure","🌿","response"],"dg-publish":true,"relevancescore":96,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-02-06T15:02:17.080-03:00","permalink":"/concepts/alchemy/psychotechnologies/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["alchemy","concept","metacrisis","superstructure","🌿","response"],"relevancescore":96,"notestage":["🌿"],"created":"2024-04-25T15:09","updated":"2025-02-06T15:02"}}
 ---
 
 a term often used by folks in the [[concepts/design/metacrisis\|metacrisis]] space. i believe contact with/access to psychotechnologies are necessary for any kind of deep [[_003_L1F3/key concepts & ideas/self-transformation\|self-transformation]].

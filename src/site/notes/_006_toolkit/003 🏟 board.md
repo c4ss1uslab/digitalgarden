@@ -1,5 +1,5 @@
 ---
-{"aliases":["🏟 board","board","arena","🏟 arena","c4ss1us' l1f3 game board","L1F3 game board v.0.1"],"created in":"2022-03-31T14:27:01-03:00","last tended to":"2024-07-20T18:24:43-03:00","tags":["prototype","🌱","l1f3"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-11T23:09:26.733-03:00","notestage":["🌱"],"dg-publish":true,"permalink":"/006-toolkit/003-board/","dgPassFrontmatter":true}
+{"aliases":["🏟 board","board","arena","🏟 arena","c4ss1us' l1f3 game board","L1F3 game board v.0.1"],"created in":"2022-03-31T14:27:01-03:00","last tended to":"2024-07-20T18:24:43-03:00","tags":["prototype","🌱","l1f3"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-11T23:09:26.733-03:00","notestage":["🌱"],"dg-publish":true,"permalink":"/006-toolkit/003-board/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["🏟 board","board","arena","🏟 arena","c4ss1us' l1f3 game board","L1F3 game board v.0.1"],"created in":"2022-03-31T14:27:01-03:00","last tended to":"2024-07-20T18:24:43-03:00","tags":["prototype","🌱","l1f3"],"created":"2022-03-31T14:27","updated":"2026-07-11T23:09","notestage":["🌱"]}}
 ---
 
 **what would a game board for your life look like?**
@@ -39,7 +39,7 @@ what's your contribution to the design and unfoldment of the world as a whole? w
 
 [[models & frameworks/design/wardley mapping\|wardley mapping]]'s [[strategy cycle\|strategy cycle]] & [[mapping principles\|mapping principles]] (below)
 
-![the strategy cycle.png|800](/img/user/images/models%20&%20frameworks/the%20strategy%20cycle.png)
+![the strategy cycle.png\|800](/img/user/images/models%20&%20frameworks/the%20strategy%20cycle.png)
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/models-and-frameworks/design/wardley-mapping/#according-to-wardley-mapping-any-map-contains-the-following-6-elements" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -47,7 +47,6 @@ what's your contribution to the design and unfoldment of the world as a whole? w
 
 
 ###### according to wardley mapping, any map contains the following 6 elements:
-
 
 - visual representation
 - context specific
@@ -62,14 +61,14 @@ what's your contribution to the design and unfoldment of the world as a whole? w
 
 [[models & frameworks/alchemy/wheel of life\|wheel of life]]
 
-![wheel of life.png|600](/img/user/assets/wheel%20of%20life.png)
-![12 areas of life balance.jpg|600](/img/user/assets/12%20areas%20of%20life%20balance.jpg)
+![wheel of life.png\|600](/img/user/assets/wheel%20of%20life.png)
+![12 areas of life balance.jpg\|600](/img/user/assets/12%20areas%20of%20life%20balance.jpg)
 
 [[6 horizons of focus\|6 horizons of focus]]
 ![6 horizons of focus - GTD.png](/img/user/assets/6%20horizons%20of%20focus%20-%20GTD.png)
 [[models & frameworks/player/fourgames\|fourgame dynamics]]
 
-![fourgames full breakdown 3 (highest-res) upscaled 2.jpeg|800](/img/user/assets/fourgames%20full%20breakdown%203%20(highest-res)%20upscaled%202.jpeg)
+![fourgames full breakdown 3 (highest-res) upscaled 2.jpeg\|800](/img/user/assets/fourgames%20full%20breakdown%203%20(highest-res)%20upscaled%202.jpeg)
 
 ##### knowledge graph view:
 

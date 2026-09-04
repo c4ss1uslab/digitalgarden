@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-12-14T12:54:40-03:00","last tended to":"2024-09-24T16:19:46-03:00","dg-publish":true,"tags":["alchemy","essay","🌱"],"aliases":["🧘🏻‍♂️ a meta-system for modular self-unfoldment"],"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-03-28T11:50:53.297-03:00","permalink":"/core-essays/a-meta-system-for-modular-self-unfoldment-and-interoperability-across-philosophies-methodologies-and-perspectives/","dgPassFrontmatter":true}
+{"created in":"2023-12-14T12:54:40-03:00","last tended to":"2024-09-24T16:19:46-03:00","dg-publish":true,"tags":["alchemy","essay","🌱"],"aliases":["🧘🏻‍♂️ a meta-system for modular self-unfoldment"],"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-03-28T11:50:53.297-03:00","permalink":"/core-essays/a-meta-system-for-modular-self-unfoldment-and-interoperability-across-philosophies-methodologies-and-perspectives/","dgPassFrontmatter":true,"dg-note-properties":{"created in":"2023-12-14T12:54:40-03:00","last tended to":"2024-09-24T16:19:46-03:00","tags":["alchemy","essay","🌱"],"aliases":["🧘🏻‍♂️ a meta-system for modular self-unfoldment"],"notestage":["🌱"],"created":"2023-12-14T12:54","updated":"2026-03-28T11:50"}}
 ---
 
 sub-title: **approaches to self design, self as a system, encoded philosophy, integral spirituality and conscious life operating systems**.

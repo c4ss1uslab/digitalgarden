@@ -1,5 +1,5 @@
 ---
-{"tags":["l1f3","alchemy","design","topic","🌱"],"dg-publish":true,"relevancescore":94,"aliases":["lifestyle"],"notestage":["🌱"],"readinesslevel":"15%","created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-26T13:50:21.091-03:00","permalink":"/003-l1-f3/key-concepts-and-ideas/lifestyles/","dgPassFrontmatter":true}
+{"tags":["l1f3","alchemy","design","topic","🌱"],"dg-publish":true,"relevancescore":94,"aliases":["lifestyle"],"notestage":["🌱"],"readinesslevel":"15%","created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-26T13:50:21.091-03:00","permalink":"/003-l1-f3/key-concepts-and-ideas/lifestyles/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["l1f3","alchemy","design","topic","🌱"],"relevancescore":94,"aliases":["lifestyle"],"notestage":["🌱"],"readinesslevel":"15%","created":"2022-11-29T12:38","updated":"2026-07-26T13:50"}}
 ---
 
 > [!info]- see also:

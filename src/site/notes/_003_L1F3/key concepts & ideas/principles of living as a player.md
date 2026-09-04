@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-01-17T11:21:47-03:00","last tended to":"2024-09-24T16:07:44-03:00","tags":["player","🌱","lifestyledesign"],"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-26T14:09:02.738-03:00","dg-publish":true,"permalink":"/003-l1-f3/key-concepts-and-ideas/principles-of-living-as-a-player/","dgPassFrontmatter":true}
+{"created in":"2023-01-17T11:21:47-03:00","last tended to":"2024-09-24T16:07:44-03:00","tags":["player","🌱","lifestyledesign"],"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-26T14:09:02.738-03:00","dg-publish":true,"permalink":"/003-l1-f3/key-concepts-and-ideas/principles-of-living-as-a-player/","dgPassFrontmatter":true,"dg-note-properties":{"created in":"2023-01-17T11:21:47-03:00","last tended to":"2024-09-24T16:07:44-03:00","tags":["player","🌱","lifestyledesign"],"notestage":["🌱"],"created":"2023-01-17T21:00:00","updated":"2026-07-26T14:09"}}
 ---
 
 [[coordination\|coordination]] & instantiated [[coopetition\|coopetition]]? ([[concepts/player/game\|game]])

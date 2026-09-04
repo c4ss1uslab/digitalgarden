@@ -1,5 +1,5 @@
 ---
-{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-06-08T15:54:35.745-03:00","tags":["🌱","concept","alchemy","philosophy","science","humandevelopment","spirituality","metamodernism","integraltheory","mettatropical"],"dg-publish":true,"relevancescore":96,"permalink":"/concepts/alchemy/stage-theory/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-06-08T15:54:35.745-03:00","tags":["🌱","concept","alchemy","philosophy","science","humandevelopment","spirituality","metamodernism","integraltheory","mettatropical"],"dg-publish":true,"relevancescore":96,"permalink":"/concepts/alchemy/stage-theory/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2026-06-01T18:01:00","updated":"2026-06-08T15:54","tags":["🌱","concept","alchemy","philosophy","science","humandevelopment","spirituality","metamodernism","integraltheory","mettatropical"],"relevancescore":96}}
 ---
 
 main ref: https://medium.com/@hanzifreinacht/the-6-hidden-patterns-introduction-b3d5cc63fa50

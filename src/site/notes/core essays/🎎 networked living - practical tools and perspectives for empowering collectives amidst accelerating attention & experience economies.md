@@ -1,5 +1,5 @@
 ---
-{"created in":"2023-12-03T15:03:17-03:00","last tended to":"2024-09-24T17:18:15-03:00","dg-publish":true,"aliases":["🎎 the role of curation, community & ambient content"],"tags":["essay","🌿"],"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-26T13:50:21.183-03:00","permalink":"/core-essays/networked-living-practical-tools-and-perspectives-for-empowering-collectives-amidst-accelerating-attention-and-experience-economies/","dgPassFrontmatter":true}
+{"created in":"2023-12-03T15:03:17-03:00","last tended to":"2024-09-24T17:18:15-03:00","dg-publish":true,"aliases":["🎎 the role of curation, community & ambient content"],"tags":["essay","🌿"],"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-26T13:50:21.183-03:00","permalink":"/core-essays/networked-living-practical-tools-and-perspectives-for-empowering-collectives-amidst-accelerating-attention-and-experience-economies/","dgPassFrontmatter":true,"dg-note-properties":{"created in":"2023-12-03T15:03:17-03:00","last tended to":"2024-09-24T17:18:15-03:00","aliases":["🎎 the role of curation, community & ambient content"],"tags":["essay","🌿"],"notestage":["🌿"],"created":"2023-12-03T15:03","updated":"2026-07-26T13:50"}}
 ---
 
 ```ad-warning
@@ -27,7 +27,7 @@ my experience of the COVID-19 pandemics was 1 year longer than everyone else. wh
 
 i was going through some intense emotional healing processes, and found that my only way to cope was to read, meditate, research and ritualize. so during that time i had the privilege - and challenge - of spending 95% of 3 years alone, in my room, introspecting, learning about myself and the world (via books and the internet), while rediscovering what moved me.
 
-during that time, i couldn't find many online communities that resonated with what i was experiencing and the themes that were alive to me. so this time in isolation made reflect and research a lot on the themes of [[belonging\|belonging]], the [[internet\|internet]], [[topics/host/community building\|community building]] and [[memetic tribes\|memetic tribes]], especially related to the state and the potential of our [[information ecology\|information ecology]] and [[online communities\|online communities]].
+during that time, i couldn't find many online communities that resonated with what i was experiencing and the themes that were alive to me. so this time in isolation made reflect and research a lot on the themes of [[belonging\|belonging]], the [[internet\|internet]], [[topics/host/community building\|community building]] and [[concepts/design/memetic tribes\|memetic tribes]], especially related to the state and the potential of our [[information ecology\|information ecology]] and [[online communities\|online communities]].
 
 in 2023, my life has been pretty much the opposite. going to ecovillages, farms, marginalized communities, courses, retreats and all sorts of cultural, local community events in são paulo, brazil.
 

@@ -1,5 +1,5 @@
 ---
-{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-22T18:30:02.183-03:00","tags":["highlights","book","metacrisis","decolonization","regen","regenerativeeconomics","climate","🌱","host","alchemy"],"dg-publish":true,"notestage":["🌱"],"permalink":"/009-notes-and-highlights-from-books-videos-articles/post-capitalist-philanthropy/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-22T18:30:02.183-03:00","tags":["highlights","book","metacrisis","decolonization","regen","regenerativeeconomics","climate","🌱","host","alchemy"],"dg-publish":true,"notestage":["🌱"],"permalink":"/009-notes-and-highlights-from-books-videos-articles/post-capitalist-philanthropy/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2025-02-13T10:25","updated":"2026-07-22T18:30","tags":["highlights","book","metacrisis","decolonization","regen","regenerativeeconomics","climate","🌱","host","alchemy"],"notestage":["🌱"]}}
 ---
 
 associated with: [[people/references/host/alnoor ladha\|alnoor ladha]], [[initiatives, orgs & communities/host/transition resource circle\|transition resource circle]], [[initiatives, orgs & communities/regen/ma earth\|ma earth]]

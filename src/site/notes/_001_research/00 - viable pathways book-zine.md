@@ -1,18 +1,18 @@
 ---
-{"created in":"2022-03-25T13:53:56-03:00","last tended to":"2024-10-06T02:11:50-03:00","tags":["🌿"],"aliases":["viable pathways","viable pathways zine","viable pathways book-zine","viable pathways book-zine mvp","book-zine"],"dg-publish":true,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-06-10T18:18:26.704-03:00","relevancescore":98,"readinesslevel":"40%","permalink":"/001-research/00-viable-pathways-book-zine/","dgPassFrontmatter":true}
+{"created in":"2022-03-25T13:53:56-03:00","last tended to":"2024-10-06T02:11:50-03:00","tags":["🌿"],"aliases":["viable pathways","viable pathways zine","viable pathways book-zine","viable pathways book-zine mvp","book-zine"],"dg-publish":true,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-28T15:53:02.538-03:00","relevancescore":98,"readinesslevel":"40%","permalink":"/001-research/00-viable-pathways-book-zine/","dgPassFrontmatter":true,"dg-note-properties":{"created in":"2022-03-25T13:53:56-03:00","last tended to":"2024-10-06T02:11:50-03:00","tags":["🌿"],"aliases":["viable pathways","viable pathways zine","viable pathways book-zine","viable pathways book-zine mvp","book-zine"],"notestage":["🌿"],"created":"2022-03-25T13:53","updated":"2026-07-28T15:53","relevancescore":98,"readinesslevel":"40%"}}
 ---
 
-<!--![viable pathways book-zine cover.png|1000](/img/user/assets/viable%20pathways%20book-zine%20cover.png)-->
+<!--![viable pathways book-zine cover.png\|1000](/img/user/assets/viable%20pathways%20book-zine%20cover.png)-->
 ![](https://i.imgur.com/MzsDZ3I.jpeg)
 
 ---
 #### about
 
-the viable pathways book-zine is a *research-in-development publication* that covers a wide range of topics, exploring different [[concepts/lab/dynamic medium\|media formats]] and [[topics/design/design patterns\|design patterns]] for more nuanced understanding and effective learning. it's an attempt to bring all of the most important contents of this garden into a structured, more gradual and cohesive presentation.
+the viable pathways book-zine is a *research-in-development publication* that covers a wide range of topics, exploring different [[concepts/lab/dynamic medium\|media formats]] and [[topics/design/design patterns\|design patterns]] for more nuanced understanding and effective navigation. it's an attempt to bring all of the most important contents of this garden into a structured, more gradual and cohesive presentation.
 
 fundamentally, it's an inquiry into [[post capitalist systems\|post capitalist systems]] and [[concepts/alchemy/ways of being\|ways of being]]:
 
-> how can we create systems that enable us to conceive [[concepts/alchemy/thriving\|thrivable]] societies, playing, coordinating and collaborating towards more, [[sacred\|sacred]], [[topics/design/regeneration\|regenerative]] and resilient presents & futures?
+> how can we create systems that enable us to conceive [[concepts/alchemy/thriving\|thrivable]] societies, playing, coordinating and collaborating towards more [[sacred\|sacred]], [[topics/design/regeneration\|regenerative]] and resilient presents & futures?
 
 there is a myriad of different perspectives and research on the complex [[human predicament\|human predicament]] we're in, often called the [[anthropocene\|anthropocene]], [[concepts/design/polycrisis\|polycrisis]] and the [[concepts/design/metacrisis\|metacrisis]]. and even where there's some agreement amongst these views, there is often divergence on what to do/how to move beyond it.
 
@@ -24,7 +24,7 @@ the goal of my research was to map, understand and curate multiple cohesive appr
 
 as a single young person trying to do research in this very broad direction, the goal of my sharings here isn't to come up with any comprehensive, ultimate thesis. i draw from my own sense of [[resonance\|resonance]] and from several people who have been asking these questions for their whole lives, with the aim of establishing a basic [[responses/lab/knowledge commons\|knowledge commons]] that can better inform us in designing and enabling new, more [[resilient\|resilient]] and [[regenerative\|regenerative]] [[topics/design/systems\|systems]], [[_003_L1F3/key concepts & ideas/lifestyles\|lifestyles]] and [[concepts/alchemy/ways of being\|ways of being]].
 
-i believe this process of open [[concepts/alchemy/sensemaking\|sensemaking]], [[topics/design/curation\|curation]] and [[patterns/active patterns/learning/learning out loud\|learning out loud]] will be ever-more important to navigate the very complex, polarized and heavily propagandized [[concepts/design/knowledge ecologies\|information ecologies]] we're embedded in, with [[care\|care]], [[love\|love]] and [[terms/community\|community]], as we navigate both personal and societal [[diagnosis/systemic collapse\|collapse]].
+i believe this process of open [[concepts/alchemy/sensemaking\|sensemaking]], [[topics/design/curation\|curation]] and [[patterns/active patterns/learning/learning out loud\|learning out loud]] will be ever-more important to navigate the very complex, polarized and heavily propagandized [[concepts/design/knowledge ecologies\|information ecologies]] we're embedded in with [[care\|care]], [[love\|love]] and [[terms/community\|community]], as we navigate different forms of both personal and societal [[diagnosis/systemic collapse\|collapse]].
 
 i'll present both an [[anthology\|anthology]] and a series of original articles, plus accompanying maps, designs, prototypes and illustrations. they're still early-stage, but if you want to see some of these draft articles, they're available below:
 ##### core essays
@@ -50,15 +50,14 @@ title: note
 collapse: open
 the contents of the writing below are currently haphazard, disjointed and all over the place. please proceed at your own risk. (*or don't.* feel free to come back later when it'll be hopefully updated and improved.)
 ```
-#### the structure of the zine
+### table of contents
 
-the main questions i'm been asking throughout the zine are:
- 
- **1) what is the actual situation we find ourselves in, across many perspectives and dimensions, and what's needed to transform that?**
+the main questions (and chapters) i'm been asking throughout the zine are:
+##### 1) what is the actual situation we find ourselves in, across many perspectives and dimensions, and what's needed to transform that?
 
  first you'll find a curation of resources presenting both wide and deep overviews of the [[human predicament\|human predicament]] and the underlying [[dynamics\|dynamics]] at play.
 
- **2) what existing response approaches exist? what's their theory of change? what are their level of development and context of applicability?**
+##### 2) what existing response approaches exist? what's their theory of change? what are their level of development and context of applicability?
  
  i'll present maps, studies and analyses comparing these approaches. 
  
@@ -66,7 +65,7 @@ most of the content under these investigations will have the #metacrisis  tag.
  
 after getting a lay of the land and navigating through these different perspectives (this might take a while) - as an outcome of this research, we'll dive deep into a couple of my personal key [[_005_MOCs/000 🟣 deep game/015 ✨ heuristics & inquiries MOC\|inquiries]]:
  
- **3) how can we design [[_004_c4ss1us/c4ss.art\|art]], [[_004_c4ss1us/c4ss1us.lab\|technology]] and [[concepts/player/game\|games]] support [[concepts/alchemy/consciousness development\|consciousness development]] and ecosystems [[topics/design/regeneration\|regeneration]]?**
+##### 3) how can we design [[_004_c4ss1us/c4ss.art\|art]], [[_004_c4ss1us/c4ss1us.lab\|technology]] and [[concepts/player/game\|games]] support [[concepts/alchemy/consciousness development\|consciousness development]] and ecosystems [[topics/design/regeneration\|regeneration]]?
  
 *a.k.a. how can we develop systems and structures to support life thriving on earth?*
  
@@ -74,12 +73,12 @@ here we can look at many initiatives that aren't necessarily metacrisis-aware, b
  
 we'll draw inspiration from them for my own [[_005_MOCs/050 🟩 mid game/080 🖌 designs MOC\|designs]], [[_005_MOCs/050 🟩 mid game/070 🔩 prototypes MOC\|prototypes]], etc - across all these 5 domains. 
  
-**4) how can we design life more like a sacred [[concepts/player/game\|game]]?**
+##### 4) how can we design life more like a sacred [[concepts/player/game\|game]]?
  
 *a sacred game is an infinite one.* one that's deeply *[[terms/fun\|fun]], [[terms/collaboration\|collaborative]], [[challenging\|challenging]], [[diagnosis/meaning crisis\|meaningful]]* and *[[fulfilling\|fulfilling]]*.
  a game that honors the beauty and mystery of life, that challenges and supports us to [[human flourishing\|flourish]] - to discover ourselves, unfold our potentials and share our gifts with others.
  
-this comprises most of the "development" part of my work. the [[_003_L1F3/L1F3 support systems\|L1F3 support systems]], and all their [[_002_core/theories of change\|theory of change]] and unfolding [[_005_MOCs/050 🟩 mid game/080 🖌 designs MOC\|designs]], [[_005_MOCs/050 🟩 mid game/070 🔩 prototypes MOC\|prototypes]], etc. relevant pages in this garden will have the #l1f3 or #metagame tags.
+this chapter expands on most of the "original" part of my work. the [[_003_L1F3/L1F3 support systems\|L1F3 support systems]], and all their [[_002_core/theories of change\|theory of change]] and unfolding [[_005_MOCs/050 🟩 mid game/080 🖌 designs MOC\|designs]], [[_005_MOCs/050 🟩 mid game/070 🔩 prototypes MOC\|prototypes]], etc. relevant pages in this garden will have the #l1f3 or #metagame tags.
  
 there's a lot to be said on it and i won't get into detail now, but just for some people who might have read this and have a resistance with the [[concepts/player/game\|game]] frame (probably due to its often seen competitive, game-theoretical win-lose dynamics), i want to say something - i share that same hesitation.
 
@@ -102,15 +101,15 @@ i'll dive a lot more on the motivations, background and philosophical basis of t
 
 for people eager to dive into the contents, a few of the foundational findings (at risk of repeating what many [[concepts/design/metacrisis\|metacrisis]] folks bring up) were:
 
-- [[systems transformation\|systemic change]] requires changes in all: [[concepts/design/superstructure\|superstructure]], [[topics/design/social structure\|social structure]], [[concepts/design/infrastructure\|infrastructure]] and [[physiologic structure\|physiologic structure]] - see: [[models & frameworks/design/holistic cultural materialism\|holistic cultural materialism]].
+- [[systems transformation\|systemic change]] requires changes in all: [[concepts/design/superstructure\|superstructure]], [[topics/design/social structure\|social structure]], [[concepts/design/infrastructure\|infrastructure]] and [[ecostructure\|ecostructure]] - see: [[models & frameworks/design/holistic cultural materialism\|holistic cultural materialism]].
 
-- [[communism\|communism]] & [[socialism\|socialism]] are not viable large-scale economic alternatives, since they still promote [win-lose games](https://civilizationemerging.com/new-economics-series-3/). even though we could bind [[externalities\|externalities]] at local/global levels, exponential rivalry continues, generating [[diagnosis/systemic collapse\|systemic collapse]] in the long term - see: [[diagnosis/generator functions of existential risk\|generator functions of existential risk]].
+- [[communism\|communism]] & [[socialism\|socialism]] as alternatives to capitalistic [win-lose games](https://civilizationemerging.com/new-economics-series-3/) are loaded words which require a lot of discussion. in summary, they could often be adversarial themselves and replicate many of the same self-destructive patterns of late-stage modern capitalism. if we're to discuss serious alternatives in practice, we need to dive deep into [[rivalrous dynamics\|rivalrous dynamics]], power differentials, the [[diagnosis/generator functions of existential risk\|generator functions of existential risk]], the necessity of binding [[externalities\|externalities]] at local/global levels, how to develop and practice [[omni-considerate design\|omni-considerate design]], etc. we'll cover these in depth.
 
 - efforts at different levels of intervention are necessary: reducing immediate systemic harm ([[horizon 1\|horizon 1]]), creating conditions for more desirable short/mid-term futures ([[horizon 2\|horizon 2]]), developing new systems altogether ([[horizon 3\|horizon 3]]) - see: [[models & frameworks/design/three horizons\|three horizons]], [[_002_core/theories of change\|theories of change]] & [[_002_core/design philosophies\|design philosophies]].
 
 there were a plethora of references that informed these perspectives, which i'll dive into in the publication *(see: [[_007_illustrations & sketches/references map.excalidraw\|references map]] - coming soon)*, but the most interesting part (for me) of this research comes after deeply grappling with the context and root causes: when we're mapping/analyzing responses.
 
-one question persisted throughout the research is:
+one question that persisted throughout the research is:
 
 **amidst all of the complexity of ourselves and the world, where should i/we be most focused on?**
 
@@ -124,7 +123,7 @@ a useful synthesis - though still a starting point - which i hope can support es
 > 
 > one big challenge though is that often we don't even know what [[challenges\|challenges]] and [[possibilities\|possibilities]] exist - both [[_003_L1F3/key concepts & ideas/self-transformation\|inside of ourselves]] and [[_003_L1F3/key concepts & ideas/life design\|out there in the world]]! the [[civilizational systems\|predominant systems]] in our societies are not designed for us to have this kind of visibility and collaboration. our local efforts can be very impactful and important, but as long our society has globalized [[concepts/design/existential risk\|risks]] and [[potentials\|potentials]], coordinating across the [[superorganism\|superorganism]] to find our place(s) in the whole must become not only a possibility, but a responsibility - hopefully for increasingly more of us.
 > 
-> it can take several years of trial and error, research and experimentation to find the [[initiatives, orgs & communities/communities MOC\|communities]], [[terms\|terms]], [[perspectives\|perspectives]] that resonate and enrich our [[worldviews\|worldviews]]/[[ways of living\|ways of living]] - and even more time to find ways to make [[concepts/design/sacred economics\|focusing on your part of the puzzle a viable financial possibility]].
+> it can take several years of trial and error, research and experimentation to find the [[initiatives, orgs & communities/communities MOC\|communities]], [[terms\|terms]], [[perspectives\|perspectives]] that resonate and enrich our [[topics/alchemy/worldviews\|worldviews]]/[[ways of living\|ways of living]] - and even more time to find ways to make [[concepts/design/sacred economics\|focusing on your part of the puzzle a viable financial possibility]].
 > 
 > are there ways to make this journey less frustrating, isolating, tiresome and confusing?
 > 

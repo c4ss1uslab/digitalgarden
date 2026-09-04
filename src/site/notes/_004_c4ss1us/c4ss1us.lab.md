@@ -1,5 +1,5 @@
 ---
-{"aliases":["👨🏻‍🔬 c4ss1us.lab",".lab","lab","builder"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-06-08T16:11:45.045-03:00","tags":["c4ss1us","lab","🌿","database"],"notestage":["🌿"],"dg-publish":true,"relevancescore":98,"readinesslevel":"50%","permalink":"/004-c4ss1us/c4ss1us-lab/","dgPassFrontmatter":true}
+{"aliases":["👨🏻‍🔬 c4ss1us.lab",".lab","lab","builder"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-06-08T16:11:45.045-03:00","tags":["c4ss1us","lab","🌿","database"],"notestage":["🌿"],"dg-publish":true,"relevancescore":98,"readinesslevel":"50%","permalink":"/004-c4ss1us/c4ss1us-lab/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["👨🏻‍🔬 c4ss1us.lab",".lab","lab","builder"],"created":"2024-05-22T17:07","updated":"2026-06-08T16:11","tags":["c4ss1us","lab","🌿","database"],"notestage":["🌿"],"relevancescore":98,"readinesslevel":"50%"}}
 ---
 
 **see also:** [c4ss1us.lab mmm.page (visual overview)](https://c4ss1us.mmm.page/lab)

@@ -1,5 +1,5 @@
 ---
-{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-27T18:16:20.872-03:00","dg-publish":true,"tags":["knowledgedesign","research"],"permalink":"/000-digital-garden/cornerstone-pages/","dgPassFrontmatter":true}
+{"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-27T18:16:20.872-03:00","dg-publish":true,"tags":["knowledgedesign","research"],"permalink":"/000-digital-garden/cornerstone-pages/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2025-01-22T14:33","updated":"2026-07-27T18:16","tags":["knowledgedesign","research"]}}
 ---
 
 #### about
@@ -36,8 +36,8 @@ these are the key pages that will give you an introduction to the key topics/ref
 | ---------------------------------------------------------- | -------------- | ---------------- | -------------------- |
 | [[concepts/alchemy/sensemaking\|sensemaking]]           | 98             | concepts/alchemy | <ul><li>🌿</li></ul> |
 | [[diagnosis/intimacy crisis\|intimacy crisis]]          | 98             | diagnosis        | <ul><li>🌱</li></ul> |
-| [[diagnosis/climate crisis\|climate crisis]]            | 97             | diagnosis        | <ul><li>🌱</li></ul> |
 | [[diagnosis/energy crisis\|energy crisis]]              | 97             | diagnosis        | <ul><li>🌱</li></ul> |
+| [[diagnosis/climate crisis\|climate crisis]]            | 97             | diagnosis        | <ul><li>🌱</li></ul> |
 | [[diagnosis/legitimacy crisis\|legitimacy crisis]]      | 97             | diagnosis        | <ul><li>🌱</li></ul> |
 | [[diagnosis/meaning crisis\|meaning crisis]]            | 97             | diagnosis        | <ul><li>🌱</li></ul> |
 | [[diagnosis/sensemaking crisis\|sensemaking crisis]]    | 97             | diagnosis        | <ul><li>🌱</li></ul> |

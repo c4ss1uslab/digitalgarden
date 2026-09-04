@@ -1,5 +1,5 @@
 ---
-{"aliases":["⚙ LMS","⚙ l1f3 management system","⚙ l1f3 manager","life management system","⚙ life management system","L1F3 management system","⚙ L1F3 management system","life management systems"],"created in":"2021-12-11T16:52:05-03:00","last tended to":"2024-10-24T21:59:42-03:00","tags":["project","🌿","l1f3","alchemy","design","lab"],"dg-publish":true,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-26T13:50:21.150-03:00","readinesslevel":"30%","permalink":"/003-l1-f3/l1f3-management-system/","dgPassFrontmatter":true}
+{"aliases":["⚙ LMS","⚙ l1f3 management system","⚙ l1f3 manager","life management system","⚙ life management system","L1F3 management system","⚙ L1F3 management system","life management systems"],"created in":"2021-12-11T16:52:05-03:00","last tended to":"2024-10-24T21:59:42-03:00","tags":["project","🌿","l1f3","alchemy","design","lab"],"dg-publish":true,"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-07-26T13:50:21.150-03:00","readinesslevel":"30%","permalink":"/003-l1-f3/l1f3-management-system/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["⚙ LMS","⚙ l1f3 management system","⚙ l1f3 manager","life management system","⚙ life management system","L1F3 management system","⚙ L1F3 management system","life management systems"],"created in":"2021-12-11T16:52:05-03:00","last tended to":"2024-10-24T21:59:42-03:00","tags":["project","🌿","l1f3","alchemy","design","lab"],"notestage":["🌿"],"created":"2021-12-11T16:52","updated":"2026-07-26T13:50","readinesslevel":"30%"}}
 ---
 
 #### description
@@ -80,7 +80,7 @@ categories of personal systems:
 
 ——> visualize my systems like unit (programmable) / models?
 
-\+ ![KM - capture, organize, synthesize loop.jpg|350](/img/user/images/models%20&%20frameworks/KM%20-%20capture,%20organize,%20synthesize%20loop.jpg)
+\+ ![KM - capture, organize, synthesize loop.jpg\|350](/img/user/images/models%20&%20frameworks/KM%20-%20capture,%20organize,%20synthesize%20loop.jpg)
 
 (...)
 

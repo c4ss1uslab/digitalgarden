@@ -1,5 +1,5 @@
 ---
-{"tags":["concept","design","l1f3","🌱"],"relevancescore":94,"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-05-22T09:52:03.397-03:00","dg-publish":true,"permalink":"/003-l1-f3/key-concepts-and-ideas/life-intelligence/","dgPassFrontmatter":true}
+{"tags":["concept","design","l1f3","🌱"],"relevancescore":94,"notestage":["🌱"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2025-05-22T09:52:03.397-03:00","dg-publish":true,"permalink":"/003-l1-f3/key-concepts-and-ideas/life-intelligence/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["concept","design","l1f3","🌱"],"relevancescore":94,"notestage":["🌱"],"created":"2024-04-18T13:42","updated":"2025-05-22T09:52"}}
 ---
 
 just like businesses need to make analyses, situational assessments and use/develop other tools for better [[concepts/alchemy/sensemaking\|sensemaking]] and [[terms/decision-making\|decision-making]] to remain relevant in their field and achieve their strategic goals, so do we need as individuals if we want to be relevant in our field of play, find resonant [[opportunities\|opportunities]] and have an impact on others.

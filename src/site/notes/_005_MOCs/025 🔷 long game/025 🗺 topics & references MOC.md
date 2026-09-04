@@ -1,5 +1,5 @@
 ---
-{"aliases":["topics","fields","fields of knowledge"],"created in":"2021-12-11T16:52:03-03:00","last tended to":"2024-10-24T21:59:41-03:00","dg-publish":true,"tags":["🌿","selfmanagement","knowledgemanagement"],"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-08-07T23:06:47.895-03:00","permalink":"/005-mo-cs/025-long-game/025-topics-and-references-moc/","dgPassFrontmatter":true}
+{"aliases":["topics","fields","fields of knowledge"],"created in":"2021-12-11T16:52:03-03:00","last tended to":"2024-10-24T21:59:41-03:00","dg-publish":true,"tags":["🌿","selfmanagement","knowledgemanagement"],"notestage":["🌿"],"created":"1969-12-31T21:00:00.000-03:00","updated":"2026-08-07T23:06:47.895-03:00","permalink":"/005-mo-cs/025-long-game/025-topics-and-references-moc/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["topics","fields","fields of knowledge"],"created in":"2021-12-11T16:52:03-03:00","last tended to":"2024-10-24T21:59:41-03:00","tags":["🌿","selfmanagement","knowledgemanagement"],"notestage":["🌿"],"created":"2021-12-11T16:52","updated":"2026-08-07T23:06"}}
 ---
 
 on the contents below, the emojis mean different things. here's their caption:
